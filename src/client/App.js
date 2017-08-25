@@ -74,8 +74,12 @@ class App extends Component {
 
     componentDidMount() {
         return fetch("http://api.citybik.es/v2/networks?fields=location,name")
-        .then()
-    }
+        .then(function(response) {
+            return response.json()
+        }).then(function(responseJ) {
+            console.log(responseJ)
+        })
+    };
     
 
     handleMapMounted(map) {
