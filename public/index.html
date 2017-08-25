@@ -14,8 +14,10 @@
       manifest.json provides metadata used when your web app is added to the
       homescreen on Android. See https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/
     -->
-    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuw39SiC8G8-8RPZhXRSkFSQuDn9PPa_g"></script> -->
-    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    
+    <!-- <script src="https://unpkg.com/axios/dist/axios.min.js"></script> -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuw39SiC8G8-8RPZhXRSkFSQuDn9PPa_g"></script>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
     <title>React App</title>
@@ -23,85 +25,7 @@
   <body>
     <p>1</p>
     <div id="map"></div>
-    <script>
-      /*var testArray = [];
-
-      function loadStreams(streams,channels,testArray,callback){
-        let xmlh = new XMLHttpRequest();
-
-        xmlh.onreadystatechange = function() {
-          if(this.readyState == 4 && this.status == 200) {
-            callback();
-            console.log(JSON.parse(this.responseText));
-            //list.push(JSON.parse(this.responseText));
-
-
-          };
-        }
-
-      xmlh.open("GET",streams+channels, true);
-      xmlh.send();
-
-        xlmh.open("GET", "http://api.citybik.es/v2/networks", true)
-        xlmh.send();
-
-      }*/
-
-
-      //.then(function(response) {
-        //response.data.pipe(fs.createWriteStream('ada_lovelace.jpg'))
-        //var fileJSON = console.log(JSON.stringify(response.data));
-        //google.maps.data.loadGeoJSON(fileJSON)
-
-
-      function initMap() {
-        var map;
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 2,
-          center: new google.maps.LatLng(2.8, -187.3),
-          mapTypeID: 'terrain',
-        })
-
-
-        /*var promise = axios({
-          method:'get',
-          url:'http://api.citybik.es/v2/networks?fields=location,name',
-          responseType:'json'
-        })*/
-
-        axios.get("http://api.citybik.es/v2/networks?fields=location,name")
-        .then(function(response) {
-          console.log(response.data)
-          console.log(response.status)
-        })
-
-        /*.then(function(data){
-          cachedGeoJSON = data;
-          map.data.loadGeoJson('http://api.citybik.es/v2/networks?fields=location,name')
-        })*/
-
-      window.eqfeed_callback = function(results) {
-      for (var i = 0; i < results.networks.length; i++) {
-        console.log(results)
-        //var coords = results.networks[i].location.latitutde.longititude;
-        /*var LatLng = new google.maps.LatLng(lat[1], lng[0]);
-        var marker = new google.maps.Marker({
-          position: latLng,
-          map: map,
-        })*/
-
-      }
-    }
-
-
-    }
-    
-    var bikeLatLng = [];
-
-    
-
-    </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuw39SiC8G8-8RPZhXRSkFSQuDn9PPa_g&callback=initMap"></script>    
-        
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuw39SiC8G8-8RPZhXRSkFSQuDn9PPa_g&callback=initMap"></script> -->
   </body>
 </html>
+
