@@ -41,8 +41,6 @@ const ClickEvent = withGoogleMap(props => (
     </GoogleMap>
   ));
 
-  
-
 class App extends Component { 
     
     constructor(props) {
