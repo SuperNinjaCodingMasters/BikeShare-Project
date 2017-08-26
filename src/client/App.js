@@ -9,37 +9,27 @@ import {
     GoogleMap,
     Marker
 } from 'react-google-maps';
+import * as APIHelpers from "./utils/APIHelpers";
 
-import { 
-    AxiosProvider,
-    Request,
-    Get,
-    Delete,
-    Head,
-    Post,
-    Put,
-    Patch, 
-    withAxios 
-} from 'react-axios'
 
 const googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuw39SiC8G8-8RPZhXRSkFSQuDn9PPa_g"
 
 const INITAL_CENTER = {lat: -25.363882,  lng: 131.044922} ;
 
-const ClickEvent = withGoogleMap(props => (
-    <GoogleMap
-      ref={props.onMapMounted}
-      zoom={props.zoom}
-      center={props.center}
-      onCenterChanged={props.onCenterChanged}
-    >
-      <Marker
-        defaultPosition={props.center}
-        title="Click to zoom"
-        onClick={props.onMarkerClick}
-      />
-    </GoogleMap>
-  ));
+// const markedMap = withGoogleMap(props => (
+//     <GoogleMap
+//       ref={props.App.onMapMounted}
+//       zoom={3}
+//       center={{lat: App.componentDidMount.keyLat, lng: App.componentDidMount.keyLng}}
+//       onCenterChanged={props.App.onCenterChanged}
+//     >
+//       <Marker
+//         defaultPosition={props.center}
+//         title="Click to zoom"
+//         onClick={props.App.onMarkerClick}
+//       />
+//     </GoogleMap>
+//   ));
 
 class App extends Component { 
     
@@ -55,21 +45,7 @@ class App extends Component {
         this.handleMarkerClick = this.handleMarkerClick.bind(this);
     
     }
-    
-
-    /*componentDidMount() {
-        return fetch("http://api.citybik.es/v2/networks?fields=location,name")
-        .then((response) => response.data.networks.forEach(function(keys) {
-            var map = map;
-            var latLng = new window.google.maps.LatLng(keys.location.latitude, keys.location.longitude);
-            console.log(keys.location.latitude)
-            var marker = new window.google.maps.Marker({
-              position: latLng,
-              map: map
-            });         
-          }))
-    }*/
-
+   
     componentDidMount() {
         return fetch("http://api.citybik.es/v2/networks?fields=location,name")
         .then()
@@ -112,7 +88,7 @@ class App extends Component {
     render() { 
         return (
             <div>
-                <ClickEvent
+                <markedMap
                 containerElement={
                     <div style={{ height: `100%`}} />
                 }
@@ -132,4 +108,3 @@ class App extends Component {
 }
 
 export default App;
-
