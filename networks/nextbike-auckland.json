@@ -1,0 +1,56 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-auckland", 
+    "id": "nextbike-auckland", 
+    "location": {
+      "city": "Auckland", 
+      "country": "NZ", 
+      "latitude": -36.8603, 
+      "longitude": 174.763
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "64058", 
+            "64079", 
+            "64103", 
+            "64101"
+          ], 
+          "number": "7776", 
+          "slots": 4, 
+          "uid": "213693"
+        }, 
+        "free_bikes": 4, 
+        "id": "d65e5d3ab8a83d23425081efc9269315", 
+        "latitude": -36.790247175081, 
+        "longitude": 174.66085910797, 
+        "name": "1 Hastings cr", 
+        "timestamp": "2017-08-15T04:49:12.156000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "64001", 
+            "64056"
+          ], 
+          "number": "7778", 
+          "slots": 4, 
+          "uid": "288795"
+        }, 
+        "free_bikes": 2, 
+        "id": "82bb56011596de84fa8becac20fcca92", 
+        "latitude": -36.788636156372, 
+        "longitude": 174.67168450356, 
+        "name": "The landing", 
+        "timestamp": "2017-08-15T04:49:12.186000Z"
+      }
+    ]
+  }
+}

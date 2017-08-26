@@ -1,0 +1,80 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/karbis-seferihisar", 
+    "id": "karbis-seferihisar", 
+    "location": {
+      "city": "Seferihisar", 
+      "country": "TR", 
+      "latitude": 38.1962, 
+      "longitude": 26.8386
+    }, 
+    "name": "KARBIS", 
+    "stations": [
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bike_uids": [
+            "65638"
+          ], 
+          "number": "6560", 
+          "slots": 15, 
+          "uid": "193291"
+        }, 
+        "free_bikes": 1, 
+        "id": "7668c257ee2975de46293d296ae4c293", 
+        "latitude": 38.454961353345, 
+        "longitude": 27.119506895542, 
+        "name": "Gen\u00e7lik Merkezi", 
+        "timestamp": "2017-08-15T04:50:38.182000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "number": "6561", 
+          "slots": 12, 
+          "uid": "193293"
+        }, 
+        "free_bikes": 0, 
+        "id": "83a5375d7f5e43a9b591727d21e1e59c", 
+        "latitude": 38.458939459071, 
+        "longitude": 27.126445770264, 
+        "name": "Dere \u0130stasyonu", 
+        "timestamp": "2017-08-15T04:50:38.184000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "65602"
+          ], 
+          "number": "6563", 
+          "slots": 12, 
+          "uid": "193299"
+        }, 
+        "free_bikes": 1, 
+        "id": "c861d184822ae6f8a55dacca59b08db4", 
+        "latitude": 38.454918294506, 
+        "longitude": 27.096025496721, 
+        "name": "Bengiler", 
+        "timestamp": "2017-08-15T04:50:38.185000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "number": "6565", 
+          "slots": 12, 
+          "uid": "193304"
+        }, 
+        "free_bikes": 0, 
+        "id": "09d40446262b3122e69f4013876c4183", 
+        "latitude": 38.467759191412, 
+        "longitude": 27.075856626034, 
+        "name": "Do\u011fanbey", 
+        "timestamp": "2017-08-15T04:50:38.186000Z"
+      }
+    ]
+  }
+}

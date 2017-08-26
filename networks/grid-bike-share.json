@@ -1,0 +1,1604 @@
+{
+  "network": {
+    "company": [
+      "CycleHop, LLC", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "https://grid.socialbicycles.com/opendata/gbfs.json", 
+    "href": "/v2/networks/grid-bike-share", 
+    "id": "grid-bike-share", 
+    "location": {
+      "city": "Phoenix, AZ", 
+      "country": "US", 
+      "latitude": 33.4591031356657, 
+      "longitude": -112.074010667085
+    }, 
+    "name": "Grid Bike Share", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2-16 East Colter Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2391"
+        }, 
+        "free_bikes": 10, 
+        "id": "03712bfd188583696010813718ea01e1", 
+        "latitude": 33.513013229883526, 
+        "longitude": -112.07352474331856, 
+        "name": "Colter St / Central Ave", 
+        "timestamp": "2017-08-15T04:48:29.439000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "401-499 North 3rd Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_660"
+        }, 
+        "free_bikes": 11, 
+        "id": "75ac3e83be2a9a3b6b74046a3ca24606", 
+        "latitude": 33.4532050591684, 
+        "longitude": -112.06964492797852, 
+        "name": "P124 3rd St / Taylor St", 
+        "timestamp": "2017-08-15T04:48:29.477000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "519 East Gilbert Drive, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2460"
+        }, 
+        "free_bikes": 7, 
+        "id": "e8ea2c46e05597b2b23d1c3b0ced3e8d", 
+        "latitude": 33.43451224057961, 
+        "longitude": -111.93222744898776, 
+        "name": "T29 Tempe Town Lake Marina", 
+        "timestamp": "2017-08-15T04:48:29.451000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "230 East University Drive, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2525"
+        }, 
+        "free_bikes": 6, 
+        "id": "a729c7bc4d432d61c6ea42c2a20e197a", 
+        "latitude": 33.422364314106034, 
+        "longitude": -111.93513812126184, 
+        "name": "T 14 College Ave / University Dr", 
+        "timestamp": "2017-08-15T04:48:29.445000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "51-155 West 3rd Street, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2574"
+        }, 
+        "free_bikes": 5, 
+        "id": "e3dc78681e43549bbbcb2524946e007a", 
+        "latitude": 33.42732867042952, 
+        "longitude": -111.94139562022883, 
+        "name": "T02 3rd St / Mill Ave", 
+        "timestamp": "2017-08-15T04:48:29.486000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "880 South Packard Drive, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2576"
+        }, 
+        "free_bikes": 12, 
+        "id": "50fc36f93c6ebc54adc6b7243819bc21", 
+        "latitude": 33.43045257515534, 
+        "longitude": -111.93014860153198, 
+        "name": "T18 Neil Giuliano Park", 
+        "timestamp": "2017-08-15T04:48:29.484000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "2150 East Orange Street, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2577"
+        }, 
+        "free_bikes": 6, 
+        "id": "75e9903b720ddf5f3c9109d0bef681cf", 
+        "latitude": 33.41889468123962, 
+        "longitude": -111.8938784301281, 
+        "name": "T23 Escalante Center ", 
+        "timestamp": "2017-08-15T04:48:29.485000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1306 East Apache Boulevard, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2472"
+        }, 
+        "free_bikes": 5, 
+        "id": "58a27e288ce4e29eede3ac257386de6f", 
+        "latitude": 33.41492913588432, 
+        "longitude": -111.9170755147934, 
+        "name": "T04 Apache Blvd / Dorsey Ln", 
+        "timestamp": "2017-08-15T04:48:29.465000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1012-1298 East 8th Street, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2609"
+        }, 
+        "free_bikes": 7, 
+        "id": "6711b5a1d00765fc50416561e1c34f07", 
+        "latitude": 33.41952481703626, 
+        "longitude": -111.91803775727749, 
+        "name": "T15 8th St / Dorsey Ln", 
+        "timestamp": "2017-08-15T04:48:29.474000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1111-1153 South McAllister Avenue, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2602"
+        }, 
+        "free_bikes": 15, 
+        "id": "23bc4687d354c0221944e6753997798b", 
+        "latitude": 33.4163212001576, 
+        "longitude": -111.92917361855507, 
+        "name": "T26 McAllister Ave / Lemon St.", 
+        "timestamp": "2017-08-15T04:48:29.453000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1648-1674 West Jefferson Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3228"
+        }, 
+        "free_bikes": 7, 
+        "id": "c570a5983692409ebe2a875d8dce60d2", 
+        "latitude": 33.4471370173741, 
+        "longitude": -112.09516882896423, 
+        "name": "P107 17th Ave. and Jefferson St. ", 
+        "timestamp": "2017-08-15T04:48:29.438000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1000 North Dobson Road, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2221"
+        }, 
+        "free_bikes": 6, 
+        "id": "5fe7e33cb0eb35e970d52ed5fef346aa", 
+        "latitude": 33.432310552310994, 
+        "longitude": -111.87387049189965, 
+        "name": "M116 Dobson Rd / Mesa Riverview Dr (Mesa Riverview Park)", 
+        "timestamp": "2017-08-15T04:48:29.429000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "2-32 West University Drive, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2575"
+        }, 
+        "free_bikes": 15, 
+        "id": "347197070f54fd11743f9b92b7b07375", 
+        "latitude": 33.42208249257315, 
+        "longitude": -111.94050349486133, 
+        "name": "T11 University Dr / Mill Ave", 
+        "timestamp": "2017-08-15T04:48:29.487000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "East Rio Salado Parkway, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2459"
+        }, 
+        "free_bikes": 8, 
+        "id": "e1ec743fb3c7d5e32445a9e8c477fbd5", 
+        "latitude": 33.43032659232381, 
+        "longitude": -111.9373208284378, 
+        "name": "T28 Rio Salado Pkwy / Mill Ave", 
+        "timestamp": "2017-08-15T04:48:29.410000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "552-582 East University Drive, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2597"
+        }, 
+        "free_bikes": 13, 
+        "id": "107cabd584ac93bdb16f6d113f6a08d7", 
+        "latitude": 33.42244365607394, 
+        "longitude": -111.93109542131423, 
+        "name": "T25 University Dr. / ASU Student Housing", 
+        "timestamp": "2017-08-15T04:48:29.495000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1502 West Washington Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3227"
+        }, 
+        "free_bikes": 4, 
+        "id": "213a97958a0e81bf960e47d235cb85d4", 
+        "latitude": 33.44824420125639, 
+        "longitude": -112.09185361862183, 
+        "name": "P179 15th Ave. and Washington", 
+        "timestamp": "2017-08-15T04:48:29.436000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "100-112 North 2nd Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_361"
+        }, 
+        "free_bikes": 5, 
+        "id": "dcb0d6219956ea2556bbc5c27e837bea", 
+        "latitude": 33.44937179181341, 
+        "longitude": -112.07134008407593, 
+        "name": "P115 Adams St / 2nd St", 
+        "timestamp": "2017-08-15T04:48:29.416000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "3400-3498 North 5th Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_665"
+        }, 
+        "free_bikes": 6, 
+        "id": "3013f5963fdd2fd03d2149fbf53a11b2", 
+        "latitude": 33.48779106632222, 
+        "longitude": -112.06732213497162, 
+        "name": "P145 5th St / Osborn Rd", 
+        "timestamp": "2017-08-15T04:48:29.479000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "802 West Rio Salado Parkway, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2456"
+        }, 
+        "free_bikes": 7, 
+        "id": "16fabfba486f05d9b36de84a454e7e5d", 
+        "latitude": 33.432379205471875, 
+        "longitude": -111.94936998186449, 
+        "name": "T20 Tempe Center for the Arts", 
+        "timestamp": "2017-08-15T04:48:29.447000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "705 West 5th Street, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2457"
+        }, 
+        "free_bikes": 10, 
+        "id": "3773b8b5382c51078c46ff144a9abad4", 
+        "latitude": 33.425392239083365, 
+        "longitude": -111.948612104934, 
+        "name": "T24 Westside Center", 
+        "timestamp": "2017-08-15T04:48:29.489000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "872-902 South Rural Road, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2469"
+        }, 
+        "free_bikes": 5, 
+        "id": "83491cecaf42d5d2430f6324ab0b0795", 
+        "latitude": 33.4206764104985, 
+        "longitude": -111.92644703172164, 
+        "name": "T03 Rural Rd / University Dr", 
+        "timestamp": "2017-08-15T04:48:29.448000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1961 East Apache Boulevard, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2529"
+        }, 
+        "free_bikes": 7, 
+        "id": "386eecf02fcf9109910cbf6893b907aa", 
+        "latitude": 33.41455650608482, 
+        "longitude": -111.9009581208229, 
+        "name": "T07 Smith-Martin / Apache Blvd ", 
+        "timestamp": "2017-08-15T04:48:29.443000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "300-332 East Apache Boulevard, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2549"
+        }, 
+        "free_bikes": 12, 
+        "id": "a6cd6bdae55f2ece73a39b5cc8d94dbd", 
+        "latitude": 33.41483481692997, 
+        "longitude": -111.93446903682343, 
+        "name": "T13 College Ave / Apache Blvd", 
+        "timestamp": "2017-08-15T04:48:29.469000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "5502-5540 South Mill Avenue, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2554"
+        }, 
+        "free_bikes": 10, 
+        "id": "e01f5f182f2d058a99c07b38a8137d8e", 
+        "latitude": 33.37155749338521, 
+        "longitude": -111.93598508834839, 
+        "name": "T19 Kiwanis Park", 
+        "timestamp": "2017-08-15T04:48:29.454000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "218 East Marigold Lane, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2555"
+        }, 
+        "free_bikes": 7, 
+        "id": "303edde4805798a232c90f04f2970989", 
+        "latitude": 33.44893274538279, 
+        "longitude": -111.93688978644786, 
+        "name": "T30 Evelyn Hallman Park", 
+        "timestamp": "2017-08-15T04:48:29.455000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "West Washington Street, priest, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2573"
+        }, 
+        "free_bikes": 6, 
+        "id": "0d985cfd2b567116f790a1a7e31d5ad7", 
+        "latitude": 33.43769807354799, 
+        "longitude": -111.94571402233578, 
+        "name": "T09 Washington St / Center Parkway", 
+        "timestamp": "2017-08-15T04:48:29.483000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1180-1258 South McAllister Avenue, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2603"
+        }, 
+        "free_bikes": 15, 
+        "id": "3d7598154dedc37f53cfe9b7475ea60e", 
+        "latitude": 33.41534682014875, 
+        "longitude": -111.93084329366684, 
+        "name": "T27 McAllister Ave / Apache Blvd", 
+        "timestamp": "2017-08-15T04:48:29.481000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "3374-3460 South Rural Road, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2604"
+        }, 
+        "free_bikes": 10, 
+        "id": "a115d3ad3020bf7f6e22a372084871e8", 
+        "latitude": 33.391817264245745, 
+        "longitude": -111.92657724022865, 
+        "name": "T12 Rural Rd / Southern Ave", 
+        "timestamp": "2017-08-15T04:48:29.478000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "98 East 6th Street, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2607"
+        }, 
+        "free_bikes": 11, 
+        "id": "9b4075807b4596e94d63dd44d7df1839", 
+        "latitude": 33.42437901340835, 
+        "longitude": -111.93887731478753, 
+        "name": "T31 6th St / Mill Ave", 
+        "timestamp": "2017-08-15T04:48:29.480000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1805 East Apache Boulevard, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2528"
+        }, 
+        "free_bikes": 6, 
+        "id": "7b5badcde1dfda29cb32e7f6de77bd90", 
+        "latitude": 33.414463453489006, 
+        "longitude": -111.90838515758513, 
+        "name": "T05 McClintock Rd / Apache Blvd", 
+        "timestamp": "2017-08-15T04:48:29.444000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2235 East Apache Boulevard, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2610"
+        }, 
+        "free_bikes": 8, 
+        "id": "8764b6c7d3cf8ec6f3af4b1998848eed", 
+        "latitude": 33.41449731607196, 
+        "longitude": -111.8889445066452, 
+        "name": "T08 Apache Blvd / Price Rd", 
+        "timestamp": "2017-08-15T04:48:29.453000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Tempe Marketplace Trail, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2608"
+        }, 
+        "free_bikes": 5, 
+        "id": "53cd1ad8308030198ca38c03fae94036", 
+        "latitude": 33.432960723613526, 
+        "longitude": -111.90900608897209, 
+        "name": "T06 McClintock Dr / Rio Salado Pkwy", 
+        "timestamp": "2017-08-15T04:48:29.468000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1624 North 5th Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_314"
+        }, 
+        "free_bikes": 7, 
+        "id": "50509d9349fa506befb2fe97b59ca1dc", 
+        "latitude": 33.46607755799975, 
+        "longitude": -112.08040863275528, 
+        "name": "P133 5th Ave / McDowell Rd", 
+        "timestamp": "2017-08-15T04:48:29.433000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "310 South 4th Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1267"
+        }, 
+        "free_bikes": 4, 
+        "id": "943e82b182ac7e37bb201d37d81b5982", 
+        "latitude": 33.44502304049054, 
+        "longitude": -112.06869810819626, 
+        "name": "P172 4th Street / Jackson St ", 
+        "timestamp": "2017-08-15T04:48:29.463000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "217 West Sherman Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1269"
+        }, 
+        "free_bikes": 9, 
+        "id": "d442d37ff6ef724e22dad67d3ca21925", 
+        "latitude": 33.440114802246114, 
+        "longitude": -112.07705587148666, 
+        "name": "P159 Sherman St / 3rd Ave.", 
+        "timestamp": "2017-08-15T04:48:29.467000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "East Grant Street, Central City, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1271"
+        }, 
+        "free_bikes": 5, 
+        "id": "a397e7e6ce14fe9e8ac9bcc1099323e0", 
+        "latitude": 33.44116451289266, 
+        "longitude": -112.0700103789568, 
+        "name": "P119 Grant St / 3rd St. ", 
+        "timestamp": "2017-08-15T04:48:29.449000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1815-1999 North 12th Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1272"
+        }, 
+        "free_bikes": 14, 
+        "id": "56adf0ea7720d017fee3cb5e2394dbde", 
+        "latitude": 33.46829702060367, 
+        "longitude": -112.05613061785698, 
+        "name": "P136 12th St / Palm Ln (Coronado Park) ", 
+        "timestamp": "2017-08-15T04:48:29.449000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "301-365 North 9th Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1273"
+        }, 
+        "free_bikes": 8, 
+        "id": "07a67f4f4e097e3e5b85fd2bf6ab0809", 
+        "latitude": 33.451540071496126, 
+        "longitude": -112.06202208995819, 
+        "name": "P175 9th St. / Van Buren St", 
+        "timestamp": "2017-08-15T04:48:29.450000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1302 South Central Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1324"
+        }, 
+        "free_bikes": 7, 
+        "id": "9700cb0fdabd7f71cc0671dfac542731", 
+        "latitude": 33.435036173048445, 
+        "longitude": -112.07393378019333, 
+        "name": "P169 Yuma St / Central Ave", 
+        "timestamp": "2017-08-15T04:48:29.493000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1245b East Buckeye Road, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1325"
+        }, 
+        "free_bikes": 8, 
+        "id": "7086e38658eea922919267eab0827059", 
+        "latitude": 33.4366723791616, 
+        "longitude": -112.05517172813416, 
+        "name": "P176 Buckeye Rd / 13th St", 
+        "timestamp": "2017-08-15T04:48:29.494000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "155-199 East Washington Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1326"
+        }, 
+        "free_bikes": 1, 
+        "id": "2ebc2515c80b58c4fe79af507834b585", 
+        "latitude": 33.44821559693446, 
+        "longitude": -112.07149028778076, 
+        "name": "P174 Washington St / 2nd St", 
+        "timestamp": "2017-08-15T04:48:29.491000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "200-252 East McKinley Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1327"
+        }, 
+        "free_bikes": 9, 
+        "id": "488f03151b058ce77d567cbf89c0d298", 
+        "latitude": 33.45664123189162, 
+        "longitude": -112.07086533308029, 
+        "name": "P128 McKinley St / 2nd St.", 
+        "timestamp": "2017-08-15T04:48:29.492000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1657-1763 North Central Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1328"
+        }, 
+        "free_bikes": 5, 
+        "id": "ba402392fffdaea52a19f2c4846572d4", 
+        "latitude": 33.46715702116823, 
+        "longitude": -112.07364410161972, 
+        "name": "P134 Central Ave / McDowell Rd (Phoenix Art Museum)", 
+        "timestamp": "2017-08-15T04:48:29.446000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "533 West Camelback Road, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1329"
+        }, 
+        "free_bikes": 9, 
+        "id": "4dbd1efcfc3dca0c0f204790a6d6bf51", 
+        "latitude": 33.509073234038624, 
+        "longitude": -112.08179533481598, 
+        "name": "P173 Camelback Rd / 7th Ave", 
+        "timestamp": "2017-08-15T04:48:29.490000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "30-52 East Main Street, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1339"
+        }, 
+        "free_bikes": 10, 
+        "id": "9af51314d2782f263bd8c439514b75bc", 
+        "latitude": 33.41529966501612, 
+        "longitude": -111.83061316609383, 
+        "name": "M100 Main St / Center St (Mesa City Plaza)", 
+        "timestamp": "2017-08-15T04:48:29.411000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "13-21 East University Drive, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1340"
+        }, 
+        "free_bikes": 6, 
+        "id": "4e46cd71f8bd0d59fc8a84d0b66d16cc", 
+        "latitude": 33.422192786316494, 
+        "longitude": -111.83091759681702, 
+        "name": "M101 University Dr / Center St (Mesa Amphitheater)", 
+        "timestamp": "2017-08-15T04:48:29.424000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Mesa Public Library, 64, East 1st Street, Mesa, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1341"
+        }, 
+        "free_bikes": 8, 
+        "id": "ff248f84a4122f932b74e8cbc943a90d", 
+        "latitude": 33.41804780025659, 
+        "longitude": -111.82887375354767, 
+        "name": "M103 Centennial Way / 1st St (Library)", 
+        "timestamp": "2017-08-15T04:48:29.425000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "82-98 North Macdonald, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1342"
+        }, 
+        "free_bikes": 7, 
+        "id": "f15c785e1a5b6318390efd48e077051f", 
+        "latitude": 33.416974862499515, 
+        "longitude": -111.83419927954674, 
+        "name": "M104 Macdonald / 1st St  (Museum of Natural History)", 
+        "timestamp": "2017-08-15T04:48:29.425000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "102-104 North Robson, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1343"
+        }, 
+        "free_bikes": 5, 
+        "id": "a15180cba208daf69e497c056f6c4c22", 
+        "latitude": 33.41670004949639, 
+        "longitude": -111.83686941862106, 
+        "name": "M105 Robson / 1st St (i.d.e.a. Museum)", 
+        "timestamp": "2017-08-15T04:48:29.426000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1 North Morris, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1344"
+        }, 
+        "free_bikes": 5, 
+        "id": "78cb359da0788215fb6529c8bfaed310", 
+        "latitude": 33.41529630678153, 
+        "longitude": -111.83923780918121, 
+        "name": "M106 Main St / Country Club Dr", 
+        "timestamp": "2017-08-15T04:48:29.420000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1833 West Main Street, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1345"
+        }, 
+        "free_bikes": 8, 
+        "id": "96c4e999adc7a41dd2b7fa11c2c52b9d", 
+        "latitude": 33.414664391271124, 
+        "longitude": -111.87087379395962, 
+        "name": "M107 Main St / Sycamore", 
+        "timestamp": "2017-08-15T04:48:29.421000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "420-428 East Main Street, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1346"
+        }, 
+        "free_bikes": 12, 
+        "id": "4ab29fdb7f502bace9fdfa1c338b668a", 
+        "latitude": 33.41534556129599, 
+        "longitude": -111.82196170091629, 
+        "name": "M108 Main St / Mesa Dr", 
+        "timestamp": "2017-08-15T04:48:29.422000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "723 East Main Street, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1347"
+        }, 
+        "free_bikes": 1, 
+        "id": "f55e13fa3be273c6139c97fcdb01ff96", 
+        "latitude": 33.414929135817815, 
+        "longitude": -111.81513547897339, 
+        "name": "M109 Main St / Horne", 
+        "timestamp": "2017-08-15T04:48:29.423000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "625 East Broadway Road, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1349"
+        }, 
+        "free_bikes": 0, 
+        "id": "2676a1343dbf9066bb20778d921ab35e", 
+        "latitude": 33.40774324418292, 
+        "longitude": -111.81768625974655, 
+        "name": "M111 Broadway / Olive", 
+        "timestamp": "2017-08-15T04:48:29.427000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "377-399 East 6th Street, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1350"
+        }, 
+        "free_bikes": 5, 
+        "id": "ab05a571b19451de5d5133f51b786dfe", 
+        "latitude": 33.425910008939695, 
+        "longitude": -111.82296752929686, 
+        "name": "M112 6th St / Mesa Dr", 
+        "timestamp": "2017-08-15T04:48:29.472000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Central Station NB Lane Stop 2, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1441"
+        }, 
+        "free_bikes": 7, 
+        "id": "bcaef477b7d69bc3240862f791a20a81", 
+        "latitude": 33.451737007029394, 
+        "longitude": -112.07477733492851, 
+        "name": "P110 Van Buren St & 1st Ave ", 
+        "timestamp": "2017-08-15T04:48:29.430000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1202 West Encanto Boulevard, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1782"
+        }, 
+        "free_bikes": 9, 
+        "id": "9eb453aa5d4305d8913174345a2bb191", 
+        "latitude": 33.47364665940653, 
+        "longitude": -112.0882473886013, 
+        "name": "P118 Encanto Park (Enchanted Island)", 
+        "timestamp": "2017-08-15T04:48:29.465000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "222 East Indianola Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2023"
+        }, 
+        "free_bikes": 3, 
+        "id": "564fcc8353795ef0fd187ecbee370a61", 
+        "latitude": 33.49235924808893, 
+        "longitude": -112.07065880282244, 
+        "name": "P177 Indianola Ave / 3rd Street", 
+        "timestamp": "2017-08-15T04:48:29.488000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1000-1034 North Central Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_290"
+        }, 
+        "free_bikes": 16, 
+        "id": "653f373dcbab60c88dfd3557facf5fef", 
+        "latitude": 33.4591031356657, 
+        "longitude": -112.074010667085, 
+        "name": "P127 Central Ave / Roosevelt St", 
+        "timestamp": "2017-08-15T04:48:29.470000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "1401 North Central Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_297"
+        }, 
+        "free_bikes": 9, 
+        "id": "567004b9d63f86f35710d79bdb30c02e", 
+        "latitude": 33.4638486462657, 
+        "longitude": -112.073689688038, 
+        "name": "P131 Central Ave / Willetta St (Library)", 
+        "timestamp": "2017-08-15T04:48:29.473000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1010-1098 East Washington Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_299"
+        }, 
+        "free_bikes": 7, 
+        "id": "814c02006aa1d3d4ce9393369480a0b5", 
+        "latitude": 33.4482349606463, 
+        "longitude": -112.059274069241, 
+        "name": "P113 11th St. / Washington St", 
+        "timestamp": "2017-08-15T04:48:29.470000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "702, North 1st Street, Encanto, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_302"
+        }, 
+        "free_bikes": 9, 
+        "id": "6d886ba3adadb65715f3f80ba60081a5", 
+        "latitude": 33.4555259184901, 
+        "longitude": -112.072627733184, 
+        "name": "P125 Pierce St / 1st Street", 
+        "timestamp": "2017-08-15T04:48:29.442000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "567-599 East Monroe Street, Arizona State University Downtown Phoenix, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_305"
+        }, 
+        "free_bikes": 7, 
+        "id": "bccbc42037d855d46ef243ea5196771f", 
+        "latitude": 33.4503360695349, 
+        "longitude": -112.06649601459503, 
+        "name": "P116 6th St. / Monroe St (Sponsored by SRP)", 
+        "timestamp": "2017-08-15T04:48:29.441000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "604, North 5th Avenue, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_309"
+        }, 
+        "free_bikes": 11, 
+        "id": "9be3ff8f22f184a0781c655b409bfbe6", 
+        "latitude": 33.454811805242, 
+        "longitude": -112.08021107366, 
+        "name": "P123 5th Ave / Fillmore St", 
+        "timestamp": "2017-08-15T04:48:29.439000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Light Rail, North Central Avenue, Encanto, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_316"
+        }, 
+        "free_bikes": 5, 
+        "id": "42dd1d8ec5aa0b6318ef5598c9009acf", 
+        "latitude": 33.4863116895857, 
+        "longitude": -112.073781944336, 
+        "name": "P144 Central Ave / Lexington Ave", 
+        "timestamp": "2017-08-15T04:48:29.432000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2334 North Central Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_321"
+        }, 
+        "free_bikes": 4, 
+        "id": "901440f4daab43ac6319ecbac2cada7f", 
+        "latitude": 33.474214157849, 
+        "longitude": -112.074066048658, 
+        "name": "P139 Central Ave / Vernon Ave", 
+        "timestamp": "2017-08-15T04:48:29.461000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "4130, North 7th Avenue, Encanto, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_322"
+        }, 
+        "free_bikes": 2, 
+        "id": "f46a84ba614d9c9aba02706e5b7825b3", 
+        "latitude": 33.49833774425573, 
+        "longitude": -112.08357095718384, 
+        "name": "P147 7th Ave / Glenrosa Ave", 
+        "timestamp": "2017-08-15T04:48:29.457000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "11 West Glenrosa Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_323"
+        }, 
+        "free_bikes": 7, 
+        "id": "f193ecdd21dfcfc39f691e353345c3a9", 
+        "latitude": 33.4980131383229, 
+        "longitude": -112.073801245027, 
+        "name": "P148 Central Ave / Glenrosa Ave (Sponsored by SRP)", 
+        "timestamp": "2017-08-15T04:48:29.458000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Light Rail, West Camelback Road, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_325"
+        }, 
+        "free_bikes": 19, 
+        "id": "ebb4ed2cfc9d563f8f15f9861a3ebccf", 
+        "latitude": 33.5086025352445, 
+        "longitude": -112.075066378634, 
+        "name": "P150 Central Ave / Camelback Rd (Sponsored by SRP)", 
+        "timestamp": "2017-08-15T04:48:29.456000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Grand Avenue, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_329"
+        }, 
+        "free_bikes": 4, 
+        "id": "61d587f09d4e385396ab06cbc7090f90", 
+        "latitude": 33.456967738827, 
+        "longitude": -112.089269123464, 
+        "name": "P122 Grand Ave / McKinley St", 
+        "timestamp": "2017-08-15T04:48:29.462000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "401 West Clarendon Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_330"
+        }, 
+        "free_bikes": 7, 
+        "id": "1b27c9694a312df3459564538ba022b7", 
+        "latitude": 33.4914509272301, 
+        "longitude": -112.079007760543, 
+        "name": "P146 4th Ave / Clarendon Ave", 
+        "timestamp": "2017-08-15T04:48:29.452000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "East Grant Street, Central City, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_358"
+        }, 
+        "free_bikes": 8, 
+        "id": "07aa8e1d89b85fdf5e0fba51043ba0ed", 
+        "latitude": 33.44093397975, 
+        "longitude": -112.066667675974, 
+        "name": "P101 5th St / Grant St", 
+        "timestamp": "2017-08-15T04:48:29.471000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "200 East Jackson Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_359"
+        }, 
+        "free_bikes": 6, 
+        "id": "89cd68040357367519e7f9fb22605aba", 
+        "latitude": 33.4451804740693, 
+        "longitude": -112.071206914651, 
+        "name": "P104 Jackson St / 2nd St (Sponsored by SRP)", 
+        "timestamp": "2017-08-15T04:48:29.456000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Orpheum Theatre, 203, West Adams Street, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_360"
+        }, 
+        "free_bikes": 6, 
+        "id": "a702bd5692851de367b7b948ef6696d2", 
+        "latitude": 33.4493486960483, 
+        "longitude": -112.07670064254, 
+        "name": "P114 Adams St / 2nd Ave (City Hall)", 
+        "timestamp": "2017-08-15T04:48:29.487000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1200 East Oak Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_363"
+        }, 
+        "free_bikes": 7, 
+        "id": "9bfffb60c52fe8e90b3172d6c2c3fb9e", 
+        "latitude": 33.4730304810094, 
+        "longitude": -112.056342282703, 
+        "name": "P137 12th St / Oak St", 
+        "timestamp": "2017-08-15T04:48:29.414000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "4412, North Central Avenue, Encanto, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_364"
+        }, 
+        "free_bikes": 3, 
+        "id": "80a8e77e11d0ff463c25a24317f99c62", 
+        "latitude": 33.5016735723, 
+        "longitude": -112.074024910907, 
+        "name": "P149 Central Ave / Campbell Ave", 
+        "timestamp": "2017-08-15T04:48:29.418000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3 East Thomas Road, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_365"
+        }, 
+        "free_bikes": 6, 
+        "id": "b4a727c596bab892789d6e3c955aad52", 
+        "latitude": 33.4800250653744, 
+        "longitude": -112.073863778945, 
+        "name": "P154 Central Ave / Thomas Rd", 
+        "timestamp": "2017-08-15T04:48:29.419000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "East Sheridan Street, Encanto, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_367"
+        }, 
+        "free_bikes": 7, 
+        "id": "ccfd57f453bbdacff8a335974083d103", 
+        "latitude": 33.4748338674807, 
+        "longitude": -112.064066269354, 
+        "name": "P140 8th St / Sheridan St", 
+        "timestamp": "2017-08-15T04:48:29.417000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "South Central Avenue, South Mountain, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_377"
+        }, 
+        "free_bikes": 4, 
+        "id": "173d2a90be755441d03b15e08fdaf207", 
+        "latitude": 33.4186012452694, 
+        "longitude": -112.07296969009, 
+        "name": "P151 3131 S. Central Ave (Audubon Center)", 
+        "timestamp": "2017-08-15T04:48:29.408000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "West Holly Street, Encanto, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_492"
+        }, 
+        "free_bikes": 5, 
+        "id": "196e50ef987ec19650802a8fd2a1ee27", 
+        "latitude": 33.4714711951801, 
+        "longitude": -112.090162135878, 
+        "name": "P138 Encanto Park", 
+        "timestamp": "2017-08-15T04:48:29.435000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "3000-3048 North 11th Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_595"
+        }, 
+        "free_bikes": 7, 
+        "id": "ca3c266b8f2edd0a617d2626768774eb", 
+        "latitude": 33.483115669750546, 
+        "longitude": -112.08823800086975, 
+        "name": "P141 Phoenix College", 
+        "timestamp": "2017-08-15T04:48:29.474000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Suite 1400, South 1st Street, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_620"
+        }, 
+        "free_bikes": 4, 
+        "id": "73a535604a1fd81e210b797aa4b56c99", 
+        "latitude": 33.4435864339528, 
+        "longitude": -112.072499955984, 
+        "name": "P102 1st St / Buchanan ", 
+        "timestamp": "2017-08-15T04:48:29.431000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "College of Medicine Administration, 550, East Van Buren Street, Central City, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_621"
+        }, 
+        "free_bikes": 6, 
+        "id": "e551f00bfcdd21fd2357ca41a4dae611", 
+        "latitude": 33.4515775957345, 
+        "longitude": -112.06747626846, 
+        "name": "P121 5th St / Van Buren St (Sponsored by APS)", 
+        "timestamp": "2017-08-15T04:48:29.430000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1001 North 10th Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_628"
+        }, 
+        "free_bikes": 5, 
+        "id": "d3831f612cd0217c8e0966041b38625b", 
+        "latitude": 33.4588190671665, 
+        "longitude": -112.060802366799, 
+        "name": "P132 10th St / Roosevelt St", 
+        "timestamp": "2017-08-15T04:48:29.435000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "METRO Light Rail, East Washington Street (Frontage Road), Central City, Phoenix, Arizona", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_629"
+        }, 
+        "free_bikes": 1, 
+        "id": "c1b890c63cf0a734dca62f21afc42b5d", 
+        "latitude": 33.4535346952061, 
+        "longitude": -112.074026997431, 
+        "name": "P120 Central Ave / Taylor St (Sponsored by SRP)", 
+        "timestamp": "2017-08-15T04:48:29.434000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1000-1022 North 5th Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_632"
+        }, 
+        "free_bikes": 7, 
+        "id": "68036c679d4bb416241ba5b391b7414f", 
+        "latitude": 33.4588718742282, 
+        "longitude": -112.067498385913, 
+        "name": "P129 5th St / Roosevelt St", 
+        "timestamp": "2017-08-15T04:48:29.440000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "809 North 7th Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_655"
+        }, 
+        "free_bikes": 0, 
+        "id": "deb09562cebdde49d1c7d00a324464d9", 
+        "latitude": 33.4572458992005, 
+        "longitude": -112.065033976668, 
+        "name": "7th St. / Garfield St (hosted by Mother Bunch Brewery)", 
+        "timestamp": "2017-08-15T04:48:29.413000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "32 North 3rd Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_658"
+        }, 
+        "free_bikes": 5, 
+        "id": "cbd70de9bd46949f297f5d332a93f951", 
+        "latitude": 33.448582067540656, 
+        "longitude": -112.07004994153976, 
+        "name": "P112 3rd St / Washington St (Convention Center)", 
+        "timestamp": "2017-08-15T04:48:29.415000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "114 West Adams Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_661"
+        }, 
+        "free_bikes": 3, 
+        "id": "1020cad752ba93192b47f054e2261671", 
+        "latitude": 33.44955726345848, 
+        "longitude": -112.07536339759827, 
+        "name": "P109 Adams St / 1st Ave", 
+        "timestamp": "2017-08-15T04:48:29.476000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2 East Jefferson Street, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_663"
+        }, 
+        "free_bikes": 8, 
+        "id": "66e198c430281056829799daf8fb8a0a", 
+        "latitude": 33.44788773031642, 
+        "longitude": -112.07254707813263, 
+        "name": "P106: 1st St / Washington St (Sponsored by SRP)", 
+        "timestamp": "2017-08-15T04:48:29.475000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "848 North 5th Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2325"
+        }, 
+        "free_bikes": 6, 
+        "id": "ce9511579a675c959184e01c7bbee502", 
+        "latitude": 33.45841576988952, 
+        "longitude": -112.08024099469185, 
+        "name": "P161 5th Ave / Roosevelt St", 
+        "timestamp": "2017-08-15T04:48:29.445000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "9 Sheffield Avenue, Mesa", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2220"
+        }, 
+        "free_bikes": 5, 
+        "id": "4b3663bcfaccee5163d594f69d0123b1", 
+        "latitude": 33.43028182321948, 
+        "longitude": -111.88048481941222, 
+        "name": "M115 Sloan Park", 
+        "timestamp": "2017-08-15T04:48:29.428000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1000-1098 Phoenix-Wickenburg Highway, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_666"
+        }, 
+        "free_bikes": 8, 
+        "id": "752f87eeda59a838aa157b0345d09cbb", 
+        "latitude": 33.4546981241866, 
+        "longitude": -112.086362621544, 
+        "name": "P117 Grand Ave / 10th Ave", 
+        "timestamp": "2017-08-15T04:48:29.478000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "2-98 West Rio Salado Parkway, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2458"
+        }, 
+        "free_bikes": 13, 
+        "id": "6628d10945695a8a19a0ede32f949bc4", 
+        "latitude": 33.429719724093275, 
+        "longitude": -111.94060184061527, 
+        "name": "T17 Tempe Beach Park", 
+        "timestamp": "2017-08-15T04:48:29.412000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1520 West Baseline Road, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2605"
+        }, 
+        "free_bikes": 5, 
+        "id": "df002b527adfa25353ad90b1d55c947e", 
+        "latitude": 33.37847697298566, 
+        "longitude": -111.96371778845787, 
+        "name": "T22 Baseline Rd / Priest Dr", 
+        "timestamp": "2017-08-15T04:48:29.483000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "200 East 5th Street, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2478"
+        }, 
+        "free_bikes": 17, 
+        "id": "5b3dca990a6cacb05b1fa21b6200b4f9", 
+        "latitude": 33.425728684716745, 
+        "longitude": -111.93608164787291, 
+        "name": "T01 5th St / Forest Ave", 
+        "timestamp": "2017-08-15T04:48:29.464000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "977 East Apache Boulevard, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2470"
+        }, 
+        "free_bikes": 4, 
+        "id": "0ae4a376bf2bcd073c1cbe7673d9e5ea", 
+        "latitude": 33.41463136810211, 
+        "longitude": -111.92499339580536, 
+        "name": "T16 Apache Blvd / Rural Rd", 
+        "timestamp": "2017-08-15T04:48:29.466000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1571-1697 North Priest Drive, Tempe", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2606"
+        }, 
+        "free_bikes": 5, 
+        "id": "8d471dd8f237c8df64f337a5b5d5cac7", 
+        "latitude": 33.442125942936016, 
+        "longitude": -111.9568258523941, 
+        "name": "T10 Washington St / Priest Dr", 
+        "timestamp": "2017-08-15T04:48:29.482000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1-99 North 12th Avenue, Phoenix", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3229"
+        }, 
+        "free_bikes": 6, 
+        "id": "4b29d05d8d4aa76aa61153daa0621052", 
+        "latitude": 33.448376242655826, 
+        "longitude": -112.08806097507477, 
+        "name": "P108 12th Ave. and Washington", 
+        "timestamp": "2017-08-15T04:48:29.437000Z"
+      }
+    ]
+  }
+}

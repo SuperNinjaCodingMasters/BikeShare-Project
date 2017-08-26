@@ -1,0 +1,356 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-offenburg", 
+    "id": "nextbike-offenburg", 
+    "location": {
+      "city": "Offenburg", 
+      "country": "DE", 
+      "latitude": 48.4721, 
+      "longitude": 7.94243
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "31723", 
+            "31722", 
+            "31728"
+          ], 
+          "number": "4917", 
+          "slots": 3, 
+          "uid": "376545"
+        }, 
+        "free_bikes": 3, 
+        "id": "7ca346e4345e00dc34952bf0f794f0fe", 
+        "latitude": 48.464313886678, 
+        "longitude": 7.9320216178894, 
+        "name": "E-Bike-Station Messe", 
+        "timestamp": "2017-08-15T04:49:14.828000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "31704", 
+            "31701", 
+            "31696", 
+            "31657", 
+            "31672"
+          ], 
+          "number": "4902", 
+          "slots": 10, 
+          "uid": "52513"
+        }, 
+        "free_bikes": 5, 
+        "id": "f2e6e425ae44b2592b1c5da7d7e1e30b", 
+        "latitude": 48.475197361824, 
+        "longitude": 7.9472780227661, 
+        "name": "Bahnhof / Osteingang", 
+        "timestamp": "2017-08-15T04:49:14.787000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "31697", 
+            "31641", 
+            "31664"
+          ], 
+          "number": "4906", 
+          "slots": 10, 
+          "uid": "52517"
+        }, 
+        "free_bikes": 3, 
+        "id": "dbc8e956989502198b4bf7e39d24afae", 
+        "latitude": 48.465252945167, 
+        "longitude": 7.939338684082, 
+        "name": "Landratsamt / Medienpark", 
+        "timestamp": "2017-08-15T04:49:14.790000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "31725"
+          ], 
+          "number": "4903", 
+          "slots": 5, 
+          "uid": "52514"
+        }, 
+        "free_bikes": 1, 
+        "id": "070f41f948ac950655bf3af95ca9222b", 
+        "latitude": 48.472124617097, 
+        "longitude": 7.9438233375549, 
+        "name": "Gustav-R\u00e9e-Anlage", 
+        "timestamp": "2017-08-15T04:49:14.788000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "31714", 
+            "31653", 
+            "31669", 
+            "31680", 
+            "31675"
+          ], 
+          "number": "4915", 
+          "slots": 6, 
+          "uid": "183657"
+        }, 
+        "free_bikes": 5, 
+        "id": "81c46b2ced3c08989e2cafdc7f8ae69e", 
+        "latitude": 48.469565, 
+        "longitude": 7.965473, 
+        "name": "St. Josefsklinik", 
+        "timestamp": "2017-08-15T04:49:14.822000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "31730", 
+            "31649", 
+            "31646"
+          ], 
+          "number": "4907", 
+          "slots": 4, 
+          "uid": "52518"
+        }, 
+        "free_bikes": 3, 
+        "id": "675346b8f413ecd8b15b7dbe1f93bb2b", 
+        "latitude": 48.470519, 
+        "longitude": 7.94867, 
+        "name": "B\u00fcrgerB\u00fcroBauen / Technisches Rathaus", 
+        "timestamp": "2017-08-15T04:49:14.792000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "31688", 
+            "31654", 
+            "31643"
+          ], 
+          "number": "4911", 
+          "slots": 5, 
+          "uid": "52522"
+        }, 
+        "free_bikes": 3, 
+        "id": "60c03eca7c44e278d9b8383270e571c9", 
+        "latitude": 48.481509, 
+        "longitude": 7.957641, 
+        "name": "EDEKA / Sparkasse", 
+        "timestamp": "2017-08-15T04:49:14.806000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "31719", 
+            "31715", 
+            "31710", 
+            "31709", 
+            "31702"
+          ], 
+          "number": "4901", 
+          "slots": 27, 
+          "uid": "52511"
+        }, 
+        "free_bikes": 5, 
+        "id": "76ebfcac984c21a417d8e783fab9db04", 
+        "latitude": 48.475481865812, 
+        "longitude": 7.9452180862427, 
+        "name": "Bahnhof / ZOB", 
+        "timestamp": "2017-08-15T04:49:14.767000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "31727", 
+            "31685", 
+            "31676"
+          ], 
+          "number": "4908", 
+          "slots": 4, 
+          "uid": "52519"
+        }, 
+        "free_bikes": 3, 
+        "id": "d118d8daf51a13fa1d8064983cf09e98", 
+        "latitude": 48.468938, 
+        "longitude": 7.955748, 
+        "name": "Kulturforum", 
+        "timestamp": "2017-08-15T04:49:14.799000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "31717", 
+            "31713"
+          ], 
+          "number": "4909", 
+          "slots": 4, 
+          "uid": "52520"
+        }, 
+        "free_bikes": 2, 
+        "id": "2c042a3471b747b18320011c7135ea81", 
+        "latitude": 48.473490304394, 
+        "longitude": 7.9501104354858, 
+        "name": "Schillerplatz", 
+        "timestamp": "2017-08-15T04:49:14.801000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "31656"
+          ], 
+          "number": "4910", 
+          "slots": 5, 
+          "uid": "52521"
+        }, 
+        "free_bikes": 1, 
+        "id": "7979e10edea225307432950b309c7a1c", 
+        "latitude": 48.476875912291, 
+        "longitude": 7.954638004303, 
+        "name": "Ortenau Klinikum", 
+        "timestamp": "2017-08-15T04:49:14.802000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "31720", 
+            "31645", 
+            "31673"
+          ], 
+          "number": "4913", 
+          "slots": 5, 
+          "uid": "52525"
+        }, 
+        "free_bikes": 3, 
+        "id": "e823ed73ebc9b0234b871955b679b19e", 
+        "latitude": 48.479676, 
+        "longitude": 7.941014, 
+        "name": "Zentrum Nordweststadt", 
+        "timestamp": "2017-08-15T04:49:14.814000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "bike_uids": [
+            "31691", 
+            "31671", 
+            "31665"
+          ], 
+          "number": "4904", 
+          "slots": 20, 
+          "uid": "52515"
+        }, 
+        "free_bikes": 3, 
+        "id": "93e7d19b7a34fdc81f78784ecdd4a8ab", 
+        "latitude": 48.468639102696, 
+        "longitude": 7.9426860809326, 
+        "name": "Stadtbuckel", 
+        "timestamp": "2017-08-15T04:49:14.789000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "31712", 
+            "31651"
+          ], 
+          "number": "4905", 
+          "slots": 5, 
+          "uid": "52516"
+        }, 
+        "free_bikes": 2, 
+        "id": "276cbd1da3d01d01f915a0b525542402", 
+        "latitude": 48.471274, 
+        "longitude": 7.940743, 
+        "name": "City-Parkhaus", 
+        "timestamp": "2017-08-15T04:49:14.790000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "31693", 
+            "31648"
+          ], 
+          "number": "4916", 
+          "slots": 6, 
+          "uid": "336452"
+        }, 
+        "free_bikes": 2, 
+        "id": "c4786813549fc001abcbec5db3cb798c", 
+        "latitude": 48.479372297763, 
+        "longitude": 7.9532217979431, 
+        "name": "Oststadt-Schulen", 
+        "timestamp": "2017-08-15T04:49:14.824000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "31640", 
+            "31670"
+          ], 
+          "number": "4914", 
+          "slots": 6, 
+          "uid": "183656"
+        }, 
+        "free_bikes": 2, 
+        "id": "74a2c791f5dc37e122dc40fc737420b2", 
+        "latitude": 48.472672319022, 
+        "longitude": 7.9249513149262, 
+        "name": "E-Center", 
+        "timestamp": "2017-08-15T04:49:14.820000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "31655", 
+            "31644"
+          ], 
+          "number": "4912", 
+          "slots": 10, 
+          "uid": "52523"
+        }, 
+        "free_bikes": 2, 
+        "id": "6dedd31a59012b6ef4a953e464384386", 
+        "latitude": 48.464883015109, 
+        "longitude": 7.9323971271515, 
+        "name": "Oberrheinhalle", 
+        "timestamp": "2017-08-15T04:49:14.808000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "31711", 
+            "31703", 
+            "31726"
+          ], 
+          "number": "4918", 
+          "uid": "1886894"
+        }, 
+        "free_bikes": 3, 
+        "id": "945521c0dcc2f0ed4fb5796cf3cf15b7", 
+        "latitude": 48.464644693355, 
+        "longitude": 7.9321020841599, 
+        "name": "Messe", 
+        "timestamp": "2017-08-15T04:49:14.831000Z"
+      }
+    ]
+  }
+}

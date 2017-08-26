@@ -1,0 +1,518 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/santander-cycles-mk-milton-keynes", 
+    "id": "santander-cycles-mk-milton-keynes", 
+    "location": {
+      "city": "Milton Keynes", 
+      "country": "GB", 
+      "latitude": 52.0406, 
+      "longitude": -0.759417
+    }, 
+    "name": "Santander Cycles MK", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "number": "8801", 
+          "slots": 5, 
+          "uid": "606633"
+        }, 
+        "free_bikes": 0, 
+        "id": "6fab110bb45b00407f1899b8b5028ad3", 
+        "latitude": 52.04897, 
+        "longitude": -0.78672, 
+        "name": "Bradwell - Loughton Road", 
+        "timestamp": "2017-08-15T04:51:35.002000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "number": "8807", 
+          "slots": 16, 
+          "uid": "606673"
+        }, 
+        "free_bikes": 0, 
+        "id": "2860676732265618c2798ddee44db653", 
+        "latitude": 52.00707, 
+        "longitude": -0.7008, 
+        "name": "Caldecotte Lake - Monellan Grove", 
+        "timestamp": "2017-08-15T04:51:35.018000Z"
+      }, 
+      {
+        "empty_slots": 34, 
+        "extra": {
+          "bike_uids": [
+            "84400"
+          ], 
+          "number": "8809", 
+          "slots": 36, 
+          "uid": "606676"
+        }, 
+        "free_bikes": 1, 
+        "id": "e184620a72402b9230b069963b76e962", 
+        "latitude": 52.04073, 
+        "longitude": -0.75858, 
+        "name": "Central Milton Keynes  - Intu", 
+        "timestamp": "2017-08-15T04:51:35.020000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "84526"
+          ], 
+          "number": "8820", 
+          "slots": 10, 
+          "uid": "606707"
+        }, 
+        "free_bikes": 1, 
+        "id": "b98d81685d082663b46b71e9de08c33d", 
+        "latitude": 52.03458, 
+        "longitude": -0.68989, 
+        "name": "Kingston - Library", 
+        "timestamp": "2017-08-15T04:51:35.028000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "84200", 
+            "84135", 
+            "84455", 
+            "84434"
+          ], 
+          "number": "8821", 
+          "slots": 8, 
+          "uid": "606708"
+        }, 
+        "free_bikes": 4, 
+        "id": "4ad31bf67b5d28dd4fae307fd9b0ff10", 
+        "latitude": 52.02827, 
+        "longitude": -0.78506, 
+        "name": "Loughton - Paynes Drive Local Centre", 
+        "timestamp": "2017-08-15T04:51:35.029000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "number": "8824", 
+          "slots": 5, 
+          "uid": "606714"
+        }, 
+        "free_bikes": 0, 
+        "id": "134eeda2170ec888423f0c41c6432ad7", 
+        "latitude": 52.03407, 
+        "longitude": -0.71053, 
+        "name": "Monkston park - Plaistow Cres", 
+        "timestamp": "2017-08-15T04:51:35.030000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "number": "8830", 
+          "slots": 20, 
+          "uid": "606924"
+        }, 
+        "free_bikes": 0, 
+        "id": "f535ce5505f0bc623742237c26b16a22", 
+        "latitude": 52.01766, 
+        "longitude": -0.78982, 
+        "name": "Shenley Wood - Santander", 
+        "timestamp": "2017-08-15T04:51:35.040000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "number": "8837", 
+          "slots": 22, 
+          "uid": "724351"
+        }, 
+        "free_bikes": 0, 
+        "id": "c72cddf472553b6371f7bb81810694e7", 
+        "latitude": 52.04881, 
+        "longitude": -0.72222, 
+        "name": "Willen Lake - Leisure Centre", 
+        "timestamp": "2017-08-15T04:51:35.042000Z"
+      }, 
+      {
+        "empty_slots": 50, 
+        "extra": {
+          "bike_uids": [
+            "84073", 
+            "84061", 
+            "84029", 
+            "84339"
+          ], 
+          "number": "8813", 
+          "slots": 56, 
+          "uid": "746642"
+        }, 
+        "free_bikes": 4, 
+        "id": "d9febb55a214219b1bc30a47081c0c52", 
+        "latitude": 52.03477, 
+        "longitude": -0.77283, 
+        "name": "Central Milton Keynes - Train Station", 
+        "timestamp": "2017-08-15T04:51:35.043000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "84429", 
+            "84366"
+          ], 
+          "number": "8812", 
+          "slots": 14, 
+          "uid": "798537"
+        }, 
+        "free_bikes": 2, 
+        "id": "51428240c13c584503996496dec368a2", 
+        "latitude": 52.04105, 
+        "longitude": -0.75002, 
+        "name": "Central Milton Keynes - Xscape", 
+        "timestamp": "2017-08-15T04:51:35.045000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "84438"
+          ], 
+          "number": "8848", 
+          "slots": 12, 
+          "uid": "2528316"
+        }, 
+        "free_bikes": 1, 
+        "id": "7a33e56d1abf2eabfaa4822a22ef3056", 
+        "latitude": 52.03799, 
+        "longitude": -0.8017, 
+        "name": "Two Mile Ash - The High Street", 
+        "timestamp": "2017-08-15T04:51:35.048000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "84217", 
+            "84506", 
+            "84368"
+          ], 
+          "number": "8851", 
+          "slots": 8, 
+          "uid": "2528327"
+        }, 
+        "free_bikes": 3, 
+        "id": "0b10beb9155df7e97ac3c2a93fd95718", 
+        "latitude": 52.01402, 
+        "longitude": -0.78252, 
+        "name": "Shenley Brook End - Egerton Gate", 
+        "timestamp": "2017-08-15T04:51:35.051000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "8847", 
+          "slots": 8, 
+          "uid": "2528330"
+        }, 
+        "free_bikes": 0, 
+        "id": "f1bd35732c0b46f0296f210dfa90d8ab", 
+        "latitude": 51.994117, 
+        "longitude": -0.791709, 
+        "name": "Tattenhoe - Giles Brook School", 
+        "timestamp": "2017-08-15T04:51:35.052000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "84003"
+          ], 
+          "number": "8845", 
+          "slots": 5, 
+          "uid": "2528332"
+        }, 
+        "free_bikes": 1, 
+        "id": "47c7fb3e9ed5f41da11d95a62583346b", 
+        "latitude": 52.06832, 
+        "longitude": -0.77734, 
+        "name": "Oakridge - Selkirk Drive", 
+        "timestamp": "2017-08-15T04:51:35.055000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "84185", 
+            "84324"
+          ], 
+          "number": "8846", 
+          "slots": 10, 
+          "uid": "2528336"
+        }, 
+        "free_bikes": 2, 
+        "id": "5bed01f4dc3b04dbc43760c9d5ad033c", 
+        "latitude": 52.02408, 
+        "longitude": -0.70896, 
+        "name": "Open University - St Michaels Drive", 
+        "timestamp": "2017-08-15T04:51:35.057000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "8850", 
+          "slots": 8, 
+          "uid": "3098591"
+        }, 
+        "free_bikes": 0, 
+        "id": "383bb1280f4f62236ff3dc793d585027", 
+        "latitude": 52.0369228, 
+        "longitude": -0.7679129, 
+        "name": "Transport Systems Catapult", 
+        "timestamp": "2017-08-15T04:51:35.068000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "84321"
+          ], 
+          "number": "8838", 
+          "slots": 8, 
+          "uid": "798608"
+        }, 
+        "free_bikes": 1, 
+        "id": "8121c7f88f8bc252e8095dfa06ef2577", 
+        "latitude": 52.04311, 
+        "longitude": -0.71383, 
+        "name": "Middleton - Noon Layer Dr", 
+        "timestamp": "2017-08-15T04:51:35.046000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "84253", 
+            "84161", 
+            "84442"
+          ], 
+          "number": "8829", 
+          "slots": 6, 
+          "uid": "606922"
+        }, 
+        "free_bikes": 3, 
+        "id": "9e5eba64e89a5fe88a373d98676ac23c", 
+        "latitude": 52.01754, 
+        "longitude": -0.77613, 
+        "name": "Shenley lodge - Murrey Cl ", 
+        "timestamp": "2017-08-15T04:51:35.039000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "84489", 
+            "84424", 
+            "84373", 
+            "84363"
+          ], 
+          "number": "8810", 
+          "slots": 10, 
+          "uid": "606678"
+        }, 
+        "free_bikes": 4, 
+        "id": "016e33afd7a22127275a9ee7b7004919", 
+        "latitude": 52.04426, 
+        "longitude": -0.75015, 
+        "name": "Central Milton Keynes - Milton Keynes Theatre", 
+        "timestamp": "2017-08-15T04:51:35.022000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "bike_uids": [
+            "84235", 
+            "84397"
+          ], 
+          "number": "8811", 
+          "slots": 30, 
+          "uid": "606914"
+        }, 
+        "free_bikes": 2, 
+        "id": "5124a950cc731e60ec6a2ff2a29d1cbb", 
+        "latitude": 52.03705, 
+        "longitude": -0.77058, 
+        "name": "Central Milton Keynes - Santander", 
+        "timestamp": "2017-08-15T04:51:35.038000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "number": "8808", 
+          "slots": 22, 
+          "uid": "606675"
+        }, 
+        "free_bikes": 0, 
+        "id": "ceb99f3e865ab69dfc6f840bd3bfe8a5", 
+        "latitude": 52.03848, 
+        "longitude": -0.76367, 
+        "name": "Central Milton Keynes - Rillaton Walk", 
+        "timestamp": "2017-08-15T04:51:35.019000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "84437"
+          ], 
+          "number": "8849", 
+          "slots": 6, 
+          "uid": "2528323"
+        }, 
+        "free_bikes": 1, 
+        "id": "df9710a193d764a36926cb5d9e632a0c", 
+        "latitude": 52.00177, 
+        "longitude": -0.77894, 
+        "name": "Emerson Valley -Winfold Lane", 
+        "timestamp": "2017-08-15T04:51:35.049000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "8832", 
+          "slots": 8, 
+          "uid": "606926"
+        }, 
+        "free_bikes": 0, 
+        "id": "d63b2e86ce44b09dfa300cd6ff33fb93", 
+        "latitude": 52.00799, 
+        "longitude": -0.69182, 
+        "name": "Tilbrook - Bradbourne Dr", 
+        "timestamp": "2017-08-15T04:51:35.041000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "8836", 
+          "slots": 7, 
+          "uid": "606739"
+        }, 
+        "free_bikes": 0, 
+        "id": "a441ddf12272615d5ac81a2a67457e4c", 
+        "latitude": 52.06274, 
+        "longitude": -0.73188, 
+        "name": "Willen - Beaufort Drive", 
+        "timestamp": "2017-08-15T04:51:35.036000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "number": "8843", 
+          "slots": 20, 
+          "uid": "2528334"
+        }, 
+        "free_bikes": 0, 
+        "id": "0b85db077e263dada0c668384cd85fcc", 
+        "latitude": 52.05032, 
+        "longitude": -0.77913, 
+        "name": "Heelands - Glovers Lane ", 
+        "timestamp": "2017-08-15T04:51:35.056000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "84228", 
+            "84498", 
+            "84369"
+          ], 
+          "number": "8818", 
+          "slots": 8, 
+          "uid": "606703"
+        }, 
+        "free_bikes": 3, 
+        "id": "a5726add677c0fafd2b6dce22bfcda98", 
+        "latitude": 52.03365, 
+        "longitude": -0.79402, 
+        "name": "Great Holm - Highgrove Hill", 
+        "timestamp": "2017-08-15T04:51:35.023000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "number": "8839", 
+          "slots": 3, 
+          "uid": "606738"
+        }, 
+        "free_bikes": 0, 
+        "id": "89d9bd5e673357244ad2f9dd72617841", 
+        "latitude": 52.04523, 
+        "longitude": -0.72739, 
+        "name": "Woolstone - Mill Lane", 
+        "timestamp": "2017-08-15T04:51:35.030000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "8806", 
+          "slots": 10, 
+          "uid": "606671"
+        }, 
+        "free_bikes": 0, 
+        "id": "402e978d0521bbd84bd8c6b41234682f", 
+        "latitude": 52.0107, 
+        "longitude": -0.70799, 
+        "name": "Caldecotte - Lakeside Grove", 
+        "timestamp": "2017-08-15T04:51:35.017000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "number": "8803", 
+          "slots": 20, 
+          "uid": "606637"
+        }, 
+        "free_bikes": 0, 
+        "id": "a4c253d6f8e2d271ee5379c764543b62", 
+        "latitude": 52.04783, 
+        "longitude": -0.69905, 
+        "name": "Broughton - Oakworth Ave", 
+        "timestamp": "2017-08-15T04:51:35.013000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "number": "8834", 
+          "slots": 4, 
+          "uid": "606745"
+        }, 
+        "free_bikes": 0, 
+        "id": "fd48f8cb4300974c7c924d1603a6f223", 
+        "latitude": 52.01529, 
+        "longitude": -0.69534, 
+        "name": "Walnut Tree - Lichfield Down South", 
+        "timestamp": "2017-08-15T04:51:35.037000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "84271"
+          ], 
+          "number": "8819", 
+          "slots": 5, 
+          "uid": "606916"
+        }, 
+        "free_bikes": 1, 
+        "id": "887012cf646fbaf0da971733915517a9", 
+        "latitude": 52.0257, 
+        "longitude": -0.69608, 
+        "name": "Kents Hill - Frithwood Cres", 
+        "timestamp": "2017-08-15T04:51:35.039000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "network": {
+    "company": [
+      "Cyclopolis Systems"
+    ], 
+    "href": "/v2/networks/cyclopolis-nafplio", 
+    "id": "cyclopolis-nafplio", 
+    "location": {
+      "city": "Maroussi", 
+      "country": "GR", 
+      "latitude": 37.5639397319, 
+      "longitude": 22.8093402872
+    }, 
+    "name": "Cyclopolis", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 32
+        }, 
+        "free_bikes": 0, 
+        "id": "4f725755ffe0b353d02292ead9cf063d", 
+        "latitude": 37.5639397319061, 
+        "longitude": 22.8093402871746, 
+        "name": "ETHNOSINELFSIS SQUARE", 
+        "timestamp": "2017-08-15T04:50:38.559000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 5, 
+        "id": "41fe19fa5856bd3079d4c56c149c27ed", 
+        "latitude": 37.5659401108525, 
+        "longitude": 22.8002870986979, 
+        "name": "NAFPLIO TOWNHALL", 
+        "timestamp": "2017-08-15T04:50:38.568000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "slots": 18
+        }, 
+        "free_bikes": 8, 
+        "id": "2a737ce079f0a58d50aa2c4613586070", 
+        "latitude": 37.5659490875253, 
+        "longitude": 22.802579132542, 
+        "name": "KOLOKOTRONIS PARK", 
+        "timestamp": "2017-08-15T04:50:38.569000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 20
+        }, 
+        "free_bikes": 11, 
+        "id": "f6418d5675b6eaeb849bff6e95a50334", 
+        "latitude": 37.5716158802718, 
+        "longitude": 22.8070427042279, 
+        "name": "ARGOUS", 
+        "timestamp": "2017-08-15T04:50:38.570000Z"
+      }
+    ]
+  }
+}

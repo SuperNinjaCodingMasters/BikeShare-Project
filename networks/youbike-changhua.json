@@ -1,0 +1,1039 @@
+{
+  "network": {
+    "company": [
+      "Taipei City Government", 
+      "Giant Manufacturing Co. Ltd."
+    ], 
+    "href": "/v2/networks/youbike-changhua", 
+    "id": "youbike-changhua", 
+    "location": {
+      "city": "\u5f70\u5316 Changhua County", 
+      "country": "TW", 
+      "latitude": 24.0517963, 
+      "longitude": 120.5161352
+    }, 
+    "name": "YouBike", 
+    "stations": [
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "\u65ed\u5149\u8def235\u865f\u524d", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "34", 
+          "uid": 7022
+        }, 
+        "free_bikes": 11, 
+        "id": "ec3814d03739b4e797927541a7816830", 
+        "latitude": 24.071353, 
+        "longitude": 120.545484, 
+        "name": "\u5f70\u5316\u57fa\u7763\u6559\u91ab\u9662", 
+        "timestamp": "2017-08-15T04:49:36.927000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "address": "\u5927\u540c\u8def\u4e00\u6bb5\u8207\u4e09\u6c11\u6771\u8857\u4ea4\u53c9\u8655", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "48", 
+          "uid": 7045
+        }, 
+        "free_bikes": 12, 
+        "id": "e701d6add2e999e7479968cb068df233", 
+        "latitude": 23.960225, 
+        "longitude": 120.580144, 
+        "name": "\u54e1\u6797\u570b\u5c0f", 
+        "timestamp": "2017-08-15T04:49:36.834000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "\u6d6e\u5733\u8def\u4e8c\u6bb5/\u5927\u4ec1\u5357\u8857\u53e3", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "44", 
+          "uid": 7044
+        }, 
+        "free_bikes": 16, 
+        "id": "852d3512e660e980387ff03501615502", 
+        "latitude": 23.965078, 
+        "longitude": 120.575809, 
+        "name": "\u6cf0\u5c71\u505c\u8eca\u5834", 
+        "timestamp": "2017-08-15T04:49:36.848000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def-\u4e8c\u6bb5\u8207\u6cd5\u9662\u5357\u8857\u4ea4\u53c9\u8def\u53e3(\u6cd5\u9662\u570d\u7246\u65c1)", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "48", 
+          "uid": 7047
+        }, 
+        "free_bikes": 21, 
+        "id": "e7d3546de584fb63ec27346bff1802f5", 
+        "latitude": 23.965865, 
+        "longitude": 120.571708, 
+        "name": "\u5f70\u5316\u5730\u65b9\u6cd5\u9662", 
+        "timestamp": "2017-08-15T04:49:36.851000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "\u5149\u660e\u885731\u865f(\u9762\u5c0d\u80b2\u82f1\u570b\u5c0f\u6821\u9580\u53e3\u5de6\u5074)", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "60", 
+          "uid": 7046
+        }, 
+        "free_bikes": 40, 
+        "id": "e79c832b05ec5948f94a181bff39abba", 
+        "latitude": 23.95292, 
+        "longitude": 120.574393, 
+        "name": "\u80b2\u82f1\u570b\u5c0f", 
+        "timestamp": "2017-08-15T04:49:36.852000Z"
+      }, 
+      {
+        "empty_slots": 37, 
+        "extra": {
+          "address": "\u6c11\u751f\u8def130\u865f\u5c0d\u9762", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "52", 
+          "uid": 7041
+        }, 
+        "free_bikes": 15, 
+        "id": "eee8a726f9ba9f9b34919229305cf008", 
+        "latitude": 23.95645, 
+        "longitude": 120.573036, 
+        "name": "\u7b2c\u4e00\u5e02\u5834", 
+        "timestamp": "2017-08-15T04:49:36.853000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "\u6797\u68ee\u8def\u8abf\u89e3\u59d4\u54e1\u6703\u5c0d\u9762", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "50", 
+          "uid": 7040
+        }, 
+        "free_bikes": 26, 
+        "id": "57402a005021b82d38efbae000e28637", 
+        "latitude": 23.95782, 
+        "longitude": 120.577655, 
+        "name": "\u54e1\u6797\u90f5\u5c40", 
+        "timestamp": "2017-08-15T04:49:36.854000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "\u60e0\u660e\u885718\u5df7\u516c\u5712\u8349\u5730(\u8001\u4eba\u6703\u9928)", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "36", 
+          "uid": 7043
+        }, 
+        "free_bikes": 7, 
+        "id": "67dd467a6566c3008f5614725898a568", 
+        "latitude": 23.952859, 
+        "longitude": 120.571816, 
+        "name": "\u8001\u4eba\u6587\u5eb7\u6d3b\u52d5\u4e2d\u5fc3", 
+        "timestamp": "2017-08-15T04:49:36.857000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "\u54e1\u6c34\u8def\u4e8c\u6bb5\u5168\u5bb6\u5c0d\u9762", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "50", 
+          "uid": 7042
+        }, 
+        "free_bikes": 27, 
+        "id": "c7db18241aa9e425238abf9ba4a6a1a6", 
+        "latitude": 23.955386, 
+        "longitude": 120.58141, 
+        "name": "\u54e1\u6797\u8fb2\u5de5", 
+        "timestamp": "2017-08-15T04:49:36.858000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "\u4e2d\u6b63\u8def2\u5df799\u865f\u5de6\u5074", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "48", 
+          "uid": 7049
+        }, 
+        "free_bikes": 22, 
+        "id": "146c208205ff02288024e9a10387b176", 
+        "latitude": 23.949145, 
+        "longitude": 120.57883, 
+        "name": "\u54e1\u6797\u6f14\u85dd\u5ef3", 
+        "timestamp": "2017-08-15T04:49:36.858000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "address": "\u975c\u4fee\u8def52\u4e4b1\u865f(\u5f70\u5ba2\u8207\u5168\u5bb6\u524d\u9762)", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "46", 
+          "uid": 7048
+        }, 
+        "free_bikes": 10, 
+        "id": "a77b8d27f233348a3bf11f23f340425c", 
+        "latitude": 23.962352, 
+        "longitude": 120.568948, 
+        "name": "\u54e1\u6797\u8f49\u904b\u7ad9", 
+        "timestamp": "2017-08-15T04:49:36.865000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "\u4e2d\u6b63\u8def\u4e8c\u6bb5800\u5df7/\u4e2d\u6b63\u8def\u4e8c\u6bb5(\u897f\u5357\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "40", 
+          "uid": 7009
+        }, 
+        "free_bikes": 20, 
+        "id": "14e4e88e9dedfb847b1e069df573a9ad", 
+        "latitude": 24.065274, 
+        "longitude": 120.534621, 
+        "name": "\u5f70\u5316\u7e23\u8b66\u5bdf\u5c40", 
+        "timestamp": "2017-08-15T04:49:36.866000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "\u6c11\u751f\u5357\u8def/\u65ed\u5149\u897f\u8def\u53e3(\u897f\u5357\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "32", 
+          "uid": 7008
+        }, 
+        "free_bikes": 13, 
+        "id": "cc1e8220360b7b3df6e1f106c5537fad", 
+        "latitude": 24.071206, 
+        "longitude": 120.541735, 
+        "name": "\u6210\u529f\u793e\u5340\u6d3b\u52d5\u4e2d\u5fc3", 
+        "timestamp": "2017-08-15T04:49:36.866000Z"
+      }, 
+      {
+        "empty_slots": 59, 
+        "extra": {
+          "address": "\u4e2d\u6b63\u8def\u4e00\u6bb5/\u5149\u5fa9\u8def\u53e3", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "96", 
+          "uid": 7001
+        }, 
+        "free_bikes": 37, 
+        "id": "133b2d5055ccbcbe09da1f8bc397c573", 
+        "latitude": 24.08116289, 
+        "longitude": 120.539128, 
+        "name": "\u5f70\u5316\u706b\u8eca\u7ad9\u524d\u7ad9", 
+        "timestamp": "2017-08-15T04:49:36.867000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "\u81ea\u5f37\u8def/\u81ea\u5f37\u8def299\u5df7\u53e3", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "36", 
+          "uid": 7003
+        }, 
+        "free_bikes": 23, 
+        "id": "9056035968b125ec6bd2f9d61b3f0c9c", 
+        "latitude": 24.091114, 
+        "longitude": 120.546439, 
+        "name": "\u5927\u6210\u570b\u5c0f", 
+        "timestamp": "2017-08-15T04:49:36.868000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "\u5fe0\u5b5d\u8857/\u8fad\u4fee\u8def\u53e3(\u6771\u5317\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "62", 
+          "uid": 7002
+        }, 
+        "free_bikes": 34, 
+        "id": "5621302e71c2fd52a748f3d107481563", 
+        "latitude": 24.082426, 
+        "longitude": 120.536982, 
+        "name": "\u5f70\u5316\u706b\u8eca\u7ad9\u5f8c\u7ad9", 
+        "timestamp": "2017-08-15T04:49:36.875000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "\u91d1\u99ac\u8def\u4e8c\u6bb5/\u5f70\u65b0\u8def\u4e00\u6bb5115\u5df7\u53e3(\u897f\u5357\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "32", 
+          "uid": 7005
+        }, 
+        "free_bikes": 17, 
+        "id": "f38fb2ca7911af3273d6431ab7f2b070", 
+        "latitude": 24.091114, 
+        "longitude": 120.538012, 
+        "name": "\u83ef\u8208\u516c\u5712", 
+        "timestamp": "2017-08-15T04:49:36.882000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "\u5efa\u570b\u6771\u8def/\u6cf0\u8c50\u8857\u53e3(\u5357\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "44", 
+          "uid": 7004
+        }, 
+        "free_bikes": 31, 
+        "id": "47767b7274bf5828ecb867d38e32906d", 
+        "latitude": 24.09371, 
+        "longitude": 120.552512, 
+        "name": "\u6cf0\u548c\u570b\u5c0f", 
+        "timestamp": "2017-08-15T04:49:36.883000Z"
+      }, 
+      {
+        "empty_slots": 33, 
+        "extra": {
+          "address": "\u5411\u967d\u8857/\u5d19\u5e73\u5357\u8def\u53e3(\u6771\u5317\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "36", 
+          "uid": 7007
+        }, 
+        "free_bikes": 3, 
+        "id": "03e6b710be75261ec4fdefd58254e0a9", 
+        "latitude": 24.063276, 
+        "longitude": 120.527583, 
+        "name": "\u4fe1\u7fa9\u570b\u4e2d(\u5c0f)", 
+        "timestamp": "2017-08-15T04:49:36.885000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "\u5e73\u548c\u5341\u4e00\u8857/\u5e73\u548c\u5341\u56db\u8857\u53e3(\u897f\u5317\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "42", 
+          "uid": 7006
+        }, 
+        "free_bikes": 11, 
+        "id": "f9dc3f66114030a9ddfb1a570ecb2966", 
+        "latitude": 24.068017, 
+        "longitude": 120.531188, 
+        "name": "\u5357\u5317\u7ba1\u97f3\u6a02\u6232\u66f2\u9928", 
+        "timestamp": "2017-08-15T04:49:36.886000Z"
+      }, 
+      {
+        "empty_slots": 32, 
+        "extra": {
+          "address": "\u516c\u5712\u8def\u4e00\u6bb5/\u516c\u5712\u8def\u4e00\u6bb5409\u865f\u8def\u53e3(\u6c34\u5229\u8cc7\u6e90\u8655)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "40", 
+          "uid": 7030
+        }, 
+        "free_bikes": 8, 
+        "id": "fcc98c894ed7bc3bb8989680bd836b99", 
+        "latitude": 24.075322, 
+        "longitude": 120.55433, 
+        "name": "\u5f70\u5316\u85dd\u8853\u9ad8\u4e2d", 
+        "timestamp": "2017-08-15T04:49:36.887000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def\u4e8c\u6bb5(\u7279\u529b\u5c4b\u65c1\u516c\u5712)", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "52", 
+          "uid": 7031
+        }, 
+        "free_bikes": 21, 
+        "id": "b853eb435b0689ec4e73e3140ec5ab11", 
+        "latitude": 23.969953, 
+        "longitude": 120.571365, 
+        "name": "\u4e09\u591a\u516c\u5712", 
+        "timestamp": "2017-08-15T04:49:36.888000Z"
+      }, 
+      {
+        "empty_slots": 33, 
+        "extra": {
+          "address": "\u5927\u540c\u8def\u4e8c\u6bb5129\u5df7/\u5927\u4ec1\u5357\u885737\u5df7", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "56", 
+          "uid": 7032
+        }, 
+        "free_bikes": 22, 
+        "id": "f0a7c1fab34c6adc58f382db2eb6791a", 
+        "latitude": 23.967985, 
+        "longitude": 120.576829, 
+        "name": "\u4e09\u6a3a\u516c\u5712", 
+        "timestamp": "2017-08-15T04:49:36.890000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "\u975c\u4fee\u8def\u54e1\u6797\u9ad8\u4e2d\u6e38\u6cf3\u6c60\u65c1", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "56", 
+          "uid": 7033
+        }, 
+        "free_bikes": 37, 
+        "id": "a3c804a895afc4a9824068288c0ae393", 
+        "latitude": 23.962426, 
+        "longitude": 120.563353, 
+        "name": "\u54e1\u6797\u9ad8\u4e2d", 
+        "timestamp": "2017-08-15T04:49:36.892000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def2\u6bb5\u8207\u975c\u4fee\u8def\u4ea4\u53c9\u8655", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "54", 
+          "uid": 7034
+        }, 
+        "free_bikes": 22, 
+        "id": "c43243fcc81f4c6f1f2a585acdf7bdc7", 
+        "latitude": 23.962387, 
+        "longitude": 120.57096, 
+        "name": "\u4e09\u89d2\u516c\u5712", 
+        "timestamp": "2017-08-15T04:49:36.894000Z"
+      }, 
+      {
+        "empty_slots": 41, 
+        "extra": {
+          "address": "\u5927\u540c\u8def\u4e00\u6bb5\u8207\u548c\u5e73\u6771\u8857\u4ea4\u53c9\u8def\u53e3", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "54", 
+          "uid": 7035
+        }, 
+        "free_bikes": 13, 
+        "id": "d8915d982870805bb791b178578a0ca2", 
+        "latitude": 23.96296, 
+        "longitude": 120.579699, 
+        "name": "\u54e1\u6797\u5206\u5c40", 
+        "timestamp": "2017-08-15T04:49:36.896000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "\u548c\u5e73\u6771\u8857102\u865f\u5c0d\u9762", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "38", 
+          "uid": 7036
+        }, 
+        "free_bikes": 12, 
+        "id": "e43fcd4b35fc9345c42283d0867fc274", 
+        "latitude": 23.962068, 
+        "longitude": 120.57478, 
+        "name": "\u5d07\u5be6\u9ad8\u5de5", 
+        "timestamp": "2017-08-15T04:49:36.898000Z"
+      }, 
+      {
+        "empty_slots": 38, 
+        "extra": {
+          "address": "\u81f3\u5e73\u8857\u9760\u8fd1\u798f\u69ae\u8857(\u81f3\u5584\u516c\u5712)\u65c1", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "60", 
+          "uid": 7037
+        }, 
+        "free_bikes": 22, 
+        "id": "a029f479fdbce5327b177523c6cb40d8", 
+        "latitude": 23.959641, 
+        "longitude": 120.564829, 
+        "name": "\u81f3\u5584\u516c\u5712", 
+        "timestamp": "2017-08-15T04:49:36.899000Z"
+      }, 
+      {
+        "empty_slots": 64, 
+        "extra": {
+          "address": "\u6c11\u6b0a\u885754\u865f\u5c0d\u9762", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "100", 
+          "uid": 7038
+        }, 
+        "free_bikes": 35, 
+        "id": "3f7ec7f518e64e033041940ed11411e6", 
+        "latitude": 23.959313, 
+        "longitude": 120.570467, 
+        "name": "\u54e1\u6797\u706b\u8eca\u7ad9\u524d\u5ee3\u5834", 
+        "timestamp": "2017-08-15T04:49:36.901000Z"
+      }, 
+      {
+        "empty_slots": 38, 
+        "extra": {
+          "address": "\u4e09\u6c11\u885718\u865f", 
+          "district": "\u54e1\u6797\u5e02", 
+          "slots": "60", 
+          "uid": 7039
+        }, 
+        "free_bikes": 19, 
+        "id": "e9ae13093c8055f236c3c78bd747ce8d", 
+        "latitude": 23.958936, 
+        "longitude": 120.574721, 
+        "name": "\u54e1\u6797\u5e02\u516c\u6240", 
+        "timestamp": "2017-08-15T04:49:36.903000Z"
+      }, 
+      {
+        "empty_slots": 42, 
+        "extra": {
+          "address": "\u5fa9\u8208\u8def\u8207\u4e09\u6c11\u8def\u4ea4\u53c9\u8def\u53e3", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "50", 
+          "uid": 7068
+        }, 
+        "free_bikes": 8, 
+        "id": "c2bd0ae13f6e4ebac5bd781eb95d8fac", 
+        "latitude": 24.050978, 
+        "longitude": 120.431724, 
+        "name": "\u5fa9\u8208\u5357\u4e09\u6c11\u8def\u53e3(\u6478\u4e73\u5df7)", 
+        "timestamp": "2017-08-15T04:49:36.905000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "address": "\u5fa9\u8208\u5357\u8def\u8207\u6c11\u751f\u8def\u53e3", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "50", 
+          "uid": 7067
+        }, 
+        "free_bikes": 14, 
+        "id": "c6ca90fe8e46d24a9c15d5c52e63ff1b", 
+        "latitude": 24.056399, 
+        "longitude": 120.42876, 
+        "name": "\u6587\u958b\u570b\u5c0f(\u5929\u540e\u5bae\u505c\u8eca\u5834)", 
+        "timestamp": "2017-08-15T04:49:36.907000Z"
+      }, 
+      {
+        "empty_slots": 42, 
+        "extra": {
+          "address": "\u5f70\u9e7f\u8def\u516b\u6bb5(\u6587\u6b66\u5edf\u524d\u505c\u8eca\u5834)", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "56", 
+          "uid": 7066
+        }, 
+        "free_bikes": 14, 
+        "id": "c2f88a839ce39d7c2fd12723d7283d76", 
+        "latitude": 24.049305, 
+        "longitude": 120.438947, 
+        "name": "\u9e7f\u6e2f\u6587\u6b66\u5edf", 
+        "timestamp": "2017-08-15T04:49:36.909000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "\u9e7f\u8208\u8def47\u865f(\u5c0d\u9762\u4eba\u884c\u9053\u4e0a)", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "50", 
+          "uid": 7065
+        }, 
+        "free_bikes": 21, 
+        "id": "bf817a46300544a42d7e71590c071c00", 
+        "latitude": 24.05501, 
+        "longitude": 120.444416, 
+        "name": "\u9e7f\u6e2f\u9802\u539d\u516c\u5712", 
+        "timestamp": "2017-08-15T04:49:36.910000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "\u81ea\u7531\u8def147\u865f(\u85e5\u5c40\u524d\u65b9)", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "50", 
+          "uid": 7064
+        }, 
+        "free_bikes": 25, 
+        "id": "ea964ba4ec484c3ef6d8a35080b2c323", 
+        "latitude": 24.060934, 
+        "longitude": 120.437716, 
+        "name": "\u9e7f\u6e2f\u57fa\u7763\u6559\u91ab\u9662", 
+        "timestamp": "2017-08-15T04:49:36.912000Z"
+      }, 
+      {
+        "empty_slots": 39, 
+        "extra": {
+          "address": "\u5efa\u570b\u8def\u8207\u4e2d\u6b63\u8def\u53e3", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "58", 
+          "uid": 7063
+        }, 
+        "free_bikes": 19, 
+        "id": "822ab05d36ba128671cdbf51cc3a00b0", 
+        "latitude": 24.062757, 
+        "longitude": 120.435272, 
+        "name": "\u9e7f\u6e2f\u904b\u52d5\u5834(\u52de\u5de5\u6559\u80b2\u5b78\u82d1)", 
+        "timestamp": "2017-08-15T04:49:36.914000Z"
+      }, 
+      {
+        "empty_slots": 45, 
+        "extra": {
+          "address": "\u6c11\u4e3b\u8857\u8207\u81ea\u6cbb\u8857\u53e3", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "50", 
+          "uid": 7062
+        }, 
+        "free_bikes": 5, 
+        "id": "3be0bde68766de606f46b0ecc10bb6d1", 
+        "latitude": 24.058632, 
+        "longitude": 120.441871, 
+        "name": "\u9e7f\u6771\u570b\u5c0f", 
+        "timestamp": "2017-08-15T04:49:36.915000Z"
+      }, 
+      {
+        "empty_slots": 52, 
+        "extra": {
+          "address": "\u516c\u5712\u8def\u4e09\u8def83\u865f(\u6a5f\u8eca\u505c\u8eca\u5834\u5de6\u5074)", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "58", 
+          "uid": 7061
+        }, 
+        "free_bikes": 5, 
+        "id": "1cb2cad682fe499be4a4416fa0beb965", 
+        "latitude": 24.055051, 
+        "longitude": 120.431338, 
+        "name": "\u9e7f\u6e2f\u93ae\u7acb\u5716\u66f8\u9928", 
+        "timestamp": "2017-08-15T04:49:36.917000Z"
+      }, 
+      {
+        "empty_slots": 44, 
+        "extra": {
+          "address": "\u6771\u8208\u8def295\u865f\u5c0d\u9762\u4eba\u884c\u9053", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "60", 
+          "uid": 7060
+        }, 
+        "free_bikes": 16, 
+        "id": "dbcdf0cfdc7723f921e7de48b0dda028", 
+        "latitude": 24.058975, 
+        "longitude": 120.43818, 
+        "name": "\u9e7f\u6e2f\u5206\u5c40", 
+        "timestamp": "2017-08-15T04:49:36.920000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "\u5357\u5e73\u885761\u5df712\u865f\u5c0d\u9762", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "40", 
+          "uid": 7023
+        }, 
+        "free_bikes": 20, 
+        "id": "bd380aaf31b7ae9fb30d785cfb0eb953", 
+        "latitude": 24.066225, 
+        "longitude": 120.540608, 
+        "name": "\u5ef6\u5e73\u516c\u5712", 
+        "timestamp": "2017-08-15T04:49:36.922000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "\u5fe0\u8aa0\u8def/\u5b5d\u5fb7\u8857\u53e3", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "38", 
+          "uid": 7021
+        }, 
+        "free_bikes": 13, 
+        "id": "fa7eeaf0bc8838770036268439c994b1", 
+        "latitude": 24.084525, 
+        "longitude": 120.531894, 
+        "name": "\u5fe0\u5b5d\u570b\u5c0f", 
+        "timestamp": "2017-08-15T04:49:36.930000Z"
+      }, 
+      {
+        "empty_slots": 41, 
+        "extra": {
+          "address": "\u4ecb\u58fd\u5317\u8def108\u5df71\u5f04(\u6821\u9580\u53e3\u524d\u897f\u5357\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "78", 
+          "uid": 7020
+        }, 
+        "free_bikes": 35, 
+        "id": "ffe1472d51d192a205464ad8ab343772", 
+        "latitude": 24.067811, 
+        "longitude": 120.548387, 
+        "name": "\u5efa\u570b\u79d1\u6280\u5927\u5b78", 
+        "timestamp": "2017-08-15T04:49:36.932000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "\u6c11\u65cf\u8def/\u6c11\u65cf\u8def219\u5df7\u53e3", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "28", 
+          "uid": 7027
+        }, 
+        "free_bikes": 17, 
+        "id": "4bfb351b42d45df9ca9a639fff54bdb9", 
+        "latitude": 24.070936, 
+        "longitude": 120.539095, 
+        "name": "\u6c11\u65cf\u8def219\u5df7\u8def\u53e3", 
+        "timestamp": "2017-08-15T04:49:36.934000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def\u4e8c\u6bb5/\u4e2d\u5c71\u8def\u4e8c\u6bb5158\u5df7\u53e3", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "40", 
+          "uid": 7026
+        }, 
+        "free_bikes": 16, 
+        "id": "ffc3614a04248481d0d6deeda88322ec", 
+        "latitude": 24.068977, 
+        "longitude": 120.541129, 
+        "name": "\u5f70\u5316\u7e23\u885b\u751f\u5c40", 
+        "timestamp": "2017-08-15T04:49:36.936000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "\u9577\u5b89\u8857174\u865f\u5c0d\u9762(\u5f70\u57fa\u4e2d\u83ef\u9662\u5340)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "30", 
+          "uid": 7025
+        }, 
+        "free_bikes": 12, 
+        "id": "3b9ff995ae88ba4299377f0309d984a2", 
+        "latitude": 24.078508, 
+        "longitude": 120.539353, 
+        "name": "\u9577\u5b89\u4e2d\u83ef\u8def\u53e3(\u5f70\u57fa\u4e2d\u83ef\u5206\u9662)", 
+        "timestamp": "2017-08-15T04:49:36.938000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "\u5efa\u5bf6\u885720\u865f\u65c1(\u5f70\u57fa\u798f\u61cb\u5927\u6a13)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "40", 
+          "uid": 7024
+        }, 
+        "free_bikes": 23, 
+        "id": "b0d5269932683754b1111b7cf98e4876", 
+        "latitude": 24.069634, 
+        "longitude": 120.545769, 
+        "name": "\u7e23\u5e9c\u7b2c\u4e8c\u8fa6\u516c\u5927\u6a13", 
+        "timestamp": "2017-08-15T04:49:36.940000Z"
+      }, 
+      {
+        "empty_slots": 52, 
+        "extra": {
+          "address": "\u5357\u90ed\u8def\u4e00\u6bb5/\u5357\u90ed\u8def\u4e00\u6bb5191\u5df7\u53e3", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "68", 
+          "uid": 7029
+        }, 
+        "free_bikes": 16, 
+        "id": "59995cfa65c4b2d3ecbf489a1220b17c", 
+        "latitude": 24.073731, 
+        "longitude": 120.548572, 
+        "name": "\u5f70\u5316\u9ad8\u4e2d", 
+        "timestamp": "2017-08-15T04:49:36.947000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "\u4e2d\u6b63\u8def\u4e8c\u6bb5495\u865f\u5c0d\u9762", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "30", 
+          "uid": 7028
+        }, 
+        "free_bikes": 10, 
+        "id": "fea63d925b431afa85e933212b0760bf", 
+        "latitude": 24.071093, 
+        "longitude": 120.535866, 
+        "name": "\u5e73\u548c\u570b\u5c0f", 
+        "timestamp": "2017-08-15T04:49:36.951000Z"
+      }, 
+      {
+        "empty_slots": 32, 
+        "extra": {
+          "address": "\u5fa9\u8208\u8def120\u865f\u5c0d\u9762\u505c\u8eca\u5834\u4eba\u884c\u9053", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "60", 
+          "uid": 7058
+        }, 
+        "free_bikes": 28, 
+        "id": "adbc501a178da4afdaf764d095beb82a", 
+        "latitude": 24.05259, 
+        "longitude": 120.438842, 
+        "name": "\u798f\u8208\u7b2c\u4e00\u505c\u8eca\u5834", 
+        "timestamp": "2017-08-15T04:49:36.954000Z"
+      }, 
+      {
+        "empty_slots": 37, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def596\u865f\u5c0d\u9762", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "82", 
+          "uid": 7059
+        }, 
+        "free_bikes": 45, 
+        "id": "ed4246ca68dc1c8c5b5a77092f0c054e", 
+        "latitude": 24.060339, 
+        "longitude": 120.42714, 
+        "name": "\u9e7f\u6e2f\u9ad8\u4e2d", 
+        "timestamp": "2017-08-15T04:49:36.956000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "\u5fa9\u8208\u5357\u8def\u8207\u798f\u8208\u8def\u4ea4\u53c9\u8def\u53e3(\u4eba\u884c\u9053  )", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "46", 
+          "uid": 7052
+        }, 
+        "free_bikes": 15, 
+        "id": "193f3841e66c32b706c857bba292f30d", 
+        "latitude": 24.055531, 
+        "longitude": 120.429221, 
+        "name": "\u6d1b\u6d25\u570b\u5c0f", 
+        "timestamp": "2017-08-15T04:49:36.958000Z"
+      }, 
+      {
+        "empty_slots": 39, 
+        "extra": {
+          "address": "\u516c\u5712\u4e00\u8def\u8207\u6210\u529f\u8def\u4ea4\u53c9\u53e3", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "56", 
+          "uid": 7053
+        }, 
+        "free_bikes": 15, 
+        "id": "8da7c5e860da5e587214344ed4092983", 
+        "latitude": 24.056364, 
+        "longitude": 120.430651, 
+        "name": "\u6842\u82b1\u5df7\u85dd\u8853\u6751", 
+        "timestamp": "2017-08-15T04:49:36.960000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def\u4e00\u6bb5/\u4e2d\u5c71\u8def\u4e00\u6bb5556\u5df7\u53e3", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "40", 
+          "uid": 7050
+        }, 
+        "free_bikes": 13, 
+        "id": "513c4d61b3b2daa81d3b248ab46a02da", 
+        "latitude": 24.065206, 
+        "longitude": 120.537465, 
+        "name": "\u5f70\u5316\u79c0\u50b3\u91ab\u9662", 
+        "timestamp": "2017-08-15T04:49:36.962000Z"
+      }, 
+      {
+        "empty_slots": 71, 
+        "extra": {
+          "address": "\u5fa9\u8208\u8def(\u6f01\u6703\u5927\u6a13\u5c0d\u9762\u4eba\u884c\u9053)", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "100", 
+          "uid": 7051
+        }, 
+        "free_bikes": 29, 
+        "id": "0aaf414821bff18e12d0454bb9fd5dbe", 
+        "latitude": 24.058904, 
+        "longitude": 120.434417, 
+        "name": "\u5f70\u5316\u7e23\u65c5\u904a\u670d\u52d9\u4e2d\u5fc3", 
+        "timestamp": "2017-08-15T04:49:36.963000Z"
+      }, 
+      {
+        "empty_slots": 44, 
+        "extra": {
+          "address": "\u6587\u5316\u8def\u65b0\u8208\u8857\u53e3(\u6587\u5316\u8def\u85dd\u6587\u4e2d\u5fc3\u524d\u6a5f\u8eca\u505c\u8eca\u5834\u5167)", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "54", 
+          "uid": 7056
+        }, 
+        "free_bikes": 10, 
+        "id": "e54dc7c668e580d8e3dc728d4dad5a46", 
+        "latitude": 24.046569, 
+        "longitude": 120.438419, 
+        "name": "\u9e7f\u6e2f\u5716\u66f8\u85dd\u6587\u4e2d\u5fc3", 
+        "timestamp": "2017-08-15T04:49:36.965000Z"
+      }, 
+      {
+        "empty_slots": 43, 
+        "extra": {
+          "address": "\u666f\u8208\u8857\u505c\u8eca\u5834(\u9928\u524d\u885780\u865f\u5de6\u5074\u4eba\u884c\u9053)", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "56", 
+          "uid": 7057
+        }, 
+        "free_bikes": 11, 
+        "id": "0184465635ac0d8088b54cad55ebf9c8", 
+        "latitude": 24.054177, 
+        "longitude": 120.436705, 
+        "name": "\u9e7f\u6e2f\u6c11\u4fd7\u6587\u7269\u9928", 
+        "timestamp": "2017-08-15T04:49:36.967000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "address": "\u6c11\u6b0a\u8def\u8207\u5fe0\u5b5d\u8def\u53e3(\u516c\u6240\u5927\u6a13\u5de6\u5074\u6a5f\u8eca\u683c)", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "48", 
+          "uid": 7054
+        }, 
+        "free_bikes": 12, 
+        "id": "73fa9a8ae982d4660dea474ec5d1d6f1", 
+        "latitude": 24.057138, 
+        "longitude": 120.43487, 
+        "name": "\u9e7f\u6e2f\u93ae\u516c\u6240", 
+        "timestamp": "2017-08-15T04:49:36.978000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "\u6c11\u65cf\u8def\u83dc\u5712\u8def\u53e3(\u6c11\u65cf\u8def252\u865f\u5c0d\u9762)", 
+          "district": "\u9e7f\u6e2f\u93ae", 
+          "slots": "46", 
+          "uid": 7055
+        }, 
+        "free_bikes": 16, 
+        "id": "9689f89f7b5ded893a17f6c301e91a34", 
+        "latitude": 24.05367, 
+        "longitude": 120.432832, 
+        "name": "\u7b2c\u4e00\u7acb\u9ad4\u505c\u8eca\u5834", 
+        "timestamp": "2017-08-15T04:49:36.982000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "\u9577\u9806\u8857/\u4e09\u6c11\u8def\u53e3(\u897f\u5357\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "38", 
+          "uid": 7018
+        }, 
+        "free_bikes": 22, 
+        "id": "49b679e95287175bf135d10230f2c082", 
+        "latitude": 24.086839, 
+        "longitude": 120.549417, 
+        "name": "\u967d\u660e\u570b\u4e2d", 
+        "timestamp": "2017-08-15T04:49:36.983000Z"
+      }, 
+      {
+        "empty_slots": 50, 
+        "extra": {
+          "address": "\u7cbe\u8aa0\u8def/\u6797\u68ee\u8def\u53e3(\u6771\u5317\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "50", 
+          "uid": 7019
+        }, 
+        "free_bikes": 0, 
+        "id": "1f0b677d2f2c62e6413fdcb72917f2d5", 
+        "latitude": 24.073562, 
+        "longitude": 120.527465, 
+        "name": "\u7cbe\u8aa0\u4e2d\u5b78", 
+        "timestamp": "2017-08-15T04:49:36.985000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "\u57d4\u897f\u885797\u5df7/\u57d4\u897f\u8857(\u6771\u5317\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "30", 
+          "uid": 7016
+        }, 
+        "free_bikes": 9, 
+        "id": "3878890b3bdb3856412826b42b1f1ba4", 
+        "latitude": 24.059161, 
+        "longitude": 120.538473, 
+        "name": "\u5f70\u8208\u570b\u4e2d", 
+        "timestamp": "2017-08-15T04:49:36.986000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def\u4e00\u6bb5/\u96f2\u9577\u8def(\u6771\u5317\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "32", 
+          "uid": 7017
+        }, 
+        "free_bikes": 9, 
+        "id": "141226f50c0e464b6d9211cac135fdbb", 
+        "latitude": 24.061081, 
+        "longitude": 120.535794, 
+        "name": "\u6f22\u9298\u91ab\u9662", 
+        "timestamp": "2017-08-15T04:49:36.989000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "address": "\u5de5\u6821\u8857/\u7af9\u548c\u8def\u53e3", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "60", 
+          "uid": 7014
+        }, 
+        "free_bikes": 24, 
+        "id": "3f7063352e333ade7e67ec3c3e25fe3f", 
+        "latitude": 24.08419, 
+        "longitude": 120.556315, 
+        "name": "\u5f70\u5e2b\u9644\u5de5", 
+        "timestamp": "2017-08-15T04:49:36.990000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "\u9032\u5fb7\u8def/\u9032\u5fb7\u8def2\u5df7(\u6771\u5357\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "50", 
+          "uid": 7015
+        }, 
+        "free_bikes": 23, 
+        "id": "bbc7716c335143532a15196c79b8933e", 
+        "latitude": 24.082828, 
+        "longitude": 120.558649, 
+        "name": "\u5f70\u5316\u5e2b\u7bc4\u5927\u5b78", 
+        "timestamp": "2017-08-15T04:49:36.993000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def\u4e8c\u6bb5/\u6c38\u660c\u8857(\u7dad\u7a2e\u5927\u5ec8\u5c0d\u9762)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "36", 
+          "uid": 7012
+        }, 
+        "free_bikes": 23, 
+        "id": "2acb48eb5c8c5ea60f324e8a38956f1b", 
+        "latitude": 24.081976, 
+        "longitude": 120.546176, 
+        "name": "\u4e2d\u5c71\u570b\u5c0f", 
+        "timestamp": "2017-08-15T04:49:36.995000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def\u4e09\u6bb5/\u4e2d\u5c71\u8def\u4e09\u6bb5266\u865f", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "30", 
+          "uid": 7013
+        }, 
+        "free_bikes": 12, 
+        "id": "efb8b794f121b77a9346ac31a2152dcd", 
+        "latitude": 24.086457, 
+        "longitude": 120.559974, 
+        "name": "\u539f\u4f4f\u6c11\u751f\u6d3b\u9928", 
+        "timestamp": "2017-08-15T04:49:37.001000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def\u4e8c\u6bb5/\u5357\u90ed\u8def\u4e00\u6bb5(\u6771\u5357\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "50", 
+          "uid": 7010
+        }, 
+        "free_bikes": 30, 
+        "id": "847d76d3af8097620a0cb99ed1f13de3", 
+        "latitude": 24.074962, 
+        "longitude": 120.545109, 
+        "name": "\u5f70\u5316\u7e23\u653f\u5e9c", 
+        "timestamp": "2017-08-15T04:49:37.002000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "\u4e2d\u5c71\u8def\u4e8c\u6bb5/\u6771\u6c11\u8857\u53e3(\u6771\u5317\u5074)", 
+          "district": "\u5f70\u5316\u5e02", 
+          "slots": "68", 
+          "uid": 7011
+        }, 
+        "free_bikes": 37, 
+        "id": "4731917a35f38f2bad9b33e67c3bbc15", 
+        "latitude": 24.07842, 
+        "longitude": 120.545066, 
+        "name": "\u5f70\u5316\u7e23\u7acb\u5716\u66f8\u9928", 
+        "timestamp": "2017-08-15T04:49:37.006000Z"
+      }
+    ]
+  }
+}

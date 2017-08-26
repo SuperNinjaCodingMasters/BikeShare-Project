@@ -1,0 +1,616 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/hudsonbikeshare-hoboken", 
+    "id": "hudsonbikeshare-hoboken", 
+    "location": {
+      "city": "Hoboken", 
+      "country": "US", 
+      "latitude": 40.7447, 
+      "longitude": -74.0341
+    }, 
+    "name": "Hudsonbikeshare", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "73230"
+          ], 
+          "number": "1927", 
+          "slots": 12, 
+          "uid": "445758"
+        }, 
+        "free_bikes": 1, 
+        "id": "778421b51b8a403c624bdda5dd5cf385", 
+        "latitude": 40.742599383633, 
+        "longitude": -74.032203555107, 
+        "name": "Library/Church Square Park - 5th St & Park Ave", 
+        "timestamp": "2017-08-15T04:49:50.955000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "1910", 
+          "slots": 8, 
+          "uid": "332545"
+        }, 
+        "free_bikes": 0, 
+        "id": "5bb47b93923267ad70cf27befc9e765a", 
+        "latitude": 40.745562226981, 
+        "longitude": -74.026265144348, 
+        "name": "Stevens North - 8th St & Castle Pt Ter", 
+        "timestamp": "2017-08-15T04:49:50.942000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "1931", 
+          "uid": "449790"
+        }, 
+        "free_bikes": 0, 
+        "id": "1a8f5fc00da0c6ca5d9b9a301e3cc239", 
+        "latitude": 40.776982999917, 
+        "longitude": -74.010826349258, 
+        "name": "No Fee Zone Port Imperial Ferry Terminal (Virtual)", 
+        "timestamp": "2017-08-15T04:49:50.960000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "73222", 
+            "73148", 
+            "73105", 
+            "73090", 
+            "73050"
+          ], 
+          "number": "1917", 
+          "slots": 12, 
+          "uid": "332559"
+        }, 
+        "free_bikes": 5, 
+        "id": "ae4011a563bd5c2512c41d472ffd7e39", 
+        "latitude": 40.737250487236, 
+        "longitude": -74.037648439407, 
+        "name": "Newark Plaza - Newark St & Adams St", 
+        "timestamp": "2017-08-15T04:49:50.946000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "number": "1916", 
+          "slots": 12, 
+          "uid": "332531"
+        }, 
+        "free_bikes": 0, 
+        "id": "5f52f2973279f654e8b14c524fd62a29", 
+        "latitude": 40.737498431909, 
+        "longitude": -74.031007289886, 
+        "name": "City Hall - 1st St & Washington St", 
+        "timestamp": "2017-08-15T04:49:50.934000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "number": "1905", 
+          "slots": 12, 
+          "uid": "332538"
+        }, 
+        "free_bikes": 0, 
+        "id": "e1a1c02a446b8b3a19eea0f4db4826a8", 
+        "latitude": 40.741254070998, 
+        "longitude": -74.029725193977, 
+        "name": "Lower Washington - Washington St & 4th St", 
+        "timestamp": "2017-08-15T04:49:50.938000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "number": "1950", 
+          "slots": 28, 
+          "uid": "1395426"
+        }, 
+        "free_bikes": 0, 
+        "id": "7a90a8612b9b14120a5ed519f6380528", 
+        "latitude": 40.735787, 
+        "longitude": -74.028591, 
+        "name": "Hoboken Terminal - Part 2", 
+        "timestamp": "2017-08-15T04:49:50.963000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "number": "1918", 
+          "slots": 6, 
+          "uid": "332561"
+        }, 
+        "free_bikes": 0, 
+        "id": "07a10fc6a9d1065c55cff0de4749bc83", 
+        "latitude": 40.737868314869, 
+        "longitude": -74.042508602142, 
+        "name": "Southwest Park - Harrison St & Observer Hwy", 
+        "timestamp": "2017-08-15T04:49:50.947000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "73221", 
+            "73220", 
+            "73210", 
+            "73179", 
+            "73163"
+          ], 
+          "number": "1909", 
+          "slots": 16, 
+          "uid": "332544"
+        }, 
+        "free_bikes": 5, 
+        "id": "97f5281f32d7f0734a530a5bcd7c67fe", 
+        "latitude": 40.745399660124, 
+        "longitude": -74.033324718475, 
+        "name": "Midtown - Clinton St & 7th St", 
+        "timestamp": "2017-08-15T04:49:50.941000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "73236", 
+            "73202", 
+            "73195", 
+            "73182", 
+            "73080"
+          ], 
+          "number": "1912", 
+          "slots": 8, 
+          "uid": "332547"
+        }, 
+        "free_bikes": 5, 
+        "id": "d1a44cc7a2d0f4d9c3dee11afa3dc903", 
+        "latitude": 40.747890953594, 
+        "longitude": -74.038442373276, 
+        "name": "9th St HBLR Station - 8th St & Jackson St", 
+        "timestamp": "2017-08-15T04:49:50.944000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "73161", 
+            "73048"
+          ], 
+          "number": "1924", 
+          "slots": 12, 
+          "uid": "332534"
+        }, 
+        "free_bikes": 2, 
+        "id": "efda518d7335bf5104188621e13f64ee", 
+        "latitude": 40.753283694968, 
+        "longitude": -74.026125669479, 
+        "name": "14th St Commercial District - Washington St & 14th St", 
+        "timestamp": "2017-08-15T04:49:50.936000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "73242", 
+            "73234", 
+            "73229", 
+            "73228", 
+            "73130"
+          ], 
+          "number": "1908", 
+          "slots": 12, 
+          "uid": "332543"
+        }, 
+        "free_bikes": 5, 
+        "id": "4575d6ae7b5c860c660474936d6e87f6", 
+        "latitude": 40.744826608783, 
+        "longitude": -74.036355614662, 
+        "name": "Midtown West - Jefferson St & 6th St", 
+        "timestamp": "2017-08-15T04:49:50.940000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "73205", 
+            "73177", 
+            "73072", 
+            "73027", 
+            "73020"
+          ], 
+          "number": "1913", 
+          "slots": 10, 
+          "uid": "711154"
+        }, 
+        "free_bikes": 6, 
+        "id": "1497021c22344c3cfd92b7b6e9397e46", 
+        "latitude": 40.748114474547, 
+        "longitude": -74.033335447311, 
+        "name": "Columbus Park", 
+        "timestamp": "2017-08-15T04:49:50.961000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "1900", 
+          "slots": 18, 
+          "uid": "332535"
+        }, 
+        "free_bikes": 1, 
+        "id": "57dd866c96aac7d0e6e64e96f4f788de", 
+        "latitude": 40.735844095042, 
+        "longitude": -74.029188752174, 
+        "name": "Hoboken Terminal - Part 1", 
+        "timestamp": "2017-08-15T04:49:50.937000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "73166", 
+            "73142", 
+            "73138", 
+            "73135", 
+            "73107"
+          ], 
+          "number": "1906", 
+          "slots": 10, 
+          "uid": "332539"
+        }, 
+        "free_bikes": 6, 
+        "id": "e70009dc9e65a063a0b67521f1dcb1e5", 
+        "latitude": 40.743107425132, 
+        "longitude": -74.039987325668, 
+        "name": "Mama Johnson Field - 4th St & Jackson St", 
+        "timestamp": "2017-08-15T04:49:50.939000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "73198"
+          ], 
+          "number": "1907", 
+          "slots": 14, 
+          "uid": "332542"
+        }, 
+        "free_bikes": 1, 
+        "id": "25e41e51315ed09aaab2369104a1bbd8", 
+        "latitude": 40.743172454164, 
+        "longitude": -74.02694106102, 
+        "name": "Stevens South - River Ter & 6th St", 
+        "timestamp": "2017-08-15T04:49:50.940000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "number": "1904", 
+          "slots": 10, 
+          "uid": "332551"
+        }, 
+        "free_bikes": 0, 
+        "id": "f12a785e8413b1ae537465845b790e14", 
+        "latitude": 40.739420987933, 
+        "longitude": -74.026892781258, 
+        "name": "Pier C Park", 
+        "timestamp": "2017-08-15T04:49:50.945000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "1902", 
+          "slots": 10, 
+          "uid": "332584"
+        }, 
+        "free_bikes": 0, 
+        "id": "0e05374c777f4ee7386ac03f74ca445b", 
+        "latitude": 40.736848083257, 
+        "longitude": -74.027654528618, 
+        "name": "Pier A Park", 
+        "timestamp": "2017-08-15T04:49:50.953000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "number": "1901", 
+          "slots": 24, 
+          "uid": "345261"
+        }, 
+        "free_bikes": 0, 
+        "id": "917e40bba2cc01c1701bfaf72c9ff1c8", 
+        "latitude": 40.736055462241, 
+        "longitude": -74.030245542526, 
+        "name": "Hoboken Terminal West - Hudson St & Hudson Pl - PATH", 
+        "timestamp": "2017-08-15T04:49:50.954000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "73167", 
+            "73149", 
+            "73288"
+          ], 
+          "number": "1929", 
+          "slots": 10, 
+          "uid": "445774"
+        }, 
+        "free_bikes": 3, 
+        "id": "a4d62c1411cd67c503984b0a56463e14", 
+        "latitude": 40.741221555552, 
+        "longitude": -74.033673405647, 
+        "name": "Carepoint Health", 
+        "timestamp": "2017-08-15T04:49:50.958000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "73118", 
+            "73054", 
+            "73000"
+          ], 
+          "number": "1928", 
+          "slots": 10, 
+          "uid": "445773"
+        }, 
+        "free_bikes": 3, 
+        "id": "7360d4fea8062960e394689d04a5fcc0", 
+        "latitude": 40.754673463985, 
+        "longitude": -74.027574062347, 
+        "name": "park + garden - Garden St & 15th St", 
+        "timestamp": "2017-08-15T04:49:50.957000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "73123", 
+            "73248", 
+            "73246", 
+            "73061", 
+            "73045"
+          ], 
+          "number": "1919", 
+          "slots": 12, 
+          "uid": "332577"
+        }, 
+        "free_bikes": 5, 
+        "id": "7949065419c85f14d2abdde064722404", 
+        "latitude": 40.74949622376, 
+        "longitude": -74.023706316948, 
+        "name": "Maxwell Place Park - Sinatra Dr & 11th St", 
+        "timestamp": "2017-08-15T04:49:50.949000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "73240", 
+            "73238", 
+            "73232", 
+            "73231", 
+            "73217"
+          ], 
+          "number": "1903", 
+          "slots": 14, 
+          "uid": "332583"
+        }, 
+        "free_bikes": 5, 
+        "id": "29fd11f0e0bc3d26ee82844d92b7ff96", 
+        "latitude": 40.752674137989, 
+        "longitude": -74.023464918137, 
+        "name": "14th St Ferry Terminal", 
+        "timestamp": "2017-08-15T04:49:50.952000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "73209", 
+            "73196", 
+            "73193", 
+            "73171", 
+            "73147"
+          ], 
+          "number": "1926", 
+          "slots": 11, 
+          "uid": "445769"
+        }, 
+        "free_bikes": 5, 
+        "id": "2b6e78a1b585d4a15aed77bacf87567d", 
+        "latitude": 40.738819433036, 
+        "longitude": -74.039230942726, 
+        "name": "Lower Madison - Madison St & 1st St", 
+        "timestamp": "2017-08-15T04:49:50.956000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "73223", 
+            "73279"
+          ], 
+          "number": "1922", 
+          "slots": 8, 
+          "uid": "332581"
+        }, 
+        "free_bikes": 2, 
+        "id": "25ea4bb831515163e2043003a15edccd", 
+        "latitude": 40.754218338149, 
+        "longitude": -74.031463265419, 
+        "name": "Viaduct - Grand St & 14th St", 
+        "timestamp": "2017-08-15T04:49:50.951000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "73154", 
+            "73056", 
+            "73049"
+          ], 
+          "number": "1920", 
+          "slots": 12, 
+          "uid": "332578"
+        }, 
+        "free_bikes": 3, 
+        "id": "d9c0d4a9256e6c233e4a3f60f083b94e", 
+        "latitude": 40.750028595941, 
+        "longitude": -74.027155637741, 
+        "name": "Birthplace of Baseball - Washington St & 11th St", 
+        "timestamp": "2017-08-15T04:49:50.950000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "73211", 
+            "73189", 
+            "73133", 
+            "73057", 
+            "73036"
+          ], 
+          "number": "1925", 
+          "slots": 12, 
+          "uid": "445772"
+        }, 
+        "free_bikes": 5, 
+        "id": "0eb0632c5e1eb14afe5e92c38677fa78", 
+        "latitude": 40.749926998526, 
+        "longitude": -74.035888910294, 
+        "name": "Upper Madison - Madison St & 10th St", 
+        "timestamp": "2017-08-15T04:49:50.956000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "73245", 
+            "73239", 
+            "73226", 
+            "73140", 
+            "73083"
+          ], 
+          "number": "1921", 
+          "slots": 8, 
+          "uid": "332579"
+        }, 
+        "free_bikes": 5, 
+        "id": "1fae5ae15f0a220ab32d2739620bfecb", 
+        "latitude": 40.75173540931, 
+        "longitude": -74.030256271362, 
+        "name": "Upper Willow - 12th St & Willow Ave", 
+        "timestamp": "2017-08-15T04:49:50.950000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "73063"
+          ], 
+          "number": "1935", 
+          "uid": "449786"
+        }, 
+        "free_bikes": 1, 
+        "id": "2c395787a685ebc887271c5ec2d25409", 
+        "latitude": 40.759033574132, 
+        "longitude": -74.022644162178, 
+        "name": "No Fee Zone 1 Lincoln Harbor (Virtual)", 
+        "timestamp": "2017-08-15T04:49:50.959000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "73219", 
+            "73197", 
+            "73021"
+          ], 
+          "number": "1911", 
+          "slots": 12, 
+          "uid": "332546"
+        }, 
+        "free_bikes": 3, 
+        "id": "46a014f24b7423b081bfa1a358ec74d3", 
+        "latitude": 40.746358798838, 
+        "longitude": -74.029902219772, 
+        "name": "Midtown East - 8th St & Garden St", 
+        "timestamp": "2017-08-15T04:49:50.943000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "73241", 
+            "73173", 
+            "73169", 
+            "73141", 
+            "73124"
+          ], 
+          "number": "1930", 
+          "slots": 14, 
+          "uid": "332555"
+        }, 
+        "free_bikes": 6, 
+        "id": "d6a19b875ec64b9a543c06869df81fdf", 
+        "latitude": 40.740774466561, 
+        "longitude": -74.042492508888, 
+        "name": "2nd St HBLR Station - 2nd St & Marshall St", 
+        "timestamp": "2017-08-15T04:49:50.945000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "73139", 
+            "73134"
+          ], 
+          "number": "1923", 
+          "slots": 8, 
+          "uid": "332562"
+        }, 
+        "free_bikes": 2, 
+        "id": "ec7ae739af91da6769af3933c4df46d1", 
+        "latitude": 40.739242147856, 
+        "longitude": -74.036183953285, 
+        "name": "Multi-Service Center - Grand St & 2nd St", 
+        "timestamp": "2017-08-15T04:49:50.948000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "number": "1949", 
+          "slots": 10, 
+          "uid": "1267731"
+        }, 
+        "free_bikes": 0, 
+        "id": "780d12321ff19d95948ff721fca21146", 
+        "latitude": 40.735394, 
+        "longitude": -74.030541, 
+        "name": "Hoboken Terminal South - Observer Hwy & Hudson St", 
+        "timestamp": "2017-08-15T04:49:50.962000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "1941", 
+          "uid": "495316"
+        }, 
+        "free_bikes": 0, 
+        "id": "49fd9e37056a25a9c9bfc17e6f00d119", 
+        "latitude": 40.76011847789, 
+        "longitude": -74.02236521244, 
+        "name": "No Fee Zone - Lincoln Harbor (Virtual)", 
+        "timestamp": "2017-08-15T04:49:50.960000Z"
+      }
+    ]
+  }
+}

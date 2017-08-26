@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-monserrato", 
+    "id": "bicincitta-monserrato", 
+    "location": {
+      "city": "Monserrato", 
+      "country": "IT", 
+      "latitude": 39.2560191, 
+      "longitude": 9.1453579
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Via San Lorenzo / Via Carbonara", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "a863f9bd7390afd86d8c4ab258adeaf4", 
+        "latitude": 39.259112233463554, 
+        "longitude": 9.1370741860527, 
+        "name": "San Lorenzo", 
+        "timestamp": "2017-08-15T04:48:44.964000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Caracalla", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "19d1840e6ac63c1d34c497c6a0d232ce", 
+        "latitude": 39.25483253840623, 
+        "longitude": 9.132708299336173, 
+        "name": "Caracalla", 
+        "timestamp": "2017-08-15T04:48:44.974000Z"
+      }
+    ]
+  }
+}

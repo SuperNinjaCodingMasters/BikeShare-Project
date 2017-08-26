@@ -1,0 +1,122 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/arbike", 
+    "id": "arbike", 
+    "location": {
+      "city": "Arezzo", 
+      "country": "IT", 
+      "latitude": 43.473333, 
+      "longitude": 11.87
+    }, 
+    "name": "ARbike", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazza della Repubblica", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "fd976358e7d74bd737357a549ada1a60", 
+        "latitude": 43.46136102597081, 
+        "longitude": 11.87596321105957, 
+        "name": "Stazione Ferroviaria", 
+        "timestamp": "2017-08-15T04:46:03.208000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "via Piero della Francesca", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "82fd7fdb0185f2c6be15b904ae35a566", 
+        "latitude": 43.46171145801729, 
+        "longitude": 11.876081228256226, 
+        "name": "Stazione Bus", 
+        "timestamp": "2017-08-15T04:46:03.210000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Via Pietro Nenni", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "d13303d7800c2fa0e27e98530e581f1c", 
+        "latitude": 43.46120527774265, 
+        "longitude": 11.86549186706543, 
+        "name": "Ospedale", 
+        "timestamp": "2017-08-15T04:46:03.212000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazza Giotto", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "53bac46442ffbbfb7a04512ba61839b5", 
+        "latitude": 43.45820704614924, 
+        "longitude": 11.886981725692749, 
+        "name": "Giotto", 
+        "timestamp": "2017-08-15T04:46:03.212000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "via Forte Veneziana", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "be05b11fce78a001d088b3e1cb5ab18d", 
+        "latitude": 43.4635959688561, 
+        "longitude": 11.890779733657837, 
+        "name": "Tribunale", 
+        "timestamp": "2017-08-15T04:46:03.213000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "via Baldaccio d'Anghiari", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "133ded06db86f03ef1491752b43c327c", 
+        "latitude": 43.46541033907416, 
+        "longitude": 11.872529983520508, 
+        "name": "Baldaccio", 
+        "timestamp": "2017-08-15T04:46:03.214000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Viale Mecenate", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "ad12fa1f3fb72e0c32cd47f0d43fdb1e", 
+        "latitude": 43.45583171817194, 
+        "longitude": 11.880383491516113, 
+        "name": "Mecenate", 
+        "timestamp": "2017-08-15T04:46:03.215000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Piazza Sant'Agostino", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "c1230d5e69958c608d33b33130b599e3", 
+        "latitude": 43.46239674148269, 
+        "longitude": 11.882497072219849, 
+        "name": "Sant'Agostino", 
+        "timestamp": "2017-08-15T04:46:03.216000Z"
+      }
+    ]
+  }
+}

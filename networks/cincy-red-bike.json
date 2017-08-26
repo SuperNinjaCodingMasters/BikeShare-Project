@@ -1,0 +1,931 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_cincyredbike/gbfs.json", 
+    "href": "/v2/networks/cincy-red-bike", 
+    "id": "cincy-red-bike", 
+    "location": {
+      "city": "Cincinnati, OH", 
+      "country": "US", 
+      "latitude": 39.10138, 
+      "longitude": -84.51217
+    }, 
+    "name": "Cincy Red Bike", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "317 East 6th St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3251"
+        }, 
+        "free_bikes": 7, 
+        "id": "a5a2d40147fe1938c0447b59320f5e03", 
+        "latitude": 39.09325, 
+        "longitude": -84.49064, 
+        "name": "East Row Historic District", 
+        "timestamp": "2017-08-15T04:49:33.991000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "82 E. 5th St. ", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2786"
+        }, 
+        "free_bikes": 7, 
+        "id": "f16a8b2980d9fdf2f9a17be5c3b6d30c", 
+        "latitude": 39.10139, 
+        "longitude": -84.51164, 
+        "name": "Fountain Square", 
+        "timestamp": "2017-08-15T04:49:33.980000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "801 Plum St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2787"
+        }, 
+        "free_bikes": 5, 
+        "id": "51a0dc52ed10508b0e644c8287760c42", 
+        "latitude": 39.10435, 
+        "longitude": -84.51894, 
+        "name": "City Hall", 
+        "timestamp": "2017-08-15T04:49:33.979000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "653 Walnut St. ", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2788"
+        }, 
+        "free_bikes": 2, 
+        "id": "4536b3b023a050cbd0edb7826c63d342", 
+        "latitude": 39.10385, 
+        "longitude": -84.51187, 
+        "name": "Aronoff Center", 
+        "timestamp": "2017-08-15T04:49:33.986000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "122 E. 2nd St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2789"
+        }, 
+        "free_bikes": 6, 
+        "id": "3177fd85e37532c6c98532256b1aa6de", 
+        "latitude": 39.09849, 
+        "longitude": -84.50932, 
+        "name": "Ball Park", 
+        "timestamp": "2017-08-15T04:49:33.986000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "97 E. Freedom Way", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2790"
+        }, 
+        "free_bikes": 0, 
+        "id": "cf2d2420b22aaae2f598b42b89c97ce8", 
+        "latitude": 39.09722, 
+        "longitude": -84.51056, 
+        "name": "Freedom Center", 
+        "timestamp": "2017-08-15T04:49:34.016000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "704 Ohio River Scenic Byway ", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2791"
+        }, 
+        "free_bikes": 8, 
+        "id": "8b56c9a6f50a171df6fe5040831bdc38", 
+        "latitude": 39.10113, 
+        "longitude": -84.49994, 
+        "name": "Sawyer Point", 
+        "timestamp": "2017-08-15T04:49:34.017000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "221 US HWY 27", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2792"
+        }, 
+        "free_bikes": 6, 
+        "id": "09f4ffa815b8e170b1c5ffede64b0b5b", 
+        "latitude": 39.10077, 
+        "longitude": -84.51641, 
+        "name": "Convention Center", 
+        "timestamp": "2017-08-15T04:49:34.019000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "362 Reading Rd. ", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2793"
+        }, 
+        "free_bikes": 10, 
+        "id": "d20044322643f30701d7c2d0b7153b51", 
+        "latitude": 39.1085, 
+        "longitude": -84.50849, 
+        "name": "Casino", 
+        "timestamp": "2017-08-15T04:49:34.020000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "102 W. 3rd St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2794"
+        }, 
+        "free_bikes": 5, 
+        "id": "494863e3e5c029391b2e27fa38a4168e", 
+        "latitude": 39.09789, 
+        "longitude": -84.51721, 
+        "name": "3rd & Plum", 
+        "timestamp": "2017-08-15T04:49:34.021000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "804 Vine St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2795"
+        }, 
+        "free_bikes": 4, 
+        "id": "df10cf79a53ca0439c014821d2eabaa1", 
+        "latitude": 39.10457, 
+        "longitude": -84.51373, 
+        "name": "Public Library", 
+        "timestamp": "2017-08-15T04:49:34.023000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "1 E. Court St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2796"
+        }, 
+        "free_bikes": 5, 
+        "id": "0f0d0fad734cd1c8669bdf340e2877a4", 
+        "latitude": 39.1063, 
+        "longitude": -84.51411, 
+        "name": "Vine & Court", 
+        "timestamp": "2017-08-15T04:49:34.024000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "550 Broadway St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2798"
+        }, 
+        "free_bikes": 8, 
+        "id": "bd693f4d095386bcd0bfddce153161db", 
+        "latitude": 39.10248, 
+        "longitude": -84.5064, 
+        "name": "P & G", 
+        "timestamp": "2017-08-15T04:49:34.027000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "356 E. 8th St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2799"
+        }, 
+        "free_bikes": 7, 
+        "id": "ad23257c64fd540a72ea591cf82529bc", 
+        "latitude": 39.1052, 
+        "longitude": -84.50746, 
+        "name": "8th & Broadway", 
+        "timestamp": "2017-08-15T04:49:34.028000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "192 E. Central Parkway", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2800"
+        }, 
+        "free_bikes": 9, 
+        "id": "96f000a2948f1045a024812a1b44d9cf", 
+        "latitude": 39.10777, 
+        "longitude": -84.51144, 
+        "name": "Main & Central Parkway", 
+        "timestamp": "2017-08-15T04:49:34.011000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1208 Vine St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2801"
+        }, 
+        "free_bikes": 6, 
+        "id": "9064dc77b99e104d81245e7935e72abb", 
+        "latitude": 39.1086, 
+        "longitude": -84.51472, 
+        "name": "12th & Vine", 
+        "timestamp": "2017-08-15T04:49:34.013000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1425 Main St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2802"
+        }, 
+        "free_bikes": 8, 
+        "id": "0aacf186af7c33eccd5aca5c711438f3", 
+        "latitude": 39.11194, 
+        "longitude": -84.51219, 
+        "name": "Main & Orchard", 
+        "timestamp": "2017-08-15T04:49:34.014000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1412 Vine St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2803"
+        }, 
+        "free_bikes": 8, 
+        "id": "bfc564257263dde9801b9412a181c4ce", 
+        "latitude": 39.11153, 
+        "longitude": -84.51548, 
+        "name": "15th & Vine", 
+        "timestamp": "2017-08-15T04:49:34.015000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1384 Elm St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2804"
+        }, 
+        "free_bikes": 9, 
+        "id": "6d91805aaaadfdea7210981f0e639f48", 
+        "latitude": 39.10998, 
+        "longitude": -84.51833, 
+        "name": "Washington Park", 
+        "timestamp": "2017-08-15T04:49:34.005000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1723 Pleasant St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2805"
+        }, 
+        "free_bikes": 7, 
+        "id": "e5ab34992b300d4d07353c48b4579bfd", 
+        "latitude": 39.11455, 
+        "longitude": -84.519, 
+        "name": "Findlay Market", 
+        "timestamp": "2017-08-15T04:49:34.007000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "123 Calhoun St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2806"
+        }, 
+        "free_bikes": 7, 
+        "id": "1d9bb13f237a442a57723d59cb90d9a1", 
+        "latitude": 39.12824, 
+        "longitude": -84.51388, 
+        "name": "Calhoun & Dennis", 
+        "timestamp": "2017-08-15T04:49:34.009000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "166 W McMillan St", 
+          "last_updated": 1502772574, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_cincyredbike_2807"
+        }, 
+        "free_bikes": 4, 
+        "id": "88c7a7b90aaa98dc31a64c9776fc5d3b", 
+        "latitude": 39.12778, 
+        "longitude": -84.51861, 
+        "name": "McMillan & W Clifton", 
+        "timestamp": "2017-08-15T04:49:34.010000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "2600 Vine St. ", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2808"
+        }, 
+        "free_bikes": 4, 
+        "id": "de5d3ffb8bb4db2be35e4675b98993c7", 
+        "latitude": 39.12924, 
+        "longitude": -84.50948, 
+        "name": "Short Vine & Corry", 
+        "timestamp": "2017-08-15T04:49:34Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "4 W. Daniels St. ", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2809"
+        }, 
+        "free_bikes": 5, 
+        "id": "fb2de3c17e01056c197f7ffeebd071a5", 
+        "latitude": 39.13177, 
+        "longitude": -84.50944, 
+        "name": "Short Vine & Daniels", 
+        "timestamp": "2017-08-15T04:49:34.004000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2664 Clifton Ave", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2810"
+        }, 
+        "free_bikes": 5, 
+        "id": "55d51eeba7ca2b7fd029488abd66dc92", 
+        "latitude": 39.13134, 
+        "longitude": -84.52042, 
+        "name": "Clifton at Stratford Heights", 
+        "timestamp": "2017-08-15T04:49:34.048000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2902 Jefferson Ave", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2812"
+        }, 
+        "free_bikes": 6, 
+        "id": "4efcc3a3c1730e22f630c4db54c798c2", 
+        "latitude": 39.13348, 
+        "longitude": -84.5111, 
+        "name": "Jefferson & University", 
+        "timestamp": "2017-08-15T04:49:34.047000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "3400 Vine St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2813"
+        }, 
+        "free_bikes": 8, 
+        "id": "4a641c2c7896965f75e9df9eebfb4290", 
+        "latitude": 39.14222, 
+        "longitude": -84.50997, 
+        "name": "Zoo", 
+        "timestamp": "2017-08-15T04:49:34.046000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "321 Howell Ave", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2814"
+        }, 
+        "free_bikes": 7, 
+        "id": "cdb5f6a9400a5a7a8b8a4c19e7dc4a74", 
+        "latitude": 39.14274, 
+        "longitude": -84.52042, 
+        "name": "Howell & Clifton", 
+        "timestamp": "2017-08-15T04:49:34.045000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "126 Goodman Dr.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2817"
+        }, 
+        "free_bikes": 2, 
+        "id": "edadd0f9d226ecda12b284adf23fe650", 
+        "latitude": 39.13726, 
+        "longitude": -84.5075, 
+        "name": "Kingsgate", 
+        "timestamp": "2017-08-15T04:49:34.043000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "153 E. MLK Drive", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_2820"
+        }, 
+        "free_bikes": 4, 
+        "id": "56fd33b47dfbbafcf9911300c2210805", 
+        "latitude": 39.13534, 
+        "longitude": -84.50585, 
+        "name": "MLK & Eden", 
+        "timestamp": "2017-08-15T04:49:33.994000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2 W 4th Street", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3040"
+        }, 
+        "free_bikes": 3, 
+        "id": "35edd921619c8441f3a36f6ed9fc8dd5", 
+        "latitude": 39.09996, 
+        "longitude": -84.51295, 
+        "name": "4th & Vine", 
+        "timestamp": "2017-08-15T04:49:33.988000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1609 Cumber St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3041"
+        }, 
+        "free_bikes": 7, 
+        "id": "0e4aee7dfb1fbed67fe5b02ba4adf868", 
+        "latitude": 39.11247, 
+        "longitude": -84.50821, 
+        "name": "Prospect Hill", 
+        "timestamp": "2017-08-15T04:49:33.987000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "600 Ezzard Charles Dr.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3042"
+        }, 
+        "free_bikes": 10, 
+        "id": "edc2e079395bc0724a26db27305b928e", 
+        "latitude": 39.10918, 
+        "longitude": -84.52477, 
+        "name": "Ezzard Charles", 
+        "timestamp": "2017-08-15T04:49:33.982000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1249 Broadway St.", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3043"
+        }, 
+        "free_bikes": 7, 
+        "id": "f377743410812dea2fe5e4843aca7d7c", 
+        "latitude": 39.10994, 
+        "longitude": -84.50856, 
+        "name": "Pendleton", 
+        "timestamp": "2017-08-15T04:49:33.977000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "399 Goodman St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3236"
+        }, 
+        "free_bikes": 4, 
+        "id": "a98bf658db1fab2b1dd34ac200a48b6b", 
+        "latitude": 39.13655, 
+        "longitude": -84.50105, 
+        "name": "UC Health", 
+        "timestamp": "2017-08-15T04:49:33.992000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2109 Eden Park Dr", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3237"
+        }, 
+        "free_bikes": 9, 
+        "id": "2408f846cfdca8465e805dc0ce159955", 
+        "latitude": 39.1149, 
+        "longitude": -84.49332, 
+        "name": "Eden Park", 
+        "timestamp": "2017-08-15T04:49:33.995000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1600 Blue Rock", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3238"
+        }, 
+        "free_bikes": 11, 
+        "id": "8cabe120e56f2736376abb3316217108", 
+        "latitude": 39.16019, 
+        "longitude": -84.53973, 
+        "name": "Hoffner Park", 
+        "timestamp": "2017-08-15T04:49:34.030000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "897 Ludlow Ave", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3239"
+        }, 
+        "free_bikes": 6, 
+        "id": "c13e1d663a3b7f579768b5a98cc46d3c", 
+        "latitude": 39.15075, 
+        "longitude": -84.53414, 
+        "name": "Cincy State", 
+        "timestamp": "2017-08-15T04:49:34.032000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "3402 Brookline Ave,", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3240"
+        }, 
+        "free_bikes": 6, 
+        "id": "754fb140a691ca7dd7952add83923104", 
+        "latitude": 39.1423, 
+        "longitude": -84.51537, 
+        "name": "Clifton Library & Burnet Woods", 
+        "timestamp": "2017-08-15T04:49:34.035000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "453 Bank Street,", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3241"
+        }, 
+        "free_bikes": 9, 
+        "id": "4192dabc3e6b546f6fa6a1dc70fb35ca", 
+        "latitude": 39.11904, 
+        "longitude": -84.52666, 
+        "name": "CityLink Center", 
+        "timestamp": "2017-08-15T04:49:34.034000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "31 W 7th St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3242"
+        }, 
+        "free_bikes": 8, 
+        "id": "6d115dd0591fe9bd228fa970c346a16d", 
+        "latitude": 39.08306, 
+        "longitude": -84.51151, 
+        "name": "Duveneck Square", 
+        "timestamp": "2017-08-15T04:49:34.036000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "535 Scott Blvd", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3243"
+        }, 
+        "free_bikes": 6, 
+        "id": "bd6b9bde4cb8a48e0e3b5c10e2fa987e", 
+        "latitude": 39.08505, 
+        "longitude": -84.50893, 
+        "name": "Gateway College & Library ", 
+        "timestamp": "2017-08-15T04:49:34.036000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "306 Greenup St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3244"
+        }, 
+        "free_bikes": 8, 
+        "id": "6930f3e5d9ab0c9bbea8129a4b8179f6", 
+        "latitude": 39.08866, 
+        "longitude": -84.50796, 
+        "name": "Roebling Point", 
+        "timestamp": "2017-08-15T04:49:34.039000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2 E Rivercenter Blvd", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3245"
+        }, 
+        "free_bikes": 6, 
+        "id": "83ff8199204e16371ba7fecb45c23daa", 
+        "latitude": 39.08969, 
+        "longitude": -84.51161, 
+        "name": "Rivercenter & NKY Convention Center", 
+        "timestamp": "2017-08-15T04:49:34.038000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "W 3rd St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3247"
+        }, 
+        "free_bikes": 8, 
+        "id": "98d040122782df3456098b43c197724e", 
+        "latitude": 39.08752, 
+        "longitude": -84.51871, 
+        "name": "West 3rd & Bakewell", 
+        "timestamp": "2017-08-15T04:49:34.040000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "129 East 3rd St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3248"
+        }, 
+        "free_bikes": 11, 
+        "id": "941d27a1a61b686d8a780d0b6a0c9bd6", 
+        "latitude": 39.09484, 
+        "longitude": -84.49515, 
+        "name": "Newport on the Levee East", 
+        "timestamp": "2017-08-15T04:49:34.044000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "55 East 3rd St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3249"
+        }, 
+        "free_bikes": 7, 
+        "id": "22436beb8120e5f228330c36a5b50f89", 
+        "latitude": 39.09417, 
+        "longitude": -84.49637, 
+        "name": "Newport on the Levee West", 
+        "timestamp": "2017-08-15T04:49:34.029000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "401 Riverboat Row", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3252"
+        }, 
+        "free_bikes": 5, 
+        "id": "95b48619a2f8841028f1a201ac75bea5", 
+        "latitude": 39.10216, 
+        "longitude": -84.48891, 
+        "name": "Port Bellevue", 
+        "timestamp": "2017-08-15T04:49:34.030000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "5 W Mehring Way", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3495"
+        }, 
+        "free_bikes": 14, 
+        "id": "c8be0561922ccb84aa818576907aaf5e", 
+        "latitude": 39.09571, 
+        "longitude": -84.51102, 
+        "name": "Smale Riverfront Park", 
+        "timestamp": "2017-08-15T04:49:33.989000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1117 Riverside Drive", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3496"
+        }, 
+        "free_bikes": 3, 
+        "id": "39c1d8f6786eb4dfccb79fbe6d6b6b44", 
+        "latitude": 39.10599, 
+        "longitude": -84.4931, 
+        "name": "Theodore M. Berry International Friendship Park", 
+        "timestamp": "2017-08-15T04:49:33.981000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "215 W Central Parkway,", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3498"
+        }, 
+        "free_bikes": 7, 
+        "id": "23f49daf75321bdede50e42e52ca6d2b", 
+        "latitude": 39.10679, 
+        "longitude": -84.51796, 
+        "name": "YMCA", 
+        "timestamp": "2017-08-15T04:49:33.984000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "700 W Pete Rose Way", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3499"
+        }, 
+        "free_bikes": 3, 
+        "id": "72ff05d1088b285b5a4ac96b17dceac1", 
+        "latitude": 39.0956, 
+        "longitude": -84.52447, 
+        "name": "Longworth Hall", 
+        "timestamp": "2017-08-15T04:49:33.985000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "200 Ward Avenue", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3501"
+        }, 
+        "free_bikes": 6, 
+        "id": "f668da93dac9cd507bf73b198a1903d5", 
+        "latitude": 39.10783, 
+        "longitude": -84.48128, 
+        "name": "Fairfield & Ward", 
+        "timestamp": "2017-08-15T04:49:33.978000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1952 Elm Street", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3503"
+        }, 
+        "free_bikes": 5, 
+        "id": "640db91f7025575e399637ebe5340868", 
+        "latitude": 39.11733, 
+        "longitude": -84.5204, 
+        "name": "Elm & Henry", 
+        "timestamp": "2017-08-15T04:49:33.992000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "529 Main St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3246"
+        }, 
+        "free_bikes": 9, 
+        "id": "017404ea3f12798f9317df1968dbc26c", 
+        "latitude": 39.08441, 
+        "longitude": -84.51759, 
+        "name": "MainStrasse", 
+        "timestamp": "2017-08-15T04:49:34.041000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "707 Monmouth St", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3250"
+        }, 
+        "free_bikes": 9, 
+        "id": "275f7b1b2e5dc201ce540efd7a3b35c5", 
+        "latitude": 39.09008, 
+        "longitude": -84.49187, 
+        "name": "Monmouth", 
+        "timestamp": "2017-08-15T04:49:33.990000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "25 W 2nd Street", 
+          "last_updated": 1502772574, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_cincyredbike_3502"
+        }, 
+        "free_bikes": 7, 
+        "id": "5eb3e210398056149c0f0b2042c7d9d4", 
+        "latitude": 39.09783, 
+        "longitude": -84.51271, 
+        "name": "2nd & Rosa Parks", 
+        "timestamp": "2017-08-15T04:49:33.970000Z"
+      }
+    ]
+  }
+}

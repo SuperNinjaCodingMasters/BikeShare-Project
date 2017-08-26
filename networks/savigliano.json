@@ -1,0 +1,186 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/savigliano", 
+    "id": "savigliano", 
+    "location": {
+      "city": "Savigliano", 
+      "country": "IT", 
+      "latitude": 44.6470327, 
+      "longitude": 7.662463499999999
+    }, 
+    "name": "Savigliano", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "c187689c100a677ed275c15c3df93b09", 
+        "latitude": 44.65111225323054, 
+        "longitude": 7.662979960441589, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:47:51.553000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "270400efc8274596da6d4e199740b046", 
+        "latitude": 44.6434907, 
+        "longitude": 7.6604502, 
+        "name": "Ospedale", 
+        "timestamp": "2017-08-15T04:47:51.556000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "f482f6f02e3f173e0576e966ff6b0e17", 
+        "latitude": 44.647467625985044, 
+        "longitude": 7.654573917388916, 
+        "name": "Piazza del Popolo", 
+        "timestamp": "2017-08-15T04:47:51.557000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "16a5ab3bcb9798d3afefac267902c103", 
+        "latitude": 44.6461427, 
+        "longitude": 7.6558485, 
+        "name": "Piazza Santarosa", 
+        "timestamp": "2017-08-15T04:47:51.561000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "416b5984cf93080e039c40ab7b4f6cda", 
+        "latitude": 44.6462613, 
+        "longitude": 7.6570431, 
+        "name": "Universita`", 
+        "timestamp": "2017-08-15T04:47:51.563000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "61f052d3d4c289556b65e2326470d3ef", 
+        "latitude": 44.64255942054881, 
+        "longitude": 7.661923170089722, 
+        "name": "Palasport", 
+        "timestamp": "2017-08-15T04:47:51.564000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "cfa66cbcea6182c5b4f3b28e6c0a40bf", 
+        "latitude": 44.6415797, 
+        "longitude": 7.6593728, 
+        "name": "Biblioteca", 
+        "timestamp": "2017-08-15T04:47:51.565000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "4e20906b70e78d6c5460b7cb649989b1", 
+        "latitude": 44.6516792, 
+        "longitude": 7.6631947, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:47:51.566000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "b18e249126ea66fb7571bf1e326ad846", 
+        "latitude": 44.650535997568504, 
+        "longitude": 7.654058933258057, 
+        "name": "Posta", 
+        "timestamp": "2017-08-15T04:47:51.567000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "a9dd769fe67aad47a3fe6bd551ff5440", 
+        "latitude": 44.6513956, 
+        "longitude": 7.6704143, 
+        "name": "Alstom", 
+        "timestamp": "2017-08-15T04:47:51.568000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "47d485d3596ac82cba913145d940d65d", 
+        "latitude": 44.64813932319396, 
+        "longitude": 7.657256126403809, 
+        "name": "Municipio", 
+        "timestamp": "2017-08-15T04:47:51.569000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "9b7aa3b43b2aa8384743ce0bfb80cbf8", 
+        "latitude": 44.6564280370788, 
+        "longitude": 7.659873962402344, 
+        "name": "Isoardi", 
+        "timestamp": "2017-08-15T04:47:51.570000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "31b3a87542676bf4de2807a3db53d1e2", 
+        "latitude": 44.64307087035675, 
+        "longitude": 7.663843631744385, 
+        "name": "Borgo Marene", 
+        "timestamp": "2017-08-15T04:47:51.571000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "becc75985a9967cd8bf43d18c7ce8233", 
+        "latitude": 44.655481687667006, 
+        "longitude": 7.655432224273682, 
+        "name": "Togliatti", 
+        "timestamp": "2017-08-15T04:47:51.571000Z"
+      }
+    ]
+  }
+}

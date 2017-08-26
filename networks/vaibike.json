@@ -1,0 +1,83 @@
+{
+  "network": {
+    "company": [
+      "Labici Bicicletas P\u00fablicas SL"
+    ], 
+    "href": "/v2/networks/vaibike", 
+    "id": "vaibike", 
+    "location": {
+      "city": "Vilagarc\u00eda de Arousa", 
+      "country": "ES", 
+      "latitude": 42.5999265, 
+      "longitude": -8.7885744
+    }, 
+    "name": "VaiBike", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": "12", 
+          "uid": "241"
+        }, 
+        "free_bikes": 5, 
+        "id": "aa13b06fdf8aefe2c20fe5a4f6d19dc2", 
+        "latitude": 42.601764, 
+        "longitude": -8.763011, 
+        "name": "Estaci\u00f3n Tren", 
+        "timestamp": "2017-08-15T04:47:48.164000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "12", 
+          "uid": "242"
+        }, 
+        "free_bikes": 2, 
+        "id": "51ce36e5412479cd23311388616d30f9", 
+        "latitude": 42.589153, 
+        "longitude": -8.772318, 
+        "name": "O Pi\u00f1eirino", 
+        "timestamp": "2017-08-15T04:47:48.165000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "slots": "12", 
+          "uid": "240"
+        }, 
+        "free_bikes": 4, 
+        "id": "3ed372956624e26d199b87f23bc7234f", 
+        "latitude": 42.595921, 
+        "longitude": -8.767664, 
+        "name": "O Cavadelo", 
+        "timestamp": "2017-08-15T04:47:48.162000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "12", 
+          "uid": "243"
+        }, 
+        "free_bikes": 2, 
+        "id": "738e274a69b0242855db20dc5cedced1", 
+        "latitude": 42.588111, 
+        "longitude": -8.789024, 
+        "name": "VilaXoan", 
+        "timestamp": "2017-08-15T04:47:48.166000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": "12", 
+          "uid": "244"
+        }, 
+        "free_bikes": 5, 
+        "id": "38eb7842fd6ba720b81983ccc30624f1", 
+        "latitude": 42.614887, 
+        "longitude": -8.775646, 
+        "name": "Carril", 
+        "timestamp": "2017-08-15T04:47:48.167000Z"
+      }
+    ]
+  }
+}

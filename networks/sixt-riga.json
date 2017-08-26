@@ -1,0 +1,550 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/sixt-riga", 
+    "id": "sixt-riga", 
+    "location": {
+      "city": "R\u012bga", 
+      "country": "LV", 
+      "latitude": 56.9453, 
+      "longitude": 24.1033
+    }, 
+    "name": "SiXT", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "42345"
+          ], 
+          "number": "6725", 
+          "slots": 6, 
+          "uid": "750468"
+        }, 
+        "free_bikes": 1, 
+        "id": "872eb701ed7988a68ba7d9e59653e03e", 
+        "latitude": 56.956992213957, 
+        "longitude": 24.13387298584, 
+        "name": "B\u0113rnu pasaule, K.Barona/ Mat\u012bsa ielas krustojums", 
+        "timestamp": "2017-08-15T04:50:17.385000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "42102", 
+            "42212", 
+            "42177", 
+            "42296", 
+            "42289"
+          ], 
+          "number": "6716", 
+          "slots": 12, 
+          "uid": "40604"
+        }, 
+        "free_bikes": 5, 
+        "id": "b38adbeadabee730de88c2dd0d11b7f6", 
+        "latitude": 56.958641904344, 
+        "longitude": 24.105806350708, 
+        "name": "Elizabetes/ Pulkveza Brieza ielas krustojums", 
+        "timestamp": "2017-08-15T04:50:17.342000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "42194"
+          ], 
+          "number": "6670", 
+          "uid": "1505061"
+        }, 
+        "free_bikes": 1, 
+        "id": "cad674ca18b384e1fb94039448d867f2", 
+        "latitude": 56.935565933558, 
+        "longitude": 24.100399017334, 
+        "name": "DELFI birojs", 
+        "timestamp": "2017-08-15T04:50:17.389000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "42281"
+          ], 
+          "number": "6715", 
+          "slots": 14, 
+          "uid": "40600"
+        }, 
+        "free_bikes": 1, 
+        "id": "c22d422abf432ef61b517c2bce28fcd8", 
+        "latitude": 56.954616999547, 
+        "longitude": 24.117924571037, 
+        "name": "Radisson Blu Hotel Latvija, Elizabetes iela 55", 
+        "timestamp": "2017-08-15T04:50:17.321000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "42138", 
+            "42205", 
+            "42246"
+          ], 
+          "number": "6711", 
+          "slots": 10, 
+          "uid": "40601"
+        }, 
+        "free_bikes": 3, 
+        "id": "b696a9947114534eb90dbc42f29923fd", 
+        "latitude": 56.950316657358, 
+        "longitude": 24.111664295197, 
+        "name": "Valnu/ Kalku ielas krustojums", 
+        "timestamp": "2017-08-15T04:50:17.332000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "42286", 
+            "42333"
+          ], 
+          "number": "6713", 
+          "slots": 10, 
+          "uid": "45887"
+        }, 
+        "free_bikes": 2, 
+        "id": "80c53c92fe465a1c8f6987363e1ae953", 
+        "latitude": 56.943944217848, 
+        "longitude": 24.093747138977, 
+        "name": "Radisson Blu Daugava Hotel, Kugu iela 24", 
+        "timestamp": "2017-08-15T04:50:17.348000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "42038", 
+            "42315"
+          ], 
+          "number": "6717", 
+          "slots": 7, 
+          "uid": "65548"
+        }, 
+        "free_bikes": 2, 
+        "id": "237841d374ae4ae59d6c8f2c99ad7250", 
+        "latitude": 56.959466722154, 
+        "longitude": 24.127006530762, 
+        "name": "Dailes Teatris, Brivibas iela 75", 
+        "timestamp": "2017-08-15T04:50:17.349000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "42040"
+          ], 
+          "number": "6714", 
+          "slots": 9, 
+          "uid": "122818"
+        }, 
+        "free_bikes": 1, 
+        "id": "2f6c7ee4c75cb2537f7f0a7da2e963b0", 
+        "latitude": 56.954687205099, 
+        "longitude": 24.108338356018, 
+        "name": "Kongresu nams, Krisjana Valdemara iela 5", 
+        "timestamp": "2017-08-15T04:50:17.351000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "42165"
+          ], 
+          "number": "6707", 
+          "slots": 9, 
+          "uid": "122821"
+        }, 
+        "free_bikes": 1, 
+        "id": "d88a3fbf4e77889d2d3282ecb9146a73", 
+        "latitude": 56.935235211704, 
+        "longitude": 24.071431159973, 
+        "name": "Agenskalna tirgus, Nometnu 64", 
+        "timestamp": "2017-08-15T04:50:17.352000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "42036", 
+            "42111", 
+            "42106", 
+            "42216", 
+            "42244"
+          ], 
+          "number": "6706", 
+          "slots": 10, 
+          "uid": "122825"
+        }, 
+        "free_bikes": 5, 
+        "id": "4cedf0d9b026421b83da554cae60d894", 
+        "latitude": 56.945869523301, 
+        "longitude": 24.073802232742, 
+        "name": "Kalnciema/ Slokas ielas krustojums", 
+        "timestamp": "2017-08-15T04:50:17.353000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "42054", 
+            "42198", 
+            "42178", 
+            "42237", 
+            "42306"
+          ], 
+          "number": "6719", 
+          "slots": 10, 
+          "uid": "122827"
+        }, 
+        "free_bikes": 5, 
+        "id": "b05f733b9ce004da6a40e5e5b6d6c500", 
+        "latitude": 56.978619588604, 
+        "longitude": 24.18571472168, 
+        "name": "Teika, Brivibas gatves/ Lielvardes ielas krustojums", 
+        "timestamp": "2017-08-15T04:50:17.358000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "42022", 
+            "42059", 
+            "42043", 
+            "42114", 
+            "42168"
+          ], 
+          "number": "6705", 
+          "slots": 9, 
+          "uid": "122833"
+        }, 
+        "free_bikes": 5, 
+        "id": "562605a56ca397dc9b0780971582c186", 
+        "latitude": 56.94955014972, 
+        "longitude": 24.083876609802, 
+        "name": "i/c Olimpia, Azenes iela 5", 
+        "timestamp": "2017-08-15T04:50:17.360000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "42088", 
+            "42169", 
+            "42164", 
+            "42358"
+          ], 
+          "number": "6722", 
+          "slots": 7, 
+          "uid": "280520"
+        }, 
+        "free_bikes": 4, 
+        "id": "a2ee1a1ddec27675354835ed5f3657c5", 
+        "latitude": 56.953765746701, 
+        "longitude": 24.100506305695, 
+        "name": "Citadele banka, Republikas laukums 2a", 
+        "timestamp": "2017-08-15T04:50:17.374000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "number": "6721", 
+          "slots": 7, 
+          "uid": "280997"
+        }, 
+        "free_bikes": 0, 
+        "id": "95542cde16ad31aa79557dd559f853bf", 
+        "latitude": 56.977613942595, 
+        "longitude": 24.136791229248, 
+        "name": "DUNTES biroji biznesam, Duntes iela 6", 
+        "timestamp": "2017-08-15T04:50:17.375000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "42332"
+          ], 
+          "number": "6704", 
+          "slots": 5, 
+          "uid": "294349"
+        }, 
+        "free_bikes": 1, 
+        "id": "aa88301b3efe1b463cf300eee4d3424d", 
+        "latitude": 56.941088262531, 
+        "longitude": 24.09782409668, 
+        "name": "Latvijas Nacion\u0101l\u0101 Bibliot\u0113ka, M\u016bkusalas 3", 
+        "timestamp": "2017-08-15T04:50:17.380000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "42072", 
+            "42103", 
+            "42187", 
+            "42277", 
+            "42252"
+          ], 
+          "number": "6708", 
+          "slots": 11, 
+          "uid": "294352"
+        }, 
+        "free_bikes": 5, 
+        "id": "df81d26e07dba5b0a45641ca855244d6", 
+        "latitude": 57.004756853928, 
+        "longitude": 24.155416488647, 
+        "name": "Zood\u0101rzs, Me\u017eaparks, Me\u017ea prospekts", 
+        "timestamp": "2017-08-15T04:50:17.381000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "42028", 
+            "42099", 
+            "42267", 
+            "42311"
+          ], 
+          "number": "6720", 
+          "slots": 5, 
+          "uid": "294354"
+        }, 
+        "free_bikes": 4, 
+        "id": "e0b15e5a6a556aecdccd86491f3a9efd", 
+        "latitude": 57.002139278898, 
+        "longitude": 24.171059131622, 
+        "name": "\u0136eizarme\u017es, Ezermalas iela 30", 
+        "timestamp": "2017-08-15T04:50:17.382000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "42057", 
+            "42238"
+          ], 
+          "number": "6723", 
+          "slots": 6, 
+          "uid": "294358"
+        }, 
+        "free_bikes": 2, 
+        "id": "620670b560d20c857e9bf5ab4a80c593", 
+        "latitude": 56.958314312064, 
+        "longitude": 24.113810062408, 
+        "name": "Albert hotel, Dzirnavu/ Za\u013c\u0101s ielas krustojums", 
+        "timestamp": "2017-08-15T04:50:17.384000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "42163", 
+            "42323", 
+            "42279", 
+            "42350"
+          ], 
+          "number": "6703", 
+          "slots": 7, 
+          "uid": "280516"
+        }, 
+        "free_bikes": 4, 
+        "id": "e471cdfeffe0386824591c7db191298d", 
+        "latitude": 56.958641904344, 
+        "longitude": 24.094948768616, 
+        "name": "Pasa\u017eieru osta, Eksporta iela 3a", 
+        "timestamp": "2017-08-15T04:50:17.364000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "6718", 
+          "slots": 9, 
+          "uid": "122817"
+        }, 
+        "free_bikes": 0, 
+        "id": "7b3b6a8b918892ef33bbfbc068dee8e7", 
+        "latitude": 56.965225313676, 
+        "longitude": 24.133422374725, 
+        "name": "Tallinas/ Miera ielas krustojums", 
+        "timestamp": "2017-08-15T04:50:17.350000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "42249", 
+            "42346"
+          ], 
+          "number": "6712", 
+          "slots": 7, 
+          "uid": "280518"
+        }, 
+        "free_bikes": 2, 
+        "id": "35fdaa454760408086f1d6629ea90269", 
+        "latitude": 56.951153361445, 
+        "longitude": 24.12385225296, 
+        "name": "Lattelecom, Dzirnavu iela 105", 
+        "timestamp": "2017-08-15T04:50:17.367000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "42270", 
+            "42227", 
+            "42322"
+          ], 
+          "number": "6709", 
+          "slots": 5, 
+          "uid": "45886"
+        }, 
+        "free_bikes": 3, 
+        "id": "1391d37d243439cceb56cc910c5d75c0", 
+        "latitude": 56.948391581545, 
+        "longitude": 24.112865924835, 
+        "name": "Galerija Centrs, Audeju 16 (no Valnu ielas)", 
+        "timestamp": "2017-08-15T04:50:17.344000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "42149"
+          ], 
+          "number": "6726", 
+          "slots": 3, 
+          "uid": "279104"
+        }, 
+        "free_bikes": 1, 
+        "id": "3546835e75e5775ca3da93b6e1094659", 
+        "latitude": 56.931840021334, 
+        "longitude": 24.150867462158, 
+        "name": "Moller Auto Krasta, Krasta iela 54", 
+        "timestamp": "2017-08-15T04:50:17.362000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "number": "6710", 
+          "slots": 7, 
+          "uid": "294355"
+        }, 
+        "free_bikes": 0, 
+        "id": "9cbc01318a12c45dbfb138e1457b5611", 
+        "latitude": 56.941673517095, 
+        "longitude": 24.082202911377, 
+        "name": "Bellevue Park Hotel, Slokas/A.Gr\u012bna bulv. krustojums", 
+        "timestamp": "2017-08-15T04:50:17.383000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "42210", 
+            "42287"
+          ], 
+          "number": "6724", 
+          "slots": 5, 
+          "uid": "750471"
+        }, 
+        "free_bikes": 2, 
+        "id": "cf4f05e591c651488ac4ea2e66e28abf", 
+        "latitude": 56.962970531896, 
+        "longitude": 24.125332832336, 
+        "name": "K.Valdem\u0101ra/ A.Bri\u0101na ielas krustojums", 
+        "timestamp": "2017-08-15T04:50:17.388000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "42026", 
+            "42184", 
+            "42292", 
+            "42295", 
+            "42251"
+          ], 
+          "number": "6701", 
+          "slots": 7, 
+          "uid": "294345"
+        }, 
+        "free_bikes": 6, 
+        "id": "48cb5f86081fc6d7fc4e2b5d80e3bda0", 
+        "latitude": 56.949310247145, 
+        "longitude": 24.104851484299, 
+        "name": "Doma laukums", 
+        "timestamp": "2017-08-15T04:50:17.378000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "42195", 
+            "42193", 
+            "42219", 
+            "42236", 
+            "42240"
+          ], 
+          "number": "6727", 
+          "uid": "1559557"
+        }, 
+        "free_bikes": 5, 
+        "id": "9605dddde28d8792c9ae6e171740e62a", 
+        "latitude": 56.926670543323, 
+        "longitude": 24.160104990005, 
+        "name": "Atp\u016btas Centrs LIDO", 
+        "timestamp": "2017-08-15T04:50:17.392000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "42151", 
+            "42147", 
+            "42324", 
+            "42271", 
+            "42242"
+          ], 
+          "number": "6671", 
+          "uid": "1531769"
+        }, 
+        "free_bikes": 5, 
+        "id": "54aa89c0c9419991d81ec76ed1823ff6", 
+        "latitude": 56.926852043358, 
+        "longitude": 24.041411876678, 
+        "name": "SIXT Birojs", 
+        "timestamp": "2017-08-15T04:50:17.390000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "42256", 
+            "42314", 
+            "42301"
+          ], 
+          "number": "6673", 
+          "uid": "1571147"
+        }, 
+        "free_bikes": 3, 
+        "id": "be20c85b0b7ba6343b4306626c24b5b0", 
+        "latitude": 56.95950767008, 
+        "longitude": 24.175243377686, 
+        "name": "TC Minsk", 
+        "timestamp": "2017-08-15T04:50:17.395000Z"
+      }
+    ]
+  }
+}

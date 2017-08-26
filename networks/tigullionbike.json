@@ -1,0 +1,114 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/tigullionbike", 
+    "id": "tigullionbike", 
+    "location": {
+      "city": "Sestri Levante - Lavagna", 
+      "country": "IT", 
+      "latitude": 44.272554, 
+      "longitude": 9.395714
+    }, 
+    "name": "Tigullionbike", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "07460bb75282201c878892ac9bbf3a91", 
+        "latitude": 44.289920540280804, 
+        "longitude": 9.378976821899414, 
+        "name": "Cavi Borgo", 
+        "timestamp": "2017-08-15T04:45:43.583000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "0ed5b55b70e9884bcc44fa2ace78e19c", 
+        "latitude": 44.276302555803, 
+        "longitude": 9.39382553100586, 
+        "name": "Lungomare Descalzo", 
+        "timestamp": "2017-08-15T04:45:43.585000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "cb05963ec93513b49856eaee16d4de32", 
+        "latitude": 44.275810928241086, 
+        "longitude": 9.397130012512207, 
+        "name": "Sestri Levante FS", 
+        "timestamp": "2017-08-15T04:45:43.588000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "f4d6507f8c08be46709dcc0d471f9019", 
+        "latitude": 44.27083296752364, 
+        "longitude": 9.393439292907715, 
+        "name": "Baia delle favole", 
+        "timestamp": "2017-08-15T04:45:43.591000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "2433060b939cca7f4699cc5dab2f9ec2", 
+        "latitude": 44.27261524883095, 
+        "longitude": 9.411849975585938, 
+        "name": "Tannino", 
+        "timestamp": "2017-08-15T04:45:43.592000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "f756bc82b16d890e5901f98bc83d36ff", 
+        "latitude": 44.258601372307474, 
+        "longitude": 9.424552917480469, 
+        "name": "Riva Levante", 
+        "timestamp": "2017-08-15T04:45:43.594000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "cec72fa7468e07be9f0c723ede0ceff0", 
+        "latitude": 44.266906, 
+        "longitude": 9.418236, 
+        "name": "San Bartolomeo", 
+        "timestamp": "2017-08-15T04:45:43.595000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "90aa239ec1ca7545324bb75996ff5c6c", 
+        "latitude": 44.268851, 
+        "longitude": 9.425715999999966, 
+        "name": "Parco Lavagnina", 
+        "timestamp": "2017-08-15T04:45:43.593000Z"
+      }
+    ]
+  }
+}

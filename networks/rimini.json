@@ -1,0 +1,126 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/rimini", 
+    "id": "rimini", 
+    "location": {
+      "city": "Rimini", 
+      "country": "IT", 
+      "latitude": 44.0570817, 
+      "longitude": 12.5646003
+    }, 
+    "name": "Rimini", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "22cc33c159c04bf22442961d6b1717ba", 
+        "latitude": 44.062821505484834, 
+        "longitude": 12.573029100894928, 
+        "name": "01. Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:45:43.495000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "36a6914e208d158ec69fc50d40a1f4a9", 
+        "latitude": 44.05712198142915, 
+        "longitude": 12.57110595703125, 
+        "name": "02. Arco d'Augusto", 
+        "timestamp": "2017-08-15T04:45:43.505000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "f4f253f7c4b34e6c5fb4cd73d97252e4", 
+        "latitude": 44.06254589012873, 
+        "longitude": 12.567688822746277, 
+        "name": "03. Domus del chirurgo", 
+        "timestamp": "2017-08-15T04:45:43.507000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "1516614c7deb3ed9c70d215f5b2f1e3e", 
+        "latitude": 44.058833631009804, 
+        "longitude": 12.572994232177734, 
+        "name": "04. Mercato coperto", 
+        "timestamp": "2017-08-15T04:45:43.508000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "97ce6e12215e7234c40d1c3f82fb322b", 
+        "latitude": 44.05995928349327, 
+        "longitude": 12.576534748077393, 
+        "name": "05. Anfiteatro Romano", 
+        "timestamp": "2017-08-15T04:45:43.509000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "f94c88844eade82fb6b8faf2fdfb22fd", 
+        "latitude": 44.06699027217852, 
+        "longitude": 12.581883072853088, 
+        "name": "06. Piazzale Kennedy", 
+        "timestamp": "2017-08-15T04:45:43.510000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "2835db5cf7bc1fbed858100d07ccc20f", 
+        "latitude": 44.070952544793606, 
+        "longitude": 12.577500343322754, 
+        "name": "07. Fontana dei quattro cavalli", 
+        "timestamp": "2017-08-15T04:45:43.511000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "30005f382567a2a66ae785f641e322da", 
+        "latitude": 44.07698024068153, 
+        "longitude": 12.574925422668457, 
+        "name": "08. Piazzale Boscovich", 
+        "timestamp": "2017-08-15T04:45:43.513000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "4138a79af1c44229a2d7df5c1c1606d0", 
+        "latitude": 44.0588182109642, 
+        "longitude": 12.5628662109375, 
+        "name": "09. Castello Malatestiano", 
+        "timestamp": "2017-08-15T04:45:43.514000Z"
+      }
+    ]
+  }
+}

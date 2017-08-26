@@ -1,0 +1,109 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/pavia-in-bici", 
+    "id": "pavia-in-bici", 
+    "location": {
+      "city": "Pavia", 
+      "country": "IT", 
+      "latitude": 45.1847248, 
+      "longitude": 9.1582069
+    }, 
+    "name": "Pavia in bici", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Piazzale della Stazione", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "f4150fde16ecb7c7cf77ddb0f79115d1", 
+        "latitude": 45.18861235739361, 
+        "longitude": 9.145165851520574, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:47:38.729000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Viale Camillo Golgi", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "5a604def45ff1330d66933f2a72a433c", 
+        "latitude": 45.19568514622511, 
+        "longitude": 9.148757021812344, 
+        "name": "Policlinico", 
+        "timestamp": "2017-08-15T04:47:38.733000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Piazza della Vittoria", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "550c574d4b9152db11674defd7af7499", 
+        "latitude": 45.18491812489748, 
+        "longitude": 9.154333677246086, 
+        "name": "Vittoria", 
+        "timestamp": "2017-08-15T04:47:38.736000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Piazza Da Vinci, 5", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "0bf221f08ea65feebeff6fe78f3dd8b3", 
+        "latitude": 45.186610940276886, 
+        "longitude": 9.157326415344187, 
+        "name": "Da Vinci", 
+        "timestamp": "2017-08-15T04:47:38.737000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Piazzale Ghinaglia", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "8d4175a615fb02bb380b7aeded1c7499", 
+        "latitude": 45.17976917557315, 
+        "longitude": 9.151923100524868, 
+        "name": "Ghinaglia", 
+        "timestamp": "2017-08-15T04:47:38.738000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Viale Indipendenza", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "1125772c4fb4365cca981f631d5301b2", 
+        "latitude": 45.195016553904004, 
+        "longitude": 9.153667712164292, 
+        "name": "Indipendenza", 
+        "timestamp": "2017-08-15T04:47:38.740000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Via Ferrata", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "dd96355307ac9e01ec601af6bd5006ba", 
+        "latitude": 45.201826605233656, 
+        "longitude": 9.139541132540899, 
+        "name": "Universita`", 
+        "timestamp": "2017-08-15T04:47:38.742000Z"
+      }
+    ]
+  }
+}

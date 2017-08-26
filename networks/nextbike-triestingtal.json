@@ -1,0 +1,96 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-triestingtal", 
+    "id": "nextbike-triestingtal", 
+    "location": {
+      "city": "Triestingtal", 
+      "country": "AT", 
+      "latitude": 47.9421, 
+      "longitude": 16.1149
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09711", 
+            "09820", 
+            "08685", 
+            "08381"
+          ], 
+          "number": "3103", 
+          "uid": "43855"
+        }, 
+        "free_bikes": 4, 
+        "id": "fde11e31fa461c727fa6c6014899361b", 
+        "latitude": 47.9838, 
+        "longitude": 16.04535, 
+        "name": "Weissenbach / Bahnhof", 
+        "timestamp": "2017-08-15T04:48:46.703000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09545", 
+            "09751", 
+            "09764", 
+            "09970", 
+            "08975"
+          ], 
+          "number": "3100", 
+          "uid": "43857"
+        }, 
+        "free_bikes": 7, 
+        "id": "ccc6fab363f00450bc1baa2f8e6f2ca1", 
+        "latitude": 47.93739, 
+        "longitude": 16.23092, 
+        "name": "Leobersdorf / Bahnhof ", 
+        "timestamp": "2017-08-15T04:48:46.707000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09841", 
+            "09858", 
+            "09598", 
+            "08745"
+          ], 
+          "number": "3101", 
+          "uid": "43858"
+        }, 
+        "free_bikes": 4, 
+        "id": "1c96a4f80bf07f49d2133ba575f68abf", 
+        "latitude": 47.92853, 
+        "longitude": 16.21657, 
+        "name": "Leobersdorf / Rathausplatz ", 
+        "timestamp": "2017-08-15T04:48:46.708000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09793", 
+            "09256", 
+            "08669", 
+            "08539", 
+            "08505"
+          ], 
+          "number": "3102", 
+          "uid": "43856"
+        }, 
+        "free_bikes": 5, 
+        "id": "5a588ee186704120920b93646aeef49a", 
+        "latitude": 47.94476, 
+        "longitude": 16.10842, 
+        "name": "Berndorf Bahnhof / Ortszentrum ", 
+        "timestamp": "2017-08-15T04:48:46.706000Z"
+      }
+    ]
+  }
+}

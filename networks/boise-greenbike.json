@@ -1,0 +1,772 @@
+{
+  "network": {
+    "company": [
+      "ValleyRide", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "http://boise.greenbike.com/opendata/gbfs.json", 
+    "href": "/v2/networks/boise-greenbike", 
+    "id": "boise-greenbike", 
+    "location": {
+      "city": "Boise, ID", 
+      "country": "US", 
+      "latitude": 43.6153060610528, 
+      "longitude": -116.201761349309
+    }, 
+    "name": "Boise GreenBike", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2153 East Riverwalk Drive, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2600"
+        }, 
+        "free_bikes": 2, 
+        "id": "d3a876fedc455ed1d0d47ef48ca8f96b", 
+        "latitude": 43.574576228477554, 
+        "longitude": -116.15578651428223, 
+        "name": "Library! at Bown Crossing", 
+        "timestamp": "2017-08-15T04:49:32.113000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2445 Old Penitentiary Road, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1694"
+        }, 
+        "free_bikes": 0, 
+        "id": "5ea4108a1bb29c8d30e17633d5249b61", 
+        "latitude": 43.60162036002996, 
+        "longitude": -116.1624813079834, 
+        "name": "Idaho Botanical Garden", 
+        "timestamp": "2017-08-15T04:49:32.120000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1101 Boise River Greenbelt, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2818"
+        }, 
+        "free_bikes": 2, 
+        "id": "5b88436cf1770cf91e4fbe433baf2763", 
+        "latitude": 43.6113020858839, 
+        "longitude": -116.21557831764221, 
+        "name": "Ann Morrison Park - Gym", 
+        "timestamp": "2017-08-15T04:49:32.169000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1101 Boise River Greenbelt, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2928"
+        }, 
+        "free_bikes": 2, 
+        "id": "263a528886b3d153a244e33500f2c18e", 
+        "latitude": 43.61346351016961, 
+        "longitude": -116.2203124165535, 
+        "name": "Ann Morrison Park - Playground ", 
+        "timestamp": "2017-08-15T04:49:32.162000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "815 Ann Morrison Park Drive, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3148"
+        }, 
+        "free_bikes": 1, 
+        "id": "a35f3100abd0998f422a91a68326d473", 
+        "latitude": 43.60583409301776, 
+        "longitude": -116.21521890163422, 
+        "name": "Ann Morrison Park - SE", 
+        "timestamp": "2017-08-15T04:49:32.168000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "650 West Main Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2392"
+        }, 
+        "free_bikes": 3, 
+        "id": "48e57a83e43c057869cc9ce58b6e8ebd", 
+        "latitude": 43.61486126968673, 
+        "longitude": -116.20163887739182, 
+        "name": "City Hall", 
+        "timestamp": "2017-08-15T04:49:32.145000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "300-394 North 8th Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_683"
+        }, 
+        "free_bikes": 12, 
+        "id": "b875d6572c652ff0bb02eaffc4f42d75", 
+        "latitude": 43.61732785773481, 
+        "longitude": -116.20162546634673, 
+        "name": "Borah Post Office", 
+        "timestamp": "2017-08-15T04:49:32.102000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Piper Pub, North 8th Street, Boise City, Idaho", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2244"
+        }, 
+        "free_bikes": 0, 
+        "id": "8ff23b2e67ee027461eb202f870b5e83", 
+        "latitude": 43.61544189534946, 
+        "longitude": -116.2030416727066, 
+        "name": "Main Street Station", 
+        "timestamp": "2017-08-15T04:49:32.096000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "100-156 East Bannock Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_698"
+        }, 
+        "free_bikes": 8, 
+        "id": "25fa2d64ac9cdfff2863f519e37cc32f", 
+        "latitude": 43.611975961447996, 
+        "longitude": -116.19313895702362, 
+        "name": "St. Luke's", 
+        "timestamp": "2017-08-15T04:49:32.138000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "The Grove Hotel, 245, South Capitol Boulevard, Boise City, Idaho", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1263"
+        }, 
+        "free_bikes": 0, 
+        "id": "e286948c09da8171e86483530a49520b", 
+        "latitude": 43.61348292962241, 
+        "longitude": -116.20399117469788, 
+        "name": "BSU Downtown", 
+        "timestamp": "2017-08-15T04:49:32.160000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "216 West Front Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_695"
+        }, 
+        "free_bikes": 6, 
+        "id": "b56e4b2160bbc1070e0e9eedaad2eeef", 
+        "latitude": 43.61065927535552, 
+        "longitude": -116.19857847690582, 
+        "name": "Courthouse", 
+        "timestamp": "2017-08-15T04:49:32.123000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "648-698 West Grove Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_947"
+        }, 
+        "free_bikes": 1, 
+        "id": "5ccc417b1a2b5d3183868c98bac9efd3", 
+        "latitude": 43.61416260651972, 
+        "longitude": -116.20282709598541, 
+        "name": "Basque Block Bike Corral", 
+        "timestamp": "2017-08-15T04:49:32.173000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "3775 North Adams Street, Garden City", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2797"
+        }, 
+        "free_bikes": 2, 
+        "id": "24fc2287e07b40795343dc9000c6ea60", 
+        "latitude": 43.62819427059654, 
+        "longitude": -116.23957872390747, 
+        "name": "ACHD Station Hub", 
+        "timestamp": "2017-08-15T04:49:32.142000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "599 South 5th Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2819"
+        }, 
+        "free_bikes": 2, 
+        "id": "ab9538e3a9bc843b88d1acf82b998419", 
+        "latitude": 43.610277785370535, 
+        "longitude": -116.20340913534164, 
+        "name": "Julia Davis Park - 5th Street Entrance", 
+        "timestamp": "2017-08-15T04:49:32.111000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "355 Julia Davis Drive, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2820"
+        }, 
+        "free_bikes": 0, 
+        "id": "322c8484222725cecdcfe90e3716d9bb", 
+        "latitude": 43.608320168608245, 
+        "longitude": -116.20330452919006, 
+        "name": "Julia Davis Park - Zoo Boise", 
+        "timestamp": "2017-08-15T04:49:32.167000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "464-498 North 15th Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1676"
+        }, 
+        "free_bikes": 0, 
+        "id": "4bece925760b73a29c5d5b5b0648c8e3", 
+        "latitude": 43.622667627827774, 
+        "longitude": -116.20890229940414, 
+        "name": "Dutch Bros", 
+        "timestamp": "2017-08-15T04:49:32.098000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "10 Barrel Brewpub and Restaurant, West Bannock Street, Boise City, Idaho", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1186"
+        }, 
+        "free_bikes": 0, 
+        "id": "0d42bf025aa7882f6a64134d6d1341ac", 
+        "latitude": 43.61767350084443, 
+        "longitude": -116.20292365550996, 
+        "name": "10 Barrel", 
+        "timestamp": "2017-08-15T04:49:32.138000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1314 West Grove Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1187"
+        }, 
+        "free_bikes": 2, 
+        "id": "de8b81cb87821eb03a6e3e97caf7c1b5", 
+        "latitude": 43.61819001987773, 
+        "longitude": -116.21069669723511, 
+        "name": "Modern Hotel", 
+        "timestamp": "2017-08-15T04:49:32.136000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2300-2324 West University Drive, Boise State University, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1200"
+        }, 
+        "free_bikes": 0, 
+        "id": "82dc5ca814506dcffdab8fc381500f70", 
+        "latitude": 43.605165004071324, 
+        "longitude": -116.20976865291595, 
+        "name": "Business & Economics Bldg", 
+        "timestamp": "2017-08-15T04:49:32.156000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1362-1390 South Brady Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1201"
+        }, 
+        "free_bikes": 0, 
+        "id": "777f5acf7869f2cc8cae711140d802c9", 
+        "latitude": 43.60637887517937, 
+        "longitude": -116.20692014694214, 
+        "name": "Morrison Center", 
+        "timestamp": "2017-08-15T04:49:32.155000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1942 Campus Lane, Boise State University, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1202"
+        }, 
+        "free_bikes": 0, 
+        "id": "c1f3c7ec7b26ce5776ba10a9f8d5d761", 
+        "latitude": 43.60481346227348, 
+        "longitude": -116.20380878448486, 
+        "name": "Albertsons Library", 
+        "timestamp": "2017-08-15T04:49:32.158000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1402 Bronco Lane, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1203"
+        }, 
+        "free_bikes": 0, 
+        "id": "bc556744ce0acd66d7ec97cb358de6d8", 
+        "latitude": 43.60238563238829, 
+        "longitude": -116.19834780693054, 
+        "name": "Bronco Lane", 
+        "timestamp": "2017-08-15T04:49:32.157000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1010 South Euclid Avenue, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1204"
+        }, 
+        "free_bikes": 4, 
+        "id": "6a8141afd2490ce22361328436bb25b7", 
+        "latitude": 43.600499626269716, 
+        "longitude": -116.1967733502388, 
+        "name": "Environmental Research", 
+        "timestamp": "2017-08-15T04:49:32.161000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "855-881 West Broad Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1360"
+        }, 
+        "free_bikes": 3, 
+        "id": "e37d83d0d29da29f3162e436c7920c04", 
+        "latitude": 43.613708194816596, 
+        "longitude": -116.206716299057, 
+        "name": "BoDo Hub", 
+        "timestamp": "2017-08-15T04:49:32.151000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1059 South Lusk Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1365"
+        }, 
+        "free_bikes": 0, 
+        "id": "ce606b2c7253d6fee56ffc5dbbff9f88", 
+        "latitude": 43.60811126996436, 
+        "longitude": -116.211941242218, 
+        "name": "Boise Bicycle Project", 
+        "timestamp": "2017-08-15T04:49:32.154000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Alturas Street, Boise City, Idaho", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1677"
+        }, 
+        "free_bikes": 2, 
+        "id": "e6ea50e5ffef6e6c73d4a8066a30eaa4", 
+        "latitude": 43.62930381539501, 
+        "longitude": -116.20344400405884, 
+        "name": "Hyde Park", 
+        "timestamp": "2017-08-15T04:49:32.099000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "733 South Pioneer Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1678"
+        }, 
+        "free_bikes": 0, 
+        "id": "f33a065426a892469284c06824311714", 
+        "latitude": 43.613475161842054, 
+        "longitude": -116.21495068073273, 
+        "name": "Payette Brewing", 
+        "timestamp": "2017-08-15T04:49:32.100000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "299 East 32nd Street, Garden City", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1679"
+        }, 
+        "free_bikes": 0, 
+        "id": "ce2d60801692dc4a73a054120eda09bb", 
+        "latitude": 43.62283460935435, 
+        "longitude": -116.23483657836914, 
+        "name": "Telaya Winery", 
+        "timestamp": "2017-08-15T04:49:32.101000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2493-2551 North Harrison Hollow Lane, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1680"
+        }, 
+        "free_bikes": 3, 
+        "id": "a81c54a8364066760fc21906689c5146", 
+        "latitude": 43.64245753282772, 
+        "longitude": -116.20852947235107, 
+        "name": "Highlands Hollow", 
+        "timestamp": "2017-08-15T04:49:32.153000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "178-298 Fort Place, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1681"
+        }, 
+        "free_bikes": 0, 
+        "id": "b0b34e0d6bec2aebb3c7a9b4ba9223c2", 
+        "latitude": 43.61613750910408, 
+        "longitude": -116.19089126586914, 
+        "name": "Fort Boise Community Center", 
+        "timestamp": "2017-08-15T04:49:32.152000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "950-996 West State Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_684"
+        }, 
+        "free_bikes": 6, 
+        "id": "cab5d19adae3bd505a731226d4141067", 
+        "latitude": 43.6204074833528, 
+        "longitude": -116.203509457114, 
+        "name": "YMCA", 
+        "timestamp": "2017-08-15T04:49:32.107000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1227-1343 West Main Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_685"
+        }, 
+        "free_bikes": 7, 
+        "id": "e41e97346089a2afec613c223fa6f82c", 
+        "latitude": 43.6184439812208, 
+        "longitude": -116.209214916003, 
+        "name": "13th & Main", 
+        "timestamp": "2017-08-15T04:49:32.103000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "808-880 West Fort Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_687"
+        }, 
+        "free_bikes": 5, 
+        "id": "d20fcc4d02b0115f7159fcbec24e74bd", 
+        "latitude": 43.622236580347796, 
+        "longitude": -116.19853019714354, 
+        "name": "Boise Co-op", 
+        "timestamp": "2017-08-15T04:49:32.110000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "400-498 North 5th Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_688"
+        }, 
+        "free_bikes": 7, 
+        "id": "9f9fe4f48904f47582a5f0a0c4f2dbf5", 
+        "latitude": 43.6167171444809, 
+        "longitude": -116.197117590418, 
+        "name": "U of I Law Center", 
+        "timestamp": "2017-08-15T04:49:32.086000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "1742 West University Drive, Boise State University, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_692"
+        }, 
+        "free_bikes": 4, 
+        "id": "c9993a1364ea603441896484cc867275", 
+        "latitude": 43.6019724508262, 
+        "longitude": -116.202051842608, 
+        "name": "Boise State SUB", 
+        "timestamp": "2017-08-15T04:49:32.124000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "(PAAW) Public Affairs and Arts West Building, 2100, West University Drive, Boise City, Idaho", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_693"
+        }, 
+        "free_bikes": 4, 
+        "id": "e450e59b5103c873d89b8abe9c106491", 
+        "latitude": 43.604149217914006, 
+        "longitude": -116.20644271373749, 
+        "name": "Boise State Interactive Learning Center", 
+        "timestamp": "2017-08-15T04:49:32.139000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1468-1484 Shoreline Drive, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_694"
+        }, 
+        "free_bikes": 3, 
+        "id": "ef8dbec292fc138cfe386ec8ddb3f849", 
+        "latitude": 43.61545979710503, 
+        "longitude": -116.21904373168945, 
+        "name": "Shoreline", 
+        "timestamp": "2017-08-15T04:49:32.122000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Jackson's, West Myrtle Street, Boise City, Idaho", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_699"
+        }, 
+        "free_bikes": 2, 
+        "id": "088f69c6e52284c330b87bd5cde8b8b7", 
+        "latitude": 43.611688545704325, 
+        "longitude": -116.20629787445067, 
+        "name": "Fulton Street", 
+        "timestamp": "2017-08-15T04:49:32.172000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "600-698 West Broad Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_700"
+        }, 
+        "free_bikes": 5, 
+        "id": "42d3ad952fa7525098f7b53b26b5c564", 
+        "latitude": 43.6122921157811, 
+        "longitude": -116.203501910451, 
+        "name": "BodyBuilding.com 6th & Broad", 
+        "timestamp": "2017-08-15T04:49:32.117000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1017 Main Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2393"
+        }, 
+        "free_bikes": 1, 
+        "id": "58c5dd1f9ed242d4b6d8c2a20fc75c37", 
+        "latitude": 43.61708427983475, 
+        "longitude": -116.20656877756119, 
+        "name": "Olympic Hotel/Mulligan's", 
+        "timestamp": "2017-08-15T04:49:32.146000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "249 South 8th Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1440"
+        }, 
+        "free_bikes": 5, 
+        "id": "3d1eef3c8e6718e2dab7d5140e1b3a13", 
+        "latitude": 43.614368450007376, 
+        "longitude": -116.20462417602539, 
+        "name": "Grove Plaza", 
+        "timestamp": "2017-08-15T04:49:32.103000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "374 East Front Street, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_697"
+        }, 
+        "free_bikes": 6, 
+        "id": "53d6183321ea221fccd66bb995f121e5", 
+        "latitude": 43.608806544338876, 
+        "longitude": -116.1942708492279, 
+        "name": "U of I - Boise", 
+        "timestamp": "2017-08-15T04:49:32.121000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "220 Parkcenter Boulevard, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1264"
+        }, 
+        "free_bikes": 2, 
+        "id": "71fdb7a66c562a4b61656fc4f5b6702e", 
+        "latitude": 43.599786774473365, 
+        "longitude": -116.18381023406982, 
+        "name": "Yanke Research Center", 
+        "timestamp": "2017-08-15T04:49:32.171000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "412 East Parkcenter Boulevard, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1382"
+        }, 
+        "free_bikes": 2, 
+        "id": "e618d94c9c88a9c8dd79560be565f38d", 
+        "latitude": 43.59619713589244, 
+        "longitude": -116.17565631866455, 
+        "name": "River Quarry", 
+        "timestamp": "2017-08-15T04:49:32.143000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Boise River Greenbelt, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3146"
+        }, 
+        "free_bikes": 2, 
+        "id": "fad8dbf7eec9a7cdd258c4a84f47f242", 
+        "latitude": 43.62648199622747, 
+        "longitude": -116.23199343681335, 
+        "name": "Esther Simplot Pathway", 
+        "timestamp": "2017-08-15T04:49:32.170000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1261 East Kimberley Lane, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2702"
+        }, 
+        "free_bikes": 0, 
+        "id": "59a8f0a347d7b9e7961b4aabd176f86a", 
+        "latitude": 43.60047049087547, 
+        "longitude": -116.18529081344604, 
+        "name": "Municipal Park", 
+        "timestamp": "2017-08-15T04:49:32.114000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Boise River Greenbelt, Boise", 
+          "last_updated": 1502772569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3147"
+        }, 
+        "free_bikes": 2, 
+        "id": "2d854a8de1c1cfa913825bbfb0a95f1b", 
+        "latitude": 43.569114736740055, 
+        "longitude": -116.12108945846558, 
+        "name": "Harris Ranch", 
+        "timestamp": "2017-08-15T04:49:32.170000Z"
+      }
+    ]
+  }
+}

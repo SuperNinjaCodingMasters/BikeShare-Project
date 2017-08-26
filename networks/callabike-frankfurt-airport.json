@@ -1,0 +1,38 @@
+{
+  "network": {
+    "company": [
+      "DB Rent GmbH"
+    ], 
+    "href": "/v2/networks/callabike-frankfurt-airport", 
+    "id": "callabike-frankfurt-airport", 
+    "location": {
+      "city": "Frankfurt am Main Airport", 
+      "country": "DE", 
+      "latitude": 50.037933, 
+      "longitude": 8.562152
+    }, 
+    "name": "Call-A-Bike Frankfurt Airport", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "92b2557ce470bd11eda51c17b738abb0", 
+        "latitude": 50.051515, 
+        "longitude": 8.572899, 
+        "name": "6002 Terminal 1 / Busbahnhof", 
+        "timestamp": "2017-02-22T13:13:29.012000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 23, 
+        "id": "1c8add07eead6779d3d28d64373a3e78", 
+        "latitude": 50.05634, 
+        "longitude": 8.591024, 
+        "name": "6001 DB Schenker / HOLM", 
+        "timestamp": "2017-02-22T13:13:29.015000Z"
+      }
+    ]
+  }
+}

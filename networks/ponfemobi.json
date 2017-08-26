@@ -1,0 +1,395 @@
+{
+  "network": {
+    "company": [
+      "Labici Bicicletas P\u00fablicas SL"
+    ], 
+    "href": "/v2/networks/ponfemobi", 
+    "id": "ponfemobi", 
+    "location": {
+      "city": "Ponferrada", 
+      "country": "ES", 
+      "latitude": 42.5499958, 
+      "longitude": -6.598259000000001
+    }, 
+    "name": "PonfeMobi", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "slots": "16", 
+          "uid": "140"
+        }, 
+        "free_bikes": 4, 
+        "id": "fcb37c462be24613e1e3aa907248a3b3", 
+        "latitude": 42.547654, 
+        "longitude": -6.597987, 
+        "name": "06 - Pza Lazurtegui", 
+        "timestamp": "2017-08-15T04:49:04.691000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "154"
+        }, 
+        "free_bikes": 0, 
+        "id": "9cd0960d89a56773cd64489953554dae", 
+        "latitude": 42.545405, 
+        "longitude": -6.585795, 
+        "name": "20 - Plz Sanchez Albornoz", 
+        "timestamp": "2017-08-15T04:49:04.703000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "135"
+        }, 
+        "free_bikes": 0, 
+        "id": "94d56e630e1cb6b49c4d057130466116", 
+        "latitude": 42.560161, 
+        "longitude": -6.624033, 
+        "name": "01 - Avd. Galicia", 
+        "timestamp": "2017-08-15T04:49:04.686000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": "12", 
+          "uid": "136"
+        }, 
+        "free_bikes": 5, 
+        "id": "f23ba991dff1a36797737b6a57582962", 
+        "latitude": 42.547169, 
+        "longitude": -6.5881522, 
+        "name": "02 - Calle Ancha", 
+        "timestamp": "2017-08-15T04:49:04.688000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "slots": "20", 
+          "uid": "137"
+        }, 
+        "free_bikes": 4, 
+        "id": "5d93cb874ccc527e79814d50db9db05c", 
+        "latitude": 42.547717, 
+        "longitude": -6.603353, 
+        "name": "03 - Edif. Minero", 
+        "timestamp": "2017-08-15T04:49:04.689000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": "10", 
+          "uid": "138"
+        }, 
+        "free_bikes": 4, 
+        "id": "7b2b41c43dbfe6587fec0c60cbd2134e", 
+        "latitude": 42.545374, 
+        "longitude": -6.615089, 
+        "name": "04 - Avd. La Martina", 
+        "timestamp": "2017-08-15T04:49:04.690000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "slots": "20", 
+          "uid": "139"
+        }, 
+        "free_bikes": 3, 
+        "id": "ba0d36467f8ade05d3ae7894b5bf1ab9", 
+        "latitude": 42.552723, 
+        "longitude": -6.600359, 
+        "name": "05 - Estaci\u00f3n Autobuses", 
+        "timestamp": "2017-08-15T04:49:04.690000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "141"
+        }, 
+        "free_bikes": 2, 
+        "id": "30c4d84cb244289816e2310a711359ef", 
+        "latitude": 42.549934, 
+        "longitude": -6.598325, 
+        "name": "07 - Intercambiador Autobuses", 
+        "timestamp": "2017-08-15T04:49:04.692000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "142"
+        }, 
+        "free_bikes": 0, 
+        "id": "3e5962e3344722274a14f88e1c7d7122", 
+        "latitude": 42.552969, 
+        "longitude": -6.615362, 
+        "name": "08 - Pol. Ind. del Bierzo", 
+        "timestamp": "2017-08-15T04:49:04.693000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": "20", 
+          "uid": "143"
+        }, 
+        "free_bikes": 5, 
+        "id": "af27830e5d0fef458fac683bcf267ceb", 
+        "latitude": 42.55598, 
+        "longitude": -6.601766, 
+        "name": "09 - CC El Rosal", 
+        "timestamp": "2017-08-15T04:49:04.694000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": "20", 
+          "uid": "144"
+        }, 
+        "free_bikes": 5, 
+        "id": "59819597d10e6e51c5ffe934819007d6", 
+        "latitude": 42.5521753, 
+        "longitude": -6.594531, 
+        "name": "10 - Glorieta Las Pimenteras", 
+        "timestamp": "2017-08-15T04:49:04.695000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": "18", 
+          "uid": "145"
+        }, 
+        "free_bikes": 3, 
+        "id": "6a81a24e17bfbb2bdcb7ea75bbb2e614", 
+        "latitude": 42.546961, 
+        "longitude": -6.592186, 
+        "name": "11 - Plz de las Nieves", 
+        "timestamp": "2017-08-15T04:49:04.695000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "146"
+        }, 
+        "free_bikes": 0, 
+        "id": "cc664d24c1d79bc2f2c8131193c0be7e", 
+        "latitude": 42.55208, 
+        "longitude": -6.584975, 
+        "name": "12 - Piscinas Universidad", 
+        "timestamp": "2017-08-15T04:49:04.696000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "147"
+        }, 
+        "free_bikes": 0, 
+        "id": "2f1d82090d3519ea685fadcd4227ec9f", 
+        "latitude": 42.563573, 
+        "longitude": -6.599815, 
+        "name": "13 - Compostilla", 
+        "timestamp": "2017-08-15T04:49:04.697000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "150"
+        }, 
+        "free_bikes": 0, 
+        "id": "42ed01b6a43ca59752576d6ceb935eeb", 
+        "latitude": 42.54475, 
+        "longitude": -6.592775, 
+        "name": "16 - Herrerias", 
+        "timestamp": "2017-08-15T04:49:04.700000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "149"
+        }, 
+        "free_bikes": 0, 
+        "id": "f8047b8218e123166a41b7eb5b4c6c70", 
+        "latitude": 42.550564, 
+        "longitude": -6.627834, 
+        "name": "15 - Plz de Castilla", 
+        "timestamp": "2017-08-15T04:49:04.699000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "slots": "20", 
+          "uid": "151"
+        }, 
+        "free_bikes": 0, 
+        "id": "b5326aa40e558a6ecab599dd9feae557", 
+        "latitude": 42.550554, 
+        "longitude": -6.604239, 
+        "name": "17 - Glorieta la Pizarra", 
+        "timestamp": "2017-08-15T04:49:04.701000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "slots": "20", 
+          "uid": "152"
+        }, 
+        "free_bikes": 4, 
+        "id": "27545be5050a49b3b9d5675884c93bcb", 
+        "latitude": 42.545447, 
+        "longitude": -6.598512, 
+        "name": "18 - Plz Navaliegos", 
+        "timestamp": "2017-08-15T04:49:04.702000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "slots": "20", 
+          "uid": "153"
+        }, 
+        "free_bikes": 4, 
+        "id": "cd17a702c05d0bbbf58351a3d29b94c2", 
+        "latitude": 42.54602, 
+        "longitude": -6.596547, 
+        "name": "19 - Mercado Abastos", 
+        "timestamp": "2017-08-15T04:49:04.703000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": "20", 
+          "uid": "155"
+        }, 
+        "free_bikes": 5, 
+        "id": "c737c1e109d0130a6182bc288ccd5997", 
+        "latitude": 42.545426, 
+        "longitude": -6.590148, 
+        "name": "21 - Plz Ayuntamiento", 
+        "timestamp": "2017-08-15T04:49:04.705000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "156"
+        }, 
+        "free_bikes": 0, 
+        "id": "f55e8cff572bd3583814b97338a1c4b6", 
+        "latitude": 42.552627, 
+        "longitude": -6.597416, 
+        "name": "22 -Avd Reino de Leon", 
+        "timestamp": "2017-08-15T04:49:04.705000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "slots": "20", 
+          "uid": "158"
+        }, 
+        "free_bikes": 3, 
+        "id": "ab3f49f1f24567aaca43bc0fa7b92098", 
+        "latitude": 42.55529, 
+        "longitude": -6.60572, 
+        "name": "24 - Bulevar Juan Carlos I", 
+        "timestamp": "2017-08-15T04:49:04.707000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "159"
+        }, 
+        "free_bikes": 0, 
+        "id": "f6b2afd894a042900113357bd45f4183", 
+        "latitude": 42.548953, 
+        "longitude": -6.586593, 
+        "name": "25 - Paseo San Antonio", 
+        "timestamp": "2017-08-15T04:49:04.708000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "160"
+        }, 
+        "free_bikes": 0, 
+        "id": "277f0bda3f3fdd9b10c039d53d065f80", 
+        "latitude": 42.55558, 
+        "longitude": -6.596777, 
+        "name": "26 - Piscinas Municipales", 
+        "timestamp": "2017-08-15T04:49:04.709000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "161"
+        }, 
+        "free_bikes": 0, 
+        "id": "11bf932e4e25f32f4d0b06f98d38548d", 
+        "latitude": 42.5598, 
+        "longitude": -6.603312, 
+        "name": "27 - Parque la Rosaleda", 
+        "timestamp": "2017-08-15T04:49:04.710000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "162"
+        }, 
+        "free_bikes": 0, 
+        "id": "6dd6b5ef089127ebcec2be3a2bde171e", 
+        "latitude": 42.546368, 
+        "longitude": -6.608644, 
+        "name": "28 - Plz del Diamante", 
+        "timestamp": "2017-08-15T04:49:04.711000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": "10", 
+          "uid": "163"
+        }, 
+        "free_bikes": 0, 
+        "id": "73503795924e9fa3aa6cfb0e6d7cdc44", 
+        "latitude": 42.546423, 
+        "longitude": -6.601673, 
+        "name": "29 - Plz Fernando Miranda", 
+        "timestamp": "2017-08-15T04:49:04.712000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "slots": "20", 
+          "uid": "164"
+        }, 
+        "free_bikes": 3, 
+        "id": "6999019ab8bf1573e860acb48906cd55", 
+        "latitude": 42.547584, 
+        "longitude": -6.600387, 
+        "name": "30 - Avd Espa\u00f1a", 
+        "timestamp": "2017-08-15T04:49:04.713000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "157"
+        }, 
+        "free_bikes": 2, 
+        "id": "6cfdb21bfe6ab313bfd836a621e7a72c", 
+        "latitude": 42.570648, 
+        "longitude": -6.643261, 
+        "name": "23 - Hospital del Bierzo", 
+        "timestamp": "2017-08-15T04:49:04.706000Z"
+      }
+    ]
+  }
+}

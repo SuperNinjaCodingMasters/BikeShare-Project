@@ -1,0 +1,285 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/kvb-rad-koln", 
+    "id": "kvb-rad-koln", 
+    "location": {
+      "city": "K\u00f6ln", 
+      "country": "DE", 
+      "latitude": 50.9429, 
+      "longitude": 6.95649
+    }, 
+    "name": "KVB Rad", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4828", 
+          "uid": "1546319"
+        }, 
+        "free_bikes": 0, 
+        "id": "24ce263ec998b2ba3e3677fea0b63720", 
+        "latitude": 50.950526039316, 
+        "longitude": 6.9577574729919, 
+        "name": "Ebertplatz", 
+        "timestamp": "2017-08-15T04:46:07.748000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4826", 
+          "uid": "35409"
+        }, 
+        "free_bikes": 0, 
+        "id": "c632ab462d5cec46762c58ff7ff00254", 
+        "latitude": 50.9429485, 
+        "longitude": 6.958015, 
+        "name": "Hauptbahnhof", 
+        "timestamp": "2017-08-15T04:46:07.725000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4823", 
+          "uid": "1079530"
+        }, 
+        "free_bikes": 0, 
+        "id": "b8975d85f0d5365137607213047ce016", 
+        "latitude": 50.928158268407, 
+        "longitude": 6.9282531738281, 
+        "name": "Uni K\u00f6ln", 
+        "timestamp": "2017-08-15T04:46:07.742000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4827", 
+          "uid": "1546312"
+        }, 
+        "free_bikes": 0, 
+        "id": "621e2e1d967cee74e9b2fa860580ad67", 
+        "latitude": 50.935362967283, 
+        "longitude": 6.9611263275146, 
+        "name": "Maritim ", 
+        "timestamp": "2017-08-15T04:46:07.743000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4836", 
+          "uid": "2464901"
+        }, 
+        "free_bikes": 0, 
+        "id": "d689d2ad50886f1c11cf54b67fd89b4e", 
+        "latitude": 50.921649075569, 
+        "longitude": 6.9593775272369, 
+        "name": "Chlodwigplatz", 
+        "timestamp": "2017-08-15T04:46:07.757000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "21060", 
+            "22154"
+          ], 
+          "number": "4847", 
+          "uid": "2049483"
+        }, 
+        "free_bikes": 2, 
+        "id": "506f0d0d3c29eb31d1b380c6b3cf3a66", 
+        "latitude": 50.944959609907, 
+        "longitude": 6.9720053672791, 
+        "name": "RTL Picassoplatz", 
+        "timestamp": "2017-08-15T04:46:07.754000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4838", 
+          "uid": "4078912"
+        }, 
+        "free_bikes": 0, 
+        "id": "bd017547677ddcf4b6fa754b0af2c5ba", 
+        "latitude": 50.947031467523, 
+        "longitude": 6.9453978538513, 
+        "name": "Motel One Mediapark", 
+        "timestamp": "2017-08-15T04:46:07.764000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4846", 
+          "uid": "1979640"
+        }, 
+        "free_bikes": 0, 
+        "id": "922dc31fc3d41a9f7fcb19d8f29d0e51", 
+        "latitude": 50.92917936822, 
+        "longitude": 6.9572532176971, 
+        "name": "Severinsstrasse", 
+        "timestamp": "2017-08-15T04:46:07.752000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4839", 
+          "uid": "3176087"
+        }, 
+        "free_bikes": 0, 
+        "id": "a1f3d6da3a89960ed7633da4d4305b54", 
+        "latitude": 50.937032972765, 
+        "longitude": 6.9836461544037, 
+        "name": "Hotel Stadtpalais", 
+        "timestamp": "2017-08-15T04:46:07.763000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4850", 
+          "uid": "4078954"
+        }, 
+        "free_bikes": 0, 
+        "id": "01fc0fb16093eee74b1d398e22fd032c", 
+        "latitude": 50.93170497246, 
+        "longitude": 6.9544583559036, 
+        "name": "Motel One Waidmarkt", 
+        "timestamp": "2017-08-15T04:46:07.765000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4835", 
+          "uid": "1979653"
+        }, 
+        "free_bikes": 0, 
+        "id": "37f1e6f2cd724552514564cfaa52e343", 
+        "latitude": 50.961764, 
+        "longitude": 7.004147, 
+        "name": "Wienerplatz", 
+        "timestamp": "2017-08-15T04:46:07.753000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4824", 
+          "uid": "746518"
+        }, 
+        "free_bikes": 0, 
+        "id": "9740c7e34aaa334ad113c9b2af9763a5", 
+        "latitude": 50.930656880252, 
+        "longitude": 6.9406342506409, 
+        "name": "Z\u00fclpicher Platz", 
+        "timestamp": "2017-08-15T04:46:07.739000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4822", 
+          "uid": "774641"
+        }, 
+        "free_bikes": 0, 
+        "id": "8e047d7ecf184083fc9f29c39c96421d", 
+        "latitude": 50.935924149905, 
+        "longitude": 6.9476187229156, 
+        "name": "Neumarkt", 
+        "timestamp": "2017-08-15T04:46:07.740000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4821", 
+          "uid": "430479"
+        }, 
+        "free_bikes": 0, 
+        "id": "af7b45a75fc07e9bb7ac239ecdfa802c", 
+        "latitude": 50.938831373138, 
+        "longitude": 6.9062697887421, 
+        "name": "KVB Hauptverwaltung", 
+        "timestamp": "2017-08-15T04:46:07.736000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4840", 
+          "uid": "3176060"
+        }, 
+        "free_bikes": 0, 
+        "id": "328ee285562a5a670501d13dea5b449f", 
+        "latitude": 50.927174339766, 
+        "longitude": 6.9037592411041, 
+        "name": "Leonardo Royal Hotel", 
+        "timestamp": "2017-08-15T04:46:07.762000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4831", 
+          "uid": "1979532"
+        }, 
+        "free_bikes": 0, 
+        "id": "8619192e20f7785e11a5b1d7fe07780a", 
+        "latitude": 50.940061817528, 
+        "longitude": 6.975063085556, 
+        "name": "Bahnhof Deutz", 
+        "timestamp": "2017-08-15T04:46:07.750000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4834", 
+          "uid": "1979551"
+        }, 
+        "free_bikes": 0, 
+        "id": "62b7d24cbb93d14694ec0f440566a453", 
+        "latitude": 50.943830695931, 
+        "longitude": 6.95955991745, 
+        "name": "Breslauer Platz", 
+        "timestamp": "2017-08-15T04:46:07.751000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4832", 
+          "uid": "1778321"
+        }, 
+        "free_bikes": 0, 
+        "id": "5a2d5893a60ff36469d1c6b43676343a", 
+        "latitude": 50.94376647545, 
+        "longitude": 6.9335317611694, 
+        "name": "Hans-B\u00f6ckler-Platz", 
+        "timestamp": "2017-08-15T04:46:07.749000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "21249"
+          ], 
+          "number": "4837", 
+          "uid": "2802298"
+        }, 
+        "free_bikes": 1, 
+        "id": "2b4986deb45dabe6940ebbc7e0d9e22d", 
+        "latitude": 50.919538887205, 
+        "longitude": 6.9666194915771, 
+        "name": "TH K\u00f6ln S\u00fcdstadt", 
+        "timestamp": "2017-08-15T04:46:07.758000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4849", 
+          "uid": "2193550"
+        }, 
+        "free_bikes": 0, 
+        "id": "109c738f44212225af94c538efd53083", 
+        "latitude": 50.927127002468, 
+        "longitude": 6.9325232505798, 
+        "name": "Uni Mensa", 
+        "timestamp": "2017-08-15T04:46:07.756000Z"
+      }
+    ]
+  }
+}

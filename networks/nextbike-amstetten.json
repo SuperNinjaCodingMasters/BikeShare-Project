@@ -1,0 +1,37 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-amstetten", 
+    "id": "nextbike-amstetten", 
+    "location": {
+      "city": "Amstetten", 
+      "country": "AT", 
+      "latitude": 48.1218, 
+      "longitude": 14.8774
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09867", 
+            "09589", 
+            "08851", 
+            "08354"
+          ], 
+          "number": "3201", 
+          "uid": "47455"
+        }, 
+        "free_bikes": 4, 
+        "id": "b4b87e592d79a739100931d330288900", 
+        "latitude": 48.121753, 
+        "longitude": 14.877403, 
+        "name": "Amstetten / Bahnhof", 
+        "timestamp": "2017-08-15T04:49:07.463000Z"
+      }
+    ]
+  }
+}

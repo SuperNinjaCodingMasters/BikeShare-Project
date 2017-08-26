@@ -1,0 +1,102 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/system-rowerow-miejskich-w-pszczynie-pszczyna", 
+    "id": "system-rowerow-miejskich-w-pszczynie-pszczyna", 
+    "location": {
+      "city": "Pszczyna", 
+      "country": "PL", 
+      "latitude": 49.9757, 
+      "longitude": 18.9463
+    }, 
+    "name": "System Rower\u00f3w Miejskich w Pszczynie", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "61040", 
+            "61037", 
+            "61035", 
+            "61009", 
+            "61003"
+          ], 
+          "number": "6201", 
+          "slots": 12, 
+          "uid": "3077242"
+        }, 
+        "free_bikes": 5, 
+        "id": "ff6327cb8cff3d0278b327bd9cf4df70", 
+        "latitude": 49.977683, 
+        "longitude": 18.941127, 
+        "name": "Rynek", 
+        "timestamp": "2017-08-15T04:49:10.422000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "61036", 
+            "61034", 
+            "61030", 
+            "61020", 
+            "61017"
+          ], 
+          "number": "6202", 
+          "slots": 12, 
+          "uid": "3077245"
+        }, 
+        "free_bikes": 5, 
+        "id": "21337db74f4198f9f1402a3dc2cc6f11", 
+        "latitude": 49.97512, 
+        "longitude": 18.952831, 
+        "name": "Dworzec PKP", 
+        "timestamp": "2017-08-15T04:49:10.442000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "61039", 
+            "61032", 
+            "61031", 
+            "61029", 
+            "61028"
+          ], 
+          "number": "6203", 
+          "slots": 12, 
+          "uid": "3077253"
+        }, 
+        "free_bikes": 5, 
+        "id": "7ec985f7fa6778a069cb93543eed611a", 
+        "latitude": 49.969154, 
+        "longitude": 18.943702, 
+        "name": "Osiedle Piast\u00f3w", 
+        "timestamp": "2017-08-15T04:49:10.444000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "61038", 
+            "61033", 
+            "61026", 
+            "61025", 
+            "61022"
+          ], 
+          "number": "6204", 
+          "slots": 12, 
+          "uid": "3077257"
+        }, 
+        "free_bikes": 5, 
+        "id": "4b71b7013480b2b7ef2f979664228441", 
+        "latitude": 49.966085, 
+        "longitude": 18.888994, 
+        "name": "O\u015brodek Sport\u00f3w Wodnych", 
+        "timestamp": "2017-08-15T04:49:10.445000Z"
+      }
+    ]
+  }
+}

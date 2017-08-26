@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-bulle", 
+    "id": "bicincitta-bulle", 
+    "location": {
+      "city": "Bulle", 
+      "country": "CH", 
+      "latitude": 46.6154512, 
+      "longitude": 7.057726799999999
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Bulle", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "6c584f946d45b60ea3b650b618aeb814", 
+        "latitude": 46.617802, 
+        "longitude": 7.055218, 
+        "name": "Place de la Gare - Bulle", 
+        "timestamp": "2017-08-15T04:49:13.042000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Bulle", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "458cf0d82a2cbdf01568dfa375496e5c", 
+        "latitude": 46.608848, 
+        "longitude": 7.065818, 
+        "name": "La Tour-de-Tr\u00c3\u00aame Centre", 
+        "timestamp": "2017-08-15T04:49:13.050000Z"
+      }
+    ]
+  }
+}

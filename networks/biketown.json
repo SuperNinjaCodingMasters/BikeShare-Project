@@ -1,0 +1,1925 @@
+{
+  "network": {
+    "company": [
+      "Portland Bureau of Transportation (PBOT)", 
+      "Motivate International, Inc", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "http://biketownpdx.socialbicycles.com/opendata/gbfs.json", 
+    "href": "/v2/networks/biketown", 
+    "id": "biketown", 
+    "location": {
+      "city": "Portland, OR", 
+      "country": "US", 
+      "latitude": 45.52175423291714, 
+      "longitude": -122.68107935786247
+    }, 
+    "name": "BIKETOWN", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "531-699 Southeast 14th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1519"
+        }, 
+        "free_bikes": 8, 
+        "id": "dcdba093c08a021f861e03ae91bfd7ec", 
+        "latitude": 45.518446875178256, 
+        "longitude": -122.65168502926826, 
+        "name": "SE 14th at Stark", 
+        "timestamp": "2017-08-15T04:50:48.600000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Portland Sports Bar and Grill, 1800, Southwest River Drive, University District, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1570"
+        }, 
+        "free_bikes": 10, 
+        "id": "cc48d45f9cd3afea3b782139292073af", 
+        "latitude": 45.50910258116327, 
+        "longitude": -122.67351686954498, 
+        "name": "SW River at Montgomery", 
+        "timestamp": "2017-08-15T04:50:48.664000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "564-598 Northeast Multnomah Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1605"
+        }, 
+        "free_bikes": 7, 
+        "id": "3661e38ef8adca3f432d3f8796d8d1ff", 
+        "latitude": 45.53146070600817, 
+        "longitude": -122.6597410440445, 
+        "name": "NE Multnomah at Grand", 
+        "timestamp": "2017-08-15T04:50:48.691000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "2835, Southeast Hawthorne Boulevard, Ladd's Addition, Belmont, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1608"
+        }, 
+        "free_bikes": 5, 
+        "id": "b6bbfb34ac76de31c51f84d285290660", 
+        "latitude": 45.51202352994066, 
+        "longitude": -122.6363119482994, 
+        "name": "SE 29th at Hawthorne", 
+        "timestamp": "2017-08-15T04:50:48.714000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "4073, North Williams Avenue, Albina, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1617"
+        }, 
+        "free_bikes": 4, 
+        "id": "7a385701e114c447336cbeda5685152c", 
+        "latitude": 45.55335313404383, 
+        "longitude": -122.66691461205482, 
+        "name": "N Mason at Williams", 
+        "timestamp": "2017-08-15T04:50:48.677000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "1006 Northeast Alberta Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2677"
+        }, 
+        "free_bikes": 3, 
+        "id": "59deea633d7c461c66ec2f32bc05aaf5", 
+        "latitude": 45.55913676221388, 
+        "longitude": -122.65543073415755, 
+        "name": "NE Alberta at 10th - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.720000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1413 Northeast Alberta Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2678"
+        }, 
+        "free_bikes": 0, 
+        "id": "d6395a890124e71b96a27df688c16f08", 
+        "latitude": 45.55916921652717, 
+        "longitude": -122.65143156051636, 
+        "name": "NE Alberta at 14th - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.718000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "2209 Northeast Alberta Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2680"
+        }, 
+        "free_bikes": 1, 
+        "id": "937122f1db9dba7e6c4f9caededb959b", 
+        "latitude": 45.55905506873501, 
+        "longitude": -122.64271035790443, 
+        "name": "NE Alberta at 22nd - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.682000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Courtesy Janitorial Services, 1705, Northeast Alberta Street, Alameda, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2679"
+        }, 
+        "free_bikes": 0, 
+        "id": "fbb322bbbf42d27ac64d3bce6895f2c3", 
+        "latitude": 45.55907103183479, 
+        "longitude": -122.64754369854927, 
+        "name": "NE Alberta at 17th - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.717000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "2116 North Killingsworth Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2689"
+        }, 
+        "free_bikes": 2, 
+        "id": "9eee5240994d6cc53a70ffe62976eac6", 
+        "latitude": 45.562741896778604, 
+        "longitude": -122.68899321556091, 
+        "name": "N Killingsworth at Gay - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.808000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Podnah's BBQ Pit, Northeast Killingsworth Street, Alameda, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2696"
+        }, 
+        "free_bikes": 1, 
+        "id": "f78a0668cfe64b1743231aef78bbaaa7", 
+        "latitude": 45.562745549855975, 
+        "longitude": -122.64805935323238, 
+        "name": "NE 17th at Killingsworth - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.813000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4000 Southwest Moody Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2875"
+        }, 
+        "free_bikes": 10, 
+        "id": "5252283d5db570aa3761409273cbe65f", 
+        "latitude": 45.49429475215752, 
+        "longitude": -122.67190484097227, 
+        "name": "SW Moody at Thomas", 
+        "timestamp": "2017-08-15T04:50:48.689000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1527"
+        }, 
+        "free_bikes": 2, 
+        "id": "9b504b7e3544c5424300880f76fe0a3e", 
+        "latitude": 45.51498191683931, 
+        "longitude": -122.6228016614914, 
+        "name": "SE Taylor at Chavez", 
+        "timestamp": "2017-08-15T04:50:48.784000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1541"
+        }, 
+        "free_bikes": 10, 
+        "id": "7ce26ab11858fb213f09c800af23c62f", 
+        "latitude": 45.499136569196914, 
+        "longitude": -122.67164334654808, 
+        "name": "SW Moody at Aerial Tram Terminal", 
+        "timestamp": "2017-08-15T04:50:48.739000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "2650 Oregon 99E, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1556"
+        }, 
+        "free_bikes": 5, 
+        "id": "b5d1367da4cf26c62def6bedb702d67e", 
+        "latitude": 45.5417995312248, 
+        "longitude": -122.66148447990417, 
+        "name": "NE MLK at Knott", 
+        "timestamp": "2017-08-15T04:50:48.799000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "2066 Northwest Glisan Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1566"
+        }, 
+        "free_bikes": 6, 
+        "id": "9a1196a102fcb4154b7dcaa4cb4ab92a", 
+        "latitude": 45.52634601402334, 
+        "longitude": -122.69414842128754, 
+        "name": "NW Glisan at 21st", 
+        "timestamp": "2017-08-15T04:50:48.624000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1221 Southwest 4th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1536"
+        }, 
+        "free_bikes": 9, 
+        "id": "0a210894eb0203ffa5674d68187edb7b", 
+        "latitude": 45.51505333721798, 
+        "longitude": -122.67889469861983, 
+        "name": "SW 4th at Jefferson (City Hall)", 
+        "timestamp": "2017-08-15T04:50:48.820000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Southwest Morrison & 17th, Southwest Morrison Street, Pearl District, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1580"
+        }, 
+        "free_bikes": 3, 
+        "id": "e8216c4b64f67f1b5f0dedb3ecee7b3d", 
+        "latitude": 45.5219604810172, 
+        "longitude": -122.6896771788597, 
+        "name": "SW Morrison at 18th", 
+        "timestamp": "2017-08-15T04:50:48.613000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Ampersand, 2916, Northeast Alberta Street, Alameda, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2682"
+        }, 
+        "free_bikes": 0, 
+        "id": "f799624bc8721455896a1d8fac69dd84", 
+        "latitude": 45.55902314250935, 
+        "longitude": -122.63554617762566, 
+        "name": "NE Alberta at NE 29th/30th - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.753000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Kennedy School, 5736, Northeast 33rd Avenue, Alameda, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2683"
+        }, 
+        "free_bikes": 6, 
+        "id": "8cbda5be025024886b6bc836204d2ca6", 
+        "latitude": 45.56453067448834, 
+        "longitude": -122.63053715229033, 
+        "name": "NE 33rd at Jarrett (Kennedy School) - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.755000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "5320 Northeast 33rd Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2684"
+        }, 
+        "free_bikes": 2, 
+        "id": "89840b36950caa6793fab3810d17572d", 
+        "latitude": 45.5613852227624, 
+        "longitude": -122.6303306221962, 
+        "name": "NE 33rd at Emerson - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.756000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "5433 North Michigan Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2687"
+        }, 
+        "free_bikes": 2, 
+        "id": "b3b30cad1c917f55bb42366392c82cc7", 
+        "latitude": 45.5625194836866, 
+        "longitude": -122.67703056335449, 
+        "name": "N Michigan at Killingsworth - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.763000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Cocotte, 2930, Northeast Killingsworth Street, Alameda, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2695"
+        }, 
+        "free_bikes": 1, 
+        "id": "e9f349f62ffca2707d9858d84b08f7c2", 
+        "latitude": 45.56271654527019, 
+        "longitude": -122.6350486278534, 
+        "name": "NE Killingsworth at 30th - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.814000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "1497-1499 Northwest Pettygrove Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2798"
+        }, 
+        "free_bikes": 7, 
+        "id": "e65021258e7e40cd2dbf8655b1db995a", 
+        "latitude": 45.53290423754687, 
+        "longitude": -122.68626004457474, 
+        "name": "NW Pettygrove at 15th", 
+        "timestamp": "2017-08-15T04:50:48.669000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "404 Southwest 10th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1512"
+        }, 
+        "free_bikes": 1, 
+        "id": "c36ba913465bae461bf387f50ffa68b7", 
+        "latitude": 45.52175423291714, 
+        "longitude": -122.68107935786247, 
+        "name": "SW 10th at Stark", 
+        "timestamp": "2017-08-15T04:50:48.596000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1201-1241 Southeast Gideon Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1513"
+        }, 
+        "free_bikes": 15, 
+        "id": "4e47f8ec8affacbb3cf7a3eaa3a18bfd", 
+        "latitude": 45.50280905672637, 
+        "longitude": -122.65353977680206, 
+        "name": "SE Gideon at 12th Ave MAX station", 
+        "timestamp": "2017-08-15T04:50:48.586000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "2615 Southeast Clinton Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1514"
+        }, 
+        "free_bikes": 6, 
+        "id": "960438641218bcfc19bc635c4ee698a5", 
+        "latitude": 45.5035666478437, 
+        "longitude": -122.63952791690826, 
+        "name": "SE Clinton at 26th", 
+        "timestamp": "2017-08-15T04:50:48.597000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2454-2498 Southeast Elliott Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1515"
+        }, 
+        "free_bikes": 10, 
+        "id": "594fc7d98955eecf3d28523e9aa548ab", 
+        "latitude": 45.50512503523317, 
+        "longitude": -122.65336811542511, 
+        "name": "SE Elliott at Division", 
+        "timestamp": "2017-08-15T04:50:48.597000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1601-1799 Southeast Water Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1516"
+        }, 
+        "free_bikes": 11, 
+        "id": "39894b2fbf5e46469dc0f9f4d350640b", 
+        "latitude": 45.5114765684424, 
+        "longitude": -122.66628563404082, 
+        "name": "SE Clay at Water", 
+        "timestamp": "2017-08-15T04:50:48.599000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "901-915 Southeast 29th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1517"
+        }, 
+        "free_bikes": 5, 
+        "id": "95de685573514cbb4fd72a26a8200304", 
+        "latitude": 45.516231760262826, 
+        "longitude": -122.63606786727905, 
+        "name": "SE 29th at Belmont", 
+        "timestamp": "2017-08-15T04:50:48.598000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1028 Southeast Water Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1518"
+        }, 
+        "free_bikes": 11, 
+        "id": "d0d1428b33b2f10722d3546bd4284c2c", 
+        "latitude": 45.515152949700024, 
+        "longitude": -122.66577601432802, 
+        "name": "SE Water at Taylor", 
+        "timestamp": "2017-08-15T04:50:48.601000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "4350 North Interstate Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1521"
+        }, 
+        "free_bikes": 8, 
+        "id": "9c2a28eb03ad0f62bdadfcffd5231b96", 
+        "latitude": 45.55522232556467, 
+        "longitude": -122.68186122179031, 
+        "name": "N Prescott at Interstate", 
+        "timestamp": "2017-08-15T04:50:48.769000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "2329-2399 Northeast Glisan Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1522"
+        }, 
+        "free_bikes": 1, 
+        "id": "c50853736b121fe1039643d33a0deba7", 
+        "latitude": 45.526494932914076, 
+        "longitude": -122.6416327804327, 
+        "name": "NE Glisan at 24th", 
+        "timestamp": "2017-08-15T04:50:48.772000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1051-1099 Northeast Wheeler Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1523"
+        }, 
+        "free_bikes": 8, 
+        "id": "d709db852a9d2e94c2ffb5d28c5a0723", 
+        "latitude": 45.53086695960325, 
+        "longitude": -122.66588866710661, 
+        "name": "NE Wheeler at Multnomah", 
+        "timestamp": "2017-08-15T04:50:48.778000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "4220 North Mississippi Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1524"
+        }, 
+        "free_bikes": 4, 
+        "id": "09979040d1669abc1412a581f8411be4", 
+        "latitude": 45.55458563249236, 
+        "longitude": -122.67554126679897, 
+        "name": "N Mississippi at N Skidmore", 
+        "timestamp": "2017-08-15T04:50:48.781000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1100-1124 Northwest 13th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1528"
+        }, 
+        "free_bikes": 16, 
+        "id": "fb747bf1d85b1db5a9560806f4fd1637", 
+        "latitude": 45.53080401460108, 
+        "longitude": -122.68442273139952, 
+        "name": "NW 13th at Marshall", 
+        "timestamp": "2017-08-15T04:50:48.749000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "1801 Northwest Northrup Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1529"
+        }, 
+        "free_bikes": 5, 
+        "id": "45b602edfc3f361787b4b89ff47dafdc", 
+        "latitude": 45.53142500624323, 
+        "longitude": -122.68956586718559, 
+        "name": "NW 18th at Northrup", 
+        "timestamp": "2017-08-15T04:50:48.751000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1315 Southwest Park Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1535"
+        }, 
+        "free_bikes": 13, 
+        "id": "f8aad5fa9e52df67bb486c677a65bb08", 
+        "latitude": 45.515923530681164, 
+        "longitude": -122.68331229686736, 
+        "name": "SW Park at Portland Art Museum", 
+        "timestamp": "2017-08-15T04:50:48.821000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "1801-1825 Southwest Broadway, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1537"
+        }, 
+        "free_bikes": 4, 
+        "id": "b741377fa93b8fa80ea4fffdf33d21fd", 
+        "latitude": 45.51184308962157, 
+        "longitude": -122.68371999263763, 
+        "name": "SW Broadway at Smith Memorial Student Union", 
+        "timestamp": "2017-08-15T04:50:48.818000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1800 Southwest Montgomery Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1538"
+        }, 
+        "free_bikes": 7, 
+        "id": "413da28edfc4412d9d1f7cdfcbc4114b", 
+        "latitude": 45.51158276585015, 
+        "longitude": -122.68228098750114, 
+        "name": "Urban Center Plaza at SW 6th St", 
+        "timestamp": "2017-08-15T04:50:48.811000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "TECOTOSH, Southwest 4th Avenue, University District, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1539"
+        }, 
+        "free_bikes": 7, 
+        "id": "c2e7fa1185629bfb55cdf350934f47f5", 
+        "latitude": 45.50936197656999, 
+        "longitude": -122.68121212720871, 
+        "name": "SW 4th at College", 
+        "timestamp": "2017-08-15T04:50:48.809000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "86-98 Southwest Harrison Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1540"
+        }, 
+        "free_bikes": 11, 
+        "id": "8572e55ba4559d7bab5f141af15d869a", 
+        "latitude": 45.50971347423539, 
+        "longitude": -122.67771586775778, 
+        "name": "SW Harrison at 1st", 
+        "timestamp": "2017-08-15T04:50:48.737000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "1001-1023 Southwest Columbia Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1542"
+        }, 
+        "free_bikes": 5, 
+        "id": "043399190499833843cf731ea5114fae", 
+        "latitude": 45.515444268211056, 
+        "longitude": -122.68467485904694, 
+        "name": "SW 10th at Columbia", 
+        "timestamp": "2017-08-15T04:50:48.732000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1520 Southwest 12th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1543"
+        }, 
+        "free_bikes": 12, 
+        "id": "6163a9f4a45b3f587b5d12d525cade28", 
+        "latitude": 45.51507401152119, 
+        "longitude": -122.687029838562, 
+        "name": "SW 12th at Clay", 
+        "timestamp": "2017-08-15T04:50:48.734000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "512-586 Southwest Main Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1544"
+        }, 
+        "free_bikes": 8, 
+        "id": "715506d956c3c550e64c2bbdd5d6631e", 
+        "latitude": 45.5160969101757, 
+        "longitude": -122.67907708883286, 
+        "name": "SW 5th at Main", 
+        "timestamp": "2017-08-15T04:50:48.745000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1000 Northwest Marshall Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1545"
+        }, 
+        "free_bikes": 12, 
+        "id": "f12f0be5f2d400caac3a11c20676b942", 
+        "latitude": 45.5308312594614, 
+        "longitude": -122.68159568309783, 
+        "name": "NW Marshall at Tanner Springs Park", 
+        "timestamp": "2017-08-15T04:50:48.747000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "2383-2389 Northwest Thurman Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1546"
+        }, 
+        "free_bikes": 3, 
+        "id": "f50b7bd1c728c9f763dd6bf64654077b", 
+        "latitude": 45.53550402749139, 
+        "longitude": -122.70066082477571, 
+        "name": "NW Thurman at 24th", 
+        "timestamp": "2017-08-15T04:50:48.742000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2100-2112 Northwest Raleigh Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1547"
+        }, 
+        "free_bikes": 9, 
+        "id": "8f96a969c8b5ef15c175042c8b78d87e", 
+        "latitude": 45.53409115265501, 
+        "longitude": -122.69494235515596, 
+        "name": "NW Raleigh at 21st", 
+        "timestamp": "2017-08-15T04:50:48.743000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "3377-3399 Southeast Division Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1548"
+        }, 
+        "free_bikes": 15, 
+        "id": "4ee74640d3b3a0832b8a39bbd756a55d", 
+        "latitude": 45.504839302777505, 
+        "longitude": -122.6296305656433, 
+        "name": "SE 34th at Division", 
+        "timestamp": "2017-08-15T04:50:48.729000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2501-2523 Southeast 30th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1549"
+        }, 
+        "free_bikes": 9, 
+        "id": "b749f9da504d4f178551ad107dc8f7ac", 
+        "latitude": 45.504688916692, 
+        "longitude": -122.63455510139465, 
+        "name": "SE 30th at Division", 
+        "timestamp": "2017-08-15T04:50:48.731000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2039-2099 Southeast Clinton Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1550"
+        }, 
+        "free_bikes": 10, 
+        "id": "c59f2188b6b6361cb3e6282e6cdbd77c", 
+        "latitude": 45.50336550181654, 
+        "longitude": -122.64473140239714, 
+        "name": "SE Clinton at 21st", 
+        "timestamp": "2017-08-15T04:50:48.804000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "415 Southeast 29th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1551"
+        }, 
+        "free_bikes": 7, 
+        "id": "33c4fe191a7295ce8f514a6d6a867b38", 
+        "latitude": 45.51936282546957, 
+        "longitude": -122.63599276542662, 
+        "name": "SE 29th at Stark", 
+        "timestamp": "2017-08-15T04:50:48.802000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "1900-1998 Southeast Belmont Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1552"
+        }, 
+        "free_bikes": 5, 
+        "id": "18ea144a372c6633356ec958674c4edb", 
+        "latitude": 45.516361441804015, 
+        "longitude": -122.64604568481445, 
+        "name": "SE Belmont at 20th", 
+        "timestamp": "2017-08-15T04:50:48.806000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1510 Southeast 34th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1554"
+        }, 
+        "free_bikes": 17, 
+        "id": "70a3ba86898d855d87aaecf27f85d9bf", 
+        "latitude": 45.51190699563407, 
+        "longitude": -122.62948036193848, 
+        "name": "SE 34th at Hawthorne", 
+        "timestamp": "2017-08-15T04:50:48.797000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "241 North Alberta Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1559"
+        }, 
+        "free_bikes": 7, 
+        "id": "0718c230d62c6b77acb7c5b91952ccd2", 
+        "latitude": 45.55941042223266, 
+        "longitude": -122.66852259635925, 
+        "name": "N Vancouver at Alberta", 
+        "timestamp": "2017-08-15T04:50:48.787000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "North Killingsworth Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1560"
+        }, 
+        "free_bikes": 9, 
+        "id": "8a41a1f4c95539d13801e923e5c5f269", 
+        "latitude": 45.56282546273442, 
+        "longitude": -122.6747466623783, 
+        "name": "N Killingsworth at Albina", 
+        "timestamp": "2017-08-15T04:50:48.627000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "718 Northwest 11th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1561"
+        }, 
+        "free_bikes": 9, 
+        "id": "fd51ad5bbf138465fac3a76c2f3e9f6b", 
+        "latitude": 45.52863659670261, 
+        "longitude": -122.68201947212219, 
+        "name": "NW Johnson at Jamison Square", 
+        "timestamp": "2017-08-15T04:50:48.628000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "700-746 Northwest 6th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1562"
+        }, 
+        "free_bikes": 4, 
+        "id": "bca90ae6081a56c3451b1cb0c99b89aa", 
+        "latitude": 45.5282777010671, 
+        "longitude": -122.67662823200226, 
+        "name": "NW Station at Irving", 
+        "timestamp": "2017-08-15T04:50:48.629000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1310 Northwest 23rd Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1563"
+        }, 
+        "free_bikes": 10, 
+        "id": "9f67fd74409ffd7baa0e5a87bd8810e2", 
+        "latitude": 45.53211645029155, 
+        "longitude": -122.69863039255142, 
+        "name": "NW 23rd at Overton", 
+        "timestamp": "2017-08-15T04:50:48.630000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2-90 Northwest 20th Place, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1564"
+        }, 
+        "free_bikes": 8, 
+        "id": "2e311cf5b61b04dddcb11c1a46d43c95", 
+        "latitude": 45.52331305636792, 
+        "longitude": -122.69326329231262, 
+        "name": "NW 20th at Burnside", 
+        "timestamp": "2017-08-15T04:50:48.620000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2279-2299 Northwest Savier Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1565"
+        }, 
+        "free_bikes": 9, 
+        "id": "e98a45d29dce79c0df74caf27f8a7d66", 
+        "latitude": 45.53481074626925, 
+        "longitude": -122.69859552383421, 
+        "name": "NW Savier at 23rd", 
+        "timestamp": "2017-08-15T04:50:48.622000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "721 Northwest 21st Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1567"
+        }, 
+        "free_bikes": 5, 
+        "id": "6f9d73bf5f281d339d58e6c14d2d93ad", 
+        "latitude": 45.52826830586263, 
+        "longitude": -122.69456148147583, 
+        "name": "NW 21st at Johnson", 
+        "timestamp": "2017-08-15T04:50:48.625000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "230 Northwest 10th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1568"
+        }, 
+        "free_bikes": 10, 
+        "id": "3c8f9c0dc8d9c35d1b8db719f4dbe71c", 
+        "latitude": 45.52500055856427, 
+        "longitude": -122.68110483884811, 
+        "name": "NW 10th at Everett", 
+        "timestamp": "2017-08-15T04:50:48.632000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1250-1298 Southwest Stark Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1571"
+        }, 
+        "free_bikes": 6, 
+        "id": "ea63b6e276773b07258d184133fbc6c8", 
+        "latitude": 45.52279251368779, 
+        "longitude": -122.68401235342026, 
+        "name": "SW Stark at Burnside", 
+        "timestamp": "2017-08-15T04:50:48.663000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1301-1321 Southwest 18th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1572"
+        }, 
+        "free_bikes": 14, 
+        "id": "e9b39d71a7f1d7216cfb624ba493aa86", 
+        "latitude": 45.51816567409588, 
+        "longitude": -122.69249081611633, 
+        "name": "SW 18th at Jefferson", 
+        "timestamp": "2017-08-15T04:50:48.657000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "128-198 Southwest 2nd Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1574"
+        }, 
+        "free_bikes": 12, 
+        "id": "f96111beae829639fe713081c167fedc", 
+        "latitude": 45.521420663518754, 
+        "longitude": -122.67262905836105, 
+        "name": "SW 2nd at Pine", 
+        "timestamp": "2017-08-15T04:50:48.655000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "40 Southwest 3rd Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1575"
+        }, 
+        "free_bikes": 9, 
+        "id": "c7c0115ff77169b82900afef2a706186", 
+        "latitude": 45.52247868246067, 
+        "longitude": -122.67329692840575, 
+        "name": "SW 3rd at Ankeny", 
+        "timestamp": "2017-08-15T04:50:48.653000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "315 Southwest 5th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1578"
+        }, 
+        "free_bikes": 6, 
+        "id": "8cfac55a48b764990a04ba2f05bd8f31", 
+        "latitude": 45.52117259935996, 
+        "longitude": -122.67636537551878, 
+        "name": "SW 5th at Oak", 
+        "timestamp": "2017-08-15T04:50:48.668000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "300-398 Southwest Market Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1579"
+        }, 
+        "free_bikes": 16, 
+        "id": "6e332b01bae8b90df74dac3909aae13f", 
+        "latitude": 45.51232050337293, 
+        "longitude": -122.67891079187393, 
+        "name": "SW Market at Keller Fountain Park", 
+        "timestamp": "2017-08-15T04:50:48.666000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "800-898 Southwest Yamhill Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1582"
+        }, 
+        "free_bikes": 14, 
+        "id": "e1672b81b75d6af4c0c65ac69c2d79b7", 
+        "latitude": 45.51898131845628, 
+        "longitude": -122.68126845359802, 
+        "name": "SW Yamhill at Director Park", 
+        "timestamp": "2017-08-15T04:50:48.611000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1315 Northwest 11th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1583"
+        }, 
+        "free_bikes": 11, 
+        "id": "461a91f3d17378df2a989beaa90bd225", 
+        "latitude": 45.53232500919175, 
+        "longitude": -122.68242985010147, 
+        "name": "NW 11th at The Fields", 
+        "timestamp": "2017-08-15T04:50:48.612000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "945-993 Northwest 22nd Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1585"
+        }, 
+        "free_bikes": 4, 
+        "id": "9e24ba67f3bc53787e2566670d7379bc", 
+        "latitude": 45.52976024466929, 
+        "longitude": -122.69664287567139, 
+        "name": "NW 22nd at LoveJoy", 
+        "timestamp": "2017-08-15T04:50:48.609000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "301-399 Northwest 2nd Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1586"
+        }, 
+        "free_bikes": 12, 
+        "id": "878fe700322ba9b87da8e6ae33cb5525", 
+        "latitude": 45.52536699166144, 
+        "longitude": -122.67254590988159, 
+        "name": "NW 2nd at Everett", 
+        "timestamp": "2017-08-15T04:50:48.606000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1037 Northwest Couch Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1588"
+        }, 
+        "free_bikes": 6, 
+        "id": "3c209c6d1ed5b246c2054221de49c1cc", 
+        "latitude": 45.523741513819246, 
+        "longitude": -122.68181294202805, 
+        "name": "NW Couch at 11th", 
+        "timestamp": "2017-08-15T04:50:48.617000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1425 Northwest Flanders Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1590"
+        }, 
+        "free_bikes": 8, 
+        "id": "a532b4783f6290ac3fe0949ce1c92e1d", 
+        "latitude": 45.52579919173373, 
+        "longitude": -122.68550634384154, 
+        "name": "NW Flanders at 14th", 
+        "timestamp": "2017-08-15T04:50:48.639000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Tilikum Crossing, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1591"
+        }, 
+        "free_bikes": 14, 
+        "id": "86996358747ffd076ba01f34af637cf5", 
+        "latitude": 45.50276769910143, 
+        "longitude": -122.67144083976744, 
+        "name": "Tilikum West at SW Moody", 
+        "timestamp": "2017-08-15T04:50:48.638000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2301-2305 Northwest Kearney Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1592"
+        }, 
+        "free_bikes": 8, 
+        "id": "1c79a810e685de99e6f93606040bbebf", 
+        "latitude": 45.52914205316425, 
+        "longitude": -122.69870281219482, 
+        "name": "NW Kearney at 23rd", 
+        "timestamp": "2017-08-15T04:50:48.642000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Northwest Naito Parkway, Pearl District, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1593"
+        }, 
+        "free_bikes": 16, 
+        "id": "0b7678bd9bf80b3d63913cd86e9f8c11", 
+        "latitude": 45.52871175780225, 
+        "longitude": -122.67416596412659, 
+        "name": "NW Naito at Ironside", 
+        "timestamp": "2017-08-15T04:50:48.641000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1-99 North Failing Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1594"
+        }, 
+        "free_bikes": 13, 
+        "id": "4340a320c7fb47f4a93d068ef607ed29", 
+        "latitude": 45.55076344345873, 
+        "longitude": -122.66686633229256, 
+        "name": "N Failing at Williams", 
+        "timestamp": "2017-08-15T04:50:48.645000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "3731-3741 North Mississippi Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1595"
+        }, 
+        "free_bikes": 8, 
+        "id": "c56abf376d7ba1bbc9de3ab59efc8588", 
+        "latitude": 45.549985826258116, 
+        "longitude": -122.67565727233887, 
+        "name": "N Mississippi at Beech", 
+        "timestamp": "2017-08-15T04:50:48.644000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "15 North Morris Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1596"
+        }, 
+        "free_bikes": 9, 
+        "id": "6358f2b6b0bf9101e015067e697654b9", 
+        "latitude": 45.54471502606885, 
+        "longitude": -122.6667845249176, 
+        "name": "N Morris at Williams", 
+        "timestamp": "2017-08-15T04:50:48.648000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "955 North Russell Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1597"
+        }, 
+        "free_bikes": 14, 
+        "id": "746f43bc5fafeba7b8e2484961aedbcc", 
+        "latitude": 45.54107814878315, 
+        "longitude": -122.67697155475615, 
+        "name": "N Russell at Interstate", 
+        "timestamp": "2017-08-15T04:50:48.647000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "North Williams at Fremont, North Williams Avenue, Albina, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1598"
+        }, 
+        "free_bikes": 14, 
+        "id": "bbbd86bb5f6d2cd4f7ac5b503945d554", 
+        "latitude": 45.54759280146992, 
+        "longitude": -122.66676038503647, 
+        "name": "N Williams at Fremont", 
+        "timestamp": "2017-08-15T04:50:48.636000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "43 Southwest Naito Parkway, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1600"
+        }, 
+        "free_bikes": 14, 
+        "id": "cfc2482e4ab9c5c827513a8d6ca596d0", 
+        "latitude": 45.52269573362062, 
+        "longitude": -122.6703491806984, 
+        "name": "SW Naito at Ankeny Plaza", 
+        "timestamp": "2017-08-15T04:50:48.699000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "14 Northeast 22nd Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1601"
+        }, 
+        "free_bikes": 8, 
+        "id": "bc40f10282404690ae9ff2c7b1d42a29", 
+        "latitude": 45.522972918949336, 
+        "longitude": -122.64341175556181, 
+        "name": "NE 22nd at Burnside", 
+        "timestamp": "2017-08-15T04:50:48.697000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1100-1198 Northeast Broadway Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1602"
+        }, 
+        "free_bikes": 6, 
+        "id": "3f618eaf780b39e2e0b7f2a881315b4d", 
+        "latitude": 45.534968567136225, 
+        "longitude": -122.65363097190857, 
+        "name": "NE Broadway at 12th", 
+        "timestamp": "2017-08-15T04:50:48.707000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "242-298 Northeast Holladay Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1603"
+        }, 
+        "free_bikes": 5, 
+        "id": "a4323c4ab0821556645178a15245d74e", 
+        "latitude": 45.52990304781991, 
+        "longitude": -122.66283631324768, 
+        "name": "NE Holladay at MLK", 
+        "timestamp": "2017-08-15T04:50:48.700000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "796-842 Northeast Multnomah Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1604"
+        }, 
+        "free_bikes": 6, 
+        "id": "bfb216d85303782a336764eaf72daf06", 
+        "latitude": 45.531409974756464, 
+        "longitude": -122.65746116638182, 
+        "name": "NE Multnomah at 9th", 
+        "timestamp": "2017-08-15T04:50:48.693000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "1527-1541 Northeast Sandy Boulevard, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1606"
+        }, 
+        "free_bikes": 5, 
+        "id": "7c8ef202e70a59639949df5a1a53b9cb", 
+        "latitude": 45.52440674396447, 
+        "longitude": -122.64976859092711, 
+        "name": "NE Sandy at 16th", 
+        "timestamp": "2017-08-15T04:50:48.696000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "4600-4722 Northeast Grand Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1607"
+        }, 
+        "free_bikes": 5, 
+        "id": "c909fc67ebb0aed134bee868385023e9", 
+        "latitude": 45.556454372310554, 
+        "longitude": -122.66037940979004, 
+        "name": "NE Going at Grand", 
+        "timestamp": "2017-08-15T04:50:48.694000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2254-2398 Southeast 2nd Place, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1609"
+        }, 
+        "free_bikes": 7, 
+        "id": "45e2f2e17564281d03c6dc27c1c039f7", 
+        "latitude": 45.50624163368495, 
+        "longitude": -122.66333788633347, 
+        "name": "SE 2nd Pl at Tilikum Way", 
+        "timestamp": "2017-08-15T04:50:48.713000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "632 East Burnside Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1610"
+        }, 
+        "free_bikes": 2, 
+        "id": "3a1af30501ec014b3c3f95fd26e4869b", 
+        "latitude": 45.52269855246133, 
+        "longitude": -122.65875130891799, 
+        "name": "SE 7th at Burnside", 
+        "timestamp": "2017-08-15T04:50:48.673000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "900-928 Southeast 9th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1611"
+        }, 
+        "free_bikes": 5, 
+        "id": "d887bb27da64bb501118419d06dcc46a", 
+        "latitude": 45.51633325021543, 
+        "longitude": -122.65663236379623, 
+        "name": "SE 9th at Belmont", 
+        "timestamp": "2017-08-15T04:50:48.674000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "509-599 Southeast Alder Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1612"
+        }, 
+        "free_bikes": 13, 
+        "id": "71d1631fc898a831f4244409608e9493", 
+        "latitude": 45.51789880171501, 
+        "longitude": -122.66005218029024, 
+        "name": "SE Alder at 6th", 
+        "timestamp": "2017-08-15T04:50:48.670000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "3301-3333 Southeast Belmont Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1613"
+        }, 
+        "free_bikes": 12, 
+        "id": "b58b544fbc568555248cc32419111a3e", 
+        "latitude": 45.51649676123257, 
+        "longitude": -122.63075172901152, 
+        "name": "SE Belmont at 33rd", 
+        "timestamp": "2017-08-15T04:50:48.672000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2003-2033 Southeast Hawthorne Boulevard, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1614"
+        }, 
+        "free_bikes": 8, 
+        "id": "12a7123f7768e122110052bff3126a92", 
+        "latitude": 45.512222765454325, 
+        "longitude": -122.645426094532, 
+        "name": "SE Hawthorne at 20th", 
+        "timestamp": "2017-08-15T04:50:48.679000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1202-1210 Southeast Hawthorne Boulevard, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1615"
+        }, 
+        "free_bikes": 16, 
+        "id": "41f3813364ef413f3daa23a38f122dc9", 
+        "latitude": 45.51208179700347, 
+        "longitude": -122.653349339962, 
+        "name": "SE Ladd at Hawthorne", 
+        "timestamp": "2017-08-15T04:50:48.681000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "1-203 Southwest Park Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1616"
+        }, 
+        "free_bikes": 5, 
+        "id": "e30878a4ec5d14a9182e83433f57978f", 
+        "latitude": 45.52286956186777, 
+        "longitude": -122.67898589372633, 
+        "name": "SW Park at W Burnside", 
+        "timestamp": "2017-08-15T04:50:48.676000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "801-811 Northwest 19th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1713"
+        }, 
+        "free_bikes": 2, 
+        "id": "13ac7939c5eede7b0c659a67b88b4e7f", 
+        "latitude": 45.52862062492286, 
+        "longitude": -122.69050732254982, 
+        "name": "NW 19th at Johnson", 
+        "timestamp": "2017-08-15T04:50:48.825000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "2201-2209 Northwest Everett Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1558"
+        }, 
+        "free_bikes": 7, 
+        "id": "97ab7cea7dd58e4a91e15b8dd820609f", 
+        "latitude": 45.52487653451383, 
+        "longitude": -122.69651412963869, 
+        "name": "NW Everett at 22nd", 
+        "timestamp": "2017-08-15T04:50:48.791000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "300-398 Northwest 18th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1584"
+        }, 
+        "free_bikes": 5, 
+        "id": "914171dc03b1c084a6c2777707c2bde8", 
+        "latitude": 45.525562421670635, 
+        "longitude": -122.68925607204436, 
+        "name": "NW 18th at Flanders", 
+        "timestamp": "2017-08-15T04:50:48.608000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1711 Northeast 15th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1555"
+        }, 
+        "free_bikes": 15, 
+        "id": "09287ecbf23e2ea0e6b0a34420bd95f0", 
+        "latitude": 45.535082235462475, 
+        "longitude": -122.65056386590003, 
+        "name": "NE 15th at Broadway", 
+        "timestamp": "2017-08-15T04:50:48.794000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "620 Southwest 5th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1577"
+        }, 
+        "free_bikes": 7, 
+        "id": "46413297f951382bfb7cd70b740c102e", 
+        "latitude": 45.518894868231705, 
+        "longitude": -122.67740607261656, 
+        "name": "SW 5th at Morrison", 
+        "timestamp": "2017-08-15T04:50:48.650000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "625 Southwest Morrison Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1581"
+        }, 
+        "free_bikes": 13, 
+        "id": "998967a3b98d5fa3f06bf92cab269368", 
+        "latitude": 45.519288591549, 
+        "longitude": -122.67924875020981, 
+        "name": "SW Morrison at Pioneer Courthouse Sq.", 
+        "timestamp": "2017-08-15T04:50:48.614000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "1015-1199 Northeast 11th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1599"
+        }, 
+        "free_bikes": 3, 
+        "id": "1977516d9856f8bcb8666482e7cea70c", 
+        "latitude": 45.53027884344432, 
+        "longitude": -122.65466898679733, 
+        "name": "NE 11th at Holladay Park", 
+        "timestamp": "2017-08-15T04:50:48.634000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "718-732 Southwest 3rd Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1576"
+        }, 
+        "free_bikes": 2, 
+        "id": "4c95070e2a2fe198e97342bad73ef86d", 
+        "latitude": 45.51803881572945, 
+        "longitude": -122.67558217048645, 
+        "name": "SW 3rd at Morrison", 
+        "timestamp": "2017-08-15T04:50:48.652000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "108 Northeast 28th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2275"
+        }, 
+        "free_bikes": 0, 
+        "id": "e1ab0ce5d24a113323ec3595bdc83a17", 
+        "latitude": 45.523734525437575, 
+        "longitude": -122.63720646500587, 
+        "name": "NE 28th at Couch - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.602000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "304 Southeast 28th Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2276"
+        }, 
+        "free_bikes": 0, 
+        "id": "895d5e33307bafb4773825a200438758", 
+        "latitude": 45.52059310322167, 
+        "longitude": -122.6372379809618, 
+        "name": "SE 28th at Pine - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.616000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "25 Southwest Salmon Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1569"
+        }, 
+        "free_bikes": 2, 
+        "id": "3174fd88513421028b85c3f104811d18", 
+        "latitude": 45.51556831305477, 
+        "longitude": -122.67389237880707, 
+        "name": "SW Salmon at Waterfront Park", 
+        "timestamp": "2017-08-15T04:50:48.633000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Northeast Alberta & 24th, Northeast Alberta Street, Alameda, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2681"
+        }, 
+        "free_bikes": 1, 
+        "id": "6688994dd0718b54ef337dec1c28ae93", 
+        "latitude": 45.559087669845944, 
+        "longitude": -122.64075167477131, 
+        "name": "NE Alberta at 24th - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.684000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "4520 Northeast 14th Place, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2685"
+        }, 
+        "free_bikes": 1, 
+        "id": "8fd922f4d46ab772e57abb1b1e918cfc", 
+        "latitude": 45.555683524502925, 
+        "longitude": -122.6506644487381, 
+        "name": "NE 14th Pl at Prescott - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.758000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1441-1499 Northeast Fremont Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2686"
+        }, 
+        "free_bikes": 6, 
+        "id": "7ca3bd26c497b161f5bceaad7b08c349", 
+        "latitude": 45.54828551419491, 
+        "longitude": -122.65081062912941, 
+        "name": "NE Fremont at 15th - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.761000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "5410-5498 North Concord Avenue, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2688"
+        }, 
+        "free_bikes": 0, 
+        "id": "b2c304475b1e0caf970a465af0b3f0f2", 
+        "latitude": 45.56244706741791, 
+        "longitude": -122.68483579158783, 
+        "name": "N Concord at Killingsworth - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.766000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "4034 Southeast Hawthorne Boulevard, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2698"
+        }, 
+        "free_bikes": 7, 
+        "id": "a69c398abbacf9fe6f78931a6fe45252", 
+        "latitude": 45.51186486128098, 
+        "longitude": -122.62104749679565, 
+        "name": "SE 40th at Hawthorne", 
+        "timestamp": "2017-08-15T04:50:48.816000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "679-695 Pacific Highway West, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2707"
+        }, 
+        "free_bikes": 9, 
+        "id": "e84b2d43edee4b20f2d727b680d2fa39", 
+        "latitude": 45.51782550555786, 
+        "longitude": -122.67249628901482, 
+        "name": "SW Naito at Morrison", 
+        "timestamp": "2017-08-15T04:50:48.685000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Interstate Firehouse Cultural Center, 5340, North Interstate Avenue, Piedmont, Portland, Oregon", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2708"
+        }, 
+        "free_bikes": 0, 
+        "id": "602d9c95b0deaf57bfe889557e35947c", 
+        "latitude": 45.5619710180186, 
+        "longitude": -122.68203690648079, 
+        "name": "N Interstate at Willamette - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.687000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "700-748 Northwest Everett Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2789"
+        }, 
+        "free_bikes": 7, 
+        "id": "4e302e4ae6c93f53f151a9e3e9208c12", 
+        "latitude": 45.52507854324387, 
+        "longitude": -122.67755627632141, 
+        "name": "NW Broadway at Everett", 
+        "timestamp": "2017-08-15T04:50:48.726000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Apotheker Plaza, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2598"
+        }, 
+        "free_bikes": 4, 
+        "id": "2f101b48d941d8a743ab0e92fca124b3", 
+        "latitude": 45.52771962320018, 
+        "longitude": -122.66035258769989, 
+        "name": "Metro Campus - Community Corral", 
+        "timestamp": "2017-08-15T04:50:48.823000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "115-199 Northwest Couch Street, Portland", 
+          "last_updated": 1502772630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1589"
+        }, 
+        "free_bikes": 5, 
+        "id": "e79f785ac398a9d16d2e126f811072d5", 
+        "latitude": 45.52389221604001, 
+        "longitude": -122.67218244960532, 
+        "name": "NW Couch at 2nd", 
+        "timestamp": "2017-08-15T04:50:48.619000Z"
+      }
+    ]
+  }
+}

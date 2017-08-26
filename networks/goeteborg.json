@@ -1,0 +1,1210 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/goeteborg", 
+    "id": "goeteborg", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "G\u00f6teborg", 
+      "country": "SE", 
+      "latitude": 57.70887, 
+      "longitude": 11.97456
+    }, 
+    "name": "Styr & St\u00e4ll", 
+    "stations": [
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Gullbergsvass", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772125000, 
+          "slots": 60, 
+          "status": "OPEN", 
+          "uid": 65
+        }, 
+        "free_bikes": 35, 
+        "id": "dac90148ec56fed4d1f9d40f3fe91b39", 
+        "latitude": 57.716378, 
+        "longitude": 11.97472, 
+        "name": "GULLBERGSVASS", 
+        "timestamp": "2017-08-15T04:46:45.462000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Berzeliigatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771869000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 47
+        }, 
+        "free_bikes": 10, 
+        "id": "56f240d3bdbc40b04dc4d76e3828451b", 
+        "latitude": 57.69794, 
+        "longitude": 11.98096, 
+        "name": "BERZELIIGATAN", 
+        "timestamp": "2017-08-15T04:46:45.499000Z"
+      }, 
+      {
+        "empty_slots": 49, 
+        "extra": {
+          "address": "Chalmersplatsen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772281000, 
+          "slots": 50, 
+          "status": "OPEN", 
+          "uid": 56
+        }, 
+        "free_bikes": 0, 
+        "id": "05513d7c41a619e6d26ec9a69ab49f0a", 
+        "latitude": 57.68979, 
+        "longitude": 11.97305, 
+        "name": "CHALMERSPLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.384000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Chalmers Tv\u00e4rgata", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772302000, 
+          "slots": 32, 
+          "status": "OPEN", 
+          "uid": 55
+        }, 
+        "free_bikes": 20, 
+        "id": "65c337e1e903292733bf456ca245cc84", 
+        "latitude": 57.68953, 
+        "longitude": 11.97974, 
+        "name": "CHALMERS TV\u00c4RGATA", 
+        "timestamp": "2017-08-15T04:46:45.399000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "\u00d6stra hamngatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772123000, 
+          "slots": 27, 
+          "status": "OPEN", 
+          "uid": 67
+        }, 
+        "free_bikes": 20, 
+        "id": "d026a0c8e30df4857fdd8de3a0f93be0", 
+        "latitude": 57.704639, 
+        "longitude": 11.969008, 
+        "name": "\u00d6STRA HAMNGATAN", 
+        "timestamp": "2017-08-15T04:46:45.401000Z"
+      }, 
+      {
+        "empty_slots": 32, 
+        "extra": {
+          "address": "Bohusgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772025000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 8, 
+        "id": "b89ee3064f92ea214d36185b2c135ddc", 
+        "latitude": 57.70452, 
+        "longitude": 11.984298, 
+        "name": "BOHUSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.405000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Brunnsgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771886000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 32
+        }, 
+        "free_bikes": 8, 
+        "id": "eadb9c22626546ce989499e12dd3245a", 
+        "latitude": 57.693517, 
+        "longitude": 11.958559, 
+        "name": "BRUNNSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.415000Z"
+      }, 
+      {
+        "empty_slots": 40, 
+        "extra": {
+          "address": "L\u00e4raregatan/Molinsgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772329000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 53
+        }, 
+        "free_bikes": 0, 
+        "id": "52589f0788ca4a586b73cfb0c6fa0656", 
+        "latitude": 57.69418, 
+        "longitude": 11.97451, 
+        "name": "L\u00c4RAREGATAN/MOLINSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.428000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "G\u00e5rdatorget", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772336000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 4, 
+        "id": "93cd225395ca92564f8e45b1b55f4bc3", 
+        "latitude": 57.704675, 
+        "longitude": 11.992441, 
+        "name": "G\u00c5RDATORGET", 
+        "timestamp": "2017-08-15T04:46:45.429000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Valand", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772161000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 1, 
+        "id": "bcb4ac4d19ded066a315edc2bb36db6a", 
+        "latitude": 57.700324, 
+        "longitude": 11.973429, 
+        "name": "VALAND", 
+        "timestamp": "2017-08-15T04:46:45.431000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Kruthusgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772220000, 
+          "slots": 32, 
+          "status": "OPEN", 
+          "uid": 57
+        }, 
+        "free_bikes": 5, 
+        "id": "466c59dd955421a55793c93ef8a89ce2", 
+        "latitude": 57.71185, 
+        "longitude": 11.9806, 
+        "name": "KRUTHUSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.433000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Kristinelundsgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771934000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 1, 
+        "id": "38c3a1a4e658c28fe8b2037a0ce1f7e1", 
+        "latitude": 57.699939, 
+        "longitude": 11.976176, 
+        "name": "KRISTINELUNDSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.434000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Kungsgatan/Telekasern", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772075000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 50
+        }, 
+        "free_bikes": 11, 
+        "id": "4f88c44daa31f6c636c7021c774d703f", 
+        "latitude": 57.70337, 
+        "longitude": 11.96012, 
+        "name": "KUNGSGATAN/TELEKASERN", 
+        "timestamp": "2017-08-15T04:46:45.438000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Kanaltorget", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771794000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 12, 
+        "id": "8522feb41f353c8eef6cf467a5ff532b", 
+        "latitude": 57.710396, 
+        "longitude": 11.966421, 
+        "name": "KANALTORGET", 
+        "timestamp": "2017-08-15T04:46:45.442000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Kaponj\u00e4rsgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772262000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 49
+        }, 
+        "free_bikes": 17, 
+        "id": "36eb3347f5a1af20e9a886849e43e806", 
+        "latitude": 57.698949, 
+        "longitude": 11.956468, 
+        "name": "KAPONJ\u00c4RSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.445000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "\u00c5v\u00e4gen Norra", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771882000, 
+          "slots": 31, 
+          "status": "OPEN", 
+          "uid": 66
+        }, 
+        "free_bikes": 0, 
+        "id": "b6dcd7e3debea007d23f1baf92bdf627", 
+        "latitude": 57.704535, 
+        "longitude": 11.990748, 
+        "name": "\u00c5V\u00c4GEN NORRA", 
+        "timestamp": "2017-08-15T04:46:45.446000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Slussplatsen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772093000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 15, 
+        "id": "04cc890fcb696fb1dc8c6f85a9a86817", 
+        "latitude": 57.707316, 
+        "longitude": 11.973448, 
+        "name": "SLUSSPLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.447000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Korsv\u00e4gen 2", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772331000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 17, 
+        "id": "b0506d66bae9835a345a496649849932", 
+        "latitude": 57.696555, 
+        "longitude": 11.987833, 
+        "name": "KORSV\u00c4GEN", 
+        "timestamp": "2017-08-15T04:46:45.448000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "008_ESPERANTOPLATSEN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772059000, 
+          "slots": 27, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 24, 
+        "id": "cce72c7a4b4602ac9680fa44427cef83", 
+        "latitude": 57.702793, 
+        "longitude": 11.955461, 
+        "name": "ESPERANTOPLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.449000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Liseberg Station", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772101000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 27
+        }, 
+        "free_bikes": 26, 
+        "id": "74a0cbc2b13f973be59a132c3d18aa58", 
+        "latitude": 57.697923, 
+        "longitude": 11.995107, 
+        "name": "LISEBERG STATION", 
+        "timestamp": "2017-08-15T04:46:45.450000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Scandinavium", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772096000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 17, 
+        "id": "5bc1ab59e6afd58180214a39ee3741ca", 
+        "latitude": 57.700094, 
+        "longitude": 11.987908, 
+        "name": "SCANDINAVIUM", 
+        "timestamp": "2017-08-15T04:46:45.453000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Slottskogen/Plikta", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772102000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 41
+        }, 
+        "free_bikes": 11, 
+        "id": "d944f73904ed0fd51ccd25a60362e640", 
+        "latitude": 57.689983, 
+        "longitude": 11.947047, 
+        "name": "SLOTTSKOGEN/PLIKTA", 
+        "timestamp": "2017-08-15T04:46:45.454000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Gustaf Adolfs Torg", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772374000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 21, 
+        "id": "7608482f67e9a117b6721eb44ae3c589", 
+        "latitude": 57.707233, 
+        "longitude": 11.967502, 
+        "name": "GUSTAF ADOLFS TORG", 
+        "timestamp": "2017-08-15T04:46:45.459000Z"
+      }, 
+      {
+        "empty_slots": 33, 
+        "extra": {
+          "address": "Ullevigatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771992000, 
+          "slots": 36, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 3, 
+        "id": "bba0789b849bf5f8cdd2f416c3841ae5", 
+        "latitude": 57.707048, 
+        "longitude": 11.983638, 
+        "name": "ULLEVIGATAN", 
+        "timestamp": "2017-08-15T04:46:45.460000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Carlanderplatsen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772247000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 48
+        }, 
+        "free_bikes": 7, 
+        "id": "711e2fdf3adc35d8ca026ef9161fd7b2", 
+        "latitude": 57.69312, 
+        "longitude": 11.98661, 
+        "name": "CARLANDERSPLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.467000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Packhusplatsen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772217000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 43
+        }, 
+        "free_bikes": 3, 
+        "id": "e5d4493406b216b7d39d2db50a942090", 
+        "latitude": 57.706767, 
+        "longitude": 11.959101, 
+        "name": "PACKHUSPLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.468000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Eklanda/Utlandagatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772207000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 54
+        }, 
+        "free_bikes": 9, 
+        "id": "ac2afe5e4aabc295b30d6255c0acae8e", 
+        "latitude": 57.69032, 
+        "longitude": 11.98854, 
+        "name": "EKLANDA/UTLANDAGATAN", 
+        "timestamp": "2017-08-15T04:46:45.471000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "F\u00f6reningsgatan", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772222000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 33
+        }, 
+        "free_bikes": 15, 
+        "id": "57421220b765c79e464e5dc9c15a6ae3", 
+        "latitude": 57.694554, 
+        "longitude": 11.961987, 
+        "name": "F\u00d6RENINGSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.474000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Hagabion", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771882000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 51
+        }, 
+        "free_bikes": 19, 
+        "id": "3f0fdb347203c4ccd7c082a4afc05401", 
+        "latitude": 57.696837, 
+        "longitude": 11.951009, 
+        "name": "HAGABION", 
+        "timestamp": "2017-08-15T04:46:45.479000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Alstr\u00f6mer/Friggagatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771934000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 45
+        }, 
+        "free_bikes": 19, 
+        "id": "53102e3d0af2777fb93bfe3da1e9f85f", 
+        "latitude": 57.71119, 
+        "longitude": 11.98798, 
+        "name": "ALSTR\u00d6MER/FRIGGAGATAN", 
+        "timestamp": "2017-08-15T04:46:45.480000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Rosenlundsplatsen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772283000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 7, 
+        "id": "7b702c246b0ef8e56a36075105e88f10", 
+        "latitude": 57.700685, 
+        "longitude": 11.960571, 
+        "name": "ROSENLUNDSPLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.488000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Heden/Stensturegatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771794000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 12, 
+        "id": "285f933667259759da5b3a9467544fb5", 
+        "latitude": 57.702955, 
+        "longitude": 11.98021, 
+        "name": "HEDEN/STENSTUREGATAN", 
+        "timestamp": "2017-08-15T04:46:45.489000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Drottningtorget", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771853000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 42
+        }, 
+        "free_bikes": 6, 
+        "id": "346ba3bb7ac684d4143d6c243aff5843", 
+        "latitude": 57.708074, 
+        "longitude": 11.972737, 
+        "name": "DROTTNINGTORGET", 
+        "timestamp": "2017-08-15T04:46:45.492000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Masthuggstorget", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772149000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 61
+        }, 
+        "free_bikes": 26, 
+        "id": "0d3d9a490cc4f02e42a82a287caf4f26", 
+        "latitude": 57.699415, 
+        "longitude": 11.941861, 
+        "name": "MASTHUGGSTORGET", 
+        "timestamp": "2017-08-15T04:46:45.495000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Rosenlund/F\u00e4rgel\u00e4get", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772349000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 62
+        }, 
+        "free_bikes": 10, 
+        "id": "ff7711c86db81f5269bc488bbfebdd5c", 
+        "latitude": 57.702301, 
+        "longitude": 11.952395, 
+        "name": "ROSENLUND/F\u00c4RJEL\u00c4GET", 
+        "timestamp": "2017-08-15T04:46:45.501000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Gr\u00f6nsakstorget", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772287000, 
+          "slots": 37, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 19, 
+        "id": "c88f2bc6c17606707af5d43539ee8760", 
+        "latitude": 57.702459, 
+        "longitude": 11.965179, 
+        "name": "GR\u00d6NSAKSTORGET", 
+        "timestamp": "2017-08-15T04:46:45.505000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "F\u00f6rstal\u00e5ng/V\u00e4rmlandsgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772264000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 59
+        }, 
+        "free_bikes": 13, 
+        "id": "f9b83864521893760118d594f159c451", 
+        "latitude": 57.699968, 
+        "longitude": 11.946097, 
+        "name": "F\u00d6RSTAL\u00c5NG/V\u00c4RMLANDSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.506000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Bergakungen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772253000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 30
+        }, 
+        "free_bikes": 5, 
+        "id": "df64ca81de3ba1f7c190b18a5830987b", 
+        "latitude": 57.702135, 
+        "longitude": 11.985035, 
+        "name": "BERGAKUNGEN", 
+        "timestamp": "2017-08-15T04:46:45.507000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Storan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772220000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 4, 
+        "id": "304aa906a4364cc810c8ff2460b23c39", 
+        "latitude": 57.702482, 
+        "longitude": 11.971552, 
+        "name": "STORAN", 
+        "timestamp": "2017-08-15T04:46:45.508000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Frig\u00e5ngsgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771806000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 39
+        }, 
+        "free_bikes": 20, 
+        "id": "92528a71c934708f56819de444ef682e", 
+        "latitude": 57.697821, 
+        "longitude": 11.952905, 
+        "name": "FRIG\u00c5NGSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.513000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Kastellgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771947000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 34
+        }, 
+        "free_bikes": 10, 
+        "id": "2a126e15ab4269e00f7b1c80ba9f2557", 
+        "latitude": 57.693029, 
+        "longitude": 11.955692, 
+        "name": "KASTELLGATAN", 
+        "timestamp": "2017-08-15T04:46:45.514000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Lilla Bommen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772090000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 5, 
+        "id": "52374a96ab6f7cc71cff73ef2c4206b3", 
+        "latitude": 57.711547, 
+        "longitude": 11.966574, 
+        "name": "LILLA BOMMEN", 
+        "timestamp": "2017-08-15T04:46:45.515000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Vasagatan/Heden", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772386000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 9, 
+        "id": "fa6ccb7b1a6a0525780245a5b6df2ac9", 
+        "latitude": 57.701419, 
+        "longitude": 11.9766, 
+        "name": "VASAGATAN/HEDEN", 
+        "timestamp": "2017-08-15T04:46:45.519000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Skanstorget", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772069000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 35
+        }, 
+        "free_bikes": 15, 
+        "id": "0da6d98fca20de2df48caeba52739e31", 
+        "latitude": 57.695909, 
+        "longitude": 11.958548, 
+        "name": "SKANSTORGET", 
+        "timestamp": "2017-08-15T04:46:45.523000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Hagaparken", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772325000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 36
+        }, 
+        "free_bikes": 0, 
+        "id": "4dedd488b188ba86436bd30d92d91b31", 
+        "latitude": 57.697984, 
+        "longitude": 11.962405, 
+        "name": "HAGAPARKEN", 
+        "timestamp": "2017-08-15T04:46:45.524000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Engelbrektsgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772281000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 44
+        }, 
+        "free_bikes": 11, 
+        "id": "775dfbe93e68fd362e907e519316336c", 
+        "latitude": 57.69841, 
+        "longitude": 11.97694, 
+        "name": "ENGELBREKTSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.526000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "\u00c5v\u00e4gen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772279000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 31
+        }, 
+        "free_bikes": 4, 
+        "id": "b8412d1e9997e8d9737179e96cf989bc", 
+        "latitude": 57.701249, 
+        "longitude": 11.992191, 
+        "name": "\u00c5V\u00c4GEN", 
+        "timestamp": "2017-08-15T04:46:45.530000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Tredjel\u00e5ng/V\u00e4rmlandsgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772201000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 60
+        }, 
+        "free_bikes": 10, 
+        "id": "ec6575dcd996e0934bc856ce9e8caef8", 
+        "latitude": 57.698261, 
+        "longitude": 11.946208, 
+        "name": "TREDJEL\u00c5NG/V\u00c4RMLANDSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.531000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Heden Syd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771809000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 6, 
+        "id": "e2b93e55e5ba0cd509a963a7e693343b", 
+        "latitude": 57.699941, 
+        "longitude": 11.979867, 
+        "name": "HEDEN SYD", 
+        "timestamp": "2017-08-15T04:46:45.532000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "Gibraltargatan/Eklandagatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772377000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 52
+        }, 
+        "free_bikes": 14, 
+        "id": "88bf4a8b2f0e9caad640bb4519ec544e", 
+        "latitude": 57.68542, 
+        "longitude": 11.98322, 
+        "name": "GIBRALTARG/EKLANDAG", 
+        "timestamp": "2017-08-15T04:46:45.535000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Korsv\u00e4gen 1/S\u00f6dra V\u00e4gen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772019000, 
+          "slots": 32, 
+          "status": "OPEN", 
+          "uid": 28
+        }, 
+        "free_bikes": 31, 
+        "id": "699559c2f124ba7c1be008ab36a59eff", 
+        "latitude": 57.696916, 
+        "longitude": 11.985703, 
+        "name": "KORSV\u00c4GEN /S\u00d6DRA V\u00c4GEN", 
+        "timestamp": "2017-08-15T04:46:45.536000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Molinsgatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771878000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 37
+        }, 
+        "free_bikes": 9, 
+        "id": "2e0c5931f2a2cc5035d2e129cb87afa4", 
+        "latitude": 57.69691, 
+        "longitude": 11.97234, 
+        "name": "MOLINSGATAN", 
+        "timestamp": "2017-08-15T04:46:45.538000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Nils-Ericsson Terminalen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771828000, 
+          "slots": 35, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 27, 
+        "id": "38c33a99fd55b767bf7a38ae1432a348", 
+        "latitude": 57.709752, 
+        "longitude": 11.970787, 
+        "name": "NILS-ERICSSON TERMINALEN", 
+        "timestamp": "2017-08-15T04:46:45.539000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Vasagatan/Schillerska", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772169000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 38
+        }, 
+        "free_bikes": 12, 
+        "id": "07786deefe906e84c0143b4e2d409f03", 
+        "latitude": 57.698265, 
+        "longitude": 11.967115, 
+        "name": "VASAGATAN/SCHILLERSKA", 
+        "timestamp": "2017-08-15T04:46:45.541000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "Kapellplatsen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772217000, 
+          "slots": 28, 
+          "status": "OPEN", 
+          "uid": 46
+        }, 
+        "free_bikes": 0, 
+        "id": "8bf56b0b0f5257bb317913c27ff16958", 
+        "latitude": 57.69358, 
+        "longitude": 11.97199, 
+        "name": "KAPELLPLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.473000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Domkyrkan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772249000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 510
+        }, 
+        "free_bikes": 3, 
+        "id": "79b084e80feeb9c6fa8d370e83f3f29d", 
+        "latitude": 57.70434, 
+        "longitude": 11.96388, 
+        "name": "DOMKYRKAN", 
+        "timestamp": "2017-08-15T04:46:45.440000Z"
+      }, 
+      {
+        "empty_slots": 40, 
+        "extra": {
+          "address": "Stenpiren", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771874000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 69
+        }, 
+        "free_bikes": 0, 
+        "id": "ca7918e5231f8ccf14d325d40c7ddec8", 
+        "latitude": 57.705703, 
+        "longitude": 11.957183, 
+        "name": "STENPIREN", 
+        "timestamp": "2017-08-15T04:46:45.425000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Folkungagatan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772365000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 58
+        }, 
+        "free_bikes": 15, 
+        "id": "fdc72d246c2310952ac64d70443b7f3c", 
+        "latitude": 57.70884, 
+        "longitude": 11.98472, 
+        "name": "FOLKUNGAGATAN", 
+        "timestamp": "2017-08-15T04:46:45.444000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Linn\u00e9platsen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772109000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 40
+        }, 
+        "free_bikes": 15, 
+        "id": "b34c16e696b63db4905bf55e1041aa96", 
+        "latitude": 57.690278, 
+        "longitude": 11.95165, 
+        "name": "LINN\u00c9PLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.472000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "D\u00e4mmeplatsen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772228000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 2, 
+        "id": "146060f196810a5c0f21840ddeec55d8", 
+        "latitude": 57.70701, 
+        "longitude": 11.99039, 
+        "name": "D\u00c4MMEPLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.490000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "Olof Palmes Plats", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772142000, 
+          "slots": 31, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 5, 
+        "id": "5e2e083764e7e3bffe6292bf0662d596", 
+        "latitude": 57.700662, 
+        "longitude": 11.95364, 
+        "name": "OLOF PALMES PLATS", 
+        "timestamp": "2017-08-15T04:46:45.421000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Svingeln", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772260000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 68
+        }, 
+        "free_bikes": 16, 
+        "id": "4c0a88c0a2d82cc98f1247b7d774241d", 
+        "latitude": 57.712435, 
+        "longitude": 11.990553, 
+        "name": "SVINGELN", 
+        "timestamp": "2017-08-15T04:46:45.482000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "L\u00e4ppstiftet", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772183000, 
+          "slots": 29, 
+          "status": "OPEN", 
+          "uid": 63
+        }, 
+        "free_bikes": 8, 
+        "id": "35b5c9f5890a06f9277fd1eb6edba08e", 
+        "latitude": 57.713496, 
+        "longitude": 11.968013, 
+        "name": "L\u00c4PPSTIFTET", 
+        "timestamp": "2017-08-15T04:46:45.465000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "GULLBERGSVASS/GASVERKET", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772159000, 
+          "slots": 39, 
+          "status": "OPEN", 
+          "uid": 70
+        }, 
+        "free_bikes": 23, 
+        "id": "a26fbd23c543bdb845488c6062940b75", 
+        "latitude": 57.7192479, 
+        "longitude": 11.9838407, 
+        "name": "GULLBERGSVASS/GASVERKET", 
+        "timestamp": "2017-08-15T04:46:45.427000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Posthuset/\u00c5kareplatsen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771995000, 
+          "slots": 31, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 29, 
+        "id": "482558b3894a1274cfebe857bd5d1c74", 
+        "latitude": 57.708554, 
+        "longitude": 11.97559, 
+        "name": "POSTHUSET/\u00c5KAREPLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.521000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Bastionsplatsen", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771859000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 12, 
+        "id": "18cb0792fa1d719b072aaa6251245937", 
+        "latitude": 57.704263, 
+        "longitude": 11.972077, 
+        "name": "BASTIONSPLATSEN", 
+        "timestamp": "2017-08-15T04:46:45.460000Z"
+      }
+    ]
+  }
+}

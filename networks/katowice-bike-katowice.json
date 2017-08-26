@@ -1,0 +1,699 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/katowice-bike-katowice", 
+    "id": "katowice-bike-katowice", 
+    "location": {
+      "city": "Katowice", 
+      "country": "PL", 
+      "latitude": 50.2594, 
+      "longitude": 19.0215
+    }, 
+    "name": "Katowice Bike", 
+    "stations": [
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "number": "5878", 
+          "slots": 18, 
+          "uid": "2835467"
+        }, 
+        "free_bikes": 0, 
+        "id": "fddd061464c4c90af63e86a776367591", 
+        "latitude": 50.269553, 
+        "longitude": 19.003845, 
+        "name": "Silesia City Center", 
+        "timestamp": "2017-08-15T04:46:55.985000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "5880", 
+          "slots": 12, 
+          "uid": "2835480"
+        }, 
+        "free_bikes": 0, 
+        "id": "fb885cfec16064ffc789875a3ad217cc", 
+        "latitude": 50.257253, 
+        "longitude": 19.028636, 
+        "name": "Murapol Mariacka", 
+        "timestamp": "2017-08-15T04:46:55.988000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "58703", 
+            "58675", 
+            "58509", 
+            "58390", 
+            "58374"
+          ], 
+          "number": "5881", 
+          "slots": 12, 
+          "uid": "2835486"
+        }, 
+        "free_bikes": 5, 
+        "id": "165645542475d505389db67f9024ab21", 
+        "latitude": 50.267432, 
+        "longitude": 19.01304, 
+        "name": "Murapol Chorzowska", 
+        "timestamp": "2017-08-15T04:46:55.989000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "58742", 
+            "58439", 
+            "58421", 
+            "58414", 
+            "58400"
+          ], 
+          "number": "5888", 
+          "slots": 12, 
+          "uid": "2904499"
+        }, 
+        "free_bikes": 5, 
+        "id": "319a83bf52ada61bdd1367eb8418181c", 
+        "latitude": 50.226187, 
+        "longitude": 18.9752, 
+        "name": "Ligota Dworzec PKP", 
+        "timestamp": "2017-08-15T04:46:56Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "58751"
+          ], 
+          "number": "5892", 
+          "slots": 12, 
+          "uid": "2904576"
+        }, 
+        "free_bikes": 1, 
+        "id": "7832fd5811fb117d449d186d6a23d180", 
+        "latitude": 50.214561, 
+        "longitude": 18.989971, 
+        "name": "Piotrowice V L.O.", 
+        "timestamp": "2017-08-15T04:46:56.005000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "58704", 
+            "58692", 
+            "58752", 
+            "58510", 
+            "58485"
+          ], 
+          "number": "5872", 
+          "slots": 12, 
+          "uid": "882519"
+        }, 
+        "free_bikes": 5, 
+        "id": "c9e099e5ad0dd9817cede3a041810b06", 
+        "latitude": 50.284215, 
+        "longitude": 18.9679, 
+        "name": "Al. Ksi\u0119\u017cnej Jadwigi \u015al\u0105skiej", 
+        "timestamp": "2017-08-15T04:46:55.979000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "58728", 
+            "58429", 
+            "58376"
+          ], 
+          "number": "5873", 
+          "slots": 12, 
+          "uid": "882521"
+        }, 
+        "free_bikes": 3, 
+        "id": "458c105254c2dd90853c4b4c4085da50", 
+        "latitude": 50.2468, 
+        "longitude": 19.00986, 
+        "name": "Park Ko\u015bciuszki", 
+        "timestamp": "2017-08-15T04:46:55.980000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "58725", 
+            "58427", 
+            "58412", 
+            "58393", 
+            "58387"
+          ], 
+          "number": "5875", 
+          "slots": 12, 
+          "uid": "882528"
+        }, 
+        "free_bikes": 5, 
+        "id": "96a110d7ad8c80e0fee64eed9716e772", 
+        "latitude": 50.251654, 
+        "longitude": 19.031044, 
+        "name": "Ul. Powsta\u0144c\u00f3w - Biblioteka \u015al\u0105ska", 
+        "timestamp": "2017-08-15T04:46:55.981000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "58733", 
+            "58693", 
+            "58397"
+          ], 
+          "number": "5876", 
+          "slots": 12, 
+          "uid": "882531"
+        }, 
+        "free_bikes": 3, 
+        "id": "7b72ff76adb4772e92b03b959adb12bf", 
+        "latitude": 50.25393, 
+        "longitude": 19.02393, 
+        "name": "Plac Sejmu \u015al\u0105skiego", 
+        "timestamp": "2017-08-15T04:46:55.982000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "60605"
+          ], 
+          "number": "5877", 
+          "slots": 12, 
+          "uid": "1008726"
+        }, 
+        "free_bikes": 1, 
+        "id": "b44ed5dfa72b0437e3d70bec4807e86b", 
+        "latitude": 50.283082, 
+        "longitude": 19.027164, 
+        "name": "GPP Business Park", 
+        "timestamp": "2017-08-15T04:46:55.984000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "58734", 
+            "58729", 
+            "58682", 
+            "58756", 
+            "58479"
+          ], 
+          "number": "5886", 
+          "slots": 12, 
+          "uid": "2904476"
+        }, 
+        "free_bikes": 5, 
+        "id": "02a06a15e22e3240a5fd01a9299fb919", 
+        "latitude": 50.225407, 
+        "longitude": 18.970024, 
+        "name": "Skwer Boles\u0142awa Szabelskiego ", 
+        "timestamp": "2017-08-15T04:46:55.995000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "58745", 
+            "58737", 
+            "58721", 
+            "58700", 
+            "58520"
+          ], 
+          "number": "5891", 
+          "slots": 12, 
+          "uid": "2904563"
+        }, 
+        "free_bikes": 5, 
+        "id": "c0b42be369bd8ccf7abfa1e967e89b87", 
+        "latitude": 50.219269, 
+        "longitude": 18.976254, 
+        "name": "Zadole Ko\u015bci\u00f3\u0142", 
+        "timestamp": "2017-08-15T04:46:56.004000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "58741", 
+            "58686", 
+            "58519", 
+            "58482", 
+            "58481"
+          ], 
+          "number": "5893", 
+          "slots": 12, 
+          "uid": "2904587"
+        }, 
+        "free_bikes": 5, 
+        "id": "b22591e91a89394c0267faee40800f11", 
+        "latitude": 50.208458, 
+        "longitude": 18.973838, 
+        "name": "Armii Krajowej/Jankego", 
+        "timestamp": "2017-08-15T04:46:56.006000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "58672", 
+            "58502", 
+            "58501", 
+            "58493", 
+            "58487"
+          ], 
+          "number": "5894", 
+          "slots": 12, 
+          "uid": "2904602"
+        }, 
+        "free_bikes": 5, 
+        "id": "9534231870f8e1ee0dfc7e6baaba87a3", 
+        "latitude": 50.204895, 
+        "longitude": 18.986257, 
+        "name": "\u0141\u0119towskiego S.P. nr 27", 
+        "timestamp": "2017-08-15T04:46:56.007000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "5895", 
+          "slots": 12, 
+          "uid": "2904716"
+        }, 
+        "free_bikes": 0, 
+        "id": "003435d1f61a20f6bedd8d224af8d08d", 
+        "latitude": 50.263091, 
+        "longitude": 19.004538, 
+        "name": "Za\u0142\u0119\u017ce Skwer S. Barei", 
+        "timestamp": "2017-08-15T04:46:56.008000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "58750", 
+            "58740", 
+            "58691", 
+            "58494", 
+            "58489"
+          ], 
+          "number": "5896", 
+          "slots": 12, 
+          "uid": "2904742"
+        }, 
+        "free_bikes": 5, 
+        "id": "6567acfb8cf15f829a03456bb7bec9ba", 
+        "latitude": 50.231613, 
+        "longitude": 18.963644, 
+        "name": "Osiedle Franciszka\u0144skie", 
+        "timestamp": "2017-08-15T04:46:56.009000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "58747", 
+            "58720", 
+            "58715", 
+            "58714", 
+            "58702"
+          ], 
+          "number": "5885", 
+          "slots": 12, 
+          "uid": "2972743"
+        }, 
+        "free_bikes": 5, 
+        "id": "2adbabd431403036f8ee71a0cf71608c", 
+        "latitude": 50.268784, 
+        "longitude": 19.038721, 
+        "name": "Bogucice Szpital", 
+        "timestamp": "2017-08-15T04:46:56.010000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "58446", 
+            "58541"
+          ], 
+          "number": "5897", 
+          "slots": 12, 
+          "uid": "3015693"
+        }, 
+        "free_bikes": 2, 
+        "id": "e21b1a6c8b824e39c5ad540edb3335be", 
+        "latitude": 50.243596, 
+        "longitude": 19.03625, 
+        "name": "Galeria 3 Stawy", 
+        "timestamp": "2017-08-15T04:46:56.011000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "58419"
+          ], 
+          "number": "5869", 
+          "slots": 12, 
+          "uid": "882498"
+        }, 
+        "free_bikes": 1, 
+        "id": "49abc64d9bcdd197b7a62eacf65a0d2f", 
+        "latitude": 50.240151437389, 
+        "longitude": 19.024940729141, 
+        "name": "Dolina 3-ch Staw\u00f3w", 
+        "timestamp": "2017-08-15T04:46:55.975000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "58739", 
+            "58673", 
+            "58525", 
+            "58472"
+          ], 
+          "number": "5887", 
+          "slots": 12, 
+          "uid": "2904486"
+        }, 
+        "free_bikes": 4, 
+        "id": "a2516547e9f5d0bf0235499586aca2d1", 
+        "latitude": 50.234944, 
+        "longitude": 18.959424, 
+        "name": "Kokociniec S.P nr\u00a067", 
+        "timestamp": "2017-08-15T04:46:55.998000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "58718", 
+            "58716", 
+            "58688", 
+            "58685", 
+            "58678"
+          ], 
+          "number": "5867", 
+          "slots": 12, 
+          "uid": "882489"
+        }, 
+        "free_bikes": 5, 
+        "id": "29fc74c48ae9dcb66e1dba83c0fd7a27", 
+        "latitude": 50.258793, 
+        "longitude": 19.021583, 
+        "name": "Katowice Rynek", 
+        "timestamp": "2017-08-15T04:46:55.957000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "58680", 
+            "58521", 
+            "58448", 
+            "58434"
+          ], 
+          "number": "5868", 
+          "slots": 12, 
+          "uid": "882496"
+        }, 
+        "free_bikes": 4, 
+        "id": "90297ef7901a417b7453342851c3a2f4", 
+        "latitude": 50.26519, 
+        "longitude": 19.02866, 
+        "name": "NOSPR Katowice", 
+        "timestamp": "2017-08-15T04:46:55.969000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "58717", 
+            "58712", 
+            "58694", 
+            "58484", 
+            "58461"
+          ], 
+          "number": "5890", 
+          "slots": 12, 
+          "uid": "2904529"
+        }, 
+        "free_bikes": 5, 
+        "id": "9f3709ca5fd58750c4879259e961fc62", 
+        "latitude": 50.226626, 
+        "longitude": 18.958487, 
+        "name": "Ligota Medyk\u00f3w", 
+        "timestamp": "2017-08-15T04:46:56.002000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "58724", 
+            "58690", 
+            "58689", 
+            "58522", 
+            "58496"
+          ], 
+          "number": "5870", 
+          "slots": 12, 
+          "uid": "882502"
+        }, 
+        "free_bikes": 5, 
+        "id": "9de86d269289c97ba029831a864756dc", 
+        "latitude": 50.275055, 
+        "longitude": 18.98065, 
+        "name": "Al. Boles\u0142awa Krzywoustego", 
+        "timestamp": "2017-08-15T04:46:55.976000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "58746", 
+            "58523", 
+            "58504", 
+            "58471", 
+            "58459"
+          ], 
+          "number": "5889", 
+          "slots": 12, 
+          "uid": "2904519"
+        }, 
+        "free_bikes": 5, 
+        "id": "94db298d8e6e334e6690315137ed4ffd", 
+        "latitude": 50.218775, 
+        "longitude": 18.968009, 
+        "name": "Ligota Wczasowa", 
+        "timestamp": "2017-08-15T04:46:56.001000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "58744", 
+            "58743", 
+            "58687", 
+            "58677", 
+            "58508"
+          ], 
+          "number": "5883", 
+          "slots": 12, 
+          "uid": "2835504"
+        }, 
+        "free_bikes": 5, 
+        "id": "16002ec2bcb413f903445398656f2395", 
+        "latitude": 50.25514, 
+        "longitude": 19.037076, 
+        "name": "KTBS \u2013 Krasi\u0144skiego 14", 
+        "timestamp": "2017-08-15T04:46:55.991000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "58526"
+          ], 
+          "number": "5882", 
+          "slots": 12, 
+          "uid": "2835500"
+        }, 
+        "free_bikes": 1, 
+        "id": "a2d0d0c351f25d1a20747d2ab3ec8a93", 
+        "latitude": 50.255404, 
+        "longitude": 19.032445, 
+        "name": "Politechnika \u015al\u0105ska", 
+        "timestamp": "2017-08-15T04:46:55.990000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "58440"
+          ], 
+          "number": "5879", 
+          "slots": 12, 
+          "uid": "2835475"
+        }, 
+        "free_bikes": 1, 
+        "id": "430e39576607141c2bb6df14ed0130f8", 
+        "latitude": 50.270038, 
+        "longitude": 18.997881, 
+        "name": "Silesia Business Park", 
+        "timestamp": "2017-08-15T04:46:55.987000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "58726", 
+            "58706", 
+            "58696", 
+            "58695", 
+            "58518"
+          ], 
+          "number": "5884", 
+          "slots": 12, 
+          "uid": "2835511"
+        }, 
+        "free_bikes": 5, 
+        "id": "5f7b9241a3257aa2d37a1d0e035a69f5", 
+        "latitude": 50.261133, 
+        "longitude": 19.056076, 
+        "name": "KTBS \u2013 Saint Etienne 1", 
+        "timestamp": "2017-08-15T04:46:55.992000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "58732", 
+            "58684", 
+            "58511", 
+            "58499", 
+            "58478"
+          ], 
+          "number": "5871", 
+          "slots": 12, 
+          "uid": "882504"
+        }, 
+        "free_bikes": 5, 
+        "id": "766a6a0b400266f045e34fbb33fc5aa7", 
+        "latitude": 50.279943, 
+        "longitude": 18.974627, 
+        "name": "Al. Ksi\u0119cia Henryka Pobo\u017cnego", 
+        "timestamp": "2017-08-15T04:46:55.977000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "58748", 
+            "58711", 
+            "58709", 
+            "58517", 
+            "58506"
+          ], 
+          "number": "5866", 
+          "slots": 12, 
+          "uid": "4141789"
+        }, 
+        "free_bikes": 5, 
+        "id": "217d5f59c6d2308f6de7be91e3d0b09e", 
+        "latitude": 50.259658, 
+        "longitude": 18.968614, 
+        "name": "Osiedle Witosa - Plac Herberta", 
+        "timestamp": "2017-08-15T04:46:56.013000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "58707", 
+            "58498", 
+            "58463", 
+            "61113", 
+            "61108"
+          ], 
+          "number": "5865", 
+          "slots": 12, 
+          "uid": "4141791"
+        }, 
+        "free_bikes": 5, 
+        "id": "23fef0b2ae196e62498c3b2ae13e5b56", 
+        "latitude": 50.195908, 
+        "longitude": 19.044759, 
+        "name": "Murcki - Park Murckowski", 
+        "timestamp": "2017-08-15T04:46:56.014000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "58749", 
+            "58681", 
+            "58514", 
+            "58470", 
+            "58465"
+          ], 
+          "number": "5864", 
+          "slots": 12, 
+          "uid": "4141795"
+        }, 
+        "free_bikes": 5, 
+        "id": "58dfbe04d33616c86108ddc89096787c", 
+        "latitude": 50.221976, 
+        "longitude": 19.064693, 
+        "name": "Giszowiec - Plac Pod Lipami", 
+        "timestamp": "2017-08-15T04:46:56.015000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "58432"
+          ], 
+          "number": "5862", 
+          "slots": 12, 
+          "uid": "4141801"
+        }, 
+        "free_bikes": 1, 
+        "id": "efd3031bbe883a700913f64689e2edb8", 
+        "latitude": 50.262465, 
+        "longitude": 19.095041, 
+        "name": "Szopienice - Plac Powsta\u0144c\u00f3w \u015al\u0105skich", 
+        "timestamp": "2017-08-15T04:46:56.019000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "58727", 
+            "58723", 
+            "58708", 
+            "58701", 
+            "58697"
+          ], 
+          "number": "5863", 
+          "slots": 12, 
+          "uid": "4141799"
+        }, 
+        "free_bikes": 5, 
+        "id": "295a2b9206462806f3ae3cbc97b28cd4", 
+        "latitude": 50.244882450933, 
+        "longitude": 19.082211256027, 
+        "name": "Nikiszowiec Lodowisko Jantor", 
+        "timestamp": "2017-08-15T04:46:56.018000Z"
+      }
+    ]
+  }
+}

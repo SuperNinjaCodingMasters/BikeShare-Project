@@ -1,0 +1,82 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-el-campello", 
+    "id": "onroll-el-campello", 
+    "location": {
+      "city": "El Campello", 
+      "country": "ES", 
+      "latitude": 38.419616, 
+      "longitude": -0.398388
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 7, 
+        "id": "16d1c8cfe146a5cbdaedb3603e732de4", 
+        "latitude": 38.426987, 
+        "longitude": -0.396376, 
+        "name": "Centro Social", 
+        "timestamp": "2017-08-15T04:47:37.098000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "2c1070f972885eff8b3df5db356dc10e", 
+        "latitude": 38.427393, 
+        "longitude": -0.389349, 
+        "name": "Playa 1", 
+        "timestamp": "2017-08-15T04:47:37.102000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "7ebac5a547dd531f1a0a848d08c656a6", 
+        "latitude": 38.396383, 
+        "longitude": -0.406905, 
+        "name": "Playa 2", 
+        "timestamp": "2017-08-15T04:47:37.103000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "879c2f41e61d5777f3f1fb4632c2f003", 
+        "latitude": 38.427702, 
+        "longitude": -0.400921, 
+        "name": "Plaza", 
+        "timestamp": "2017-08-15T04:47:37.104000Z"
+      }
+    ]
+  }
+}

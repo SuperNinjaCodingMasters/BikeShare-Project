@@ -1,0 +1,1460 @@
+{
+  "network": {
+    "company": [
+      "CycleHop, LLC", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "http://santamonicabikeshare.com/opendata/gbfs.json", 
+    "href": "/v2/networks/breeze-bike-share", 
+    "id": "breeze-bike-share", 
+    "location": {
+      "city": "Santa Monica, CA", 
+      "country": "US", 
+      "latitude": 34.01780925008178, 
+      "longitude": -118.4965717792511
+    }, 
+    "name": "Breeze Bike Share", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "301-347 4th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_997"
+        }, 
+        "free_bikes": 3, 
+        "id": "cbf13f7f17bacd94afacdded2a24eb12", 
+        "latitude": 34.02915340875886, 
+        "longitude": -118.51082302629948, 
+        "name": "03.  4th Street and San Vicente Boulevard", 
+        "timestamp": "2017-08-15T04:47:49.889000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2101-2145 Ocean Park Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2659"
+        }, 
+        "free_bikes": 0, 
+        "id": "79dca75e52ca9628bf1f97c53ca23734", 
+        "latitude": 34.014509321312545, 
+        "longitude": -118.4635055065155, 
+        "name": "71. Fairview Library (Drop Zone)", 
+        "timestamp": "2017-08-15T04:47:49.835000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "602 Venice Boulevard, Los Angeles", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2238"
+        }, 
+        "free_bikes": 12, 
+        "id": "e397d24fa1f2b56f15df0e2b7a3ba9ba", 
+        "latitude": 33.989105257479956, 
+        "longitude": -118.4621275216341, 
+        "name": "96. Abbot Kinney ave, and Venice Blvd", 
+        "timestamp": "2017-08-15T04:47:49.794000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1100 Ocean Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2640"
+        }, 
+        "free_bikes": 3, 
+        "id": "c2cffac1207941f2d9af9d36a5889682", 
+        "latitude": 34.01797598884837, 
+        "longitude": -118.50268185138704, 
+        "name": "36. Ocean Avenue and California Avenue ", 
+        "timestamp": "2017-08-15T04:47:49.800000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "761-799 16th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_999"
+        }, 
+        "free_bikes": 0, 
+        "id": "7fcd5978c72f53af3aae200fef3f61d8", 
+        "latitude": 34.033854687632505, 
+        "longitude": -118.49337726831436, 
+        "name": "09.  16th Street and Montana Avenue", 
+        "timestamp": "2017-08-15T04:47:49.895000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Ocean Front Walk, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_985"
+        }, 
+        "free_bikes": 2, 
+        "id": "eeb2b0b570e559a62fe6ef1bdfec4251", 
+        "latitude": 34.024529674515236, 
+        "longitude": -118.51394712924956, 
+        "name": "01.  Annenberg Community Beach House", 
+        "timestamp": "2017-08-15T04:47:49.947000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "672 Marine Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1016"
+        }, 
+        "free_bikes": 4, 
+        "id": "22cfb2a86551adc84ada72fdf6741a74", 
+        "latitude": 34.002227734766144, 
+        "longitude": -118.47375154495238, 
+        "name": "74. 7th Street and Marine Street", 
+        "timestamp": "2017-08-15T04:47:49.924000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2538 San Vicente Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1000"
+        }, 
+        "free_bikes": 2, 
+        "id": "cf7378b84d04c3833ef44c50e96046c7", 
+        "latitude": 34.04807252663185, 
+        "longitude": -118.49257528781891, 
+        "name": "05.  San Vicente Boulevard and 26th Street", 
+        "timestamp": "2017-08-15T04:47:49.977000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "728 11th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1002"
+        }, 
+        "free_bikes": 10, 
+        "id": "0444fa69488efbc943cd53020177fcbf", 
+        "latitude": 34.03002033088163, 
+        "longitude": -118.49824011325835, 
+        "name": "08.  11th Street and Montana Avenue", 
+        "timestamp": "2017-08-15T04:47:49.973000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "1176-1198 25th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1003"
+        }, 
+        "free_bikes": 2, 
+        "id": "e1eb0a1662fae4dde01017c52fd18c15", 
+        "latitude": 34.035528413304746, 
+        "longitude": -118.47859963774681, 
+        "name": "18.  25th Street and Wilshire Boulevard", 
+        "timestamp": "2017-08-15T04:47:49.971000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "800-812 21st Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1004"
+        }, 
+        "free_bikes": 0, 
+        "id": "8a95d3b46d74b60fc582fc9c709460a8", 
+        "latitude": 34.03744326659758, 
+        "longitude": -118.48850503563881, 
+        "name": "10.  21st Street and Montana Avenue", 
+        "timestamp": "2017-08-15T04:47:49.986000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "3133-3141 Wilshire Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1005"
+        }, 
+        "free_bikes": 2, 
+        "id": "b5c4d41100b932bd009bd9b50289d7b0", 
+        "latitude": 34.040164884221234, 
+        "longitude": -118.47242653369905, 
+        "name": "19.  Wilshire Boulevard and Berkeley Street", 
+        "timestamp": "2017-08-15T04:47:49.983000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "390-398 Strand Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1006"
+        }, 
+        "free_bikes": 1, 
+        "id": "4522e51444c165f89fb5295aef4e7e35", 
+        "latitude": 34.00640131765522, 
+        "longitude": -118.48425507545471, 
+        "name": "57.  Strand Street at 4th Street", 
+        "timestamp": "2017-08-15T04:47:49.981000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Main Street, Santa Monica, California", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1007"
+        }, 
+        "free_bikes": 0, 
+        "id": "c129c9b720fc1f6a9dd8e7828c0db209", 
+        "latitude": 34.01181088305177, 
+        "longitude": -118.49245190620422, 
+        "name": "82. Main Street and Avenida Mazaltan", 
+        "timestamp": "2017-08-15T04:47:49.801000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "Olympic Drive, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1008"
+        }, 
+        "free_bikes": 2, 
+        "id": "987ef744628c4ddfab47539956de453a", 
+        "latitude": 34.00991879722926, 
+        "longitude": -118.49292397499083, 
+        "name": "81. Ocean Avenue and Olympic Place", 
+        "timestamp": "2017-08-15T04:47:49.992000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "2914 Main Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1009"
+        }, 
+        "free_bikes": 10, 
+        "id": "5d1b3fbafff920aabe473caeca06311f", 
+        "latitude": 33.99913021221948, 
+        "longitude": -118.48095595836638, 
+        "name": "70.  Main Street and Kinney Street", 
+        "timestamp": "2017-08-15T04:47:49.990000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2001 Ocean Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1010"
+        }, 
+        "free_bikes": 2, 
+        "id": "cd4f5a1dd4e043b495fd01d8fc611d40", 
+        "latitude": 34.00627902423098, 
+        "longitude": -118.48990112543106, 
+        "name": "50.  Ocean Avenue and Bay Street", 
+        "timestamp": "2017-08-15T04:47:49.906000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2614 2nd Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1011"
+        }, 
+        "free_bikes": 1, 
+        "id": "670b3c7c542fe7b7548e2d5bbe43c09f", 
+        "latitude": 34.00252791938952, 
+        "longitude": -118.48328948020934, 
+        "name": "62.  Ocean Park Boulevard and 2nd street", 
+        "timestamp": "2017-08-15T04:47:49.908000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2300-2336 Main Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1012"
+        }, 
+        "free_bikes": 1, 
+        "id": "c6a7c27394864c3404341c785f1ae080", 
+        "latitude": 34.0047514761566, 
+        "longitude": -118.48657786846161, 
+        "name": "56.  Main Street and Strand Street", 
+        "timestamp": "2017-08-15T04:47:49.915000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2607 6th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1013"
+        }, 
+        "free_bikes": 0, 
+        "id": "76fdbf761a6a9d8235fca74667c00406", 
+        "latitude": 34.00522508558149, 
+        "longitude": -118.47904622554778, 
+        "name": "63.  Ocean Park Boulevard and 6th Street", 
+        "timestamp": "2017-08-15T04:47:49.918000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "600-642 Kensington Road, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1014"
+        }, 
+        "free_bikes": 1, 
+        "id": "1b13070dfb533aa7eb086c00f8dbd949", 
+        "latitude": 34.00797552930183, 
+        "longitude": -118.48110079765318, 
+        "name": "58.  Kensington Road and Beverly Avenue", 
+        "timestamp": "2017-08-15T04:47:49.920000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "751-799 Michigan Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1015"
+        }, 
+        "free_bikes": 5, 
+        "id": "a9eea11c48b1ff9e082cadc0ad438eba", 
+        "latitude": 34.01366290742301, 
+        "longitude": -118.4848827123642, 
+        "name": "43.  Michigan Avenue and Lincoln Boulveard", 
+        "timestamp": "2017-08-15T04:47:49.922000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1551 11th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1017"
+        }, 
+        "free_bikes": 2, 
+        "id": "b724e6707711a07aad6bc8c9a65c62ab", 
+        "latitude": 34.01930988719052, 
+        "longitude": -118.48559617996214, 
+        "name": "37.  11th Street and Colorado Avenue", 
+        "timestamp": "2017-08-15T04:47:49.927000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1301 20th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1018"
+        }, 
+        "free_bikes": 4, 
+        "id": "a1ac802fc34495f36c3ebdb5772a4b39", 
+        "latitude": 34.02986473012721, 
+        "longitude": -118.48131537437438, 
+        "name": "25.  20th Street and Arizona Avenue", 
+        "timestamp": "2017-08-15T04:47:49.931000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1838-1870 Stewart Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1019"
+        }, 
+        "free_bikes": 1, 
+        "id": "65e23cc6f532d99d47d604c02390c7f4", 
+        "latitude": 34.02759514882909, 
+        "longitude": -118.46454083919525, 
+        "name": "48. Stewart Street and Exposition Blvd", 
+        "timestamp": "2017-08-15T04:47:49.934000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "2803 Colorado Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1020"
+        }, 
+        "free_bikes": 0, 
+        "id": "ffc7c923fc37c7aa18b3d80d0f345a99", 
+        "latitude": 34.03213202719095, 
+        "longitude": -118.46935272216795, 
+        "name": "39.  Colorado Avenue and Harvard Street", 
+        "timestamp": "2017-08-15T04:47:49.808000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1207 14th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1021"
+        }, 
+        "free_bikes": 4, 
+        "id": "4751e3f00f439877353408370b1ca9a3", 
+        "latitude": 34.026663737010175, 
+        "longitude": -118.48862171173097, 
+        "name": "17.  14th Street and Wilshire Boulevard", 
+        "timestamp": "2017-08-15T04:47:49.807000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "1610 Colorado Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1022"
+        }, 
+        "free_bikes": 6, 
+        "id": "7acfa7f3fa086f9cbe39c4be7de6d115", 
+        "latitude": 34.0230224605439, 
+        "longitude": -118.48000645637512, 
+        "name": "38.  Colorado Avenue and 17th Street EXPO", 
+        "timestamp": "2017-08-15T04:47:49.813000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "1701-1749 Pearl Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1024"
+        }, 
+        "free_bikes": 1, 
+        "id": "cba3296db520419b876f4cc3bae796a1", 
+        "latitude": 34.01584615437675, 
+        "longitude": -118.46898257732391, 
+        "name": "60.  Pearl Street and 17th Street", 
+        "timestamp": "2017-08-15T04:47:49.816000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "2069-2099 17th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1025"
+        }, 
+        "free_bikes": 2, 
+        "id": "38f7c92ead6dc770d2086eb93519e874", 
+        "latitude": 34.01787372244369, 
+        "longitude": -118.4728556871414, 
+        "name": "52.  SMC and 17th Street", 
+        "timestamp": "2017-08-15T04:47:49.815000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "16th Street, Santa Monica, California", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1026"
+        }, 
+        "free_bikes": 2, 
+        "id": "c8937d3ce98a22026122ebbfa826a373", 
+        "latitude": 34.02684157230721, 
+        "longitude": -118.48512947559357, 
+        "name": "24.  Arizona Avenue and 16th Street", 
+        "timestamp": "2017-08-15T04:47:49.818000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "3004 Broadway, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1027"
+        }, 
+        "free_bikes": 7, 
+        "id": "a2f7093a2698df7ee44300b9a8d4e0cc", 
+        "latitude": 34.03495050416125, 
+        "longitude": -118.4688538312912, 
+        "name": "34. Stanford St and Broadway St", 
+        "timestamp": "2017-08-15T04:47:49.817000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "1498 16th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1028"
+        }, 
+        "free_bikes": 1, 
+        "id": "ef2f49962395af1cede4093503a6cd19", 
+        "latitude": 34.0242740280128, 
+        "longitude": -118.48233729600908, 
+        "name": "31.  Broadway Street and 16th Street", 
+        "timestamp": "2017-08-15T04:47:49.805000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2121-2199 Pico Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1029"
+        }, 
+        "free_bikes": 2, 
+        "id": "cc4a0c069b125deed80a22d18bceadac", 
+        "latitude": 34.0205281626946, 
+        "longitude": -118.46767902374268, 
+        "name": "53.  Pico and 22nd Street", 
+        "timestamp": "2017-08-15T04:47:49.804000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "3351-3481 Exposition Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1030"
+        }, 
+        "free_bikes": 4, 
+        "id": "a91760cf67f7fddee22fd11f9d55e128", 
+        "latitude": 34.0296513340745, 
+        "longitude": -118.45744371414185, 
+        "name": "49.  Centinela Avenue and Exposition Boulevard", 
+        "timestamp": "2017-08-15T04:47:49.784000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1660 14th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1032"
+        }, 
+        "free_bikes": 1, 
+        "id": "f0f0d4cb4daed5227a92e8d4ce333b50", 
+        "latitude": 34.020027960452, 
+        "longitude": -118.48105251789093, 
+        "name": "44.  14th and Olympic", 
+        "timestamp": "2017-08-15T04:47:49.775000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1400-1426 11th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1033"
+        }, 
+        "free_bikes": 3, 
+        "id": "c6685fbb161a2651c3bdb056936e3acf", 
+        "latitude": 34.02152855833661, 
+        "longitude": -118.4884661436081, 
+        "name": "27.  Santa Monica Boulevard and 11th Street", 
+        "timestamp": "2017-08-15T04:47:49.782000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2247 29th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1034"
+        }, 
+        "free_bikes": 6, 
+        "id": "9562b0b840f4ffd95b05f57a5f337f90", 
+        "latitude": 34.024571911689335, 
+        "longitude": -118.45909059047698, 
+        "name": "54. 29th Street and Pico Boulevard", 
+        "timestamp": "2017-08-15T04:47:49.768000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Back on Broadway, Broadway Street, Santa Monica, California", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1035"
+        }, 
+        "free_bikes": 3, 
+        "id": "5130a089924be60fedc13d1fe8c25eb8", 
+        "latitude": 34.02751290111855, 
+        "longitude": -118.47811281681061, 
+        "name": "32.  Broadway Street and 20th Street", 
+        "timestamp": "2017-08-15T04:47:49.773000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1447 Cloverfield Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1037"
+        }, 
+        "free_bikes": 0, 
+        "id": "73d811563466bcc763d50b8ad35277d0", 
+        "latitude": 34.03007812537487, 
+        "longitude": -118.47525894641876, 
+        "name": "33.  Broadway Street and Cloverfield Boulevard", 
+        "timestamp": "2017-08-15T04:47:49.753000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "3027 Airport Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1038"
+        }, 
+        "free_bikes": 1, 
+        "id": "4ed3a8d92b6de27f6c48dc2fafc5c328", 
+        "latitude": 34.015321468788, 
+        "longitude": -118.44757854938507, 
+        "name": "76.  Airport Avenue and Donald Douglas Loop S.", 
+        "timestamp": "2017-08-15T04:47:49.787000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2121-2141 16th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1039"
+        }, 
+        "free_bikes": 1, 
+        "id": "09543c485c74906abec35fd0dc5a94b4", 
+        "latitude": 34.01664873919393, 
+        "longitude": -118.4736281633377, 
+        "name": "51.  SMC Swim Center", 
+        "timestamp": "2017-08-15T04:47:49.789000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "2301-2351 11th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1040"
+        }, 
+        "free_bikes": 6, 
+        "id": "45c508cc12f76a6409b190f879a72f12", 
+        "latitude": 34.01120279657586, 
+        "longitude": -118.47657725214958, 
+        "name": "59.  11th Street and Pearl Street", 
+        "timestamp": "2017-08-15T04:47:49.873000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2605-2631 Lincoln Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1041"
+        }, 
+        "free_bikes": 4, 
+        "id": "fa1210aba66f75a02870a98649a09f88", 
+        "latitude": 34.00669704034364, 
+        "longitude": -118.47588926553726, 
+        "name": "64.  Lincoln Blvd and Ocean Park Blvd", 
+        "timestamp": "2017-08-15T04:47:49.872000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "1601-1627 Ocean Park Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1043"
+        }, 
+        "free_bikes": 1, 
+        "id": "be97e8a5ad863a92cadb0732ef63e7a0", 
+        "latitude": 34.01162189870162, 
+        "longitude": -118.46837103366852, 
+        "name": "65.  Ocean Park Boulevard and 16th Street", 
+        "timestamp": "2017-08-15T04:47:49.871000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "2600 Ocean Park Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1044"
+        }, 
+        "free_bikes": 0, 
+        "id": "1576667d7889c3bd3231692498bb1710", 
+        "latitude": 34.01757581156877, 
+        "longitude": -118.45643520355225, 
+        "name": "66.  Clover Park", 
+        "timestamp": "2017-08-15T04:47:49.865000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "3007 Ocean Park Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1045"
+        }, 
+        "free_bikes": 0, 
+        "id": "5772210d5944bae139e5df8277bb258d", 
+        "latitude": 34.02018135383728, 
+        "longitude": -118.45371544361115, 
+        "name": "67.  Ocean Park Boulevard and 30th Street", 
+        "timestamp": "2017-08-15T04:47:49.863000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2822-2930 31st Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1046"
+        }, 
+        "free_bikes": 0, 
+        "id": "db93655f0dc51420219c7a6c7a569d78", 
+        "latitude": 34.02002129106884, 
+        "longitude": -118.4518378973007, 
+        "name": "68.  Santa Monica Business Park ", 
+        "timestamp": "2017-08-15T04:47:49.860000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1406 Marine Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1047"
+        }, 
+        "free_bikes": 9, 
+        "id": "7b1819e47289fdfd119f89e5381fce1f", 
+        "latitude": 34.005725375545204, 
+        "longitude": -118.46671342849731, 
+        "name": "75.  Marine Street and Paula Drive", 
+        "timestamp": "2017-08-15T04:47:49.857000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1130 Lincoln Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1051"
+        }, 
+        "free_bikes": 8, 
+        "id": "8bd52e53be135fdefe45546084b2fa25", 
+        "latitude": 34.02269567168294, 
+        "longitude": -118.49525749683379, 
+        "name": "15.  Lincoln Boulevard and Wilshire Boulevard", 
+        "timestamp": "2017-08-15T04:47:49.848000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "664-698 Montana Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1052"
+        }, 
+        "free_bikes": 5, 
+        "id": "5c644ebc3a56aeee5ba7698018c5aff4", 
+        "latitude": 34.02666262511048, 
+        "longitude": -118.50190669298172, 
+        "name": "07.  Montana Avenue and 7th Street", 
+        "timestamp": "2017-08-15T04:47:49.851000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1144-1178 11th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1054"
+        }, 
+        "free_bikes": 3, 
+        "id": "bba19cfd6d852245bdcda7d2c902f011", 
+        "latitude": 34.02479643526194, 
+        "longitude": -118.49222660064697, 
+        "name": "16.  11th Street and Wilshire Boulevard", 
+        "timestamp": "2017-08-15T04:47:49.842000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1001 4th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1055"
+        }, 
+        "free_bikes": 5, 
+        "id": "1ceacb7c4eb69640af061d35d973513d", 
+        "latitude": 34.02177309759534, 
+        "longitude": -118.50146949291229, 
+        "name": "11.  4th Street and Washington Boulevard", 
+        "timestamp": "2017-08-15T04:47:49.845000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "512B Rose Avenue, Los Angeles", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1057"
+        }, 
+        "free_bikes": 8, 
+        "id": "dbd57758f5bc322ddc0e529a044cd1e2", 
+        "latitude": 33.99827631679711, 
+        "longitude": -118.47355842590332, 
+        "name": "94. Rose Ave / 5th Ave", 
+        "timestamp": "2017-08-15T04:47:49.846000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1 Rose Avenue, Los Angeles", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1058"
+        }, 
+        "free_bikes": 1, 
+        "id": "b8f47dfbab73903765162c2d0cf5adb6", 
+        "latitude": 33.99478059250281, 
+        "longitude": -118.48053216934204, 
+        "name": "84. Ocean Front Walk and Rose Avenue", 
+        "timestamp": "2017-08-15T04:47:49.841000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1350 7th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1060"
+        }, 
+        "free_bikes": 1, 
+        "id": "7507aa7345037c37eb2b4d77de859895", 
+        "latitude": 34.019349903816945, 
+        "longitude": -118.49314391613007, 
+        "name": "23.  7th Street and Arizona Avenue", 
+        "timestamp": "2017-08-15T04:47:49.963000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "533 California Avenue, Los Angeles", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1061"
+        }, 
+        "free_bikes": 15, 
+        "id": "eef877fc7a8604445038f3743f5d770e", 
+        "latitude": 33.99088664972635, 
+        "longitude": -118.46591413021088, 
+        "name": "95. California Avenue and Abbot Kinney", 
+        "timestamp": "2017-08-15T04:47:49.956000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "12 Bike Path, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1072"
+        }, 
+        "free_bikes": 31, 
+        "id": "2a8017169b31c1b20f6a838775ed04d1", 
+        "latitude": 34.01221775210847, 
+        "longitude": -118.4978699684143, 
+        "name": "12.  Ocean Front Walk @ Lot 1", 
+        "timestamp": "2017-08-15T04:47:49.901000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1658-1676 26th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1242"
+        }, 
+        "free_bikes": 2, 
+        "id": "c26f5495f34d951a041aa8f7ea585c3a", 
+        "latitude": 34.029544636249405, 
+        "longitude": -118.47015738487242, 
+        "name": "45.  26th and Pennsylvania", 
+        "timestamp": "2017-08-15T04:47:50.006000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "3001-3017 Nebraska Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1243"
+        }, 
+        "free_bikes": 3, 
+        "id": "9cfe9f6d244ff014eef26f1ce521d035", 
+        "latitude": 34.03185862105174, 
+        "longitude": -118.46320644021033, 
+        "name": "47.  Nebraska and Berkeley", 
+        "timestamp": "2017-08-15T04:47:49.994000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "762-798 15th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1249"
+        }, 
+        "free_bikes": 3, 
+        "id": "3259cea35e48ca2b1fd185100fbb41b9", 
+        "latitude": 34.033061156916645, 
+        "longitude": -118.49445283412932, 
+        "name": "08.5 15th and Montana", 
+        "timestamp": "2017-08-15T04:47:49.980000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3171 South Bundy Drive, Los Angeles", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1294"
+        }, 
+        "free_bikes": 4, 
+        "id": "e6b1856336ed63edaaaf13dae3a5ea5c", 
+        "latitude": 34.01517695735714, 
+        "longitude": -118.44529062509537, 
+        "name": "77. SMC Bundy Campus", 
+        "timestamp": "2017-08-15T04:47:49.796000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "930 Ocean Front Walk, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1299"
+        }, 
+        "free_bikes": 16, 
+        "id": "2d1e8419d718d289cebd7a85dd0e74c9", 
+        "latitude": 34.02081272044386, 
+        "longitude": -118.50888848304749, 
+        "name": "05.5 Montana Over-pass and Beach Bike Path", 
+        "timestamp": "2017-08-15T04:47:49.798000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1818-1842 4th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1366"
+        }, 
+        "free_bikes": 2, 
+        "id": "1ab37c028555c963fc1fdae6a4dfd58b", 
+        "latitude": 34.0105413448096, 
+        "longitude": -118.48841249942778, 
+        "name": "88. 4th St / Civic Center", 
+        "timestamp": "2017-08-15T04:47:49.819000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "2364-2398 Arizona Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1367"
+        }, 
+        "free_bikes": 6, 
+        "id": "5d72c5fb8d56705ccf7d52caf38652d7", 
+        "latitude": 34.03319007841916, 
+        "longitude": -118.47752809524535, 
+        "name": "83. Arizona and Chelsea", 
+        "timestamp": "2017-08-15T04:47:49.820000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "103 Ocean Front Walk, Los Angeles", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1427"
+        }, 
+        "free_bikes": 15, 
+        "id": "ff4f23acc93338095ae0f307c4b6ea55", 
+        "latitude": 33.99652736080224, 
+        "longitude": -118.48189607262611, 
+        "name": "87. Ocean front walk and Marine", 
+        "timestamp": "2017-08-15T04:47:49.795000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2600-2774 Olympic Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1434"
+        }, 
+        "free_bikes": 5, 
+        "id": "5800f5c7728b4dccdcafc0984ea80fb1", 
+        "latitude": 34.02829870370975, 
+        "longitude": -118.46859365701675, 
+        "name": "78. Bergamot Station EXPO", 
+        "timestamp": "2017-08-15T04:47:49.793000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1623-1649 4th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1446"
+        }, 
+        "free_bikes": 13, 
+        "id": "f6d9b4d594446b8152adf360c22f9ec4", 
+        "latitude": 34.0131282026081, 
+        "longitude": -118.4911496937275, 
+        "name": "79. 4th / Colorado EXPO", 
+        "timestamp": "2017-08-15T04:47:49.797000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1558 5th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1507"
+        }, 
+        "free_bikes": 19, 
+        "id": "997f5fc86c0212ab9fd5f75f99f906b5", 
+        "latitude": 34.01429654358215, 
+        "longitude": -118.49143266677855, 
+        "name": "80. 4th Court / Colorado EXPO", 
+        "timestamp": "2017-08-15T04:47:49.786000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1801 12th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1814"
+        }, 
+        "free_bikes": 3, 
+        "id": "c264f6994727c6bd070ac92f6d49d25a", 
+        "latitude": 34.016775462183006, 
+        "longitude": -118.48073869943619, 
+        "name": "86. 12th Street / Michigan Ave", 
+        "timestamp": "2017-08-15T04:47:49.903000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "2-12 Park Avenue, Los Angeles", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1822"
+        }, 
+        "free_bikes": 6, 
+        "id": "d3bf64b1af734cb95ccb26076878ecc0", 
+        "latitude": 33.99132697857638, 
+        "longitude": -118.47744226455688, 
+        "name": "89. Ocean Front Walk / Park Ave", 
+        "timestamp": "2017-08-15T04:47:49.790000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "2301-2359 34th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1962"
+        }, 
+        "free_bikes": 1, 
+        "id": "a2298a3b5578ebd7cd66b19f7bc9de05", 
+        "latitude": 34.027188352488736, 
+        "longitude": -118.45394611358643, 
+        "name": "90. 34th St / Pico Blvd", 
+        "timestamp": "2017-08-15T04:47:49.837000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "400-450 Arizona Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_981"
+        }, 
+        "free_bikes": 0, 
+        "id": "814a0da4c529e6dd82f8f42daea2b091", 
+        "latitude": 34.01780925008178, 
+        "longitude": -118.4965717792511, 
+        "name": "22.  Arizona Ave and 4th Street", 
+        "timestamp": "2017-08-15T04:47:49.954000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "2701 Barnard Way, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_982"
+        }, 
+        "free_bikes": 1, 
+        "id": "0330bd2fa81dcb468c217268c23f9f80", 
+        "latitude": 33.998999015303795, 
+        "longitude": -118.48394393920897, 
+        "name": "69.  Barnard Way and Ashland", 
+        "timestamp": "2017-08-15T04:47:49.949000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "25 Ocean Park Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_983"
+        }, 
+        "free_bikes": 1, 
+        "id": "0052bdf7a54f7b3ec91942f8b1b1fbc1", 
+        "latitude": 34.000735690267284, 
+        "longitude": -118.48631232976912, 
+        "name": "61. Beach Bike Path and Ocean Park (Drop Zone)", 
+        "timestamp": "2017-08-15T04:47:49.952000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1528-1576 Ocean Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_986"
+        }, 
+        "free_bikes": 7, 
+        "id": "5d416d5a4ad04209b2a15e13810d4404", 
+        "latitude": 34.01173195411691, 
+        "longitude": -118.49557802081107, 
+        "name": "35.  Ocean Ave and Colorado", 
+        "timestamp": "2017-08-15T04:47:49.942000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "401-417 Wilshire Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_987"
+        }, 
+        "free_bikes": 2, 
+        "id": "730db350949ff214f5c077f4525b9c0d", 
+        "latitude": 34.019328783933126, 
+        "longitude": -118.49811002612115, 
+        "name": "14.  Wilshire Boulevard and 4th Street", 
+        "timestamp": "2017-08-15T04:47:49.944000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "150-198 Wilshire Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_988"
+        }, 
+        "free_bikes": 5, 
+        "id": "dd1baeb6cace439ffb3309463706d98d", 
+        "latitude": 34.01740907570571, 
+        "longitude": -118.50034564733507, 
+        "name": "13.  Wilshire Boulevard and 2nd Street", 
+        "timestamp": "2017-08-15T04:47:49.936000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Shangri-La, Arizona Avenue, Santa Monica, California", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_989"
+        }, 
+        "free_bikes": 1, 
+        "id": "c6bcf1cb1dc30341a9be17fb8b081256", 
+        "latitude": 34.01558381198773, 
+        "longitude": -118.4997045993805, 
+        "name": "20.  Ocean Avenue and Arizona Avenue", 
+        "timestamp": "2017-08-15T04:47:49.939000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2nd Street, Santa Monica, California", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_990"
+        }, 
+        "free_bikes": 6, 
+        "id": "056958286d18eaddb0c47d12e04bcf65", 
+        "latitude": 34.01564383955503, 
+        "longitude": -118.49798798561096, 
+        "name": "21.  2nd Street and Arizona Avenue", 
+        "timestamp": "2017-08-15T04:47:49.881000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Hotel Carmel, 201, Broadway, Santa Monica, California", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_991"
+        }, 
+        "free_bikes": 0, 
+        "id": "c035f9246a0660fb299bcacb0d0dbb85", 
+        "latitude": 34.01401196391433, 
+        "longitude": -118.49595755338669, 
+        "name": "28.  2nd Street and Broadway", 
+        "timestamp": "2017-08-15T04:47:49.880000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "6th Street, Santa Monica, California", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_993"
+        }, 
+        "free_bikes": 1, 
+        "id": "84ca0fcd5d043d7b108d5b325eaf7e39", 
+        "latitude": 34.01643975555836, 
+        "longitude": -118.49149301648139, 
+        "name": "29.  Broadway and 6th Street", 
+        "timestamp": "2017-08-15T04:47:49.885000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "729 Broadway, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_995"
+        }, 
+        "free_bikes": 3, 
+        "id": "753bcfc861c12ac533a685213310f660", 
+        "latitude": 34.018130499813054, 
+        "longitude": -118.48986089229582, 
+        "name": "30. Broadway and Lincoln Boulevard", 
+        "timestamp": "2017-08-15T04:47:49.887000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "478-498 Santa Monica Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_996"
+        }, 
+        "free_bikes": 0, 
+        "id": "64107e8acefce1424f09e9463dec2d11", 
+        "latitude": 34.01710894368565, 
+        "longitude": -118.49428117275238, 
+        "name": "26.  Santa Monica Boulevard and 5th Street", 
+        "timestamp": "2017-08-15T04:47:49.890000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2799 Pearl Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2082"
+        }, 
+        "free_bikes": 1, 
+        "id": "8b6634f2110ce93f89a3a168c66dc2c9", 
+        "latitude": 34.02140406480707, 
+        "longitude": -118.45846295356749, 
+        "name": "91. Pearl St and 28th St", 
+        "timestamp": "2017-08-15T04:47:49.806000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "2-76 Santa Monica Pier, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2165"
+        }, 
+        "free_bikes": 6, 
+        "id": "b73886a20be0dbf05a76a3d6b48def04", 
+        "latitude": 34.0105357863532, 
+        "longitude": -118.49597230553627, 
+        "name": "93. Aquarium (Drop Zone)", 
+        "timestamp": "2017-08-15T04:47:49.875000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "800 Ocean Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1053"
+        }, 
+        "free_bikes": 4, 
+        "id": "731b6d6a92180122851453672b988174", 
+        "latitude": 34.02207765937681, 
+        "longitude": -118.50741863250732, 
+        "name": "06.  Ocean Avenue and Montana Avenue", 
+        "timestamp": "2017-08-15T04:47:49.855000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "100-118 San Vicente Boulevard, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_998"
+        }, 
+        "free_bikes": 5, 
+        "id": "e4db850c010756dac2a5de076b515cec", 
+        "latitude": 34.02613467235308, 
+        "longitude": -118.51339727640153, 
+        "name": "02.  San Vicente Boulevard and Ocean Avenue", 
+        "timestamp": "2017-08-15T04:47:49.899000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "2316 Virginia Avenue, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2194"
+        }, 
+        "free_bikes": 5, 
+        "id": "17a08b04a10a8f5f177b14976bf38794", 
+        "latitude": 34.02323587274114, 
+        "longitude": -118.4673410654068, 
+        "name": "85. Virginia/ Cloverfield", 
+        "timestamp": "2017-08-15T04:47:50.018000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "101-199 14th Street, Santa Monica", 
+          "last_updated": 1502772470, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1001"
+        }, 
+        "free_bikes": 2, 
+        "id": "278bf8594cb238de2d420dd02742e5bc", 
+        "latitude": 34.03939919425913, 
+        "longitude": -118.50354552268982, 
+        "name": "04.  San Vicente Boulevard and 14th Street", 
+        "timestamp": "2017-08-15T04:47:49.975000Z"
+      }
+    ]
+  }
+}

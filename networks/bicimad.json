@@ -1,0 +1,2942 @@
+{
+  "network": {
+    "company": [
+      "Bonopark SL"
+    ], 
+    "href": "/v2/networks/bicimad", 
+    "id": "bicimad", 
+    "location": {
+      "city": "Madrid", 
+      "country": "ES", 
+      "latitude": 40.4168, 
+      "longitude": -3.7038
+    }, 
+    "name": "BiciMAD", 
+    "stations": [
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Calle Manuela Malasa\u00f1a n\u00ba 5", 
+          "light": "yellow", 
+          "number": "4", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 5
+        }, 
+        "free_bikes": 9, 
+        "id": "b05476a001e5d47958b0f4b66bed6871", 
+        "latitude": 40.4285524, 
+        "longitude": -3.7025875, 
+        "name": "Malasa\u00f1a", 
+        "timestamp": "2017-08-15T04:50:55.079000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Calle Hortaleza n\u00ba 63", 
+          "light": "red", 
+          "number": "6", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 7
+        }, 
+        "free_bikes": 20, 
+        "id": "bb6afabc8fbc0e12d4717d6a3a3473c3", 
+        "latitude": 40.424148, 
+        "longitude": -3.698447, 
+        "name": "Colegio Arquitectos", 
+        "timestamp": "2017-08-15T04:50:55.087000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Calle Valencia n\u00ba 1", 
+          "light": "green", 
+          "number": "53", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 57
+        }, 
+        "free_bikes": 2, 
+        "id": "e9d323d22bdf9f8199cbcee747652a9c", 
+        "latitude": 40.4089282, 
+        "longitude": -3.7008803, 
+        "name": "Plaza de Lavapi\u00e9s", 
+        "timestamp": "2017-08-15T04:50:55.145000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "NO OPERATIVA", 
+          "light": "gray", 
+          "number": "80b", 
+          "online": false, 
+          "slots": 27, 
+          "uid": 85
+        }, 
+        "free_bikes": 7, 
+        "id": "3e412172061f8c47b9b1c4a4d7a83c51", 
+        "latitude": 40.4074902, 
+        "longitude": -3.6901234, 
+        "name": "Atocha B", 
+        "timestamp": "2017-08-15T04:50:55.204000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Plaza del Conde Suchil n\u00ba 2-4", 
+          "light": "yellow", 
+          "number": "3", 
+          "online": true, 
+          "slots": 18, 
+          "uid": 4
+        }, 
+        "free_bikes": 5, 
+        "id": "248a049595da65f6aada65476ca1f958", 
+        "latitude": 40.4302937, 
+        "longitude": -3.7069171, 
+        "name": "Plaza Conde Suchil", 
+        "timestamp": "2017-08-15T04:50:55.078000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Calle Alcal\u00e1 n\u00ba 49", 
+          "light": "green", 
+          "number": "20a", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 21
+        }, 
+        "free_bikes": 1, 
+        "id": "a65c77f82c1638b2cdec9a2758a33af1", 
+        "latitude": 40.4192342, 
+        "longitude": -3.6954615, 
+        "name": "Banco de Espa\u00f1a A", 
+        "timestamp": "2017-08-15T04:50:55.104000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Calle Miguel Moya n\u00ba 1", 
+          "light": "green", 
+          "number": "2", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 3
+        }, 
+        "free_bikes": 1, 
+        "id": "82e78d26829a2dc89122e8f0988e2a28", 
+        "latitude": 40.4205886, 
+        "longitude": -3.7058415, 
+        "name": "Miguel Moya", 
+        "timestamp": "2017-08-15T04:50:55.077000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Calle Fuencarral n\u00ba 108", 
+          "light": "yellow", 
+          "number": "5", 
+          "online": true, 
+          "slots": 27, 
+          "uid": 6
+        }, 
+        "free_bikes": 10, 
+        "id": "c3652b65d4d4e2b1861984d880dd5c05", 
+        "latitude": 40.428528, 
+        "longitude": -3.7020599, 
+        "name": "Fuencarral", 
+        "timestamp": "2017-08-15T04:50:55.083000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Calle Montera n\u00ba 47", 
+          "light": "yellow", 
+          "number": "21b", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 24
+        }, 
+        "free_bikes": 11, 
+        "id": "181b53ca2c92f1535a67c2a7fe3d8b77", 
+        "latitude": 40.4197204, 
+        "longitude": -3.7015235, 
+        "name": "Red de San Luis B", 
+        "timestamp": "2017-08-15T04:50:55.106000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Calle Jes\u00fas n\u00ba 1", 
+          "light": "yellow", 
+          "number": "27", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 31
+        }, 
+        "free_bikes": 10, 
+        "id": "e46305fb49f0bd45a158a0c1ba8931d3", 
+        "latitude": 40.4132798, 
+        "longitude": -3.6956178, 
+        "name": "Huertas", 
+        "timestamp": "2017-08-15T04:50:55.112000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Calle Alcal\u00e1 n\u00ba 27", 
+          "light": "green", 
+          "number": "28", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 32
+        }, 
+        "free_bikes": 7, 
+        "id": "bb8ba083a40d9051672e3432ebe79de1", 
+        "latitude": 40.4181663, 
+        "longitude": -3.69926, 
+        "name": "Sevilla", 
+        "timestamp": "2017-08-15T04:50:55.114000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Calle Mayor n\u00ba 20", 
+          "light": "green", 
+          "number": "31", 
+          "online": true, 
+          "slots": 27, 
+          "uid": 35
+        }, 
+        "free_bikes": 6, 
+        "id": "c07046f5835f2fd705dfa3975970c373", 
+        "latitude": 40.4163638, 
+        "longitude": -3.7068969, 
+        "name": "Calle Mayor", 
+        "timestamp": "2017-08-15T04:50:55.117000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Plaza del Cord\u00f3n n\u00ba 1", 
+          "light": "yellow", 
+          "number": "35", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 39
+        }, 
+        "free_bikes": 10, 
+        "id": "d7e28e1dcfa7b4501110082ed93d6331", 
+        "latitude": 40.4141931, 
+        "longitude": -3.7103285, 
+        "name": "Plaza del Cord\u00f3n", 
+        "timestamp": "2017-08-15T04:50:55.121000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Plaza de Ramales n\u00ba 1", 
+          "light": "green", 
+          "number": "36", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 40
+        }, 
+        "free_bikes": 0, 
+        "id": "2bf67a78b0b6d23cd288f206ad4eb22e", 
+        "latitude": 40.4167281, 
+        "longitude": -3.7124038, 
+        "name": "Plaza de Ramales", 
+        "timestamp": "2017-08-15T04:50:55.122000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Calle Atocha n\u00ba 54", 
+          "light": "green", 
+          "number": "41", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 45
+        }, 
+        "free_bikes": 0, 
+        "id": "a74558865fa1c5a7dfcf88e57ac4607b", 
+        "latitude": 40.4122047, 
+        "longitude": -3.6991147, 
+        "name": "Ant\u00f3n Mart\u00edn", 
+        "timestamp": "2017-08-15T04:50:55.129000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Calle Atocha n\u00ba 32", 
+          "light": "yellow", 
+          "number": "42", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 46
+        }, 
+        "free_bikes": 11, 
+        "id": "3304a79aa6429f59aac27011681b7c2b", 
+        "latitude": 40.4107085, 
+        "longitude": -3.6982318, 
+        "name": "Santa Isabel", 
+        "timestamp": "2017-08-15T04:50:55.130000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Calle Santa Isabel n\u00ba 57", 
+          "light": "yellow", 
+          "number": "50", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 54
+        }, 
+        "free_bikes": 13, 
+        "id": "47016887b20487cd19e7d61b3f7d18df", 
+        "latitude": 40.4083684, 
+        "longitude": -3.6933463, 
+        "name": "Museo Reina Sof\u00eda", 
+        "timestamp": "2017-08-15T04:50:55.139000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Calle Barcel\u00f3 n\u00ba 7", 
+          "light": "yellow", 
+          "number": "54", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 58
+        }, 
+        "free_bikes": 11, 
+        "id": "6f492e25e4572e1fc6e528502a3406d0", 
+        "latitude": 40.4266828, 
+        "longitude": -3.700423, 
+        "name": "Barcel\u00f3", 
+        "timestamp": "2017-08-15T04:50:55.146000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Calle O'Donnell n\u00ba 50", 
+          "light": "yellow", 
+          "number": "62", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 66
+        }, 
+        "free_bikes": 9, 
+        "id": "3a24af196a30137f48cb2ac73b199dea", 
+        "latitude": 40.4213148, 
+        "longitude": -3.6724968, 
+        "name": "O'Donnell", 
+        "timestamp": "2017-08-15T04:50:55.164000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle Almad\u00e9n n\u00ba 28", 
+          "light": "yellow", 
+          "number": "67", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 71
+        }, 
+        "free_bikes": 10, 
+        "id": "6573414ef587468f40697092c77d905e", 
+        "latitude": 40.4108472, 
+        "longitude": -3.693225, 
+        "name": "Almad\u00e9n", 
+        "timestamp": "2017-08-15T04:50:55.169000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Calle Doce de Octubre n\u00ba 28", 
+          "light": "yellow", 
+          "number": "71", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 75
+        }, 
+        "free_bikes": 15, 
+        "id": "12f5c465ce20a509b86a192b5ab1640b", 
+        "latitude": 40.4159569, 
+        "longitude": -3.6738865, 
+        "name": "Doce de Octubre", 
+        "timestamp": "2017-08-15T04:50:55.178000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenida de Nazaret n\u00ba 7", 
+          "light": "yellow", 
+          "number": "73", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 77
+        }, 
+        "free_bikes": 16, 
+        "id": "25c56b1fabeff5637b5c26e05683a35e", 
+        "latitude": 40.4114475, 
+        "longitude": -3.6689089, 
+        "name": "Plaza de los Astros", 
+        "timestamp": "2017-08-15T04:50:55.183000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Paseo del Prado n\u00ba 1", 
+          "light": "yellow", 
+          "number": "86", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 91
+        }, 
+        "free_bikes": 9, 
+        "id": "45cbc373f6d33cf03843d1daead26f11", 
+        "latitude": 40.4186148, 
+        "longitude": -3.6926217, 
+        "name": "Cibeles", 
+        "timestamp": "2017-08-15T04:50:55.217000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Calle Ayala n\u00ba 44", 
+          "light": "yellow", 
+          "number": "87", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 92
+        }, 
+        "free_bikes": 11, 
+        "id": "fde4dd989917f6edf0b7f700cf83c901", 
+        "latitude": 40.427736, 
+        "longitude": -3.6832566, 
+        "name": "Ayala", 
+        "timestamp": "2017-08-15T04:50:55.218000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Calle Goya n\u00ba 18", 
+          "light": "yellow", 
+          "number": "90", 
+          "online": true, 
+          "slots": 27, 
+          "uid": 95
+        }, 
+        "free_bikes": 14, 
+        "id": "47e8b543443925670c54c878c6fa860b", 
+        "latitude": 40.4250361, 
+        "longitude": -3.6837876, 
+        "name": "General Pardi\u00f1as", 
+        "timestamp": "2017-08-15T04:50:55.224000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Calle Hermosilla n\u00ba 70", 
+          "light": "red", 
+          "number": "91", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 96
+        }, 
+        "free_bikes": 18, 
+        "id": "4e5563a935e11b9db8ac3e0b551935c2", 
+        "latitude": 40.426134, 
+        "longitude": -3.6787441, 
+        "name": "Pr\u00edncipe de Vergara", 
+        "timestamp": "2017-08-15T04:50:55.231000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Calle Alcal\u00e1 n\u00ba 111", 
+          "light": "yellow", 
+          "number": "96", 
+          "online": true, 
+          "slots": 27, 
+          "uid": 101
+        }, 
+        "free_bikes": 9, 
+        "id": "b68879c2ec3b3a58425d607bdcc003c5", 
+        "latitude": 40.422064, 
+        "longitude": -3.6821793, 
+        "name": "Castell\u00f3", 
+        "timestamp": "2017-08-15T04:50:55.245000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Plaza de Felipe II", 
+          "light": "yellow", 
+          "number": "98", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 103
+        }, 
+        "free_bikes": 15, 
+        "id": "262610b866083f8e4e3ea34522790c19", 
+        "latitude": 40.4242625, 
+        "longitude": -3.6753567, 
+        "name": "Plaza de Felipe II", 
+        "timestamp": "2017-08-15T04:50:55.247000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Calle Alc\u00e1ntara n\u00ba 2", 
+          "light": "yellow", 
+          "number": "99", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 104
+        }, 
+        "free_bikes": 8, 
+        "id": "994b48d9efdd3b32f9657c8f34044cda", 
+        "latitude": 40.4261851, 
+        "longitude": -3.6738714, 
+        "name": "Alc\u00e1ntara", 
+        "timestamp": "2017-08-15T04:50:55.248000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Paseo de la Castellana n\u00ba 4", 
+          "light": "yellow", 
+          "number": "104", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 109
+        }, 
+        "free_bikes": 8, 
+        "id": "0c49e52b03932fa262c2c6a1f72e00d9", 
+        "latitude": 40.4268331, 
+        "longitude": -3.6895336, 
+        "name": "Castellana", 
+        "timestamp": "2017-08-15T04:50:55.268000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle Serrano n\u00ba 54", 
+          "light": "yellow", 
+          "number": "105", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 110
+        }, 
+        "free_bikes": 10, 
+        "id": "785dd7726bb83a7743d763a2bc4c406a", 
+        "latitude": 40.4267905, 
+        "longitude": -3.6873922, 
+        "name": "Serrano", 
+        "timestamp": "2017-08-15T04:50:55.269000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Calle Serrano n\u00ba 6", 
+          "light": "yellow", 
+          "number": "107", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 113
+        }, 
+        "free_bikes": 8, 
+        "id": "663a38a6cceb87a1a457c09ddb28d2fb", 
+        "latitude": 40.4215246, 
+        "longitude": -3.6884369, 
+        "name": "Columela", 
+        "timestamp": "2017-08-15T04:50:55.274000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Calle Evaristo San Miguel n\u00ba 2", 
+          "light": "yellow", 
+          "number": "115", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 122
+        }, 
+        "free_bikes": 15, 
+        "id": "20ae0c9c9bb8afcfc8fa0d132d4b5506", 
+        "latitude": 40.4253944, 
+        "longitude": -3.7170448, 
+        "name": "Ferraz", 
+        "timestamp": "2017-08-15T04:50:55.285000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Plaza de Espa\u00f1a", 
+          "light": "green", 
+          "number": "116a", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 123
+        }, 
+        "free_bikes": 5, 
+        "id": "51e5270238906f5a75964736041917a5", 
+        "latitude": 40.42402, 
+        "longitude": -3.711603, 
+        "name": "Plaza de Espa\u00f1a A", 
+        "timestamp": "2017-08-15T04:50:55.286000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Paseo de la Chopera n\u00ba 14", 
+          "light": "red", 
+          "number": "165", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 135
+        }, 
+        "free_bikes": 18, 
+        "id": "2582355fddcc51192abcd81b4d653cea", 
+        "latitude": 40.3919385, 
+        "longitude": -3.6971829, 
+        "name": "Entrada Matadero", 
+        "timestamp": "2017-08-15T04:50:55.316000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Calle Orense n\u00ba 36", 
+          "light": "yellow", 
+          "number": "154", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 141
+        }, 
+        "free_bikes": 8, 
+        "id": "df1e26bf15d700a5b337228db7229861", 
+        "latitude": 40.4548456, 
+        "longitude": -3.6946218, 
+        "name": "Orense 36", 
+        "timestamp": "2017-08-15T04:50:55.322000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Calle Serrano n\u00ba 210", 
+          "light": "yellow", 
+          "number": "148", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 144
+        }, 
+        "free_bikes": 9, 
+        "id": "b16683d1fe373c236af38caf3525fccf", 
+        "latitude": 40.4510188, 
+        "longitude": -3.6817962, 
+        "name": "Serrano 210", 
+        "timestamp": "2017-08-15T04:50:55.325000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Calle Orense n\u00ba 12", 
+          "light": "yellow", 
+          "number": "151", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 145
+        }, 
+        "free_bikes": 15, 
+        "id": "4147e30cf6e03739fb5ff407b671ddfa", 
+        "latitude": 40.4480662, 
+        "longitude": -3.695286, 
+        "name": "Orense 12", 
+        "timestamp": "2017-08-15T04:50:55.326000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Calle Bravo Murillo n\u00ba 44", 
+          "light": "red", 
+          "number": "131", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 156
+        }, 
+        "free_bikes": 20, 
+        "id": "015a1d102d4bc839886996115e83def6", 
+        "latitude": 40.4412115, 
+        "longitude": -3.7039582, 
+        "name": "Bravo Murillo 44", 
+        "timestamp": "2017-08-15T04:50:55.336000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Calle Jos\u00e9 Abascal n\u00ba 33", 
+          "light": "yellow", 
+          "number": "129", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 161
+        }, 
+        "free_bikes": 13, 
+        "id": "9a6a3cd627d6a83f4471b8dfb8f08865", 
+        "latitude": 40.4385316, 
+        "longitude": -3.6982209, 
+        "name": "Jos\u00e9 Abascal", 
+        "timestamp": "2017-08-15T04:50:55.341000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Calle Vel\u00e1zquez n\u00ba 130", 
+          "light": "yellow", 
+          "number": "140", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 162
+        }, 
+        "free_bikes": 16, 
+        "id": "a277d9170560086b27bf70db295fc5a3", 
+        "latitude": 40.4379444, 
+        "longitude": -3.682862, 
+        "name": "Vel\u00e1zquez 130", 
+        "timestamp": "2017-08-15T04:50:55.342000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Calle Manuel Silvela n\u00ba 20", 
+          "light": "red", 
+          "number": "124", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 169
+        }, 
+        "free_bikes": 21, 
+        "id": "b0a28ee4aed7b462367bc688fdf6ac8d", 
+        "latitude": 40.4309524, 
+        "longitude": -3.6993465, 
+        "name": "Manuel Silvela", 
+        "timestamp": "2017-08-15T04:50:55.349000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Calle Juan Bravo n\u00ba 50", 
+          "light": "red", 
+          "number": "144", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 170
+        }, 
+        "free_bikes": 21, 
+        "id": "611b0a52d0c0a9ccdfa75fade10050e3", 
+        "latitude": 40.4323655, 
+        "longitude": -3.6758555, 
+        "name": "Juan Bravo 50", 
+        "timestamp": "2017-08-15T04:50:55.350000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Calle Segovia, 26", 
+          "light": "yellow", 
+          "number": "166", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 174
+        }, 
+        "free_bikes": 13, 
+        "id": "6694d155ad43bfbd9cf9c4773825c679", 
+        "latitude": 40.4138333, 
+        "longitude": -3.7135833, 
+        "name": "Segovia 26", 
+        "timestamp": "2017-08-15T04:50:55.362000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Calle Segovia, 45", 
+          "light": "yellow", 
+          "number": "167", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 175
+        }, 
+        "free_bikes": 11, 
+        "id": "e06fbe09f554e512cb137bb79d5ac825", 
+        "latitude": 40.413736, 
+        "longitude": -3.717487, 
+        "name": "Segovia 45", 
+        "timestamp": "2017-08-15T04:50:55.365000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Puerta del Sol n\u00ba 1", 
+          "light": "green", 
+          "number": "1a", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 1
+        }, 
+        "free_bikes": 7, 
+        "id": "8bc9ec4cbd6b8f27714636c87065e393", 
+        "latitude": 40.4168961, 
+        "longitude": -3.7024255, 
+        "name": "Puerta del Sol A", 
+        "timestamp": "2017-08-15T04:50:55.074000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Puerta del Sol n\u00ba 1", 
+          "light": "green", 
+          "number": "1b", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 2
+        }, 
+        "free_bikes": 7, 
+        "id": "d56f8ce229accf46380c1ac6016c757e", 
+        "latitude": 40.4170009, 
+        "longitude": -3.7024207, 
+        "name": "Puerta del Sol B", 
+        "timestamp": "2017-08-15T04:50:55.076000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Calle Hortaleza n\u00ba 75", 
+          "light": "yellow", 
+          "number": "7", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 8
+        }, 
+        "free_bikes": 12, 
+        "id": "55a618a12ce76d28b82343f2c60d6693", 
+        "latitude": 40.4251906, 
+        "longitude": -3.6977715, 
+        "name": "Hortaleza", 
+        "timestamp": "2017-08-15T04:50:55.089000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Plaza de Alonso Mart\u00ednez n\u00ba 5", 
+          "light": "green", 
+          "number": "8", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 9
+        }, 
+        "free_bikes": 5, 
+        "id": "4b817b917c3139334cc436d566e07509", 
+        "latitude": 40.4278682, 
+        "longitude": -3.6954403, 
+        "name": "Alonso Mart\u00ednez", 
+        "timestamp": "2017-08-15T04:50:55.090000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Plaza de San Miguel n\u00ba 9", 
+          "light": "yellow", 
+          "number": "9", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 10
+        }, 
+        "free_bikes": 10, 
+        "id": "5ff854ab96bd68ae3c28be05a0dab949", 
+        "latitude": 40.4156057, 
+        "longitude": -3.7095084, 
+        "name": "Plaza de San Miguel", 
+        "timestamp": "2017-08-15T04:50:55.091000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Calle Marqu\u00e9s de la Ensenada n\u00ba 16", 
+          "light": "yellow", 
+          "number": "10", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 11
+        }, 
+        "free_bikes": 9, 
+        "id": "20ddf5652d16813f5973139fd47cdbee", 
+        "latitude": 40.4250863, 
+        "longitude": -3.6918807, 
+        "name": "Marqu\u00e9s de la Ensenada", 
+        "timestamp": "2017-08-15T04:50:55.092000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle San Andr\u00e9s n\u00ba 18", 
+          "light": "yellow", 
+          "number": "11", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 12
+        }, 
+        "free_bikes": 7, 
+        "id": "865acff21c8d298b34f8d4a3d90656ea", 
+        "latitude": 40.4269483, 
+        "longitude": -3.7035918, 
+        "name": "San Andr\u00e9s", 
+        "timestamp": "2017-08-15T04:50:55.094000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Calle San Bernardo n\u00ba 85", 
+          "light": "yellow", 
+          "number": "12", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 13
+        }, 
+        "free_bikes": 15, 
+        "id": "db6ee7b4a59c6da8a5cb255ea77d06be", 
+        "latitude": 40.4284246, 
+        "longitude": -3.7061931, 
+        "name": "San Hermenegildo", 
+        "timestamp": "2017-08-15T04:50:55.095000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle Conde Duque n\u00ba 22", 
+          "light": "yellow", 
+          "number": "13", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 14
+        }, 
+        "free_bikes": 9, 
+        "id": "65d09ec2145e122ebe679d8bc445db63", 
+        "latitude": 40.4273264, 
+        "longitude": -3.7104417, 
+        "name": "Conde Duque", 
+        "timestamp": "2017-08-15T04:50:55.096000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Calle Ventura Rodr\u00edguez n\u00ba 2", 
+          "light": "yellow", 
+          "number": "14", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 15
+        }, 
+        "free_bikes": 11, 
+        "id": "af75b93cc889e2720909ae72982753cc", 
+        "latitude": 40.4260957, 
+        "longitude": -3.713479, 
+        "name": "Ventura Rodr\u00edguez", 
+        "timestamp": "2017-08-15T04:50:55.097000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Calle San Vicente Ferrer n\u00ba 64", 
+          "light": "red", 
+          "number": "15", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 16
+        }, 
+        "free_bikes": 18, 
+        "id": "431447e40167f3f9351c9a9d81be4f11", 
+        "latitude": 40.4261649, 
+        "longitude": -3.7073764, 
+        "name": "San Vicente Ferrer", 
+        "timestamp": "2017-08-15T04:50:55.098000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Calle San Bernardo n\u00ba 22", 
+          "light": "yellow", 
+          "number": "16", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 17
+        }, 
+        "free_bikes": 14, 
+        "id": "c373c75e5939d40cbf430e558befd6b7", 
+        "latitude": 40.4230721, 
+        "longitude": -3.7075065, 
+        "name": "San Bernardo", 
+        "timestamp": "2017-08-15T04:50:55.099000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Plaza de Carlos Cambronero  n\u00ba 2", 
+          "light": "yellow", 
+          "number": "17", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 18
+        }, 
+        "free_bikes": 13, 
+        "id": "7b52118db9dbc8c38b80ea5fafba6b18", 
+        "latitude": 40.4232649, 
+        "longitude": -3.7038312, 
+        "name": "Carlos Cambronero", 
+        "timestamp": "2017-08-15T04:50:55.100000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Plaza de Pedro Zerolo", 
+          "light": "red", 
+          "number": "18", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 19
+        }, 
+        "free_bikes": 21, 
+        "id": "b936efe5046fea22a61f1e235d782afd", 
+        "latitude": 40.4207773, 
+        "longitude": -3.6996502, 
+        "name": "Plaza de Pedro Zerolo", 
+        "timestamp": "2017-08-15T04:50:55.102000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle Prim n\u00ba 2", 
+          "light": "yellow", 
+          "number": "19", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 20
+        }, 
+        "free_bikes": 9, 
+        "id": "b3a0f09db2d9be0a3ad9b467eed5324c", 
+        "latitude": 40.4218616, 
+        "longitude": -3.6954983, 
+        "name": "Prim", 
+        "timestamp": "2017-08-15T04:50:55.102000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Calle Montera n\u00ba 48", 
+          "light": "yellow", 
+          "number": "21a", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 23
+        }, 
+        "free_bikes": 8, 
+        "id": "f4eac440e38cb4db1bfd4d57d1fe6888", 
+        "latitude": 40.4197872, 
+        "longitude": -3.7014814, 
+        "name": "Red de San Luis A", 
+        "timestamp": "2017-08-15T04:50:55.105000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Calle Jacometrezo n\u00ba 3", 
+          "light": "green", 
+          "number": "22", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 25
+        }, 
+        "free_bikes": 2, 
+        "id": "de951e1eb61f069ad0dbe2067d263a05", 
+        "latitude": 40.4200783, 
+        "longitude": -3.7065376, 
+        "name": "Jacometrezo", 
+        "timestamp": "2017-08-15T04:50:55.107000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Plaza de Santo Domingo n\u00ba 1", 
+          "light": "green", 
+          "number": "23", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 26
+        }, 
+        "free_bikes": 6, 
+        "id": "bd095f4c1e64b08b002b0434bf6ba2dc", 
+        "latitude": 40.4197429, 
+        "longitude": -3.7080733, 
+        "name": "Santo Domingo", 
+        "timestamp": "2017-08-15T04:50:55.108000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Calle Carlos III n\u00ba 1", 
+          "light": "yellow", 
+          "number": "24", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 27
+        }, 
+        "free_bikes": 11, 
+        "id": "3a9cf4c79327fed962c7592a4a923228", 
+        "latitude": 40.4182146, 
+        "longitude": -3.7103538, 
+        "name": "Palacio de Oriente", 
+        "timestamp": "2017-08-15T04:50:55.109000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Plaza de Celenque n\u00ba 1", 
+          "light": "yellow", 
+          "number": "25a", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 28
+        }, 
+        "free_bikes": 14, 
+        "id": "b5976f2a0179a6ee4523c7c948c2789a", 
+        "latitude": 40.4173114, 
+        "longitude": -3.7064809, 
+        "name": "Plaza de Celenque A", 
+        "timestamp": "2017-08-15T04:50:55.110000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Plaza de Celenque n\u00ba 1", 
+          "light": "yellow", 
+          "number": "25b", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 29
+        }, 
+        "free_bikes": 12, 
+        "id": "8558ce34bf42d9e6665ff28b073f02ff", 
+        "latitude": 40.4172781, 
+        "longitude": -3.7063837, 
+        "name": "Plaza de Celenque B", 
+        "timestamp": "2017-08-15T04:50:55.111000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Calle B\u00e1rbara de Braganza n\u00ba 8", 
+          "light": "yellow", 
+          "number": "26", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 30
+        }, 
+        "free_bikes": 12, 
+        "id": "10bc73255e13458ff42acddd7b409997", 
+        "latitude": 40.4235117, 
+        "longitude": -3.693004, 
+        "name": "B\u00e1rbara de Braganza", 
+        "timestamp": "2017-08-15T04:50:55.112000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle del Marqu\u00e9s de Cubas n\u00ba 25", 
+          "light": "yellow", 
+          "number": "29", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 33
+        }, 
+        "free_bikes": 8, 
+        "id": "42c29e57a27b5418bd87707e7f6b2f54", 
+        "latitude": 40.4162619, 
+        "longitude": -3.6957355, 
+        "name": "Marqu\u00e9s de Cubas", 
+        "timestamp": "2017-08-15T04:50:55.115000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Calle Pav\u00eda n\u00ba 6", 
+          "light": "yellow", 
+          "number": "30", 
+          "online": true, 
+          "slots": 27, 
+          "uid": 34
+        }, 
+        "free_bikes": 11, 
+        "id": "e4d8fb1acd7ef560cc928425a5c94146", 
+        "latitude": 40.4192095, 
+        "longitude": -3.711504, 
+        "name": "San Quint\u00edn", 
+        "timestamp": "2017-08-15T04:50:55.116000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Plaza de la Provincia n\u00ba 1", 
+          "light": "green", 
+          "number": "32", 
+          "online": true, 
+          "slots": 18, 
+          "uid": 36
+        }, 
+        "free_bikes": 3, 
+        "id": "89dfcf65d777906c90c6643ea5f9db01", 
+        "latitude": 40.4150099, 
+        "longitude": -3.7061032, 
+        "name": "Plaza de la Provincia", 
+        "timestamp": "2017-08-15T04:50:55.118000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Calle Carretas n\u00ba 8", 
+          "light": "green", 
+          "number": "33", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 37
+        }, 
+        "free_bikes": 3, 
+        "id": "f0184710733357f8ace0c3cc3248d1a4", 
+        "latitude": 40.4157138, 
+        "longitude": -3.7031808, 
+        "name": "Carretas", 
+        "timestamp": "2017-08-15T04:50:55.119000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Plaza de Jacinto Benavente", 
+          "light": "green", 
+          "number": "34", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 38
+        }, 
+        "free_bikes": 7, 
+        "id": "364f43d251842511f131f8542d253ba2", 
+        "latitude": 40.4146755, 
+        "longitude": -3.7036825, 
+        "name": "Jacinto Benavente", 
+        "timestamp": "2017-08-15T04:50:55.120000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Plaza de San Francisco n\u00ba 5", 
+          "light": "green", 
+          "number": "37", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 41
+        }, 
+        "free_bikes": 4, 
+        "id": "d4cdd256ab68f5454c05b16b98a1c0bc", 
+        "latitude": 40.4108442, 
+        "longitude": -3.7144964, 
+        "name": "Plaza San Francisco", 
+        "timestamp": "2017-08-15T04:50:55.123000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "NO OPERATIVA", 
+          "light": "gray", 
+          "number": "38", 
+          "online": false, 
+          "slots": 24, 
+          "uid": 42
+        }, 
+        "free_bikes": 0, 
+        "id": "44bf45676a1b5ec3bf952c3717889155", 
+        "latitude": 40.4110406, 
+        "longitude": -3.7120734, 
+        "name": "Plaza de los Carros", 
+        "timestamp": "2017-08-15T04:50:55.125000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "NO OPERATIVA", 
+          "light": "gray", 
+          "number": "39", 
+          "online": false, 
+          "slots": 27, 
+          "uid": 43
+        }, 
+        "free_bikes": 0, 
+        "id": "5dfb0a2f895f14f88d635af09f56f21c", 
+        "latitude": 40.4112744, 
+        "longitude": -3.7088337, 
+        "name": "Plaza de la Cebada", 
+        "timestamp": "2017-08-15T04:50:55.126000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Plaza del Conde de Romanones n\u00ba 9", 
+          "light": "yellow", 
+          "number": "40", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 44
+        }, 
+        "free_bikes": 9, 
+        "id": "4bc1d07e980d5b58afc1735f6a9afc83", 
+        "latitude": 40.4138846, 
+        "longitude": -3.7049407, 
+        "name": "Conde de Romanones", 
+        "timestamp": "2017-08-15T04:50:55.128000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle Lavapi\u00e9s n\u00ba 34-36", 
+          "light": "yellow", 
+          "number": "43", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 47
+        }, 
+        "free_bikes": 9, 
+        "id": "25dc7a6dd1f0d733e45d4210b51b263f", 
+        "latitude": 40.4101564, 
+        "longitude": -3.7025024, 
+        "name": "Jes\u00fas y Mar\u00eda", 
+        "timestamp": "2017-08-15T04:50:55.131000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Calle Mes\u00f3n de Paredes n\u00ba 35", 
+          "light": "yellow", 
+          "number": "44", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 48
+        }, 
+        "free_bikes": 8, 
+        "id": "658bc06f3f926e979be847cc41884319", 
+        "latitude": 40.4097617, 
+        "longitude": -3.7040666, 
+        "name": "Cabestreros", 
+        "timestamp": "2017-08-15T04:50:55.132000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Glorieta de la Puerta de Toledo n\u00ba 1", 
+          "light": "yellow", 
+          "number": "45", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 49
+        }, 
+        "free_bikes": 10, 
+        "id": "79caeac9fb976945608cc8591a5ae271", 
+        "latitude": 40.4070358, 
+        "longitude": -3.7110513, 
+        "name": "Puerta de Toledo", 
+        "timestamp": "2017-08-15T04:50:55.133000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Calle Ribera de Curtidores n\u00ba 28", 
+          "light": "yellow", 
+          "number": "46", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 50
+        }, 
+        "free_bikes": 8, 
+        "id": "3fa0a001b00a46c387c507aaf8141812", 
+        "latitude": 40.4053153, 
+        "longitude": -3.7071259, 
+        "name": "Ribera de Curtidores", 
+        "timestamp": "2017-08-15T04:50:55.135000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Glorieta de Embajadores n\u00ba 6", 
+          "light": "yellow", 
+          "number": "47", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 51
+        }, 
+        "free_bikes": 11, 
+        "id": "bbeb603f606b2147ee3cb3684547156b", 
+        "latitude": 40.4047851, 
+        "longitude": -3.7028265, 
+        "name": "Embajadores 1", 
+        "timestamp": "2017-08-15T04:50:55.135000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Glorieta de Embajadores n\u00ba 2", 
+          "light": "green", 
+          "number": "48", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 52
+        }, 
+        "free_bikes": 6, 
+        "id": "4c9e8b82c3d21987b42aa75f05c178a6", 
+        "latitude": 40.4056107, 
+        "longitude": -3.7022591, 
+        "name": "Embajadores 2", 
+        "timestamp": "2017-08-15T04:50:55.137000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Ronda de Atocha n\u00ba 34", 
+          "light": "green", 
+          "number": "49", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 53
+        }, 
+        "free_bikes": 0, 
+        "id": "d1743cfb7ba87b9863ab04996d23e2ab", 
+        "latitude": 40.4060941, 
+        "longitude": -3.6992759, 
+        "name": "Casa Encendida", 
+        "timestamp": "2017-08-15T04:50:55.138000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Ronda de Atocha n\u00ba 2", 
+          "light": "yellow", 
+          "number": "51", 
+          "online": true, 
+          "slots": 27, 
+          "uid": 55
+        }, 
+        "free_bikes": 17, 
+        "id": "251c079edb1e19cb1f4159ff82bfeaf7", 
+        "latitude": 40.4075606, 
+        "longitude": -3.6935205, 
+        "name": "Ronda de Atocha", 
+        "timestamp": "2017-08-15T04:50:55.143000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Plaza de Santa Ana n\u00ba 10", 
+          "light": "yellow", 
+          "number": "52", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 56
+        }, 
+        "free_bikes": 8, 
+        "id": "0a83995b8d8d9f43cdbb2f935bde1b36", 
+        "latitude": 40.4144226, 
+        "longitude": -3.7007164, 
+        "name": "Plaza de Santa Ana", 
+        "timestamp": "2017-08-15T04:50:55.144000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Plaza del Carmen n\u00ba 1", 
+          "light": "green", 
+          "number": "56", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 60
+        }, 
+        "free_bikes": 6, 
+        "id": "10a0944c1716136256c98fb82280368a", 
+        "latitude": 40.4184192, 
+        "longitude": -3.7032414, 
+        "name": "Plaza del Carmen ", 
+        "timestamp": "2017-08-15T04:50:55.158000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle Santa Cruz del Marcenado n\u00ba 24", 
+          "light": "yellow", 
+          "number": "57", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 61
+        }, 
+        "free_bikes": 9, 
+        "id": "aac9603589b014a8abe82d3c2642c07d", 
+        "latitude": 40.4295658, 
+        "longitude": -3.7126299, 
+        "name": "Santa Cruz del Marcenado", 
+        "timestamp": "2017-08-15T04:50:55.159000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle Augusto Figueroa n\u00ba 33", 
+          "light": "yellow", 
+          "number": "58", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 62
+        }, 
+        "free_bikes": 10, 
+        "id": "f9b5e505c5f77ba9c7ba4ca0482f5230", 
+        "latitude": 40.4222862, 
+        "longitude": -3.697895, 
+        "name": "Augusto Figueroa", 
+        "timestamp": "2017-08-15T04:50:55.160000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Calle Esp\u00edritu Santo n\u00ba 30", 
+          "light": "yellow", 
+          "number": "59", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 63
+        }, 
+        "free_bikes": 9, 
+        "id": "0acde392b92f94e6df9915fe96ea3b24", 
+        "latitude": 40.4255495, 
+        "longitude": -3.7043418, 
+        "name": "Plaza de Juan Pujol", 
+        "timestamp": "2017-08-15T04:50:55.161000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Plaza de la Independencia n\u00ba 6", 
+          "light": "yellow", 
+          "number": "60", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 64
+        }, 
+        "free_bikes": 14, 
+        "id": "eac9cbb3599782c4b2968eaa07b94436", 
+        "latitude": 40.419752, 
+        "longitude": -3.688398, 
+        "name": "Plaza de la Independencia", 
+        "timestamp": "2017-08-15T04:50:55.162000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Calle O'Donnell n\u00ba 28", 
+          "light": "yellow", 
+          "number": "61", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 65
+        }, 
+        "free_bikes": 13, 
+        "id": "21c8cb0a2942c99ffc45854b8198f434", 
+        "latitude": 40.4213983, 
+        "longitude": -3.6752045, 
+        "name": "Narv\u00e1ez", 
+        "timestamp": "2017-08-15T04:50:55.163000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Calle Ibiza n\u00ba 62", 
+          "light": "yellow", 
+          "number": "63", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 67
+        }, 
+        "free_bikes": 11, 
+        "id": "95cf5c1f193e3e68c1ad60354b85798e", 
+        "latitude": 40.4179237, 
+        "longitude": -3.6708959, 
+        "name": "Ibiza", 
+        "timestamp": "2017-08-15T04:50:55.165000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Calle Antonio Maura n\u00ba 15", 
+          "light": "yellow", 
+          "number": "65", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 69
+        }, 
+        "free_bikes": 13, 
+        "id": "82b0c849d174c4a4adf490ef723d9379", 
+        "latitude": 40.4165605, 
+        "longitude": -3.6904525, 
+        "name": "Antonio Maura", 
+        "timestamp": "2017-08-15T04:50:55.168000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Calle Espalter n\u00ba 1", 
+          "light": "yellow", 
+          "number": "68", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 72
+        }, 
+        "free_bikes": 12, 
+        "id": "eb721c9e79efc1aa807cb736a1252ef8", 
+        "latitude": 40.4128372, 
+        "longitude": -3.6912023, 
+        "name": "Espalter", 
+        "timestamp": "2017-08-15T04:50:55.170000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenida de Alfonso XII n\u00ba 54", 
+          "light": "yellow", 
+          "number": "69", 
+          "online": true, 
+          "slots": 27, 
+          "uid": 73
+        }, 
+        "free_bikes": 17, 
+        "id": "08edb2920d275afbfbf92b70d7cc4d34", 
+        "latitude": 40.409808, 
+        "longitude": -3.688822, 
+        "name": "Puerta del \u00c1ngel Ca\u00eddo", 
+        "timestamp": "2017-08-15T04:50:55.174000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Avenida de Men\u00e9ndez Pelayo n\u00ba 63", 
+          "light": "red", 
+          "number": "70", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 74
+        }, 
+        "free_bikes": 18, 
+        "id": "c3bb550fa05155d02db8456787267db7", 
+        "latitude": 40.4153053, 
+        "longitude": -3.6779232, 
+        "name": "Puerta del Doce de Octubre", 
+        "timestamp": "2017-08-15T04:50:55.176000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Calle Doctor Esquerdo n\u00ba 99", 
+          "light": "red", 
+          "number": "72", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 76
+        }, 
+        "free_bikes": 17, 
+        "id": "e10f8f726e9da6f5ca076a38fb0b86cf", 
+        "latitude": 40.4157413, 
+        "longitude": -3.6691838, 
+        "name": "Sainz de Baranda", 
+        "timestamp": "2017-08-15T04:50:55.181000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Avenida de Men\u00e9ndez Pelayo n\u00ba 73", 
+          "light": "yellow", 
+          "number": "74", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 78
+        }, 
+        "free_bikes": 12, 
+        "id": "df7f9b998c4eaa84c745ed8a8edabc61", 
+        "latitude": 40.4117627, 
+        "longitude": -3.6766813, 
+        "name": "Puerta del Pac\u00edfico ", 
+        "timestamp": "2017-08-15T04:50:55.187000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Avenida de Men\u00e9ndez Pelayo n\u00ba 90", 
+          "light": "red", 
+          "number": "75", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 79
+        }, 
+        "free_bikes": 17, 
+        "id": "586da7c5e88bdc99a21c29a42bc0e237", 
+        "latitude": 40.4082805, 
+        "longitude": -3.6784838, 
+        "name": "Men\u00e9ndez Pelayo", 
+        "timestamp": "2017-08-15T04:50:55.191000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Avenida del Mediterr\u00e1neo n\u00ba 19", 
+          "light": "yellow", 
+          "number": "76", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 80
+        }, 
+        "free_bikes": 15, 
+        "id": "9bd9db63e71742eb1e2d7f60c9b2ce25", 
+        "latitude": 40.4076726, 
+        "longitude": -3.6750121, 
+        "name": "Puerta de Mariano de Cavia", 
+        "timestamp": "2017-08-15T04:50:55.198000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Calle Cerro de la Plata n\u00ba 2", 
+          "light": "yellow", 
+          "number": "78", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 82
+        }, 
+        "free_bikes": 11, 
+        "id": "34ab5c61a5b3788f879dc4e865566a76", 
+        "latitude": 40.4009101, 
+        "longitude": -3.6744804, 
+        "name": "Pedro Bosch", 
+        "timestamp": "2017-08-15T04:50:55.200000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Avenida de Men\u00e9ndez Pelayo n\u00ba 38", 
+          "light": "red", 
+          "number": "79", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 83
+        }, 
+        "free_bikes": 17, 
+        "id": "04910474b5407cdf71f66ecfe03996ed", 
+        "latitude": 40.4051451, 
+        "longitude": -3.6803874, 
+        "name": "Puerta de Granada", 
+        "timestamp": "2017-08-15T04:50:55.201000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Paseo de la Infanta Isabel n\u00ba 3", 
+          "light": "yellow", 
+          "number": "80a", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 84
+        }, 
+        "free_bikes": 14, 
+        "id": "ea9653c06435465022f14a59b1a7ab6d", 
+        "latitude": 40.4075685, 
+        "longitude": -3.6902255, 
+        "name": "Atocha A", 
+        "timestamp": "2017-08-15T04:50:55.203000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Plaza del Emperador Carlos V n\u00ba 11", 
+          "light": "yellow", 
+          "number": "81", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 86
+        }, 
+        "free_bikes": 11, 
+        "id": "41e11d05d0140656d73cde436614af32", 
+        "latitude": 40.409297, 
+        "longitude": -3.691987, 
+        "name": "Cuesta de Moyano", 
+        "timestamp": "2017-08-15T04:50:55.205000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Calle Doctor Esquerdo n\u00ba 161", 
+          "light": "yellow", 
+          "number": "82", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 87
+        }, 
+        "free_bikes": 16, 
+        "id": "ae274e3209e03f70477c819ff7545c72", 
+        "latitude": 40.4084556, 
+        "longitude": -3.6697526, 
+        "name": "Ni\u00f1o Jes\u00fas", 
+        "timestamp": "2017-08-15T04:50:55.206000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle P\u00edo Baroja n\u00ba 10", 
+          "light": "yellow", 
+          "number": "83", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 88
+        }, 
+        "free_bikes": 10, 
+        "id": "440299a80304df16e8b01b00c7ae5a29", 
+        "latitude": 40.4130243, 
+        "longitude": -3.6751105, 
+        "name": "P\u00edo Baroja", 
+        "timestamp": "2017-08-15T04:50:55.208000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Calle Doctor Esquerdo n\u00ba 191", 
+          "light": "yellow", 
+          "number": "84", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 89
+        }, 
+        "free_bikes": 16, 
+        "id": "ab2df6000371efd7279188278819e572", 
+        "latitude": 40.4032501, 
+        "longitude": -3.6726019, 
+        "name": "Valderribas", 
+        "timestamp": "2017-08-15T04:50:55.214000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Avenida de Men\u00e9ndez Pelayo n\u00ba 11", 
+          "light": "yellow", 
+          "number": "85", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 90
+        }, 
+        "free_bikes": 9, 
+        "id": "8ed093deb8942974410548264fd04033", 
+        "latitude": 40.421501, 
+        "longitude": -3.680008, 
+        "name": "Puerta de Madrid", 
+        "timestamp": "2017-08-15T04:50:55.216000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Calle Vel\u00e1zquez n\u00ba 75", 
+          "light": "yellow", 
+          "number": "88", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 93
+        }, 
+        "free_bikes": 12, 
+        "id": "421da0706e9c65800dc8a9d8abe4f80d", 
+        "latitude": 40.4313576, 
+        "longitude": -3.6838303, 
+        "name": "Embajada de Italia", 
+        "timestamp": "2017-08-15T04:50:55.219000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Calle Ayala n\u00ba 102", 
+          "light": "yellow", 
+          "number": "89", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 94
+        }, 
+        "free_bikes": 13, 
+        "id": "aafae119e80df0c6783a119109e0b709", 
+        "latitude": 40.4272582, 
+        "longitude": -3.6752024, 
+        "name": "Conde Pe\u00f1alver", 
+        "timestamp": "2017-08-15T04:50:55.220000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Calle Claudio Coello n\u00ba 45", 
+          "light": "yellow", 
+          "number": "92", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 97
+        }, 
+        "free_bikes": 9, 
+        "id": "f30669cb7b502a9916c5247077d266d9", 
+        "latitude": 40.4262945, 
+        "longitude": -3.6865463, 
+        "name": "Claudio Coello", 
+        "timestamp": "2017-08-15T04:50:55.241000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Calle Goya n\u00ba 1", 
+          "light": "yellow", 
+          "number": "93", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 98
+        }, 
+        "free_bikes": 14, 
+        "id": "979d7a78237fe607f2376d0acd097d24", 
+        "latitude": 40.4257046, 
+        "longitude": -3.6893698, 
+        "name": "Plaza de Col\u00f3n", 
+        "timestamp": "2017-08-15T04:50:55.242000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Paseo de Recoletos n\u00ba 32-34", 
+          "light": "yellow", 
+          "number": "94", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 99
+        }, 
+        "free_bikes": 8, 
+        "id": "1644cddc50f8dfa18750f04a7ab97a9c", 
+        "latitude": 40.422699, 
+        "longitude": -3.6909648, 
+        "name": "Biblioteca Nacional", 
+        "timestamp": "2017-08-15T04:50:55.243000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Calle Claudio Coello n\u00ba 109", 
+          "light": "yellow", 
+          "number": "95", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 100
+        }, 
+        "free_bikes": 12, 
+        "id": "6fc7a7d85a31946d34dc01caf4ad24ee", 
+        "latitude": 40.4226584, 
+        "longitude": -3.6870548, 
+        "name": "Villanueva", 
+        "timestamp": "2017-08-15T04:50:55.244000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Calle Goya n\u00ba 99", 
+          "light": "yellow", 
+          "number": "100", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 105
+        }, 
+        "free_bikes": 11, 
+        "id": "57f1c75c634d4346110f7fe061337011", 
+        "latitude": 40.4248457, 
+        "longitude": -3.6738635, 
+        "name": "Palacio de Deportes", 
+        "timestamp": "2017-08-15T04:50:55.249000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Calle Jorge Juan n\u00ba 131", 
+          "light": "red", 
+          "number": "101", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 106
+        }, 
+        "free_bikes": 19, 
+        "id": "3914d65a3166bc1aa8a31d2841ed77d5", 
+        "latitude": 40.4231526, 
+        "longitude": -3.6691523, 
+        "name": "Jorge Juan", 
+        "timestamp": "2017-08-15T04:50:55.261000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Calle Alcal\u00e1 n\u00ba 95", 
+          "light": "yellow", 
+          "number": "102", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 107
+        }, 
+        "free_bikes": 14, 
+        "id": "496e8fd3bcfe4fabb5b53a80dd366fed", 
+        "latitude": 40.4211802, 
+        "longitude": -3.6840229, 
+        "name": "Vel\u00e1zquez", 
+        "timestamp": "2017-08-15T04:50:55.266000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Calle Ortega y Gasset n\u00ba 6", 
+          "light": "yellow", 
+          "number": "103", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 108
+        }, 
+        "free_bikes": 12, 
+        "id": "d4ab73c0a425aa91b8a384def810e486", 
+        "latitude": 40.4303057, 
+        "longitude": -3.6865654, 
+        "name": "Ortega y Gasset", 
+        "timestamp": "2017-08-15T04:50:55.267000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Calle Serrano n\u00ba 34", 
+          "light": "yellow", 
+          "number": "106a", 
+          "online": true, 
+          "slots": 18, 
+          "uid": 111
+        }, 
+        "free_bikes": 12, 
+        "id": "93cd2eee9fb5d50f35b11d8c72971911", 
+        "latitude": 40.4251002, 
+        "longitude": -3.6877227, 
+        "name": "Col\u00f3n A", 
+        "timestamp": "2017-08-15T04:50:55.270000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Calle Serrano n\u00ba 34", 
+          "light": "yellow", 
+          "number": "106b", 
+          "online": true, 
+          "slots": 18, 
+          "uid": 112
+        }, 
+        "free_bikes": 6, 
+        "id": "ff1cd8ad422c2bbad8dfea5b7774fac2", 
+        "latitude": 40.424963, 
+        "longitude": -3.687745, 
+        "name": "Col\u00f3n B", 
+        "timestamp": "2017-08-15T04:50:55.271000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Calle M\u00e1rtires Concepcionistas n\u00ba 2", 
+          "light": "red", 
+          "number": "108", 
+          "online": true, 
+          "slots": 27, 
+          "uid": 114
+        }, 
+        "free_bikes": 23, 
+        "id": "1482a82e86677d68b5832edcc2517df0", 
+        "latitude": 40.4273005, 
+        "longitude": -3.6706024, 
+        "name": "M\u00e1rtires Concepcionistas", 
+        "timestamp": "2017-08-15T04:50:55.275000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Calle Jos\u00e9 Ortega y Gasset n\u00ba 30", 
+          "light": "yellow", 
+          "number": "109", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 115
+        }, 
+        "free_bikes": 11, 
+        "id": "290158fb613d5fea94c1e880511e8e90", 
+        "latitude": 40.4300481, 
+        "longitude": -3.6816402, 
+        "name": "Marqu\u00e9s de Salamanca", 
+        "timestamp": "2017-08-15T04:50:55.276000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Paseo de Moret n\u00ba 2", 
+          "light": "yellow", 
+          "number": "110", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 116
+        }, 
+        "free_bikes": 12, 
+        "id": "ff22c08aa1d4e2481e15f7a7e7abfd6e", 
+        "latitude": 40.4344969, 
+        "longitude": -3.7206893, 
+        "name": "Moncloa", 
+        "timestamp": "2017-08-15T04:50:55.278000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Calle Arcipreste de Hita n\u00ba 12", 
+          "light": "yellow", 
+          "number": "111a", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 117
+        }, 
+        "free_bikes": 8, 
+        "id": "3b8e0d18698a3269fe366b0b25a47dcd", 
+        "latitude": 40.4337322, 
+        "longitude": -3.7175435, 
+        "name": "Arcipreste de Hita A", 
+        "timestamp": "2017-08-15T04:50:55.279000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Calle Arcipreste de Hita n\u00ba 12", 
+          "light": "yellow", 
+          "number": "111b", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 118
+        }, 
+        "free_bikes": 13, 
+        "id": "178bf4c365969a5df24c4d6cfff28e75", 
+        "latitude": 40.4337036, 
+        "longitude": -3.7175115, 
+        "name": "Arcipreste de Hita B", 
+        "timestamp": "2017-08-15T04:50:55.280000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Paseo de Moret n\u00ba 11", 
+          "light": "yellow", 
+          "number": "112", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 119
+        }, 
+        "free_bikes": 13, 
+        "id": "96b867bbcbdbd4c4b070d72743f69a53", 
+        "latitude": 40.4325991, 
+        "longitude": -3.7246532, 
+        "name": "Paseo de Moret", 
+        "timestamp": "2017-08-15T04:50:55.281000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Paseo del Pintor Rosales n\u00ba 38", 
+          "light": "green", 
+          "number": "113", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 120
+        }, 
+        "free_bikes": 7, 
+        "id": "26c945a982b6d7969e825173397e6159", 
+        "latitude": 40.427657, 
+        "longitude": -3.7205129, 
+        "name": "Pintor Rosales", 
+        "timestamp": "2017-08-15T04:50:55.283000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Calle Quintana n\u00ba 11-13", 
+          "light": "green", 
+          "number": "114", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 121
+        }, 
+        "free_bikes": 7, 
+        "id": "951826075fd037e4ae72db81f6955b17", 
+        "latitude": 40.4277456, 
+        "longitude": -3.7174158, 
+        "name": "Quintana", 
+        "timestamp": "2017-08-15T04:50:55.284000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Plaza de Espa\u00f1a", 
+          "light": "green", 
+          "number": "116b", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 124
+        }, 
+        "free_bikes": 5, 
+        "id": "8db0161caa1f48cda6cd6b3263bc61fb", 
+        "latitude": 40.42412, 
+        "longitude": -3.711703, 
+        "name": "Plaza de Espa\u00f1a B", 
+        "timestamp": "2017-08-15T04:50:55.290000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Calle Altamirano n\u00ba 24", 
+          "light": "red", 
+          "number": "117", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 125
+        }, 
+        "free_bikes": 18, 
+        "id": "a27a21ac104ed426b099139b98eb3a6f", 
+        "latitude": 40.4309797, 
+        "longitude": -3.7188898, 
+        "name": "Altamirano", 
+        "timestamp": "2017-08-15T04:50:55.291000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Calle Juan Mart\u00edn el Empecinado n\u00ba 14", 
+          "light": "yellow", 
+          "number": "118", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 126
+        }, 
+        "free_bikes": 15, 
+        "id": "8a08dbc78cde31230fe7271177e2adca", 
+        "latitude": 40.400781, 
+        "longitude": -3.6882407, 
+        "name": "Juan Mart\u00edn", 
+        "timestamp": "2017-08-15T04:50:55.292000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Calle M\u00e9ndez \u00c1lvaro n\u00ba 11", 
+          "light": "red", 
+          "number": "119", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 127
+        }, 
+        "free_bikes": 17, 
+        "id": "279cb9f0c24f37e8a528131cc8764499", 
+        "latitude": 40.4013216, 
+        "longitude": -3.6863218, 
+        "name": "M\u00e9ndez \u00c1lvaro", 
+        "timestamp": "2017-08-15T04:50:55.293000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Calle Palos de la Frontera n\u00ba 40", 
+          "light": "red", 
+          "number": "120", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 128
+        }, 
+        "free_bikes": 16, 
+        "id": "01e4ec2d1599cf9b00f22e754040cd5f", 
+        "latitude": 40.4032208, 
+        "longitude": -3.6944768, 
+        "name": "Palos de la Frontera", 
+        "timestamp": "2017-08-15T04:50:55.295000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Paseo de Santa Mar\u00eda de la Cabeza n\u00ba 58", 
+          "light": "yellow", 
+          "number": "121", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 129
+        }, 
+        "free_bikes": 10, 
+        "id": "4c7704289a1d16eb8968c75e742fc1cb", 
+        "latitude": 40.4017926, 
+        "longitude": -3.6987665, 
+        "name": "Santa Mar\u00eda de la Cabeza", 
+        "timestamp": "2017-08-15T04:50:55.296000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Calle Guzm\u00e1n el Bueno n\u00ba 2", 
+          "light": "yellow", 
+          "number": "123", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 131
+        }, 
+        "free_bikes": 11, 
+        "id": "36794206be5a1202a7645b5a2395ee7e", 
+        "latitude": 40.4306458, 
+        "longitude": -3.7133412, 
+        "name": "Guzm\u00e1n el Bueno", 
+        "timestamp": "2017-08-15T04:50:55.297000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Paseo de la Florida n\u00ba 8", 
+          "light": "yellow", 
+          "number": "161", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 132
+        }, 
+        "free_bikes": 14, 
+        "id": "64f482eb6863dbe3edc2dcc38b930673", 
+        "latitude": 40.4220812, 
+        "longitude": -3.7218482, 
+        "name": "Paseo de la Florida", 
+        "timestamp": "2017-08-15T04:50:55.298000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Paseo de los Olmos n\u00ba 28", 
+          "light": "green", 
+          "number": "162", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 133
+        }, 
+        "free_bikes": 7, 
+        "id": "cc5d758fcdbc8eb4d279747cd66f7d92", 
+        "latitude": 40.4034076, 
+        "longitude": -3.7108108, 
+        "name": "Metro Pir\u00e1mides", 
+        "timestamp": "2017-08-15T04:50:55.314000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Paseo de la Esperanza n\u00ba 2", 
+          "light": "yellow", 
+          "number": "163", 
+          "online": true, 
+          "slots": 21, 
+          "uid": 134
+        }, 
+        "free_bikes": 7, 
+        "id": "638528c26e8343e87e68e3631fbf2b44", 
+        "latitude": 40.4035988, 
+        "longitude": -3.7064516, 
+        "name": "Paseo de la Esperanza", 
+        "timestamp": "2017-08-15T04:50:55.316000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Paseo de las Delicias n\u00ba 92-94", 
+          "light": "yellow", 
+          "number": "164", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 136
+        }, 
+        "free_bikes": 11, 
+        "id": "9e813b8f32b241b4826e26c43625d5e5", 
+        "latitude": 40.3972616, 
+        "longitude": -3.6945025, 
+        "name": "Paseo de las Delicias", 
+        "timestamp": "2017-08-15T04:50:55.317000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenida de Alberto Alcocer n\u00ba 22", 
+          "light": "yellow", 
+          "number": "158", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 138
+        }, 
+        "free_bikes": 14, 
+        "id": "4dc93a436b699e1c000c86492fbdbc3b", 
+        "latitude": 40.4585318, 
+        "longitude": -3.684715, 
+        "name": "Alberto Alcocer", 
+        "timestamp": "2017-08-15T04:50:55.319000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Calle del General Yag\u00fce n\u00ba 57", 
+          "light": "red", 
+          "number": "155", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 139
+        }, 
+        "free_bikes": 17, 
+        "id": "fd326095ef70f9832934f7c8f42c4478", 
+        "latitude": 40.4572824, 
+        "longitude": -3.7009675, 
+        "name": "General Yag\u00fce", 
+        "timestamp": "2017-08-15T04:50:55.320000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Calle Sor \u00c1ngela de la Cruz n\u00ba 2", 
+          "light": "red", 
+          "number": "156", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 140
+        }, 
+        "free_bikes": 17, 
+        "id": "228d96336bcfbc3727f730a071640fa5", 
+        "latitude": 40.4592351, 
+        "longitude": -3.691533, 
+        "name": "Sor \u00c1ngela de la Cruz", 
+        "timestamp": "2017-08-15T04:50:55.321000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Avenida del General Per\u00f3n n\u00ba 1-4", 
+          "light": "yellow", 
+          "number": "152", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 142
+        }, 
+        "free_bikes": 13, 
+        "id": "afdb97e632cc6fd5a6739dfa27f95546", 
+        "latitude": 40.4527164, 
+        "longitude": -3.6990077, 
+        "name": "General Per\u00f3n 1", 
+        "timestamp": "2017-08-15T04:50:55.323000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Avenida del General Per\u00f3n n\u00ba 36", 
+          "light": "yellow", 
+          "number": "153", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 143
+        }, 
+        "free_bikes": 10, 
+        "id": "e3670c473ed91fe6033889bb614560c8", 
+        "latitude": 40.4522938, 
+        "longitude": -3.692651, 
+        "name": "General Per\u00f3n con Capit\u00e1n Haya", 
+        "timestamp": "2017-08-15T04:50:55.323000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Paseo de la Habana n\u00ba 42", 
+          "light": "yellow", 
+          "number": "149", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 146
+        }, 
+        "free_bikes": 12, 
+        "id": "71fe417c21717c57fc371f15aa7effa4", 
+        "latitude": 40.4498613, 
+        "longitude": -3.6881689, 
+        "name": "Paseo de la Habana 42", 
+        "timestamp": "2017-08-15T04:50:55.326000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Paseo de la Castellana n\u00ba 124", 
+          "light": "yellow", 
+          "number": "150", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 147
+        }, 
+        "free_bikes": 9, 
+        "id": "69c57c469b222d56a4090a3533998505", 
+        "latitude": 40.4488924, 
+        "longitude": -3.6905604, 
+        "name": "Castellana frente a Hermanos Pinz\u00f3n", 
+        "timestamp": "2017-08-15T04:50:55.327000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenida del Doctor Arce n\u00ba 45", 
+          "light": "yellow", 
+          "number": "147", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 148
+        }, 
+        "free_bikes": 14, 
+        "id": "fafe88a8a35ba4e353948aa8e42811bb", 
+        "latitude": 40.4483269, 
+        "longitude": -3.6797296, 
+        "name": "Doctor Arce 45", 
+        "timestamp": "2017-08-15T04:50:55.328000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Calle Santa Engracia n\u00ba 168", 
+          "light": "red", 
+          "number": "132", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 149
+        }, 
+        "free_bikes": 20, 
+        "id": "b2f2dd7f91e9ac4c33f93a12c6825dce", 
+        "latitude": 40.4463667, 
+        "longitude": -3.7036675, 
+        "name": "Glorieta de los Cuatro Caminos", 
+        "timestamp": "2017-08-15T04:50:55.329000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle Raimundo Fern\u00e1ndez Villaverde n\u00ba 33-35", 
+          "light": "yellow", 
+          "number": "133", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 150
+        }, 
+        "free_bikes": 9, 
+        "id": "cd84f79f8778438035fd45f0d8d970fc", 
+        "latitude": 40.447125, 
+        "longitude": -3.7001669, 
+        "name": "Raimundo Fern\u00e1ndez", 
+        "timestamp": "2017-08-15T04:50:55.330000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Paseo de la Castellana n\u00ba 106", 
+          "light": "yellow", 
+          "number": "136", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 151
+        }, 
+        "free_bikes": 14, 
+        "id": "e1dc06914b5e491b4f437c19ec64c5fa", 
+        "latitude": 40.4453307, 
+        "longitude": -3.690861, 
+        "name": "Castellana 106", 
+        "timestamp": "2017-08-15T04:50:55.331000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Plaza de la Rep\u00fablica Argentina n\u00ba 6-7", 
+          "light": "yellow", 
+          "number": "137", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 152
+        }, 
+        "free_bikes": 12, 
+        "id": "bd6696c08db86241f6810070d3530823", 
+        "latitude": 40.445411, 
+        "longitude": -3.6853312, 
+        "name": "Plaza de la Rep\u00fablica Argentina", 
+        "timestamp": "2017-08-15T04:50:55.332000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle Mar\u00eda de Guzm\u00e1n n\u00ba 58", 
+          "light": "yellow", 
+          "number": "134", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 153
+        }, 
+        "free_bikes": 10, 
+        "id": "ebfec9caa8fbaa2f60b4771b40ae973a", 
+        "latitude": 40.4440297, 
+        "longitude": -3.6956047, 
+        "name": "Agust\u00edn de Betancourt", 
+        "timestamp": "2017-08-15T04:50:55.333000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Paseo de la Castellana n\u00ba 67", 
+          "light": "yellow", 
+          "number": "138", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 154
+        }, 
+        "free_bikes": 8, 
+        "id": "4c6b67b7df148782d2e0bf6aeda30cd4", 
+        "latitude": 40.4457414, 
+        "longitude": -3.6917932, 
+        "name": "Paseo de la Castellana con Raimundo Fern\u00e1ndez", 
+        "timestamp": "2017-08-15T04:50:55.334000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Plaza de San Juan de la Cruz n\u00ba 11", 
+          "light": "red", 
+          "number": "135", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 158
+        }, 
+        "free_bikes": 18, 
+        "id": "51cf2ba3ec65448781a50a1ae5134f3a", 
+        "latitude": 40.4415974, 
+        "longitude": -3.6927821, 
+        "name": "Plaza de San Juan de la Cruz", 
+        "timestamp": "2017-08-15T04:50:55.338000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Calle Jos\u00e9 Guti\u00e9rrez Abascal n\u00ba 2", 
+          "light": "yellow", 
+          "number": "139", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 159
+        }, 
+        "free_bikes": 10, 
+        "id": "d3802f7576139293c8cbb04cb66cc3a0", 
+        "latitude": 40.4396792, 
+        "longitude": -3.6907784, 
+        "name": "Jos\u00e9 Guti\u00e9rrez Abascal ", 
+        "timestamp": "2017-08-15T04:50:55.339000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Calle Cea Berm\u00fadez n\u00ba 59", 
+          "light": "yellow", 
+          "number": "128", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 160
+        }, 
+        "free_bikes": 13, 
+        "id": "b1c705b3c39e8287d1b2a24926ffef89", 
+        "latitude": 40.438994, 
+        "longitude": -3.7154329, 
+        "name": "Cea Berm\u00fadez", 
+        "timestamp": "2017-08-15T04:50:55.340000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Calle del General \u00c1lvarez de Castro n\u00ba 2", 
+          "light": "yellow", 
+          "number": "126", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 163
+        }, 
+        "free_bikes": 13, 
+        "id": "e58a9bdc506db3796f4902cef16a0044", 
+        "latitude": 40.4344731, 
+        "longitude": -3.7015686, 
+        "name": "General \u00c1lvarez de Castro", 
+        "timestamp": "2017-08-15T04:50:55.343000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Calle Fern\u00e1ndez de la Hoz n\u00ba 29", 
+          "light": "green", 
+          "number": "125", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 164
+        }, 
+        "free_bikes": 6, 
+        "id": "f90fd1628cd12d76b6ffc0c398f5d021", 
+        "latitude": 40.435285, 
+        "longitude": -3.6948626, 
+        "name": "General Mart\u00ednez Campos ", 
+        "timestamp": "2017-08-15T04:50:55.344000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Paseo de la Castellana n\u00ba 43", 
+          "light": "green", 
+          "number": "141", 
+          "online": true, 
+          "slots": 12, 
+          "uid": 165
+        }, 
+        "free_bikes": 2, 
+        "id": "bddb9a7d05ba5cb21d24db42ab63681b", 
+        "latitude": 40.4355143, 
+        "longitude": -3.6892368, 
+        "name": "P\u00ba Castellana - Glorieta de Emilio Castelar", 
+        "timestamp": "2017-08-15T04:50:55.345000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Calle Diego de Le\u00f3n n\u00ba 52", 
+          "light": "yellow", 
+          "number": "143", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 166
+        }, 
+        "free_bikes": 14, 
+        "id": "3bd75e1efd1993434d49caea1e810886", 
+        "latitude": 40.4345973, 
+        "longitude": -3.678492, 
+        "name": "Diego de Le\u00f3n 52", 
+        "timestamp": "2017-08-15T04:50:55.346000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Calle Fernando el Cat\u00f3lico n\u00ba 19", 
+          "light": "yellow", 
+          "number": "127", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 168
+        }, 
+        "free_bikes": 15, 
+        "id": "217bde84b1fc8453887c815a0e45cbfe", 
+        "latitude": 40.4338516, 
+        "longitude": -3.708439, 
+        "name": "Fernando el Cat\u00f3lico", 
+        "timestamp": "2017-08-15T04:50:55.348000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Calle Ortega y Gasset n\u00ba 87", 
+          "light": "yellow", 
+          "number": "145", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 171
+        }, 
+        "free_bikes": 13, 
+        "id": "c84faa338b04930c57fb51d15dc8c1ed", 
+        "latitude": 40.429887, 
+        "longitude": -3.6712823, 
+        "name": "Ortega y Gasset 87", 
+        "timestamp": "2017-08-15T04:50:55.351000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Calle Colombia n\u00ba 7", 
+          "light": "yellow", 
+          "number": "160", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 172
+        }, 
+        "free_bikes": 9, 
+        "id": "ef7a12a49ac259e357eada06157145f2", 
+        "latitude": 40.4572466, 
+        "longitude": -3.6763439, 
+        "name": "Colombia", 
+        "timestamp": "2017-08-15T04:50:55.352000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Paseo de la Habana n\u00ba 63", 
+          "light": "yellow", 
+          "number": "159", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 173
+        }, 
+        "free_bikes": 12, 
+        "id": "a6fda01c8ac13db9fb21c5dc80a89f39", 
+        "latitude": 40.4543852, 
+        "longitude": -3.6835926, 
+        "name": "Paseo de la Habana 63", 
+        "timestamp": "2017-08-15T04:50:55.359000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Plaza del Conde de Casal n\u00ba 8", 
+          "light": "yellow", 
+          "number": "77", 
+          "online": true, 
+          "slots": 22, 
+          "uid": 81
+        }, 
+        "free_bikes": 15, 
+        "id": "07d5cccc82d8f3c63147a779f4d8b550", 
+        "latitude": 40.40635, 
+        "longitude": -3.670422, 
+        "name": "Conde de Casal", 
+        "timestamp": "2017-08-15T04:50:55.199000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Calle Mar\u00eda Francisca n\u00ba 1", 
+          "light": "red", 
+          "number": "146", 
+          "online": true, 
+          "slots": 18, 
+          "uid": 155
+        }, 
+        "free_bikes": 18, 
+        "id": "44bb326e5ceed01295dcbf74664f54ac", 
+        "latitude": 40.4442258, 
+        "longitude": -3.6787169, 
+        "name": "Mar\u00eda Francisca 1", 
+        "timestamp": "2017-08-15T04:50:55.335000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Calle Santa Engracia n\u00ba 14", 
+          "light": "red", 
+          "number": "122", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 130
+        }, 
+        "free_bikes": 17, 
+        "id": "e784a1c40b8e2c67a46c263846c3d5ce", 
+        "latitude": 40.4295863, 
+        "longitude": -3.6963983, 
+        "name": "Santa Engracia 14", 
+        "timestamp": "2017-08-15T04:50:55.297000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Paseo de la Castellana n\u00ba 164", 
+          "light": "red", 
+          "number": "157", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 137
+        }, 
+        "free_bikes": 19, 
+        "id": "f620d87aa6c9f87751026fe68c2503e4", 
+        "latitude": 40.4591366, 
+        "longitude": -3.6894151, 
+        "name": "Castellana 164", 
+        "timestamp": "2017-08-15T04:50:55.318000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Calle Santa Engracia n\u00ba 127", 
+          "light": "red", 
+          "number": "130", 
+          "online": true, 
+          "slots": 20, 
+          "uid": 157
+        }, 
+        "free_bikes": 13, 
+        "id": "1c31c728848b21999acbff07a38f8267", 
+        "latitude": 40.441386, 
+        "longitude": -3.7016321, 
+        "name": "Santa Engracia 127", 
+        "timestamp": "2017-08-15T04:50:55.337000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Paseo de la Castellana n\u00ba 42", 
+          "light": "yellow", 
+          "number": "142", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 167
+        }, 
+        "free_bikes": 14, 
+        "id": "325954bbe4fb2f9c6638be941759ccdd", 
+        "latitude": 40.4334087, 
+        "longitude": -3.6879154, 
+        "name": "Castellana 42", 
+        "timestamp": "2017-08-15T04:50:55.347000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Plaza de San Ildefonso n\u00ba 3", 
+          "light": "yellow", 
+          "number": "55", 
+          "online": true, 
+          "slots": 24, 
+          "uid": 59
+        }, 
+        "free_bikes": 15, 
+        "id": "a95f5e468278802e584cc44df841bd19", 
+        "latitude": 40.4239757, 
+        "longitude": -3.7020842, 
+        "name": "Plaza de San Ildefonso", 
+        "timestamp": "2017-08-15T04:50:55.151000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Avenida de Men\u00e9ndez Pelayo n\u00ba 3", 
+          "light": "yellow", 
+          "number": "97", 
+          "online": true, 
+          "slots": 27, 
+          "uid": 102
+        }, 
+        "free_bikes": 10, 
+        "id": "a508147ec8804bdd6e8519f63c63cd44", 
+        "latitude": 40.4226906, 
+        "longitude": -3.6801307, 
+        "name": "Alcal\u00e1", 
+        "timestamp": "2017-08-15T04:50:55.246000Z"
+      }
+    ]
+  }
+}

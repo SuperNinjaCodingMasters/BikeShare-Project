@@ -1,0 +1,67 @@
+{
+  "network": {
+    "company": [
+      "Brainbox Technology", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/easybike-samos", 
+    "id": "easybike-samos", 
+    "location": {
+      "city": "Samos", 
+      "country": "GR", 
+      "latitude": 37.754065919, 
+      "longitude": 26.9787850189
+    }, 
+    "name": "EasyBike", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 18
+        }, 
+        "free_bikes": 5, 
+        "id": "1a4f476d3da320d31f6d4f1d07fbcf16", 
+        "latitude": 37.7540998499, 
+        "longitude": 26.9787528324, 
+        "name": "Dimarxeio", 
+        "timestamp": "2017-08-15T04:49:47.960000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 18
+        }, 
+        "free_bikes": 10, 
+        "id": "dc7239dfb8d3717b3108997a39f06402", 
+        "latitude": 37.7528528812, 
+        "longitude": 26.9590546894, 
+        "name": "Malagari", 
+        "timestamp": "2017-08-15T04:49:47.963000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 18
+        }, 
+        "free_bikes": 5, 
+        "id": "36b197bf0e9545680c55a5c9e6f7ca03", 
+        "latitude": 37.7505836835, 
+        "longitude": 26.9751264858, 
+        "name": "Gipedo Tennis", 
+        "timestamp": "2017-08-15T04:49:47.964000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 18
+        }, 
+        "free_bikes": 7, 
+        "id": "477c4a91b7ce080ccfa844418e1bd546", 
+        "latitude": 37.7590111752, 
+        "longitude": 26.9704111624, 
+        "name": "Limenarxeio", 
+        "timestamp": "2017-08-15T04:49:47.962000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicinquartucciu", 
+    "id": "bicinquartucciu", 
+    "location": {
+      "city": "Quartucciu", 
+      "country": "IT", 
+      "latitude": 39.25043149806156, 
+      "longitude": 9.179296426489255
+    }, 
+    "name": "BicinQuartucciu", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "9fbd4fa787282e4317e34e23e3c230fa", 
+        "latitude": 39.25696966122719, 
+        "longitude": 9.184635831842456, 
+        "name": "Sunda", 
+        "timestamp": "2017-08-15T04:47:51.762000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "129e377e5bb59eb9bd4ff4bffefe0280", 
+        "latitude": 39.25109766424779, 
+        "longitude": 9.173999809331463, 
+        "name": "Rosselli", 
+        "timestamp": "2017-08-15T04:47:51.780000Z"
+      }
+    ]
+  }
+}

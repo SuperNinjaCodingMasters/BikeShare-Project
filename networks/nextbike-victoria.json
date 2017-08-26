@@ -1,0 +1,93 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-victoria", 
+    "id": "nextbike-victoria", 
+    "location": {
+      "city": "Victoria", 
+      "country": "CA", 
+      "latitude": 48.4298, 
+      "longitude": -123.361
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "75013", 
+            "75012", 
+            "75011"
+          ], 
+          "number": "1961", 
+          "slots": 5, 
+          "uid": "2479155"
+        }, 
+        "free_bikes": 3, 
+        "id": "fe8c214b47dcb4447e84a8ffe9f30790", 
+        "latitude": 48.426048, 
+        "longitude": -123.361174, 
+        "name": "Atrium 1", 
+        "timestamp": "2017-08-15T04:48:45.991000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "75019"
+          ], 
+          "number": "1963", 
+          "slots": 2, 
+          "uid": "2534528"
+        }, 
+        "free_bikes": 1, 
+        "id": "b129401781106b8efad8002068cc1b93", 
+        "latitude": 48.426599, 
+        "longitude": -123.361726, 
+        "name": "Atrium 3", 
+        "timestamp": "2017-08-15T04:48:45.995000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "75017", 
+            "75015"
+          ], 
+          "number": "1962", 
+          "slots": 2, 
+          "uid": "2479156"
+        }, 
+        "free_bikes": 2, 
+        "id": "65290125d31635cbdeec8eb8303da542", 
+        "latitude": 48.426135, 
+        "longitude": -123.361628, 
+        "name": "Atrium 2", 
+        "timestamp": "2017-08-15T04:48:45.994000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "75009", 
+            "75008", 
+            "75007", 
+            "75006", 
+            "75005"
+          ], 
+          "number": "1964", 
+          "slots": 10, 
+          "uid": "2534533"
+        }, 
+        "free_bikes": 5, 
+        "id": "b4471607676ffb185c6a8f033a38469f", 
+        "latitude": 48.439139, 
+        "longitude": -123.378813, 
+        "name": "Selkirk Waterfront", 
+        "timestamp": "2017-08-15T04:48:45.996000Z"
+      }
+    ]
+  }
+}

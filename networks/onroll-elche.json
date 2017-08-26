@@ -1,0 +1,578 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-elche", 
+    "id": "onroll-elche", 
+    "location": {
+      "city": "Elche", 
+      "country": "ES", 
+      "latitude": 38.2668, 
+      "longitude": -0.696217
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "77e849d87bf97eb77152cfc2486b044d", 
+        "latitude": 38.268924, 
+        "longitude": -0.706933, 
+        "name": "Ambulatorio San Ferm\u00fdn", 
+        "timestamp": "2017-08-15T04:47:38.656000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "cd374a4d3727eff8f1e295ce63f30c7d", 
+        "latitude": 38.26175, 
+        "longitude": -0.71614, 
+        "name": "Avda. Libertad - Aljub", 
+        "timestamp": "2017-08-15T04:47:38.658000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 9, 
+        "id": "5afcc458b897d0f33c2a40a1a500ef8e", 
+        "latitude": 38.26573, 
+        "longitude": -0.71128, 
+        "name": "Avda. Libertad/reina Victoria", 
+        "timestamp": "2017-08-15T04:47:38.659000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "472b047058503e64bec586dee0fb09ee", 
+        "latitude": 38.25399, 
+        "longitude": -0.70548, 
+        "name": "Avda. Llauradors / Eslava", 
+        "timestamp": "2017-08-15T04:47:38.660000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 9, 
+        "id": "387a5a6593b0fd3faed7f28e81f85d87", 
+        "latitude": 38.265409, 
+        "longitude": -0.699424, 
+        "name": "Ayuntamiento", 
+        "timestamp": "2017-08-15T04:47:38.661000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 7, 
+        "id": "10769174543a13061bb95f333ac36d84", 
+        "latitude": 38.259831, 
+        "longitude": -0.701275, 
+        "name": "Biblioteca San Jos\u00e9", 
+        "timestamp": "2017-08-15T04:47:38.662000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "c1575564f76e4512f0d30764266cf018", 
+        "latitude": 38.25923, 
+        "longitude": -0.7109, 
+        "name": "C. P. Mariano Benlliure", 
+        "timestamp": "2017-08-15T04:47:38.662000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "c1c75930d72961e5fb4a4d678a053056", 
+        "latitude": 38.2755, 
+        "longitude": -0.70319, 
+        "name": "Casablanca", 
+        "timestamp": "2017-08-15T04:47:38.663000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 7, 
+        "id": "8a586201a6c76e61ef8be753c3c573b4", 
+        "latitude": 38.264171, 
+        "longitude": -0.695433, 
+        "name": "Centro de Congresos", 
+        "timestamp": "2017-08-15T04:47:38.664000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 7, 
+        "id": "cf7b0e9fccbdf90224f6fb687d3f04fd", 
+        "latitude": 38.27272, 
+        "longitude": -0.68108, 
+        "name": "Centro Salud Altabix", 
+        "timestamp": "2017-08-15T04:47:38.665000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 7, 
+        "id": "606d39610eace07ce1a7fecba8d26e5c", 
+        "latitude": 38.262993, 
+        "longitude": -0.688257, 
+        "name": "Comisar\u00fda", 
+        "timestamp": "2017-08-15T04:47:38.666000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "e6837f366d7ea76e789feb4e573d34d5", 
+        "latitude": 38.25734, 
+        "longitude": -0.70461, 
+        "name": "Conrado del Campo / Trinquete", 
+        "timestamp": "2017-08-15T04:47:38.666000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "c8494e527fd4a581cd00a518b81c8048", 
+        "latitude": 38.26718, 
+        "longitude": -0.70259, 
+        "name": "Coraz\u00f3n de Jes\u00fas", 
+        "timestamp": "2017-08-15T04:47:38.667000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "f6d8dba670e4671b9a057c686fa80407", 
+        "latitude": 38.256839, 
+        "longitude": -0.691995, 
+        "name": "Escorxador", 
+        "timestamp": "2017-08-15T04:47:38.668000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 9, 
+        "id": "6143c15aba1080fb1f39ab93a9e0ca09", 
+        "latitude": 38.272036, 
+        "longitude": -0.694305, 
+        "name": "Estaci\u00f3n Autobuses/renfe", 
+        "timestamp": "2017-08-15T04:47:38.669000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "0821a7401782aa0c3f0cd42314711ec9", 
+        "latitude": 38.25515, 
+        "longitude": -0.71483, 
+        "name": "Hospital del Vinalop\u00f3", 
+        "timestamp": "2017-08-15T04:47:38.670000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "ea968b38b196b859719b662b17188b96", 
+        "latitude": 38.25961, 
+        "longitude": -0.68586, 
+        "name": "Hospital General", 
+        "timestamp": "2017-08-15T04:47:38.671000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "40bd30b3d2c2e2bc6e870dbee491c957", 
+        "latitude": 38.27609, 
+        "longitude": -0.71529, 
+        "name": "Jard\u00fdn de Aspe", 
+        "timestamp": "2017-08-15T04:47:38.671000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "16a4a039ccfb7961503fd3f80ea034b9", 
+        "latitude": 38.26674, 
+        "longitude": -0.69328, 
+        "name": "Jesuitinas", 
+        "timestamp": "2017-08-15T04:47:38.672000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "5405ac3d6d96240fc7e21fa34d731156", 
+        "latitude": 38.268457, 
+        "longitude": -0.696731, 
+        "name": "Oficina de Turismo", 
+        "timestamp": "2017-08-15T04:47:38.673000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "67a302d6cbe573e9f630e6a2a945daac", 
+        "latitude": 38.273904, 
+        "longitude": -0.673121, 
+        "name": "Pabell\u00f3n Municipal", 
+        "timestamp": "2017-08-15T04:47:38.674000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "4db806ac8ee8a4598fce5ca0df3e7783", 
+        "latitude": 38.26253, 
+        "longitude": -0.70313, 
+        "name": "Passeig de Germanies", 
+        "timestamp": "2017-08-15T04:47:38.675000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "dc31e7ba62b0356a803b40014bd95960", 
+        "latitude": 38.274553, 
+        "longitude": -0.708405, 
+        "name": "Plaza 1 de Mayo", 
+        "timestamp": "2017-08-15T04:47:38.676000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "7866f32df33af8b890d38cb37c314d9d", 
+        "latitude": 38.27662, 
+        "longitude": -0.67801, 
+        "name": "Plaza Castilla", 
+        "timestamp": "2017-08-15T04:47:38.677000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 9, 
+        "id": "eaa1ece0110e75e5d7953d64d52d2c48", 
+        "latitude": 38.261942, 
+        "longitude": -0.708752, 
+        "name": "Plaza de Crevillente", 
+        "timestamp": "2017-08-15T04:47:38.678000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "8d2bf1468b72317b7f5c21befca87543", 
+        "latitude": 38.270117, 
+        "longitude": -0.685963, 
+        "name": "Plaza de la Lonja", 
+        "timestamp": "2017-08-15T04:47:38.679000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "0264265be37798772f9abc7840157a0f", 
+        "latitude": 38.260487, 
+        "longitude": -0.698565, 
+        "name": "Plaza del Raval", 
+        "timestamp": "2017-08-15T04:47:38.680000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "baf7e85d862b555c74367c3441f7c4ae", 
+        "latitude": 38.27553, 
+        "longitude": -0.66915, 
+        "name": "Polic\u00fda Local", 
+        "timestamp": "2017-08-15T04:47:38.681000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 7, 
+        "id": "edc6a24c35e4e6cbf9ba9cf797784695", 
+        "latitude": 38.27832, 
+        "longitude": -0.67195, 
+        "name": "Polideportivo Altabix", 
+        "timestamp": "2017-08-15T04:47:38.682000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "0dbbdf20d3afcf31889c657cb8b7809f", 
+        "latitude": 38.270115, 
+        "longitude": -0.713323, 
+        "name": "Polivalente Carr\u00fas", 
+        "timestamp": "2017-08-15T04:47:38.682000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 12, 
+        "id": "56baa026ac2bd99de757fdf4d1dc2990", 
+        "latitude": 38.26186, 
+        "longitude": -0.68264, 
+        "name": "Juzgados", 
+        "timestamp": "2017-08-15T04:47:38.683000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "e1af504416b9f8ddae4bc1211a14b97e", 
+        "latitude": 38.27052, 
+        "longitude": -0.6702, 
+        "name": "Squash", 
+        "timestamp": "2017-08-15T04:47:38.687000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 8, 
+        "id": "b2122201ae8a2b8ea994e1076209171d", 
+        "latitude": 38.25835, 
+        "longitude": -0.70852, 
+        "name": "Antonio Mena/fray Jaime Torres", 
+        "timestamp": "2017-08-15T04:47:38.688000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "5032c57c2743efb017b4556f21f86e95", 
+        "latitude": 38.27921, 
+        "longitude": -0.68589, 
+        "name": "Umh - Pabell\u00f3n Deportes", 
+        "timestamp": "2017-08-15T04:47:38.694000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "08f531a3cfedb530d0f7544f9e421e8e", 
+        "latitude": 38.27425, 
+        "longitude": -0.69111, 
+        "name": "Umh - Escuela Oficial de Idiomas", 
+        "timestamp": "2017-08-15T04:47:38.695000Z"
+      }
+    ]
+  }
+}

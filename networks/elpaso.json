@@ -1,0 +1,259 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_elpaso/gbfs.json", 
+    "href": "/v2/networks/elpaso", 
+    "id": "elpaso", 
+    "location": {
+      "city": "El Paso, TX", 
+      "country": "US", 
+      "latitude": 31.76148, 
+      "longitude": -106.48507
+    }, 
+    "name": "El Paso B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "300 N Campbell St", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3295"
+        }, 
+        "free_bikes": 8, 
+        "id": "1db5b11deb1efb3ea7e5c88e7fe24e0d", 
+        "latitude": 31.76148, 
+        "longitude": -106.48507, 
+        "name": "City Hall", 
+        "timestamp": "2017-08-15T04:50:48.972000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "116 Anthony Street", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3302"
+        }, 
+        "free_bikes": 10, 
+        "id": "5778dbd2e423fe39ed4d1f6dfe1a9e50", 
+        "latitude": 31.75688, 
+        "longitude": -106.49418, 
+        "name": "Anthony Street", 
+        "timestamp": "2017-08-15T04:50:48.956000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "300 N Oregon", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3474"
+        }, 
+        "free_bikes": 4, 
+        "id": "0be2fbf864c8d14d977bb75a095db727", 
+        "latitude": 31.75992, 
+        "longitude": -106.48913, 
+        "name": "San Jacinto Plaza", 
+        "timestamp": "2017-08-15T04:50:48.964000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "125 Pioneer Plaza", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3301"
+        }, 
+        "free_bikes": 8, 
+        "id": "2adf9b16a10028a48760acc32d814aa4", 
+        "latitude": 31.75846, 
+        "longitude": -106.48891, 
+        "name": "Pioneer Plaza", 
+        "timestamp": "2017-08-15T04:50:48.962000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1299 Yandell Street", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3472"
+        }, 
+        "free_bikes": 4, 
+        "id": "37d83b88353a2390a73f8d39277c105a", 
+        "latitude": 31.76392, 
+        "longitude": -106.50126, 
+        "name": "Mundy Park", 
+        "timestamp": "2017-08-15T04:50:48.964000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "3350 Sun Bowl Dr.", 
+          "last_updated": 1502772631, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_elpaso_3470"
+        }, 
+        "free_bikes": 8, 
+        "id": "aea2a32b95437b07334a20b56057a7bf", 
+        "latitude": 31.78369, 
+        "longitude": -106.50758, 
+        "name": "UTEP Sun Bowl Drive North", 
+        "timestamp": "2017-08-15T04:50:48.970000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "100 W Riio Grande Avenue", 
+          "last_updated": 1502772631, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_elpaso_3296"
+        }, 
+        "free_bikes": 8, 
+        "id": "f285fc1fcc8da851949aa2ff29777dc1", 
+        "latitude": 31.76324, 
+        "longitude": -106.49358, 
+        "name": "EPCC", 
+        "timestamp": "2017-08-15T04:50:48.973000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "510 N Santa Fe Street", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3298"
+        }, 
+        "free_bikes": 9, 
+        "id": "013f5b5314845a4bfb417ae1a3faf06e", 
+        "latitude": 31.75958, 
+        "longitude": -106.4916, 
+        "name": "Cleveland Square", 
+        "timestamp": "2017-08-15T04:50:48.968000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "500 W University Avenue", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3299"
+        }, 
+        "free_bikes": 10, 
+        "id": "3822f14df916746e92baeca8c6658708", 
+        "latitude": 31.76782, 
+        "longitude": -106.50485, 
+        "name": "UTEP Library", 
+        "timestamp": "2017-08-15T04:50:48.968000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "111 W University Ave", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3300"
+        }, 
+        "free_bikes": 11, 
+        "id": "c13f0daadfe55d3c5c87de346d3a6772", 
+        "latitude": 31.77293, 
+        "longitude": -106.50101, 
+        "name": "Oregon & University", 
+        "timestamp": "2017-08-15T04:50:48.960000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "501 W. Schuster Street", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3471"
+        }, 
+        "free_bikes": 8, 
+        "id": "af91f153647d4198ce7e2d3df781d855", 
+        "latitude": 31.76663, 
+        "longitude": -106.50209, 
+        "name": "UTEP Academic Services", 
+        "timestamp": "2017-08-15T04:50:48.976000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "500 E.San Antonio Street", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3475"
+        }, 
+        "free_bikes": 12, 
+        "id": "5f8f1e872f09d0c8b9dc131bbff4b95a", 
+        "latitude": 31.75877, 
+        "longitude": -106.48395, 
+        "name": "El Paso County Courthouse", 
+        "timestamp": "2017-08-15T04:50:48.966000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "630 S Santa Fe Street", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3297"
+        }, 
+        "free_bikes": 3, 
+        "id": "6d55f9cc020820452979e0753f15b1b4", 
+        "latitude": 31.75327, 
+        "longitude": -106.48934, 
+        "name": "Downtown Transfer Center", 
+        "timestamp": "2017-08-15T04:50:48.974000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "One Ballpark Plaza", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3473"
+        }, 
+        "free_bikes": 4, 
+        "id": "5554eed0bd318badf6051711eed67900", 
+        "latitude": 31.75836, 
+        "longitude": -106.4934, 
+        "name": "Ballpark West Durango", 
+        "timestamp": "2017-08-15T04:50:48.971000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2200 Sun Bowl Drive", 
+          "last_updated": 1502772631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_elpaso_3476"
+        }, 
+        "free_bikes": 4, 
+        "id": "32a356afa93745f3457cf696f1ba9099", 
+        "latitude": 31.77032, 
+        "longitude": -106.50714, 
+        "name": "UTEP Sun Bowl Drive South", 
+        "timestamp": "2017-08-15T04:50:48.966000Z"
+      }
+    ]
+  }
+}

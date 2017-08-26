@@ -1,0 +1,1408 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/veloh", 
+    "id": "veloh", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Luxembourg", 
+      "country": "LU", 
+      "latitude": 49.6301025, 
+      "longitude": 6.1520185
+    }, 
+    "name": "Veloh", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "ROUSEGAERTCHEN - PLACE DES MARTYRS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772220000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 9, 
+        "id": "248d4d4b7e10119c20a04fbbcf8aaeb6", 
+        "latitude": 49.605818, 
+        "longitude": 6.129062, 
+        "name": "ROUSEGAERTCHEN", 
+        "timestamp": "2017-08-15T04:46:19.379000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "SCHAARFEN ECK- RUE EMILE BIAN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772055000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 55
+        }, 
+        "free_bikes": 10, 
+        "id": "387b44164abdd67e0a7a78861e150a10", 
+        "latitude": 49.58043, 
+        "longitude": 6.11465, 
+        "name": "SCHAARFEN ECK", 
+        "timestamp": "2017-08-15T04:46:19.390000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "SCHLUECHTHAUS - RUE DE L'ABATTOIR", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772233000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 58
+        }, 
+        "free_bikes": 7, 
+        "id": "b9431c979b5edaabab488c40b28d47c5", 
+        "latitude": 49.60136, 
+        "longitude": 6.11581, 
+        "name": "SCHLUECHTHAUS", 
+        "timestamp": "2017-08-15T04:46:19.398000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "BEIM TENNIS - RUE DES SCILLAS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772331000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 66
+        }, 
+        "free_bikes": 9, 
+        "id": "583ba0880a76da599c905486da28f75d", 
+        "latitude": 49.58237, 
+        "longitude": 6.13624, 
+        "name": "BEIM TENNIS", 
+        "timestamp": "2017-08-15T04:46:19.405000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "PETERNELCHEN - RUE DES BRUYERES", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772107000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 67
+        }, 
+        "free_bikes": 5, 
+        "id": "135a0e34774cfbf6cc612f5acbbbc909", 
+        "latitude": 49.57756, 
+        "longitude": 6.13727, 
+        "name": "PETERNELCHEN", 
+        "timestamp": "2017-08-15T04:46:19.412000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "GRENIER - RUE EDOUARD GRENIER", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772281000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 64
+        }, 
+        "free_bikes": 8, 
+        "id": "8b80a51a289122d66cf4890357875d89", 
+        "latitude": 49.59459, 
+        "longitude": 6.14277, 
+        "name": "GRENIER", 
+        "timestamp": "2017-08-15T04:46:19.419000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "UM SCHLASS - CEINTURE UM SCHLASS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772168000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 68
+        }, 
+        "free_bikes": 8, 
+        "id": "a2f6a6d59549ddeb05da5dd5acd03620", 
+        "latitude": 49.57337, 
+        "longitude": 6.14397, 
+        "name": "UM SCHLASS", 
+        "timestamp": "2017-08-15T04:46:19.363000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "BEI DER AUER - RUE DE GASPERICH ( DEVANT N\u00b0 20 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772184000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 52
+        }, 
+        "free_bikes": 8, 
+        "id": "bc21b1ca61fecaa7e3cac20d43ad075e", 
+        "latitude": 49.591404, 
+        "longitude": 6.125333, 
+        "name": "BEI DER AUER", 
+        "timestamp": "2017-08-15T04:46:19.380000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "STROOSSBUERGER PLAZ - PLACE DE STRASBOURG ( FACE N\u00b0 41 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772195000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 3, 
+        "id": "fd0c75ea2f0201af894ea63c7d4f0e15", 
+        "latitude": 49.600541, 
+        "longitude": 6.128376, 
+        "name": "STROOSSBUERGER PLAZ", 
+        "timestamp": "2017-08-15T04:46:19.404000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "ROBERT SCHUMAN - SQUARE SCHUMAN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772106000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 19, 
+        "id": "49e16065f3a395a19e0de390637bdc3b", 
+        "latitude": 49.616669, 
+        "longitude": 6.126069, 
+        "name": "ROBERT SCHUMAN", 
+        "timestamp": "2017-08-15T04:46:19.352000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "SAINTE CUNEGONDE - PLACE STE CUNEGONDE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772257000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 74
+        }, 
+        "free_bikes": 5, 
+        "id": "cc98b71992e2d888e22ba10e43f5c35f", 
+        "latitude": 49.6146, 
+        "longitude": 6.14283, 
+        "name": "SAINTE CUNEGONDE", 
+        "timestamp": "2017-08-15T04:46:19.402000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "K . ADENAUER - BOULEVARD KONRAD ADENAUER ( DEVANT BEI )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772311000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 33
+        }, 
+        "free_bikes": 12, 
+        "id": "7312636b066bff3a86c20d3b07263f6f", 
+        "latitude": 49.6201, 
+        "longitude": 6.1388, 
+        "name": "K. ADENAUER", 
+        "timestamp": "2017-08-15T04:46:19.351000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "LUDWIG VAN BEETHOVEN - RUE LUDWIG VAN BEETHOVEN ( DEVANT N\u00b0 45 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772264000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 53
+        }, 
+        "free_bikes": 6, 
+        "id": "02a24672de9d4a75a70c37e504238055", 
+        "latitude": 49.59, 
+        "longitude": 6.1172, 
+        "name": "LUDWIG VAN BEETHOVEN", 
+        "timestamp": "2017-08-15T04:46:19.357000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "LEOPOLD GOEBEL - ALLEE LEOPOLD GOEBEL ( DEVANT N\u00b0 109 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772267000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 47
+        }, 
+        "free_bikes": 9, 
+        "id": "961edf70130e03c9e0588ec9a3085e9d", 
+        "latitude": 49.6122, 
+        "longitude": 6.1072, 
+        "name": "LEOPOLD GOEBEL", 
+        "timestamp": "2017-08-15T04:46:19.359000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "AUBEPINES - VAL SAINTE CROIX / RUE DES AUBEPINES", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772151000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 45
+        }, 
+        "free_bikes": 6, 
+        "id": "67499f4a3fe4635ef34ac1820bf1d2aa", 
+        "latitude": 49.6126, 
+        "longitude": 6.0977, 
+        "name": "AUBEPINES", 
+        "timestamp": "2017-08-15T04:46:19.362000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "AN DER BOURMICHT - ZONE INDUSTRIELLE BOURMICHT / RES DES MEROVINGIENS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772092000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 72
+        }, 
+        "free_bikes": 6, 
+        "id": "9b753f4c812b6f62c54ccd94e83aab24", 
+        "latitude": 49.61086, 
+        "longitude": 6.08097, 
+        "name": "AN DER BOURMICHT", 
+        "timestamp": "2017-08-15T04:46:19.366000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "FISCHERHAFF- RUE DE CESSANGE 177", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772144000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 56
+        }, 
+        "free_bikes": 12, 
+        "id": "1ec93e4759893b5d2f4cde25f56774d8", 
+        "latitude": 49.5911, 
+        "longitude": 6.1057, 
+        "name": "FISCHERHAFF", 
+        "timestamp": "2017-08-15T04:46:19.370000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "BGL BNP PARIBAS  - RUE EDOUARD STEICHEN ( FACE N\u00b0 10 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772313000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 48
+        }, 
+        "free_bikes": 9, 
+        "id": "93a27af3efd3f0ddaf9e0d8b376842d0", 
+        "latitude": 49.6318, 
+        "longitude": 6.1741, 
+        "name": "BGL BNP PARIBAS", 
+        "timestamp": "2017-08-15T04:46:19.371000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "MUGUETS - RUE DES MUGUETS ( DEVANT N\u00b0 57 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772060000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 50
+        }, 
+        "free_bikes": 15, 
+        "id": "96135c19f9c79d94bb374de2bfdef633", 
+        "latitude": 49.6216, 
+        "longitude": 6.1565, 
+        "name": "MUGUETS", 
+        "timestamp": "2017-08-15T04:46:19.373000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "BEI DER SCHOUL - RUE FERDINAND KUHN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772269000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 65
+        }, 
+        "free_bikes": 9, 
+        "id": "a3fb9d7c5e759baa7e41febbf87cf5d0", 
+        "latitude": 49.58421, 
+        "longitude": 6.14202, 
+        "name": "BEI DER SCHOUL", 
+        "timestamp": "2017-08-15T04:46:19.378000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "GASTON DIDERICH - AVENUE GASTON DIDERICH", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772146000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 35
+        }, 
+        "free_bikes": 3, 
+        "id": "b06f84eed36e42a1d1e653be8c48d397", 
+        "latitude": 49.6098, 
+        "longitude": 6.1062, 
+        "name": "GASTON DIDERICH", 
+        "timestamp": "2017-08-15T04:46:19.381000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "BOUILLON - RUE DE BOUILLON / PARKING", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772035000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 57
+        }, 
+        "free_bikes": 14, 
+        "id": "228689308e31fc911e6b540b7e94ad33", 
+        "latitude": 49.60001, 
+        "longitude": 6.10826, 
+        "name": "BOUILLON", 
+        "timestamp": "2017-08-15T04:46:19.382000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "ARELER STROOSS - RUE DES AUBEPINES ( FACE N\u00b0 187 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772077000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 44
+        }, 
+        "free_bikes": 8, 
+        "id": "aa5d9e1eec7c47f3923e1487bbc24ed7", 
+        "latitude": 49.6162, 
+        "longitude": 6.0984, 
+        "name": "ARELER STROOSS", 
+        "timestamp": "2017-08-15T04:46:19.392000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "KRAIZGRENNCHEN - SQUARE DE NEW- YORK", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772096000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 39
+        }, 
+        "free_bikes": 18, 
+        "id": "cdb9bf03d2228c0a7d075e14345f3f1c", 
+        "latitude": 49.6133, 
+        "longitude": 6.117, 
+        "name": "KRAIZGRENNCHEN", 
+        "timestamp": "2017-08-15T04:46:19.393000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "LABOURS - RUE DES LABOURS / BLD J.F.KENNEDY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772264000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 63
+        }, 
+        "free_bikes": 1, 
+        "id": "8c2d75c5b9b8b275ceecb4ed4170b11d", 
+        "latitude": 49.6301, 
+        "longitude": 6.16843, 
+        "name": "LABOURS", 
+        "timestamp": "2017-08-15T04:46:19.395000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "PLACE LAURENT - PLACE AUGUSTE LAURENT", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772176000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 41
+        }, 
+        "free_bikes": 12, 
+        "id": "6905443938c4ce8255ca9457c0281984", 
+        "latitude": 49.6202, 
+        "longitude": 6.1227, 
+        "name": "PLACE LAURENT", 
+        "timestamp": "2017-08-15T04:46:19.396000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "LYCEE TECHNIQUE DE BONNEVOIE - RUE DU CIMETIERE ( DEVANT N\u00b0 110 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772307000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 43
+        }, 
+        "free_bikes": 5, 
+        "id": "ee372d0bd56f2394c5897e5c7c8d5f9e", 
+        "latitude": 49.5911, 
+        "longitude": 6.1416, 
+        "name": "LYCEE TECHNIQUE  DE BONNEVOIE", 
+        "timestamp": "2017-08-15T04:46:19.400000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "ST HUBERT - RUE DE MERL 147 / RUE ST HUBERT", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772329000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 59
+        }, 
+        "free_bikes": 4, 
+        "id": "122f76c61d8a35dbeeb205e0ff64c10a", 
+        "latitude": 49.60289, 
+        "longitude": 6.09322, 
+        "name": "ST HUBERT", 
+        "timestamp": "2017-08-15T04:46:19.401000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "CAMPUS LAMPERTSBIERG - RUE DE LA FAIENCERIE ( DEVANT N\u00b0 151 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772039000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 18, 
+        "id": "61463258e482e862204dfaa67ca147af", 
+        "latitude": 49.6219, 
+        "longitude": 6.1118, 
+        "name": "CAMPUS LAMPERTSBIERG", 
+        "timestamp": "2017-08-15T04:46:19.403000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "GLACIS KAPELL - BOULEVARD DE LA FOIRE ( DEVANT N\u00b0 21 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772136000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 40
+        }, 
+        "free_bikes": 2, 
+        "id": "c5eb8667fb2999e986e1661069bff7f5", 
+        "latitude": 49.6147, 
+        "longitude": 6.1211, 
+        "name": "GLACIS KAPELL", 
+        "timestamp": "2017-08-15T04:46:19.406000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "SQUARE ANDRE - SQUARE EDOUARD ANDRE ( DEVANT N\u00b0 1 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772190000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 42
+        }, 
+        "free_bikes": 14, 
+        "id": "5d5e9f639d655a7366dcd60a2c831878", 
+        "latitude": 49.6238, 
+        "longitude": 6.1188, 
+        "name": "SQUARE ANDRE", 
+        "timestamp": "2017-08-15T04:46:19.408000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "LONKECHER STROOSS - ROUTE DE LONGWY ( DEVANT N\u00b0 241 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772194000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 46
+        }, 
+        "free_bikes": 10, 
+        "id": "287eb7baad21c8c6e79964e82a2c507e", 
+        "latitude": 49.6055, 
+        "longitude": 6.1, 
+        "name": "LONKECHER STROOSS", 
+        "timestamp": "2017-08-15T04:46:19.409000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "CONVICT - PLACE DU FOYER", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772167000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 10, 
+        "id": "1665b23a39f1a6806d9eec22d0cf3f13", 
+        "latitude": 49.6059, 
+        "longitude": 6.1199, 
+        "name": "CONVICT", 
+        "timestamp": "2017-08-15T04:46:19.418000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "BOCH - RUE J-F BOCH", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772049000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 60
+        }, 
+        "free_bikes": 9, 
+        "id": "0acc5b56cfae69822c441f2cc877ee26", 
+        "latitude": 49.61925, 
+        "longitude": 6.10842, 
+        "name": "BOCH", 
+        "timestamp": "2017-08-15T04:46:19.419000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "CLOCHE D'OR - RUE JEAN PIRET ( DEVANT N\u00b0 3 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772307000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 54
+        }, 
+        "free_bikes": 7, 
+        "id": "623269967c8c660e78795ac533072e93", 
+        "latitude": 49.583377, 
+        "longitude": 6.115817, 
+        "name": "CLOCHE D' OR", 
+        "timestamp": "2017-08-15T04:46:19.416000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "LEON XIII-RUE DE BONNEVOIE ( DEVANT N\u00b0 103 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772289000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 8, 
+        "id": "ad55b6591554c7f0dcd61ea3320ff077", 
+        "latitude": 49.598211, 
+        "longitude": 6.137526, 
+        "name": "LEON XIII", 
+        "timestamp": "2017-08-15T04:46:19.355000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "ROCADE-RUE DU LABORATOIRE ( DEVANT VDL )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772181000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 8, 
+        "id": "0bd9e0e66b6c9e1eef90ae50f4a1474e", 
+        "latitude": 49.602989, 
+        "longitude": 6.136083, 
+        "name": "ROCADE", 
+        "timestamp": "2017-08-15T04:46:19.389000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "METZER PLAZ - PLACE DE METZ", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772325000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 14, 
+        "id": "a2aa1361c18e3b9c414daf3c70d1b285", 
+        "latitude": 49.607346, 
+        "longitude": 6.12762, 
+        "name": "METZER PLAZ", 
+        "timestamp": "2017-08-15T04:46:19.356000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "AAL BRECK - VIADUC / BOULEVARD DE LA PETRUSSE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772112000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 6, 
+        "id": "5a0357cf9ae010038546dbd5f7024884", 
+        "latitude": 49.60481, 
+        "longitude": 6.133404, 
+        "name": "AAL BRECK", 
+        "timestamp": "2017-08-15T04:46:19.358000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "PARAISER PLAZ - AVENUE DE LA LIBERTE / PLACE DE PARIS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772218000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 10, 
+        "id": "dad233b85670d857019a1fcad559daac", 
+        "latitude": 49.603565, 
+        "longitude": 6.13081, 
+        "name": "PARAISER PLAZ", 
+        "timestamp": "2017-08-15T04:46:19.384000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "KNUEDLER - PLACE GUILLAUME", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772224000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 6, 
+        "id": "97dec721841a64f236b15263aa613d59", 
+        "latitude": 49.610687, 
+        "longitude": 6.131621, 
+        "name": "KNUEDLER", 
+        "timestamp": "2017-08-15T04:46:19.364000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "GELLE FRA - BOULEVARD ROOSEVELT / PLACE DE LA CONSTITUTION", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772123000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 7, 
+        "id": "8643abe5bbb5404082c053363aed59df", 
+        "latitude": 49.60947, 
+        "longitude": 6.12963, 
+        "name": "GELLE FRA", 
+        "timestamp": "2017-08-15T04:46:19.376000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "KIEM - CIRCUIT DE LA FOIRE / RUE ALPHONSE WEICKER", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772194000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 10, 
+        "id": "a32c794edacb33bd838e713451e4cd40", 
+        "latitude": 49.634283, 
+        "longitude": 6.166633, 
+        "name": "KIEM", 
+        "timestamp": "2017-08-15T04:46:19.377000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "HOLLERECHER PLAZ - PLACE SAINT PIERRE ET \u00a8PAUL", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772253000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 9, 
+        "id": "2be49244da1d9c2624d41cff8d10f2a8", 
+        "latitude": 49.598613, 
+        "longitude": 6.117957, 
+        "name": "HOLLERECHER PLAZ", 
+        "timestamp": "2017-08-15T04:46:19.399000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "MERCIER - RUE DU COMMERCE / PARKING", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772306000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 27
+        }, 
+        "free_bikes": 5, 
+        "id": "43372ae0af4be739946f59fcfe319546", 
+        "latitude": 49.5986, 
+        "longitude": 6.132119, 
+        "name": "MERCIER", 
+        "timestamp": "2017-08-15T04:46:19.354000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "MERKELS PLAZ - RUE JEAN BAPTISTE MERKELS / PLACE MERKELS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772148000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 30
+        }, 
+        "free_bikes": 6, 
+        "id": "11aad425bc2a4de08ca375b96f23c7c0", 
+        "latitude": 49.599846, 
+        "longitude": 6.122565, 
+        "name": "MERKELS PLAZ", 
+        "timestamp": "2017-08-15T04:46:19.374000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "PLACE DE FRANCE - PLACE DE FRANCE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772256000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 31
+        }, 
+        "free_bikes": 12, 
+        "id": "bf927d627982d5cd998f3b25d21f8417", 
+        "latitude": 49.60625, 
+        "longitude": 6.105961, 
+        "name": "PLACE DE FRANCE", 
+        "timestamp": "2017-08-15T04:46:19.392000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "CHARLY'S GARE - BOULEVARD PRINCE HENRI", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772085000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 28
+        }, 
+        "free_bikes": 7, 
+        "id": "a03161e8acd886937afa84ff6a83b53e", 
+        "latitude": 49.61274, 
+        "longitude": 6.124114, 
+        "name": "CHARLY'S GARE", 
+        "timestamp": "2017-08-15T04:46:19.396000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "J.B. GELLE - RUE JEAN- BAPTISTE GELLE ( DEVANT N\u00b0 6 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772217000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 36
+        }, 
+        "free_bikes": 7, 
+        "id": "a744849fe0efc0f59521db056a31285a", 
+        "latitude": 49.596787, 
+        "longitude": 6.1400375, 
+        "name": "J.B. GELLE", 
+        "timestamp": "2017-08-15T04:46:19.385000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "AMELIE - BOULEVARD ROYAL / AVENUE AMELIE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772146000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 11, 
+        "id": "0fb61f8897c25825b3622e2a6956290d", 
+        "latitude": 49.613339, 
+        "longitude": 6.125794, 
+        "name": "AMELIE", 
+        "timestamp": "2017-08-15T04:46:19.367000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "BRICHERHAFF - AVENUE JF KENNEDY / RUE ALPHONSE WEICKER", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772150000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 0, 
+        "id": "309ddd8dc045cf3b134ecdbc927c9600", 
+        "latitude": 49.631952, 
+        "longitude": 6.17048, 
+        "name": "BRICHERHAFF", 
+        "timestamp": "2017-08-15T04:46:19.349000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "REIMERWEE - BOULEVARD K ADENAUER / RUE K KALERGI", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772312000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 7, 
+        "id": "aa55c4983ab012aee20c7c6576333cf9", 
+        "latitude": 49.629448, 
+        "longitude": 6.157348, 
+        "name": "REIMERWEE", 
+        "timestamp": "2017-08-15T04:46:19.361000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "PHILHARMONIE - AVENUE JF KENNEDY / PLACE DE L'EUROPE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772335000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 10, 
+        "id": "5cb2e4f3b85d456781ab4565b13b2264", 
+        "latitude": 49.619361, 
+        "longitude": 6.1443905, 
+        "name": "PHILHARMONIE", 
+        "timestamp": "2017-08-15T04:46:19.366000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "HELLEG GEESCHT - PLATEAU SAINT ESPRIT", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772300000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 38
+        }, 
+        "free_bikes": 15, 
+        "id": "6eb17ce795721f147c749e788dcc199f", 
+        "latitude": 49.607624, 
+        "longitude": 6.134765, 
+        "name": "HELLEG GEESCHT", 
+        "timestamp": "2017-08-15T04:46:19.365000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "MONTEREY - AVENUE DE MONTEREY ( FACE N\u00b0 49 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772222000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 7, 
+        "id": "1ca113d47c5b1dc973b446ed3ed450fa", 
+        "latitude": 49.609583, 
+        "longitude": 6.119523, 
+        "name": "MONTEREY", 
+        "timestamp": "2017-08-15T04:46:19.382000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "MARGUERITES - RUE DES MARGUERITES ( FACE N\u00b0 105 A )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772299000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 49
+        }, 
+        "free_bikes": 12, 
+        "id": "eccedc020c51f9d8a25e99414dbe0426", 
+        "latitude": 49.623837, 
+        "longitude": 6.160642, 
+        "name": "MARGUERITES", 
+        "timestamp": "2017-08-15T04:46:19.383000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "KOLLEISCH - RUE DE BRAGANCE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772062000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 34
+        }, 
+        "free_bikes": 7, 
+        "id": "9ac0551b330cbfd80d911efbe31a7c98", 
+        "latitude": 49.604577, 
+        "longitude": 6.111927, 
+        "name": "KOLLEISCH", 
+        "timestamp": "2017-08-15T04:46:19.394000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "PISCINE OLYMPIQUE - RUE LEON HENGEN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772316000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 32
+        }, 
+        "free_bikes": 7, 
+        "id": "cdf1fc420475cac5c85b178d1fc91393", 
+        "latitude": 49.623901, 
+        "longitude": 6.150013, 
+        "name": "PISCINE OLYMPIQUE", 
+        "timestamp": "2017-08-15T04:46:19.406000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "BEINCHEN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772337000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 75
+        }, 
+        "free_bikes": 12, 
+        "id": "1bb209e1ba741263aea5dad7e749e869", 
+        "latitude": 49.61561, 
+        "longitude": 6.13097, 
+        "name": "BEINCHEN", 
+        "timestamp": "2017-08-15T04:46:19.353000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "GARE CENTRALE-PLACE DE LA GARE (Quai n\u00b01)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772058000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 13, 
+        "id": "225e439ea27fd681bcf6b93577163c9e", 
+        "latitude": 49.600666, 
+        "longitude": 6.133781, 
+        "name": "GARE CENTRALE", 
+        "timestamp": "2017-08-15T04:46:19.388000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "WINSTON CHURCHILL - PLACE CHURCHILL", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772192000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 4, 
+        "id": "95dc626242ae085c1c069870012db9e1", 
+        "latitude": 49.6113, 
+        "longitude": 6.119, 
+        "name": "WINSTON CHURCHILL", 
+        "timestamp": "2017-08-15T04:46:19.360000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "CAMPUS KIRCHBIERG - BOULEVARD JF KENNEDY / RUE K KALERGI", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772301000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 6, 
+        "id": "4bd9e45b839f4980b207642bd1262090", 
+        "latitude": 49.6264, 
+        "longitude": 6.1613, 
+        "name": "CAMPUS KIRCHBIERG", 
+        "timestamp": "2017-08-15T04:46:19.369000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "GEMENG STROOSSEN - RUE DES ROMAINS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772308000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 70
+        }, 
+        "free_bikes": 11, 
+        "id": "79d283ad6968de21a7deb4dc308cb33d", 
+        "latitude": 49.61909, 
+        "longitude": 6.07227, 
+        "name": "GEMENG STROOSSEN", 
+        "timestamp": "2017-08-15T04:46:19.417000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "UM REIMERWEE - RUE DU KIEM", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772258000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 69
+        }, 
+        "free_bikes": 11, 
+        "id": "c7bc4fdfab1d828c56874faed43d4d42", 
+        "latitude": 49.61769, 
+        "longitude": 6.08276, 
+        "name": "UM REIMERWEE", 
+        "timestamp": "2017-08-15T04:46:19.401000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "LES THERMES - RUE DU CIMETIERE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772060000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 71
+        }, 
+        "free_bikes": 12, 
+        "id": "88ea4ad42595b8bb6ebc4249513fb8ed", 
+        "latitude": 49.61489, 
+        "longitude": 6.07275, 
+        "name": "LES THERMES", 
+        "timestamp": "2017-08-15T04:46:19.411000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "GAULOIS - Rue des gaulois 11", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772263000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 37
+        }, 
+        "free_bikes": 7, 
+        "id": "b869d3364d27a5559e7e1339a279b0ea", 
+        "latitude": 49.60164, 
+        "longitude": 6.13736, 
+        "name": "GAULOIS", 
+        "timestamp": "2017-08-15T04:46:19.372000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "COQUE - AVENUE JF KENNEDY / RUE ERASME", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772186000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 5, 
+        "id": "2ec77b02f1054fa3ffb82eb69bc1cb2a", 
+        "latitude": 49.62133, 
+        "longitude": 6.151987, 
+        "name": "COQUE", 
+        "timestamp": "2017-08-15T04:46:19.397000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "FRIEDEN - BVD PIERRE FRIEDEN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772152000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 61
+        }, 
+        "free_bikes": 14, 
+        "id": "0743b86cf88dc71795e7ac493afe57c7", 
+        "latitude": 49.637327, 
+        "longitude": 6.164573, 
+        "name": "FRIEDEN", 
+        "timestamp": "2017-08-15T04:46:19.410000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "M\u00c4RELER PARC - RUE DU 10 SEPTEMBRE ( DEVANT N\u00b0 108 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772246000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 12, 
+        "id": "3c4ee6ec328bbe12e5324fe1d25c13f7", 
+        "latitude": 49.608146, 
+        "longitude": 6.111627, 
+        "name": "M\u00c4RELER PARC", 
+        "timestamp": "2017-08-15T04:46:19.386000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "\u00cbNNESCHTGAASS - PLACE HAMILIUS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772079000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 6, 
+        "id": "ff2801c6bb026008f09167bf90bdf1ef", 
+        "latitude": 49.610978, 
+        "longitude": 6.126797, 
+        "name": "\u00cbNNESCHTGAASS", 
+        "timestamp": "2017-08-15T04:46:19.391000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "THEATER PLAZ - PLACE DU THEATRE ( FACE N\u00b01 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772270000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 13, 
+        "id": "d3129064742f4d82b3cb8d13ff8e36d1", 
+        "latitude": 49.612782, 
+        "longitude": 6.131208, 
+        "name": "THEATER PLAZ", 
+        "timestamp": "2017-08-15T04:46:19.371000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "JEAN MONNET - BOULEVARD KONRAD ADENAUER / RUE ERASME", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772264000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 13, 
+        "id": "a5ab25cc235d6b6e259a454e21d7b7ed", 
+        "latitude": 49.625714, 
+        "longitude": 6.148347, 
+        "name": "JEAN MONNET", 
+        "timestamp": "2017-08-15T04:46:19.407000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "LEYDENBACH", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772287000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 62
+        }, 
+        "free_bikes": 11, 
+        "id": "7841f45acee74808ff3dd136ca662a83", 
+        "latitude": 49.62915, 
+        "longitude": 6.173101, 
+        "name": "LEYDENBACH", 
+        "timestamp": "2017-08-15T04:46:19.355000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Gare Centrale 2 - Place de Gare n\u00b03-5", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772278000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 79
+        }, 
+        "free_bikes": 10, 
+        "id": "8bca8cb76a28e9c03b3fe8de4a7050ac", 
+        "latitude": 49.601051, 
+        "longitude": 6.133744, 
+        "name": "GARE CENTRALE 2", 
+        "timestamp": "2017-08-15T04:46:19.415000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "SAUERWISS - RUE ABBE FRANCOIS LASCOMBE ( DEVANT N\u00b0 54 )", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772124000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 51
+        }, 
+        "free_bikes": 10, 
+        "id": "221cdc567ba289ecc8a3a8818ddb55c4", 
+        "latitude": 49.594088, 
+        "longitude": 6.125123, 
+        "name": "SAUERWISS", 
+        "timestamp": "2017-08-15T04:46:19.411000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "SAUVAGE - RUE JEAN-PIERRE SAUVAGE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772283000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 76
+        }, 
+        "free_bikes": 11, 
+        "id": "5770db44aaa10967433d54dbfa421d7d", 
+        "latitude": 49.62582, 
+        "longitude": 6.13935, 
+        "name": "SAUVAGE", 
+        "timestamp": "2017-08-15T04:46:19.387000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "JEANNE D'ARC - PLACE JEANNE D'ARC", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772239000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 73
+        }, 
+        "free_bikes": 9, 
+        "id": "a899e4e8ac53cf64cacbe94b7298ea29", 
+        "latitude": 49.59691, 
+        "longitude": 6.147957, 
+        "name": "JEANNE D'ARC", 
+        "timestamp": "2017-08-15T04:46:19.375000Z"
+      }
+    ]
+  }
+}

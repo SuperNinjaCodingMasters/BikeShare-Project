@@ -1,0 +1,1866 @@
+{
+  "network": {
+    "company": [
+      "Vanncouver Bike Share Inc", 
+      "CycleHop LLC", 
+      "City of Vancouver", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/mobibikes", 
+    "id": "mobibikes", 
+    "location": {
+      "city": "Vancouver", 
+      "country": "CA", 
+      "latitude": 49.2827, 
+      "longitude": -123.1207
+    }, 
+    "name": "Mobi", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0115"
+        }, 
+        "free_bikes": 12, 
+        "id": "afacb2133f2462aba7748cc21b71c788", 
+        "latitude": 49.25741, 
+        "longitude": -123.148531, 
+        "name": "0115 Cypress & 16th", 
+        "timestamp": "2017-08-15T04:50:37.968000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0134"
+        }, 
+        "free_bikes": 12, 
+        "id": "838d5bb59963474ad08a6d5b156943ed", 
+        "latitude": 49.258425, 
+        "longitude": -123.100792, 
+        "name": "0134 14th & Main", 
+        "timestamp": "2017-08-15T04:50:37.978000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0108"
+        }, 
+        "free_bikes": 9, 
+        "id": "281492c97baac6bfc3c69e475061bb10", 
+        "latitude": 49.270852, 
+        "longitude": -123.147766, 
+        "name": "0108 Cypress & 1st", 
+        "timestamp": "2017-08-15T04:50:37.958000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0197"
+        }, 
+        "free_bikes": 14, 
+        "id": "e3299c1c942a1f1d9b3533bb964ff92e", 
+        "latitude": 49.27001, 
+        "longitude": -123.100123, 
+        "name": "0197 1st & Main", 
+        "timestamp": "2017-08-15T04:50:38.002000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0032"
+        }, 
+        "free_bikes": 12, 
+        "id": "1d7e73b3321ebb6713774d376247d9f9", 
+        "latitude": 49.288444, 
+        "longitude": -123.139203, 
+        "name": "0032 Comox & Denman", 
+        "timestamp": "2017-08-15T04:50:37.839000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 24, 
+          "status": "online", 
+          "uid": "0089"
+        }, 
+        "free_bikes": 8, 
+        "id": "9389f32fa2c17715e9aa24bf603f3f17", 
+        "latitude": 49.278563, 
+        "longitude": -123.130492, 
+        "name": "0089 Burnaby & Burrard", 
+        "timestamp": "2017-08-15T04:50:37.937000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0150"
+        }, 
+        "free_bikes": 7, 
+        "id": "cb6fddfdac7d350d25be475c7ab9e05a", 
+        "latitude": 49.284157, 
+        "longitude": -123.099917, 
+        "name": "0150 Alexander & Main", 
+        "timestamp": "2017-08-15T04:50:37.984000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 26, 
+          "status": "online", 
+          "uid": "0016"
+        }, 
+        "free_bikes": 2, 
+        "id": "bf8408067b0e0c963f3ff526977bcef3", 
+        "latitude": 49.287097, 
+        "longitude": -123.118551, 
+        "name": "0016 Pender & Burrard", 
+        "timestamp": "2017-08-15T04:50:37.818000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0152"
+        }, 
+        "free_bikes": 5, 
+        "id": "cadc004f0903ef45e898032143c0832f", 
+        "latitude": 49.258924, 
+        "longitude": -123.152591, 
+        "name": "0152 Arbutus Greenway & 14th", 
+        "timestamp": "2017-08-15T04:50:37.987000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0101"
+        }, 
+        "free_bikes": 3, 
+        "id": "30bf49544b1c864688b78172d42cca5e", 
+        "latitude": 49.299292, 
+        "longitude": -123.130281, 
+        "name": "0101 Stanley Park - Vancouver Aquarium", 
+        "timestamp": "2017-08-15T04:50:37.941000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 52, 
+          "status": "online", 
+          "uid": "0001"
+        }, 
+        "free_bikes": 21, 
+        "id": "7a19c49f486d7c0c02b3685d7b240448", 
+        "latitude": 49.262487, 
+        "longitude": -123.114397, 
+        "name": "0001 10th & Cambie", 
+        "timestamp": "2017-08-15T04:50:37.795000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0011"
+        }, 
+        "free_bikes": 17, 
+        "id": "95e624191c655f50e401d280cd39a9ad", 
+        "latitude": 49.271721, 
+        "longitude": -123.104207, 
+        "name": "0011 Ontario & Seawall", 
+        "timestamp": "2017-08-15T04:50:37.813000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "offline", 
+          "uid": "0026"
+        }, 
+        "free_bikes": 0, 
+        "id": "2ef000bc9d4650d8cc6198c4d570b19f", 
+        "latitude": 49.277483, 
+        "longitude": -123.114279, 
+        "name": "0026 Beatty & Robson", 
+        "timestamp": "2017-08-15T04:50:37.832000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0027"
+        }, 
+        "free_bikes": 11, 
+        "id": "b7683a86874e6300fd89f4cc0b075f57", 
+        "latitude": 49.275679, 
+        "longitude": -123.116963, 
+        "name": "0027 Beatty & Nelson", 
+        "timestamp": "2017-08-15T04:50:37.833000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 26, 
+          "status": "online", 
+          "uid": "0036"
+        }, 
+        "free_bikes": 14, 
+        "id": "90c746df94ce1a12f1f617acfe4a8ce3", 
+        "latitude": 49.285836, 
+        "longitude": -123.127265, 
+        "name": "0036 Bute & Robson", 
+        "timestamp": "2017-08-15T04:50:37.844000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0037"
+        }, 
+        "free_bikes": 3, 
+        "id": "6c24a62b5ee0a2a8014eb0dfb6d40025", 
+        "latitude": 49.28062, 
+        "longitude": -123.12482, 
+        "name": "0037 Hornby & Nelson", 
+        "timestamp": "2017-08-15T04:50:37.845000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 28, 
+          "status": "online", 
+          "uid": "0053"
+        }, 
+        "free_bikes": 15, 
+        "id": "fef69fb400210d861107a61db954d037", 
+        "latitude": 49.279821, 
+        "longitude": -123.10802, 
+        "name": "0053 Keefer & Abbott", 
+        "timestamp": "2017-08-15T04:50:37.882000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0054"
+        }, 
+        "free_bikes": 8, 
+        "id": "9d3123425823420514b8ad410074f02d", 
+        "latitude": 49.278004, 
+        "longitude": -123.105664, 
+        "name": "0054 Expo & Carrall", 
+        "timestamp": "2017-08-15T04:50:37.885000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 26, 
+          "status": "online", 
+          "uid": "0057"
+        }, 
+        "free_bikes": 18, 
+        "id": "4f6ebf2026d540ffe40e29a80138ad5e", 
+        "latitude": 49.273833, 
+        "longitude": -123.114373, 
+        "name": "0057 Marinaside & Cooperage", 
+        "timestamp": "2017-08-15T04:50:37.892000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0064"
+        }, 
+        "free_bikes": 2, 
+        "id": "c7b5bec0b2f4ab9a2d3f9d837725620c", 
+        "latitude": 49.276115, 
+        "longitude": -123.114496, 
+        "name": "0064 Expo & Smithe", 
+        "timestamp": "2017-08-15T04:50:37.903000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 22, 
+          "status": "online", 
+          "uid": "0065"
+        }, 
+        "free_bikes": 12, 
+        "id": "b9fd847d53fe45658fee4c46e7f562b8", 
+        "latitude": 49.272827, 
+        "longitude": -123.147744, 
+        "name": "0065 Cypress & Cornwall", 
+        "timestamp": "2017-08-15T04:50:37.904000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 28, 
+          "status": "online", 
+          "uid": "0066"
+        }, 
+        "free_bikes": 15, 
+        "id": "c2be5403b1c101e8032cf6696457200e", 
+        "latitude": 49.269361, 
+        "longitude": -123.13782, 
+        "name": "0066 Anderson & 2nd", 
+        "timestamp": "2017-08-15T04:50:37.905000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0076"
+        }, 
+        "free_bikes": 11, 
+        "id": "8fb5ce1e34ad31de940481953aea452c", 
+        "latitude": 49.268269, 
+        "longitude": -123.147885, 
+        "name": "0076 Cypress & 4th", 
+        "timestamp": "2017-08-15T04:50:37.912000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 28, 
+          "status": "online", 
+          "uid": "0077"
+        }, 
+        "free_bikes": 3, 
+        "id": "aa704bfba40286bd0661b64d1f75e778", 
+        "latitude": 49.275717, 
+        "longitude": -123.142564, 
+        "name": "0077 Vanier Park", 
+        "timestamp": "2017-08-15T04:50:37.916000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0080"
+        }, 
+        "free_bikes": 6, 
+        "id": "8088fdbb9fc86045ded8f880f5a75ba9", 
+        "latitude": 49.263088, 
+        "longitude": -123.12415, 
+        "name": "0080 Laurel & Broadway", 
+        "timestamp": "2017-08-15T04:50:37.925000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0082"
+        }, 
+        "free_bikes": 14, 
+        "id": "e7a7d58caf8399096e07fd944b0b7947", 
+        "latitude": 49.276153, 
+        "longitude": -123.123889, 
+        "name": "0082 Richards & Davie", 
+        "timestamp": "2017-08-15T04:50:37.927000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0088"
+        }, 
+        "free_bikes": 7, 
+        "id": "72c1049dfbbde7c24ec45c14f1a5ee85", 
+        "latitude": 49.28026, 
+        "longitude": -123.135244, 
+        "name": "0088 Harwood & Bute", 
+        "timestamp": "2017-08-15T04:50:37.936000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0096"
+        }, 
+        "free_bikes": 7, 
+        "id": "66a53e9c32e4f5c724f9478240020142", 
+        "latitude": 49.288011, 
+        "longitude": -123.132006, 
+        "name": "0096 Nicola & Robson", 
+        "timestamp": "2017-08-15T04:50:37.940000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "offline", 
+          "uid": "0114"
+        }, 
+        "free_bikes": 0, 
+        "id": "c81f75a80312c51ceaef1304beac1990", 
+        "latitude": 49.25919, 
+        "longitude": -123.148268, 
+        "name": "0114 Cypress & 14th", 
+        "timestamp": "2017-08-15T04:50:37.966000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0125"
+        }, 
+        "free_bikes": 4, 
+        "id": "b28611b3fbf42ff080ae66cba8430b00", 
+        "latitude": 49.279611, 
+        "longitude": -123.115056, 
+        "name": "0125 Hamilton & Robson", 
+        "timestamp": "2017-08-15T04:50:37.973000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0137"
+        }, 
+        "free_bikes": 6, 
+        "id": "9ec4163496363b31ab475cb851b57b21", 
+        "latitude": 49.273568, 
+        "longitude": -123.129935, 
+        "name": "0137 Beach & Seymour", 
+        "timestamp": "2017-08-15T04:50:37.979000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0171"
+        }, 
+        "free_bikes": 0, 
+        "id": "d457a4418c2b7bcabf44d5990b0df284", 
+        "latitude": 49.26667, 
+        "longitude": -123.112414, 
+        "name": "0171 5th & Yukon", 
+        "timestamp": "2017-08-15T04:50:37.994000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0147"
+        }, 
+        "free_bikes": 7, 
+        "id": "2f09a64507cf6257c67ca20af27339eb", 
+        "latitude": 49.275938, 
+        "longitude": -123.145939, 
+        "name": "0147 Chestnut & McNicoll", 
+        "timestamp": "2017-08-15T04:50:37.982000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 32, 
+          "status": "online", 
+          "uid": "0063"
+        }, 
+        "free_bikes": 4, 
+        "id": "6ddeafa873279951630a00191333c45d", 
+        "latitude": 49.281506, 
+        "longitude": -123.120101, 
+        "name": "0063 Robson & Granville", 
+        "timestamp": "2017-08-15T04:50:37.897000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0068"
+        }, 
+        "free_bikes": 7, 
+        "id": "450035266de1ca3b31a30c6556610f03", 
+        "latitude": 49.263507, 
+        "longitude": -123.148097, 
+        "name": "0068 Cypress & Broadway", 
+        "timestamp": "2017-08-15T04:50:37.906000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 36, 
+          "status": "online", 
+          "uid": "0083"
+        }, 
+        "free_bikes": 27, 
+        "id": "a6aec7b8c25da4c02829cd7839b8933d", 
+        "latitude": 49.27821, 
+        "longitude": -123.136972, 
+        "name": "0083 Aquatic Centre", 
+        "timestamp": "2017-08-15T04:50:37.928000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 30, 
+          "status": "online", 
+          "uid": "0019"
+        }, 
+        "free_bikes": 7, 
+        "id": "0b543fc4e694fe07a54dac48bb1b3390", 
+        "latitude": 49.282758, 
+        "longitude": -123.122092, 
+        "name": "0019 Robson & Hornby", 
+        "timestamp": "2017-08-15T04:50:37.823000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0004"
+        }, 
+        "free_bikes": 10, 
+        "id": "32603a87cfca71d0f7dfa3513bad69d5", 
+        "latitude": 49.274566, 
+        "longitude": -123.121817, 
+        "name": "0004 Yaletown-Roundhouse Station", 
+        "timestamp": "2017-08-15T04:50:37.807000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0106"
+        }, 
+        "free_bikes": 2, 
+        "id": "625a2ad202275c8e2be3ce868e85b105", 
+        "latitude": 49.259183, 
+        "longitude": -123.120126, 
+        "name": "0106 Heather & 14th", 
+        "timestamp": "2017-08-15T04:50:37.944000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 22, 
+          "status": "online", 
+          "uid": "0014"
+        }, 
+        "free_bikes": 12, 
+        "id": "3e112f9fe877e0003780386359060ae6", 
+        "latitude": 49.287214, 
+        "longitude": -123.11287, 
+        "name": "0014 Canada Place", 
+        "timestamp": "2017-08-15T04:50:37.815000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 36, 
+          "status": "online", 
+          "uid": "0154"
+        }, 
+        "free_bikes": 18, 
+        "id": "6526a2eb3832f9ba0224d237e901ea5b", 
+        "latitude": 49.273355, 
+        "longitude": -123.154493, 
+        "name": "0154 Kits Beach", 
+        "timestamp": "2017-08-15T04:50:37.989000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0176"
+        }, 
+        "free_bikes": 12, 
+        "id": "35eb539fb9298bb7e4f6759ca0256505", 
+        "latitude": 49.262062, 
+        "longitude": -123.104656, 
+        "name": "0176 10th & Ontario", 
+        "timestamp": "2017-08-15T04:50:37.998000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 28, 
+          "status": "online", 
+          "uid": "0035"
+        }, 
+        "free_bikes": 17, 
+        "id": "caad69ac4083affa6851b77448d44668", 
+        "latitude": 49.290419, 
+        "longitude": -123.12581, 
+        "name": "0035 Coal Harbour Community Centre", 
+        "timestamp": "2017-08-15T04:50:37.841000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0084"
+        }, 
+        "free_bikes": 4, 
+        "id": "1d26ee551116cef91beb4caf9ab29753", 
+        "latitude": 49.281405, 
+        "longitude": -123.139901, 
+        "name": "0084 Sunset Beach West", 
+        "timestamp": "2017-08-15T04:50:37.931000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0205"
+        }, 
+        "free_bikes": 4, 
+        "id": "365da33e9ce06ea53db1173a0f8eae71", 
+        "latitude": 49.262822, 
+        "longitude": -123.14338, 
+        "name": "0205 Pine & 10th", 
+        "timestamp": "2017-08-15T04:50:38.006000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0102"
+        }, 
+        "free_bikes": 6, 
+        "id": "9f63cebac9073eac3e90be2b9a91b02b", 
+        "latitude": 49.29534, 
+        "longitude": -123.150433, 
+        "name": "0102 Stanley Park - Second Beach North", 
+        "timestamp": "2017-08-15T04:50:37.942000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0104"
+        }, 
+        "free_bikes": 8, 
+        "id": "9aa325529164ec68b4d96c4f1c4fc7c1", 
+        "latitude": 49.294318, 
+        "longitude": -123.148808, 
+        "name": "0104 Stanley Park - Second Beach South", 
+        "timestamp": "2017-08-15T04:50:37.943000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0209"
+        }, 
+        "free_bikes": 6, 
+        "id": "82c794442f54fabf9db6e392ca1fac0f", 
+        "latitude": 49.297933, 
+        "longitude": -123.130758, 
+        "name": "0209 Stanley Park - Information Booth", 
+        "timestamp": "2017-08-15T04:50:38.008000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0105"
+        }, 
+        "free_bikes": 10, 
+        "id": "e3d32ad772a5898c3b96c4d23d2cd542", 
+        "latitude": 49.298657, 
+        "longitude": -123.121176, 
+        "name": "0105 Stanley Park - Totem Poles", 
+        "timestamp": "2017-08-15T04:50:37.944000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0211"
+        }, 
+        "free_bikes": 9, 
+        "id": "2ca388bba54706770900ca2a9d7aa5be", 
+        "latitude": 49.258819, 
+        "longitude": -123.131317, 
+        "name": "0211 14th & Alder", 
+        "timestamp": "2017-08-15T04:50:38.010000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 12, 
+          "status": "online", 
+          "uid": "0206"
+        }, 
+        "free_bikes": 5, 
+        "id": "707c1c54e0278fbae5d0ae3c42a25b71", 
+        "latitude": 49.263635, 
+        "longitude": -123.099236, 
+        "name": "0206 8th & Scotia", 
+        "timestamp": "2017-08-15T04:50:38.007000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 12, 
+          "status": "online", 
+          "uid": "0123"
+        }, 
+        "free_bikes": 5, 
+        "id": "a9f0b06d07f89b75e92c0cf686223aea", 
+        "latitude": 49.285953, 
+        "longitude": -123.124066, 
+        "name": "0123 Georgia & Thurlow", 
+        "timestamp": "2017-08-15T04:50:37.972000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0087"
+        }, 
+        "free_bikes": 4, 
+        "id": "98362e1d750f5238b23a38394c1b5d9c", 
+        "latitude": 49.28329, 
+        "longitude": -123.137034, 
+        "name": "0087 Broughton & Burnaby", 
+        "timestamp": "2017-08-15T04:50:37.935000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0212"
+        }, 
+        "free_bikes": 8, 
+        "id": "ec01daa00a9b966ea180f5dc0fb93058", 
+        "latitude": 49.277658, 
+        "longitude": -123.09662, 
+        "name": "0212 Union & Gore", 
+        "timestamp": "2017-08-15T04:50:38.010000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 26, 
+          "status": "online", 
+          "uid": "0005"
+        }, 
+        "free_bikes": 3, 
+        "id": "6d42fa40360f9a6b2bf641c7b8bb2862", 
+        "latitude": 49.279764, 
+        "longitude": -123.110154, 
+        "name": "0005 Dunsmuir & Beatty", 
+        "timestamp": "2017-08-15T04:50:37.808000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 46, 
+          "status": "online", 
+          "uid": "0006"
+        }, 
+        "free_bikes": 22, 
+        "id": "390a3a2865be2a3d5b6ab7b546fb6ac0", 
+        "latitude": 49.266538, 
+        "longitude": -123.115485, 
+        "name": "0006 Cambie & 2nd", 
+        "timestamp": "2017-08-15T04:50:37.809000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0007"
+        }, 
+        "free_bikes": 5, 
+        "id": "66f873d641d448bd1572ab086665a458", 
+        "latitude": 49.260599, 
+        "longitude": -123.113504, 
+        "name": "0007 12th & Yukon", 
+        "timestamp": "2017-08-15T04:50:37.810000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0008"
+        }, 
+        "free_bikes": 7, 
+        "id": "485d4d24c803cfde829ab89699fed833", 
+        "latitude": 49.264215, 
+        "longitude": -123.117772, 
+        "name": "0008 8th & Ash", 
+        "timestamp": "2017-08-15T04:50:37.811000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 12, 
+          "status": "online", 
+          "uid": "0009"
+        }, 
+        "free_bikes": 8, 
+        "id": "b07d513f87897cff7319a0e59d7e567c", 
+        "latitude": 49.270877, 
+        "longitude": -123.115103, 
+        "name": "0009 Spyglass & Seawall", 
+        "timestamp": "2017-08-15T04:50:37.811000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0010"
+        }, 
+        "free_bikes": 5, 
+        "id": "ff96f7e48d24a5181c04b9f8de342b73", 
+        "latitude": 49.268613, 
+        "longitude": -123.118186, 
+        "name": "0010 Stamp's Landing", 
+        "timestamp": "2017-08-15T04:50:37.812000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 24, 
+          "status": "online", 
+          "uid": "0012"
+        }, 
+        "free_bikes": 10, 
+        "id": "b3bb9f58d3530d33a1a09b6be9e973e0", 
+        "latitude": 49.282214, 
+        "longitude": -123.114101, 
+        "name": "0012 Dunsmuir & Richards", 
+        "timestamp": "2017-08-15T04:50:37.814000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0015"
+        }, 
+        "free_bikes": 0, 
+        "id": "6993b3dbb0758927967592ea612a2b1e", 
+        "latitude": 49.282409, 
+        "longitude": -123.118541, 
+        "name": "0015 Granville & Georgia", 
+        "timestamp": "2017-08-15T04:50:37.816000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 22, 
+          "status": "online", 
+          "uid": "0017"
+        }, 
+        "free_bikes": 10, 
+        "id": "d2244f1a81d317c76cabd65e81250835", 
+        "latitude": 49.273471, 
+        "longitude": -123.118016, 
+        "name": "0017 Marinaside & Davie", 
+        "timestamp": "2017-08-15T04:50:37.819000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0025"
+        }, 
+        "free_bikes": 5, 
+        "id": "7181df50ee1d1a05559399211382b7c8", 
+        "latitude": 49.279739, 
+        "longitude": -123.116251, 
+        "name": "0025 Homer & Robson", 
+        "timestamp": "2017-08-15T04:50:37.831000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0030"
+        }, 
+        "free_bikes": 4, 
+        "id": "3367c1e1dbf73caf7c10e4c96a92f58d", 
+        "latitude": 49.282759, 
+        "longitude": -123.106955, 
+        "name": "0030 Abbott & Cordova", 
+        "timestamp": "2017-08-15T04:50:37.837000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 28, 
+          "status": "online", 
+          "uid": "0033"
+        }, 
+        "free_bikes": 28, 
+        "id": "918fc269911bc2c41318b1c35250f9b8", 
+        "latitude": 49.291285, 
+        "longitude": -123.13526, 
+        "name": "0033 Robson & Denman", 
+        "timestamp": "2017-08-15T04:50:37.840000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0039"
+        }, 
+        "free_bikes": 1, 
+        "id": "fad9ebcf614dd1a72593a34072ff76f8", 
+        "latitude": 49.279938, 
+        "longitude": -123.127478, 
+        "name": "0039 Helmcken & Burrard", 
+        "timestamp": "2017-08-15T04:50:37.846000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0040"
+        }, 
+        "free_bikes": 9, 
+        "id": "fe9812c2695bd2fe995399ee9710f375", 
+        "latitude": 49.28534, 
+        "longitude": -123.138523, 
+        "name": "0040 Cardero & Davie", 
+        "timestamp": "2017-08-15T04:50:37.848000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0041"
+        }, 
+        "free_bikes": 7, 
+        "id": "54d3c2abd5ed59f2a142ae095e762193", 
+        "latitude": 49.289581, 
+        "longitude": -123.132184, 
+        "name": "0041 Cardero & Robson", 
+        "timestamp": "2017-08-15T04:50:37.855000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0044"
+        }, 
+        "free_bikes": 11, 
+        "id": "5f339aa807e6691017fed24614917b2e", 
+        "latitude": 49.273428, 
+        "longitude": -123.127854, 
+        "name": "0044 Richards & Beach", 
+        "timestamp": "2017-08-15T04:50:37.871000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0047"
+        }, 
+        "free_bikes": 8, 
+        "id": "25318ec3e06fae1397a3a2f645104149", 
+        "latitude": 49.28972, 
+        "longitude": -123.144028, 
+        "name": "0047 Chilco & Beach", 
+        "timestamp": "2017-08-15T04:50:37.875000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 12, 
+          "status": "online", 
+          "uid": "0048"
+        }, 
+        "free_bikes": 5, 
+        "id": "444991edc9550be0908f032da5e3c95f", 
+        "latitude": 49.285253, 
+        "longitude": -123.134356, 
+        "name": "0048 Comox & Broughton", 
+        "timestamp": "2017-08-15T04:50:37.876000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 22, 
+          "status": "online", 
+          "uid": "0050"
+        }, 
+        "free_bikes": 10, 
+        "id": "434b6f4e7fc30198f901b60fc905f609", 
+        "latitude": 49.283343, 
+        "longitude": -123.131099, 
+        "name": "0050 Bute & Comox", 
+        "timestamp": "2017-08-15T04:50:37.876000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0058"
+        }, 
+        "free_bikes": 6, 
+        "id": "1e2abcdb2d6cfd5af3cad754928ba72c", 
+        "latitude": 49.278283, 
+        "longitude": -123.118612, 
+        "name": "0058 Homer & Smithe", 
+        "timestamp": "2017-08-15T04:50:37.894000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 26, 
+          "status": "online", 
+          "uid": "0060"
+        }, 
+        "free_bikes": 10, 
+        "id": "be14efdc86dedd6a8cd338e78ab4e7c7", 
+        "latitude": 49.28526, 
+        "longitude": -123.141809, 
+        "name": "0060 Bidwell & Beach", 
+        "timestamp": "2017-08-15T04:50:37.896000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0069"
+        }, 
+        "free_bikes": 4, 
+        "id": "71c064fa93cab5f0b7306e6c923b77c4", 
+        "latitude": 49.2653, 
+        "longitude": -123.13811, 
+        "name": "0069 7th & Granville", 
+        "timestamp": "2017-08-15T04:50:37.907000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0071"
+        }, 
+        "free_bikes": 7, 
+        "id": "8dc684732a2a25bdf63ec0ecccee4e6e", 
+        "latitude": 49.25894, 
+        "longitude": -123.139272, 
+        "name": "0071 14th & Granville", 
+        "timestamp": "2017-08-15T04:50:37.909000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0072"
+        }, 
+        "free_bikes": 9, 
+        "id": "686c0fdb962e26e274d81fc286c010dd", 
+        "latitude": 49.258763, 
+        "longitude": -123.115392, 
+        "name": "0072 14th & Cambie", 
+        "timestamp": "2017-08-15T04:50:37.910000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0073"
+        }, 
+        "free_bikes": 8, 
+        "id": "0cf6cd1809fa7f510812f5b052f578c4", 
+        "latitude": 49.266724, 
+        "longitude": -123.104824, 
+        "name": "0073 Ontario & 5th", 
+        "timestamp": "2017-08-15T04:50:37.911000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 30, 
+          "status": "online", 
+          "uid": "0078"
+        }, 
+        "free_bikes": 15, 
+        "id": "8c9ea7f2132376859ef34fab981d6932", 
+        "latitude": 49.276436, 
+        "longitude": -123.11877, 
+        "name": "0078 Nelson & Mainland", 
+        "timestamp": "2017-08-15T04:50:37.916000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 30, 
+          "status": "online", 
+          "uid": "0079"
+        }, 
+        "free_bikes": 4, 
+        "id": "1d4153659a0a0a2089078c739df6737d", 
+        "latitude": 49.277844, 
+        "longitude": -123.120942, 
+        "name": "0079 Nelson & Richards", 
+        "timestamp": "2017-08-15T04:50:37.917000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0081"
+        }, 
+        "free_bikes": 8, 
+        "id": "fbb4c06b719596c21f91fd51ef6d4710", 
+        "latitude": 49.265089, 
+        "longitude": -123.119425, 
+        "name": "0081 7th & Heather", 
+        "timestamp": "2017-08-15T04:50:37.926000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0092"
+        }, 
+        "free_bikes": 12, 
+        "id": "00fa94ad698dc4a9e4d708d6fd32f294", 
+        "latitude": 49.291909, 
+        "longitude": -123.140713, 
+        "name": "0092 Chilco & Barclay", 
+        "timestamp": "2017-08-15T04:50:37.938000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0093"
+        }, 
+        "free_bikes": 14, 
+        "id": "efa947b901a2cf85b58320b3ad26a2fe", 
+        "latitude": 49.293257, 
+        "longitude": -123.138563, 
+        "name": "0093 Chilco & Robson", 
+        "timestamp": "2017-08-15T04:50:37.939000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0107"
+        }, 
+        "free_bikes": 6, 
+        "id": "6c0de983fb47a3439a9e3c36a3d15804", 
+        "latitude": 49.263837, 
+        "longitude": -123.105173, 
+        "name": "0107 8th & Ontario", 
+        "timestamp": "2017-08-15T04:50:37.945000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0109"
+        }, 
+        "free_bikes": 12, 
+        "id": "51e4d3731aebbf9c3186f310a08de6c8", 
+        "latitude": 49.265605, 
+        "longitude": -123.152566, 
+        "name": "0109 7th & Arbutus", 
+        "timestamp": "2017-08-15T04:50:37.961000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 40, 
+          "status": "online", 
+          "uid": "0113"
+        }, 
+        "free_bikes": 11, 
+        "id": "56fef9ba0af67a4ff3e661a8e02c0b08", 
+        "latitude": 49.257654, 
+        "longitude": -123.153212, 
+        "name": "0113 Arbutus & 16th", 
+        "timestamp": "2017-08-15T04:50:37.965000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0133"
+        }, 
+        "free_bikes": 10, 
+        "id": "2781435bde344e1b64f1bebac6bc9008", 
+        "latitude": 49.256825, 
+        "longitude": -123.105234, 
+        "name": "0133 Ontario & 16th", 
+        "timestamp": "2017-08-15T04:50:37.977000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0138"
+        }, 
+        "free_bikes": 8, 
+        "id": "fedff7a263c182df94bda7307059cc52", 
+        "latitude": 49.277141, 
+        "longitude": -123.122589, 
+        "name": "0138 Richards & Helmcken", 
+        "timestamp": "2017-08-15T04:50:37.980000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0148"
+        }, 
+        "free_bikes": 18, 
+        "id": "f43a79c79ee8a661a75fcb2b200fe360", 
+        "latitude": 49.275909, 
+        "longitude": -123.102009, 
+        "name": "0148 Quebec & Milross", 
+        "timestamp": "2017-08-15T04:50:37.983000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0173"
+        }, 
+        "free_bikes": 15, 
+        "id": "32a61a8593e060aa714fb79801169f1d", 
+        "latitude": 49.269501, 
+        "longitude": -123.10947, 
+        "name": "0173 Columbia & 2nd", 
+        "timestamp": "2017-08-15T04:50:37.996000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 32, 
+          "status": "online", 
+          "uid": "0174"
+        }, 
+        "free_bikes": 15, 
+        "id": "8ff8ce5ca1c906b3c329a0a289ecaf91", 
+        "latitude": 49.270227, 
+        "longitude": -123.104786, 
+        "name": "0174 1st & Ontario", 
+        "timestamp": "2017-08-15T04:50:37.997000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 30, 
+          "status": "online", 
+          "uid": "0112"
+        }, 
+        "free_bikes": 8, 
+        "id": "4cb84c9a3743287019ae00ceef9a1cd3", 
+        "latitude": 49.262255, 
+        "longitude": -123.126217, 
+        "name": "0112 10th & Oak", 
+        "timestamp": "2017-08-15T04:50:37.963000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0166"
+        }, 
+        "free_bikes": 6, 
+        "id": "5fc29e0ac42c11abb45bf12aaeb925bd", 
+        "latitude": 49.261742, 
+        "longitude": -123.13148, 
+        "name": "0166 Alder & 11th", 
+        "timestamp": "2017-08-15T04:50:37.993000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 12, 
+          "status": "online", 
+          "uid": "0130"
+        }, 
+        "free_bikes": 4, 
+        "id": "0d1b5c62f8d22e3650811df55596e25b", 
+        "latitude": 49.256845, 
+        "longitude": -123.120071, 
+        "name": "0130 Heather & 16th", 
+        "timestamp": "2017-08-15T04:50:37.975000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 30, 
+          "status": "online", 
+          "uid": "0155"
+        }, 
+        "free_bikes": 14, 
+        "id": "e44c2235dd603dbee54fe08f7543e85a", 
+        "latitude": 49.276144, 
+        "longitude": -123.151272, 
+        "name": "0155 Arbutus & McNicoll", 
+        "timestamp": "2017-08-15T04:50:37.990000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0167"
+        }, 
+        "free_bikes": 8, 
+        "id": "7b5a7cd97ec233da9a3e21d438ed11b7", 
+        "latitude": 49.282266, 
+        "longitude": -123.102165, 
+        "name": "0167 Cordova & Columbia", 
+        "timestamp": "2017-08-15T04:50:37.993000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0159"
+        }, 
+        "free_bikes": 5, 
+        "id": "3596b4831ee2ea7812de753b32306835", 
+        "latitude": 49.268339, 
+        "longitude": -123.157443, 
+        "name": "0159 Vine & 4th", 
+        "timestamp": "2017-08-15T04:50:37.991000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0110"
+        }, 
+        "free_bikes": 2, 
+        "id": "826af7eee4ce28b6fa4b4f0211305792", 
+        "latitude": 49.267222, 
+        "longitude": -123.153157, 
+        "name": "0110 5th & Arbutus", 
+        "timestamp": "2017-08-15T04:50:37.962000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0165"
+        }, 
+        "free_bikes": 7, 
+        "id": "38b167a4690a1ac1ed8339a2bd8160ca", 
+        "latitude": 49.26712, 
+        "longitude": -123.10937, 
+        "name": "0165 Columbia & 4th", 
+        "timestamp": "2017-08-15T04:50:37.992000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 32, 
+          "status": "online", 
+          "uid": "0052"
+        }, 
+        "free_bikes": 14, 
+        "id": "f97d5bf41f35aa181288429fb52e3488", 
+        "latitude": 49.284605, 
+        "longitude": -123.108662, 
+        "name": "0052 Cambie & Water", 
+        "timestamp": "2017-08-15T04:50:37.877000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 22, 
+          "status": "online", 
+          "uid": "0024"
+        }, 
+        "free_bikes": 0, 
+        "id": "fbb1d30d7f30b049873f5be5688563d4", 
+        "latitude": 49.28602, 
+        "longitude": -123.116624, 
+        "name": "0024 Hornby & Pender", 
+        "timestamp": "2017-08-15T04:50:37.824000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0151"
+        }, 
+        "free_bikes": 12, 
+        "id": "b4e5c6c4adfcbb28362f9b1c13549779", 
+        "latitude": 49.267817, 
+        "longitude": -123.143142, 
+        "name": "0151 Pine & 4th", 
+        "timestamp": "2017-08-15T04:50:37.986000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0055"
+        }, 
+        "free_bikes": 1, 
+        "id": "f1ca711137cde59e824167a4274df888", 
+        "latitude": 49.279342, 
+        "longitude": -123.101822, 
+        "name": "0055 Keefer & Columbia", 
+        "timestamp": "2017-08-15T04:50:37.891000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0070"
+        }, 
+        "free_bikes": 4, 
+        "id": "96bf713e60bc35cc2feb5fd53a4f3471", 
+        "latitude": 49.262598, 
+        "longitude": -123.138921, 
+        "name": "0070 10th & Granville", 
+        "timestamp": "2017-08-15T04:50:37.908000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0172"
+        }, 
+        "free_bikes": 5, 
+        "id": "61901a235d4cfceb7f8f2c3888b98617", 
+        "latitude": 49.262206, 
+        "longitude": -123.109091, 
+        "name": "0172 10th & Columbia", 
+        "timestamp": "2017-08-15T04:50:37.995000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0201"
+        }, 
+        "free_bikes": 10, 
+        "id": "f3708906ec71348f5a42579fede36a0d", 
+        "latitude": 49.288682, 
+        "longitude": -123.11818, 
+        "name": "0201 Shaw Tower", 
+        "timestamp": "2017-08-15T04:50:38.003000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 26, 
+          "status": "online", 
+          "uid": "0031"
+        }, 
+        "free_bikes": 22, 
+        "id": "0438114d2e6b96118de69bc9775bb21e", 
+        "latitude": 49.28803, 
+        "longitude": -123.142135, 
+        "name": "0031 Morton & Denman", 
+        "timestamp": "2017-08-15T04:50:37.839000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 30, 
+          "status": "online", 
+          "uid": "0028"
+        }, 
+        "free_bikes": 25, 
+        "id": "e75e83499d3fa2e174dc2a8ffd238119", 
+        "latitude": 49.287528, 
+        "longitude": -123.142139, 
+        "name": "0028 Davie & Beach", 
+        "timestamp": "2017-08-15T04:50:37.835000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 22, 
+          "status": "online", 
+          "uid": "0196"
+        }, 
+        "free_bikes": 11, 
+        "id": "dd1ad7ff8c5abab55427932b12a19d77", 
+        "latitude": 49.277213, 
+        "longitude": -123.129625, 
+        "name": "0196 Drake & Hornby", 
+        "timestamp": "2017-08-15T04:50:38.001000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0187"
+        }, 
+        "free_bikes": 4, 
+        "id": "4d913e25ddcac82b0859834506865622", 
+        "latitude": 49.282014, 
+        "longitude": -123.133101, 
+        "name": "0187 Bute & Davie", 
+        "timestamp": "2017-08-15T04:50:37.999000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0204"
+        }, 
+        "free_bikes": 11, 
+        "id": "9449a6a83fbf88452e384350e5ac95b7", 
+        "latitude": 49.271741, 
+        "longitude": -123.155421, 
+        "name": "0204 York & Yew", 
+        "timestamp": "2017-08-15T04:50:38.005000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 24, 
+          "status": "online", 
+          "uid": "0129"
+        }, 
+        "free_bikes": 8, 
+        "id": "f1a955c10ba95eedffae262bf73fdaed", 
+        "latitude": 49.280345, 
+        "longitude": -123.117633, 
+        "name": "0129 Richards & Robson", 
+        "timestamp": "2017-08-15T04:50:37.974000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0132"
+        }, 
+        "free_bikes": 3, 
+        "id": "521c2122c791ed038168c3b8ff24061b", 
+        "latitude": 49.25849, 
+        "longitude": -123.104799, 
+        "name": "0132 14th & Ontario", 
+        "timestamp": "2017-08-15T04:50:37.976000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 14, 
+          "status": "online", 
+          "uid": "0119"
+        }, 
+        "free_bikes": 9, 
+        "id": "44fa0567cb69e2a27c516b5a2a2c3403", 
+        "latitude": 49.268298, 
+        "longitude": -123.102539, 
+        "name": "0119 3rd & Quebec", 
+        "timestamp": "2017-08-15T04:50:37.971000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 12, 
+          "status": "online", 
+          "uid": "0203"
+        }, 
+        "free_bikes": 6, 
+        "id": "d145b7498709289702095a4a2fcb2e03", 
+        "latitude": 49.258864, 
+        "longitude": -123.14353, 
+        "name": "0203 Pine & 14th", 
+        "timestamp": "2017-08-15T04:50:38.004000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 20, 
+          "status": "online", 
+          "uid": "0208"
+        }, 
+        "free_bikes": 11, 
+        "id": "dedf63211a29e2b70b37f5b7936fd964", 
+        "latitude": 49.263649, 
+        "longitude": -123.152421, 
+        "name": "0208 Arbutus Greenway & Broadway", 
+        "timestamp": "2017-08-15T04:50:38.008000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0198"
+        }, 
+        "free_bikes": 5, 
+        "id": "c0186ef540fb07c7be595d30a1641b64", 
+        "latitude": 49.265551, 
+        "longitude": -123.100323, 
+        "name": "0198 6th & Main", 
+        "timestamp": "2017-08-15T04:50:38.002000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0153"
+        }, 
+        "free_bikes": 7, 
+        "id": "57e928d8c30fab0ebffb3ede850f89d6", 
+        "latitude": 49.266774, 
+        "longitude": -123.141135, 
+        "name": "0153 Arbutus Greenway & Fir", 
+        "timestamp": "2017-08-15T04:50:37.988000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 16, 
+          "status": "online", 
+          "uid": "0140"
+        }, 
+        "free_bikes": 8, 
+        "id": "8d6f0cbf7d44d2908c8ce73ed00dbf66", 
+        "latitude": 49.265336, 
+        "longitude": -123.145823, 
+        "name": "0140 Burrard & 7th", 
+        "timestamp": "2017-08-15T04:50:37.981000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 18, 
+          "status": "online", 
+          "uid": "0218"
+        }, 
+        "free_bikes": 7, 
+        "id": "1648ead5ea617d2cea115869d9516f5e", 
+        "latitude": 49.276294, 
+        "longitude": -123.106534, 
+        "name": "0218 Carrall & Seawall", 
+        "timestamp": "2017-08-15T04:50:38.011000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 32, 
+          "status": "online", 
+          "uid": "0188"
+        }, 
+        "free_bikes": 5, 
+        "id": "1755ba8827211625c4e973cab7adf3f6", 
+        "latitude": 49.27199, 
+        "longitude": -123.134891, 
+        "name": "0188 Granville Island Public Market", 
+        "timestamp": "2017-08-15T04:50:38Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "bank_card": false, 
+          "slots": 28, 
+          "status": "online", 
+          "uid": "0002"
+        }, 
+        "free_bikes": 7, 
+        "id": "e12234b6f1299d178f34bffaca92f043", 
+        "latitude": 49.285871, 
+        "longitude": -123.12105, 
+        "name": "0002 Burrard Station", 
+        "timestamp": "2017-08-15T04:50:37.806000Z"
+      }
+    ]
+  }
+}

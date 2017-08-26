@@ -1,0 +1,74 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-serfaus", 
+    "id": "nextbike-serfaus", 
+    "location": {
+      "city": "Serfaus", 
+      "country": "AT", 
+      "latitude": 47.0387, 
+      "longitude": 10.6048
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "3650", 
+          "slots": 10, 
+          "uid": "366873"
+        }, 
+        "free_bikes": 0, 
+        "id": "1008dc84b9479a76204202cbf9bdb090", 
+        "latitude": 47.040569, 
+        "longitude": 10.597024, 
+        "name": "Seilbahn", 
+        "timestamp": "2017-08-15T04:50:11.619000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "35023", 
+            "35017", 
+            "35016", 
+            "35014", 
+            "35011"
+          ], 
+          "number": "3649", 
+          "slots": 12, 
+          "uid": "532274"
+        }, 
+        "free_bikes": 5, 
+        "id": "eb5c590452605c5c16bfd1e46d40bb5a", 
+        "latitude": 47.038368, 
+        "longitude": 10.608066, 
+        "name": "Lager", 
+        "timestamp": "2017-08-15T04:50:11.626000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "35024", 
+            "35022", 
+            "35020", 
+            "35018", 
+            "35015"
+          ], 
+          "number": "3652", 
+          "slots": 12, 
+          "uid": "366881"
+        }, 
+        "free_bikes": 5, 
+        "id": "32e2467cc97dea0342a8338ba37cd3d6", 
+        "latitude": 47.038944, 
+        "longitude": 10.614835, 
+        "name": "P+R Ortseingang ", 
+        "timestamp": "2017-08-15T04:50:11.626000Z"
+      }
+    ]
+  }
+}

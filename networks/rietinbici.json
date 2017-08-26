@@ -1,0 +1,70 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/rietinbici", 
+    "id": "rietinbici", 
+    "location": {
+      "city": "Rieti", 
+      "country": "IT", 
+      "latitude": 42.40262397383167, 
+      "longitude": 12.86099910736084
+    }, 
+    "name": "Rietinbici", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Piazza Mazzini", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "050d8f2be90c4e8dfddc76b50be692be", 
+        "latitude": 42.40503432836687, 
+        "longitude": 12.862463593482971, 
+        "name": "Stazione", 
+        "timestamp": "2017-08-15T04:47:04.741000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Vittorio Emanuele II", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "8a9645de2f3f920b43fad8cf5c6192d5", 
+        "latitude": 42.40259624530317, 
+        "longitude": 12.8608837723732, 
+        "name": "Comune", 
+        "timestamp": "2017-08-15T04:47:04.761000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Piazza Cavour", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "a7633ab57ce4f2d8b034562b29f230b6", 
+        "latitude": 42.39944798733591, 
+        "longitude": 12.860811352729797, 
+        "name": "Ponte Romano", 
+        "timestamp": "2017-08-15T04:47:04.765000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Piazza Bachelet", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "757681d03af78aef7bcf869a4eb3ba8c", 
+        "latitude": 42.39982729196234, 
+        "longitude": 12.857775092124939, 
+        "name": "Tribunale", 
+        "timestamp": "2017-08-15T04:47:04.766000Z"
+      }
+    ]
+  }
+}

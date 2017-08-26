@@ -1,0 +1,1552 @@
+{
+  "network": {
+    "company": [
+      "Mainzer Verkehrsgesellschaft mbH (MVG)"
+    ], 
+    "href": "/v2/networks/mvgmeinrad", 
+    "id": "mvgmeinrad", 
+    "location": {
+      "city": "Mainz", 
+      "country": "DE", 
+      "latitude": 49.992862, 
+      "longitude": 8.247253
+    }, 
+    "name": "MVGmeinrad", 
+    "stations": [
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Rheinallee", 
+          "slots": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "f15ec61d488710e28f5858359813681f", 
+        "latitude": 50.019397, 
+        "longitude": 8.24673, 
+        "name": "Schott AG / Nordbahnhof", 
+        "timestamp": "2017-08-15T04:46:13.273000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Grebenstra\u00dfe / Ecke Liebfrauenstra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 6, 
+        "id": "5d19e99299d4773c3fa2a801ea72a171", 
+        "latitude": 49.998436, 
+        "longitude": 8.275876, 
+        "name": "Erbacher Hof", 
+        "timestamp": "2017-08-15T04:46:13.101000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Haltestelle Hindenburgplatz", 
+          "slots": 15
+        }, 
+        "free_bikes": 1, 
+        "id": "cc4d1ebf6a454ddb6f09e230cba41f7e", 
+        "latitude": 50.006208, 
+        "longitude": 8.263618, 
+        "name": "Hindenburgplatz", 
+        "timestamp": "2017-08-15T04:46:13.240000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Haltestelle Eaubonner Stra\u00dfe", 
+          "slots": 6
+        }, 
+        "free_bikes": 2, 
+        "id": "0fab7418b2e5ee3cb03acf7e75ea12b8", 
+        "latitude": 50.0187, 
+        "longitude": 8.170515, 
+        "name": "Eaubonner Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.292000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Dagobertstra\u00dfe", 
+          "slots": 24
+        }, 
+        "free_bikes": 7, 
+        "id": "08e9293fa3edda6d8b73d051dd887423", 
+        "latitude": 49.99579, 
+        "longitude": 8.281683, 
+        "name": "Malakoff-Terrasse 2", 
+        "timestamp": "2017-08-15T04:46:13.156000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "Haltestelle H\u00f6fchen / Alte Universit\u00e4t", 
+          "slots": 30
+        }, 
+        "free_bikes": 0, 
+        "id": "69a93a41957078270bf0bb99ef4581d5", 
+        "latitude": 49.999648, 
+        "longitude": 8.271715, 
+        "name": "H\u00f6fchen", 
+        "timestamp": "2017-08-15T04:46:13.105000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Haltestelle Laubenheimer Stra\u00dfe / Friedrich-Ebert-", 
+          "slots": 12
+        }, 
+        "free_bikes": 7, 
+        "id": "ba9e445933a42ca7a1e26353d38168e0", 
+        "latitude": 49.9757, 
+        "longitude": 8.296416, 
+        "name": "Laubenheimer Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.247000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Rheinallee / Ecke An der Kaiserbr\u00fccke", 
+          "slots": 6
+        }, 
+        "free_bikes": 1, 
+        "id": "93bb124d7e9b0e32bb1e062f1952c793", 
+        "latitude": 50.020204, 
+        "longitude": 8.24584, 
+        "name": "Nordbahnhof", 
+        "timestamp": "2017-08-15T04:46:13.315000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Winterstra\u00dfe", 
+          "slots": 6
+        }, 
+        "free_bikes": 6, 
+        "id": "8283c0aa33782b85abb141ec3b4728fe", 
+        "latitude": 50.001612, 
+        "longitude": 8.306217, 
+        "name": "B\u00fcrgerhaus Kostheim", 
+        "timestamp": "2017-08-15T04:46:13.306000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Am Judensand / Ecke Drosselweg", 
+          "slots": 12
+        }, 
+        "free_bikes": 1, 
+        "id": "0f3658e8f344cf59a18a4a91268eeb08", 
+        "latitude": 50.005629, 
+        "longitude": 8.244287, 
+        "name": "Berufsschulzentrum", 
+        "timestamp": "2017-08-15T04:46:13.297000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Holzhofstra\u00dfe / Ecke Dagobertstra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 10, 
+        "id": "1c4bb3ed6f579fa8d1a99343f659c5c4", 
+        "latitude": 49.994242, 
+        "longitude": 8.277411, 
+        "name": "Bahnhof R\u00f6misches Theater 2", 
+        "timestamp": "2017-08-15T04:46:13.047000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Haltestelle Schusterstra\u00dfe / Bauerngasse", 
+          "slots": 18
+        }, 
+        "free_bikes": 1, 
+        "id": "abcb633e8b38410f87214ab72f4cd8ba", 
+        "latitude": 50.00252, 
+        "longitude": 8.271294, 
+        "name": "Flachsmarkt", 
+        "timestamp": "2017-08-15T04:46:13.097000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Haltestelle Feldbergplatz", 
+          "slots": 18
+        }, 
+        "free_bikes": 11, 
+        "id": "12140c48afacf219696eda1af994393b", 
+        "latitude": 50.01067, 
+        "longitude": 8.263784, 
+        "name": "Mainzer Stadtwerke AG", 
+        "timestamp": "2017-08-15T04:46:13.238000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Rathausstra\u00dfe / Ecke Mainzer Stra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 16, 
+        "id": "15e39b443551e99b111a2770e88748a3", 
+        "latitude": 50.007549, 
+        "longitude": 8.283273, 
+        "name": "Kastel Bahnhof", 
+        "timestamp": "2017-08-15T04:46:13.155000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Otto-Brunfels-Kreisel", 
+          "slots": 12
+        }, 
+        "free_bikes": 0, 
+        "id": "5f8df0143c4e1f302e853cf94d615544", 
+        "latitude": 49.986414, 
+        "longitude": 8.295064, 
+        "name": "Jugendherberge", 
+        "timestamp": "2017-08-15T04:46:13.254000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Mainufer / Ecke Maaraustra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 7, 
+        "id": "694e9979dfe5f9c701dc44851b42c760", 
+        "latitude": 49.999123, 
+        "longitude": 8.306297, 
+        "name": "Weinprobierstand", 
+        "timestamp": "2017-08-15T04:46:13.221000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Max-Hufschmidt-Stra\u00dfe / Ecke Am Alten Wasserwerk", 
+          "slots": 12
+        }, 
+        "free_bikes": 7, 
+        "id": "05f5d7ae2f8a8b9c470653ce9ff38ea0", 
+        "latitude": 49.971746, 
+        "longitude": 8.285507, 
+        "name": "Am Gro\u00dfberg", 
+        "timestamp": "2017-08-15T04:46:13.215000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Frauenlobstra\u00dfe / Ecke Hafenstra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 16, 
+        "id": "48498e16217106977554a14e2d0242ad", 
+        "latitude": 50.010207, 
+        "longitude": 8.266174, 
+        "name": "Hafenstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.150000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Gartenfeldplatz / Ecke Kurf\u00fcrstenstra\u00dfe", 
+          "slots": 24
+        }, 
+        "free_bikes": 3, 
+        "id": "d0b59acd0ea241f81d412d997d72a080", 
+        "latitude": 50.005819, 
+        "longitude": 8.25949, 
+        "name": "Gartenfeldplatz", 
+        "timestamp": "2017-08-15T04:46:13.092000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Staudingerweg / Ecke Johann-Joachim-Becher-Weg", 
+          "slots": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "fd057d36e4b72d84624175022070374b", 
+        "latitude": 49.991919, 
+        "longitude": 8.234822, 
+        "name": "Uni / Mensa", 
+        "timestamp": "2017-08-15T04:46:13.298000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Diether-von-Isenburg-Stra\u00dfe / Ecke Rheinallee", 
+          "slots": 15
+        }, 
+        "free_bikes": 6, 
+        "id": "c59877860f60a63a4e7c76deac6372e1", 
+        "latitude": 50.007468, 
+        "longitude": 8.270419, 
+        "name": "Kurf\u00fcrstliches Schloss", 
+        "timestamp": "2017-08-15T04:46:13.240000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Gutenberg-Gymnasium / Ecke Nikolaus-Becker-Stra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 15, 
+        "id": "b34c080e63f81dd06616dbb07ae1c708", 
+        "latitude": 49.990063, 
+        "longitude": 8.263731, 
+        "name": "An der Philippsschanze", 
+        "timestamp": "2017-08-15T04:46:13.223000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Johannes-von-M\u00fcllerweg", 
+          "slots": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "0706b18c8a2fff5ca3423c0f44ff7bc5", 
+        "latitude": 49.99441, 
+        "longitude": 8.244186, 
+        "name": "Uni / Forum", 
+        "timestamp": "2017-08-15T04:46:13.147000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Go\u00dflerweg / Ecke Binger Stra\u00dfe", 
+          "slots": 21
+        }, 
+        "free_bikes": 4, 
+        "id": "28e62737d9fcdf5751a65530a6798520", 
+        "latitude": 49.998082, 
+        "longitude": 8.256077, 
+        "name": "Binger Schlag", 
+        "timestamp": "2017-08-15T04:46:13.048000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Treppe Kupferbergterrasse / Terrassenstra\u00dfe", 
+          "slots": 24
+        }, 
+        "free_bikes": 2, 
+        "id": "2774bc01d6a65378589a51a780175654", 
+        "latitude": 49.996899, 
+        "longitude": 8.265247, 
+        "name": "Emmerich-Josef-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.168000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "De-la-Roche-Anlage / Scharnhorststra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 8, 
+        "id": "7942c7605b6a52f3dfbf8ef3e778505a", 
+        "latitude": 50.019992, 
+        "longitude": 8.221492, 
+        "name": "Emrichruhstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.320000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Haltestelle Universit\u00e4t", 
+          "slots": 24
+        }, 
+        "free_bikes": 12, 
+        "id": "80d05b6a27fdc3305935a15cc61afa42", 
+        "latitude": 49.996494, 
+        "longitude": 8.246821, 
+        "name": "Uni / Haupteingang", 
+        "timestamp": "2017-08-15T04:46:13.246000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Salvatorstra\u00dfe / Ecke Zitadellenweg", 
+          "slots": 24
+        }, 
+        "free_bikes": 3, 
+        "id": "cd203b22e87f42526ff1100ef539e5cb", 
+        "latitude": 49.992564, 
+        "longitude": 8.278429, 
+        "name": "Zitadellenweg / Bahnhof R\u00f6misches Theater", 
+        "timestamp": "2017-08-15T04:46:13.159000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Haltestelle Gonsbachg\u00e4rten / An der Bruchspitze", 
+          "slots": 12
+        }, 
+        "free_bikes": 0, 
+        "id": "36544afc9efac95f99b443dce2e911a9", 
+        "latitude": 50.008791, 
+        "longitude": 8.234894, 
+        "name": "Gonsbachg\u00e4rten", 
+        "timestamp": "2017-08-15T04:46:13.279000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Frauenlobstra\u00dfe / Ecke Boppstra\u00dfe", 
+          "slots": 24
+        }, 
+        "free_bikes": 20, 
+        "id": "1548690e539e9802e7aa4d209426c0ec", 
+        "latitude": 50.004664, 
+        "longitude": 8.259934, 
+        "name": "Boppstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.136000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Frauenlobstra\u00dfe / Ecke Forsterstra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 9, 
+        "id": "8cfc6f025cb7a44b45aa7e2c64c4e25c", 
+        "latitude": 50.007725, 
+        "longitude": 8.263179, 
+        "name": "Frauenlobplatz", 
+        "timestamp": "2017-08-15T04:46:13.242000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Canisiusstra\u00dfe / Ecke Weserstra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 7, 
+        "id": "048889f3afe4f673643aff6f3caa73e8", 
+        "latitude": 50.006057, 
+        "longitude": 8.216186, 
+        "name": "Canisiusstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.151000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Holzstra\u00dfe / Ecke Graben", 
+          "slots": 18
+        }, 
+        "free_bikes": 12, 
+        "id": "77df1db442bb1ac6049a91d3c61dea94", 
+        "latitude": 49.996151, 
+        "longitude": 8.276497, 
+        "name": "Holzstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.172000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Am 87er Denkmal / Bau B Parkplatz", 
+          "slots": 12
+        }, 
+        "free_bikes": 11, 
+        "id": "6e3835f2999db1d5c905c0810919f309", 
+        "latitude": 49.993393, 
+        "longitude": 8.273043, 
+        "name": "Zitadelle", 
+        "timestamp": "2017-08-15T04:46:13.158000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Taunusstra\u00dfe / Ecke Kaiserstra\u00dfe", 
+          "slots": 21
+        }, 
+        "free_bikes": 3, 
+        "id": "ae02b7e0d0cb9bf00b9aeb1b964fb3e2", 
+        "latitude": 50.00979, 
+        "longitude": 8.268872, 
+        "name": "Kaisertor", 
+        "timestamp": "2017-08-15T04:46:13.251000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Gro\u00dfe Bleiche / Ecke Klarastra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 5, 
+        "id": "80c4995fba2dc186e938afba9037e2b1", 
+        "latitude": 50.002631, 
+        "longitude": 8.267062, 
+        "name": "Gro\u00dfe Bleiche", 
+        "timestamp": "2017-08-15T04:46:13.247000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Treppenaufgang", 
+          "slots": 12
+        }, 
+        "free_bikes": 8, 
+        "id": "37befa15986f61e6c743ca143827d3b0", 
+        "latitude": 50.00098, 
+        "longitude": 8.27668, 
+        "name": "Rathaus-Parkhaus", 
+        "timestamp": "2017-08-15T04:46:13.217000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Haltestelle Bahnstra\u00dfe / Ecke Albert-Stohr-Stra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 6, 
+        "id": "60847705900d3baaf9b9b403fb7b64c3", 
+        "latitude": 49.981846, 
+        "longitude": 8.245534, 
+        "name": "Bahnstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.186000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Bahnhofplatz / Schottstra\u00dfe ", 
+          "slots": 24
+        }, 
+        "free_bikes": 2, 
+        "id": "ba8ebf68848264bf24376726511882e8", 
+        "latitude": 50.001963, 
+        "longitude": 8.260375, 
+        "name": "HBF / Schottstra\u00dfe 1", 
+        "timestamp": "2017-08-15T04:46:13.090000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Haltestelle Friedrich-von-Pfeiffer-Weg", 
+          "slots": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "e49b2732690235cbc1a2ee34f242f0f4", 
+        "latitude": 49.994218, 
+        "longitude": 8.237035, 
+        "name": "Uni / Wittichweg", 
+        "timestamp": "2017-08-15T04:46:13.182000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Kirsteinstra\u00dfe / Hildegardis-Krankenhaus", 
+          "slots": 18
+        }, 
+        "free_bikes": 3, 
+        "id": "59d8b73a93811faecabe733d858adaee", 
+        "latitude": 49.990781, 
+        "longitude": 8.250512, 
+        "name": "Hildegardis-Krankenhaus", 
+        "timestamp": "2017-08-15T04:46:13.122000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Verkehrs Center Mainz", 
+          "slots": 24
+        }, 
+        "free_bikes": 3, 
+        "id": "c53b9c9bb2d7f5d3095acc921b4ffcd7", 
+        "latitude": 50.002285, 
+        "longitude": 8.2598, 
+        "name": "HBF / Bonifaziusstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.054000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Eleonorenstra\u00dfe / Ecke Johannes-Go\u00dfner-Stra\u00dfe", 
+          "slots": 9
+        }, 
+        "free_bikes": 6, 
+        "id": "150356ec2e254c2054264339853f8a26", 
+        "latitude": 50.016382, 
+        "longitude": 8.273357, 
+        "name": "Eleonorenstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.201000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Haltestelle Lessingstra\u00dfe", 
+          "slots": 15
+        }, 
+        "free_bikes": 12, 
+        "id": "733502abec7ac01c537b5838d98729b3", 
+        "latitude": 50.006344, 
+        "longitude": 8.25508, 
+        "name": "Lessingstra\u00dfe 2", 
+        "timestamp": "2017-08-15T04:46:13.047000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Haltestelle Lessingstra\u00dfe", 
+          "slots": 9
+        }, 
+        "free_bikes": 7, 
+        "id": "48d41085ae999f4aff8dd0195bc7436e", 
+        "latitude": 50.006081, 
+        "longitude": 8.255362, 
+        "name": "Lessingstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.187000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Rheinufer / Kastel", 
+          "slots": 18
+        }, 
+        "free_bikes": 14, 
+        "id": "48d86164896f3a5d2e32922411e024cf", 
+        "latitude": 50.00605, 
+        "longitude": 8.282393, 
+        "name": "Reduit", 
+        "timestamp": "2017-08-15T04:46:13.091000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Haltestelle King-Park-Center / Bruchwegstation", 
+          "slots": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "d2da7913e634a8180c2680fe07268935", 
+        "latitude": 49.999747, 
+        "longitude": 8.246484, 
+        "name": "Dr.-Martin-Luther-King-Weg", 
+        "timestamp": "2017-08-15T04:46:13.237000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Goethestra\u00dfe / Haltestelle S\u00f6mmerringstra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 11, 
+        "id": "5dfb309e4cc00e59921c54b45ca38ceb", 
+        "latitude": 50.012415, 
+        "longitude": 8.256019, 
+        "name": "S\u00f6mmerringstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.062000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Oppenheimer Stra\u00dfe / Ecke Rheintalstra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 7, 
+        "id": "fb9abd9c00150d48cafd78dceada7f05", 
+        "latitude": 49.961201, 
+        "longitude": 8.313636, 
+        "name": "Laubenheim Bahnhof", 
+        "timestamp": "2017-08-15T04:46:13.166000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Emmeranstra\u00dfe / Ecke Am Kronberger Hof", 
+          "slots": 12
+        }, 
+        "free_bikes": 11, 
+        "id": "bcbd552049e18a41925019c2bbeeffe3", 
+        "latitude": 50.000495, 
+        "longitude": 8.268703, 
+        "name": "Kronberger Hof", 
+        "timestamp": "2017-08-15T04:46:13.076000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Haltestelle M\u00fchldreieck", 
+          "slots": 12
+        }, 
+        "free_bikes": 12, 
+        "id": "90446fc121df7412ef0912beb0dc8395", 
+        "latitude": 49.959572, 
+        "longitude": 8.26807, 
+        "name": "M\u00fchldreieck", 
+        "timestamp": "2017-08-15T04:46:13.290000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Rheinstra\u00dfe / Ecke Am Rathaus", 
+          "slots": 9
+        }, 
+        "free_bikes": 8, 
+        "id": "9040dfc5ae78402621da3ace4cfddc6f", 
+        "latitude": 50.00056, 
+        "longitude": 8.27651, 
+        "name": "Rathaus", 
+        "timestamp": "2017-08-15T04:46:13.173000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Haltestelle Goethestra\u00dfe / Kaiser-Wilhelm-Ring", 
+          "slots": 18
+        }, 
+        "free_bikes": 8, 
+        "id": "2994043c381fb9298b440cc0fe2c4c26", 
+        "latitude": 50.009147, 
+        "longitude": 8.252137, 
+        "name": "Goethestra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.058000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Ernst-Ludwig-Platz / Ecke Kaiser-Friedrich-Stra\u00dfe", 
+          "slots": 24
+        }, 
+        "free_bikes": 0, 
+        "id": "35557236fecba2eea3b2e4ce61bec7ef", 
+        "latitude": 50.005138, 
+        "longitude": 8.268792, 
+        "name": "Ernst-Ludwig-Platz", 
+        "timestamp": "2017-08-15T04:46:13.081000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Bismarckplatz / Ecke Kaiser-Karl-Ring", 
+          "slots": 12
+        }, 
+        "free_bikes": 4, 
+        "id": "745de3514870e2a631307b1a59107770", 
+        "latitude": 50.012721, 
+        "longitude": 8.249206, 
+        "name": "Bismarckplatz", 
+        "timestamp": "2017-08-15T04:46:13.053000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Wallaustra\u00dfe / Ecke Neckarstra\u00dfe", 
+          "slots": 9
+        }, 
+        "free_bikes": 5, 
+        "id": "0f1d621f24d2f8730a37ec9a1ade8ea4", 
+        "latitude": 50.01128, 
+        "longitude": 8.259733, 
+        "name": "Neckarstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.145000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Mozartstra\u00dfe / MVG", 
+          "slots": 24
+        }, 
+        "free_bikes": 7, 
+        "id": "bd32176ba7623528d31b0567ac4921bc", 
+        "latitude": 50.014656, 
+        "longitude": 8.251292, 
+        "name": "MVG", 
+        "timestamp": "2017-08-15T04:46:13.074000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Neue Universit\u00e4tsstra\u00dfe / Ecke Schillerstra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 4, 
+        "id": "bc24e17a656030a429e369b9b4d7b4a1", 
+        "latitude": 49.999501, 
+        "longitude": 8.265172, 
+        "name": "Proviantamt", 
+        "timestamp": "2017-08-15T04:46:13.115000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Haltestelle M\u00fcnchfeld", 
+          "slots": 6
+        }, 
+        "free_bikes": 6, 
+        "id": "8a7dcafb96852aa417342702c502495d", 
+        "latitude": 49.996455, 
+        "longitude": 8.230495, 
+        "name": "M\u00fcnchfeld", 
+        "timestamp": "2017-08-15T04:46:13.291000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Haltestelle M\u00fcnchfeld / Mittelinsel", 
+          "slots": 18
+        }, 
+        "free_bikes": 2, 
+        "id": "aecaed40ef3498aa2c095ef71184cfeb", 
+        "latitude": 49.996713, 
+        "longitude": 8.230125, 
+        "name": "M\u00fcnchfeld 2", 
+        "timestamp": "2017-08-15T04:46:13.068000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Bahnhofplatz / Schottstra\u00dfe ", 
+          "slots": 24
+        }, 
+        "free_bikes": 2, 
+        "id": "d970474ae7530402adda90b4b477f553", 
+        "latitude": 50.001885, 
+        "longitude": 8.26043, 
+        "name": "HBF / Schottstra\u00dfe 2", 
+        "timestamp": "2017-08-15T04:46:13.063000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Favorite-Parkhotel / Ecke Karl-Weiser-Stra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 1, 
+        "id": "efac36d8fe9c86ca75553786c35129a0", 
+        "latitude": 49.98996, 
+        "longitude": 8.289667, 
+        "name": "Favorite-Parkhotel", 
+        "timestamp": "2017-08-15T04:46:13.094000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Josef-Ludwig-Platz / Ecke Breite Stra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 2, 
+        "id": "9814af6fc0f655359b6e12db822a8a69", 
+        "latitude": 50.003488, 
+        "longitude": 8.213176, 
+        "name": "Wilhelm-Raabe-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.173000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Fuststra\u00dfe / Ecke Bischofsplatz", 
+          "slots": 6
+        }, 
+        "free_bikes": 2, 
+        "id": "ce4f3264e77a109d9ae58df1a554c8ef", 
+        "latitude": 49.998167, 
+        "longitude": 8.271297, 
+        "name": "Bischofsplatz", 
+        "timestamp": "2017-08-15T04:46:13.071000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "R\u00f6merpassage / Adolf-Kolping-Stra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 17, 
+        "id": "622e014d16415cb5b2fa916bdc3ca732", 
+        "latitude": 50.001679, 
+        "longitude": 8.268061, 
+        "name": "R\u00f6merpassage", 
+        "timestamp": "2017-08-15T04:46:13.038000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Feldbergstra\u00dfe / Ecke Wallaustra\u00dfe", 
+          "slots": 24
+        }, 
+        "free_bikes": 20, 
+        "id": "a784f8cf4ad223903a7728f6dab2751a", 
+        "latitude": 50.010559, 
+        "longitude": 8.260654, 
+        "name": "Feldbergstra\u00dfe ", 
+        "timestamp": "2017-08-15T04:46:13.161000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Bahndamm / Ecke CineStar", 
+          "slots": 24
+        }, 
+        "free_bikes": 12, 
+        "id": "732bf1938fd3c18be12179ae6586885f", 
+        "latitude": 49.993541, 
+        "longitude": 8.278397, 
+        "name": "Bahnhof R\u00f6misches Theater", 
+        "timestamp": "2017-08-15T04:46:13.146000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Haltestelle Hochheimer Stra\u00dfe", 
+          "slots": 6
+        }, 
+        "free_bikes": 2, 
+        "id": "ed2c548ac81ddac3c2ccfcbe6d131bfa", 
+        "latitude": 50.006479, 
+        "longitude": 8.288806, 
+        "name": "Hochheimer Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.101000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Lessingstra\u00dfe / Ecke Leibnizstra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 13, 
+        "id": "c8ffa77d23f0710fe008ec2bd3a2b1dc", 
+        "latitude": 50.007855, 
+        "longitude": 8.257122, 
+        "name": "Lessingplatz", 
+        "timestamp": "2017-08-15T04:46:13.078000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Hechtsheimer Stra\u00dfe / Haltestelle Martin-Luther-St", 
+          "slots": 12
+        }, 
+        "free_bikes": 4, 
+        "id": "d8d6f3de753767260a07717ce9ba09a9", 
+        "latitude": 49.982399, 
+        "longitude": 8.279636, 
+        "name": "Martin-Luther-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.241000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Wilhelm-Quetsch-Stra\u00dfe / Ecke Holunderweg", 
+          "slots": 12
+        }, 
+        "free_bikes": 3, 
+        "id": "177ab0b66f83cbd79c913f2c4f9e7553", 
+        "latitude": 49.971444, 
+        "longitude": 8.234202, 
+        "name": "Wilhelm-Quetsch-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.272000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Juxplatz / Budenheimer Stra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 4, 
+        "id": "27449d131e25e2c83e4440a28c414db3", 
+        "latitude": 50.001048, 
+        "longitude": 8.20473, 
+        "name": "Juxplatz", 
+        "timestamp": "2017-08-15T04:46:13.066000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Sprinterpfad / Bezirkssportanlage", 
+          "slots": 12
+        }, 
+        "free_bikes": 7, 
+        "id": "d277365c54d7a72277c60df287231348", 
+        "latitude": 49.978148, 
+        "longitude": 8.249376, 
+        "name": "Albert-Stohr-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.151000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Berliner Stra\u00dfe / Einkaufszentrum", 
+          "slots": 18
+        }, 
+        "free_bikes": 14, 
+        "id": "d185ad0f3a8df39537b15a6ad10d8f4b", 
+        "latitude": 49.980619, 
+        "longitude": 8.267426, 
+        "name": "Berliner Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.056000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Holzhofstra\u00dfe / Ecke Neutorstra\u00dfe", 
+          "slots": 6
+        }, 
+        "free_bikes": 1, 
+        "id": "17307638cc8c0787a13cf82915e72d90", 
+        "latitude": 49.994167, 
+        "longitude": 8.279175, 
+        "name": "CineStar", 
+        "timestamp": "2017-08-15T04:46:13.251000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Eaubonner Stra\u00dfe / Gonsenheimer Stra\u00dfe", 
+          "slots": 9
+        }, 
+        "free_bikes": 4, 
+        "id": "e93082f172b53689c6ec907fadbe2ff6", 
+        "latitude": 50.020938, 
+        "longitude": 8.178058, 
+        "name": "Gonsenheimer Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.314000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Gro\u00dfe Langgasse / Ecke Spritzengasse", 
+          "slots": 12
+        }, 
+        "free_bikes": 1, 
+        "id": "3551c3bc6ba7ebe4b6628d3adbae53ef", 
+        "latitude": 49.999567, 
+        "longitude": 8.267139, 
+        "name": "Gro\u00dfe Langgasse", 
+        "timestamp": "2017-08-15T04:46:13.088000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Rheinallee / Ecke Kaiserstra\u00dfe", 
+          "slots": 3
+        }, 
+        "free_bikes": 3, 
+        "id": "854e9df2c13d13b39f80b60bf993da29", 
+        "latitude": 50.009258, 
+        "longitude": 8.268757, 
+        "name": "Kaisertor 2", 
+        "timestamp": "2017-08-15T04:46:13.199000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Anzengasse / Turnvater-Jahn-Stra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 0, 
+        "id": "07a7d3518fd24497dddb01120432e5fd", 
+        "latitude": 49.983336, 
+        "longitude": 8.239993, 
+        "name": "Turnvater-Jahn-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.186000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Dagobertstra\u00dfe", 
+          "slots": 24
+        }, 
+        "free_bikes": 7, 
+        "id": "25a452540168598c44605a52791df024", 
+        "latitude": 49.995736, 
+        "longitude": 8.282155, 
+        "name": "Malakoff-Terrasse", 
+        "timestamp": "2017-08-15T04:46:13.120000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Haltestelle Am Sportfeld / Einkaufsmarkt", 
+          "slots": 15
+        }, 
+        "free_bikes": 4, 
+        "id": "8e53a2baff9c76ae09ee04ede8f59cef", 
+        "latitude": 50.007299, 
+        "longitude": 8.208225, 
+        "name": "Am Sportfeld", 
+        "timestamp": "2017-08-15T04:46:13.305000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Ludwigsburger Stra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 8, 
+        "id": "a2639d838feed4a9154a69cad9e770bf", 
+        "latitude": 50.005905, 
+        "longitude": 8.239338, 
+        "name": "Ludwigsburger Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.203000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Kaiserstra\u00dfe / Ecke Schottstra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 3, 
+        "id": "421f8782874cf89e44c253bda9eaf3a3", 
+        "latitude": 50.002232, 
+        "longitude": 8.260978, 
+        "name": "Stadthaus", 
+        "timestamp": "2017-08-15T04:46:13.100000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Lucy-Hillebrandt-Stra\u00dfe", 
+          "slots": 24
+        }, 
+        "free_bikes": 1, 
+        "id": "556491e5fce1a41aea1cbbae5b325c81", 
+        "latitude": 49.987935, 
+        "longitude": 8.228266, 
+        "name": "Hochschule Mainz", 
+        "timestamp": "2017-08-15T04:46:13.286000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Johann-Joachim-Becher-Weg", 
+          "slots": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "da77c5c8d28cd49d663b71605f805ea4", 
+        "latitude": 49.992595, 
+        "longitude": 8.241162, 
+        "name": "Uni / Muschel", 
+        "timestamp": "2017-08-15T04:46:13.060000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Geschwister-Scholl-Stra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 8, 
+        "id": "2d120a003b1985174bd9be265a0ad9dc", 
+        "latitude": 49.985814, 
+        "longitude": 8.266917, 
+        "name": "Pariser Tor", 
+        "timestamp": "2017-08-15T04:46:13.278000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Haltestelle Am Schinnergraben", 
+          "slots": 12
+        }, 
+        "free_bikes": 4, 
+        "id": "3991669a00f63e7b2ab302f65f2951ea", 
+        "latitude": 49.963506, 
+        "longitude": 8.280199, 
+        "name": "Am Schinnergraben", 
+        "timestamp": "2017-08-15T04:46:13.092000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Obere Kreuzstra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 1, 
+        "id": "20a392166c7a8d2e5cacf02282349c05", 
+        "latitude": 50.012979, 
+        "longitude": 8.21816, 
+        "name": "Schwimmbad Mombach", 
+        "timestamp": "2017-08-15T04:46:13.313000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Haltestelle Synagogenplatz / Ecke Josefstra\u00dfe", 
+          "slots": 24
+        }, 
+        "free_bikes": 14, 
+        "id": "9199989f3603fd3701218f10154c2327", 
+        "latitude": 50.008235, 
+        "longitude": 8.259133, 
+        "name": "Synagoge", 
+        "timestamp": "2017-08-15T04:46:13.218000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Hauptstra\u00dfe / Ecke Nestlestra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 10, 
+        "id": "4494016bbe4494e7fe25c821a78c7cd0", 
+        "latitude": 50.02159, 
+        "longitude": 8.228762, 
+        "name": "Mombach Bahnhof", 
+        "timestamp": "2017-08-15T04:46:13.183000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Eingang Hbf West", 
+          "slots": 24
+        }, 
+        "free_bikes": 2, 
+        "id": "29e3ad6143fdac54a47b0c599f707e0d", 
+        "latitude": 50.000392, 
+        "longitude": 8.258629, 
+        "name": "Hauptbahnhof West", 
+        "timestamp": "2017-08-15T04:46:13.211000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Adenauer-Ufer", 
+          "slots": 18
+        }, 
+        "free_bikes": 11, 
+        "id": "212b309af14c07c0fb82d2530af9aa3d", 
+        "latitude": 50.002448, 
+        "longitude": 8.276415, 
+        "name": "Rheingoldhalle", 
+        "timestamp": "2017-08-15T04:46:13.195000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Am Ostergraben / Ecke Uwe-Beyer-Stra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 2, 
+        "id": "2fdabb692dc2f99464faa34438bb52ee", 
+        "latitude": 49.980523, 
+        "longitude": 8.23718, 
+        "name": "Ludwig-Nauth-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.312000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Mainzer Stra\u00dfe / Ecke Zehnthofstra\u00dfe", 
+          "slots": 9
+        }, 
+        "free_bikes": 2, 
+        "id": "9879a3a4fab0fd829558b12a32b20f9b", 
+        "latitude": 50.027014, 
+        "longitude": 8.17327, 
+        "name": "Bahnhof Budenheim", 
+        "timestamp": "2017-08-15T04:46:13.321000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Bastion Martin / Ecke Am Pulverturm", 
+          "slots": 12
+        }, 
+        "free_bikes": 0, 
+        "id": "0b52826db1a1aa7bd393620c34af361a", 
+        "latitude": 49.994222, 
+        "longitude": 8.265903, 
+        "name": "Bastion Martin", 
+        "timestamp": "2017-08-15T04:46:13.311000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Poststra\u00dfe / Florian-Geyer-Stra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 2, 
+        "id": "8de8a707fe1019e5512a705c4baaff00", 
+        "latitude": 49.989222, 
+        "longitude": 8.178581, 
+        "name": "Poststra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.317000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Haltestelle Bauhofstra\u00dfe / Margaretengasse", 
+          "slots": 18
+        }, 
+        "free_bikes": 4, 
+        "id": "cce91da36097b54b508206b0a27b5bd7", 
+        "latitude": 50.0033155, 
+        "longitude": 8.269473, 
+        "name": "LBBW Rheinland-Pfalz Bank", 
+        "timestamp": "2017-08-15T04:46:13.116000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Hauptstra\u00dfe", 
+          "slots": 6
+        }, 
+        "free_bikes": 0, 
+        "id": "2c4d1529f954d9b4932997dd2154d2a2", 
+        "latitude": 50.022489, 
+        "longitude": 8.224254, 
+        "name": "Ortsverwaltung Mombach", 
+        "timestamp": "2017-08-15T04:46:13.252000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Haltestelle B\u00fcrgerhaus / Ecke Klein-Winternheimer-", 
+          "slots": 12
+        }, 
+        "free_bikes": 4, 
+        "id": "dd645879d84d2f2941885743130d7ed2", 
+        "latitude": 49.957326, 
+        "longitude": 8.275248, 
+        "name": "B\u00fcrgerhaus Hechtsheim", 
+        "timestamp": "2017-08-15T04:46:13.265000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Haltestelle R\u00f6merquelle / SertoriusringHaltestelle", 
+          "slots": 6
+        }, 
+        "free_bikes": 0, 
+        "id": "1e2c9d292e9f9fc62efe6b4c3511fe25", 
+        "latitude": 49.995586, 
+        "longitude": 8.174968, 
+        "name": "R\u00f6merquelle", 
+        "timestamp": "2017-08-15T04:46:13.239000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Haltestelle Stadtpark / An der Nikolausschanze ", 
+          "slots": 18
+        }, 
+        "free_bikes": 1, 
+        "id": "d70f17cbc807e525966024f93c2945f2", 
+        "latitude": 49.993004, 
+        "longitude": 8.282681, 
+        "name": "Stadtpark", 
+        "timestamp": "2017-08-15T04:46:13.058000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Geschwister-Scholl-Stra\u00dfe / Ecke Generaloberst-Bec", 
+          "slots": 12
+        }, 
+        "free_bikes": 8, 
+        "id": "310bb9dfbfbccb0adb47f08d8d8c7e66", 
+        "latitude": 49.976283, 
+        "longitude": 8.269358, 
+        "name": "Kurmainz-Kaserne", 
+        "timestamp": "2017-08-15T04:46:13.149000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Goethestra\u00dfe / Ecke Krey\u00dfigstra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 10, 
+        "id": "a6351d4e54cff8933062f2a1c708952b", 
+        "latitude": 50.011355, 
+        "longitude": 8.254825, 
+        "name": "Goetheplatz", 
+        "timestamp": "2017-08-15T04:46:13.148000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Haltestelle Friedrich-Ebert-Stra\u00dfe / Friedrich-Ebe", 
+          "slots": 6
+        }, 
+        "free_bikes": 3, 
+        "id": "ce1510fa14cc5a47db771ea297e17130", 
+        "latitude": 49.978628, 
+        "longitude": 8.294195, 
+        "name": "Friedrich-Ebert-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.196000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Obere Austra\u00dfe / Ecke Am Flo\u00dfhafen", 
+          "slots": 12
+        }, 
+        "free_bikes": 8, 
+        "id": "65e8638bc1fdb777f8d6dddc9fa5d00c", 
+        "latitude": 50.01979, 
+        "longitude": 8.250695, 
+        "name": "MVGmeinRad-Werkstatt", 
+        "timestamp": "2017-08-15T04:46:13.055000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Binger Stra\u00dfe", 
+          "slots": 12
+        }, 
+        "free_bikes": 7, 
+        "id": "bc36c6b17ecceb4a20c29ff5d416ae01", 
+        "latitude": 50.024891, 
+        "longitude": 8.173474, 
+        "name": "Binger Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.124000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Universit\u00e4tsmedizin / Am R\u00f6merlager", 
+          "slots": 12
+        }, 
+        "free_bikes": 4, 
+        "id": "5d10b4335860d324b6d24c46a15b9297", 
+        "latitude": 49.993821, 
+        "longitude": 8.260525, 
+        "name": "Am R\u00f6merlager", 
+        "timestamp": "2017-08-15T04:46:13.255000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Feldbergplatz / Ecke Adenauer-Ufer", 
+          "slots": 18
+        }, 
+        "free_bikes": 14, 
+        "id": "0bdf54b449ea77b9124445aca69bc6a6", 
+        "latitude": 50.012464, 
+        "longitude": 8.265946, 
+        "name": "Am Zollhafen", 
+        "timestamp": "2017-08-15T04:46:13.084000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Volkspark / G\u00f6ttelmannstra\u00dfe", 
+          "slots": 18
+        }, 
+        "free_bikes": 11, 
+        "id": "bfe7a40987275641715be854b613c2cb", 
+        "latitude": 49.985752, 
+        "longitude": 8.289842, 
+        "name": "Volkspark", 
+        "timestamp": "2017-08-15T04:46:13.248000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Innsbrucker Stra\u00dfe", 
+          "slots": 6
+        }, 
+        "free_bikes": 1, 
+        "id": "46a2c528f481d67b1df90244f9118032", 
+        "latitude": 50.005935, 
+        "longitude": 8.294045, 
+        "name": "Wiener Platz", 
+        "timestamp": "2017-08-15T04:46:13.200000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Wilhelm-Leuschner-Stra\u00dfe / Ecke M\u00f6hnstra\u00dfe", 
+          "slots": 6
+        }, 
+        "free_bikes": 2, 
+        "id": "fc4ae4a8f9ecbcdef04141e36e28941b", 
+        "latitude": 49.962129, 
+        "longitude": 8.312615, 
+        "name": "Wilhelm-Leuschner-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:13.096000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Haltestelle Br\u00fcckenplatz / Ecke Bauerngasse", 
+          "slots": 24
+        }, 
+        "free_bikes": 14, 
+        "id": "6fecfc9cd9e0bf51f5c2f76ed34c6e7c", 
+        "latitude": 50.003219, 
+        "longitude": 8.273928, 
+        "name": "Br\u00fcckenplatz", 
+        "timestamp": "2017-08-15T04:46:13.176000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Kapellenstra\u00dfe / Ecke Am Sportfeld", 
+          "slots": 9
+        }, 
+        "free_bikes": 1, 
+        "id": "09d6946b113c2611387bfa6402573891", 
+        "latitude": 50.004795, 
+        "longitude": 8.201106, 
+        "name": "Caf\u00e9 Raab / Am Gonsenheimer Wald", 
+        "timestamp": "2017-08-15T04:46:13.189000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Obere Zahlbacher Stra\u00dfe / Ecke Kilianweg", 
+          "slots": 12
+        }, 
+        "free_bikes": 2, 
+        "id": "7b7c459c7a2e4865407cb8308c651724", 
+        "latitude": 49.990317, 
+        "longitude": 8.256717, 
+        "name": "Universit\u00e4tsmedizin S\u00fcd", 
+        "timestamp": "2017-08-15T04:46:13.289000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Kettelerstra\u00dfe / Julius-Leber-Stra\u00dfe", 
+          "slots": 9
+        }, 
+        "free_bikes": 2, 
+        "id": "a205916ef8a669099ec7455c18c56bf0", 
+        "latitude": 50.02156, 
+        "longitude": 8.165721, 
+        "name": "Rathaus Budenheim", 
+        "timestamp": "2017-08-15T04:46:13.221000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Haltestelle Mombacher Tor / Ecke Wallstra\u00dfe", 
+          "slots": 15
+        }, 
+        "free_bikes": 14, 
+        "id": "451b980705677f5bec73cd63c80adb65", 
+        "latitude": 50.010407, 
+        "longitude": 8.243872, 
+        "name": "Mombacher Tor", 
+        "timestamp": "2017-08-15T04:46:13.157000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Haltestelle Vincenz-Krankenhaus / Zufahrt Krankenhaus", 
+          "slots": 12
+        }, 
+        "free_bikes": 1, 
+        "id": "17fe39471f78459b200a045d01ac86c4", 
+        "latitude": 49.98862, 
+        "longitude": 8.26988, 
+        "name": "Vincenz-Krankenhaus", 
+        "timestamp": "2017-08-15T04:46:13.214000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Haltestelle M\u00fcnsterplatz", 
+          "slots": 12
+        }, 
+        "free_bikes": 8, 
+        "id": "010a555e9da5e84b90b96b46ed0b25e8", 
+        "latitude": 50.000064, 
+        "longitude": 8.264118, 
+        "name": "M\u00fcnsterplatz", 
+        "timestamp": "2017-08-15T04:46:13.277000Z"
+      }
+    ]
+  }
+}

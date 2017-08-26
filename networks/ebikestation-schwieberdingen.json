@@ -1,0 +1,49 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-schwieberdingen", 
+    "id": "ebikestation-schwieberdingen", 
+    "location": {
+      "city": "Schwieberdingen", 
+      "country": "DE", 
+      "latitude": 48.8723, 
+      "longitude": 9.07419
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5815", 
+          "uid": "3898974"
+        }, 
+        "free_bikes": 0, 
+        "id": "90ff7d9b24b5609b0f265ec740bfc064", 
+        "latitude": 48.882818397591, 
+        "longitude": 9.0800392627716, 
+        "name": "Station - BOSCH Schwieberdingen", 
+        "timestamp": "2017-08-15T04:49:47.793000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "91746", 
+            "91667"
+          ], 
+          "number": "5801", 
+          "slots": 12, 
+          "uid": "304031"
+        }, 
+        "free_bikes": 7, 
+        "id": "d98ffccf3c5c9630c03bdbfccdbc57da", 
+        "latitude": 48.870561848009, 
+        "longitude": 9.07146692276, 
+        "name": "E-Bike-Station Schwieberdingen", 
+        "timestamp": "2017-08-15T04:49:47.790000Z"
+      }
+    ]
+  }
+}

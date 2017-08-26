@@ -1,0 +1,663 @@
+{
+  "network": {
+    "company": [
+      "Gobike A/S"
+    ], 
+    "href": "/v2/networks/bysykkelen", 
+    "id": "bysykkelen", 
+    "location": {
+      "city": "Stavanger", 
+      "country": "NO", 
+      "latitude": 58.969975, 
+      "longitude": 5.733107
+    }, 
+    "name": "Bysykkelen", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Tjuvholmveien 40, Stavanger, 4007 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 106
+        }, 
+        "free_bikes": 2, 
+        "id": "95f6ba3255da3f565e643c44dc6b5c10", 
+        "latitude": 58.98187255859375, 
+        "longitude": 5.714778900146484, 
+        "name": "Stavanger Offshore Tekniske Fagskole", 
+        "timestamp": "2017-08-15T04:49:07.756000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Madlakrossen 9, Madla, 4042 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 94
+        }, 
+        "free_bikes": 0, 
+        "id": "4f6198d27d8e3ba92a59fb10c9574f10", 
+        "latitude": 58.952301025390625, 
+        "longitude": 5.680300235748291, 
+        "name": "Amfi Madla", 
+        "timestamp": "2017-08-15T04:49:07.758000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Forusbeen 10, 4033 Stavanger", 
+          "altitude": 20, 
+          "status": 0, 
+          "uid": 60
+        }, 
+        "free_bikes": 1, 
+        "id": "86eb721f270301d416830af73f96696d", 
+        "latitude": 58.89054870605469, 
+        "longitude": 5.737836837768555, 
+        "name": "2020park", 
+        "timestamp": "2017-08-15T04:49:07.642000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Breifl\u00e5tveien 18, 4017 Stavanger", 
+          "altitude": 25, 
+          "status": 0, 
+          "uid": 64
+        }, 
+        "free_bikes": 1, 
+        "id": "98682e47b8e8b1161f4be2feccc05fb2", 
+        "latitude": 58.93328094482422, 
+        "longitude": 5.747323513031006, 
+        "name": "Lyse, Mariero", 
+        "timestamp": "2017-08-15T04:49:07.662000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Nedre Holmegate  12, Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 72
+        }, 
+        "free_bikes": 0, 
+        "id": "7275231770bb2af3561f472506779735", 
+        "latitude": 58.97343063354492, 
+        "longitude": 5.731441020965576, 
+        "name": "Holmealmenningen", 
+        "timestamp": "2017-08-15T04:49:07.737000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Kanalsletta 4, 4033 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 79
+        }, 
+        "free_bikes": 1, 
+        "id": "defefc1912bff8859af6638e728ef83f", 
+        "latitude": 58.895591735839844, 
+        "longitude": 5.68556022644043, 
+        "name": "Subsea7", 
+        "timestamp": "2017-08-15T04:49:07.760000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Kvits\u00f8ygata 25, 4014 Stavanger", 
+          "altitude": 2, 
+          "status": 0, 
+          "uid": 68
+        }, 
+        "free_bikes": 3, 
+        "id": "04d858ba35b64a7fbb3531b720708b1f", 
+        "latitude": 58.96939468383789, 
+        "longitude": 5.757978439331055, 
+        "name": "Tou Scene", 
+        "timestamp": "2017-08-15T04:49:07.678000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Gerd-Ragna Bloch Thorsens gate  8, 4019 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 85
+        }, 
+        "free_bikes": 3, 
+        "id": "2f88260e98fb0d1ce825040c98c33449", 
+        "latitude": 58.9523811340332, 
+        "longitude": 5.731729984283447, 
+        "name": "Hovedinngang SUS", 
+        "timestamp": "2017-08-15T04:49:07.688000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Kjeringholmen, Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 71
+        }, 
+        "free_bikes": 1, 
+        "id": "bbebf03c976b6710189196a754a9fc45", 
+        "latitude": 58.97294616699219, 
+        "longitude": 5.734879970550537, 
+        "name": "Oljemuseet", 
+        "timestamp": "2017-08-15T04:49:07.741000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Nytorget 1, Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 70
+        }, 
+        "free_bikes": 1, 
+        "id": "44cd60ca9b25558b2afcfdc1e53e5f2d", 
+        "latitude": 58.970115661621094, 
+        "longitude": 5.737790107727051, 
+        "name": "Nytorget", 
+        "timestamp": "2017-08-15T04:49:07.744000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Torgveien 24, Hillev\u00e5g, 4016 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 90
+        }, 
+        "free_bikes": 4, 
+        "id": "e783a8890ee3958065419f5cd0c849a6", 
+        "latitude": 58.94844055175781, 
+        "longitude": 5.737957000732422, 
+        "name": "Kilden Kj\u00f8pesenter", 
+        "timestamp": "2017-08-15T04:49:07.749000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Hillev\u00e5gsveien  24, Hillev\u00e5g, 4016 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 93
+        }, 
+        "free_bikes": 1, 
+        "id": "d4f6da7979fa75b0fdcd8ca07d0a7447", 
+        "latitude": 58.950801849365234, 
+        "longitude": 5.743299961090088, 
+        "name": "TB bygget Hillev\u00e5gsveien ", 
+        "timestamp": "2017-08-15T04:49:07.751000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Lag\u00e5rdsveien  115, 4011 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 98
+        }, 
+        "free_bikes": 6, 
+        "id": "6c8158edeaee3af6e3a53c4c4b7bb6e0", 
+        "latitude": 58.954498291015625, 
+        "longitude": 5.741600036621094, 
+        "name": "Paradis Hillev\u00e5gsveien", 
+        "timestamp": "2017-08-15T04:49:07.768000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Bj\u00f8dnabeen 2, 4033 Stavanger", 
+          "altitude": 25, 
+          "status": 0, 
+          "uid": 54
+        }, 
+        "free_bikes": 4, 
+        "id": "2f2e6ecc1a940e10dcdbf33ce442d066", 
+        "latitude": 58.89168167114258, 
+        "longitude": 5.730086803436279, 
+        "name": "Scandic Forus Hotel", 
+        "timestamp": "2017-08-15T04:49:07.771000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Jernbane-veien 9, 4005 Stavanger", 
+          "altitude": 25, 
+          "status": 0, 
+          "uid": 57
+        }, 
+        "free_bikes": 0, 
+        "id": "1184a6e3bfd85632085f7df8b8080426", 
+        "latitude": 58.967044830322266, 
+        "longitude": 5.732346534729004, 
+        "name": "Stavanger jernbane stasjon", 
+        "timestamp": "2017-08-15T04:49:07.772000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Kanalsletta 4, 4033 Stavanger", 
+          "altitude": 25, 
+          "status": 0, 
+          "uid": 51
+        }, 
+        "free_bikes": 2, 
+        "id": "7d83fc42cb63a60edc75aa16e522c3ef", 
+        "latitude": 58.89516067504883, 
+        "longitude": 5.689558982849121, 
+        "name": "Kanalsletta Kruse Smith", 
+        "timestamp": "2017-08-15T04:49:07.774000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Vassbotn 6, 4033 Stavanger", 
+          "altitude": 25, 
+          "status": 0, 
+          "uid": 53
+        }, 
+        "free_bikes": 2, 
+        "id": "b5d44974e4426ebcce126fa9c344c1f7", 
+        "latitude": 58.887454986572266, 
+        "longitude": 5.7120184898376465, 
+        "name": "M\u00f8ller Bil (Audi)", 
+        "timestamp": "2017-08-15T04:49:07.782000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Arkitekt Eckhoffs gate 1, Stavanger, 4010 Stavanger", 
+          "altitude": 6, 
+          "status": 0, 
+          "uid": 104
+        }, 
+        "free_bikes": 1, 
+        "id": "3c5cfb327c0600353bc446f7607ec167", 
+        "latitude": 58.96485137939453, 
+        "longitude": 5.73136568069458, 
+        "name": "Fylkeskommunen", 
+        "timestamp": "2017-08-15T04:49:07.690000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Strandkaien  37, Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 74
+        }, 
+        "free_bikes": 0, 
+        "id": "7d2cd3b9dce95f0f8bea9a0e22247ac8", 
+        "latitude": 58.97039031982422, 
+        "longitude": 5.73036003112793, 
+        "name": "Fisketorget", 
+        "timestamp": "2017-08-15T04:49:07.732000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Jan Johnsens gate  51, 4011 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 88
+        }, 
+        "free_bikes": 0, 
+        "id": "d54be60d2c57b86820947e8a30d0b296", 
+        "latitude": 58.95261001586914, 
+        "longitude": 5.736110210418701, 
+        "name": "Psykiatrisk klinikk", 
+        "timestamp": "2017-08-15T04:49:07.788000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Verksgatan 14, 4006 Stavanger", 
+          "altitude": 2, 
+          "status": 0, 
+          "uid": 69
+        }, 
+        "free_bikes": 1, 
+        "id": "2f7bf51898c88a4b3e212444e1bae371", 
+        "latitude": 58.97212219238281, 
+        "longitude": 5.739775657653809, 
+        "name": "Hurtigb\u00e5tterminalen", 
+        "timestamp": "2017-08-15T04:49:07.679000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Armauer Hansens vei  11-17, 4011 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 87
+        }, 
+        "free_bikes": 1, 
+        "id": "13e074faa1b9e04eed22d11169fe65ec", 
+        "latitude": 58.95372009277344, 
+        "longitude": 5.733590126037598, 
+        "name": "Inngang 6 SUS", 
+        "timestamp": "2017-08-15T04:49:07.687000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Maskinveien 24, 4033 Stavanger", 
+          "altitude": 28, 
+          "status": 0, 
+          "uid": 62
+        }, 
+        "free_bikes": 2, 
+        "id": "1726384314c1561c6e97d07c789c718e", 
+        "latitude": 58.900630950927734, 
+        "longitude": 5.7051100730896, 
+        "name": "Maskinveien 24 (FNP)", 
+        "timestamp": "2017-08-15T04:49:07.659000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Vassbotn 17, 4033 Stavanger", 
+          "altitude": 25, 
+          "status": 0, 
+          "uid": 52
+        }, 
+        "free_bikes": 0, 
+        "id": "f056d6c71cb765c3502a7029aea7b661", 
+        "latitude": 58.8912353515625, 
+        "longitude": 5.713111877441406, 
+        "name": "M\u00f8ller Bil (VW)", 
+        "timestamp": "2017-08-15T04:49:07.783000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Gauselveien 50, 4032 Stavanger", 
+          "altitude": 25, 
+          "status": 0, 
+          "uid": 61
+        }, 
+        "free_bikes": 2, 
+        "id": "30d205758b3f9358630b94d41caef513", 
+        "latitude": 58.89946746826172, 
+        "longitude": 5.740694999694824, 
+        "name": "Gausel Stasjon", 
+        "timestamp": "2017-08-15T04:49:07.657000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Lag\u00e5rdsveien 44, Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 65
+        }, 
+        "free_bikes": 2, 
+        "id": "5cb86736b1d58cb5268b602caa14bb5c", 
+        "latitude": 58.96099853515625, 
+        "longitude": 5.738399982452393, 
+        "name": "Statens hus", 
+        "timestamp": "2017-08-15T04:49:07.663000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Teaterveien 1, 4005 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 66
+        }, 
+        "free_bikes": 1, 
+        "id": "6edc9b83148b44fea461d7a5b255c3f7", 
+        "latitude": 58.965641021728516, 
+        "longitude": 5.732709884643555, 
+        "name": "Rogaland Teater", 
+        "timestamp": "2017-08-15T04:49:07.669000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Hesbygaten 5, 4014 Stavanger", 
+          "altitude": 2, 
+          "status": 0, 
+          "uid": 67
+        }, 
+        "free_bikes": 3, 
+        "id": "11ccad20d4eab1717939a8e143f2d21c", 
+        "latitude": 58.96913528442383, 
+        "longitude": 5.750949859619141, 
+        "name": "BI Stavanger", 
+        "timestamp": "2017-08-15T04:49:07.674000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Gamle Stokkavei  1, 4313 Sandnes", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 80
+        }, 
+        "free_bikes": 1, 
+        "id": "6a79e97a93271196e7024aca1034c46f", 
+        "latitude": 58.87580108642578, 
+        "longitude": 5.722010135650635, 
+        "name": "Kvadrat Hovedinngang", 
+        "timestamp": "2017-08-15T04:49:07.680000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Fabrikkveien  10, 4033 Forus", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 81
+        }, 
+        "free_bikes": 3, 
+        "id": "b59bf6bc9dfa048ba92ecd777be8b865", 
+        "latitude": 58.89720153808594, 
+        "longitude": 5.6975998878479, 
+        "name": "Bouvet", 
+        "timestamp": "2017-08-15T04:49:07.682000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Armauer Hansens vei  20, 4011 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 86
+        }, 
+        "free_bikes": 0, 
+        "id": "e7f26c106193c472ad4b78b46f2d3e65", 
+        "latitude": 58.953678131103516, 
+        "longitude": 5.732089996337891, 
+        "name": "Inngang 5 SUS", 
+        "timestamp": "2017-08-15T04:49:07.683000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Ishocey-veien 1, 4021 Stavanger", 
+          "altitude": 20, 
+          "status": 0, 
+          "uid": 49
+        }, 
+        "free_bikes": 4, 
+        "id": "543fca7caf2a0d54192fb726a5a4c40d", 
+        "latitude": 58.95391082763672, 
+        "longitude": 5.688736915588379, 
+        "name": "Clarion Hotel Energy", 
+        "timestamp": "2017-08-15T04:49:07.692000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Henrik Ibsensgate  55, Stavanger", 
+          "altitude": 2, 
+          "status": 0, 
+          "uid": 77
+        }, 
+        "free_bikes": 3, 
+        "id": "b13cef732a13eb3ee7cd8f8f3d3696b1", 
+        "latitude": 58.9549674987793, 
+        "longitude": 5.703629970550537, 
+        "name": "Kunstmuseet", 
+        "timestamp": "2017-08-15T04:49:07.709000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Lars Hertervigsgate  6, Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 76
+        }, 
+        "free_bikes": 0, 
+        "id": "e43729b4375835e24f5efe4f3fd74941", 
+        "latitude": 58.969913482666016, 
+        "longitude": 5.728331089019775, 
+        "name": "Straensenteret", 
+        "timestamp": "2017-08-15T04:49:07.710000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Nedre Strandgate 89, Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 75
+        }, 
+        "free_bikes": 0, 
+        "id": "44b117a7ccff2b6ac80ad82b5bef470a", 
+        "latitude": 58.974212646484375, 
+        "longitude": 5.725375175476074, 
+        "name": "Konserthuset", 
+        "timestamp": "2017-08-15T04:49:07.719000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Skagenkaienkaien  35, Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 73
+        }, 
+        "free_bikes": 1, 
+        "id": "2b180f171e7b435f899c83bc033ecd2d", 
+        "latitude": 58.9726448059082, 
+        "longitude": 5.73008394241333, 
+        "name": "T2 torget Victoria", 
+        "timestamp": "2017-08-15T04:49:07.733000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Borgermester Middelthons Gate  14, Stavanger, 4007 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 96
+        }, 
+        "free_bikes": 6, 
+        "id": "840d615fbe4bf3686f104ff6f84b791b", 
+        "latitude": 58.97370147705078, 
+        "longitude": 5.722300052642822, 
+        "name": "Smedvigkvartalet L\u00f8kkeveien 111", 
+        "timestamp": "2017-08-15T04:49:07.764000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Ny Olavskleiv 8, 4008 Stavanger", 
+          "altitude": 25, 
+          "status": 0, 
+          "uid": 55
+        }, 
+        "free_bikes": 0, 
+        "id": "6aa28bfaa35e6e64cf208b251d7dca52", 
+        "latitude": 58.9675407409668, 
+        "longitude": 5.729465007781982, 
+        "name": "Clarion Hotel Stavanger", 
+        "timestamp": "2017-08-15T04:49:07.769000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Luramyrveien 11, Sandnes, Stavanger", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 97
+        }, 
+        "free_bikes": 2, 
+        "id": "5e5918808c0e9826ab741bfc0590f3ee", 
+        "latitude": 58.8778190612793, 
+        "longitude": 5.7225141525268555, 
+        "name": "Elsykkelsenteret", 
+        "timestamp": "2017-08-15T04:49:07.698000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Vestre Svanholmen 9-11, Sandnes, 4313 Sandnes", 
+          "altitude": 6, 
+          "status": 0, 
+          "uid": 100
+        }, 
+        "free_bikes": 1, 
+        "id": "d999548d3f3b1c5f90e4871fdb7b202a", 
+        "latitude": 58.886775970458984, 
+        "longitude": 5.705623149871826, 
+        "name": "Bilhuset", 
+        "timestamp": "2017-08-15T04:49:07.708000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Veritasveien  25, Stavanger, 4007 Stavanger", 
+          "altitude": 6, 
+          "status": 0, 
+          "uid": 105
+        }, 
+        "free_bikes": 1, 
+        "id": "b5ddc951407c26b44683a3abda72e7c4", 
+        "latitude": 58.9795036315918, 
+        "longitude": 5.719574451446533, 
+        "name": "Veritasbygget", 
+        "timestamp": "2017-08-15T04:49:07.706000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Badehusgata   37, Stavanger, 4014 Stavanger", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 103
+        }, 
+        "free_bikes": 4, 
+        "id": "10080a99795cdd2bb1d479ac4eab220c", 
+        "latitude": 58.97272872924805, 
+        "longitude": 5.751435279846191, 
+        "name": "Badehusgata 37", 
+        "timestamp": "2017-08-15T04:49:07.789000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Lagerveien 1, Ved hovedinngang til senteret, 4033 Stavanger", 
+          "altitude": 50, 
+          "status": 0, 
+          "uid": 50
+        }, 
+        "free_bikes": 4, 
+        "id": "78780d37198efcd54ae86227849a4a4c", 
+        "latitude": 58.89569854736328, 
+        "longitude": 5.7024102210998535, 
+        "name": "Tvedtsenteret", 
+        "timestamp": "2017-08-15T04:49:07.777000Z"
+      }
+    ]
+  }
+}

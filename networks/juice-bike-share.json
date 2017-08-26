@@ -1,0 +1,612 @@
+{
+  "network": {
+    "company": [
+      "CycleHop, LLC", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "https://juicebikeshare.com/opendata/gbfs.json", 
+    "href": "/v2/networks/juice-bike-share", 
+    "id": "juice-bike-share", 
+    "location": {
+      "city": "Orlando, FL", 
+      "country": "US", 
+      "latitude": 28.536663311743688, 
+      "longitude": -81.37922197580338
+    }, 
+    "name": "Juice", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Lake Nona Boulevard, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2163"
+        }, 
+        "free_bikes": 6, 
+        "id": "93afc81230b3e4af51103cb601722bc5", 
+        "latitude": 28.40047969995495, 
+        "longitude": -81.27816438674927, 
+        "name": "USA Tennis", 
+        "timestamp": "2017-08-15T04:50:49.418000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Sanitarium Avenue, Orlando, Florida", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_951"
+        }, 
+        "free_bikes": 4, 
+        "id": "de3a54d6409e053c4eb08f7d34d01518", 
+        "latitude": 28.57428046060964, 
+        "longitude": -81.3714998960495, 
+        "name": "Health Village", 
+        "timestamp": "2017-08-15T04:50:49.411000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "LCS, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1222"
+        }, 
+        "free_bikes": 6, 
+        "id": "6f58705733b1d653af3e15f4c6b174a3", 
+        "latitude": 28.54789897504476, 
+        "longitude": -81.38149246573448, 
+        "name": "Lynx Central Station", 
+        "timestamp": "2017-08-15T04:50:49.448000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "850 West Morse Boulevard, Winter Park", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1081"
+        }, 
+        "free_bikes": 5, 
+        "id": "5e70e4c416c6a16ac29f0d74006f64a8", 
+        "latitude": 28.597036933426352, 
+        "longitude": -81.36021316051483, 
+        "name": "Winter Park Station Sponsored by Valencia College", 
+        "timestamp": "2017-08-15T04:50:49.455000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1101 Virginia Drive, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1178"
+        }, 
+        "free_bikes": 8, 
+        "id": "76e13d9f7f7359e42720ee5ee17e85a2", 
+        "latitude": 28.565701342770492, 
+        "longitude": -81.36517658829689, 
+        "name": "Mills Park", 
+        "timestamp": "2017-08-15T04:50:49.383000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "South Eola, Pine Street, Downtown Orlando, Orlando, Florida", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1198"
+        }, 
+        "free_bikes": 6, 
+        "id": "1922cf2645c83ade8505cd0298b5c410", 
+        "latitude": 28.542498654336732, 
+        "longitude": -81.37139663100243, 
+        "name": "Lake Eola Station", 
+        "timestamp": "2017-08-15T04:50:49.471000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "817 Menendez Court, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1228"
+        }, 
+        "free_bikes": 0, 
+        "id": "fe94880236a2fd553d70a24f7a251a76", 
+        "latitude": 28.531901016709114, 
+        "longitude": -81.38076961040497, 
+        "name": "World Henna", 
+        "timestamp": "2017-08-15T04:50:49.460000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1036 North Mills Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1244"
+        }, 
+        "free_bikes": 4, 
+        "id": "9cc0007c6c93319197e6361c5a3b4ce5", 
+        "latitude": 28.55967175089573, 
+        "longitude": -81.36467769742012, 
+        "name": "Will's ", 
+        "timestamp": "2017-08-15T04:50:49.425000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2406 East Washington Street, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1251"
+        }, 
+        "free_bikes": 5, 
+        "id": "fd9694f26846d12ac03c6ddada6e319f", 
+        "latitude": 28.543758047929895, 
+        "longitude": -81.35146379470825, 
+        "name": "Milk District", 
+        "timestamp": "2017-08-15T04:50:49.419000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "432 Cathcart Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1254"
+        }, 
+        "free_bikes": 3, 
+        "id": "77ddf04b73c10b123250a5fdf5efb434", 
+        "latitude": 28.549337365302943, 
+        "longitude": -81.37074887752533, 
+        "name": "Lake Eola Heights", 
+        "timestamp": "2017-08-15T04:50:49.380000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "4915 New Broad Street, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1258"
+        }, 
+        "free_bikes": 6, 
+        "id": "f2d5c2dac5f6da8923bbfc69ece44d57", 
+        "latitude": 28.568184224195186, 
+        "longitude": -81.32651925086974, 
+        "name": "Baldwin Park ", 
+        "timestamp": "2017-08-15T04:50:49.365000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "13631 Sachs Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1260"
+        }, 
+        "free_bikes": 9, 
+        "id": "74baee1cf58326bdf8f51d915b68a5e2", 
+        "latitude": 28.370997373799437, 
+        "longitude": -81.26105189323424, 
+        "name": "Laureate Park", 
+        "timestamp": "2017-08-15T04:50:49.441000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "6910 Lake Nona Boulevard, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1261"
+        }, 
+        "free_bikes": 7, 
+        "id": "8bf715f0d05932fcff2c7d0db910dd03", 
+        "latitude": 28.37226707004575, 
+        "longitude": -81.27836689352989, 
+        "name": "Town Center ", 
+        "timestamp": "2017-08-15T04:50:49.439000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "6550 Sanger Road, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1262"
+        }, 
+        "free_bikes": 3, 
+        "id": "2a04382cb7c87549b6fc6bab1ce62223", 
+        "latitude": 28.36686249125364, 
+        "longitude": -81.28945916891098, 
+        "name": "Innovation Center", 
+        "timestamp": "2017-08-15T04:50:49.373000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "5705 Camden Road, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1291"
+        }, 
+        "free_bikes": 2, 
+        "id": "ee85a5bfef82fccb7a5081f7362499db", 
+        "latitude": 28.57256092353578, 
+        "longitude": -81.36868089437485, 
+        "name": "Science Center", 
+        "timestamp": "2017-08-15T04:50:49.399000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1801-1899 East End Avenue, Winter Park", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1292"
+        }, 
+        "free_bikes": 4, 
+        "id": "5fafd3ffbff13d73abc46e2f54dbb0ac", 
+        "latitude": 28.568080575500602, 
+        "longitude": -81.34381011128426, 
+        "name": "East End", 
+        "timestamp": "2017-08-15T04:50:49.372000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2834 Plaza Terrace Drive, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1295"
+        }, 
+        "free_bikes": 3, 
+        "id": "ec2fe48da1bfbca0a5c1aa10108f54cc", 
+        "latitude": 28.561786093933783, 
+        "longitude": -81.34742975234985, 
+        "name": "Audubon Place", 
+        "timestamp": "2017-08-15T04:50:49.371000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "2603 East South Street, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1372"
+        }, 
+        "free_bikes": 4, 
+        "id": "13cdd6304b703aa73b424e873eb1768f", 
+        "latitude": 28.53887590279137, 
+        "longitude": -81.34935021400452, 
+        "name": "Market on South", 
+        "timestamp": "2017-08-15T04:50:49.381000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "500, South Orange Avenue, Downtown Orlando, Orlando, Florida", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_483"
+        }, 
+        "free_bikes": 5, 
+        "id": "1c6cbe0b770d34ec78b4d8c3439f07ce", 
+        "latitude": 28.536663311743688, 
+        "longitude": -81.37922197580338, 
+        "name": "OUC Headquarters sponsored by OUC", 
+        "timestamp": "2017-08-15T04:50:49.456000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "345 North Magnolia Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_485"
+        }, 
+        "free_bikes": 7, 
+        "id": "2ca15ffd2bc31abe600c4e485cd9c2fd", 
+        "latitude": 28.547349588319, 
+        "longitude": -81.3771790491862, 
+        "name": "SkyHouse Station", 
+        "timestamp": "2017-08-15T04:50:49.457000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Garland Avenue Lot, 109, Pine Street, Downtown Orlando, Orlando, Florida", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_486"
+        }, 
+        "free_bikes": 5, 
+        "id": "7c27e21ab8697c17b6fb4fedfa4e682c", 
+        "latitude": 28.5420572576701, 
+        "longitude": -81.3811079975394, 
+        "name": "Gertrude's Walk Station", 
+        "timestamp": "2017-08-15T04:50:49.457000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "170 East Washington Street, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_766"
+        }, 
+        "free_bikes": 6, 
+        "id": "4ef209a6cfd6376a569bd0af770f1849", 
+        "latitude": 28.5435905534336, 
+        "longitude": -81.3762507593795, 
+        "name": "Washington Street", 
+        "timestamp": "2017-08-15T04:50:49.396000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "158-198 West South Street, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_767"
+        }, 
+        "free_bikes": 4, 
+        "id": "567279ed5af754930ec588daf4e22094", 
+        "latitude": 28.5383814847127, 
+        "longitude": -81.381024851329, 
+        "name": "South Street ", 
+        "timestamp": "2017-08-15T04:50:49.398000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2100 Edgewater Drive, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_771"
+        }, 
+        "free_bikes": 4, 
+        "id": "0ae5c807fd6339cb93cd8772d95b5065", 
+        "latitude": 28.5702728375607, 
+        "longitude": -81.3894259523397, 
+        "name": "College Park South", 
+        "timestamp": "2017-08-15T04:50:49.429000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "267 South Rosalind Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_772"
+        }, 
+        "free_bikes": 5, 
+        "id": "e85ac1d10052cf309103613e03ed6cfd", 
+        "latitude": 28.539498235947, 
+        "longitude": -81.3757555636453, 
+        "name": "Orange County Admin", 
+        "timestamp": "2017-08-15T04:50:49.434000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "180 North Orange Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_788"
+        }, 
+        "free_bikes": 3, 
+        "id": "d7a360d8783d00d2a50e4e26ef56d38c", 
+        "latitude": 28.544351806905766, 
+        "longitude": -81.37907311320303, 
+        "name": "Orange Avenue", 
+        "timestamp": "2017-08-15T04:50:49.461000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "714 North Thornton Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_790"
+        }, 
+        "free_bikes": 2, 
+        "id": "45aa4c2b65557190264612740eec1730", 
+        "latitude": 28.5539368192447, 
+        "longitude": -81.3654904849113, 
+        "name": "Mills50", 
+        "timestamp": "2017-08-15T04:50:49.400000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "627 East Washington Street, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_804"
+        }, 
+        "free_bikes": 2, 
+        "id": "e31a281dfc57eab92829aefc416e62af", 
+        "latitude": 28.54373480008, 
+        "longitude": -81.3686615275894, 
+        "name": "Thornton Park", 
+        "timestamp": "2017-08-15T04:50:49.377000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "400-416 South Orange Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_806"
+        }, 
+        "free_bikes": 2, 
+        "id": "8677f4630615e7a19b5fa397271d2376", 
+        "latitude": 28.538170187146214, 
+        "longitude": -81.37894436717033, 
+        "name": "City Hall Station sponsored by VHB", 
+        "timestamp": "2017-08-15T04:50:49.376000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "101 East Central Boulevard, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_808"
+        }, 
+        "free_bikes": 5, 
+        "id": "2be3c48e3c485945cee6aa7824191d1e", 
+        "latitude": 28.5423711348171, 
+        "longitude": -81.376974302801, 
+        "name": "Orlando Library", 
+        "timestamp": "2017-08-15T04:50:49.375000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "849-899 North Orange Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_816"
+        }, 
+        "free_bikes": 5, 
+        "id": "e698a17757b4f6ef50beef5961e06cb6", 
+        "latitude": 28.556490145533118, 
+        "longitude": -81.37917906045914, 
+        "name": "North Quarter Station", 
+        "timestamp": "2017-08-15T04:50:49.426000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2-40 East Church Street, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_824"
+        }, 
+        "free_bikes": 6, 
+        "id": "f5ea9f084b067c40498c7f15a9deea9f", 
+        "latitude": 28.5403133199234, 
+        "longitude": -81.3787353877507, 
+        "name": "Church Street", 
+        "timestamp": "2017-08-15T04:50:49.379000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "498 North Orange Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_857"
+        }, 
+        "free_bikes": 2, 
+        "id": "b73ed9515d668717da9f35e1798e3c09", 
+        "latitude": 28.5492501779003, 
+        "longitude": -81.3791504637041, 
+        "name": "Courthouse Station", 
+        "timestamp": "2017-08-15T04:50:49.410000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "New Hampshire Street, Orlando, Florida", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_862"
+        }, 
+        "free_bikes": 5, 
+        "id": "2b73cdab3fd5627a43011adc5260bb3e", 
+        "latitude": 28.5676973210616, 
+        "longitude": -81.3731243572549, 
+        "name": "Ivanhoe Station", 
+        "timestamp": "2017-08-15T04:50:49.475000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "525-535 West Central Boulevard, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_891"
+        }, 
+        "free_bikes": 0, 
+        "id": "2828712568320c4f4a11be5ea63badfb", 
+        "latitude": 28.542042725420977, 
+        "longitude": -81.38558685779572, 
+        "name": "West Central Station", 
+        "timestamp": "2017-08-15T04:50:49.437000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "140-198 South Division Avenue, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_940"
+        }, 
+        "free_bikes": 3, 
+        "id": "112935c47727425193349a2935810451", 
+        "latitude": 28.540487600649964, 
+        "longitude": -81.38505578041077, 
+        "name": "Division Ave & Church st", 
+        "timestamp": "2017-08-15T04:50:49.464000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "75 South Ivanhoe Boulevard, Orlando", 
+          "last_updated": 1502772649, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_975"
+        }, 
+        "free_bikes": 2, 
+        "id": "47506581449f2a6e7da96d8f161b9896", 
+        "latitude": 28.560029837509326, 
+        "longitude": -81.37781918048859, 
+        "name": "Chamber of Commerce Station", 
+        "timestamp": "2017-08-15T04:50:49.403000Z"
+      }
+    ]
+  }
+}

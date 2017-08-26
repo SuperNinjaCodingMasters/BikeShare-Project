@@ -1,0 +1,75 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-lunz-am-see", 
+    "id": "nextbike-lunz-am-see", 
+    "location": {
+      "city": "Lunz am See", 
+      "country": "AT", 
+      "latitude": 47.8618, 
+      "longitude": 15.0348
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08875", 
+            "08812", 
+            "08787", 
+            "08773"
+          ], 
+          "number": "3086", 
+          "uid": "72203"
+        }, 
+        "free_bikes": 4, 
+        "id": "3469103ef6b753f00e896167afce606e", 
+        "latitude": 47.855278, 
+        "longitude": 15.066944, 
+        "name": "Lunz / Seehof / Parkplatz", 
+        "timestamp": "2017-08-15T04:50:50.018000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09661", 
+            "09562", 
+            "08823", 
+            "08809", 
+            "08798"
+          ], 
+          "number": "3087", 
+          "uid": "72371"
+        }, 
+        "free_bikes": 6, 
+        "id": "9252b65f2ab19cc00e31cfcd47d5691e", 
+        "latitude": 47.852222, 
+        "longitude": 15.04, 
+        "name": "Lunz / Bootsvermietung Seepromenade", 
+        "timestamp": "2017-08-15T04:50:50.041000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09535", 
+            "08892", 
+            "08479"
+          ], 
+          "number": "3099", 
+          "uid": "121181"
+        }, 
+        "free_bikes": 3, 
+        "id": "d0714eca73182d030de3121502227b57", 
+        "latitude": 47.841804319155, 
+        "longitude": 15.015094578266, 
+        "name": "Lunz / Kasten - T\u00f6pperbr\u00fccke", 
+        "timestamp": "2017-08-15T04:50:50.044000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,619 @@
+{
+  "network": {
+    "company": [
+      "Mobilicidade Tecnologia LTD", 
+      "Grupo Serttel LTDA"
+    ], 
+    "href": "/v2/networks/bikebh", 
+    "id": "bikebh", 
+    "location": {
+      "city": "Belo Horizonte", 
+      "country": "BR", 
+      "latitude": -19.920793, 
+      "longitude": -43.922165
+    }, 
+    "name": "BikeBH", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Avenida Otac\u00edlio Negr\u00e3o de Lima", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": 8
+        }, 
+        "free_bikes": 5, 
+        "id": "c288d4e7abc48500d9083eb350e906cb", 
+        "latitude": -19.852502, 
+        "longitude": -43.992948, 
+        "name": "Marco Zero", 
+        "timestamp": "2017-08-15T04:48:37.832000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rua Tamoios", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 20
+        }, 
+        "free_bikes": 3, 
+        "id": "777049f0923a114973844760c006f3b1", 
+        "latitude": -19.919905, 
+        "longitude": -43.940658, 
+        "name": "Tamoios", 
+        "timestamp": "2017-08-15T04:48:37.852000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Avenida Santos Dumont", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": 1
+        }, 
+        "free_bikes": 7, 
+        "id": "29b028a2de50f7572dc12770d5b88383", 
+        "latitude": -19.91648, 
+        "longitude": -43.935326, 
+        "name": "Pra\u00e7a Rui Barbosa", 
+        "timestamp": "2017-08-15T04:48:37.824000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Avenida Jo\u00e3o Pinheiro", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 4
+        }, 
+        "free_bikes": 5, 
+        "id": "234eeaf5d764c43cf51b37c80e9b5a96", 
+        "latitude": -19.930903, 
+        "longitude": -43.93763, 
+        "name": "Pra\u00e7a da Liberdade", 
+        "timestamp": "2017-08-15T04:48:37.828000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Avenida Otac\u00edlio de Lima", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 5
+        }, 
+        "free_bikes": 7, 
+        "id": "daf5f6fe044424f85e6df853ece1b850", 
+        "latitude": -19.845851, 
+        "longitude": -43.999326, 
+        "name": "Mirante do S\u00e1bia", 
+        "timestamp": "2017-08-15T04:48:37.829000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenida Otac\u00edlio Negr\u00e3o de Lima", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 6
+        }, 
+        "free_bikes": 4, 
+        "id": "ede160612b7d26afc8c6c5a241c01ee3", 
+        "latitude": -19.854712, 
+        "longitude": -44.005648, 
+        "name": "Zool\u00f3gico", 
+        "timestamp": "2017-08-15T04:48:37.830000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Avenida Augusto de Lima", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 14
+        }, 
+        "free_bikes": 6, 
+        "id": "57b31ca45a6009a51b4b35561a6e955e", 
+        "latitude": -19.922565, 
+        "longitude": -43.946052, 
+        "name": "Pra\u00e7a Raul Soares", 
+        "timestamp": "2017-08-15T04:48:37.846000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Rua Rodrigues Caldas", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 16
+        }, 
+        "free_bikes": 5, 
+        "id": "ab06c8616e662c76bc25f5f74299f61f", 
+        "latitude": -19.932328, 
+        "longitude": -43.947951, 
+        "name": "Pra\u00e7a da Assembl\u00e9ia", 
+        "timestamp": "2017-08-15T04:48:37.848000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Rua Aimores", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 18
+        }, 
+        "free_bikes": 8, 
+        "id": "88963b3e65bb2a53af75f97f133bd373", 
+        "latitude": -19.92715, 
+        "longitude": -43.942764, 
+        "name": "Aimor\u00e9s", 
+        "timestamp": "2017-08-15T04:48:37.850000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Rua Rio de Janeiro", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 19
+        }, 
+        "free_bikes": 10, 
+        "id": "6dce588c1d8cda873c865d97070d749c", 
+        "latitude": -19.924098, 
+        "longitude": -43.940003, 
+        "name": "Sesc Palladium", 
+        "timestamp": "2017-08-15T04:48:37.851000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Rua Alagoas", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 22
+        }, 
+        "free_bikes": 7, 
+        "id": "e77ede76018b7e7dcbf6dadf6d5f41dd", 
+        "latitude": -19.927073, 
+        "longitude": -43.933929, 
+        "name": "Boa Viagem", 
+        "timestamp": "2017-08-15T04:48:37.854000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rua Professor Moraes", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 26
+        }, 
+        "free_bikes": 3, 
+        "id": "0e90680051a917ab8572e1651391754d", 
+        "latitude": -19.936414, 
+        "longitude": -43.930958, 
+        "name": "Professor Moraes", 
+        "timestamp": "2017-08-15T04:48:37.858000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Rua Tome de Souza", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 31
+        }, 
+        "free_bikes": 5, 
+        "id": "2538e0185455ef6a86abd82d1a38d123", 
+        "latitude": -19.937029, 
+        "longitude": -43.93492, 
+        "name": "Pra\u00e7a da Savassi", 
+        "timestamp": "2017-08-15T04:48:37.863000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rua B\u00e1rbara Heliodora", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 34
+        }, 
+        "free_bikes": 1, 
+        "id": "abb2bece491c165d7cf08a7a7e69eadb", 
+        "latitude": -19.931123, 
+        "longitude": -43.943565, 
+        "name": "B\u00e1rbara Heliodora", 
+        "timestamp": "2017-08-15T04:48:37.873000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenida \u00c1lvares Cabral", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": 35
+        }, 
+        "free_bikes": 4, 
+        "id": "84648d8c71616331e480d21432c2561a", 
+        "latitude": -19.926744, 
+        "longitude": -43.939234, 
+        "name": "Conex\u00e3o Aeroporto", 
+        "timestamp": "2017-08-15T04:48:37.880000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Pra\u00e7a Tiradentes", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 37
+        }, 
+        "free_bikes": 2, 
+        "id": "e39a85f42de79b51e2acfb9f8a6c68ec", 
+        "latitude": -19.930489, 
+        "longitude": -43.932077, 
+        "name": "Pra\u00e7a Tiradentes", 
+        "timestamp": "2017-08-15T04:48:37.882000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Avenida Francisco Sales", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 38
+        }, 
+        "free_bikes": 6, 
+        "id": "481f66a739201fcec7a05fa78ce05178", 
+        "latitude": -19.928969, 
+        "longitude": -43.92382, 
+        "name": "Francisco Sales", 
+        "timestamp": "2017-08-15T04:48:37.883000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Canteiro Central da Avenida Brasil", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 39
+        }, 
+        "free_bikes": 6, 
+        "id": "13731ac0f31768e1d1f892850aa88580", 
+        "latitude": -19.923642, 
+        "longitude": -43.920639, 
+        "name": "Pra\u00e7a Floriano Peixoto", 
+        "timestamp": "2017-08-15T04:48:37.884000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Rua Levi Coelho", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 40
+        }, 
+        "free_bikes": 9, 
+        "id": "2fcaed2c96494b73ed82e72c82f5fd6f", 
+        "latitude": -19.92083, 
+        "longitude": -43.922497, 
+        "name": "Santa Efig\u00eania", 
+        "timestamp": "2017-08-15T04:48:37.885000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Avenida Otac\u00edlio Negr\u00e3o de Lima", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 7
+        }, 
+        "free_bikes": 8, 
+        "id": "3e383922cbc45a7d41de08f6eebd3fbd", 
+        "latitude": -19.860453, 
+        "longitude": -43.995308, 
+        "name": "Pq. Ecol\u00f3gico da Pampulha", 
+        "timestamp": "2017-08-15T04:48:37.831000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Avenida Augusto de Lima", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 2
+        }, 
+        "free_bikes": 6, 
+        "id": "b48958dd6437dbaf0e48f67bdb4d0a96", 
+        "latitude": -19.92292, 
+        "longitude": -43.944243, 
+        "name": "Mercado Central", 
+        "timestamp": "2017-08-15T04:48:37.826000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Pra\u00e7a Afonso Arinos", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 3
+        }, 
+        "free_bikes": 10, 
+        "id": "3d4c7bfd559fc4a2cd907d824bd59485", 
+        "latitude": -19.925011, 
+        "longitude": -43.936198, 
+        "name": "Afonso Arinos", 
+        "timestamp": "2017-08-15T04:48:37.827000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenida Otac\u00edlio Negr\u00e3o de Lima", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 9
+        }, 
+        "free_bikes": 4, 
+        "id": "ddc2e7d92096f8a5150a0e93ac1f63ca", 
+        "latitude": -19.851361, 
+        "longitude": -43.990132, 
+        "name": "Bem - Te - Vi", 
+        "timestamp": "2017-08-15T04:48:37.833000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Pra\u00e7a dos esportes", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 10
+        }, 
+        "free_bikes": 7, 
+        "id": "d46c27d8ec271d6b86cbd50aea88c846", 
+        "latitude": -19.860655, 
+        "longitude": -43.981747, 
+        "name": "Pampulha", 
+        "timestamp": "2017-08-15T04:48:37.842000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Pra\u00e7a Rio Branco", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": 11
+        }, 
+        "free_bikes": 7, 
+        "id": "841d20cffb1027751462c7bc8df2fbce", 
+        "latitude": -19.914954, 
+        "longitude": -43.941294, 
+        "name": "Rodovi\u00e1ria", 
+        "timestamp": "2017-08-15T04:48:37.843000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Avenida Barbacena", 
+          "slots": 12, 
+          "status": "closed", 
+          "uid": 12
+        }, 
+        "free_bikes": 0, 
+        "id": "900b93eb5cdbc562cf4d08dd22531e6e", 
+        "latitude": -19.919903, 
+        "longitude": -43.955612, 
+        "name": "Instituto S\u00e3o Rafael", 
+        "timestamp": "2017-08-15T04:48:37.844000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Avenida Augusto de Lima", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 13
+        }, 
+        "free_bikes": 6, 
+        "id": "c8e5d26ed8b06079b351649fd2d99d9a", 
+        "latitude": -19.921642, 
+        "longitude": -43.950172, 
+        "name": "F\u00f3rum", 
+        "timestamp": "2017-08-15T04:48:37.845000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenida Barbacena", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 15
+        }, 
+        "free_bikes": 4, 
+        "id": "2082019753869a1499ae8df771b39598", 
+        "latitude": -19.926786, 
+        "longitude": -43.951148, 
+        "name": "Santo Agostinho", 
+        "timestamp": "2017-08-15T04:48:37.847000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Avenida Oleg\u00e1rio Maciel", 
+          "slots": 12, 
+          "status": "closed", 
+          "uid": 17
+        }, 
+        "free_bikes": 1, 
+        "id": "b6a6a3a75577d8d88ca9d152cea6167c", 
+        "latitude": -19.92883, 
+        "longitude": -43.94673, 
+        "name": "Diamond", 
+        "timestamp": "2017-08-15T04:48:37.849000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rua Rio de Janeiro", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 21
+        }, 
+        "free_bikes": 2, 
+        "id": "b051289f48f232baf62bcf4a3621580a", 
+        "latitude": -19.91685, 
+        "longitude": -43.938038, 
+        "name": "Caet\u00e9s", 
+        "timestamp": "2017-08-15T04:48:37.853000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Rua Caranda\u00ed", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 23
+        }, 
+        "free_bikes": 9, 
+        "id": "2c79019c6cdd5dced625319d11c8ce2f", 
+        "latitude": -19.927928, 
+        "longitude": -43.928952, 
+        "name": "Pra\u00e7a do Ciclista", 
+        "timestamp": "2017-08-15T04:48:37.855000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Rua dos Otoni", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 24
+        }, 
+        "free_bikes": 10, 
+        "id": "1532799905ce66e2a07c5f426fd14f0e", 
+        "latitude": -19.926451, 
+        "longitude": -43.924701, 
+        "name": "Otoni", 
+        "timestamp": "2017-08-15T04:48:37.856000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Avenida Bernardo Monteiro", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 25
+        }, 
+        "free_bikes": 5, 
+        "id": "8e631e090b7f30e47c2d939e171de791", 
+        "latitude": -19.932521, 
+        "longitude": -43.929788, 
+        "name": "Bernardo Monteiro", 
+        "timestamp": "2017-08-15T04:48:37.857000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rua Pernambuco", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 27
+        }, 
+        "free_bikes": 4, 
+        "id": "503d016719eca1deb35cd81bb331d3fc", 
+        "latitude": -19.934328, 
+        "longitude": -43.934471, 
+        "name": "Col\u00e9gio Santo Ant\u00f4nio", 
+        "timestamp": "2017-08-15T04:48:37.859000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rua Fernandes Tourinho", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 28
+        }, 
+        "free_bikes": 1, 
+        "id": "bc4534c5af9f5e595d89e805ecb1ff40", 
+        "latitude": -19.939361, 
+        "longitude": -43.935869, 
+        "name": "P\u00e1tio Savassi", 
+        "timestamp": "2017-08-15T04:48:37.860000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rua Sergipe", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 29
+        }, 
+        "free_bikes": 2, 
+        "id": "6496fca746db01b63ef1a64e3b89e165", 
+        "latitude": -19.937429, 
+        "longitude": -43.938159, 
+        "name": "Sergipe", 
+        "timestamp": "2017-08-15T04:48:37.861000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rua da Bahia", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 30
+        }, 
+        "free_bikes": 2, 
+        "id": "73e5d02e2784d401d59ea2f971d83779", 
+        "latitude": -19.937927, 
+        "longitude": -43.94106, 
+        "name": "Minas T\u00eanis Clube", 
+        "timestamp": "2017-08-15T04:48:37.862000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rua Mar\u00edlia de Dirceu", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 32
+        }, 
+        "free_bikes": 6, 
+        "id": "d899f6c9ecab644c34b6211a20dc7e1c", 
+        "latitude": -19.934094, 
+        "longitude": -43.946176, 
+        "name": "Mar\u00edlia de Dirceu", 
+        "timestamp": "2017-08-15T04:48:37.863000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rua Tomaz Gonzaga", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 33
+        }, 
+        "free_bikes": 2, 
+        "id": "55c2cd2cc43e755ae4dee86782455d2c", 
+        "latitude": -19.932465, 
+        "longitude": -43.942668, 
+        "name": "Tomaz Gonzaga", 
+        "timestamp": "2017-08-15T04:48:37.869000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Rua Sergipe", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 36
+        }, 
+        "free_bikes": 5, 
+        "id": "c6cea6068d192a417fbfc5723007ad6d", 
+        "latitude": -19.928651, 
+        "longitude": -43.935731, 
+        "name": "Pra\u00e7a Boa Viagem", 
+        "timestamp": "2017-08-15T04:48:37.881000Z"
+      }
+    ]
+  }
+}

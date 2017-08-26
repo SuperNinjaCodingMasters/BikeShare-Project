@@ -1,0 +1,2782 @@
+{
+  "network": {
+    "company": [
+      "Buenos Aires Ciudad"
+    ], 
+    "href": "/v2/networks/ecobici-buenos-aires", 
+    "id": "ecobici-buenos-aires", 
+    "license": {
+      "name": "Terms of Service", 
+      "url": "http://data.buenosaires.gob.ar/tyc"
+    }, 
+    "location": {
+      "city": "Buenos Aires", 
+      "country": "AR", 
+      "latitude": -34.630665, 
+      "longitude": -58.41156
+    }, 
+    "name": "Ecobici", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 21, 
+          "status": "open", 
+          "uid": "14"
+        }, 
+        "free_bikes": 11, 
+        "id": "bed52bb4bee82d8beff89fb4d6d725a6", 
+        "latitude": -34.578112, 
+        "longitude": -58.426416, 
+        "name": "Pac\u00edfico", 
+        "timestamp": "2017-08-15T04:47:53.818000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "COLEGIALES", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "20"
+        }, 
+        "free_bikes": 6, 
+        "id": "033f3b872273956e5763cf07fff6f4c0", 
+        "latitude": -34.579996, 
+        "longitude": -58.441615, 
+        "name": "Distrito Audiovisual", 
+        "timestamp": "2017-08-15T04:47:53.822000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "32"
+        }, 
+        "free_bikes": 4, 
+        "id": "dbe02aa602822d48337fd0a4d88d152f", 
+        "latitude": -34.607559, 
+        "longitude": -58.3736, 
+        "name": "Catedral", 
+        "timestamp": "2017-08-15T04:47:53.833000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "BALVANERA 595", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "84"
+        }, 
+        "free_bikes": 0, 
+        "id": "4e3e1c3b0447899d578a1bfdf85f0e4e", 
+        "latitude": -34.602192, 
+        "longitude": -58.395588, 
+        "name": "Lavalle", 
+        "timestamp": "2017-08-15T04:47:53.874000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "SAN TELMO 726", 
+          "slots": 21, 
+          "status": "open", 
+          "uid": "46"
+        }, 
+        "free_bikes": 9, 
+        "id": "336b7e7f6bd45f6eb2dd589796b39c6b", 
+        "latitude": -34.616327, 
+        "longitude": -58.374491, 
+        "name": "Chile", 
+        "timestamp": "2017-08-15T04:47:53.844000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "RETIRO 1031", 
+          "slots": 19, 
+          "status": "open", 
+          "uid": "53"
+        }, 
+        "free_bikes": 2, 
+        "id": "7deb58a4574c6f4be873bc8637972812", 
+        "latitude": -34.595389, 
+        "longitude": -58.374469, 
+        "name": "Ricardo Rojas", 
+        "timestamp": "2017-08-15T04:47:53.850000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "BALVANERA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "88"
+        }, 
+        "free_bikes": 9, 
+        "id": "d4e1765ab4f1a8bdc96ab5e3fe7e1b13", 
+        "latitude": -34.612886, 
+        "longitude": -58.404286, 
+        "name": "Misiones", 
+        "timestamp": "2017-08-15T04:47:53.878000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "SAN NICOLAS 420", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": "132"
+        }, 
+        "free_bikes": 0, 
+        "id": "f6fca4e5f571c85639e784cd2d609229", 
+        "latitude": -34.60313, 
+        "longitude": -58.372621, 
+        "name": "Corrientes", 
+        "timestamp": "2017-08-15T04:47:53.912000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "PUERTO MADERO", 
+          "slots": 20, 
+          "status": "closed", 
+          "uid": "152"
+        }, 
+        "free_bikes": 1, 
+        "id": "87f447d2ab1435d1a67a3a6ffcb994e3", 
+        "latitude": -34.617832, 
+        "longitude": -58.359849, 
+        "name": "Julieta Lanteri", 
+        "timestamp": "2017-08-15T04:47:53.931000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "RETIRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "2"
+        }, 
+        "free_bikes": 0, 
+        "id": "fde00d7050ea3b20c9e98e92d3759934", 
+        "latitude": -34.592462, 
+        "longitude": -58.374872, 
+        "name": "Retiro", 
+        "timestamp": "2017-08-15T04:47:53.810000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "BALVANERA", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "13"
+        }, 
+        "free_bikes": 7, 
+        "id": "74e4b09e2256b02eb52671d22b354df3", 
+        "latitude": -34.609734, 
+        "longitude": -58.406751, 
+        "name": "Once", 
+        "timestamp": "2017-08-15T04:47:53.817000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "ALMAGRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "194"
+        }, 
+        "free_bikes": 4, 
+        "id": "41c7f95d481c7e36491593a31fe4fade", 
+        "latitude": -34.606001, 
+        "longitude": -58.422577, 
+        "name": "Peron y F. Acu\u00f1a de Figueroa", 
+        "timestamp": "2017-08-15T04:47:53.963000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "MONSERRAT 101", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "61"
+        }, 
+        "free_bikes": 0, 
+        "id": "c451f903cf27d9a3ce325caa3141369b", 
+        "latitude": -34.609017, 
+        "longitude": -58.370908, 
+        "name": "Ministerio de Econom\u00eda", 
+        "timestamp": "2017-08-15T04:47:53.857000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "SAN NICOLAS 716", 
+          "slots": 18, 
+          "status": "open", 
+          "uid": "63"
+        }, 
+        "free_bikes": 0, 
+        "id": "d5a30d15ca13a986dc8f13dba87f53ff", 
+        "latitude": -34.599506, 
+        "longitude": -58.372761, 
+        "name": "Reconquista", 
+        "timestamp": "2017-08-15T04:47:53.858000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "SAN NICOLAS 175", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "68"
+        }, 
+        "free_bikes": 1, 
+        "id": "fe6ca01311193e240b835afb81a5068c", 
+        "latitude": -34.606681, 
+        "longitude": -58.385455, 
+        "name": "Rivarola", 
+        "timestamp": "2017-08-15T04:47:53.862000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "CHACARITA 101", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "94"
+        }, 
+        "free_bikes": 24, 
+        "id": "9b6ba051aabcc4191f0f3f5efb9151d5", 
+        "latitude": -34.591811, 
+        "longitude": -58.449442, 
+        "name": "Guzm\u00e1n", 
+        "timestamp": "2017-08-15T04:47:53.883000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "VILLA CRESPO 925", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "121"
+        }, 
+        "free_bikes": 5, 
+        "id": "bb836adbdda1fcf3a3b4e320766196be", 
+        "latitude": -34.60081, 
+        "longitude": -58.428378, 
+        "name": "Yatay", 
+        "timestamp": "2017-08-15T04:47:53.903000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "PALERMO 2601", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "5"
+        }, 
+        "free_bikes": 1, 
+        "id": "f9139e91c5974c97d89ecf3919b5c331", 
+        "latitude": -34.580563, 
+        "longitude": -58.420605, 
+        "name": "Plaza Italia", 
+        "timestamp": "2017-08-15T04:47:53.812000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "SAN TELMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "6"
+        }, 
+        "free_bikes": 10, 
+        "id": "ae5ff53322f3eee002853cc74008ccce", 
+        "latitude": -34.628233, 
+        "longitude": -58.369606, 
+        "name": "Parque Lezama", 
+        "timestamp": "2017-08-15T04:47:53.813000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "SAN NICOLAS 200", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "7"
+        }, 
+        "free_bikes": 2, 
+        "id": "3109b5dffd8a4a6d8f11bf36973e0ea7", 
+        "latitude": -34.605997, 
+        "longitude": -58.38098, 
+        "name": "Obelisco ", 
+        "timestamp": "2017-08-15T04:47:53.814000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "PUERTO MADERO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "10"
+        }, 
+        "free_bikes": 0, 
+        "id": "61b29d1c3b56ca61144898905b3aeeb7", 
+        "latitude": -34.616106, 
+        "longitude": -58.366017, 
+        "name": "Madero UCA", 
+        "timestamp": "2017-08-15T04:47:53.816000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "RECOLETA", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "12"
+        }, 
+        "free_bikes": 1, 
+        "id": "7d711e7aa11f21db4f02f5994bf07384", 
+        "latitude": -34.592583, 
+        "longitude": -58.388965, 
+        "name": "Plaza Vicente L\u00f3pez", 
+        "timestamp": "2017-08-15T04:47:53.817000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "MONSERRAT", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "16"
+        }, 
+        "free_bikes": 2, 
+        "id": "113eb0b9b4b8702c87cc6bc7bd723a31", 
+        "latitude": -34.610158, 
+        "longitude": -58.374814, 
+        "name": "Legislatura", 
+        "timestamp": "2017-08-15T04:47:53.819000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "MONSERRAT", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "18"
+        }, 
+        "free_bikes": 3, 
+        "id": "6256faaa0a6cf60adec6d2597493db1d", 
+        "latitude": -34.61769, 
+        "longitude": -58.380473, 
+        "name": "Independencia", 
+        "timestamp": "2017-08-15T04:47:53.821000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "RETIRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "22"
+        }, 
+        "free_bikes": 0, 
+        "id": "e1925b2b6749ec39495f6709c69ae9e9", 
+        "latitude": -34.594087, 
+        "longitude": -58.382662, 
+        "name": "Arenales", 
+        "timestamp": "2017-08-15T04:47:53.824000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": "23"
+        }, 
+        "free_bikes": 0, 
+        "id": "284307055a8b6bfdd9a8ca52033ed813", 
+        "latitude": -34.60014, 
+        "longitude": -58.379679, 
+        "name": "Suipacha", 
+        "timestamp": "2017-08-15T04:47:53.825000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "9"
+        }, 
+        "free_bikes": 1, 
+        "id": "d27dbedf50333377e1895c6ba812fa89", 
+        "latitude": -34.58529, 
+        "longitude": -58.407598, 
+        "name": "Parque Las Heras", 
+        "timestamp": "2017-08-15T04:47:53.815000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "MONSERRAT", 
+          "slots": 21, 
+          "status": "open", 
+          "uid": "24"
+        }, 
+        "free_bikes": 0, 
+        "id": "9489ef9a4cb50952ab6a9e11de1d58d6", 
+        "latitude": -34.610656, 
+        "longitude": -58.380845, 
+        "name": "Alsina", 
+        "timestamp": "2017-08-15T04:47:53.826000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "VILLA CRESPO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "31"
+        }, 
+        "free_bikes": 11, 
+        "id": "55fe0f2ffa8322579a8a91ba21b387c2", 
+        "latitude": -34.603173, 
+        "longitude": -58.439635, 
+        "name": "Padilla", 
+        "timestamp": "2017-08-15T04:47:53.832000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "34"
+        }, 
+        "free_bikes": 1, 
+        "id": "63c432ec116cf894ea8593e55ca14c4d", 
+        "latitude": -34.599097, 
+        "longitude": -58.37416, 
+        "name": "Galer\u00edas Pac\u00edfico", 
+        "timestamp": "2017-08-15T04:47:53.835000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 19, 
+          "status": "open", 
+          "uid": "40"
+        }, 
+        "free_bikes": 0, 
+        "id": "554df115aa8e1fed346b725f6478c345", 
+        "latitude": -34.604436, 
+        "longitude": -58.373785, 
+        "name": "Sarmiento", 
+        "timestamp": "2017-08-15T04:47:53.839000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "PARQUE PATRICIOS", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "41"
+        }, 
+        "free_bikes": 3, 
+        "id": "5566a5c9d8001cfcc6890e48e056ebb4", 
+        "latitude": -34.636356, 
+        "longitude": -58.40766, 
+        "name": "Urquiza", 
+        "timestamp": "2017-08-15T04:47:53.839000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "PALERMO 3300", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "44"
+        }, 
+        "free_bikes": 15, 
+        "id": "ad29859c1bdf75e063a50dac85cec491", 
+        "latitude": -34.575548, 
+        "longitude": -58.413716, 
+        "name": "Zool\u00f3gico", 
+        "timestamp": "2017-08-15T04:47:53.842000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "BALVANERA", 
+          "slots": 19, 
+          "status": "open", 
+          "uid": "76"
+        }, 
+        "free_bikes": 7, 
+        "id": "bc0ed4b815f965db672eb01ee84d7dd6", 
+        "latitude": -34.607551, 
+        "longitude": -58.394959, 
+        "name": "Ayacucho", 
+        "timestamp": "2017-08-15T04:47:53.868000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "MONSERRAT 683", 
+          "slots": 21, 
+          "status": "open", 
+          "uid": "81"
+        }, 
+        "free_bikes": 0, 
+        "id": "614c1249f609d1a5ff0010864b33deb6", 
+        "latitude": -34.615746, 
+        "longitude": -58.370755, 
+        "name": "Balcarce", 
+        "timestamp": "2017-08-15T04:47:53.872000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "BALVANERA 3302", 
+          "slots": 20, 
+          "status": "closed", 
+          "uid": "96"
+        }, 
+        "free_bikes": 1, 
+        "id": "5afc99b31ebf1147b1fc1efca86b89ca", 
+        "latitude": -34.602914, 
+        "longitude": -58.411465, 
+        "name": "Carlos Gardel", 
+        "timestamp": "2017-08-15T04:47:53.885000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "RETIRO 297", 
+          "slots": 28, 
+          "status": "closed", 
+          "uid": "114"
+        }, 
+        "free_bikes": 1, 
+        "id": "846562cd1a2b7abd7fc01460e06b583a", 
+        "latitude": -34.594811, 
+        "longitude": -58.372649, 
+        "name": "Della Paolera", 
+        "timestamp": "2017-08-15T04:47:53.898000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 21, 
+          "status": "open", 
+          "uid": "25"
+        }, 
+        "free_bikes": 1, 
+        "id": "810fc40fe156f15cbe3a8eebe34e2aff", 
+        "latitude": -34.589746, 
+        "longitude": -58.4165, 
+        "name": "Plaza G\u00fcemes", 
+        "timestamp": "2017-08-15T04:47:53.827000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "45"
+        }, 
+        "free_bikes": 1, 
+        "id": "370e471f5e10dc57e86e520bfda432e7", 
+        "latitude": -34.602752, 
+        "longitude": -58.386686, 
+        "name": "Uruguay", 
+        "timestamp": "2017-08-15T04:47:53.843000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "BALVANERA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "75"
+        }, 
+        "free_bikes": 3, 
+        "id": "e14da4192d3ee053c3b88d6cf0337ff5", 
+        "latitude": -34.612383, 
+        "longitude": -58.39895, 
+        "name": "Plaza Primero de Mayo", 
+        "timestamp": "2017-08-15T04:47:53.867000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "BALVANERA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "77"
+        }, 
+        "free_bikes": 5, 
+        "id": "dad2ecc6b4c3129b8142da163deab91a", 
+        "latitude": -34.6111, 
+        "longitude": -58.39469, 
+        "name": "Sarand\u00ed", 
+        "timestamp": "2017-08-15T04:47:53.869000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "PUERTO MADERO", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "79"
+        }, 
+        "free_bikes": 1, 
+        "id": "3668c466aaca30d0c299c258af20725f", 
+        "latitude": -34.61187, 
+        "longitude": -58.363697, 
+        "name": "Azucena Villaflor", 
+        "timestamp": "2017-08-15T04:47:53.870000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "SAN CRISTOBAL 1027", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "86"
+        }, 
+        "free_bikes": 6, 
+        "id": "777d62813f00f622dc5bca53426cc8ae", 
+        "latitude": -34.621372, 
+        "longitude": -58.401772, 
+        "name": "Saavedra", 
+        "timestamp": "2017-08-15T04:47:53.876000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "CABALLITO 213", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "87"
+        }, 
+        "free_bikes": 14, 
+        "id": "2eb29352548e46421a7dd8703a6e3d74", 
+        "latitude": -34.619823, 
+        "longitude": -58.431598, 
+        "name": "Guayaquil", 
+        "timestamp": "2017-08-15T04:47:53.877000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "PARQUE PATRICIOS 2908", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "92"
+        }, 
+        "free_bikes": 8, 
+        "id": "33f1eb8c3e9d8206ee7c4ea03dfe0dc4", 
+        "latitude": -34.631618, 
+        "longitude": -58.404982, 
+        "name": "Salcedo", 
+        "timestamp": "2017-08-15T04:47:53.881000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "VILLA CRESPO 815", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "100"
+        }, 
+        "free_bikes": 2, 
+        "id": "6772d318c69a0810f9c0d83175bf11df", 
+        "latitude": -34.59272, 
+        "longitude": -58.436821, 
+        "name": "Castillo", 
+        "timestamp": "2017-08-15T04:47:53.886000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "LA BOCA", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "108"
+        }, 
+        "free_bikes": 3, 
+        "id": "eefd4ab40f898e0ba22cc1ebf21b67bb", 
+        "latitude": -34.628595, 
+        "longitude": -58.355914, 
+        "name": "Usina del Arte", 
+        "timestamp": "2017-08-15T04:47:53.893000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "BALVANERA 3", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "118"
+        }, 
+        "free_bikes": 1, 
+        "id": "d8d164d46af429ff9b92d8b27bcff4e0", 
+        "latitude": -34.61679, 
+        "longitude": -58.402795, 
+        "name": "M\u00e9xico", 
+        "timestamp": "2017-08-15T04:47:53.901000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "ALMAGRO 5", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "134"
+        }, 
+        "free_bikes": 8, 
+        "id": "badfa3845af211d172818023ec62c9bf", 
+        "latitude": -34.611956, 
+        "longitude": -58.415363, 
+        "name": "Don Bosco ", 
+        "timestamp": "2017-08-15T04:47:53.914000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "VILLA CRESPO 608", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "136"
+        }, 
+        "free_bikes": 16, 
+        "id": "4abcc2982c38c28250109765080009e1", 
+        "latitude": -34.59983, 
+        "longitude": -58.442766, 
+        "name": "Acevedo", 
+        "timestamp": "2017-08-15T04:47:53.915000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "SAN TELMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "164"
+        }, 
+        "free_bikes": 2, 
+        "id": "b4187f5faf6acf57342cf19fc866e903", 
+        "latitude": -34.618119, 
+        "longitude": -58.36684, 
+        "name": "Facultad de Ingenieria", 
+        "timestamp": "2017-08-15T04:47:53.941000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "LA BOCA  346", 
+          "slots": 4, 
+          "status": "closed", 
+          "uid": "600"
+        }, 
+        "free_bikes": 2, 
+        "id": "7618453445ca3203e20d5474595b604a", 
+        "latitude": -34.688546, 
+        "longitude": -58.397712, 
+        "name": "PALACIO LEZAMA", 
+        "timestamp": "2017-08-15T04:47:53.965000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "BALVANERA", 
+          "slots": 19, 
+          "status": "open", 
+          "uid": "144"
+        }, 
+        "free_bikes": 4, 
+        "id": "466750ba37d73ec9a78e5359970d8350", 
+        "latitude": -34.601719, 
+        "longitude": -58.405979, 
+        "name": "Pueyrred\u00f3n", 
+        "timestamp": "2017-08-15T04:47:53.923000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "RECOLETA 2685", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "90"
+        }, 
+        "free_bikes": 0, 
+        "id": "5d5225801610dfb1314611bcad3a98f3", 
+        "latitude": -34.586646, 
+        "longitude": -58.399941, 
+        "name": "Gutierrez", 
+        "timestamp": "2017-08-15T04:47:53.880000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "PALERMO 4799", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "113"
+        }, 
+        "free_bikes": 1, 
+        "id": "29954b3b7fc92d213cba2ba4492851ed", 
+        "latitude": -34.585635, 
+        "longitude": -58.425198, 
+        "name": "Guatemala", 
+        "timestamp": "2017-08-15T04:47:53.897000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "VILLA CRESPO 285", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "129"
+        }, 
+        "free_bikes": 7, 
+        "id": "6aecb4d40409bbb61b8417d6b526168a", 
+        "latitude": -34.600181, 
+        "longitude": -58.434893, 
+        "name": "Velasco", 
+        "timestamp": "2017-08-15T04:47:53.909000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "4"
+        }, 
+        "free_bikes": 0, 
+        "id": "9945abaa2c07bf089ed79d9505cc9c4c", 
+        "latitude": -34.601714, 
+        "longitude": -58.369202, 
+        "name": "Plaza Roma", 
+        "timestamp": "2017-08-15T04:47:53.812000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "BOEDO", 
+          "slots": 20, 
+          "status": "closed", 
+          "uid": "139"
+        }, 
+        "free_bikes": 2, 
+        "id": "757b659dd025867d4c4f072b3fc68f45", 
+        "latitude": -34.633323, 
+        "longitude": -58.413082, 
+        "name": "Virrey Liniers", 
+        "timestamp": "2017-08-15T04:47:53.918000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "BOEDO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "140"
+        }, 
+        "free_bikes": 10, 
+        "id": "31adf960a3025b82d0375dc6d4ef2319", 
+        "latitude": -34.635237, 
+        "longitude": -58.415898, 
+        "name": "Las casas", 
+        "timestamp": "2017-08-15T04:47:53.919000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "LA BOCA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "176"
+        }, 
+        "free_bikes": 19, 
+        "id": "450970ba44dc1999614e5c0788a11923", 
+        "latitude": -34.63413, 
+        "longitude": -58.361026, 
+        "name": "Pinzon", 
+        "timestamp": "2017-08-15T04:47:53.950000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "LA BOCA", 
+          "slots": 15, 
+          "status": "open", 
+          "uid": "73"
+        }, 
+        "free_bikes": 6, 
+        "id": "0a82aadc9cbc7248b1869aa2c8694f4f", 
+        "latitude": -34.630715, 
+        "longitude": -58.37165, 
+        "name": "Ruy Diaz De Guzman", 
+        "timestamp": "2017-08-15T04:47:53.865000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "PUERTO MADERO", 
+          "slots": 27, 
+          "status": "open", 
+          "uid": "111"
+        }, 
+        "free_bikes": 1, 
+        "id": "a38938a12cc487a50d6f77bb27b0e72e", 
+        "latitude": -34.605343, 
+        "longitude": -58.364895, 
+        "name": "Macacha G\u00fcemes", 
+        "timestamp": "2017-08-15T04:47:53.896000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "145"
+        }, 
+        "free_bikes": 1, 
+        "id": "f592b13c8e2baa12f910bd444fc400ca", 
+        "latitude": -34.580415, 
+        "longitude": -58.437905, 
+        "name": "Ravignani", 
+        "timestamp": "2017-08-15T04:47:53.924000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "LA BOCA", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "153"
+        }, 
+        "free_bikes": 13, 
+        "id": "73e6c340e06d110d465672f9e38e6635", 
+        "latitude": -34.63073, 
+        "longitude": -58.36208, 
+        "name": "Juan Manuel Blanes", 
+        "timestamp": "2017-08-15T04:47:53.932000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "83"
+        }, 
+        "free_bikes": 0, 
+        "id": "4dcd8957cc3df4acbf7e31004c8156c3", 
+        "latitude": -34.602878, 
+        "longitude": -58.388749, 
+        "name": "Paran\u00e1", 
+        "timestamp": "2017-08-15T04:47:53.873000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "160"
+        }, 
+        "free_bikes": 0, 
+        "id": "5ef0d2a3bf3766ce41d40952fefcc1dd", 
+        "latitude": -34.572669, 
+        "longitude": -58.42084, 
+        "name": "Godoy Cruz y Libertador", 
+        "timestamp": "2017-08-15T04:47:53.937000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "PARQUE PATRICIOS ", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "107"
+        }, 
+        "free_bikes": 3, 
+        "id": "054108f62f15d3d25c7e546288d1dea5", 
+        "latitude": -34.630035, 
+        "longitude": -58.396361, 
+        "name": "Hospital Garrahan", 
+        "timestamp": "2017-08-15T04:47:53.892000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "ALMAGRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "143"
+        }, 
+        "free_bikes": 2, 
+        "id": "469392e31e82b8425227c7fada1f0ea9", 
+        "latitude": -34.604705, 
+        "longitude": -58.415804, 
+        "name": "Billinghurst y Valentin Gomez ", 
+        "timestamp": "2017-08-15T04:47:53.922000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "MONSERRAT", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "141"
+        }, 
+        "free_bikes": 4, 
+        "id": "ffd5f5f2ab1c6032d419b25aacee8f21", 
+        "latitude": -34.611697, 
+        "longitude": -58.390348, 
+        "name": "Solis y Alsina", 
+        "timestamp": "2017-08-15T04:47:53.919000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "CONSTITUCION ", 
+          "slots": 20, 
+          "status": "closed", 
+          "uid": "147"
+        }, 
+        "free_bikes": 11, 
+        "id": "8a8aa1a90e0010c7e5f7bca3ae6166ed", 
+        "latitude": -34.627376, 
+        "longitude": -58.379369, 
+        "name": "Constitucion I", 
+        "timestamp": "2017-08-15T04:47:53.926000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "CONSTITUCION", 
+          "slots": 19, 
+          "status": "open", 
+          "uid": "148"
+        }, 
+        "free_bikes": 16, 
+        "id": "75ae23dca8cd32e9eccc1cd68df1a934", 
+        "latitude": -34.627291, 
+        "longitude": -58.379049, 
+        "name": "Constitucion II", 
+        "timestamp": "2017-08-15T04:47:53.927000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "159"
+        }, 
+        "free_bikes": 0, 
+        "id": "a19433ad7ec75263722146d8982728c1", 
+        "latitude": -34.585024, 
+        "longitude": -58.437326, 
+        "name": "Fitz Roy y Gorrtiti ", 
+        "timestamp": "2017-08-15T04:47:53.937000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "BALVANERA ", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "162"
+        }, 
+        "free_bikes": 3, 
+        "id": "a9d01370d19cdc7c1a73d4a245191b05", 
+        "latitude": -34.609012, 
+        "longitude": -58.401881, 
+        "name": "Larrea y Bartolome Mitre ", 
+        "timestamp": "2017-08-15T04:47:53.939000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 18, 
+          "status": "open", 
+          "uid": "128"
+        }, 
+        "free_bikes": 1, 
+        "id": "33fe582c56a2547122afd4607f65e040", 
+        "latitude": -34.604129, 
+        "longitude": -58.368302, 
+        "name": "Plaza Hipolito Bouchard", 
+        "timestamp": "2017-08-15T04:47:53.909000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "BALVANERA ", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "170"
+        }, 
+        "free_bikes": 9, 
+        "id": "ef3edd3c59ab482a28ff3f22c0ee8173", 
+        "latitude": -34.59967, 
+        "longitude": -58.406035, 
+        "name": "San Luis y Ecuador", 
+        "timestamp": "2017-08-15T04:47:53.946000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "BALVANERA", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "163"
+        }, 
+        "free_bikes": 7, 
+        "id": "e0e9e32dd4a31b2f7bc65e58c4311c50", 
+        "latitude": -34.609239, 
+        "longitude": -58.40683, 
+        "name": "Once II", 
+        "timestamp": "2017-08-15T04:47:53.940000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "CONSTITUCION ", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "168"
+        }, 
+        "free_bikes": 3, 
+        "id": "668c8b4e52dd5b056d0e64bd477dd13f", 
+        "latitude": -34.618511, 
+        "longitude": -58.381552, 
+        "name": "Estados Unidos", 
+        "timestamp": "2017-08-15T04:47:53.944000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "156"
+        }, 
+        "free_bikes": 11, 
+        "id": "a5dfc1aaac6bc81cfc9ec68e08383797", 
+        "latitude": -34.578149, 
+        "longitude": -58.407947, 
+        "name": "Plaza Alemania", 
+        "timestamp": "2017-08-15T04:47:53.934000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "BALVANERA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "171"
+        }, 
+        "free_bikes": 3, 
+        "id": "01da593b40d3f85524d02cf34e892d59", 
+        "latitude": -34.603281, 
+        "longitude": -58.399591, 
+        "name": "Pasteur ", 
+        "timestamp": "2017-08-15T04:47:53.947000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "RECOLETA", 
+          "slots": 8, 
+          "status": "open", 
+          "uid": "174"
+        }, 
+        "free_bikes": 0, 
+        "id": "3a33a1dae20e5f0b77f8f2f91a6c54f5", 
+        "latitude": -34.597225, 
+        "longitude": -58.391602, 
+        "name": "Ministerio de Educacion ", 
+        "timestamp": "2017-08-15T04:47:53.948000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "BOEDO 803", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "178"
+        }, 
+        "free_bikes": 7, 
+        "id": "927bec6928266be2326bebebacc595ea", 
+        "latitude": -34.623493, 
+        "longitude": -58.424901, 
+        "name": "Jose Marmol", 
+        "timestamp": "2017-08-15T04:47:53.952000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "ALMAGRO ", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "180"
+        }, 
+        "free_bikes": 5, 
+        "id": "eebfc001527abcae74545bc775c0fd63", 
+        "latitude": -34.619801, 
+        "longitude": -58.420536, 
+        "name": "Castro y Mexico ", 
+        "timestamp": "2017-08-15T04:47:53.953000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "RETIRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "192"
+        }, 
+        "free_bikes": 3, 
+        "id": "2816ca28bc8e1295ca6d39780f543ac6", 
+        "latitude": -34.596539, 
+        "longitude": -58.385788, 
+        "name": "Talcahuano", 
+        "timestamp": "2017-08-15T04:47:53.962000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "ALMAGRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "17"
+        }, 
+        "free_bikes": 7, 
+        "id": "342ddd1afa7c7bfd3c107e7b94b82a60", 
+        "latitude": -34.606463, 
+        "longitude": -58.418705, 
+        "name": "Plaza Almagro", 
+        "timestamp": "2017-08-15T04:47:53.820000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "PARQUE PATRICIOS", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "21"
+        }, 
+        "free_bikes": 2, 
+        "id": "da6e9ebaaa5f50fd38acb3b8d5a06b60", 
+        "latitude": -34.640112, 
+        "longitude": -58.406552, 
+        "name": "Parque Patricios", 
+        "timestamp": "2017-08-15T04:47:53.823000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "MONSERRAT", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "3"
+        }, 
+        "free_bikes": 0, 
+        "id": "0baecd5a173559c54b3b9ca8a8d0edfc", 
+        "latitude": -34.611376, 
+        "longitude": -58.369009, 
+        "name": "Aduana", 
+        "timestamp": "2017-08-15T04:47:53.811000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "PUERTO MADERO", 
+          "slots": 21, 
+          "status": "open", 
+          "uid": "26"
+        }, 
+        "free_bikes": 4, 
+        "id": "f2c4581711dad07334a709022c667bb9", 
+        "latitude": -34.600525, 
+        "longitude": -58.363645, 
+        "name": "Juana Manso", 
+        "timestamp": "2017-08-15T04:47:53.828000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "SAN NICOLAS 1616", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "27"
+        }, 
+        "free_bikes": 0, 
+        "id": "5691f9818891f821cd0a4d432b4493b7", 
+        "latitude": -34.599506, 
+        "longitude": -58.389902, 
+        "name": "Montevideo", 
+        "timestamp": "2017-08-15T04:47:53.829000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "SAN CRISTOBAL", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "28"
+        }, 
+        "free_bikes": 6, 
+        "id": "551a388cfca7c9ddac5e1d8cc3c1a18b", 
+        "latitude": -34.622995, 
+        "longitude": -58.41258, 
+        "name": "Plaza Boedo", 
+        "timestamp": "2017-08-15T04:47:53.830000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "CABALLITO", 
+          "slots": 28, 
+          "status": "closed", 
+          "uid": "29"
+        }, 
+        "free_bikes": 28, 
+        "id": "b2bcefdb2c3cb23fcc238e6226aec839", 
+        "latitude": -34.607873, 
+        "longitude": -58.43354, 
+        "name": "Parque Centenario ", 
+        "timestamp": "2017-08-15T04:47:53.830000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "RECOLETA", 
+          "slots": 19, 
+          "status": "open", 
+          "uid": "30"
+        }, 
+        "free_bikes": 4, 
+        "id": "66cf0da10c8d2eecea4c82d815e7d98f", 
+        "latitude": -34.590586, 
+        "longitude": -58.397434, 
+        "name": "Pe\u00f1a", 
+        "timestamp": "2017-08-15T04:47:53.831000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "RECOLETA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "33"
+        }, 
+        "free_bikes": 0, 
+        "id": "d43adf72e5ba2070e883951479afaa8e", 
+        "latitude": -34.597211, 
+        "longitude": -58.398887, 
+        "name": "Facultad de Medicina", 
+        "timestamp": "2017-08-15T04:47:53.834000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "RETIRO", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "35"
+        }, 
+        "free_bikes": 1, 
+        "id": "fa367c429d4ebb1d15a93bcd589feb7a", 
+        "latitude": -34.596146, 
+        "longitude": -58.371839, 
+        "name": "Ingeniero Butty", 
+        "timestamp": "2017-08-15T04:47:53.835000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 8, 
+          "status": "open", 
+          "uid": "36"
+        }, 
+        "free_bikes": 2, 
+        "id": "f52b0af6d7852a8ea482acf8a225b52e", 
+        "latitude": -34.604841, 
+        "longitude": -58.376584, 
+        "name": "Maip\u00fa", 
+        "timestamp": "2017-08-15T04:47:53.836000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 14, 
+          "status": "closed", 
+          "uid": "37"
+        }, 
+        "free_bikes": 1, 
+        "id": "81e38e634f03f84e2c015bca9c032072", 
+        "latitude": -34.607948, 
+        "longitude": -58.377993, 
+        "name": "Piedras", 
+        "timestamp": "2017-08-15T04:47:53.837000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "RETIRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "38"
+        }, 
+        "free_bikes": 1, 
+        "id": "4730a3b98d486d1fe8ba1f6468c7b96c", 
+        "latitude": -34.596969, 
+        "longitude": -58.382798, 
+        "name": "Plaza Libertad", 
+        "timestamp": "2017-08-15T04:47:53.838000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 21, 
+          "status": "open", 
+          "uid": "42"
+        }, 
+        "free_bikes": 0, 
+        "id": "05b9deb5d0e8373c8aeb592b59c5fab9", 
+        "latitude": -34.60472, 
+        "longitude": -58.37967, 
+        "name": "Diagonal Norte", 
+        "timestamp": "2017-08-15T04:47:53.840000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "MONSERRAT 263", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "47"
+        }, 
+        "free_bikes": 3, 
+        "id": "331d3fa24d249fbdd0167a65e6b01b1c", 
+        "latitude": -34.611002, 
+        "longitude": -58.373413, 
+        "name": "Colegio Nacional Buenos Aires", 
+        "timestamp": "2017-08-15T04:47:53.845000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "SAN NICOLAS 339", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "48"
+        }, 
+        "free_bikes": 0, 
+        "id": "32ab77e0c2dc40bd1b47d331939662fc", 
+        "latitude": -34.605429, 
+        "longitude": -58.371528, 
+        "name": "Per\u00f3n", 
+        "timestamp": "2017-08-15T04:47:53.845000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": "51"
+        }, 
+        "free_bikes": 1, 
+        "id": "402ae267444bf7e72bcbd063ef1e20c0", 
+        "latitude": -34.601347, 
+        "longitude": -58.382268, 
+        "name": "Tucum\u00e1n", 
+        "timestamp": "2017-08-15T04:47:53.848000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "56"
+        }, 
+        "free_bikes": 2, 
+        "id": "65acf282e248ad5656174b6b59f67fff", 
+        "latitude": -34.589416, 
+        "longitude": -58.425143, 
+        "name": "Plaza Palermo Viejo", 
+        "timestamp": "2017-08-15T04:47:53.853000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "MONSERRAT 482", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "57"
+        }, 
+        "free_bikes": 0, 
+        "id": "68eabacc46fa6818121bb768a9961d13", 
+        "latitude": -34.613024, 
+        "longitude": -58.370706, 
+        "name": "Belgrano", 
+        "timestamp": "2017-08-15T04:47:53.853000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "PALERMO 5327", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "58"
+        }, 
+        "free_bikes": 7, 
+        "id": "b475fa2e257a2a67d11789068dccc2b2", 
+        "latitude": -34.575139, 
+        "longitude": -58.434778, 
+        "name": "Ministro Carranza", 
+        "timestamp": "2017-08-15T04:47:53.854000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "PALERMO 3328", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "59"
+        }, 
+        "free_bikes": 1, 
+        "id": "61d9e36f8ec13b214aba4e548dd7ea8b", 
+        "latitude": -34.590202, 
+        "longitude": -58.411614, 
+        "name": "Coronel D\u00edaz", 
+        "timestamp": "2017-08-15T04:47:53.855000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "SAN NICOLAS 527", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "60"
+        }, 
+        "free_bikes": 0, 
+        "id": "e74a5a11f419e57d30a53b861ed645d5", 
+        "latitude": -34.601586, 
+        "longitude": -58.371224, 
+        "name": "25 de Mayo", 
+        "timestamp": "2017-08-15T04:47:53.856000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "RECOLETA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "64"
+        }, 
+        "free_bikes": 0, 
+        "id": "74265b0caa29bd2249c7812c15d21838", 
+        "latitude": -34.594263, 
+        "longitude": -58.39433, 
+        "name": "Riobamba", 
+        "timestamp": "2017-08-15T04:47:53.859000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "PALERMO 3822", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "65"
+        }, 
+        "free_bikes": 2, 
+        "id": "98adf30f693a7c278af0d34212fca16e", 
+        "latitude": -34.587184, 
+        "longitude": -58.415815, 
+        "name": "Juli\u00e1n \u00c1lvarez", 
+        "timestamp": "2017-08-15T04:47:53.860000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "RECOLETA 3508", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "66"
+        }, 
+        "free_bikes": 6, 
+        "id": "1b67f8a03126ea991c8db085bfb8adca", 
+        "latitude": -34.594615, 
+        "longitude": -58.413818, 
+        "name": "Billinghurst", 
+        "timestamp": "2017-08-15T04:47:53.861000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "PALERMO 1413", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "70"
+        }, 
+        "free_bikes": 4, 
+        "id": "09999ea66d0f2135d01c6b558309136b", 
+        "latitude": -34.592667, 
+        "longitude": -58.425827, 
+        "name": "Araoz", 
+        "timestamp": "2017-08-15T04:47:53.863000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "SAN NICOLAS 1149", 
+          "slots": 27, 
+          "status": "open", 
+          "uid": "71"
+        }, 
+        "free_bikes": 1, 
+        "id": "05a99439eb2e0b4238ba4f5fe724bfda", 
+        "latitude": -34.603027, 
+        "longitude": -58.382824, 
+        "name": "Cerrito", 
+        "timestamp": "2017-08-15T04:47:53.864000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "CABALLITO 401", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "74"
+        }, 
+        "free_bikes": 6, 
+        "id": "096bc5081ac8eda78f34a4db473a0e69", 
+        "latitude": -34.604646, 
+        "longitude": -58.434769, 
+        "name": "Instituto Leloir", 
+        "timestamp": "2017-08-15T04:47:53.866000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "ALMAGRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "82"
+        }, 
+        "free_bikes": 6, 
+        "id": "bf06f843b45419b1aa0bb401825099ba", 
+        "latitude": -34.608095, 
+        "longitude": -58.426184, 
+        "name": "Hospital Italiano", 
+        "timestamp": "2017-08-15T04:47:53.873000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "RECOLETA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "85"
+        }, 
+        "free_bikes": 2, 
+        "id": "c635633dd3a03426d050bd6f31c341d8", 
+        "latitude": -34.594522, 
+        "longitude": -58.409038, 
+        "name": "Ag\u00fcero", 
+        "timestamp": "2017-08-15T04:47:53.875000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "SAN NICOLAS 510", 
+          "slots": 19, 
+          "status": "open", 
+          "uid": "95"
+        }, 
+        "free_bikes": 0, 
+        "id": "54118a6afd5553b0f8b3dc4f92342883", 
+        "latitude": -34.60221, 
+        "longitude": -58.378212, 
+        "name": "Esmeralda", 
+        "timestamp": "2017-08-15T04:47:53.884000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "VILLA CRESPO 780", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "99"
+        }, 
+        "free_bikes": 8, 
+        "id": "50a9f530affe40b14e3da8343c482172", 
+        "latitude": -34.596331, 
+        "longitude": -58.435565, 
+        "name": "Malabia", 
+        "timestamp": "2017-08-15T04:47:53.885000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "RECOLETA 600", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "115"
+        }, 
+        "free_bikes": 0, 
+        "id": "f494fb3510ec166479a8e2f5ac69b653", 
+        "latitude": -34.58766, 
+        "longitude": -58.390828, 
+        "name": "Quintana", 
+        "timestamp": "2017-08-15T04:47:53.899000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "MONSERRAT 490", 
+          "slots": 21, 
+          "status": "open", 
+          "uid": "72"
+        }, 
+        "free_bikes": 0, 
+        "id": "6ff84650e0f2496dff36ef9893bba074", 
+        "latitude": -34.613635, 
+        "longitude": -58.374675, 
+        "name": "Venezuela", 
+        "timestamp": "2017-08-15T04:47:53.865000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "RETIRO 820", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "62"
+        }, 
+        "free_bikes": 1, 
+        "id": "875d0f1ca104c96da4b7d829a9eca2cc", 
+        "latitude": -34.598506, 
+        "longitude": -58.376938, 
+        "name": "C\u00f3rdoba", 
+        "timestamp": "2017-08-15T04:47:53.858000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "RETIRO 750", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "19"
+        }, 
+        "free_bikes": 0, 
+        "id": "e86ab6ab19f97a11b0dc613544242fff", 
+        "latitude": -34.595699, 
+        "longitude": -58.377203, 
+        "name": "Plaza San Mart\u00edn", 
+        "timestamp": "2017-08-15T04:47:53.821000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "BOEDO 4101", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "49"
+        }, 
+        "free_bikes": 8, 
+        "id": "5d44578b1232e8626d691646a9cca37d", 
+        "latitude": -34.62892, 
+        "longitude": -58.422321, 
+        "name": "Treinta y tres orientales", 
+        "timestamp": "2017-08-15T04:47:53.846000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "PALERMO 2516", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "50"
+        }, 
+        "free_bikes": 1, 
+        "id": "9199f813efa34a11b287a409df75d467", 
+        "latitude": -34.583712, 
+        "longitude": -58.401047, 
+        "name": "Hospital Rivadavia", 
+        "timestamp": "2017-08-15T04:47:53.847000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "ALMAGRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "52"
+        }, 
+        "free_bikes": 4, 
+        "id": "611616ab398f40d9a1974081d54abea5", 
+        "latitude": -34.607055, 
+        "longitude": -58.414823, 
+        "name": "S\u00e1nchez de Bustamante", 
+        "timestamp": "2017-08-15T04:47:53.849000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "ALMAGRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "54"
+        }, 
+        "free_bikes": 4, 
+        "id": "b2c85d61e20e380cb8d70929a1a026e9", 
+        "latitude": -34.59828, 
+        "longitude": -58.421928, 
+        "name": "Acu\u00f1a de Figueroa", 
+        "timestamp": "2017-08-15T04:47:53.851000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "RETIRO 101", 
+          "slots": 17, 
+          "status": "open", 
+          "uid": "55"
+        }, 
+        "free_bikes": 1, 
+        "id": "100e514bc04a0398874d2e578fa10d1e", 
+        "latitude": -34.59939, 
+        "longitude": -58.369413, 
+        "name": "Bouchard", 
+        "timestamp": "2017-08-15T04:47:53.852000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "BALVANERA 698", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "91"
+        }, 
+        "free_bikes": 5, 
+        "id": "a61a98d99bfbe0bd51eb1c64455c9d44", 
+        "latitude": -34.617276, 
+        "longitude": -58.397672, 
+        "name": "Pasco", 
+        "timestamp": "2017-08-15T04:47:53.880000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "CHACARITA 1092", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "101"
+        }, 
+        "free_bikes": 6, 
+        "id": "8d611aec607ca3c0e8fbd944b92d1bed", 
+        "latitude": -34.589107, 
+        "longitude": -58.442351, 
+        "name": "Fitz Roy", 
+        "timestamp": "2017-08-15T04:47:53.887000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "PARQUE PATRICIOS 2687", 
+          "slots": 16, 
+          "status": "closed", 
+          "uid": "105"
+        }, 
+        "free_bikes": 4, 
+        "id": "e1f8928c076a1b178c29c988c6016bdd", 
+        "latitude": -34.634063, 
+        "longitude": -58.401144, 
+        "name": "15 de Noviembre", 
+        "timestamp": "2017-08-15T04:47:53.891000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "BALVANERAS 2091", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "106"
+        }, 
+        "free_bikes": 2, 
+        "id": "34b96e11953b364b471ea83902b49361", 
+        "latitude": -34.615164, 
+        "longitude": -58.395904, 
+        "name": "Rinc\u00f3n", 
+        "timestamp": "2017-08-15T04:47:53.891000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "VILLA CRESPO 185", 
+          "slots": 19, 
+          "status": "closed", 
+          "uid": "109"
+        }, 
+        "free_bikes": 4, 
+        "id": "0cd54a19635a2075f082feb62880a9d6", 
+        "latitude": -34.596712, 
+        "longitude": -58.429594, 
+        "name": "Lerma", 
+        "timestamp": "2017-08-15T04:47:53.894000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "ALMAGRO 3606", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "110"
+        }, 
+        "free_bikes": 0, 
+        "id": "fd663daf5c94baed8c38a06436c7e31f", 
+        "latitude": -34.601738, 
+        "longitude": -58.415436, 
+        "name": "Guardia Vieja", 
+        "timestamp": "2017-08-15T04:47:53.895000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "MONSERRAT", 
+          "slots": 15, 
+          "status": "open", 
+          "uid": "112"
+        }, 
+        "free_bikes": 1, 
+        "id": "f2c9b2048942ef74650f051c5436e49e", 
+        "latitude": -34.612118, 
+        "longitude": -58.381256, 
+        "name": "9 de Julio", 
+        "timestamp": "2017-08-15T04:47:53.897000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "PALERMO 4090", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "122"
+        }, 
+        "free_bikes": 3, 
+        "id": "efe104ff3c8c7afc42e79c2ab5016dc0", 
+        "latitude": -34.591643, 
+        "longitude": -58.420404, 
+        "name": "Costa Rica", 
+        "timestamp": "2017-08-15T04:47:53.904000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "135"
+        }, 
+        "free_bikes": 2, 
+        "id": "f46aec00632ea3386d6a4e60022a6d18", 
+        "latitude": -34.597634, 
+        "longitude": -58.378421, 
+        "name": "Marcelo T. de Alvear", 
+        "timestamp": "2017-08-15T04:47:53.915000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "MONSERRTAT ", 
+          "slots": 16, 
+          "status": "closed", 
+          "uid": "149"
+        }, 
+        "free_bikes": 0, 
+        "id": "4dc1d59a6d6b2f3354e250a73c2a48cf", 
+        "latitude": -34.615268, 
+        "longitude": -58.381586, 
+        "name": "Lima", 
+        "timestamp": "2017-08-15T04:47:53.928000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "PUERTO MADERO", 
+          "slots": 28, 
+          "status": "closed", 
+          "uid": "150"
+        }, 
+        "free_bikes": 28, 
+        "id": "8eb8cec6436f671b280077af58b59d47", 
+        "latitude": -34.617604, 
+        "longitude": -58.362774, 
+        "name": "Vera Pe\u00f1aloza", 
+        "timestamp": "2017-08-15T04:47:53.929000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "PUERTO MADERO 553", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "151"
+        }, 
+        "free_bikes": 0, 
+        "id": "414d705733454cb1b034a2487a325257", 
+        "latitude": -34.611452, 
+        "longitude": -58.359901, 
+        "name": "Aime Paine", 
+        "timestamp": "2017-08-15T04:47:53.930000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "ALMAGRO 5", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "154"
+        }, 
+        "free_bikes": 0, 
+        "id": "22e6e4ad0a52e15d9e7cd030c5b4be92", 
+        "latitude": -34.600743, 
+        "longitude": -58.412345, 
+        "name": "Gallo", 
+        "timestamp": "2017-08-15T04:47:53.932000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "ALMAGRO 3918", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "161"
+        }, 
+        "free_bikes": 1, 
+        "id": "eb97a39b38a925fdf2fc0955b8fffd4d", 
+        "latitude": -34.602063, 
+        "longitude": -58.419812, 
+        "name": "Humahuaca", 
+        "timestamp": "2017-08-15T04:47:53.938000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "RECOLETA 2050", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "166"
+        }, 
+        "free_bikes": 1, 
+        "id": "06f9c7ed69180ec8b884f386686e237f", 
+        "latitude": -34.588995, 
+        "longitude": -58.393688, 
+        "name": "Cementerio de la Recoleta", 
+        "timestamp": "2017-08-15T04:47:53.942000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "SAN NICOLAS 390", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "175"
+        }, 
+        "free_bikes": 0, 
+        "id": "40e8a7fbea0257795860e9f1f6a81123", 
+        "latitude": -34.603759, 
+        "longitude": -58.378074, 
+        "name": "Esmeralda y Corrientes", 
+        "timestamp": "2017-08-15T04:47:53.949000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "SAN CRISTOBAL 1010", 
+          "slots": 18, 
+          "status": "closed", 
+          "uid": "93"
+        }, 
+        "free_bikes": 7, 
+        "id": "96c6bc7301f156819cc92f85abb873a1", 
+        "latitude": -34.620744, 
+        "longitude": -58.394449, 
+        "name": "Carlos Calvo", 
+        "timestamp": "2017-08-15T04:47:53.882000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "SAN CRISTOBAL", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "146"
+        }, 
+        "free_bikes": 8, 
+        "id": "606bfece384bf184313897f4c5196cea", 
+        "latitude": -34.622049, 
+        "longitude": -58.407355, 
+        "name": "Hospital Franc\u00e9s", 
+        "timestamp": "2017-08-15T04:47:53.925000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "123"
+        }, 
+        "free_bikes": 4, 
+        "id": "9748186b0535cbb0e8901d9502ff7e15", 
+        "latitude": -34.584518, 
+        "longitude": -58.419755, 
+        "name": "Armenia", 
+        "timestamp": "2017-08-15T04:47:53.904000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "124"
+        }, 
+        "free_bikes": 16, 
+        "id": "542bc344eb1fefc0b7ca7a38f867aa61", 
+        "latitude": -34.580833, 
+        "longitude": -58.41212, 
+        "name": "Ugarteche", 
+        "timestamp": "2017-08-15T04:47:53.905000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "PALERMO 3082", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "89"
+        }, 
+        "free_bikes": 7, 
+        "id": "b8b0eb170d348eb62e708da0dd3cd20d", 
+        "latitude": -34.582433, 
+        "longitude": -58.405539, 
+        "name": "Cabello", 
+        "timestamp": "2017-08-15T04:47:53.879000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "BARRACAS 4", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "126"
+        }, 
+        "free_bikes": 15, 
+        "id": "a8fb28dbe51dd1deead4003f9a0af9ea", 
+        "latitude": -34.64015, 
+        "longitude": -58.369342, 
+        "name": "Ministerio de Justicia y Seguridad", 
+        "timestamp": "2017-08-15T04:47:53.907000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "SAN NICOLAS", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "191"
+        }, 
+        "free_bikes": 0, 
+        "id": "074b5aaea577d147aa9aca9e7dc68b71", 
+        "latitude": -34.608364, 
+        "longitude": -58.380759, 
+        "name": "Rivadavia y 9 de Julio", 
+        "timestamp": "2017-08-15T04:47:53.961000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "RECOLETA 2260", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "1"
+        }, 
+        "free_bikes": 4, 
+        "id": "e0a86063cc5d566171e8447dc7e64c7a", 
+        "latitude": -34.583865, 
+        "longitude": -58.39112, 
+        "name": "Facultad de Derecho", 
+        "timestamp": "2017-08-15T04:47:53.807000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "ALMAGRO", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "167"
+        }, 
+        "free_bikes": 2, 
+        "id": "0d4b7b3960e93a649daf702bf138b804", 
+        "latitude": -34.614901, 
+        "longitude": -58.427972, 
+        "name": "Hipolito Yrigoyen ", 
+        "timestamp": "2017-08-15T04:47:53.943000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "RECOLETA 2135", 
+          "slots": 28, 
+          "status": "open", 
+          "uid": "43"
+        }, 
+        "free_bikes": 0, 
+        "id": "8b3bedc1003a781a833069b0ccb39812", 
+        "latitude": -34.599605, 
+        "longitude": -58.39846, 
+        "name": "Plaza Houssay", 
+        "timestamp": "2017-08-15T04:47:53.841000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "SAN TELMO", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": "172"
+        }, 
+        "free_bikes": 8, 
+        "id": "1d79fc2a3e5b46f5b7b2ef5f139ef809", 
+        "latitude": -34.625532, 
+        "longitude": -58.37101, 
+        "name": "Brasil", 
+        "timestamp": "2017-08-15T04:47:53.948000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "RECOLETA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "181"
+        }, 
+        "free_bikes": 2, 
+        "id": "eba46a833090f30533916fee78589a10", 
+        "latitude": -34.592644, 
+        "longitude": -58.411962, 
+        "name": "Billinghurst y Mansilla", 
+        "timestamp": "2017-08-15T04:47:53.954000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "CHACARITA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "158"
+        }, 
+        "free_bikes": 3, 
+        "id": "2af4742043641a1154bb57f0e0a8920d", 
+        "latitude": -34.592728, 
+        "longitude": -58.44507, 
+        "name": "Villarroel", 
+        "timestamp": "2017-08-15T04:47:53.936000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "103"
+        }, 
+        "free_bikes": 6, 
+        "id": "6ed34a4dcb6a859b4078b55019825638", 
+        "latitude": -34.577587, 
+        "longitude": -58.403514, 
+        "name": "Malba", 
+        "timestamp": "2017-08-15T04:47:53.889000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "BARRACAS", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": "138"
+        }, 
+        "free_bikes": 2, 
+        "id": "cf41a70aad2f5cad53f86115586e3ac6", 
+        "latitude": -34.634931, 
+        "longitude": -58.388081, 
+        "name": "Hospital Brit\u00e1nico", 
+        "timestamp": "2017-08-15T04:47:53.917000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "CHACARITA", 
+          "slots": 27, 
+          "status": "open", 
+          "uid": "104"
+        }, 
+        "free_bikes": 15, 
+        "id": "2b87afe51aec8aecf50802d82b498940", 
+        "latitude": -34.587677, 
+        "longitude": -58.45521, 
+        "name": "Federico Lacroze", 
+        "timestamp": "2017-08-15T04:47:53.890000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "RETIRO ", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "130"
+        }, 
+        "free_bikes": 2, 
+        "id": "552c243fa4a2dc7d1070c1c6f6b0bd90", 
+        "latitude": -34.592225, 
+        "longitude": -58.374698, 
+        "name": "Retiro II", 
+        "timestamp": "2017-08-15T04:47:53.911000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "RETIRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "131"
+        }, 
+        "free_bikes": 0, 
+        "id": "f37ec69fc11d92fc37327696456ab4ba", 
+        "latitude": -34.591991, 
+        "longitude": -58.374501, 
+        "name": "Retiro III", 
+        "timestamp": "2017-08-15T04:47:53.911000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "CABALLITO 608", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "80"
+        }, 
+        "free_bikes": 10, 
+        "id": "57677d17c345ddc89d8dc6c1a4ba550c", 
+        "latitude": -34.624058, 
+        "longitude": -58.430442, 
+        "name": "Doblas", 
+        "timestamp": "2017-08-15T04:47:53.871000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "133"
+        }, 
+        "free_bikes": 3, 
+        "id": "17d0de2c8f0047386aa4b4f92d577b39", 
+        "latitude": -34.580951, 
+        "longitude": -58.434433, 
+        "name": "Nicaragua", 
+        "timestamp": "2017-08-15T04:47:53.913000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "MONSERRAT ", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "137"
+        }, 
+        "free_bikes": 1, 
+        "id": "f9f0f4786d546d8da799065ead2b5e79", 
+        "latitude": -34.615674, 
+        "longitude": -58.367527, 
+        "name": "Azopardo y Chile ", 
+        "timestamp": "2017-08-15T04:47:53.916000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "SAN TELMO ", 
+          "slots": 15, 
+          "status": "open", 
+          "uid": "117"
+        }, 
+        "free_bikes": 6, 
+        "id": "f3dcbdb3def6368a7aeaffee481c36b0", 
+        "latitude": -34.619887, 
+        "longitude": -58.374305, 
+        "name": "Humberto 1\u00ba", 
+        "timestamp": "2017-08-15T04:47:53.900000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "RECOLETA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "116"
+        }, 
+        "free_bikes": 1, 
+        "id": "49d87e9e0a218db0c1c5cac1112623ab", 
+        "latitude": -34.592105, 
+        "longitude": -58.402698, 
+        "name": "Hospital Alem\u00e1n", 
+        "timestamp": "2017-08-15T04:47:53.900000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "142"
+        }, 
+        "free_bikes": 2, 
+        "id": "117766d8456077ded29315be486f43ad", 
+        "latitude": -34.590538, 
+        "longitude": -58.429021, 
+        "name": "Armenia y Gorriti ", 
+        "timestamp": "2017-08-15T04:47:53.922000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "CHACARITA ", 
+          "slots": 19, 
+          "status": "open", 
+          "uid": "127"
+        }, 
+        "free_bikes": 6, 
+        "id": "782a5813d9239f856adf6d5e98af0565", 
+        "latitude": -34.592247, 
+        "longitude": -58.45301, 
+        "name": "Santos Dumont y Otero", 
+        "timestamp": "2017-08-15T04:47:53.908000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "CHACARITA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "102"
+        }, 
+        "free_bikes": 13, 
+        "id": "14ec8c3b12d41eb1d73ea28c0b9771bd", 
+        "latitude": -34.586424, 
+        "longitude": -58.445947, 
+        "name": "Roseti", 
+        "timestamp": "2017-08-15T04:47:53.888000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "NUEVA POMPEYA", 
+          "slots": 19, 
+          "status": "open", 
+          "uid": "155"
+        }, 
+        "free_bikes": 4, 
+        "id": "8609d80fbbbc3de4959fb0d0a2468714", 
+        "latitude": -34.641762, 
+        "longitude": -58.412684, 
+        "name": "Pque. Jose Evaristo Uriburu ", 
+        "timestamp": "2017-08-15T04:47:53.933000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "PARQUE CHACABUCO ", 
+          "slots": 19, 
+          "status": "open", 
+          "uid": "157"
+        }, 
+        "free_bikes": 4, 
+        "id": "ea85121b27f2112c28bde0bd9d93500c", 
+        "latitude": -34.628272, 
+        "longitude": -58.427966, 
+        "name": "Senillosa y Zuviria ", 
+        "timestamp": "2017-08-15T04:47:53.935000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "RECOLETA", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": "165"
+        }, 
+        "free_bikes": 3, 
+        "id": "55113b2a2ab669d2b90ada20bc6a683c", 
+        "latitude": -34.597127, 
+        "longitude": -58.407615, 
+        "name": "Plaza Monse\u00f1or Miguel De Andrea", 
+        "timestamp": "2017-08-15T04:47:53.941000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "RETIRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "78"
+        }, 
+        "free_bikes": 2, 
+        "id": "f2ac5bee236977ef25f43c1d7234cf04", 
+        "latitude": -34.59149, 
+        "longitude": -58.380176, 
+        "name": "Suipacha y Arroyo", 
+        "timestamp": "2017-08-15T04:47:53.869000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "BALVANERA 3084", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "120"
+        }, 
+        "free_bikes": 5, 
+        "id": "bf783c1e28986951f2ca3101ca9478b7", 
+        "latitude": -34.617544, 
+        "longitude": -58.409305, 
+        "name": "Hospital Ramos Mej\u00eda", 
+        "timestamp": "2017-08-15T04:47:53.902000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "MONSERRAT", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "183"
+        }, 
+        "free_bikes": 0, 
+        "id": "936d144c9faf89d5b327057742d76a1c", 
+        "latitude": -34.615596, 
+        "longitude": -58.389807, 
+        "name": "Virrey Cevallos", 
+        "timestamp": "2017-08-15T04:47:53.955000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": "177"
+        }, 
+        "free_bikes": 5, 
+        "id": "b75661ce61f066fcac6d19ce43448eb1", 
+        "latitude": -34.568055, 
+        "longitude": -58.412141, 
+        "name": "Planetario", 
+        "timestamp": "2017-08-15T04:47:53.951000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "BOEDO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "185"
+        }, 
+        "free_bikes": 3, 
+        "id": "aed1060e424f9a44f688ec2c022f6d66", 
+        "latitude": -34.631371, 
+        "longitude": -58.421828, 
+        "name": "Av. Pavon y 33 Orientales", 
+        "timestamp": "2017-08-15T04:47:53.957000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "BALVANERA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "186"
+        }, 
+        "free_bikes": 3, 
+        "id": "3f3e5caa70031b5ed3e1f2e61a4e7371", 
+        "latitude": -34.612557, 
+        "longitude": -58.407173, 
+        "name": "Catamarca", 
+        "timestamp": "2017-08-15T04:47:53.957000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "RECOLETA", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "193"
+        }, 
+        "free_bikes": 1, 
+        "id": "c5607de9340b41d4ffd88af643e07a8b", 
+        "latitude": -34.591197, 
+        "longitude": -58.405872, 
+        "name": "Arenales y Aguero", 
+        "timestamp": "2017-08-15T04:47:53.963000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "CABALLITO", 
+          "slots": 20, 
+          "status": "closed", 
+          "uid": "188"
+        }, 
+        "free_bikes": 3, 
+        "id": "90c61e6b0f5e0a63fd7e3222d18d6af9", 
+        "latitude": -34.610449, 
+        "longitude": -58.432955, 
+        "name": "Aranguren", 
+        "timestamp": "2017-08-15T04:47:53.958000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "PARQUE PATRICIOS ", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "184"
+        }, 
+        "free_bikes": 3, 
+        "id": "1abaa3ea1e3d5cbdcccfca41dd428bee", 
+        "latitude": -34.63072, 
+        "longitude": -58.391231, 
+        "name": "Pedro Echague ", 
+        "timestamp": "2017-08-15T04:47:53.956000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 16, 
+          "status": "open", 
+          "uid": "125"
+        }, 
+        "free_bikes": 4, 
+        "id": "2dae5fc473251404033727dd20e69483", 
+        "latitude": -34.583176, 
+        "longitude": -58.428037, 
+        "name": "F. J. Santamar\u00eda de Oro", 
+        "timestamp": "2017-08-15T04:47:53.906000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "RETIRO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "189"
+        }, 
+        "free_bikes": 12, 
+        "id": "0962bf52fd293ca2fce8e64aa4e9f548", 
+        "latitude": -34.588428, 
+        "longitude": -58.385442, 
+        "name": "Posadas", 
+        "timestamp": "2017-08-15T04:47:53.959000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "190"
+        }, 
+        "free_bikes": 2, 
+        "id": "5c23feb6a5a08ca28ca5dfe84163a581", 
+        "latitude": -34.584969, 
+        "longitude": -58.41132, 
+        "name": "Juncal", 
+        "timestamp": "2017-08-15T04:47:53.960000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "CONSTITUCION", 
+          "slots": 20, 
+          "status": "open", 
+          "uid": "195"
+        }, 
+        "free_bikes": 6, 
+        "id": "2435a37d9f52cbee75eca515f9c35122", 
+        "latitude": -34.6271, 
+        "longitude": -58.387357, 
+        "name": "Plaza Garay", 
+        "timestamp": "2017-08-15T04:47:53.964000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "PALERMO", 
+          "slots": 12, 
+          "status": "closed", 
+          "uid": "182"
+        }, 
+        "free_bikes": 0, 
+        "id": "6efa8f7f8cb655b4e84eb6b9b42d419c", 
+        "latitude": -34.578033, 
+        "longitude": -58.43504, 
+        "name": "Ravignani y Guatemala", 
+        "timestamp": "2017-08-15T04:47:53.954000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "BALVANERA", 
+          "slots": 12, 
+          "status": "closed", 
+          "uid": "169"
+        }, 
+        "free_bikes": 12, 
+        "id": "fd57c8fa7dc129ad4d36d72fd0866878", 
+        "latitude": -34.611853, 
+        "longitude": -58.411743, 
+        "name": "Facultad de Psicologia ", 
+        "timestamp": "2017-08-15T04:47:53.945000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-ente-parco-del-circeo", 
+    "id": "bicincitta-ente-parco-del-circeo", 
+    "location": {
+      "city": "Parco Nazionale del Circeo", 
+      "country": "IT", 
+      "latitude": 41.3151015, 
+      "longitude": 13.0330782
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Parco Nazionale del Circeo", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "2cfc8d4d2938d9e622181a2333cbccb0", 
+        "latitude": 41.297946133765834, 
+        "longitude": 13.045924791870902, 
+        "name": "Museo", 
+        "timestamp": "2017-08-15T04:48:53.504000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Sabaudia", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "64a2f24213b8a120fd4690c97f2d01d3", 
+        "latitude": 41.29809928201362, 
+        "longitude": 13.01944200116236, 
+        "name": "Lago di Paola", 
+        "timestamp": "2017-08-15T04:48:53.508000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "San Felice Circeo", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "61eae21a987495b18fe07c6ff733a982", 
+        "latitude": 41.22623631911361, 
+        "longitude": 13.09274945574839, 
+        "name": "Porto", 
+        "timestamp": "2017-08-15T04:48:53.509000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "Sabaudia", 
+          "status": "offline"
+        }, 
+        "free_bikes": 2, 
+        "id": "b86db5e44f5236e4c7a2ca282c3db3eb", 
+        "latitude": 41.30218931228651, 
+        "longitude": 13.027398365735962, 
+        "name": "Piazza Oberdan", 
+        "timestamp": "2017-08-15T04:48:53.510000Z"
+      }
+    ]
+  }
+}

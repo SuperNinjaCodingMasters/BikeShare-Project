@@ -1,0 +1,90 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/ossola", 
+    "id": "ossola", 
+    "location": {
+      "city": "Santa Maria Maggiore - Malesco - Villette", 
+      "country": "IT", 
+      "latitude": 46.127196, 
+      "longitude": 8.499169
+    }, 
+    "name": "Comunit\u00e0 Montana Valli dell'Ossola", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "33e286696256c07e3b1386b5380b3bb3", 
+        "latitude": 46.126779376285185, 
+        "longitude": 8.538351058959961, 
+        "name": "Re", 
+        "timestamp": "2017-08-15T04:48:42.722000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "5d9529642f86f245f342436302144496", 
+        "latitude": 46.13311429696646, 
+        "longitude": 8.433895111083984, 
+        "name": "Druogno", 
+        "timestamp": "2017-08-15T04:48:42.723000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "1ea23c227d0191cead8605dbf83a1e8f", 
+        "latitude": 46.136575145957714, 
+        "longitude": 8.460867404937744, 
+        "name": "Santa Maria Maggiore", 
+        "timestamp": "2017-08-15T04:48:42.703000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "bca0fd7173aa5b1a4019fd3bfa846e32", 
+        "latitude": 46.12919966966522, 
+        "longitude": 8.4989333152771, 
+        "name": "Malesco", 
+        "timestamp": "2017-08-15T04:48:42.720000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "6538080bd00c7f1f73a9bfd707c69fdb", 
+        "latitude": 46.11787059096551, 
+        "longitude": 8.28869104385376, 
+        "name": "Domodossola Romita", 
+        "timestamp": "2017-08-15T04:48:42.724000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "274cb0ada86563c925d6b1376495accc", 
+        "latitude": 46.11543864386819, 
+        "longitude": 8.29616904258728, 
+        "name": "Domodossola Matteotti", 
+        "timestamp": "2017-08-15T04:48:42.728000Z"
+      }
+    ]
+  }
+}

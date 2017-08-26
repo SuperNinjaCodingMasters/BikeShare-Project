@@ -1,0 +1,329 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/udine", 
+    "id": "udine", 
+    "location": {
+      "city": "Udine", 
+      "country": "IT", 
+      "latitude": 46.0710668, 
+      "longitude": 13.2345794
+    }, 
+    "name": "Udine", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "via Luigi Magrini", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "5130de05a4730dff7ecb502d3e1d66ea", 
+        "latitude": 46.06298809940604, 
+        "longitude": 13.229942321777344, 
+        "name": "Magrini", 
+        "timestamp": "2017-08-15T04:47:52.852000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "viale Europa Unita", 
+          "status": "online"
+        }, 
+        "free_bikes": 15, 
+        "id": "f2395116bd27af6e5f4d6a1eaa36f814", 
+        "latitude": 46.056138838693876, 
+        "longitude": 13.241143226623535, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:47:52.855000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "via Leopardi", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "26131b30f17359761bd76d36314d8b85", 
+        "latitude": 46.05832771655582, 
+        "longitude": 13.241057395935059, 
+        "name": "Autostazione", 
+        "timestamp": "2017-08-15T04:47:52.855000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "piazza Duomo", 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "026fef43ab4ba5d4c6e3a8c16dab6c04", 
+        "latitude": 46.06261960102747, 
+        "longitude": 13.236615657806396, 
+        "name": "Duomo", 
+        "timestamp": "2017-08-15T04:47:52.856000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "via Zanon / via Poscolle", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "c5b47b2cefb1a411c2a32b54608c401b", 
+        "latitude": 46.061800706935756, 
+        "longitude": 13.232731819152832, 
+        "name": "Poscolle", 
+        "timestamp": "2017-08-15T04:47:52.857000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "via Andreuzzi", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "a6e745148ef992e7921c98a2b23ce725", 
+        "latitude": 46.05907221306012, 
+        "longitude": 13.230907917022705, 
+        "name": "Andreuzzi", 
+        "timestamp": "2017-08-15T04:47:52.858000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "piazzale Osoppo", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "f95a5ec6945cf167b2db8af5f6321f32", 
+        "latitude": 46.07111677133542, 
+        "longitude": 13.23554277420044, 
+        "name": "Caccia", 
+        "timestamp": "2017-08-15T04:47:52.859000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "via Moretti", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "10cc01ed788d1f340ee1e6e181dccd64", 
+        "latitude": 46.060702625340596, 
+        "longitude": 13.22729229927063, 
+        "name": "Moretti", 
+        "timestamp": "2017-08-15T04:47:52.859000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "V.le Palmanova / Via del Vascello", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "2ba80b3dd93a6c38e9777d150180e232", 
+        "latitude": 46.055580437593804, 
+        "longitude": 13.246057033538818, 
+        "name": "Vascello", 
+        "timestamp": "2017-08-15T04:47:52.860000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "piazzale G.B. Cella", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "6912ebeffb71dac7841ac83932550b56", 
+        "latitude": 46.055156048981345, 
+        "longitude": 13.229448795318604, 
+        "name": "Cella", 
+        "timestamp": "2017-08-15T04:47:52.861000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Park teatro \u00e2\u0080\u009cGiovanni da Udine\u00e2\u0080\u009d", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "5fd2c03357e14d69f72f8d3b3497fd83", 
+        "latitude": 46.066174205034045, 
+        "longitude": 13.24451208114624, 
+        "name": "Teatro", 
+        "timestamp": "2017-08-15T04:47:52.862000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "piazzale Diacono", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "ff61d41c1b07339b126a634a3b479d1e", 
+        "latitude": 46.07096790532099, 
+        "longitude": 13.228397369384766, 
+        "name": "Diacono", 
+        "timestamp": "2017-08-15T04:47:52.863000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "piazzale Santa Maria della Misericordia", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "f083578cedd2b5c0cc8c19b5fd78939d", 
+        "latitude": 46.07631194370487, 
+        "longitude": 13.22977066040039, 
+        "name": "Ospedale", 
+        "timestamp": "2017-08-15T04:47:52.864000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "via Mons. Nogara", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "126d2dccaa2df3d6b2775395cb6b1302", 
+        "latitude": 46.06616086273973, 
+        "longitude": 13.217178279198492, 
+        "name": "Terminal studenti", 
+        "timestamp": "2017-08-15T04:47:52.873000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "piazzale Cavedalis", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "e18107478a689157ce5009fb59a9cc87", 
+        "latitude": 46.06745352074353, 
+        "longitude": 13.225115523977252, 
+        "name": "Cavedalis", 
+        "timestamp": "2017-08-15T04:47:52.864000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "piazza Medaglie d\u00e2\u0080\u0099oro", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "a189e458731400c4e857956620facc1c", 
+        "latitude": 46.07746009866571, 
+        "longitude": 13.235380043481882, 
+        "name": "Chiavris", 
+        "timestamp": "2017-08-15T04:47:52.865000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "via Chiusaforte", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "376e1ec38c0c3fc190b9927dde1d79cd", 
+        "latitude": 46.07875837690912, 
+        "longitude": 13.223723826354558, 
+        "name": "Kolbe", 
+        "timestamp": "2017-08-15T04:47:52.866000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "via T. Petracco", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "cd04f33e84028892c58e061040826a34", 
+        "latitude": 46.06648141633637, 
+        "longitude": 13.233068452639827, 
+        "name": "Petracco", 
+        "timestamp": "2017-08-15T04:47:52.867000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "via Planis", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "f638baabb525d4f4788328313c7e4fd9", 
+        "latitude": 46.07127595106352, 
+        "longitude": 13.242219974942373, 
+        "name": "Planis", 
+        "timestamp": "2017-08-15T04:47:52.868000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "largo Ospedale Vecchio", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "e19d3622db27ecea043de6acbf807790", 
+        "latitude": 46.059513271599975, 
+        "longitude": 13.235862189653403, 
+        "name": "Tribunale", 
+        "timestamp": "2017-08-15T04:47:52.869000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "viale Ungheria", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "2c7654da35e7d909279eb8045c7d29ec", 
+        "latitude": 46.061200627645874, 
+        "longitude": 13.24237039073796, 
+        "name": "Ungheria", 
+        "timestamp": "2017-08-15T04:47:52.869000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "description": "piazza XX Settembre", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "ced27f96d5a14fd3d80c1078ecf27dc5", 
+        "latitude": 46.06136711836147, 
+        "longitude": 13.234233535547219, 
+        "name": "XX Settembre", 
+        "timestamp": "2017-08-15T04:47:52.870000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "piazza I Maggio", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "f1289487e4b3ba8737098cf4d0e81105", 
+        "latitude": 46.06558336929379, 
+        "longitude": 13.236700161307567, 
+        "name": "I Maggio", 
+        "timestamp": "2017-08-15T04:47:52.871000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "4369d0cbf1ee18e5e299f0aeb7bd7599", 
+        "latitude": 46.07913360458685, 
+        "longitude": 13.21502474634508, 
+        "name": "Polo Scientifico", 
+        "timestamp": "2017-08-15T04:47:52.872000Z"
+      }
+    ]
+  }
+}

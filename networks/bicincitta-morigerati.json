@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-morigerati", 
+    "id": "bicincitta-morigerati", 
+    "location": {
+      "city": "Morigerati", 
+      "country": "IT", 
+      "latitude": 40.1422031, 
+      "longitude": 15.5298525
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Via San Biagio", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "05bfec6d4c999ef57a1a927b3e319145", 
+        "latitude": 40.13620587306669, 
+        "longitude": 15.531427522753916, 
+        "name": "Sicili`", 
+        "timestamp": "2017-08-15T04:50:14.246000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Via Aldo Moro", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "621316d6d81fe46443e858234f16851c", 
+        "latitude": 40.140265913892215, 
+        "longitude": 15.555701514338693, 
+        "name": "Morigerati", 
+        "timestamp": "2017-08-15T04:50:14.244000Z"
+      }
+    ]
+  }
+}

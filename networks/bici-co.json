@@ -1,0 +1,221 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bici-co", 
+    "id": "bici-co", 
+    "location": {
+      "city": "Como", 
+      "country": "IT", 
+      "latitude": 45.8080597, 
+      "longitude": 9.0851765
+    }, 
+    "name": "BICI&CO", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "dbd93c5b22189275cf79bfbd2a2b5323", 
+        "latitude": 45.83134638009883, 
+        "longitude": 9.072258363529272, 
+        "name": "Tavernola", 
+        "timestamp": "2017-08-15T04:47:06.126000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Piazza De Gasperi", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "b2701e1ad1cc22d2169f3239642af189", 
+        "latitude": 45.81749266944911, 
+        "longitude": 9.082643687725067, 
+        "name": "Funicolare", 
+        "timestamp": "2017-08-15T04:47:06.112000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via Vittorio Emanuele II", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "7b389bf21d7c15682b0e815d86d41c62", 
+        "latitude": 45.80969691194616, 
+        "longitude": 9.085077792406082, 
+        "name": "Municipio", 
+        "timestamp": "2017-08-15T04:47:06.113000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via Regina Teodolinda", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "30931e5c4baa05bf9937315abeecfd9c", 
+        "latitude": 45.802500291022646, 
+        "longitude": 9.0802001953125, 
+        "name": "Sant'Abbondio", 
+        "timestamp": "2017-08-15T04:47:06.116000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Piazzale Gerbetto", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "d34cfe549b33edb1364ddae61e9b4c47", 
+        "latitude": 45.805041370920904, 
+        "longitude": 9.090400636196136, 
+        "name": "FN Borghi", 
+        "timestamp": "2017-08-15T04:47:06.117000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Piazza Vittoria", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "8c02f860f9f228f3a2529b08f24d7bda", 
+        "latitude": 45.80637076389112, 
+        "longitude": 9.085366129875183, 
+        "name": "Vittoria", 
+        "timestamp": "2017-08-15T04:47:06.120000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Cantoni", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "5ef0fcc87fba5d2832569581a14e49e4", 
+        "latitude": 45.818163763981104, 
+        "longitude": 9.066306352615356, 
+        "name": "Villa Olmo", 
+        "timestamp": "2017-08-15T04:47:06.122000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via Milano", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "84dbc6d76769313a9768d72e538a23b3", 
+        "latitude": 45.801284869668955, 
+        "longitude": 9.086487293243408, 
+        "name": "Santa Chiara", 
+        "timestamp": "2017-08-15T04:47:06.123000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "bc8e4f89159151c8cbac4d8251142ea9", 
+        "latitude": 45.81469276687993, 
+        "longitude": 9.083187625131245, 
+        "name": "Como Nord Lago", 
+        "timestamp": "2017-08-15T04:47:06.124000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Via Valleggio", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "1d6a9d3b2201575014f2d70fa686159c", 
+        "latitude": 45.802097093861775, 
+        "longitude": 9.09445690475468, 
+        "name": "Universita`", 
+        "timestamp": "2017-08-15T04:47:06.141000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "4efdf475f893a70cfcfeeac894465243", 
+        "latitude": 45.806972837821576, 
+        "longitude": 9.08097407605328, 
+        "name": "Pirellino", 
+        "timestamp": "2017-08-15T04:47:06.133000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Piazza Cavour", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "dc9afb74570d320be09dd69c912f6e2a", 
+        "latitude": 45.81270410980125, 
+        "longitude": 9.080782234668732, 
+        "name": "Cavour", 
+        "timestamp": "2017-08-15T04:47:06.103000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "dc4acc350bc2ccf7b75c792a49c533c3", 
+        "latitude": 45.79720054081762, 
+        "longitude": 9.092374744180233, 
+        "name": "Caserme", 
+        "timestamp": "2017-08-15T04:47:06.139000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "9d91f7ca66baf27b1cf9c711a725c927", 
+        "latitude": 45.81023444879706, 
+        "longitude": 9.077003065606732, 
+        "name": "Cacciatori delle Alpi", 
+        "timestamp": "2017-08-15T04:47:06.131000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Piazzale San Gottardo", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "eecf538e1691b32b2a7ebd9fa4dd03c8", 
+        "latitude": 45.80869665783844, 
+        "longitude": 9.073455780744553, 
+        "name": "RFI San Giovanni", 
+        "timestamp": "2017-08-15T04:47:06.115000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Viale Puecher", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "d21f74b5790ac77d772d83d5caaa8456", 
+        "latitude": 45.8146642629522, 
+        "longitude": 9.073081612586975, 
+        "name": "Stadio", 
+        "timestamp": "2017-08-15T04:47:06.121000Z"
+      }
+    ]
+  }
+}

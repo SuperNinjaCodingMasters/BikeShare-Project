@@ -1,0 +1,2263 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/usedomrad-usedom", 
+    "id": "usedomrad-usedom", 
+    "location": {
+      "city": "Usedom", 
+      "country": "DE", 
+      "latitude": 53.9779, 
+      "longitude": 13.9925
+    }, 
+    "name": "UsedomRad", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "55468", 
+            "55465", 
+            "55454", 
+            "55616", 
+            "56815"
+          ], 
+          "number": "5628", 
+          "slots": 10, 
+          "uid": "350543"
+        }, 
+        "free_bikes": 5, 
+        "id": "8d61f17bc21e967502593291fed792aa", 
+        "latitude": 54.053364128853, 
+        "longitude": 13.780771493912, 
+        "name": "Rungeplatz Wolgast 5628", 
+        "timestamp": "2017-08-15T04:49:12.054000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55496", 
+            "55414", 
+            "56774", 
+            "55835"
+          ], 
+          "number": "5600", 
+          "uid": "199128"
+        }, 
+        "free_bikes": 4, 
+        "id": "c0d32557610e2bf5c4c58d77762aa9c2", 
+        "latitude": 54.137425571394, 
+        "longitude": 13.727669119835, 
+        "name": "Hafen Freest 5600", 
+        "timestamp": "2017-08-15T04:49:12.028000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55440", 
+            "55633", 
+            "55612", 
+            "56823", 
+            "56814"
+          ], 
+          "number": "5564", 
+          "uid": "99836"
+        }, 
+        "free_bikes": 5, 
+        "id": "20bf8c05e4952d447d9ecf9ee61011d6", 
+        "latitude": 53.93570250181, 
+        "longitude": 14.187995195389, 
+        "name": "Bahnhof Ahlbeck 5564", 
+        "timestamp": "2017-08-15T04:49:11.956000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "56639", 
+            "56650", 
+            "56778", 
+            "56821"
+          ], 
+          "number": "5518", 
+          "uid": "66402"
+        }, 
+        "free_bikes": 4, 
+        "id": "65062563e5901904fd1d0aa5fc8c1b0b", 
+        "latitude": 54.000441620255, 
+        "longitude": 14.058637619019, 
+        "name": "Forstamt & Kletterwald Neu Pudagla 5518", 
+        "timestamp": "2017-08-15T04:49:11.850000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55021", 
+            "55515", 
+            "56586", 
+            "55313", 
+            "55533"
+          ], 
+          "number": "5559", 
+          "uid": "934503"
+        }, 
+        "free_bikes": 9, 
+        "id": "33985e199338f929cca3ddf14721b305", 
+        "latitude": 54.088143771817, 
+        "longitude": 13.860357999802, 
+        "name": "Hotel Seeklause Trassenheide 5559", 
+        "timestamp": "2017-08-15T04:49:12.070000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55425", 
+            "55697", 
+            "55681", 
+            "55632", 
+            "55606"
+          ], 
+          "number": "5524", 
+          "uid": "66409"
+        }, 
+        "free_bikes": 8, 
+        "id": "d7fd964877e591fe018c1a39877866c7", 
+        "latitude": 54.117345091044, 
+        "longitude": 13.830628395081, 
+        "name": "Bahnhof Karlshagen 5524", 
+        "timestamp": "2017-08-15T04:49:11.860000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "55685", 
+            "55601", 
+            "56780", 
+            "56830"
+          ], 
+          "number": "5615", 
+          "slots": 6, 
+          "uid": "216612"
+        }, 
+        "free_bikes": 4, 
+        "id": "b937015c164a912e7f1ae4e3c2486f37", 
+        "latitude": 53.941860135847, 
+        "longitude": 14.179192185402, 
+        "name": "Pension Delia Will Ahlbeck 5615", 
+        "timestamp": "2017-08-15T04:49:12.041000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55013", 
+            "55413", 
+            "56556", 
+            "56514", 
+            "56518"
+          ], 
+          "number": "5614", 
+          "uid": "201001"
+        }, 
+        "free_bikes": 7, 
+        "id": "726bc17f018d36199c7e440d4403be89", 
+        "latitude": 53.872260761132, 
+        "longitude": 13.997966051102, 
+        "name": "Landhaus am Haff 5614", 
+        "timestamp": "2017-08-15T04:49:12.038000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55684", 
+            "55611", 
+            "56792", 
+            "56809", 
+            "56804"
+          ], 
+          "number": "5550", 
+          "uid": "71523"
+        }, 
+        "free_bikes": 6, 
+        "id": "7050914617535926a739c890fbd18309", 
+        "latitude": 53.907088, 
+        "longitude": 14.248677, 
+        "name": "Adler-Schiffe-Kai Stadtzentrum Swinem\u00fcnde 5550", 
+        "timestamp": "2017-08-15T04:49:11.909000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5656", 
+          "uid": "350568"
+        }, 
+        "free_bikes": 0, 
+        "id": "67d2f2972022d390d1990f12078fc7c7", 
+        "latitude": 53.923027546979, 
+        "longitude": 14.215058684349, 
+        "name": "Sandskulpturenfestival Usedom 5656", 
+        "timestamp": "2017-08-15T04:49:12.061000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55485", 
+            "55442"
+          ], 
+          "number": "5592", 
+          "uid": "139983"
+        }, 
+        "free_bikes": 2, 
+        "id": "6647758b2ff809bb73f506b690312d0b", 
+        "latitude": 53.747962167672, 
+        "longitude": 14.071844816208, 
+        "name": "Haffbad Ueckerm\u00fcnde 5592", 
+        "timestamp": "2017-08-15T04:49:11.985000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55080", 
+            "55027", 
+            "55166", 
+            "56568", 
+            "55240"
+          ], 
+          "number": "5608", 
+          "uid": "199139"
+        }, 
+        "free_bikes": 6, 
+        "id": "715bd725cb4dbb8152728e7fb2185dc0", 
+        "latitude": 53.868854293653, 
+        "longitude": 13.991233706474, 
+        "name": "Schloss Stolpe Usedom 5608", 
+        "timestamp": "2017-08-15T04:49:12.035000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55067", 
+            "55111", 
+            "55110", 
+            "55473", 
+            "55506"
+          ], 
+          "number": "5533", 
+          "uid": "65937"
+        }, 
+        "free_bikes": 14, 
+        "id": "afc49cc4ca957455eedee115f71d2473", 
+        "latitude": 53.967254715482, 
+        "longitude": 13.940631151199, 
+        "name": "Ferienwohnanlage `Alte Molkerei` Liepe 5533", 
+        "timestamp": "2017-08-15T04:49:11.794000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55158", 
+            "55149", 
+            "55514", 
+            "55541", 
+            "55306"
+          ], 
+          "number": "5502", 
+          "uid": "66072"
+        }, 
+        "free_bikes": 7, 
+        "id": "20ba2774bb6e2559e8b99e5e049eecf6", 
+        "latitude": 54.118388962531, 
+        "longitude": 13.82869720459, 
+        "name": "Fahrradverleih Holtz Karlshagen 5502", 
+        "timestamp": "2017-08-15T04:49:11.810000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55119", 
+            "55291", 
+            "55542", 
+            "55329", 
+            "55789"
+          ], 
+          "number": "5503", 
+          "uid": "66080"
+        }, 
+        "free_bikes": 8, 
+        "id": "7f6a101e3bff0052fcee20e03738d085", 
+        "latitude": 54.092271703056, 
+        "longitude": 13.870325088501, 
+        "name": "Fahrradverleih Hertel Trassenheide 5503", 
+        "timestamp": "2017-08-15T04:49:11.811000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55181", 
+            "56511", 
+            "55640", 
+            "55998"
+          ], 
+          "number": "5507", 
+          "uid": "66387"
+        }, 
+        "free_bikes": 4, 
+        "id": "6d174f37d08c7dea8b4275322987be95", 
+        "latitude": 54.075537196275, 
+        "longitude": 13.904238939285, 
+        "name": "Bahnhof Zinnowitz 5507", 
+        "timestamp": "2017-08-15T04:49:11.819000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55096", 
+            "55082", 
+            "55051", 
+            "55026", 
+            "55007"
+          ], 
+          "number": "5508", 
+          "uid": "66388"
+        }, 
+        "free_bikes": 19, 
+        "id": "fb46feded1a165fd7384e4d3f5114a1c", 
+        "latitude": 54.012131644879, 
+        "longitude": 13.858866691589, 
+        "name": "Naturcamping L\u00fctow 5508", 
+        "timestamp": "2017-08-15T04:49:11.821000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55046", 
+            "55017", 
+            "55016", 
+            "55101", 
+            "55161"
+          ], 
+          "number": "5512", 
+          "uid": "66392"
+        }, 
+        "free_bikes": 25, 
+        "id": "52a5353824b612c54a4f714d2481b575", 
+        "latitude": 54.05343025953, 
+        "longitude": 13.997504711151, 
+        "name": "Best Western Hotel Hanse Kogge Koserow 5512", 
+        "timestamp": "2017-08-15T04:49:11.828000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55114", 
+            "55150", 
+            "56588", 
+            "56741", 
+            "55222"
+          ], 
+          "number": "5514", 
+          "uid": "66394"
+        }, 
+        "free_bikes": 8, 
+        "id": "262347badd587b3e12a3c15c40fc157e", 
+        "latitude": 54.046136356275, 
+        "longitude": 14.010143280029, 
+        "name": "Camping  Am Sandfeld  Koserow 5514", 
+        "timestamp": "2017-08-15T04:49:11.829000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55001", 
+            "55112", 
+            "55170", 
+            "55131", 
+            "56544"
+          ], 
+          "number": "5515", 
+          "uid": "66395"
+        }, 
+        "free_bikes": 26, 
+        "id": "1ced634b3fa07698b1e640fbdd247b6b", 
+        "latitude": 54.041399042534, 
+        "longitude": 14.030055999756, 
+        "name": "Strandhotel Seerose K\u00f6lpinsee 5515", 
+        "timestamp": "2017-08-15T04:49:11.832000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55074", 
+            "55035", 
+            "55134", 
+            "55507", 
+            "56566"
+          ], 
+          "number": "5516", 
+          "uid": "66397"
+        }, 
+        "free_bikes": 22, 
+        "id": "956b4dfae37690b07ddffa2e5705df85", 
+        "latitude": 54.016380602705, 
+        "longitude": 14.06862616539, 
+        "name": "Zweirad - Awe Strandpromenade \u00dcckeritz 5516", 
+        "timestamp": "2017-08-15T04:49:11.835000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55128", 
+            "56543", 
+            "56730", 
+            "56718", 
+            "56703"
+          ], 
+          "number": "5555", 
+          "uid": "66400"
+        }, 
+        "free_bikes": 23, 
+        "id": "e4e86ecfbf1e08ddecbe4193b03599d7", 
+        "latitude": 54.01309305685, 
+        "longitude": 14.05199110508, 
+        "name": "Usedom Rad GmbH Zentrale 5555", 
+        "timestamp": "2017-08-15T04:49:11.847000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55457", 
+            "55456", 
+            "55631", 
+            "55613", 
+            "56819"
+          ], 
+          "number": "5520", 
+          "uid": "66405"
+        }, 
+        "free_bikes": 6, 
+        "id": "ce7c4eeaf31ea7ffd46b578d196520f3", 
+        "latitude": 53.964304119806, 
+        "longitude": 14.129405021668, 
+        "name": "Bahnhof Bansin 5520", 
+        "timestamp": "2017-08-15T04:49:11.852000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55020", 
+            "55267", 
+            "55282", 
+            "55639", 
+            "56813"
+          ], 
+          "number": "5522", 
+          "uid": "66407"
+        }, 
+        "free_bikes": 7, 
+        "id": "3afac338d4d89ebbb60875649e5952b4", 
+        "latitude": 53.971180103983, 
+        "longitude": 14.145535826683, 
+        "name": "Am Warmbad Bansin 5522", 
+        "timestamp": "2017-08-15T04:49:11.859000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55484", 
+            "55476", 
+            "55463", 
+            "55404", 
+            "55726"
+          ], 
+          "number": "5527", 
+          "uid": "66412"
+        }, 
+        "free_bikes": 10, 
+        "id": "aaa80ea67078b1c86511c2e56becc611", 
+        "latitude": 53.914551214912, 
+        "longitude": 14.234590530396, 
+        "name": "UBB Bahnhof Swinem\u00fcnde / Balticbike.pl 5527", 
+        "timestamp": "2017-08-15T04:49:11.862000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55045", 
+            "56557", 
+            "56572", 
+            "55269", 
+            "55281"
+          ], 
+          "number": "5531", 
+          "uid": "66418"
+        }, 
+        "free_bikes": 8, 
+        "id": "892a3867e0102ae4cfd479a523edac1d", 
+        "latitude": 53.923340282183, 
+        "longitude": 14.015443325043, 
+        "name": "Wasserschloss Mellenthin 5531", 
+        "timestamp": "2017-08-15T04:49:11.865000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55508", 
+            "55536", 
+            "55331", 
+            "55592", 
+            "55700"
+          ], 
+          "number": "5535", 
+          "uid": "66428"
+        }, 
+        "free_bikes": 7, 
+        "id": "5e12e5d368af752d7aeedb0cf7780594", 
+        "latitude": 53.874544235808, 
+        "longitude": 13.915750980377, 
+        "name": "Stadtinfo im Naturparkhaus Usedom 5535", 
+        "timestamp": "2017-08-15T04:49:11.870000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55009", 
+            "56581", 
+            "56723", 
+            "55241", 
+            "55266"
+          ], 
+          "number": "5536", 
+          "uid": "66429"
+        }, 
+        "free_bikes": 9, 
+        "id": "84142f0462a6bf9d7eb5d7f661bf4721", 
+        "latitude": 53.851596290081, 
+        "longitude": 13.704274892807, 
+        "name": "Fahrradfachmarkt Prepernau Anklam 5536", 
+        "timestamp": "2017-08-15T04:49:11.871000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "56601", 
+            "55276", 
+            "55531", 
+            "56571", 
+            "55304"
+          ], 
+          "number": "5538", 
+          "slots": 6, 
+          "uid": "66431"
+        }, 
+        "free_bikes": 6, 
+        "id": "1305e8d3ba9c26e9df43c44059be3bbb", 
+        "latitude": 53.946791903071, 
+        "longitude": 13.857407569885, 
+        "name": "Naturcamping Lassan 5538", 
+        "timestamp": "2017-08-15T04:49:11.876000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5539", 
+          "uid": "66432"
+        }, 
+        "free_bikes": 0, 
+        "id": "912d03a36e2c80a4dbd8135452181929", 
+        "latitude": 53.973770531651, 
+        "longitude": 13.548502922058, 
+        "name": "Bahnhof Z\u00fcssow 5539", 
+        "timestamp": "2017-08-15T04:49:11.880000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55625", 
+            "56808"
+          ], 
+          "number": "5540", 
+          "uid": "66433"
+        }, 
+        "free_bikes": 2, 
+        "id": "35a93f9e1719f0b37343a2983fb7dd7f", 
+        "latitude": 54.049651194879, 
+        "longitude": 13.754518032074, 
+        "name": "Fahrradfachmarkt Pretzer Wolgast 5540", 
+        "timestamp": "2017-08-15T04:49:11.882000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55099", 
+            "55087", 
+            "55292", 
+            "56508"
+          ], 
+          "number": "5541", 
+          "uid": "66434"
+        }, 
+        "free_bikes": 4, 
+        "id": "59df0c1bd71d4e9a817bcd538a97fae5", 
+        "latitude": 54.056188759685, 
+        "longitude": 13.776994943619, 
+        "name": "Hotel Spitzenh\u00f6rnbucht Wolgast 5541", 
+        "timestamp": "2017-08-15T04:49:11.885000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55095", 
+            "55059", 
+            "55503", 
+            "56565", 
+            "56553"
+          ], 
+          "number": "5544", 
+          "uid": "68609"
+        }, 
+        "free_bikes": 13, 
+        "id": "f60691b301fa77030f5a79d42e416974", 
+        "latitude": 53.946555115794, 
+        "longitude": 14.182185530662, 
+        "name": "AURELIA Hotel St. Hubertus Heringsdorf 5544", 
+        "timestamp": "2017-08-15T04:49:11.888000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55458", 
+            "55445"
+          ], 
+          "number": "5548", 
+          "uid": "71521"
+        }, 
+        "free_bikes": 2, 
+        "id": "4bbc69ae3a7ab6e0984d3bcf962f76e8", 
+        "latitude": 53.919009, 
+        "longitude": 14.25828, 
+        "name": "Balticpark Swinem\u00fcnde 5548", 
+        "timestamp": "2017-08-15T04:49:11.908000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55433", 
+            "55706", 
+            "55648", 
+            "56827"
+          ], 
+          "number": "5551", 
+          "uid": "71526"
+        }, 
+        "free_bikes": 4, 
+        "id": "8a9f2ca5664c10ca2e13e53c06dd2fc3", 
+        "latitude": 53.909748354842, 
+        "longitude": 14.266905784607, 
+        "name": "Yachthafen Swinem\u00fcnde 5551 ", 
+        "timestamp": "2017-08-15T04:49:11.911000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55168", 
+            "55163", 
+            "55174", 
+            "56750", 
+            "56744"
+          ], 
+          "number": "5556", 
+          "uid": "73746"
+        }, 
+        "free_bikes": 15, 
+        "id": "49bb874f6e69d34d0dd0fceaa992b24d", 
+        "latitude": 54.038696263942, 
+        "longitude": 14.02462720871, 
+        "name": "Ostseestrandklinik St\u00f6rtebeker Strandstr. K\u00f6lpinsee  5556", 
+        "timestamp": "2017-08-15T04:49:11.912000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55088", 
+            "55079", 
+            "55406", 
+            "56558", 
+            "55356"
+          ], 
+          "number": "5554", 
+          "uid": "82162"
+        }, 
+        "free_bikes": 6, 
+        "id": "7e92b601f78233127263a449346c9aba", 
+        "latitude": 54.046889111065, 
+        "longitude": 13.848143219948, 
+        "name": "Naturhafen Krummin 5554", 
+        "timestamp": "2017-08-15T04:49:11.927000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55091", 
+            "55065", 
+            "55064", 
+            "55057", 
+            "55044"
+          ], 
+          "number": "5553", 
+          "uid": "82170"
+        }, 
+        "free_bikes": 27, 
+        "id": "8e8085d586ddde5b7884d581aca7d370", 
+        "latitude": 54.12363936317, 
+        "longitude": 13.83806347847, 
+        "name": "Bike Hotel Vaske Karlshagen 5553", 
+        "timestamp": "2017-08-15T04:49:11.927000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55489", 
+            "56542", 
+            "56573", 
+            "55182", 
+            "55237"
+          ], 
+          "number": "5560", 
+          "uid": "85159"
+        }, 
+        "free_bikes": 8, 
+        "id": "2bb6fa13e7070c23d93d8b32aab06606", 
+        "latitude": 54.081623824415, 
+        "longitude": 13.910708427429, 
+        "name": "Vineta Hotels Zinnowitz 5560", 
+        "timestamp": "2017-08-15T04:49:11.931000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55084", 
+            "55053", 
+            "55052", 
+            "55448", 
+            "55122"
+          ], 
+          "number": "5566", 
+          "uid": "85161"
+        }, 
+        "free_bikes": 6, 
+        "id": "ebfc8862ae10b5eea978a19f0d183e3e", 
+        "latitude": 54.060152995631, 
+        "longitude": 13.951531648636, 
+        "name": "Hotel Inselhof Vineta Zempin 5566", 
+        "timestamp": "2017-08-15T04:49:11.933000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55070", 
+            "55043", 
+            "55618", 
+            "56832"
+          ], 
+          "number": "5565", 
+          "uid": "99838"
+        }, 
+        "free_bikes": 4, 
+        "id": "9bb49b2c21ec27a1e3dc1edd42a0c3e6", 
+        "latitude": 53.941124425331, 
+        "longitude": 14.182834625244, 
+        "name": "Parkplatz Lindenstr. Ahlbeck 5565", 
+        "timestamp": "2017-08-15T04:49:11.962000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55143", 
+            "55137", 
+            "55124", 
+            "56551", 
+            "55243"
+          ], 
+          "number": "5580", 
+          "uid": "127346"
+        }, 
+        "free_bikes": 10, 
+        "id": "821228cebf8b0d4f0422e3eb6499734e", 
+        "latitude": 53.968371784895, 
+        "longitude": 14.134747982025, 
+        "name": "Ostseehotel Villen im Park Bansin 5580", 
+        "timestamp": "2017-08-15T04:49:11.965000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55068", 
+            "56549", 
+            "56740", 
+            "55188", 
+            "55246"
+          ], 
+          "number": "5573", 
+          "uid": "128091"
+        }, 
+        "free_bikes": 12, 
+        "id": "11d638029a03baff968eaa170815c261", 
+        "latitude": 54.133044405641, 
+        "longitude": 13.732717037201, 
+        "name": "Hotel Leuchtfeuer Freest 5573", 
+        "timestamp": "2017-08-15T04:49:11.968000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55039", 
+            "55033", 
+            "55104", 
+            "56564", 
+            "55189"
+          ], 
+          "number": "5574", 
+          "uid": "128093"
+        }, 
+        "free_bikes": 6, 
+        "id": "8b91e838a96bf34ccb799c2473320822", 
+        "latitude": 54.121666611001, 
+        "longitude": 13.753587305546, 
+        "name": "Marina Kr\u00f6slin 5574", 
+        "timestamp": "2017-08-15T04:49:11.975000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55090", 
+            "55030", 
+            "55008", 
+            "55004", 
+            "55510"
+          ], 
+          "number": "5590", 
+          "uid": "132840"
+        }, 
+        "free_bikes": 13, 
+        "id": "6eae5bbefb4bbcc407230bc1f65f5866", 
+        "latitude": 53.860968063577, 
+        "longitude": 13.691979646683, 
+        "name": "Kanustation Anklam 5590", 
+        "timestamp": "2017-08-15T04:49:11.975000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55107", 
+            "55419", 
+            "56712", 
+            "56705", 
+            "55193"
+          ], 
+          "number": "5513", 
+          "uid": "137700"
+        }, 
+        "free_bikes": 19, 
+        "id": "83c0dc9284b39bc843ca5cfab97c8b79", 
+        "latitude": 54.098648423587, 
+        "longitude": 13.85031580925, 
+        "name": "Hotel Friesenhof Trassenheide 5513", 
+        "timestamp": "2017-08-15T04:49:11.976000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55474", 
+            "55717", 
+            "55635", 
+            "55627", 
+            "55838"
+          ], 
+          "number": "5561", 
+          "uid": "137703"
+        }, 
+        "free_bikes": 5, 
+        "id": "08d67485e063b9700e3b1be1828febba", 
+        "latitude": 53.867035499642, 
+        "longitude": 14.205386638641, 
+        "name": "Fischr\u00e4ucherei Hafen Kamminke 5561", 
+        "timestamp": "2017-08-15T04:49:11.977000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "55018", 
+            "55011", 
+            "55116", 
+            "56547", 
+            "56594"
+          ], 
+          "number": "5572", 
+          "slots": 6, 
+          "uid": "137707"
+        }, 
+        "free_bikes": 15, 
+        "id": "73943fa1ba5fd45252efa655cad37f60", 
+        "latitude": 53.898314061756, 
+        "longitude": 14.073000848293, 
+        "name": "Pension Lindenhof Kachlin 5572", 
+        "timestamp": "2017-08-15T04:49:11.978000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55160", 
+            "56548", 
+            "56574", 
+            "56527", 
+            "55309"
+          ], 
+          "number": "5562", 
+          "uid": "137709"
+        }, 
+        "free_bikes": 11, 
+        "id": "34aae17a27662527f99c17e61e32bd62", 
+        "latitude": 54.001936159201, 
+        "longitude": 14.045430421829, 
+        "name": "Naturcamping Stagnie\u00df 5562", 
+        "timestamp": "2017-08-15T04:49:11.979000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55092", 
+            "55023", 
+            "55155", 
+            "55311", 
+            "55786"
+          ], 
+          "number": "5588", 
+          "uid": "139449"
+        }, 
+        "free_bikes": 5, 
+        "id": "c7e698b83a22a37c3763b3e8a25dd908", 
+        "latitude": 53.94766958285, 
+        "longitude": 14.013812541962, 
+        "name": "Golfhotel / Alte Schule Balm 5588", 
+        "timestamp": "2017-08-15T04:49:11.980000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55094", 
+            "55270", 
+            "55778"
+          ], 
+          "number": "5521", 
+          "uid": "139803"
+        }, 
+        "free_bikes": 3, 
+        "id": "3a0051bdc912a8f3e1ead5c05b54a1af", 
+        "latitude": 53.96802152059, 
+        "longitude": 14.136657714844, 
+        "name": "Ostseehotel Villen im Park Bansin Seestr.  5521", 
+        "timestamp": "2017-08-15T04:49:11.980000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55462", 
+            "55452", 
+            "55712", 
+            "55832"
+          ], 
+          "number": "5591", 
+          "uid": "139977"
+        }, 
+        "free_bikes": 4, 
+        "id": "a9a34bfcbc51b3e6728b44d9ad5115d3", 
+        "latitude": 53.73574747642, 
+        "longitude": 14.049121141434, 
+        "name": "Tourismus Information Ueckerm\u00fcnde 5591", 
+        "timestamp": "2017-08-15T04:49:11.981000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55475", 
+            "55466"
+          ], 
+          "number": "5593", 
+          "uid": "139984"
+        }, 
+        "free_bikes": 2, 
+        "id": "3e52b6d65e6a20b51c8999d18e45e8b5", 
+        "latitude": 53.732136324207, 
+        "longitude": 14.026794433594, 
+        "name": "Tierpark Ueckerm\u00fcnde 5593", 
+        "timestamp": "2017-08-15T04:49:11.985000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55048", 
+            "55038", 
+            "55103", 
+            "55432", 
+            "55412"
+          ], 
+          "number": "5599", 
+          "uid": "153213"
+        }, 
+        "free_bikes": 20, 
+        "id": "0d345deaf5c9d49bc76f2bb26f1870a5", 
+        "latitude": 54.133283275976, 
+        "longitude": 13.615161180496, 
+        "name": "Kurverwaltung Seebad Lubmin 5599", 
+        "timestamp": "2017-08-15T04:49:11.995000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55652", 
+            "55645", 
+            "56842"
+          ], 
+          "number": "5583", 
+          "uid": "155295"
+        }, 
+        "free_bikes": 3, 
+        "id": "96930dadbd437830d82e55dab45a0c4b", 
+        "latitude": 54.108439672856, 
+        "longitude": 13.810828328133, 
+        "name": "Hafen Karlshagen 5583", 
+        "timestamp": "2017-08-15T04:49:12.004000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55431", 
+            "56562", 
+            "56600", 
+            "56591", 
+            "56641"
+          ], 
+          "number": "5594", 
+          "uid": "156427"
+        }, 
+        "free_bikes": 9, 
+        "id": "3e6debe272817b5ad431ae0c6d94a19c", 
+        "latitude": 53.770351832348, 
+        "longitude": 13.9685100317, 
+        "name": "Tourismus Information M\u00f6nkebude 5594", 
+        "timestamp": "2017-08-15T04:49:12.005000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55047", 
+            "55494", 
+            "55492", 
+            "55480", 
+            "55470"
+          ], 
+          "number": "5610", 
+          "uid": "198661"
+        }, 
+        "free_bikes": 6, 
+        "id": "0cff00a9c340b158e05664a02cc3c65e", 
+        "latitude": 54.095455467016, 
+        "longitude": 13.381814360619, 
+        "name": "Marktplatz  Greifswald 5610 ", 
+        "timestamp": "2017-08-15T04:49:12.009000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55086", 
+            "55076", 
+            "55071", 
+            "55486", 
+            "55123"
+          ], 
+          "number": "5571", 
+          "uid": "199123"
+        }, 
+        "free_bikes": 6, 
+        "id": "720c9574e798612db33588ee78a0885b", 
+        "latitude": 54.022392388766, 
+        "longitude": 14.056542813778, 
+        "name": "Rehaklinik Ostseeblick \u00dcckeritz 5571", 
+        "timestamp": "2017-08-15T04:49:12.016000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55073", 
+            "55450", 
+            "56569", 
+            "56721", 
+            "56708"
+          ], 
+          "number": "5603", 
+          "uid": "199130"
+        }, 
+        "free_bikes": 13, 
+        "id": "57bd6b89fd234e3c35690f9269c07c7b", 
+        "latitude": 54.139308010322, 
+        "longitude": 13.717310428619, 
+        "name": "Waldcamp Freest 5603", 
+        "timestamp": "2017-08-15T04:49:12.029000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55077", 
+            "55055", 
+            "55125", 
+            "55231", 
+            "56519"
+          ], 
+          "number": "5609", 
+          "uid": "199140"
+        }, 
+        "free_bikes": 6, 
+        "id": "c5f83bc2535c15667d5b92c6e5089a5c", 
+        "latitude": 54.080108545164, 
+        "longitude": 13.745650649071, 
+        "name": "Pension \"Zum Himmel\" Gro\u00df Ernsthof 5609", 
+        "timestamp": "2017-08-15T04:49:12.036000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55042", 
+            "55162", 
+            "55345", 
+            "55757"
+          ], 
+          "number": "5613", 
+          "uid": "200678"
+        }, 
+        "free_bikes": 4, 
+        "id": "0d81e9cd440cd32e62450dac3d5df1fb", 
+        "latitude": 53.923033864885, 
+        "longitude": 13.971551656723, 
+        "name": "Pension \"Achterland\" Morgenitz 5613", 
+        "timestamp": "2017-08-15T04:49:12.037000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "55093", 
+            "55147", 
+            "55192", 
+            "55210", 
+            "55289"
+          ], 
+          "number": "5616", 
+          "slots": 8, 
+          "uid": "271479"
+        }, 
+        "free_bikes": 8, 
+        "id": "acf9a548fd0776ee7056d6bc789bdb67", 
+        "latitude": 53.939381402713, 
+        "longitude": 14.074183702469, 
+        "name": "Ferienpark Benz 5616", 
+        "timestamp": "2017-08-15T04:49:12.045000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "55085", 
+            "55019", 
+            "55109", 
+            "55156", 
+            "56546"
+          ], 
+          "number": "5617", 
+          "slots": 10, 
+          "uid": "272373"
+        }, 
+        "free_bikes": 12, 
+        "id": "9a7bc5f015befdebaf40daf0ce376c12", 
+        "latitude": 54.05284767614, 
+        "longitude": 13.77435028553, 
+        "name": "Postel Wolgast 5617", 
+        "timestamp": "2017-08-15T04:49:12.045000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "55100", 
+            "55056", 
+            "55025", 
+            "56590", 
+            "56720"
+          ], 
+          "number": "5621", 
+          "slots": 8, 
+          "uid": "283740"
+        }, 
+        "free_bikes": 13, 
+        "id": "385683353cc9cca39d89a2c51e499743", 
+        "latitude": 53.969725481429, 
+        "longitude": 14.13857281208, 
+        "name": "Tropenhaus Bansin 5621", 
+        "timestamp": "2017-08-15T04:49:12.048000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "56550", 
+            "56575", 
+            "55217", 
+            "55343", 
+            "55371"
+          ], 
+          "number": "5626", 
+          "uid": "297633"
+        }, 
+        "free_bikes": 9, 
+        "id": "ca605ce2ee62460d956f3f7d421f49cf", 
+        "latitude": 53.955476331454, 
+        "longitude": 14.168146848679, 
+        "name": "Kurhotel zu Heringsdorf 5626", 
+        "timestamp": "2017-08-15T04:49:12.053000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "55402", 
+            "55729", 
+            "55724"
+          ], 
+          "number": "5624", 
+          "slots": 10, 
+          "uid": "350570"
+        }, 
+        "free_bikes": 3, 
+        "id": "fc8bec13fd5147ed4138ad23b460058a", 
+        "latitude": 54.070601777439, 
+        "longitude": 13.773765563965, 
+        "name": "Tierpark Wolgast 5624", 
+        "timestamp": "2017-08-15T04:49:12.062000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "55420", 
+            "56554", 
+            "56585", 
+            "55783", 
+            "55787"
+          ], 
+          "number": "5623", 
+          "slots": 8, 
+          "uid": "352855"
+        }, 
+        "free_bikes": 6, 
+        "id": "f2018b5e62a9821b09ec60fbe43a5f58", 
+        "latitude": 53.898288775164, 
+        "longitude": 13.736279010773, 
+        "name": "Jugendherberge Murchin 5623", 
+        "timestamp": "2017-08-15T04:49:12.064000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "55022", 
+            "56580", 
+            "55253", 
+            "55239", 
+            "55366"
+          ], 
+          "number": "5632", 
+          "slots": 6, 
+          "uid": "417339"
+        }, 
+        "free_bikes": 7, 
+        "id": "ce4a16f8dd1a448aa80e95d202b627d4", 
+        "latitude": 53.949645873296, 
+        "longitude": 13.846700191498, 
+        "name": "Alte Schnitterkate Lassan 5632", 
+        "timestamp": "2017-08-15T04:49:12.065000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55437", 
+            "55428", 
+            "55723", 
+            "55696", 
+            "56781"
+          ], 
+          "number": "5543", 
+          "uid": "79454"
+        }, 
+        "free_bikes": 5, 
+        "id": "df7aa70a79ebe7f25ddc1d1342549e84", 
+        "latitude": 54.035388428627, 
+        "longitude": 14.022223949432, 
+        "name": "Bahnhof K\u00f6lpinsee 5543", 
+        "timestamp": "2017-08-15T04:49:11.918000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55036", 
+            "55034", 
+            "55115", 
+            "55401", 
+            "55800"
+          ], 
+          "number": "5576", 
+          "uid": "151806"
+        }, 
+        "free_bikes": 5, 
+        "id": "9242ec7651ae00b8e43c96a0517d3438", 
+        "latitude": 54.080887433932, 
+        "longitude": 13.91555249691, 
+        "name": "Promenadenhalle Wulf Zinnowitz 5576", 
+        "timestamp": "2017-08-15T04:49:11.986000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55097", 
+            "55108", 
+            "55173", 
+            "55752", 
+            "55788"
+          ], 
+          "number": "5630", 
+          "uid": "350550"
+        }, 
+        "free_bikes": 5, 
+        "id": "1ac0b3979523d4c3ee521ec077521539", 
+        "latitude": 53.956170755083, 
+        "longitude": 14.168962240219, 
+        "name": "Seebr\u00fccke Heringsdorf 5630", 
+        "timestamp": "2017-08-15T04:49:12.057000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55833"
+          ], 
+          "number": "5611", 
+          "uid": "198663"
+        }, 
+        "free_bikes": 1, 
+        "id": "2a85638349ba5c3cef1fbd03c2817bf1", 
+        "latitude": 54.09366541636, 
+        "longitude": 13.369953632355, 
+        "name": "Bahnhof  Greifswald 5611", 
+        "timestamp": "2017-08-15T04:49:12.013000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55477", 
+            "55597", 
+            "55610", 
+            "56789", 
+            "56837"
+          ], 
+          "number": "5563", 
+          "uid": "99833"
+        }, 
+        "free_bikes": 6, 
+        "id": "4cba0461b8400f8c951f224d911c56c5", 
+        "latitude": 53.949658501048, 
+        "longitude": 14.169187545776, 
+        "name": "Bahnhof Heringsdorf 5563", 
+        "timestamp": "2017-08-15T04:49:11.947000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55305", 
+            "55693", 
+            "55688", 
+            "56796", 
+            "56829"
+          ], 
+          "number": "5542", 
+          "uid": "96049"
+        }, 
+        "free_bikes": 5, 
+        "id": "a541706a785df907c93c27ef606cd40e", 
+        "latitude": 54.045537922237, 
+        "longitude": 13.999462723732, 
+        "name": "Bahnhof Koserow 5542", 
+        "timestamp": "2017-08-15T04:49:11.941000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55418", 
+            "55728", 
+            "55996"
+          ], 
+          "number": "5631", 
+          "uid": "350551"
+        }, 
+        "free_bikes": 3, 
+        "id": "2d088075999db46d39b9e131877f3cff", 
+        "latitude": 53.94530169942, 
+        "longitude": 14.177947640419, 
+        "name": "Ostseetherme Heringsdorf 5631", 
+        "timestamp": "2017-08-15T04:49:12.057000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55405"
+          ], 
+          "number": "5597", 
+          "uid": "153216"
+        }, 
+        "free_bikes": 1, 
+        "id": "40395d3a8e2e5c013daf5e09ddbb878f", 
+        "latitude": 54.137127013119, 
+        "longitude": 13.613235354423, 
+        "name": "Seebr\u00fccke Seebad Lubmin 5597", 
+        "timestamp": "2017-08-15T04:49:11.996000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55708"
+          ], 
+          "number": "5547", 
+          "uid": "71183"
+        }, 
+        "free_bikes": 1, 
+        "id": "bd62a155038f31d9ad3709891a21ef77", 
+        "latitude": 54.06358164438, 
+        "longitude": 13.916759490967, 
+        "name": "Hafen Zinnowitz 5547", 
+        "timestamp": "2017-08-15T04:49:11.896000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55472", 
+            "55459", 
+            "55447", 
+            "55441", 
+            "55409"
+          ], 
+          "number": "5612", 
+          "uid": "198664"
+        }, 
+        "free_bikes": 5, 
+        "id": "53e6ddf676e33c50276d25f073a3adc3", 
+        "latitude": 54.093108565871, 
+        "longitude": 13.448917865753, 
+        "name": "Br\u00fccke Greifswald / Wieck 5612", 
+        "timestamp": "2017-08-15T04:49:12.015000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5528", 
+          "uid": "66413"
+        }, 
+        "free_bikes": 0, 
+        "id": "711c80ae11c359444d8a12525b0f6519", 
+        "latitude": 53.920288644637, 
+        "longitude": 14.238967895508, 
+        "name": "Balticbike.pl Swinem\u00fcnde 5528", 
+        "timestamp": "2017-08-15T04:49:11.864000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55421", 
+            "56845"
+          ], 
+          "number": "5607", 
+          "uid": "199137"
+        }, 
+        "free_bikes": 2, 
+        "id": "7f98d02306655daf171f65cf47388adb", 
+        "latitude": 53.920939426636, 
+        "longitude": 14.245383739471, 
+        "name": "Schwimmhalle Swinem\u00fcnde 5607", 
+        "timestamp": "2017-08-15T04:49:12.033000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55060", 
+            "55151", 
+            "55230", 
+            "56533", 
+            "55326"
+          ], 
+          "number": "5570", 
+          "uid": "117712"
+        }, 
+        "free_bikes": 6, 
+        "id": "21d05cfc0d19185994b3a8ec9a1449d7", 
+        "latitude": 54.050945563224, 
+        "longitude": 13.998427391052, 
+        "name": "Hotel Nautic Koserow 5570", 
+        "timestamp": "2017-08-15T04:49:11.964000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5517", 
+          "uid": "66398"
+        }, 
+        "free_bikes": 0, 
+        "id": "6ad040c0a7eede2c19d30caf415893b4", 
+        "latitude": 53.918475, 
+        "longitude": 14.259396, 
+        "name": "St\u00fctzpunkt Balticbike.pl Swinem\u00fcnde 5517", 
+        "timestamp": "2017-08-15T04:49:11.844000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55915"
+          ], 
+          "number": "5629", 
+          "uid": "350549"
+        }, 
+        "free_bikes": 1, 
+        "id": "4902030f551e0a4b9a0da7432f242188", 
+        "latitude": 54.095924202141, 
+        "longitude": 13.375457525253, 
+        "name": "Dompassage Greifswald 5629 ", 
+        "timestamp": "2017-08-15T04:49:12.055000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55106", 
+            "56576", 
+            "55199", 
+            "55377"
+          ], 
+          "number": "5557", 
+          "uid": "75016"
+        }, 
+        "free_bikes": 4, 
+        "id": "3b1e243f4445beb4eb910c4fa202f149", 
+        "latitude": 54.02321175235, 
+        "longitude": 14.006189703941, 
+        "name": "Aquarius Ferienwohnungen Loddin 5557", 
+        "timestamp": "2017-08-15T04:49:11.914000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55072", 
+            "55144", 
+            "55342", 
+            "55818", 
+            "55820"
+          ], 
+          "number": "5633", 
+          "uid": "510387"
+        }, 
+        "free_bikes": 7, 
+        "id": "59c8aee9984c611970c691e3d8c7eb5b", 
+        "latitude": 53.940120301628, 
+        "longitude": 14.191321134567, 
+        "name": "Rathaus Seebad Ahlbeck 5633", 
+        "timestamp": "2017-08-15T04:49:12.066000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55062", 
+            "55650", 
+            "55751"
+          ], 
+          "number": "5577", 
+          "uid": "152977"
+        }, 
+        "free_bikes": 3, 
+        "id": "1a3992d754f33a3a6cdd29142e69a857", 
+        "latitude": 53.946274126482, 
+        "longitude": 13.928303718567, 
+        "name": "Landhotel Lieper Winkel Rankwitz 5577", 
+        "timestamp": "2017-08-15T04:49:11.987000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55031", 
+            "55491", 
+            "55430", 
+            "55417", 
+            "55416"
+          ], 
+          "number": "5598", 
+          "uid": "153220"
+        }, 
+        "free_bikes": 5, 
+        "id": "6ee2bf061f5724699460847f6032d388", 
+        "latitude": 54.151068959015, 
+        "longitude": 13.648399114609, 
+        "name": "Marina Seebad Lubmin 5598", 
+        "timestamp": "2017-08-15T04:49:12.003000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55411"
+          ], 
+          "number": "5511", 
+          "uid": "66391"
+        }, 
+        "free_bikes": 1, 
+        "id": "879d02b9a61b7b8cb0acdcacd4f2ff3e", 
+        "latitude": 54.065986881912, 
+        "longitude": 13.95911693573, 
+        "name": "Bahnhof Zempin 5511", 
+        "timestamp": "2017-08-15T04:49:11.826000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55159", 
+            "55727", 
+            "55834", 
+            "55884", 
+            "55897"
+          ], 
+          "number": "5501", 
+          "uid": "66065"
+        }, 
+        "free_bikes": 6, 
+        "id": "0d0b9ba8f90f539deefad1b6467cd437", 
+        "latitude": 54.138758057879, 
+        "longitude": 13.774001598358, 
+        "name": "Bahnhof Peenem\u00fcnde  5501", 
+        "timestamp": "2017-08-15T04:49:11.808000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55066", 
+            "55519", 
+            "56537", 
+            "55353", 
+            "55577"
+          ], 
+          "number": "5504", 
+          "uid": "66081"
+        }, 
+        "free_bikes": 5, 
+        "id": "e2517b17e8d19b125251a5ae4a579ad6", 
+        "latitude": 54.090141716651, 
+        "longitude": 13.869080543518, 
+        "name": "Jopi-Bike Trassenheide 5504", 
+        "timestamp": "2017-08-15T04:49:11.815000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5549", 
+          "uid": "71520"
+        }, 
+        "free_bikes": 0, 
+        "id": "2da327530a1ac98eee326ab777532b7f", 
+        "latitude": 53.91923, 
+        "longitude": 14.256198, 
+        "name": "Konzertmuschel Swinem\u00fcnde 5549 /balticbike", 
+        "timestamp": "2017-08-15T04:49:11.906000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "55455", 
+            "55435", 
+            "56805", 
+            "56803"
+          ], 
+          "number": "5589", 
+          "slots": 6, 
+          "uid": "199127"
+        }, 
+        "free_bikes": 4, 
+        "id": "78d9d1ecaf91f1449d76d0631388924d", 
+        "latitude": 53.844988592928, 
+        "longitude": 13.858904242516, 
+        "name": "Hafen Karnin 5589", 
+        "timestamp": "2017-08-15T04:49:12.021000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55599", 
+            "55654", 
+            "55647", 
+            "55646"
+          ], 
+          "number": "5523", 
+          "uid": "127527"
+        }, 
+        "free_bikes": 4, 
+        "id": "a393b6d7f5d3d8fafe1ddb5a5e1eb2e6", 
+        "latitude": 54.053153139801, 
+        "longitude": 14.000658988953, 
+        "name": "Parkplatz F\u00f6rster - Schr\u00f6dter - Stra\u00dfe Koserow 5523", 
+        "timestamp": "2017-08-15T04:49:11.966000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55487", 
+            "55422", 
+            "56828", 
+            "56834"
+          ], 
+          "number": "5525", 
+          "uid": "940986"
+        }, 
+        "free_bikes": 4, 
+        "id": "802cb22e992a1c3ea3bc09c3fc292e91", 
+        "latitude": 54.090538147809, 
+        "longitude": 13.868973255157, 
+        "name": "Bahnhof Trassenmoor 5525", 
+        "timestamp": "2017-08-15T04:49:12.070000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55622", 
+            "55621", 
+            "55603", 
+            "56779"
+          ], 
+          "number": "5534", 
+          "uid": "66427"
+        }, 
+        "free_bikes": 4, 
+        "id": "b1653e7a7b386c395b557d7aa1ce9d33", 
+        "latitude": 53.979480893477, 
+        "longitude": 13.944268226623, 
+        "name": "Swingolf Middeke Reestow 5534", 
+        "timestamp": "2017-08-15T04:49:11.869000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "55649", 
+            "55641", 
+            "55636", 
+            "56788", 
+            "56825"
+          ], 
+          "number": "5618", 
+          "slots": 6, 
+          "uid": "258292"
+        }, 
+        "free_bikes": 5, 
+        "id": "2111348224e7632f726fd45ff071c2ba", 
+        "latitude": 53.876947758669, 
+        "longitude": 14.146378040314, 
+        "name": "Hangar 10 am Flugplatz  5618", 
+        "timestamp": "2017-08-15T04:49:12.043000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55061", 
+            "55497", 
+            "55453", 
+            "55426", 
+            "56582"
+          ], 
+          "number": "5545", 
+          "uid": "68610"
+        }, 
+        "free_bikes": 6, 
+        "id": "f3d1acbcff57b8f7118af1e1081d8137", 
+        "latitude": 54.013632068269, 
+        "longitude": 14.05060172081, 
+        "name": "Bahnhof \u00dcckeritz 5545", 
+        "timestamp": "2017-08-15T04:49:11.890000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "56776", 
+            "56833", 
+            "55911"
+          ], 
+          "number": "5558", 
+          "uid": "83392"
+        }, 
+        "free_bikes": 3, 
+        "id": "5a1e6a0a15217cf4bbf3ee0764eec31a", 
+        "latitude": 54.081523122214, 
+        "longitude": 13.867406845093, 
+        "name": "Bahnhof Trassenheide 5558", 
+        "timestamp": "2017-08-15T04:49:11.929000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55609", 
+            "55775", 
+            "56799"
+          ], 
+          "number": "5567", 
+          "uid": "117708"
+        }, 
+        "free_bikes": 3, 
+        "id": "b4403f22fd7a50d0640ec6fdcfb8430c", 
+        "latitude": 54.090229812791, 
+        "longitude": 13.88601064682, 
+        "name": "Campingplatz 01 Ostseeblick Trassenheide 5567", 
+        "timestamp": "2017-08-15T04:49:11.963000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55098", 
+            "55012", 
+            "55261", 
+            "55362", 
+            "56622"
+          ], 
+          "number": "5569", 
+          "uid": "117710"
+        }, 
+        "free_bikes": 6, 
+        "id": "ddc5fb860135e64fedec1de558069ea8", 
+        "latitude": 54.090918844006, 
+        "longitude": 13.888301253319, 
+        "name": "Campingplatz 02 Ostseeblick Trassenheide 5569", 
+        "timestamp": "2017-08-15T04:49:11.964000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55714", 
+            "55711", 
+            "55694"
+          ], 
+          "number": "5601", 
+          "uid": "153092"
+        }, 
+        "free_bikes": 3, 
+        "id": "3dfdf7e1952ff3560c3c5ce4feafab8f", 
+        "latitude": 53.979790050954, 
+        "longitude": 13.553051948547, 
+        "name": "BIOTagungshotel Wichernhaus Z\u00fcssow 5601", 
+        "timestamp": "2017-08-15T04:49:11.994000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55006", 
+            "55227", 
+            "55332", 
+            "55385", 
+            "56843"
+          ], 
+          "number": "5530", 
+          "uid": "66417"
+        }, 
+        "free_bikes": 5, 
+        "id": "818c77bfa847585d683d75746367e892", 
+        "latitude": 53.942257982481, 
+        "longitude": 14.072391986847, 
+        "name": "Kirche, Galerie & Feininger Rundweg Benz 5530", 
+        "timestamp": "2017-08-15T04:49:11.864000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55488", 
+            "55438", 
+            "55687", 
+            "55628", 
+            "55626"
+          ], 
+          "number": "5587", 
+          "uid": "199125"
+        }, 
+        "free_bikes": 6, 
+        "id": "0494e8308f569b37bf04b49ec747eaac", 
+        "latitude": 54.058158330075, 
+        "longitude": 13.998371064663, 
+        "name": "Seebr\u00fccke Koserow 5587", 
+        "timestamp": "2017-08-15T04:49:12.018000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55721", 
+            "55703", 
+            "55701", 
+            "55692"
+          ], 
+          "number": "5606", 
+          "uid": "199134"
+        }, 
+        "free_bikes": 4, 
+        "id": "1482c364d3204fcd7bf3f76d96330ea0", 
+        "latitude": 53.8737978506, 
+        "longitude": 13.559510707855, 
+        "name": "Naturparkzentrum Stolpe bei Anklam 5606", 
+        "timestamp": "2017-08-15T04:49:12.032000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55482", 
+            "55719", 
+            "55707", 
+            "55683", 
+            "56791"
+          ], 
+          "number": "5532", 
+          "uid": "66421"
+        }, 
+        "free_bikes": 6, 
+        "id": "77e2cc8cf18c9a57b7a55b9430f563f0", 
+        "latitude": 53.935601445877, 
+        "longitude": 13.934226036072, 
+        "name": "Alte Fischr\u00e4ucherei Rankwitz - Hafen 5532", 
+        "timestamp": "2017-08-15T04:49:11.867000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55415", 
+            "55407", 
+            "55224", 
+            "55725", 
+            "55679"
+          ], 
+          "number": "5519", 
+          "uid": "66403"
+        }, 
+        "free_bikes": 6, 
+        "id": "0e84185904b1e29adacdd4768ce5b19f", 
+        "latitude": 53.982275846048, 
+        "longitude": 14.077236056328, 
+        "name": "Bahnhof Schmollensee 5519", 
+        "timestamp": "2017-08-15T04:49:11.851000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55691", 
+            "55836", 
+            "55839", 
+            "55840"
+          ], 
+          "number": "5537", 
+          "uid": "66430"
+        }, 
+        "free_bikes": 4, 
+        "id": "db1a36f607953b8e3c75627897ab8466", 
+        "latitude": 53.856279275177, 
+        "longitude": 13.68855714798, 
+        "name": "Rathaus Anklam  5537", 
+        "timestamp": "2017-08-15T04:49:11.873000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55682", 
+            "55638", 
+            "56816", 
+            "56835"
+          ], 
+          "number": "5586", 
+          "uid": "160710"
+        }, 
+        "free_bikes": 4, 
+        "id": "3f4e2175e3be96408ede5a235bc3083d", 
+        "latitude": 54.04420558814, 
+        "longitude": 13.768755197525, 
+        "name": "Hauptbahnhof Wolgast 5586", 
+        "timestamp": "2017-08-15T04:49:12.008000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55444", 
+            "55600", 
+            "55637", 
+            "56811"
+          ], 
+          "number": "5506", 
+          "uid": "66086"
+        }, 
+        "free_bikes": 4, 
+        "id": "e148b790b864169ba602f053af51ff94", 
+        "latitude": 54.03346031177, 
+        "longitude": 13.89036655426, 
+        "name": "Am Gnitzer Seelchen Neuendorf 5506", 
+        "timestamp": "2017-08-15T04:49:11.816000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55461", 
+            "55424", 
+            "55403", 
+            "55615", 
+            "56775"
+          ], 
+          "number": "5509", 
+          "uid": "66389"
+        }, 
+        "free_bikes": 5, 
+        "id": "5f6826e08c6a78f16ed0e0a7c23c6f79", 
+        "latitude": 54.071118009434, 
+        "longitude": 13.835896253586, 
+        "name": "Bahnhof Bannemin - M\u00f6lschow 5509", 
+        "timestamp": "2017-08-15T04:49:11.824000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55041", 
+            "55809", 
+            "55815"
+          ], 
+          "number": "5510", 
+          "uid": "66390"
+        }, 
+        "free_bikes": 3, 
+        "id": "25dbdce907ab48762bacb5a6ed6733a9", 
+        "latitude": 54.078325700301, 
+        "longitude": 13.833589553833, 
+        "name": "Usedom aktiv M\u00f6lschow 5510", 
+        "timestamp": "2017-08-15T04:49:11.825000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55499", 
+            "55410", 
+            "55359", 
+            "55739", 
+            "56826"
+          ], 
+          "number": "5655", 
+          "uid": "1099784"
+        }, 
+        "free_bikes": 6, 
+        "id": "18e4403612e3f34c4310cfa4f1872f71", 
+        "latitude": 53.558324436373, 
+        "longitude": 13.254173398018, 
+        "name": "Nordkurier Medienhaus Neubrandenburg 5655", 
+        "timestamp": "2017-08-15T04:49:12.071000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55498", 
+            "55704", 
+            "55695", 
+            "55686"
+          ], 
+          "number": "5552", 
+          "uid": "2006467"
+        }, 
+        "free_bikes": 4, 
+        "id": "5117d70880ddaf6c99b6442a506551f1", 
+        "latitude": 54.137981826861, 
+        "longitude": 13.769634962082, 
+        "name": "Historisch Technisches Museum Peenem\u00fcnde  5552", 
+        "timestamp": "2017-08-15T04:49:12.083000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55028", 
+            "55148", 
+            "55121", 
+            "56709", 
+            "56707"
+          ], 
+          "number": "5526", 
+          "uid": "66411"
+        }, 
+        "free_bikes": 15, 
+        "id": "3e3ee86614284b26b5422acbf527f908", 
+        "latitude": 53.938828798817, 
+        "longitude": 14.192276000977, 
+        "name": "CSI Ferienwohnungen Schuldt Ahlbeck 5526", 
+        "timestamp": "2017-08-15T04:49:11.861000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "56567", 
+            "56587", 
+            "55265", 
+            "56503", 
+            "56524"
+          ], 
+          "number": "5604", 
+          "uid": "3027334"
+        }, 
+        "free_bikes": 9, 
+        "id": "0300ff0afe5ff709e99811eb2186f7ad", 
+        "latitude": 54.13792211618, 
+        "longitude": 13.620353937149, 
+        "name": "SCHAWI Sport & Jugendhotel  Lubmin 5604", 
+        "timestamp": "2017-08-15T04:49:12.095000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55152", 
+            "55183", 
+            "56608", 
+            "56615", 
+            "55368"
+          ], 
+          "number": "5605", 
+          "uid": "3569439"
+        }, 
+        "free_bikes": 9, 
+        "id": "838f89802898e95f767ff4b39445ee51", 
+        "latitude": 54.087331980919, 
+        "longitude": 13.383482694626, 
+        "name": "Jugendherberge  Greifswald 5605 ", 
+        "timestamp": "2017-08-15T04:49:12.095000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "55010", 
+            "55153", 
+            "55522", 
+            "55530", 
+            "55537"
+          ], 
+          "number": "5546", 
+          "uid": "68615"
+        }, 
+        "free_bikes": 9, 
+        "id": "d67187f3fa395fdadc5ead132c7efa0a", 
+        "latitude": 54.060666209003, 
+        "longitude": 13.980478048325, 
+        "name": "Hotel Forsthaus Damerow 5546", 
+        "timestamp": "2017-08-15T04:49:11.893000Z"
+      }
+    ]
+  }
+}

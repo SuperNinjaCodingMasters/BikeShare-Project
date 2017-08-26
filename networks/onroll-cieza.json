@@ -1,0 +1,114 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-cieza", 
+    "id": "onroll-cieza", 
+    "location": {
+      "city": "Cieza", 
+      "country": "ES", 
+      "latitude": 38.239139, 
+      "longitude": -1.417262
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "93df0e306b8fa9bd953dbfae3ad459fc", 
+        "latitude": 38.236703, 
+        "longitude": -1.427814, 
+        "name": "Ayuntamiento", 
+        "timestamp": "2017-08-15T04:49:13.286000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "6653ed353300c991faa38ec13cae239d", 
+        "latitude": 38.237147, 
+        "longitude": -1.422581, 
+        "name": "Esquina el Convento", 
+        "timestamp": "2017-08-15T04:49:13.288000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "0af720531111cc8beadb6af55a347eb4", 
+        "latitude": 38.240664, 
+        "longitude": -1.413031, 
+        "name": "Estaci\u00f3n Autobuses", 
+        "timestamp": "2017-08-15T04:49:13.289000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "cb3ed616d66457d185e4efa74de1c61d", 
+        "latitude": 38.242011, 
+        "longitude": -1.421378, 
+        "name": "Parque Medina Siyasa", 
+        "timestamp": "2017-08-15T04:49:13.290000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "0d4db733c992251a3d7f56c74030ad64", 
+        "latitude": 38.242328, 
+        "longitude": -1.41615, 
+        "name": "Piscina Municipal", 
+        "timestamp": "2017-08-15T04:49:13.291000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "336dd39d4a042e655c3ce93a5c797a4f", 
+        "latitude": 38.235979, 
+        "longitude": -1.402618, 
+        "name": "Polideportivo", 
+        "timestamp": "2017-08-15T04:49:13.292000Z"
+      }
+    ]
+  }
+}

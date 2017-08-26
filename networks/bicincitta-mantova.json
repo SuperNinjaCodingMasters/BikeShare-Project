@@ -1,0 +1,121 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-mantova", 
+    "id": "bicincitta-mantova", 
+    "location": {
+      "city": "Mantova", 
+      "country": "IT", 
+      "latitude": 45.15866370764634, 
+      "longitude": 10.783718973016335
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Viale della Repubblica / piazzale Vittorio Veneto", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "43b4d9fcbb4e5b825350b3e43e9941af", 
+        "latitude": 45.150071995246186, 
+        "longitude": 10.786766586122098, 
+        "name": "Repubblica", 
+        "timestamp": "2017-08-15T04:50:03.982000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Via Castiglioni", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "2fd7039e15452a7a09b5ddca816a6375", 
+        "latitude": 45.157558256082055, 
+        "longitude": 10.794851150331851, 
+        "name": "Castiglioni", 
+        "timestamp": "2017-08-15T04:50:03.977000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Piazza Anconetta", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "a97d2eb0b413d91a627e8e661356471b", 
+        "latitude": 45.15356718540835, 
+        "longitude": 10.797891219643361, 
+        "name": "Anconetta", 
+        "timestamp": "2017-08-15T04:50:03.978000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Piazzale Don Leoni", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "9be01b509184baee960fcffa4f1425d3", 
+        "latitude": 45.15866370764634, 
+        "longitude": 10.783718973016335, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:50:03.971000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "Corso Umberto I", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "388ea79ccc1898766848156901c20c1b", 
+        "latitude": 45.157522443543556, 
+        "longitude": 10.790304102238451, 
+        "name": "Umberto I", 
+        "timestamp": "2017-08-15T04:50:03.979000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "f2703a28d2f9f3a0e4078867966d4536", 
+        "latitude": 45.162055713921475, 
+        "longitude": 10.811605481588344, 
+        "name": "Campo Canoa", 
+        "timestamp": "2017-08-15T04:50:03.975000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Piazzale Porta Cerese", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "2eb2a00e80e5d6fee19b932294a08927", 
+        "latitude": 45.14750544645031, 
+        "longitude": 10.795176265606642, 
+        "name": "Porta Cerese", 
+        "timestamp": "2017-08-15T04:50:03.974000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "viale Mincio / via San Giorgio", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "5cd1352f5e895893f577ceba80c0bd41", 
+        "latitude": 45.162354679001666, 
+        "longitude": 10.798728486530308, 
+        "name": "Mincio", 
+        "timestamp": "2017-08-15T04:50:03.981000Z"
+      }
+    ]
+  }
+}

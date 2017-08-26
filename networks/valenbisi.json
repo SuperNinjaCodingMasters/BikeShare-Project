@@ -1,0 +1,4972 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/valenbisi", 
+    "id": "valenbisi", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Valencia", 
+      "country": "ES", 
+      "latitude": 39.4699075, 
+      "longitude": -0.3762881
+    }, 
+    "name": "Valenbisi", 
+    "stations": [
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Conde Altea - Almirante Cadarso", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772256000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 32
+        }, 
+        "free_bikes": 1, 
+        "id": "0b3bfbb423fdb1386f720dac543febf8", 
+        "latitude": 39.4659740827401, 
+        "longitude": -0.368338073115823, 
+        "name": "032_C/ CONDE DE ALTEA", 
+        "timestamp": "2017-08-15T04:46:32.305000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Col\u00f3n, 44", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772064000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 70
+        }, 
+        "free_bikes": 0, 
+        "id": "b94a7494c2c30009d33d2cf9a05456fe", 
+        "latitude": 39.469181, 
+        "longitude": -0.371737, 
+        "name": "70_CALLE_COLON_ESQ_ALMIRANTE_ROGER_DE_LAURIA", 
+        "timestamp": "2017-08-15T04:46:32.327000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "San Juan Bosco - Santiago Rusi\u00f1ol", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771935000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 233
+        }, 
+        "free_bikes": 11, 
+        "id": "adadc6d5de584b49bc125a47e5ebc87b", 
+        "latitude": 39.497128187401, 
+        "longitude": -0.369528093405798, 
+        "name": "233_SAN_JUAN_BOSCO_SANTIAGO_RUSI\u00d1OL", 
+        "timestamp": "2017-08-15T04:46:32.250000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Fray Jun\u00edpero Serra - Vall d'Uix\u00f3", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771856000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 211
+        }, 
+        "free_bikes": 11, 
+        "id": "c86c93b48fc2b3aa825327ea264d1aa9", 
+        "latitude": 39.45869404863428, 
+        "longitude": -0.397848157697943, 
+        "name": "211_CALLE_FRAY_JUN\u00cdPERO_SERRA_ESQ_CALLE_VALL_D'UIX", 
+        "timestamp": "2017-08-15T04:46:32.253000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Justo y Pastor - Duque de Gaeta", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771878000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 98
+        }, 
+        "free_bikes": 14, 
+        "id": "ed4ade2cbe2ce95950acf8696e380940", 
+        "latitude": 39.46964810153237, 
+        "longitude": -0.348533015740284, 
+        "name": "098_SANTOS JUSTO Y PASTOR", 
+        "timestamp": "2017-08-15T04:46:32.254000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Doctor Vicente Zaragoz\u00e1 - Ram\u00f3n Asensio", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771993000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 116
+        }, 
+        "free_bikes": 14, 
+        "id": "c896bc6c1db04cd91f903d9df69c989a", 
+        "latitude": 39.483221144341215, 
+        "longitude": -0.357652050365347, 
+        "name": "116_C/ DR. VICENTE ZARAGOZA", 
+        "timestamp": "2017-08-15T04:46:32.254000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Juan Llorens - Literato Gabriel Mir\u00f3", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772253000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 10, 
+        "id": "93474df36a0a1353a2d78f2e2c88a285", 
+        "latitude": 39.4723390971218, 
+        "longitude": -0.390305142409828, 
+        "name": "021_JUAN_LLORENS_29", 
+        "timestamp": "2017-08-15T04:46:32.255000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Uruguay - Carteros", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772036000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 193
+        }, 
+        "free_bikes": 19, 
+        "id": "1dd5433eafa6f538f18f43d28ce0029b", 
+        "latitude": 39.4551140401216, 
+        "longitude": -0.38680912265075, 
+        "name": "193_CALLE_CARTEROS", 
+        "timestamp": "2017-08-15T04:46:32.256000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez - Pintor Jos\u00e9 Mongrell", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772048000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 99
+        }, 
+        "free_bikes": 17, 
+        "id": "58d48656c19d8e5a96a90383287e5554", 
+        "latitude": 39.471312109714646, 
+        "longitude": -0.34057499279659, 
+        "name": "099_AVDA. BLASCO IBA\u00d1EZ 8", 
+        "timestamp": "2017-08-15T04:46:32.257000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Tres Cruces - Hospital General", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772105000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 246
+        }, 
+        "free_bikes": 8, 
+        "id": "258e196cfcfe8d7b081ab49919bece89", 
+        "latitude": 39.46905808079698, 
+        "longitude": -0.406600189533111, 
+        "name": "246_AVDA_TRES_CRUCES_ENTRADA_HOSPITAL_GENERAL", 
+        "timestamp": "2017-08-15T04:46:32.258000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Francisco Cubells - San Jos\u00e9 de la Vega", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772316000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 159
+        }, 
+        "free_bikes": 13, 
+        "id": "3ee8e96d2d8bda055ca2e3e14cc6b629", 
+        "latitude": 39.46341708497314, 
+        "longitude": -0.334812971276553, 
+        "name": "159_FRANCISCO CUBELLS", 
+        "timestamp": "2017-08-15T04:46:32.259000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Maximiliano Thous - Luz Casanova", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772261000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 134
+        }, 
+        "free_bikes": 7, 
+        "id": "ed777e0a3d1e40b57a70df9c4fd3fc2c", 
+        "latitude": 39.48762415410862, 
+        "longitude": -0.373430100012801, 
+        "name": "134_C/ MAXIMILIANO THOUS", 
+        "timestamp": "2017-08-15T04:46:32.260000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Conde Torrefiel - Cecilio Pl\u00e1", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772025000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 235
+        }, 
+        "free_bikes": 2, 
+        "id": "efffe206902c6ec7398d4be6987f5869", 
+        "latitude": 39.49801318789519, 
+        "longitude": -0.377294117154526, 
+        "name": "235_CONDE_DE_TORREFIEL_CECILIO_PLA", 
+        "timestamp": "2017-08-15T04:46:32.260000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "P\u00edo XII - Campanar", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772004000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 172
+        }, 
+        "free_bikes": 7, 
+        "id": "0b3676f22046b575fdba9880d309d8bc", 
+        "latitude": 39.481430126787565, 
+        "longitude": -0.39343615667867, 
+        "name": "172_AVENIDA_PIO_XII", 
+        "timestamp": "2017-08-15T04:46:32.261000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "San Francisco de Paula - Castell de Pop", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772331000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 274
+        }, 
+        "free_bikes": 2, 
+        "id": "cd4582b4269e048d04d8f3d2229a50db", 
+        "latitude": 39.448038033633594, 
+        "longitude": -0.333278958357397, 
+        "name": "274_MANUEL_ANDRES_CASTELL_DE_POLOP", 
+        "timestamp": "2017-08-15T04:46:32.262000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Pintor Stolz - Nueve de Octubre", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771823000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 217
+        }, 
+        "free_bikes": 9, 
+        "id": "ede926303ee102c9f0ac85cb1ef11186", 
+        "latitude": 39.47029608559258, 
+        "longitude": -0.404687184457659, 
+        "name": "217_CALLE_9_DE_OCTUBRE_ESQ_CALLE_PINTOR_STOLZ", 
+        "timestamp": "2017-08-15T04:46:32.263000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Antonio Ferrandis - General Urrutia", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771984000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 48
+        }, 
+        "free_bikes": 11, 
+        "id": "27be3dcdced55b2affbae1e871a3a1bb", 
+        "latitude": 39.450775142005085, 
+        "longitude": -0.358643429344464, 
+        "name": "48_AVDA. ANTONIO FERRANDIS", 
+        "timestamp": "2017-08-15T04:46:32.265000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "M\u00fasico Hip\u00f3lito Mart\u00ednez - Di\u00f3genes L\u00f3pez Mecho", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772205000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 122
+        }, 
+        "free_bikes": 15, 
+        "id": "241fc428d0379543e3c84ada66fe455f", 
+        "latitude": 39.48445314961921, 
+        "longitude": -0.354157040555065, 
+        "name": "122_C_M\u00daSICO HIP\u00d3LITO MART\u00cdNEZ", 
+        "timestamp": "2017-08-15T04:46:32.265000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Guillem de Castro (Torres de Quart)", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772153000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 82
+        }, 
+        "free_bikes": 2, 
+        "id": "5029bdcbc9555d26a90f31bb0056ff6d", 
+        "latitude": 39.47602411158443, 
+        "longitude": -0.384005125495213, 
+        "name": "082_GUILLEN_DE_CASTRO_TORRES_DE_QUART", 
+        "timestamp": "2017-08-15T04:46:32.266000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Pav\u00eda - Espad\u00e1n", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771951000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 165
+        }, 
+        "free_bikes": 0, 
+        "id": "e8fdb47726eabc3f5f1b07e861a6a126", 
+        "latitude": 39.47137711508329, 
+        "longitude": -0.324660945171817, 
+        "name": "165_PAVIA 2", 
+        "timestamp": "2017-08-15T04:46:32.267000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Albalat dels Tarongers - Professor Ernest Lluch", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771756000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 106
+        }, 
+        "free_bikes": 2, 
+        "id": "e848c6d8f6f3d3e5af3b59e8e2c4df85", 
+        "latitude": 39.47671212762051, 
+        "longitude": -0.341477998410525, 
+        "name": "106_AVDA. DE LOS NARANJOS", 
+        "timestamp": "2017-08-15T04:46:32.268000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Autopista del Saler - Puente Monteolivete", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772075000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 47
+        }, 
+        "free_bikes": 4, 
+        "id": "7a333c41c00b9de334014dbd4ced58aa", 
+        "latitude": 39.45648005487459, 
+        "longitude": -0.355509029538065, 
+        "name": "47_AVDA. AUTOPISTA DEL SALER", 
+        "timestamp": "2017-08-15T04:46:32.269000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Pav\u00eda (Instituto Isabel de Villena)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771798000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 169
+        }, 
+        "free_bikes": 0, 
+        "id": "88a8982707470e257194d22ea6f71ee8", 
+        "latitude": 39.478753139905066, 
+        "longitude": -0.324735949373236, 
+        "name": "169_PAVIA 4", 
+        "timestamp": "2017-08-15T04:46:32.270000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Ricardo Mu\u00f1oz Suay - Mar\u00eda Jos\u00e9 Victoria Fuster (C.C. El Saler)", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772054000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 49
+        }, 
+        "free_bikes": 9, 
+        "id": "e6103cb6359b35dc8217287713c6cc47", 
+        "latitude": 39.452954722176685, 
+        "longitude": -0.35720111550767, 
+        "name": "49_C/ RICARDO MU\u00d1OZ SUAY", 
+        "timestamp": "2017-08-15T04:46:32.271000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Murta - Sant Eperit", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771944000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 121
+        }, 
+        "free_bikes": 13, 
+        "id": "fd1753c839af43e05c1781f7393953b2", 
+        "latitude": 39.48615015382428, 
+        "longitude": -0.358862055563278, 
+        "name": "121_C_MURTA", 
+        "timestamp": "2017-08-15T04:46:32.272000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Pio XII - Men\u00e9ndez PIdal (Nuevo Centro)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772130000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 143
+        }, 
+        "free_bikes": 18, 
+        "id": "ea8f8e0389352731f314cc82a28c1eac", 
+        "latitude": 39.47950512106764, 
+        "longitude": -0.391027148421504, 
+        "name": "143_AVDA. MENENDEZ PIDAL", 
+        "timestamp": "2017-08-15T04:46:32.273000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Corts Valencianes - General Avil\u00e9s", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771995000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 204
+        }, 
+        "free_bikes": 5, 
+        "id": "873ab9afc1486604b418371201fc6cc0", 
+        "latitude": 39.48581114052686, 
+        "longitude": -0.396678168748875, 
+        "name": "204_AVDA_GENERAL_AVILES", 
+        "timestamp": "2017-08-15T04:46:32.274000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Cra. Malilla - Bulevar Sur", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771839000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 190
+        }, 
+        "free_bikes": 13, 
+        "id": "2c32d90607a7f20f5160b65cdda59f91", 
+        "latitude": 39.446050011610645, 
+        "longitude": -0.380387098491455, 
+        "name": "190_CTRA_MALILLA", 
+        "timestamp": "2017-08-15T04:46:32.275000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Luis Garc\u00eda Berlanga Mart\u00ed - Menorca", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772240000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 52
+        }, 
+        "free_bikes": 0, 
+        "id": "a69f586d7bc965c3b9c6cabe8410f7bb", 
+        "latitude": 39.45600205620843, 
+        "longitude": -0.346431002074561, 
+        "name": "52_C/ LUIS GARCIA BERLANGA", 
+        "timestamp": "2017-08-15T04:46:32.276000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Plaza M\u00fasico Esp\u00ed", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771984000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 234
+        }, 
+        "free_bikes": 8, 
+        "id": "e67745b7ecc20b12c438687553f138a2", 
+        "latitude": 39.49646718382403, 
+        "longitude": -0.373735105660714, 
+        "name": "234_PLAZA MUSICO_ESPI_JOSE_ESTEVE", 
+        "timestamp": "2017-08-15T04:46:32.277000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Fontanars dels Aforins - Vall d'Uix\u00f3", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772226000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 198
+        }, 
+        "free_bikes": 9, 
+        "id": "dff66f57217c1d26aa02a992f213a56b", 
+        "latitude": 39.460848056694466, 
+        "longitude": -0.3954071515343, 
+        "name": "198_CALLE_FONTANARS_DELS_AFORINS", 
+        "timestamp": "2017-08-15T04:46:32.278000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Plaza del Musico L\u00f3pez Chavarri", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771777000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 1, 
+        "id": "c54273df9f7f121822f1f7c56b7fecb2", 
+        "latitude": 39.47680311538018, 
+        "longitude": -0.38037911504075, 
+        "name": "003_PLAZA_MUSICO_LOPEZ_CHAVARRI", 
+        "timestamp": "2017-08-15T04:46:32.279000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Campoamor - M\u00fasico Gin\u00e9s", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771812000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 76
+        }, 
+        "free_bikes": 18, 
+        "id": "3931ba52b6eb858cb31b88aff3071ec7", 
+        "latitude": 39.4700511045018, 
+        "longitude": -0.343552001034738, 
+        "name": "076_CAMPOAMOR II", 
+        "timestamp": "2017-08-15T04:46:32.281000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Serrer\u00eda, 67", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772291000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 84
+        }, 
+        "free_bikes": 8, 
+        "id": "d5010d4cf3eb642c382446bfa5176a17", 
+        "latitude": 39.46726209778759, 
+        "longitude": -0.335255974679776, 
+        "name": "84_SERRERIA_ESQ_PINTOR FERRER CALATAYUD", 
+        "timestamp": "2017-08-15T04:46:32.282000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Plaza Luis Cano, 5", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772255000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 268
+        }, 
+        "free_bikes": 14, 
+        "id": "faf314b0064bea66dd9ff60afa3200c7", 
+        "latitude": 39.50141318615774, 
+        "longitude": -0.418584242795808, 
+        "name": "268_PZA_LUIS_CANO_5", 
+        "timestamp": "2017-08-15T04:46:32.283000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Tres Cruces - M\u00fasico Ayll\u00f3n", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772194000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 247
+        }, 
+        "free_bikes": 12, 
+        "id": "b25801b7919eec3ac022b9a60277250e", 
+        "latitude": 39.46737807542721, 
+        "longitude": -0.405664185821979, 
+        "name": "247_AVDA_TRES_CRUCES_MUSICO_AYLLON", 
+        "timestamp": "2017-08-15T04:46:32.284000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Salamanca - Conde Altea", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772216000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 31
+        }, 
+        "free_bikes": 0, 
+        "id": "30b930a072fa4f994be49238fed8e4bd", 
+        "latitude": 39.46733308836422, 
+        "longitude": -0.365119064198398, 
+        "name": "031_CALLE SALAMANCA", 
+        "timestamp": "2017-08-15T04:46:32.285000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Tomas de Villarroya - San Vicente", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772219000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 255
+        }, 
+        "free_bikes": 17, 
+        "id": "e17d198e8795b0b8a21f0a74f2db3e1b", 
+        "latitude": 39.44767101522146, 
+        "longitude": -0.386120116565009, 
+        "name": "255_SAN_VICENTE_MARTIR_TOMAS_DE_VILLAROYA", 
+        "timestamp": "2017-08-15T04:46:32.287000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "General Urrutia - Granada", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772181000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 41
+        }, 
+        "free_bikes": 14, 
+        "id": "8686b148454b7ae191bd6461e8461029", 
+        "latitude": 39.458880059935595, 
+        "longitude": -0.364867058884755, 
+        "name": "41_AVDA. GRAL. URRUTIA", 
+        "timestamp": "2017-08-15T04:46:32.288000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "San Jos\u00e9 de Calasanz - Salas Quiroga", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771903000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 10, 
+        "id": "422a5006b58a76c499e63ac46ee4b5ae", 
+        "latitude": 39.46616307762487, 
+        "longitude": -0.386143126606345, 
+        "name": "026_CALLE_SAN_JOSE_DE_CALASANZ", 
+        "timestamp": "2017-08-15T04:46:32.289000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Av. de la Plata - Zapadores", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771867000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 179
+        }, 
+        "free_bikes": 0, 
+        "id": "e7fc734534094bc51e5dc8e95f4d36e6", 
+        "latitude": 39.455440047796785, 
+        "longitude": -0.366517061973888, 
+        "name": "179_AVENIDA_DE_LA_PLATA_45", 
+        "timestamp": "2017-08-15T04:46:32.291000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Micer Masc\u00f3 - Rodriguez Fornos", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772006000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 81
+        }, 
+        "free_bikes": 9, 
+        "id": "cfbf5ed4b45497c68c84918042ca6983", 
+        "latitude": 39.47509611584928, 
+        "longitude": -0.361069056238335, 
+        "name": "081_DOCTOR FORNOS", 
+        "timestamp": "2017-08-15T04:46:32.291000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Navarro Reverter - Grabador Esteve", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771828000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 28
+        }, 
+        "free_bikes": 1, 
+        "id": "746708fae7648c3bf12472a5bec1a29e", 
+        "latitude": 39.47155010170615, 
+        "longitude": -0.367842074631205, 
+        "name": "028_NAVARRO REVERTE", 
+        "timestamp": "2017-08-15T04:46:32.292000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Alboraya - Flora", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771969000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 131
+        }, 
+        "free_bikes": 6, 
+        "id": "a41da6cb0f37674c0bc4c05407186858", 
+        "latitude": 39.48062113119549, 
+        "longitude": -0.371254089734112, 
+        "name": "131_C/ ALBORAYA", 
+        "timestamp": "2017-08-15T04:46:32.294000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Manuel Broseta i Pont - Naranjos", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772137000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 112
+        }, 
+        "free_bikes": 15, 
+        "id": "24835852f8935df7c2241f157493fe1e", 
+        "latitude": 39.47854813352072, 
+        "longitude": -0.342366002058633, 
+        "name": "112_AVDA. DE LOS NARANJOS", 
+        "timestamp": "2017-08-15T04:46:32.294000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Albacete - Maluquer", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771972000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 243
+        }, 
+        "free_bikes": 2, 
+        "id": "118d758d65732a633cef6e4ebb2f2daf", 
+        "latitude": 39.46278806672407, 
+        "longitude": -0.384633120260506, 
+        "name": "243_ALBACETE_ESQ_MALUQUER", 
+        "timestamp": "2017-08-15T04:46:32.295000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Alcasser - Poeta Alberto Lista", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772009000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 265
+        }, 
+        "free_bikes": 11, 
+        "id": "7bbb9a53f930c48e99a77183e2309fb5", 
+        "latitude": 39.470941086635776, 
+        "longitude": -0.408208195369257, 
+        "name": "265_C_ALCASSER_POETA_ALBERTO_LISTA", 
+        "timestamp": "2017-08-15T04:46:32.296000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "San Jose Artesano - Francisco Morote Greus", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772222000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 238
+        }, 
+        "free_bikes": 1, 
+        "id": "15ef5ef78b043e7b8410b7b064ca9b6b", 
+        "latitude": 39.497417180383685, 
+        "longitude": -0.394474168343446, 
+        "name": "238_SAN_JOSE_ARTESANO_FRANCISCO_MOROTE_GREUS", 
+        "timestamp": "2017-08-15T04:46:32.297000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Av Puerto 19 (Telef\u00f3nica)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772226000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 63
+        }, 
+        "free_bikes": 1, 
+        "id": "031d7e15ef8e255477f57035721f68cf", 
+        "latitude": 39.467747091898616, 
+        "longitude": -0.358505044597536, 
+        "name": "063_AVDA. DEL PUERTO I", 
+        "timestamp": "2017-08-15T04:46:32.298000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Francia - Menorca", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771864000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 56
+        }, 
+        "free_bikes": 7, 
+        "id": "17b14b621925ac5f789793027037f801", 
+        "latitude": 39.45838906488428, 
+        "longitude": -0.344495997567289, 
+        "name": "56_AVDA. DE FRANCIA", 
+        "timestamp": "2017-08-15T04:46:32.299000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "San Clemente - Hospital Arnau de Vilanova", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772174000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 227
+        }, 
+        "free_bikes": 13, 
+        "id": "a0b0a6d844e3f7f0faaea6959f4b4602", 
+        "latitude": 39.490216153353934, 
+        "longitude": -0.403022190134151, 
+        "name": "227_CALLE_SAN_CLEMENTE_ENTRA_HOSPITAL_ARNAU_VILANO", 
+        "timestamp": "2017-08-15T04:46:32.299000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "San Vicente Paul - Santiago Rusi\u00f1ol", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772142000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 232
+        }, 
+        "free_bikes": 8, 
+        "id": "d8e50ef2859c92541322975112b9777b", 
+        "latitude": 39.49461218010229, 
+        "longitude": -0.365844081019678, 
+        "name": "232_SAN_VICENTE_DE_PAUL_SANTIAGO_RUSI\u00d1OL", 
+        "timestamp": "2017-08-15T04:46:32.301000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Catalu\u00f1a - Doctor Vicente Zaragoz\u00e1", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771742000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 115
+        }, 
+        "free_bikes": 9, 
+        "id": "1d5ad22188b9193167423fe43fd04b4a", 
+        "latitude": 39.481530140385686, 
+        "longitude": -0.352239033238509, 
+        "name": "115_C/ DR. VICENTE ZARAGOZA", 
+        "timestamp": "2017-08-15T04:46:32.302000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "M\u00fasico Ayll\u00f3n - Francisco Dolz", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771888000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 215
+        }, 
+        "free_bikes": 9, 
+        "id": "e72c6ff308a56fd81f7d23c566f18743", 
+        "latitude": 39.46563907240366, 
+        "longitude": -0.39683915840866, 
+        "name": "215_CALLE_MUSICO_AYLLON_ESQ_CALLE_FRANCISCO_DOLZ", 
+        "timestamp": "2017-08-15T04:46:32.303000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Plaza Xuquer - Vinalop\u00f3", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771782000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 261
+        }, 
+        "free_bikes": 18, 
+        "id": "e6a52e2553b23fc1c7a6fb550ce0d4ab", 
+        "latitude": 39.47664412448885, 
+        "longitude": -0.350468025305313, 
+        "name": "261_PZA_XUQUER_ESQ_VINALOPO", 
+        "timestamp": "2017-08-15T04:46:32.304000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Ram\u00f3n Llull - Serpis", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772297000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 102
+        }, 
+        "free_bikes": 18, 
+        "id": "fa78ec52e21fe1b71fbc112304aef0f0", 
+        "latitude": 39.47580112282824, 
+        "longitude": -0.346811013895548, 
+        "name": "102_AVDA.RAMON LLUL", 
+        "timestamp": "2017-08-15T04:46:32.305000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Arag\u00f3n - Ernesto Ferrer", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771978000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 79
+        }, 
+        "free_bikes": 8, 
+        "id": "41a58df2889f859b0f44f641f535add6", 
+        "latitude": 39.47274710913562, 
+        "longitude": -0.357333043778256, 
+        "name": "079_AVDA. ARAGON II", 
+        "timestamp": "2017-08-15T04:46:32.306000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Plaza de la Reina - Mar", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772094000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 2, 
+        "id": "4f8dd298af36d362c5a62320d86fc14d", 
+        "latitude": 39.47428810857441, 
+        "longitude": -0.375175098086736, 
+        "name": "008_PLAZA_DE_LA_REINA_ESQUINA_CALLE_DEL_MAR", 
+        "timestamp": "2017-08-15T04:46:32.307000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Levante U.D. - Ecuador", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772163000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 237
+        }, 
+        "free_bikes": 7, 
+        "id": "3e64b306618b9eb73c45736f3f84149f", 
+        "latitude": 39.4947261723789, 
+        "longitude": -0.391129156875508, 
+        "name": "237_LEVANTE_UD_AVDA_ECUADOR", 
+        "timestamp": "2017-08-15T04:46:32.308000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Lu\u00eds Peix\u00f3 20", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771837000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 108
+        }, 
+        "free_bikes": 15, 
+        "id": "85987d7e515d622fd892536b77513458", 
+        "latitude": 39.47365411982902, 
+        "longitude": -0.333702973476317, 
+        "name": "108_ LUIS PEIXO", 
+        "timestamp": "2017-08-15T04:46:32.309000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Juan Verdeguer - Toneleros", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771860000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 67
+        }, 
+        "free_bikes": 14, 
+        "id": "831088476386c6cb0b4c0118d5fc4333", 
+        "latitude": 39.45882806883267, 
+        "longitude": -0.336888975014669, 
+        "name": "067_JUAN VERDEGUER", 
+        "timestamp": "2017-08-15T04:46:32.310000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Doctor Vicente Zaragoz\u00e1 - Emilio Bar\u00f3", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772080000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 120
+        }, 
+        "free_bikes": 18, 
+        "id": "2951d85cf574883a94fa6777235a1090", 
+        "latitude": 39.484848148381595, 
+        "longitude": -0.362137064678155, 
+        "name": "120_C_DR VICENTE ZARAGOZA", 
+        "timestamp": "2017-08-15T04:46:32.311000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Juan Llorens - Quart", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772279000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 5, 
+        "id": "a4bbb509726c37fa7d11bf0b719f4fbc", 
+        "latitude": 39.47433710342028, 
+        "longitude": -0.391681147609965, 
+        "name": "019_JUAN_LLORENS", 
+        "timestamp": "2017-08-15T04:46:32.312000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Alberique, 18 (Abastos)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772040000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 5, 
+        "id": "a44639341e18fde5958b7ce2a0addd21", 
+        "latitude": 39.46769708197544, 
+        "longitude": -0.388701135103807, 
+        "name": "025_CALLE_DEL_ALBERIC", 
+        "timestamp": "2017-08-15T04:46:32.313000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Reig Genov\u00e9s - Ram\u00f3n Contreras Mongrell", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771876000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 178
+        }, 
+        "free_bikes": 4, 
+        "id": "e489dc12bcf7c1de72908b0448affef3", 
+        "latitude": 39.492184170392264, 
+        "longitude": -0.37059709396399, 
+        "name": "178_CALLE_REIG_GENOVES", 
+        "timestamp": "2017-08-15T04:46:32.314000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez - Clariano", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772252000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 94
+        }, 
+        "free_bikes": 14, 
+        "id": "fef7899a495068331a2cf5d78513f80b", 
+        "latitude": 39.47534611972441, 
+        "longitude": -0.351674028220146, 
+        "name": "094_AVDA. BLASCO IBA\u00d1EZ 5", 
+        "timestamp": "2017-08-15T04:46:32.314000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Campanar - Nicasio Benlloch", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771940000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 140
+        }, 
+        "free_bikes": 19, 
+        "id": "f564c1cab398d7197bc446ae20c0f438", 
+        "latitude": 39.48797215005971, 
+        "longitude": -0.38969114895134, 
+        "name": "140_AVENIDA_CAMPANAR", 
+        "timestamp": "2017-08-15T04:46:32.315000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Alfahuir - Pe\u00f1iscola", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771838000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 128
+        }, 
+        "free_bikes": 17, 
+        "id": "80cd6adef1a549cb77cd23bd0f4ac0d8", 
+        "latitude": 39.488734159713275, 
+        "longitude": -0.367635083238739, 
+        "name": "128_C/ ALFAUIR", 
+        "timestamp": "2017-08-15T04:46:32.317000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Manuel de Falla - Hern\u00e1ndez L\u00e1zaro", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771817000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 221
+        }, 
+        "free_bikes": 7, 
+        "id": "d6a612bd34571a87ff013f8188a72af1", 
+        "latitude": 39.47523810283483, 
+        "longitude": -0.40294418188015, 
+        "name": "221_AVDA_MANUEL_DE_FALLA_ESQ_CALLE_HERNANDEZ_LAZAR", 
+        "timestamp": "2017-08-15T04:46:32.317000Z"
+      }, 
+      {
+        "empty_slots": 34, 
+        "extra": {
+          "address": "X\u00e1tiva - Bail\u00e9n (Estaci\u00f3n del Norte)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772031000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 6, 
+        "id": "3407f1cf0184eb1de6bdfd3d2d0987e9", 
+        "latitude": 39.467436084759534, 
+        "longitude": -0.377350100922523, 
+        "name": "017_ESTACION RENFE I", 
+        "timestamp": "2017-08-15T04:46:32.318000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Tres Forques - Tur\u00eds", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772096000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 256
+        }, 
+        "free_bikes": 4, 
+        "id": "3ec3453e8e040c2f559e686f88a123f6", 
+        "latitude": 39.4639310680958, 
+        "longitude": -0.392326143951058, 
+        "name": "256_AVDA_TRES_FORQUES_TURIS", 
+        "timestamp": "2017-08-15T04:46:32.319000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "San Pancracio - Periodista Llorente", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771803000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 138
+        }, 
+        "free_bikes": 10, 
+        "id": "701b7a90ee733cd385fee137e6b94aba", 
+        "latitude": 39.48815815241352, 
+        "longitude": -0.384313132924836, 
+        "name": "138_SAN_PANCRACIO", 
+        "timestamp": "2017-08-15T04:46:32.320000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Regne de Valencia - Doctor Sumsi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771945000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 34
+        }, 
+        "free_bikes": 9, 
+        "id": "292369edaf101b8f2bf575522a3074d8", 
+        "latitude": 39.46409007583113, 
+        "longitude": -0.370052077239064, 
+        "name": "34_AVDA. ANTIGUO REINO DE VALENCIA", 
+        "timestamp": "2017-08-15T04:46:32.321000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Gregorio Gea - Padre Ferris", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771996000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 141
+        }, 
+        "free_bikes": 20, 
+        "id": "897a0be326ec2df02c0d3e9bde8d841c", 
+        "latitude": 39.48323613551247, 
+        "longitude": -0.385247133088568, 
+        "name": "141_C/ GREGORIO GEA (PEATONAL)", 
+        "timestamp": "2017-08-15T04:46:32.322000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez - Yecla", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771833000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 96
+        }, 
+        "free_bikes": 21, 
+        "id": "317e137f9fcc3830fa4b8b1b05912f0a", 
+        "latitude": 39.47352211466433, 
+        "longitude": -0.348305017144382, 
+        "name": "096_AVDA. BLASCO IBA\u00d1EZ 6", 
+        "timestamp": "2017-08-15T04:46:32.323000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Jer\u00f3nimo Monsoriu - Alcalde Cano Coloma", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772091000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 151
+        }, 
+        "free_bikes": 20, 
+        "id": "48ebb342370a5017bddb8ded666ab906", 
+        "latitude": 39.46463708827678, 
+        "longitude": -0.337207979114133, 
+        "name": "151_JERONIMO MONSORIU", 
+        "timestamp": "2017-08-15T04:46:32.324000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Pintor Rafael Solves - Jose Soto Mico", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771900000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 258
+        }, 
+        "free_bikes": 2, 
+        "id": "03265e3fb5c0d2d4ab8072e00b5419b4", 
+        "latitude": 39.43979598762512, 
+        "longitude": -0.38922812163005, 
+        "name": "258_PINTOR_RAFAEL_SOLVES_ESQ_JOSE_SOTO_MICO", 
+        "timestamp": "2017-08-15T04:46:32.325000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Plaza Espa\u00f1a", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772145000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 58
+        }, 
+        "free_bikes": 2, 
+        "id": "ccc1de66ce81986f82a99ef0cd513c4d", 
+        "latitude": 39.46618607914484, 
+        "longitude": -0.381677113224894, 
+        "name": "058_PLAZA DE ESPA\u00d1A", 
+        "timestamp": "2017-08-15T04:46:32.326000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Padre Esteban Pernet - Casa Misericordia", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771871000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 263
+        }, 
+        "free_bikes": 10, 
+        "id": "eff9ed0166f6897e4c350c12f0338707", 
+        "latitude": 39.46701107287583, 
+        "longitude": -0.409735197841415, 
+        "name": "263_PADRE ESTEBAN_PERNET_ANTES_CASA_MISERICORDIA", 
+        "timestamp": "2017-08-15T04:46:32.328000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "G\u00f3mez Ferrer - \u00c1lvaro de Baz\u00e1n", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771848000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 118
+        }, 
+        "free_bikes": 18, 
+        "id": "6370bf8101433193762c683f0634d222", 
+        "latitude": 39.4804341340267, 
+        "longitude": -0.360507057423573, 
+        "name": "118_C/ DR. GOMEZ FERRER", 
+        "timestamp": "2017-08-15T04:46:32.330000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "UPV Inform\u00e1tica", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772240000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 114
+        }, 
+        "free_bikes": 7, 
+        "id": "0b05ad3f3a9425ffc4645af0cb38daf5", 
+        "latitude": 39.481772142992675, 
+        "longitude": -0.346682016720988, 
+        "name": "114_ADOLFO SUAREZ", 
+        "timestamp": "2017-08-15T04:46:32.331000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Archiduque Carlos - Jos\u00e9 Mar\u00eda Mortes Lerma", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771969000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 213
+        }, 
+        "free_bikes": 4, 
+        "id": "c4010e0627e94cf975a8ad922a0e0ec5", 
+        "latitude": 39.463133063872554, 
+        "longitude": -0.397063157732616, 
+        "name": "213_CALLE_ARCHIDUQUE_CARLOS_ESQ_CALLE_JOSE_MA_MOR", 
+        "timestamp": "2017-08-15T04:46:32.332000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Doctor Tom\u00e1s Sala - Carteros", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771910000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 254
+        }, 
+        "free_bikes": 19, 
+        "id": "79ced6373e768fa80486fdb6868c5758", 
+        "latitude": 39.44768201399717, 
+        "longitude": -0.39000812823506, 
+        "name": "254_AVDA_DR_TOMAS_SALA_CARTEROS", 
+        "timestamp": "2017-08-15T04:46:32.334000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Perez Gald\u00f3s - Nou Moles", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771858000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 201
+        }, 
+        "free_bikes": 19, 
+        "id": "ce4ecb6f066f87a90b0a71e78361efd2", 
+        "latitude": 39.471680093784954, 
+        "longitude": -0.393759152416117, 
+        "name": "201_AVDA_PEREZ_GALDOS", 
+        "timestamp": "2017-08-15T04:46:32.335000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Monduber - Peset Aleixandre", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772105000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 174
+        }, 
+        "free_bikes": 7, 
+        "id": "8091e257f470263884b6feb40b11c324", 
+        "latitude": 39.48940615584413, 
+        "longitude": -0.386738140863954, 
+        "name": "174_CALLE_MONDUBER", 
+        "timestamp": "2017-08-15T04:46:32.335000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Molinell - Calder\u00f3n de la Barca", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772271000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 77
+        }, 
+        "free_bikes": 6, 
+        "id": "1b813be9492160adaf18d85d7b66a769", 
+        "latitude": 39.484941147529945, 
+        "longitude": -0.365758075579642, 
+        "name": "77_C/ MOLINELL", 
+        "timestamp": "2017-08-15T04:46:32.336000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Reina Violante - Escultor Garc\u00eda Mas", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772011000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 203
+        }, 
+        "free_bikes": 8, 
+        "id": "e357ccc23fdc40e16ba66c59106db14a", 
+        "latitude": 39.48457713488814, 
+        "longitude": -0.401273181871356, 
+        "name": "203_CALLE_REINA_VIOLANTE", 
+        "timestamp": "2017-08-15T04:46:32.337000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Pav\u00eda - Acequia de la Cadena", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772188000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 167
+        }, 
+        "free_bikes": 0, 
+        "id": "8dd9dba94732492c376bd8b9c7c05f1d", 
+        "latitude": 39.4748761268572, 
+        "longitude": -0.324700947178956, 
+        "name": "167_PAVIA 3", 
+        "timestamp": "2017-08-15T04:46:32.338000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Albalat dels Tarongers - Paseo Facultades", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772217000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 104
+        }, 
+        "free_bikes": 13, 
+        "id": "dd9eb399d1fc7f07265e7abecc50352c", 
+        "latitude": 39.47835413125328, 
+        "longitude": -0.34736601693197, 
+        "name": "104_ALBALAT DELS TARONGERS", 
+        "timestamp": "2017-08-15T04:46:32.339000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Av. Puerto - Jos\u00e9 Aguilar", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772182000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 68
+        }, 
+        "free_bikes": 19, 
+        "id": "ea6e5d2339e28b026f57b9dfb044fa94", 
+        "latitude": 39.46277108052299, 
+        "longitude": -0.341823991929563, 
+        "name": "068_AVDA. DEL PUERTO IV", 
+        "timestamp": "2017-08-15T04:46:32.341000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Salamanca - Reina Do\u00f1a Germana", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772218000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 155
+        }, 
+        "free_bikes": 4, 
+        "id": "4e6c574378a88f0baf9ed6373a82c78b", 
+        "latitude": 39.46492108086036, 
+        "longitude": -0.363169057053421, 
+        "name": "155_C/ SALAMANCA", 
+        "timestamp": "2017-08-15T04:46:32.341000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Reina Do\u00f1a Mar\u00eda - C\u00e1diz", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772022000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 152
+        }, 
+        "free_bikes": 0, 
+        "id": "6ca16e13fd1a0661111eee9f42594345", 
+        "latitude": 39.460893064158775, 
+        "longitude": -0.372796083742631, 
+        "name": "152_C/ LITERATO AZOR\u00cdN", 
+        "timestamp": "2017-08-15T04:46:32.342000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Benifair\u00f3 de Valldigna - Joaqu\u00edn Benlloch", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772217000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 186
+        }, 
+        "free_bikes": 0, 
+        "id": "4696d36fea6f6656928b1c019118f4a9", 
+        "latitude": 39.450359028192096, 
+        "longitude": -0.374106081983545, 
+        "name": "186_CALLE_INGENIERO_JOAQUIN_BENLLOCH", 
+        "timestamp": "2017-08-15T04:46:32.343000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Peris y Valero - Cuba", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771780000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 39
+        }, 
+        "free_bikes": 6, 
+        "id": "04f9805a51d8eeb36d14d1eae649f6fb", 
+        "latitude": 39.457822053401024, 
+        "longitude": -0.374022085762198, 
+        "name": "39_AVDA. PERIS Y VALERO", 
+        "timestamp": "2017-08-15T04:46:32.344000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Campillo de Altobuey (Polideportivo)", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771865000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 107
+        }, 
+        "free_bikes": 8, 
+        "id": "057771a2555bfa4d3f882191b5a0920a", 
+        "latitude": 39.47521312423745, 
+        "longitude": -0.336314982139155, 
+        "name": "107_C/ CAMPILLO ALTO BUEY", 
+        "timestamp": "2017-08-15T04:46:32.346000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Convento Carmelitas - Alboraya", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772268000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 130
+        }, 
+        "free_bikes": 11, 
+        "id": "24ca1001cd6855a691467fce7d2ca30b", 
+        "latitude": 39.48320614021858, 
+        "longitude": -0.370301088264948, 
+        "name": "130_C/ CONVENTO CARMELITAS", 
+        "timestamp": "2017-08-15T04:46:32.345000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Moraira - Alta del Mar", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771852000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 273
+        }, 
+        "free_bikes": 12, 
+        "id": "a564c6627f9677adbae33f159a038bcb", 
+        "latitude": 39.450273041140704, 
+        "longitude": -0.33336295982062, 
+        "name": "273_CALLE_MORAIRA_CALLE_DALT_DE_LA_MAR", 
+        "timestamp": "2017-08-15T04:46:32.347000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Pie de la Cruz - Rejas", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771735000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 147
+        }, 
+        "free_bikes": 1, 
+        "id": "b88b12b9267454c7cb33591e47198cf7", 
+        "latitude": 39.473169103148095, 
+        "longitude": -0.38029811284559, 
+        "name": "147_CALLE_PIE_DE_LA_CRUZ_CALLE_DE_LA_REJA", 
+        "timestamp": "2017-08-15T04:46:32.348000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Col\u00f3n 20-22", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772129000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 2, 
+        "id": "febb0c02b731cb12e9c6fda335aff12c", 
+        "latitude": 39.46815908853249, 
+        "longitude": -0.373220088928677, 
+        "name": "018_COLON II", 
+        "timestamp": "2017-08-15T04:46:32.349000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Jaime Roig - Bachiller", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771943000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 119
+        }, 
+        "free_bikes": 6, 
+        "id": "d723490f4de117c440d86977b5fb86dd", 
+        "latitude": 39.48248814004604, 
+        "longitude": -0.363317066947724, 
+        "name": "119_C/ JAIME ROIG", 
+        "timestamp": "2017-08-15T04:46:32.350000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Pav\u00eda - Columbretes", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772112000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 164
+        }, 
+        "free_bikes": 1, 
+        "id": "778b966298c9a39cea050119a8d1dde6", 
+        "latitude": 39.468428105127856, 
+        "longitude": -0.324724943771547, 
+        "name": "164_PAVIA 1", 
+        "timestamp": "2017-08-15T04:46:32.350000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Av. del Cid - Burgos", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772154000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 216
+        }, 
+        "free_bikes": 15, 
+        "id": "de59b7ba86e7b55d5b3a0695a7ee136d", 
+        "latitude": 39.4688460824582, 
+        "longitude": -0.399226167293882, 
+        "name": "216_AVDA_DEL_CID_ESQ_CALLE_BURGOS", 
+        "timestamp": "2017-08-15T04:46:32.351000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "San Vicente Martir - Doctor Vil\u00e1 Barber\u00e1", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771909000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 27
+        }, 
+        "free_bikes": 5, 
+        "id": "a1fb851787b0b52595871778651625b5", 
+        "latitude": 39.46333006942278, 
+        "longitude": -0.381942112481819, 
+        "name": "027_CALLE_SAN_VICENTE_MARTIR_129", 
+        "timestamp": "2017-08-15T04:46:32.352000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Ramiro de Maeztu - Peris Brell", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772206000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 72
+        }, 
+        "free_bikes": 15, 
+        "id": "a9ff005f94cab412ca4a2d42e45d58a7", 
+        "latitude": 39.46721209400214, 
+        "longitude": -0.346399008039668, 
+        "name": "072_RAMIRO MAETZU", 
+        "timestamp": "2017-08-15T04:46:32.353000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Giorgeta, 64", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772237000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 207
+        }, 
+        "free_bikes": 7, 
+        "id": "42bc7084a652dca8af802a52a8d9c182", 
+        "latitude": 39.455361042514035, 
+        "longitude": -0.381996108347568, 
+        "name": "207_CALLE_MILLARES_ESQ_CALLE_FEDERICO_GARCA_LORCA", 
+        "timestamp": "2017-08-15T04:46:32.354000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Florista - T4 (Palau de Congressos)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772273000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 239
+        }, 
+        "free_bikes": 1, 
+        "id": "5eb64920e1fc0f8f7d2db7f716dbc972", 
+        "latitude": 39.496953177032466, 
+        "longitude": -0.400055184833165, 
+        "name": "239_LA_FLORISTA_TRANVIA_PALACIO_CONGRESOS", 
+        "timestamp": "2017-08-15T04:46:32.355000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez - Mestre Ripoll", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771758000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 100
+        }, 
+        "free_bikes": 18, 
+        "id": "520a5adee3c44314921dd94a66f90e7e", 
+        "latitude": 39.471602111446835, 
+        "longitude": -0.33824098596173, 
+        "name": "100_AVDA. BLASCO IBA\u00d1EZ 9", 
+        "timestamp": "2017-08-15T04:46:32.355000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Jer\u00f3nimo Mu\u00f1oz - Gaspar Aguilar", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772202000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 196
+        }, 
+        "free_bikes": 5, 
+        "id": "de2aec76ec087436d1873369c48bef5a", 
+        "latitude": 39.4595430546337, 
+        "longitude": -0.388157129082296, 
+        "name": "196_AVDA_GASPAR_AGUILAR", 
+        "timestamp": "2017-08-15T04:46:32.356000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Av. del Cid - Marconi", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772327000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 264
+        }, 
+        "free_bikes": 5, 
+        "id": "0bfc112c05c5459cd9abedd8e6f84677", 
+        "latitude": 39.46912807848099, 
+        "longitude": -0.414523213347863, 
+        "name": "264_AVDA_CID_ANTES_MARCONI", 
+        "timestamp": "2017-08-15T04:46:32.357000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Economista Gay - Luis Crumiere", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771744000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 137
+        }, 
+        "free_bikes": 3, 
+        "id": "b96f118d0c662365a60c559044feb71a", 
+        "latitude": 39.489001156645486, 
+        "longitude": -0.379987120406342, 
+        "name": "137_CALLE_ECONOMISTA_GAY", 
+        "timestamp": "2017-08-15T04:46:32.358000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Malvarrosa - R\u00edo Tajo", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772227000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 168
+        }, 
+        "free_bikes": 1, 
+        "id": "d75fb73452743ce890bcab5dc6d4874f", 
+        "latitude": 39.47683913241012, 
+        "longitude": -0.327977958049006, 
+        "name": "168_AVDA. MALVARROSA", 
+        "timestamp": "2017-08-15T04:46:32.359000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Tres Cruces - Jose Maria Mortes Lerma", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772217000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 248
+        }, 
+        "free_bikes": 2, 
+        "id": "d5cbe22ee84d7a17a8062f7062280f5b", 
+        "latitude": 39.46280806019345, 
+        "longitude": -0.40506018155276, 
+        "name": "248_AVDA_TRES_CRUCES_JOSE_MARIA_MORTES_LERMA", 
+        "timestamp": "2017-08-15T04:46:32.360000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Plaza San Felipe Neri (Mercado Algir\u00f3s)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771873000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 74
+        }, 
+        "free_bikes": 13, 
+        "id": "2fb8ba7baa534c8839bcad5344650b25", 
+        "latitude": 39.469917100728054, 
+        "longitude": -0.353825031741888, 
+        "name": "074_PLAZA SAN FELIPE NERI", 
+        "timestamp": "2017-08-15T04:46:32.361000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Gaspar Aguilar - M\u00fasico Penella", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772032000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 209
+        }, 
+        "free_bikes": 15, 
+        "id": "755e058e0d552903326e7dbbde0bf8d5", 
+        "latitude": 39.45205002773928, 
+        "longitude": -0.393106139888379, 
+        "name": "209_AVDA_GASPAR_AGUILAR_ESQ_CALLE_MUSICO_PENELLA", 
+        "timestamp": "2017-08-15T04:46:32.361000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Plaza del Mercado - Taula de Canvis", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772159000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 2, 
+        "id": "402ba03f20a1c79d6b8e79b25edd4122", 
+        "latitude": 39.474840109114226, 
+        "longitude": -0.379276110679168, 
+        "name": "007_PZA_DEL_MERCADO_TAULA_DE_CANVIS", 
+        "timestamp": "2017-08-15T04:46:32.362000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez 121", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771816000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 97
+        }, 
+        "free_bikes": 21, 
+        "id": "b379c01fe79efd61620cad8ea2b7010f", 
+        "latitude": 39.47303611466866, 
+        "longitude": -0.343223001657882, 
+        "name": "097_AVDA. BLASCO IBA\u00d1EZ 7", 
+        "timestamp": "2017-08-15T04:46:32.363000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Alca\u00f1iz - Cambrils", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771812000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 231
+        }, 
+        "free_bikes": 14, 
+        "id": "e43c15417d765c63942a3691b468200a", 
+        "latitude": 39.495040177417366, 
+        "longitude": -0.378712119815713, 
+        "name": "231_CALLE_DE_ALCA\u00d1IZ_ESQ_CALLE_CAMBRILS", 
+        "timestamp": "2017-08-15T04:46:32.364000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Alboc\u00e1cer - Vinaroz", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771912000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 123
+        }, 
+        "free_bikes": 10, 
+        "id": "e76ea6f2371b1923ee287f0cc5d2ef35", 
+        "latitude": 39.487639156890914, 
+        "longitude": -0.364932074551232, 
+        "name": "123_C_ALBOCACER", 
+        "timestamp": "2017-08-15T04:46:32.365000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Pintor Luis Arcas - Inst. Obrero Valenciano", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771880000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 46
+        }, 
+        "free_bikes": 6, 
+        "id": "1831cb079898a341a104ab1e7e79ac7c", 
+        "latitude": 39.45547705039899, 
+        "longitude": -0.358878039093959, 
+        "name": "46_AVDA. INSTITUTO OBRERO DE VALENCIA", 
+        "timestamp": "2017-08-15T04:46:32.366000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Juan XXIII - Domingo G\u00f3mez", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772164000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 175
+        }, 
+        "free_bikes": 4, 
+        "id": "00bb7d72809bca3d4398c311c8aa9074", 
+        "latitude": 39.49255716773316, 
+        "longitude": -0.382803130751858, 
+        "name": "175_CALLE_JUAN_XXIII", 
+        "timestamp": "2017-08-15T04:46:32.367000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Don Vicente Guillot - Progreso", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772066000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 166
+        }, 
+        "free_bikes": 7, 
+        "id": "94cedb3a02c9e2c15d88b79173642b85", 
+        "latitude": 39.47331712024639, 
+        "longitude": -0.328901958917283, 
+        "name": "166_PROGRESO", 
+        "timestamp": "2017-08-15T04:46:32.368000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Alameda - Pintor Maella", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772126000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 53
+        }, 
+        "free_bikes": 3, 
+        "id": "10983ec613c4503e9db76aa14f388d4b", 
+        "latitude": 39.456732058086, 
+        "longitude": -0.348230007860048, 
+        "name": "53_C/ LUIS GARCIA BERLANGA", 
+        "timestamp": "2017-08-15T04:46:32.369000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Salvador Cerver\u00f3 - Carlos Cortina", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771777000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 271
+        }, 
+        "free_bikes": 3, 
+        "id": "3b83a9311c8805c1f2d65c444fd3a205", 
+        "latitude": 39.499247187993085, 
+        "longitude": -0.389982155850781, 
+        "name": "271_CALLE_SALVADOR_CERVER\u00d3_CALLE_CARLOS_CORTINA", 
+        "timestamp": "2017-08-15T04:46:32.370000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "General Urrutia - Av. de la Plata", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772238000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 44
+        }, 
+        "free_bikes": 1, 
+        "id": "087258d54ec76117a507e90e7dcbe492", 
+        "latitude": 39.456397052131265, 
+        "longitude": -0.363105052261891, 
+        "name": "44_AVDA. GRAL. URRUTIA", 
+        "timestamp": "2017-08-15T04:46:32.370000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Col\u00f3n, 60", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771946000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "04539038b6ed899ca03aac2390490745", 
+        "latitude": 39.47006009581504, 
+        "longitude": -0.370524081869223, 
+        "name": "016_COLON I", 
+        "timestamp": "2017-08-15T04:46:32.372000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Hermanos Maristas - General Urrutia", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771803000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 45
+        }, 
+        "free_bikes": 7, 
+        "id": "8c003adf0475a4f7255454aa3d955be2", 
+        "latitude": 39.45378704370325, 
+        "longitude": -0.361946047377204, 
+        "name": "45_AVDA. GRAL. URRUTIA", 
+        "timestamp": "2017-08-15T04:46:32.372000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Masquefa, 42 - 44", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772225000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 125
+        }, 
+        "free_bikes": 14, 
+        "id": "d3988fd38b15df1685815ea02b6c5673", 
+        "latitude": 39.489661165707126, 
+        "longitude": -0.358709056987903, 
+        "name": "125_C/ MASQUEFA", 
+        "timestamp": "2017-08-15T04:46:32.373000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "\u00c1ngel Villena - Ausias March", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772237000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 187
+        }, 
+        "free_bikes": 8, 
+        "id": "d6775ba2cc3e6fe135d83d0dd12a2219", 
+        "latitude": 39.447928021676226, 
+        "longitude": -0.368909065084874, 
+        "name": "187_AVDA_AUSIAS_MARCH", 
+        "timestamp": "2017-08-15T04:46:32.374000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Naranjos - Ingeniero Fausto Elio", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772207000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 109
+        }, 
+        "free_bikes": 3, 
+        "id": "50d7b99953405ed8ab39fcc482aad774", 
+        "latitude": 39.47678713041781, 
+        "longitude": -0.333600974859012, 
+        "name": "109_AVDA. NARANJOS", 
+        "timestamp": "2017-08-15T04:46:32.375000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Nicasio Benlloch - Amics dels Corpus", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772125000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 205
+        }, 
+        "free_bikes": 10, 
+        "id": "7d6de4f2a9b51576448385da98e2f2f0", 
+        "latitude": 39.489255153267536, 
+        "longitude": -0.393181160103781, 
+        "name": "205_CALLE_NICASIO_BENLLOCH", 
+        "timestamp": "2017-08-15T04:46:32.376000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Alfambra - Poeta Monmeneu", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772179000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 133
+        }, 
+        "free_bikes": 6, 
+        "id": "373da064578377b43cbd3cc999eca7ca", 
+        "latitude": 39.48272413676827, 
+        "longitude": -0.375973105008805, 
+        "name": "133_C/ ALFAMBRA", 
+        "timestamp": "2017-08-15T04:46:32.377000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Puerto Rico - Cuba", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771910000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 156
+        }, 
+        "free_bikes": 14, 
+        "id": "a9d12a2a780366482ce8e1303634dc6f", 
+        "latitude": 39.460932063112466, 
+        "longitude": -0.376436094678165, 
+        "name": "156_C/ CUBA", 
+        "timestamp": "2017-08-15T04:46:32.378000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Armada Espa\u00f1ola - Mariano Cuber", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771971000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 162
+        }, 
+        "free_bikes": 0, 
+        "id": "63cc48a0176645ad3c491b51423694e2", 
+        "latitude": 39.46357208709311, 
+        "longitude": -0.32988595660341, 
+        "name": "162_PZA. ARMADA ESPA\u00d1OLA", 
+        "timestamp": "2017-08-15T04:46:32.379000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Periodista Gil Sumbiela - Poeta Serrano Clavero", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772170000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 206
+        }, 
+        "free_bikes": 9, 
+        "id": "4909628b3fa2863180d74ac6e590e451", 
+        "latitude": 39.49268016612935, 
+        "longitude": -0.389098149691761, 
+        "name": "206_CALLE_PERIODISTA_GIL_SUMBIELA", 
+        "timestamp": "2017-08-15T04:46:32.380000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Santa Cruz de Tenerife, 21", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772036000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 214
+        }, 
+        "free_bikes": 12, 
+        "id": "72cb350bc481c82cdaaaa170df3bebb0", 
+        "latitude": 39.46490006867376, 
+        "longitude": -0.400667169496185, 
+        "name": "214_CALLE_SANTA_CRUZ_DE_TENERIFE_ESQ_CALLE_LLOMBA", 
+        "timestamp": "2017-08-15T04:46:32.381000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Barcas, 11", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772268000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 40
+        }, 
+        "free_bikes": 1, 
+        "id": "b6e8549f0ac02fdb1e3b047a74a54921", 
+        "latitude": 39.470434095658966, 
+        "longitude": -0.374915095234885, 
+        "name": "40_CALLE_BARCAS_FRENTE _TEATRO_PRINCIPAL", 
+        "timestamp": "2017-08-15T04:46:32.382000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Baleares - R\u00edo Escalona", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772210000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 59
+        }, 
+        "free_bikes": 5, 
+        "id": "d92f65dad4707e5cd85e88b283c9cc38", 
+        "latitude": 39.46305607733176, 
+        "longitude": -0.354640030484729, 
+        "name": "059_AVDA. DE BALEARES I", 
+        "timestamp": "2017-08-15T04:46:32.385000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Grabador Jordan - Escultor Pastor", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772333000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 91
+        }, 
+        "free_bikes": 13, 
+        "id": "39a826dfb91338ee35f6ae1f3cb41020", 
+        "latitude": 39.444093009140374, 
+        "longitude": -0.367664059275921, 
+        "name": "091_CALLE_GRABADOR_JORDAN_46_PLAZA_ESCULTOR_PASTOR", 
+        "timestamp": "2017-08-15T04:46:32.386000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Plaza de la Virgen - Bail\u00eda", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771804000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 0, 
+        "id": "455e066cbdfc4574edacd537fde8e977", 
+        "latitude": 39.476715116676885, 
+        "longitude": -0.375433100164395, 
+        "name": "004_PLAZA_DE_LA_VIRGEN_CALLE_BAILIA", 
+        "timestamp": "2017-08-15T04:46:32.386000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Gran Canaria - Ingeniero Manuel Maese", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771853000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 171
+        }, 
+        "free_bikes": 14, 
+        "id": "1f86a3d7c3c0f220943742f70466c5dd", 
+        "latitude": 39.48302815289556, 
+        "longitude": -0.329098964737767, 
+        "name": "171_CALLE GRAN CANARIA", 
+        "timestamp": "2017-08-15T04:46:32.387000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Gasc\u00f3 Oliag - Primado Reig", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771848000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 117
+        }, 
+        "free_bikes": 18, 
+        "id": "51d5070bda66f337cef79b10774ac716", 
+        "latitude": 39.47921913101099, 
+        "longitude": -0.357156046729095, 
+        "name": "117_PRIMADO REIG", 
+        "timestamp": "2017-08-15T04:46:32.388000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Angel Guimer\u00e1 - Juan Llorens", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772285000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 13, 
+        "id": "955e9af23031c676cedda580f65070c4", 
+        "latitude": 39.469755089002845, 
+        "longitude": -0.388444135439494, 
+        "name": "022_JUAN_LLORENS_57", 
+        "timestamp": "2017-08-15T04:46:32.389000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Francia - Pintor Maella", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771955000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 55
+        }, 
+        "free_bikes": 0, 
+        "id": "c52ed3a69d9dcd4c1b2c4edf0ac27a02", 
+        "latitude": 39.45931106660426, 
+        "longitude": -0.348777010892994, 
+        "name": "55_AVDA. DE FRANCIA", 
+        "timestamp": "2017-08-15T04:46:32.390000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Huesca - Bar\u00f3n de C\u00e1rcer", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771812000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 0, 
+        "id": "c9ec709d72bc00b65812dec097838633", 
+        "latitude": 39.46893508902061, 
+        "longitude": -0.379815109120643, 
+        "name": "014_BAR\u00d3N CARCER", 
+        "timestamp": "2017-08-15T04:46:32.390000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez, 23 (F. Filosof\u00eda y Psicolog\u00eda)", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771982000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 89
+        }, 
+        "free_bikes": 0, 
+        "id": "054a8f1421962d839c3229c50c50a800", 
+        "latitude": 39.47777012539991, 
+        "longitude": -0.359409052701581, 
+        "name": "89_AVDA. BLASCO IBA\u00d1EZ", 
+        "timestamp": "2017-08-15T04:46:32.391000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Amadeo de Saboya (frente Ayuntamiento)", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772081000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 80
+        }, 
+        "free_bikes": 4, 
+        "id": "572a4b4a5e76aeb3c1f35b00a8890fa3", 
+        "latitude": 39.47371011075012, 
+        "longitude": -0.362389059448826, 
+        "name": "080_AMADEO SAVOIA", 
+        "timestamp": "2017-08-15T04:46:32.392000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Fray Juan\u00edpero Serra - Torrente", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771945000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 212
+        }, 
+        "free_bikes": 9, 
+        "id": "27f2a75f8ef1cd96c936778ca6bf56b7", 
+        "latitude": 39.461452057092146, 
+        "longitude": -0.40048716710112, 
+        "name": "212_CALLE_FRAY_JUAN\u00cdPERO_SERRA_ESQ_CALLE_TORRENTE", 
+        "timestamp": "2017-08-15T04:46:32.393000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Arag\u00f3n - Vicente Sancho Tello", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771966000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 78
+        }, 
+        "free_bikes": 3, 
+        "id": "edec7feb0545db1d11a8a3f3cc2df0ed", 
+        "latitude": 39.469913099113434, 
+        "longitude": -0.358779046585651, 
+        "name": "078_AVDA. ARAG\u00d3N I", 
+        "timestamp": "2017-08-15T04:46:32.394000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Cno. Moncada - Pedro Patricio Mey", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771737000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 176
+        }, 
+        "free_bikes": 9, 
+        "id": "af8edd5e925d5c86428d87ddd7418677", 
+        "latitude": 39.491985167042394, 
+        "longitude": -0.378944118876901, 
+        "name": "176_CAMINO_DE_MONCADA_52", 
+        "timestamp": "2017-08-15T04:46:32.395000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Fernando el Cat\u00f3lico - Erudito Orellana", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771768000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 3, 
+        "id": "7fae3fc679db720d24deaf1ff2358fa2", 
+        "latitude": 39.47159609591605, 
+        "longitude": -0.3862691299059, 
+        "name": "023_GRAN_VIA_FERNANDO_EL_CATOLICO", 
+        "timestamp": "2017-08-15T04:46:32.396000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Reus - Alquer\u00eda de la Estrella", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771897000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 139
+        }, 
+        "free_bikes": 14, 
+        "id": "3aac114a06679baec6e1213130f17dcd", 
+        "latitude": 39.48567414446925, 
+        "longitude": -0.382964127549696, 
+        "name": "139_C/ REUS", 
+        "timestamp": "2017-08-15T04:46:32.396000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Av. Puerto - Serrer\u00eda", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772098000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 69
+        }, 
+        "free_bikes": 24, 
+        "id": "6e4df440c35a072ca54f02e1fd1d8410", 
+        "latitude": 39.46192007863096, 
+        "longitude": -0.338811982446624, 
+        "name": "069_AVDA. DEL PUERTO", 
+        "timestamp": "2017-08-15T04:46:32.397000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Plaza Am\u00e9rica - Cirilo Amor\u00f3s - Sorn\u00ed", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772174000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 0, 
+        "id": "d0fc5e6ab1ead7c7d5dd5350e0ce588c", 
+        "latitude": 39.47008009754055, 
+        "longitude": -0.36539006649012, 
+        "name": "029_PLAZA AMERICA", 
+        "timestamp": "2017-08-15T04:46:32.398000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Carteros - Mossen Febrer", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771772000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 208
+        }, 
+        "free_bikes": 15, 
+        "id": "2c2576c79d3b750573ef0268b9e44de4", 
+        "latitude": 39.451660027860314, 
+        "longitude": -0.38866912636635, 
+        "name": "208_CALLE_CARTEROS_ESQ_CALLE_MOSSEN_FEBRER", 
+        "timestamp": "2017-08-15T04:46:32.399000Z"
+      }, 
+      {
+        "empty_slots": 40, 
+        "extra": {
+          "address": "Autopista del Saler - Antonio Ferrandis (C.C. El Saler)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772258000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 50
+        }, 
+        "free_bikes": 0, 
+        "id": "615ffb53a4ae2674330814b865ebd2eb", 
+        "latitude": 39.453286044933414, 
+        "longitude": -0.352950020141597, 
+        "name": "50_AVDA. AUTOPISTA DEL SALER", 
+        "timestamp": "2017-08-15T04:46:32.400000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Salvador Giner - C. Museo", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772278000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 5, 
+        "id": "d1f846809587f14bba436b8d46384962", 
+        "latitude": 39.4798571258551, 
+        "longitude": -0.379839115061075, 
+        "name": "002_CALLE_SALVADOR_GINER_CALLE_MUSEO", 
+        "timestamp": "2017-08-15T04:46:32.402000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Av. de la Plata (Museo Fallero)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772230000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 42
+        }, 
+        "free_bikes": 3, 
+        "id": "fa61a2ee2ef02db5f689ea3085673ab1", 
+        "latitude": 39.45874906147631, 
+        "longitude": -0.358749040474832, 
+        "name": "42_AVDA. DE LA PLATA", 
+        "timestamp": "2017-08-15T04:46:32.403000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Campos Crespo - Juan de Garay", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771798000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 210
+        }, 
+        "free_bikes": 5, 
+        "id": "2649ddeac28c84f48578717384352113", 
+        "latitude": 39.45552103825903, 
+        "longitude": -0.396807152864784, 
+        "name": "210_CALLE_CAMPOS_CRESPO_ESQ_CALLE_JUAN_DE_GARAY", 
+        "timestamp": "2017-08-15T04:46:32.404000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Pechina - Teruel", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771999000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 202
+        }, 
+        "free_bikes": 15, 
+        "id": "66ec03f4d4467d2cc78f141148e2708b", 
+        "latitude": 39.4761901091111, 
+        "longitude": -0.393425153835504, 
+        "name": "202_PASEO_PECHINA", 
+        "timestamp": "2017-08-15T04:46:32.405000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rio Segre - Rafael Company", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771971000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 236
+        }, 
+        "free_bikes": 5, 
+        "id": "5bd6b11ed0b431ff6e04d43d03792e08", 
+        "latitude": 39.495034176224834, 
+        "longitude": -0.382369130775341, 
+        "name": "236_RIO_SEGRE_RAFAEL_COMPANY", 
+        "timestamp": "2017-08-15T04:46:32.405000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Constituci\u00f3n - Reus", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772148000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 135
+        }, 
+        "free_bikes": 8, 
+        "id": "01a291e46c315f184716f81af823c6bb", 
+        "latitude": 39.48567014586083, 
+        "longitude": -0.378592114439778, 
+        "name": "135_AVDA. CONSTITUCI\u00d3N", 
+        "timestamp": "2017-08-15T04:46:32.406000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Arquitecto Segura del Lago - Camino Nuevo de Pica\u00f1a", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771995000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 251
+        }, 
+        "free_bikes": 14, 
+        "id": "100815c38150436068a810524c0e28c1", 
+        "latitude": 39.45579803670432, 
+        "longitude": -0.404504176110588, 
+        "name": "251_ARQUITECTO_SEGURA_LAGO_CAMINO_NUEVO_DE_PICA\u00d1A", 
+        "timestamp": "2017-08-15T04:46:32.407000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "P\u00e9rez Gald\u00f3s - Marqu\u00e9s de Zenete", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772320000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 157
+        }, 
+        "free_bikes": 5, 
+        "id": "b7f2c4cdd20fc4a04ebc107e82ded55f", 
+        "latitude": 39.464020069969, 
+        "longitude": -0.387457129393968, 
+        "name": "157_AVENIDA_PEREZ_GALDOS", 
+        "timestamp": "2017-08-15T04:46:32.408000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Av. Puerto - Doctor Manuel Candela", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771886000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 65
+        }, 
+        "free_bikes": 12, 
+        "id": "90186a47bd201e05f4f7d3e84f797e42", 
+        "latitude": 39.46548408671991, 
+        "longitude": -0.350928020671138, 
+        "name": "065_AVDA. DEL PUERTO III", 
+        "timestamp": "2017-08-15T04:46:32.409000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Fontanars dels Aforins - Jacinto Labaila", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772232000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 197
+        }, 
+        "free_bikes": 7, 
+        "id": "91424d7d735c801c3ab8c4cef5029c05", 
+        "latitude": 39.458152048558595, 
+        "longitude": -0.392424141132886, 
+        "name": "197_CALLE_FONTANARS_DELS_AFORINS", 
+        "timestamp": "2017-08-15T04:46:32.410000Z"
+      }, 
+      {
+        "empty_slots": 39, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez, 28 (F. Geograf\u00eda e Historia)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771939000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 88
+        }, 
+        "free_bikes": 1, 
+        "id": "0496810463a6d4b217407fe8d3683d12", 
+        "latitude": 39.47748012383395, 
+        "longitude": -0.361233058011854, 
+        "name": "088_AVDA. BLASCO IBA\u00d1EZ 3", 
+        "timestamp": "2017-08-15T04:46:32.411000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Padre Barranco - Carlos Ruano Llopis (Pintor)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772063000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 225
+        }, 
+        "free_bikes": 8, 
+        "id": "bc1d2217f2b851de40f462e251e424f0", 
+        "latitude": 39.48807514670377, 
+        "longitude": -0.401233183623003, 
+        "name": "225_CALLE_PADRE_BARRANCO_DESPUES_CALLE_BENIFAIRO", 
+        "timestamp": "2017-08-15T04:46:32.412000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez - Arag\u00f3n", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772270000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 92
+        }, 
+        "free_bikes": 2, 
+        "id": "1c8a622906cb0df9c108c5991dfdc862", 
+        "latitude": 39.475828119933816, 
+        "longitude": -0.356059041618514, 
+        "name": "092_AVDA. DE ARAGON, 4 - ESQ AVDA BLASCO IBA\u00d1EZ", 
+        "timestamp": "2017-08-15T04:46:32.413000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "German\u00edas - Ruzafa", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772299000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 33
+        }, 
+        "free_bikes": 11, 
+        "id": "7e1bbcd6093266a20ed504439cbe9cbf", 
+        "latitude": 39.464786076876194, 
+        "longitude": -0.37408108969372, 
+        "name": "033_GRAN_VIA_GERMANIAS_ESQ_CALLE_RUZAFA", 
+        "timestamp": "2017-08-15T04:46:32.414000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez - Jaime Roig", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772292000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 85
+        }, 
+        "free_bikes": 1, 
+        "id": "af6c7675d6f1e67865fd1e51d155c243", 
+        "latitude": 39.47943212926333, 
+        "longitude": -0.364806069768998, 
+        "name": "085_AVDA_BLASCO IBA\u00d1EZ 1", 
+        "timestamp": "2017-08-15T04:46:32.414000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Alfonso el Magn\u00e1nimo - Nave", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771858000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 2, 
+        "id": "d9cdb636c2c4f6aa845b616a609ef326", 
+        "latitude": 39.472030102316914, 
+        "longitude": -0.370965084251257, 
+        "name": "013_PZA. ALFONSO MAGNANIMO_CON_CALLE_LA_NAVE", 
+        "timestamp": "2017-08-15T04:46:32.415000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Platero Su\u00e1rez - Milagrosa", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772251000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 132
+        }, 
+        "free_bikes": 7, 
+        "id": "a6abbb4251382c8a66dbf4eb0df598e3", 
+        "latitude": 39.48525414608695, 
+        "longitude": -0.373525099027208, 
+        "name": "132_C/ RUAYA", 
+        "timestamp": "2017-08-15T04:46:32.416000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "Estaci\u00f3n AVE Joaqu\u00edn Sorolla", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772037000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 194
+        }, 
+        "free_bikes": 12, 
+        "id": "7b10b6dea16a5921de3e32252559de7b", 
+        "latitude": 39.46098606179716, 
+        "longitude": -0.381065108588874, 
+        "name": "194_ESTACION_AVE_JOAQUIN_SOROLLA", 
+        "timestamp": "2017-08-15T04:46:32.417000Z"
+      }, 
+      {
+        "empty_slots": 33, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez - Doctor G\u00f3mez Ferrer (Cl\u00ednico)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771876000, 
+          "slots": 33, 
+          "status": "OPEN", 
+          "uid": 87
+        }, 
+        "free_bikes": 0, 
+        "id": "59b8504b1ba1327848f5c60703bdd544", 
+        "latitude": 39.47848612698768, 
+        "longitude": -0.361971060764256, 
+        "name": "87_AVDA BLASCO IBA\u00d1EZ 2", 
+        "timestamp": "2017-08-15T04:46:32.418000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Valle de la Ballestera - Hospital Nueve de Octubre", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771920000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 223
+        }, 
+        "free_bikes": 8, 
+        "id": "079c94f18de72eb1742299e33c6783fa", 
+        "latitude": 39.47852611446744, 
+        "longitude": -0.40127817864509, 
+        "name": "223_CALLE_VALLE_BALLESTERA_ESQ_PLAZA_POLICIA_LOCAL", 
+        "timestamp": "2017-08-15T04:46:32.419000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Plaza de Tetu\u00e1n", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772100000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 0, 
+        "id": "cb4c4670ca56c6d2898f3ff8232d7422", 
+        "latitude": 39.474323110354575, 
+        "longitude": -0.370021082654504, 
+        "name": "009_PLAZA_TETUAN_4", 
+        "timestamp": "2017-08-15T04:46:32.420000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Cirilo Amor\u00f3s - Jorge Juan (Mercado Col\u00f3n)", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772141000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 30
+        }, 
+        "free_bikes": 0, 
+        "id": "036aa99f2fb3c9ff1dd89a0923e8a5a3", 
+        "latitude": 39.468569091411034, 
+        "longitude": -0.368590075268948, 
+        "name": "030_CIRILO AMOROS", 
+        "timestamp": "2017-08-15T04:46:32.421000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Canal de Navarr\u00e9s - Maestro Rodrigo", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772066000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 266
+        }, 
+        "free_bikes": 5, 
+        "id": "e07bb11a39aa75ab731bd758db837197", 
+        "latitude": 39.490257152389816, 
+        "longitude": -0.406462200475517, 
+        "name": "266_PLANA_ALTA_ESQ_AVDA_MAESTRO_RODRIGO", 
+        "timestamp": "2017-08-15T04:46:32.422000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "Naranjos (Magisterio)", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772283000, 
+          "slots": 36, 
+          "status": "OPEN", 
+          "uid": 95
+        }, 
+        "free_bikes": 6, 
+        "id": "f38ce05c2f3316750f6dca9b546802d3", 
+        "latitude": 39.479803136509446, 
+        "longitude": -0.34621001424835, 
+        "name": "95_AVDA. DE LOS NARANJOS", 
+        "timestamp": "2017-08-15T04:46:32.422000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Menorca - Baleares", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772243000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 62
+        }, 
+        "free_bikes": 19, 
+        "id": "3995cf6e4a29a46bd17e9d782abe52b4", 
+        "latitude": 39.45977907030124, 
+        "longitude": -0.342242991568314, 
+        "name": "062_MENORCA", 
+        "timestamp": "2017-08-15T04:46:32.423000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Marqu\u00e9s de San Juan - Diputat Llu\u00eds Luc\u00eda", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772175000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 144
+        }, 
+        "free_bikes": 6, 
+        "id": "6c978a38878865d150f5c19f887dcda8", 
+        "latitude": 39.478747117048464, 
+        "longitude": -0.395571161644053, 
+        "name": "144_CALLE_MARQUES_DE_SAN_JUAN", 
+        "timestamp": "2017-08-15T04:46:32.424000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Hospital Nueva Fe (administraci\u00f3n)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771759000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 189
+        }, 
+        "free_bikes": 12, 
+        "id": "bccd815786100d3c24ad4610a31bcc28", 
+        "latitude": 39.4446390082756, 
+        "longitude": -0.37599308454911, 
+        "name": "189_HOSPITAL_NUEVA_FE", 
+        "timestamp": "2017-08-15T04:46:32.425000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Almazora - Benimuslem", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771879000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 129
+        }, 
+        "free_bikes": 12, 
+        "id": "5b0199afa00ff32b0935f978910711a7", 
+        "latitude": 39.485943149532034, 
+        "longitude": -0.37003608893869, 
+        "name": "129_C_ALMAZORA", 
+        "timestamp": "2017-08-15T04:46:32.426000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Zapadores, 23", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771926000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 181
+        }, 
+        "free_bikes": 6, 
+        "id": "d2376cc770c49d94415e1def7df29151", 
+        "latitude": 39.45796705574948, 
+        "longitude": -0.368282068629998, 
+        "name": "181_CALLE_DEL_SALINAR", 
+        "timestamp": "2017-08-15T04:46:32.427000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "General Elio - Llano del Real", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772257000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 83
+        }, 
+        "free_bikes": 6, 
+        "id": "15f9ca03cd68bf284d3fe99115dff326", 
+        "latitude": 39.47755312220108, 
+        "longitude": -0.367061075518166, 
+        "name": "83_PZA. DE LA LEGI\u00d3N ESPA\u00d1OLA", 
+        "timestamp": "2017-08-15T04:46:32.427000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Peris y Valero - Salamanca", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771978000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 149
+        }, 
+        "free_bikes": 3, 
+        "id": "c7d1d08abc6cb0bd879523bf612f3e7d", 
+        "latitude": 39.462902074466406, 
+        "longitude": -0.361886052119026, 
+        "name": "149_AVDA. PERIS Y VALERO", 
+        "timestamp": "2017-08-15T04:46:32.428000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Hospital - Horno del Hospital", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772197000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 7, 
+        "id": "90b634ac29019225c12ac5771612e881", 
+        "latitude": 39.47078409432719, 
+        "longitude": -0.382701118769287, 
+        "name": "010_CALLE_DEL_HOSPITAL_FRENTE_CALLE_HORNO_DEL_HOSP", 
+        "timestamp": "2017-08-15T04:46:32.429000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Baleares - Leb\u00f3n", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772092000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 60
+        }, 
+        "free_bikes": 11, 
+        "id": "92c4a3f12135bd872c06adf8059dc1af", 
+        "latitude": 39.462199075340266, 
+        "longitude": -0.351867021712218, 
+        "name": "060_AVDA.BALEARES II", 
+        "timestamp": "2017-08-15T04:46:32.430000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Aitana - Florista", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772261000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 229
+        }, 
+        "free_bikes": 3, 
+        "id": "f2c455f3df8730fe19c1204d6b5e071c", 
+        "latitude": 39.49307216559276, 
+        "longitude": -0.394897167291038, 
+        "name": "229_CALLE_AITANA_ESQ_AVDA_BURJASSOT", 
+        "timestamp": "2017-08-15T04:46:32.431000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Nueve de Octubre - Cieza", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772082000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 245
+        }, 
+        "free_bikes": 5, 
+        "id": "38912b1990269b100e58b1df0bb5a746", 
+        "latitude": 39.47202809113153, 
+        "longitude": -0.405642188252898, 
+        "name": "245_9_DE_OCTUBRE_CIEZA", 
+        "timestamp": "2017-08-15T04:46:32.432000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Ninot - Regino Mas", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772086000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 270
+        }, 
+        "free_bikes": 3, 
+        "id": "5109cc7c028add8d0513fb8a655295d5", 
+        "latitude": 39.50004318971825, 
+        "longitude": -0.392980165265021, 
+        "name": "270_CALLE_NINOT_ESQ_PZA_REGINO_MAS", 
+        "timestamp": "2017-08-15T04:46:32.433000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Peris y Valero - Cabo Jubi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771997000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 38
+        }, 
+        "free_bikes": 6, 
+        "id": "a36387de9f74ed015adabb4155a34448", 
+        "latitude": 39.459369828677254, 
+        "longitude": -0.370340076012569, 
+        "name": "38_AVDA. PERIS Y VALERO", 
+        "timestamp": "2017-08-15T04:46:32.434000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Dels Gremis - Campos Crespo", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771827000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 252
+        }, 
+        "free_bikes": 3, 
+        "id": "56c5aaca9352112044162f200598c498", 
+        "latitude": 39.450256018261534, 
+        "longitude": -0.4036651706049, 
+        "name": "252_DE_LOS_GREMIOS_CAMPOS_CRESPO", 
+        "timestamp": "2017-08-15T04:46:32.434000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Cra. Malilla - Olt\u00e1", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771918000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 192
+        }, 
+        "free_bikes": 2, 
+        "id": "fdc198de03caf60f3a3207cc4bbb5fcb", 
+        "latitude": 39.45260503424732, 
+        "longitude": -0.378805097289263, 
+        "name": "192_CTRA_MALILLA", 
+        "timestamp": "2017-08-15T04:46:32.435000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Llano de la Zaid\u00eda - Doctor Ol\u00f3riz", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772045000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 153
+        }, 
+        "free_bikes": 8, 
+        "id": "70289796a6b682422162832ed8993831", 
+        "latitude": 39.48313013675752, 
+        "longitude": -0.380263118087985, 
+        "name": "153_C/ LLANO DE ZAIDA", 
+        "timestamp": "2017-08-15T04:46:32.436000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Jorge Comin (Metge) - Terrateig", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771956000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 224
+        }, 
+        "free_bikes": 8, 
+        "id": "ec33f45e192c2f678e89429165e1dc39", 
+        "latitude": 39.480536120478945, 
+        "longitude": -0.403679186925212, 
+        "name": "224_PLAZA_JOSE_MONFORTE_TUDELA_ESQ_CALLE_HERNANDEZ", 
+        "timestamp": "2017-08-15T04:46:32.437000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Gregorio Gea - Profesor Beltr\u00e1n B\u00e1guena", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772061000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 142
+        }, 
+        "free_bikes": 7, 
+        "id": "c048c320b3dbcc405aa895a0e56b547e", 
+        "latitude": 39.48188812951767, 
+        "longitude": -0.389750145869399, 
+        "name": "142_C/ GREGORIO GEA (PEATONAL)", 
+        "timestamp": "2017-08-15T04:46:32.439000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Campamento, 81", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772212000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 269
+        }, 
+        "free_bikes": 0, 
+        "id": "174479feded520eeaa2eafa9911f11ae", 
+        "latitude": 39.499875178486775, 
+        "longitude": -0.426354265293528, 
+        "name": "269_CAMPAMENTO_81", 
+        "timestamp": "2017-08-15T04:46:32.440000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rub\u00e9n Dar\u00edo - Plaza Fray Luis Colomer", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772210000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 103
+        }, 
+        "free_bikes": 9, 
+        "id": "7f43447ad282b6776002424dd87961c3", 
+        "latitude": 39.47842112983494, 
+        "longitude": -0.35246203223541, 
+        "name": "103_RUBEN DARIO", 
+        "timestamp": "2017-08-15T04:46:32.441000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Plaza Ayuntamiento - Cotanda", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772217000, 
+          "slots": 27, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 0, 
+        "id": "dbf4c86311a0d8677abf32b485122a4e", 
+        "latitude": 39.471154097455006, 
+        "longitude": -0.376875101498657, 
+        "name": "011_PZA_AYTO_CON_CALLE_COTANDA", 
+        "timestamp": "2017-08-15T04:46:32.442000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "La Safor - Maestro Rodrigo", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771876000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 242
+        }, 
+        "free_bikes": 0, 
+        "id": "6e50fdd99983c7c9668ba1a8ab14c052", 
+        "latitude": 39.48787514504915, 
+        "longitude": -0.404288192680299, 
+        "name": "242_LA_SAFOR_AVDA_MAESTRO_RODRIGO", 
+        "timestamp": "2017-08-15T04:46:32.443000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Maestro Rodrigo - Manuel de Falla", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771858000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 222
+        }, 
+        "free_bikes": 14, 
+        "id": "0eed6b05c9533b54fbec2cfe9d091e08", 
+        "latitude": 39.47686111010473, 
+        "longitude": -0.397373166037864, 
+        "name": "222_AVDA_MAESTRO_RODRIGO_ESQ_AVDA_MANUEL_DE_FALLA", 
+        "timestamp": "2017-08-15T04:46:32.443000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez - Poeta Dur\u00e1n Tortajada", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772219000, 
+          "slots": 38, 
+          "status": "OPEN", 
+          "uid": 93
+        }, 
+        "free_bikes": 37, 
+        "id": "b268fd4c051c4595d167d1afe68a8ab0", 
+        "latitude": 39.47225011180076, 
+        "longitude": -0.34390000326249, 
+        "name": "93_AVADA_BLASCO_IBA\u00d1EZ_DESP_C_POETA_DURAN_TORTAJAD", 
+        "timestamp": "2017-08-15T04:46:32.444000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Alameda - Pintor Monle\u00f3n", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772295000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 57
+        }, 
+        "free_bikes": 13, 
+        "id": "73121d3666a679865e9b0e5a67da138f", 
+        "latitude": 39.46444408081199, 
+        "longitude": -0.35834704234339, 
+        "name": "057_CALLE PINTOR MONLEON", 
+        "timestamp": "2017-08-15T04:46:32.445000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Jos\u00e9 Meli\u00e1 Castell\u00f3 - Campos Crespo", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771914000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 253
+        }, 
+        "free_bikes": 12, 
+        "id": "44ef071464ed178ce932dc11c7dc999f", 
+        "latitude": 39.452694027294896, 
+        "longitude": -0.401192164498328, 
+        "name": "253_PLAZA_JOSE_MELIA_CASTELLO_CAMPOS_CRESPO", 
+        "timestamp": "2017-08-15T04:46:32.446000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Vicente la Roda - Ingeniero Fausto Elio", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771808000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 272
+        }, 
+        "free_bikes": 11, 
+        "id": "133238db3f0890cae4ef18c505de12e2", 
+        "latitude": 39.480591143659446, 
+        "longitude": -0.332280972954351, 
+        "name": "272_VICENTE_LA_RODA_C_INGENIERO_FAUSTO_ELIO", 
+        "timestamp": "2017-08-15T04:46:32.447000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Alfahuir - Jos\u00e9 Chabas Bordehore", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772286000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 126
+        }, 
+        "free_bikes": 11, 
+        "id": "1b0e3d149291be1cdc10203b83ebaf79", 
+        "latitude": 39.493066176705305, 
+        "longitude": -0.36019506326505, 
+        "name": "126_C/ ALFAUIR", 
+        "timestamp": "2017-08-15T04:46:32.448000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Giorgeta - Roig de Corella", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772121000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 195
+        }, 
+        "free_bikes": 1, 
+        "id": "76170a465ee9f19fa8b39cefef794c86", 
+        "latitude": 39.45935205521343, 
+        "longitude": -0.384372117626406, 
+        "name": "195_CALLE_GIORGETA", 
+        "timestamp": "2017-08-15T04:46:32.449000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Vicent Vidal - Pintor Maella", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772213000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 61
+        }, 
+        "free_bikes": 7, 
+        "id": "ee8bbb3f1a0e11bea25e6245f1bec059", 
+        "latitude": 39.46126107345635, 
+        "longitude": -0.347921009381426, 
+        "name": "061_VICENTE VIDAL", 
+        "timestamp": "2017-08-15T04:46:32.450000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Plaza de Europa", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771750000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 54
+        }, 
+        "free_bikes": 11, 
+        "id": "0d508204b31afbecd73bcd8fd3c374d7", 
+        "latitude": 39.45974606677287, 
+        "longitude": -0.352781023126671, 
+        "name": "54_PASEO ALAMEDA", 
+        "timestamp": "2017-08-15T04:46:32.450000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Paseo Neptuno 32-34", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772204000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 163
+        }, 
+        "free_bikes": 2, 
+        "id": "6a0f71c7afc6ebd0d4014db09396edc8", 
+        "latitude": 39.464405091973795, 
+        "longitude": -0.323491937905993, 
+        "name": "163_PASEO NEPTUNO", 
+        "timestamp": "2017-08-15T04:46:32.451000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Valle de la Ballestera - Pio Baroja", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771989000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 244
+        }, 
+        "free_bikes": 5, 
+        "id": "2bf2e6dc1b4e829d55a65b60f4565929", 
+        "latitude": 39.47847411270088, 
+        "longitude": -0.406227193465013, 
+        "name": "244_AVDA_PIO_BAROJA_VALLE_DE_LA_BALLESTERA", 
+        "timestamp": "2017-08-15T04:46:32.452000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Rep\u00fablica Argentina - Campoamor", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771820000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 75
+        }, 
+        "free_bikes": 20, 
+        "id": "e822f525bbaba182587f87f84999e493", 
+        "latitude": 39.472081108680385, 
+        "longitude": -0.351792026815861, 
+        "name": "075_CAMPOAMOR I", 
+        "timestamp": "2017-08-15T04:46:32.453000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Veles e Vents", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771753000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 276
+        }, 
+        "free_bikes": 1, 
+        "id": "cd674b152f7ab02056a8ee37b3fda689", 
+        "latitude": 39.4619430835605, 
+        "longitude": -0.323855937664754, 
+        "name": "276_EDIFICIO_VELES_E_VENTS", 
+        "timestamp": "2017-08-15T04:46:32.454000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Azagador de Alboraya - Dolores Marqu\u00e9s", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771754000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 124
+        }, 
+        "free_bikes": 25, 
+        "id": "b9e9987ef161ec99bda4712cd5a8dac0", 
+        "latitude": 39.48846916061659, 
+        "longitude": -0.362046066347782, 
+        "name": "124_C/ AZAGADOR DE ALBORAYA", 
+        "timestamp": "2017-08-15T04:46:32.455000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Beniferri - Vicent Tom\u00e1s Mart\u00ed", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772114000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 267
+        }, 
+        "free_bikes": 4, 
+        "id": "2daf456b67087ad7e4b143974aa5f0cb", 
+        "latitude": 39.4941361656198, 
+        "longitude": -0.406020201221407, 
+        "name": "267_C_BENIFERRI_VICENTE_TOMAS_MARTI", 
+        "timestamp": "2017-08-15T04:46:32.456000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Pescadores - Progreso", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772303000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 154
+        }, 
+        "free_bikes": 2, 
+        "id": "88295ce1895e17057d69e865bcf86580", 
+        "latitude": 39.46984410830488, 
+        "longitude": -0.329644959268791, 
+        "name": "154_PESCADORES", 
+        "timestamp": "2017-08-15T04:46:32.457000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Pio IX - M\u00fasico Cabanilles", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772257000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 259
+        }, 
+        "free_bikes": 18, 
+        "id": "c15cc07ed5986aaab8471acbbfde287c", 
+        "latitude": 39.44542800538199, 
+        "longitude": -0.393106136312086, 
+        "name": "259_CALLE_PIO_IX_POLIDEPORTIVO_RAMBLETA", 
+        "timestamp": "2017-08-15T04:46:32.458000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Jer\u00f3nimo Monsoriu - Industria", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772241000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 73
+        }, 
+        "free_bikes": 20, 
+        "id": "ae1f9ed7d3dd961d1a23c92f438ccc9c", 
+        "latitude": 39.46622709180114, 
+        "longitude": -0.342969997228533, 
+        "name": "073_JERONIMO MONSORIU", 
+        "timestamp": "2017-08-15T04:46:32.459000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Gaspar Aguilar - Vicente Parra", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771836000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 86
+        }, 
+        "free_bikes": 20, 
+        "id": "9d2c1e4b54855f098cb08db63999a8ed", 
+        "latitude": 39.45520803898995, 
+        "longitude": -0.391284136125771, 
+        "name": "86_AVDA_GASPAR_AGUILAR_ESQ_VICENTE_PARRA", 
+        "timestamp": "2017-08-15T04:46:32.459000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Alfahuir - Duque de Mandas", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771770000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 127
+        }, 
+        "free_bikes": 13, 
+        "id": "1ee11b1b47c472077fd416cb878b3468", 
+        "latitude": 39.49055916686075, 
+        "longitude": -0.36453707493258, 
+        "name": "127_C/ DUQUE DE MANDAS", 
+        "timestamp": "2017-08-15T04:46:32.461000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Av. Puerto 61-63", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772139000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 64
+        }, 
+        "free_bikes": 11, 
+        "id": "1d4dc097807b10cc7b1a1fdf6e5eb5f9", 
+        "latitude": 39.46648608901148, 
+        "longitude": -0.354286031274125, 
+        "name": "064_AVDA. DEL PUERTO II", 
+        "timestamp": "2017-08-15T04:46:32.462000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "Blasco Iba\u00f1ez, 32 (F. Filolog\u00eda)", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772231000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 90
+        }, 
+        "free_bikes": 11, 
+        "id": "28ad06c4505d8b617d180ebe953ab7a3", 
+        "latitude": 39.47670212191253, 
+        "longitude": -0.35905805107551, 
+        "name": "90_AVDA. BLASCO IBA\u00d1EZ", 
+        "timestamp": "2017-08-15T04:46:32.462000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Av. Campanar (La Fe)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772278000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 146
+        }, 
+        "free_bikes": 3, 
+        "id": "8d70b46cd27b267ef075ed60fdd170a2", 
+        "latitude": 39.48507813986351, 
+        "longitude": -0.391043151456223, 
+        "name": "146_AVDA. CAMPANAR", 
+        "timestamp": "2017-08-15T04:46:32.463000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Ebanista Caselles - Ausias March", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772230000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 185
+        }, 
+        "free_bikes": 10, 
+        "id": "bedf8663dc8b3e6e71ca3066b2740b03", 
+        "latitude": 39.45001202816097, 
+        "longitude": -0.37059407126453, 
+        "name": "185_AVDA_AUSIAS_MARCH", 
+        "timestamp": "2017-08-15T04:46:32.465000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Poeta Serrano Clavero - General Llorens", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772325000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 230
+        }, 
+        "free_bikes": 1, 
+        "id": "4ce9a1ce7fbc5201e885635040a086ea", 
+        "latitude": 39.494718173715064, 
+        "longitude": -0.386875144115863, 
+        "name": "230_CALLE_POETA_SERRANO_CLAVERO_EQ_GENERAL_LLORENS", 
+        "timestamp": "2017-08-15T04:46:32.466000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Av. Puerto - Plaza Tribunal de les Aig\u00fces", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772335000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 71
+        }, 
+        "free_bikes": 12, 
+        "id": "52d57654be8087f73a785b7d42744247", 
+        "latitude": 39.460348075016185, 
+        "longitude": -0.333621966050435, 
+        "name": "071_AVDA DEL PUERTO VI", 
+        "timestamp": "2017-08-15T04:46:32.467000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Bombero Ram\u00f3n Duart - Hermanos Maristas", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772055000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 184
+        }, 
+        "free_bikes": 5, 
+        "id": "f30b3f3216badf4a899867ed81b0b6d4", 
+        "latitude": 39.452750038999675, 
+        "longitude": -0.365661057953976, 
+        "name": "184_CALLE_BOMBER_RAMON_DUART", 
+        "timestamp": "2017-08-15T04:46:32.468000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Tres Cruces - Segunda Rep\u00fablica Espa\u00f1ola", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772232000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 249
+        }, 
+        "free_bikes": 4, 
+        "id": "e607f9f93f6fd06773c353bc68ad1f7c", 
+        "latitude": 39.459474049657025, 
+        "longitude": -0.402831173069948, 
+        "name": "249_AVDA_TRES_CRUCES_SEGUNDA_REPUBLICA_ESPA\u00d1OLA", 
+        "timestamp": "2017-08-15T04:46:32.469000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Quart - Fernando el Cat\u00f3lico", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772173000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 2, 
+        "id": "e34981ad02072b75f920ea9f27dee694", 
+        "latitude": 39.47500210686962, 
+        "longitude": -0.387938136740957, 
+        "name": "020_FERNANDO_EL_CATOLICO_CALLE_QUART", 
+        "timestamp": "2017-08-15T04:46:32.471000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Corts Valencianes - La Safor", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772124000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 226
+        }, 
+        "free_bikes": 2, 
+        "id": "ff78e6811fbd04be716fe83ebdf26859", 
+        "latitude": 39.490832156737454, 
+        "longitude": -0.398950178249295, 
+        "name": "226_CALLE_SAFOR_ESQ_AVDA_DE_LAS_CORTES_VALENCIANAS", 
+        "timestamp": "2017-08-15T04:46:32.472000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Ausias March - Pianista Amparo Iturbi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772148000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 182
+        }, 
+        "free_bikes": 16, 
+        "id": "b623f38ca8a0c395d473420b0436df14", 
+        "latitude": 39.455400044894006, 
+        "longitude": -0.375056087555512, 
+        "name": "182_AVDA_AUSIAS_MARCH", 
+        "timestamp": "2017-08-15T04:46:32.473000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Salvador Ferrandis Luna - Juan Bautista Vives", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772245000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 218
+        }, 
+        "free_bikes": 8, 
+        "id": "8d96b72df1293feb4f92768d7c457ddc", 
+        "latitude": 39.470708089307045, 
+        "longitude": -0.397475163041212, 
+        "name": "218_CALLE_SALVADOR_FERRANDIS_LUNA_ESQ_CALLE_JUAN_B", 
+        "timestamp": "2017-08-15T04:46:32.474000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Economista Gay - Constituci\u00f3n", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772195000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 136
+        }, 
+        "free_bikes": 7, 
+        "id": "1f6b81722ca23ce520f77207b868afa9", 
+        "latitude": 39.4899091610835, 
+        "longitude": -0.375701108044157, 
+        "name": "136_CALLE_ECONOMISTA_GAY", 
+        "timestamp": "2017-08-15T04:46:32.475000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Beato Nicol\u00e1s Factor - Convento de Jes\u00fas", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772307000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 199
+        }, 
+        "free_bikes": 6, 
+        "id": "ff59ea286a64c35a91c861bb77936fc3", 
+        "latitude": 39.461556060298705, 
+        "longitude": -0.391649140641673, 
+        "name": "199_CALLE_BEATO_NICOLAS_FACTOR", 
+        "timestamp": "2017-08-15T04:46:32.476000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Aularios Universidad de Valencia", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772277000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 105
+        }, 
+        "free_bikes": 20, 
+        "id": "e93a988c09daf3db334615ad5ded02b4", 
+        "latitude": 39.477658129796865, 
+        "longitude": -0.344611008304436, 
+        "name": "105_AVDA. DE LOS NARANJOS", 
+        "timestamp": "2017-08-15T04:46:32.477000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Plaza Badajoz", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772227000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 145
+        }, 
+        "free_bikes": 0, 
+        "id": "9a3e4ae6cc43679bb06b62f250450aff", 
+        "latitude": 39.481515125451246, 
+        "longitude": -0.398486171871458, 
+        "name": "145_PLAZA_BADAJOZ", 
+        "timestamp": "2017-08-15T04:46:32.478000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Moreras - Rona de Nazaret", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772018000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 275
+        }, 
+        "free_bikes": 20, 
+        "id": "a804fda919dd5ff4ba19977884da8ae1", 
+        "latitude": 39.452273047299634, 
+        "longitude": -0.33515596627555, 
+        "name": "275_CAMINO_DE_LAS_MORERAS_ESQ_RONDA_DE_NAZARET", 
+        "timestamp": "2017-08-15T04:46:32.479000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Traginers - Pedrapiquers", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772332000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 260
+        }, 
+        "free_bikes": 13, 
+        "id": "be0cd8beb7a2b510a47b6b98ec9a0fab", 
+        "latitude": 39.45952404837945, 
+        "longitude": -0.407308186532079, 
+        "name": "260_DELS_FERRERS_ESQ_TRAGINERS", 
+        "timestamp": "2017-08-15T04:46:32.481000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "Hospital Nueva Fe (consultas externas)", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772271000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 188
+        }, 
+        "free_bikes": 9, 
+        "id": "a52450f4c5f58441610c290b822fe109", 
+        "latitude": 39.44446300836761, 
+        "longitude": -0.373882078122754, 
+        "name": "188_HOSPITAL_NUEVA_FE", 
+        "timestamp": "2017-08-15T04:46:32.481000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Moreras (Oceanogr\u00e1fico)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772028000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 51
+        }, 
+        "free_bikes": 1, 
+        "id": "ed0c91397974f6d2e655f6b4041b7368", 
+        "latitude": 39.45215104293519, 
+        "longitude": -0.347318002649104, 
+        "name": "51_PSO. DE LAS MORERAS", 
+        "timestamp": "2017-08-15T04:46:32.482000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Peris y Valero - Luis Sant\u00e1ngel", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771996000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 37
+        }, 
+        "free_bikes": 15, 
+        "id": "c6fdfe8c5fafa9d16e7a2f2943619f12", 
+        "latitude": 39.46090558239442, 
+        "longitude": -0.366531327258963, 
+        "name": "37_AVDA. PERIS Y VALERO", 
+        "timestamp": "2017-08-15T04:46:32.484000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Plaza Salvador Soria, 8", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772173000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 257
+        }, 
+        "free_bikes": 19, 
+        "id": "6d5970e36ac28b0d743b30547e191add", 
+        "latitude": 39.44521900594571, 
+        "longitude": -0.389195124464717, 
+        "name": "257_PLAZA_SALVADOR_SORIA_ESQ_PIO_X", 
+        "timestamp": "2017-08-15T04:46:32.485000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Doctor Lluch - Virgen del Sufragio", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772289000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 158
+        }, 
+        "free_bikes": 2, 
+        "id": "4432fb08b2d47a257551d865110781c0", 
+        "latitude": 39.46666609819163, 
+        "longitude": -0.327809952057852, 
+        "name": "158_DR.LLUNCH", 
+        "timestamp": "2017-08-15T04:46:32.487000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Escultor Jos\u00e9 Capuz - Oriente", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772238000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 43
+        }, 
+        "free_bikes": 3, 
+        "id": "28394ecf25fa39d117b579d36928d530", 
+        "latitude": 39.45944506301512, 
+        "longitude": -0.361244048329219, 
+        "name": "43_C/ DE ORIENTE", 
+        "timestamp": "2017-08-15T04:46:32.488000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Camp del Turia - Corts Valencianes", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771987000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 240
+        }, 
+        "free_bikes": 4, 
+        "id": "badf9bc5719d30e566c45d652174058e", 
+        "latitude": 39.494972169842995, 
+        "longitude": -0.401638188523523, 
+        "name": "240_CAMP_DEL_TURIA_AVDA_CORTES_VALENCIANAS", 
+        "timestamp": "2017-08-15T04:46:32.489000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Manuel Candela - Rodriguez de Cepeda", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771923000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 150
+        }, 
+        "free_bikes": 24, 
+        "id": "ae47bc8747087ce69068ce2bf02a9ef6", 
+        "latitude": 39.467689094227495, 
+        "longitude": -0.350700021177111, 
+        "name": "150_DR. MANUEL CANDELA", 
+        "timestamp": "2017-08-15T04:46:32.490000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Cast\u00e1n Tobe\u00f1as - Patriques", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771780000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 220
+        }, 
+        "free_bikes": 11, 
+        "id": "c72f5c3bacb472a6ed57da40fc68dfd4", 
+        "latitude": 39.473823099518064, 
+        "longitude": -0.398412167524643, 
+        "name": "220_CALLE_CASTAN_TOBE\u00d1AS_ESQ_CALLE_DE_GOYA", 
+        "timestamp": "2017-08-15T04:46:32.491000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Doctor Nicasio Benlloch - L'Horta Sud", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772263000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 228
+        }, 
+        "free_bikes": 5, 
+        "id": "53fd53c98ebeaa219dd27605cbbd7645", 
+        "latitude": 39.49366016633798, 
+        "longitude": -0.398762179196655, 
+        "name": "228_AVDA_NICASIO_BENLLOCH_ESQ_CALLE_L'HORTA_SUD", 
+        "timestamp": "2017-08-15T04:46:32.493000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Guillem de Castro - San Pedro Pascual", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771926000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 6, 
+        "id": "4786386fffd575e8d0c4556246766c32", 
+        "latitude": 39.47276610053889, 
+        "longitude": -0.384174124251856, 
+        "name": "006_GUILLEN_CASTRO_CON_CALLE_SAN_PEDRO_PASCUAL", 
+        "timestamp": "2017-08-15T04:46:32.494000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Doctor Waksman - Nieves", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771761000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 180
+        }, 
+        "free_bikes": 12, 
+        "id": "a4c9df03310deeb31b1c28db97f48f47", 
+        "latitude": 39.45598904826899, 
+        "longitude": -0.370774075033782, 
+        "name": "180_AVENIDA_DOCTOR_WAKSMAN", 
+        "timestamp": "2017-08-15T04:46:32.495000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Alcudia de Crespins - Pedro Patricio Mey", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772134000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 177
+        }, 
+        "free_bikes": 7, 
+        "id": "e1339a7d0f52136ec6a993bddce87f59", 
+        "latitude": 39.493513173915595, 
+        "longitude": -0.373579103612918, 
+        "name": "177_CALLE_ALCUDIA", 
+        "timestamp": "2017-08-15T04:46:32.496000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Plaza Poeta Llorente", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772115000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 7, 
+        "id": "954624848140147cf210628ad9c94618", 
+        "latitude": 39.47686311853029, 
+        "longitude": -0.371231087646942, 
+        "name": "005_PINTOR_LOPEZ_PZA_POETA_LLORENTE", 
+        "timestamp": "2017-08-15T04:46:32.499000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Esparraguera - Cra. Malilla", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771862000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 191
+        }, 
+        "free_bikes": 6, 
+        "id": "392005621c729ee4c1d4aa730efe9dda", 
+        "latitude": 39.450297026408926, 
+        "longitude": -0.378957096498364, 
+        "name": "191_CTRA_MALILLA", 
+        "timestamp": "2017-08-15T04:46:32.497000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Marino Blas de Lezo (estaci\u00f3n Caba\u00f1al Adif)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771910000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 101
+        }, 
+        "free_bikes": 9, 
+        "id": "40b7507557335e136f2c8d8b43a01de3", 
+        "latitude": 39.470036107395714, 
+        "longitude": -0.334451973768557, 
+        "name": "101_AVDA. BLASCO IBA\u00d1EZ 10", 
+        "timestamp": "2017-08-15T04:46:32.501000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Ausias March - Av. de la Plata", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772066000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 183
+        }, 
+        "free_bikes": 6, 
+        "id": "a16b54358647768269a45a6bd99cc27c", 
+        "latitude": 39.452588036275, 
+        "longitude": -0.372375077997377, 
+        "name": "183_AVDA_AUSIAS_MARCH", 
+        "timestamp": "2017-08-15T04:46:32.500000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Fernando el Cat\u00f3lico - Cuenca", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771931000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 6, 
+        "id": "3c089573ff1428119534575e0c335ee2", 
+        "latitude": 39.469045088002915, 
+        "longitude": -0.384118122083548, 
+        "name": "024_GRAN_VIA_RAMON_Y_CAJAL", 
+        "timestamp": "2017-08-15T04:46:32.502000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "La Vall d'Albaida - Corts Valencianes", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772005000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 241
+        }, 
+        "free_bikes": 4, 
+        "id": "8fd1c5aaa236dcd66ea59d12bee4a199", 
+        "latitude": 39.49294616289816, 
+        "longitude": -0.401981188470323, 
+        "name": "241_VALL_DE_ALBAIDA_PEATONAL", 
+        "timestamp": "2017-08-15T04:46:32.503000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Mediterr\u00e1neo - Plaza Cruz de Ca\u00f1amelar", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772044000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 161
+        }, 
+        "free_bikes": 3, 
+        "id": "0d9f2caae400b0039fb63570d9ce5853", 
+        "latitude": 39.467937101175984, 
+        "longitude": -0.331816964744236, 
+        "name": "161_MEDITERRANEO", 
+        "timestamp": "2017-08-15T04:46:32.504000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Jos\u00e9 Mar\u00eda de Haro - Justo y Pastor", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772058000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 160
+        }, 
+        "free_bikes": 18, 
+        "id": "11416c916ac49cf2015c8ae012333b63", 
+        "latitude": 39.46730409669327, 
+        "longitude": -0.33907198613268, 
+        "name": "160_JOSE MARIA DE HARO", 
+        "timestamp": "2017-08-15T04:46:32.505000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Guillem de Anglesola - Av. Puerto", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771762000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 66
+        }, 
+        "free_bikes": 15, 
+        "id": "9115618aa3c6cab02231b913fc5f2358", 
+        "latitude": 39.46423908400446, 
+        "longitude": -0.346352006288128, 
+        "name": "066_GUILLEN DE ANGLESOLA", 
+        "timestamp": "2017-08-15T04:46:32.506000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "P\u00edo XII - Monestir de Poblet", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771957000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 173
+        }, 
+        "free_bikes": 3, 
+        "id": "0a71083f554b252ecb650048f6933dde", 
+        "latitude": 39.48450913674717, 
+        "longitude": -0.394769162326153, 
+        "name": "173_AVENIDA_PIO_XII_34", 
+        "timestamp": "2017-08-15T04:46:32.508000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Av. del Cid - Juli\u00e1n Pe\u00f1a", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771814000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 200
+        }, 
+        "free_bikes": 12, 
+        "id": "3400972b51bb61eb57ecdf01f4f7bfa3", 
+        "latitude": 39.4677050805168, 
+        "longitude": -0.393305148918046, 
+        "name": "200_AVDA_DEL_CID", 
+        "timestamp": "2017-08-15T04:46:32.509000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Tres Forques - Colonia Espa\u00f1ola de Mexico", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771882000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 262
+        }, 
+        "free_bikes": 12, 
+        "id": "d0af088cdbd0ec67d34982a7cdad2f80", 
+        "latitude": 39.46344006095387, 
+        "longitude": -0.409316194664879, 
+        "name": "262_AVDA_TRES_FORQUES_COLONIA_ESPANOLA_DE_MEXICO", 
+        "timestamp": "2017-08-15T04:46:32.510000Z"
+      }, 
+      {
+        "empty_slots": 34, 
+        "extra": {
+          "address": "Ribera - Plaza Ayuntamiento", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771895000, 
+          "slots": 34, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 0, 
+        "id": "e5584f196dae7b10249bf37c4cbe575a", 
+        "latitude": 39.469056090688554, 
+        "longitude": -0.375728096943875, 
+        "name": "015_RIBERA", 
+        "timestamp": "2017-08-15T04:46:32.511000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Plaza de los Fueros - Conde Trenor", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772050000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 36
+        }, 
+        "free_bikes": 7, 
+        "id": "a197739f69472ae8677b1c7b202785b1", 
+        "latitude": 39.47904012448793, 
+        "longitude": -0.375527101694727, 
+        "name": "036_PZA_LOS_FUEROS_CONDE_TRENOR", 
+        "timestamp": "2017-08-15T04:46:32.512000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Isabel de Villena - Mendiz\u00e1bal", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771857000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 170
+        }, 
+        "free_bikes": 5, 
+        "id": "066d570567f9d7cee546920ef6e9407d", 
+        "latitude": 39.48294115378812, 
+        "longitude": -0.325424953690914, 
+        "name": "170_PAVIA 5", 
+        "timestamp": "2017-08-15T04:46:32.513000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "UPV Galileo", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772049000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 111
+        }, 
+        "free_bikes": 18, 
+        "id": "3f00d4bb44331ddf788e00cdc440f785", 
+        "latitude": 39.480184139586505, 
+        "longitude": -0.340651997804929, 
+        "name": "111_COLEGIO MAYOR", 
+        "timestamp": "2017-08-15T04:46:32.333000Z"
+      }, 
+      {
+        "empty_slots": 33, 
+        "extra": {
+          "address": "UPV Caminos", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772160000, 
+          "slots": 38, 
+          "status": "OPEN", 
+          "uid": 113
+        }, 
+        "free_bikes": 5, 
+        "id": "e0e8bb41c3e143dcff86cb0d2e9061e2", 
+        "latitude": 39.48124414217441, 
+        "longitude": -0.343702007510602, 
+        "name": "113_ETS CAMINOS", 
+        "timestamp": "2017-08-15T04:46:32.438000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Cast\u00e1n Tobe\u00f1as - Rincon de Ademuz", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771962000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 219
+        }, 
+        "free_bikes": 5, 
+        "id": "c0c0db11841a26159e0bb041ffa1d0dc", 
+        "latitude": 39.472789, 
+        "longitude": -0.401684, 
+        "name": "219_CALLE_CASTAN_TOBE\u00d1AS_ESQ_CALLE_VELAZQUEZ", 
+        "timestamp": "2017-08-15T04:46:32.384000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "UPV Trinquet", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771981000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 110
+        }, 
+        "free_bikes": 19, 
+        "id": "7359a7d6e7d07cc3f4129cb1ee2c50b3", 
+        "latitude": 39.48070814260447, 
+        "longitude": -0.336770986463246, 
+        "name": "110_KISSHOMARU", 
+        "timestamp": "2017-08-15T04:46:32.340000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Tres Cruces - Pio XI", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772324000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 250
+        }, 
+        "free_bikes": 14, 
+        "id": "655dc2a5363307b51a4d4abb57c69d52", 
+        "latitude": 39.45632, 
+        "longitude": -0.4008977, 
+        "name": "250_AVDA_TRES_CRUCES_PIO_XI", 
+        "timestamp": "2017-08-15T04:46:32.401000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Regne de Valencia - Almirante Cadarso", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771813000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 35
+        }, 
+        "free_bikes": 12, 
+        "id": "dba0c16a5e8c3256c68c588b84b6ec73", 
+        "latitude": 39.46371707553277, 
+        "longitude": -0.367085068143159, 
+        "name": "35_C/ DUQUE DE CALABRIA", 
+        "timestamp": "2017-08-15T04:46:32.470000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Calle Salv\u00e1 - Calle Poeta Querol", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772292000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 1, 
+        "id": "4b6167081892023746d55000a6249f38", 
+        "latitude": 39.471935, 
+        "longitude": -0.374101, 
+        "name": "012_CALLE_MINYANA", 
+        "timestamp": "2017-08-15T04:46:32.289000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "C/GUILLEM DE CASTRO esquina con C/NA JORDANA", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772235000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 5, 
+        "id": "145b2e7c75f44b0475436eb0a884da81", 
+        "latitude": 39.48001, 
+        "longitude": -0.38302, 
+        "name": "001_GUILLEN_DE_CASTRO", 
+        "timestamp": "2017-08-15T04:46:32.264000Z"
+      }
+    ]
+  }
+}

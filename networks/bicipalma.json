@@ -1,0 +1,496 @@
+{
+  "network": {
+    "company": null, 
+    "href": "/v2/networks/bicipalma", 
+    "id": "bicipalma", 
+    "location": {
+      "city": "Palma", 
+      "country": "ES", 
+      "latitude": 39.57119, 
+      "longitude": 2.646634
+    }, 
+    "name": "Bicipalma", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 1, 
+          "uid": 1, 
+          "used_slots": 6
+        }, 
+        "free_bikes": 6, 
+        "id": "ab9ab99c634efe7abec6e10ad423cf13", 
+        "latitude": 39.56590061, 
+        "longitude": 2.659399509, 
+        "name": "Parc de ses Veles", 
+        "timestamp": "2015-10-12T11:21:17.712000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 6, 
+          "used_slots": 8
+        }, 
+        "free_bikes": 8, 
+        "id": "d7a38dc0238b32abd6f180d67ee33890", 
+        "latitude": 39.57135084, 
+        "longitude": 2.665643692, 
+        "name": "Manacormanuel Aza\u00f1a", 
+        "timestamp": "2015-10-12T11:21:17.754000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 59, 
+          "used_slots": 4
+        }, 
+        "free_bikes": 4, 
+        "id": "0f5848b201f68c6680a95e4e4dbd89e1", 
+        "latitude": 39.56767054, 
+        "longitude": 2.656159401, 
+        "name": "Mateu Enric Llad\u00f3", 
+        "timestamp": "2015-10-12T11:21:17.777000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 60, 
+          "used_slots": 4
+        }, 
+        "free_bikes": 4, 
+        "id": "635e79f1cc1ab4e3efcf3aac6783e264", 
+        "latitude": 39.57027572, 
+        "longitude": 2.65644908, 
+        "name": "Travessa Ballester", 
+        "timestamp": "2015-10-12T11:21:17.797000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 1, 
+          "uid": 9, 
+          "used_slots": 6
+        }, 
+        "free_bikes": 6, 
+        "id": "abb1d34b9bf558d40cd02e26ab1dc8b3", 
+        "latitude": 39.57458439, 
+        "longitude": 2.664034367, 
+        "name": "F. Manuel Herreros", 
+        "timestamp": "2015-10-12T11:21:17.819000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 7, 
+          "used_slots": 3
+        }, 
+        "free_bikes": 3, 
+        "id": "2a62270c342ead1efe458caba1a42ec2", 
+        "latitude": 39.57266578, 
+        "longitude": 2.657833099, 
+        "name": "Arag\u00f3 - Nuredduna", 
+        "timestamp": "2015-10-12T11:21:17.840000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 17, 
+          "used_slots": 2
+        }, 
+        "free_bikes": 2, 
+        "id": "0dacd15f89aa1794243f206b1c505174", 
+        "latitude": 39.57886798, 
+        "longitude": 2.66289711, 
+        "name": "Arag\u00f3 - Jaume Balmes", 
+        "timestamp": "2015-10-12T11:21:17.861000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 1, 
+          "uid": 21, 
+          "used_slots": 7
+        }, 
+        "free_bikes": 7, 
+        "id": "4c2140b4154d6d94eff2b19dcc5c6186", 
+        "latitude": 39.58131563, 
+        "longitude": 2.655279636, 
+        "name": "Palexander Fleming", 
+        "timestamp": "2015-10-12T11:21:17.882000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 31, 
+          "used_slots": 10
+        }, 
+        "free_bikes": 10, 
+        "id": "6ebef05863c7e43c7fcda92f31892685", 
+        "latitude": 39.57718104, 
+        "longitude": 2.641010284, 
+        "name": "Pl. Madrid", 
+        "timestamp": "2015-10-12T11:21:17.903000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 37, 
+          "used_slots": 13
+        }, 
+        "free_bikes": 13, 
+        "id": "070edbcc8bdaf56dfc6821ff1c6c00fe", 
+        "latitude": 39.57450169, 
+        "longitude": 2.6406025890000002, 
+        "name": "Avd Argentina", 
+        "timestamp": "2015-10-12T11:21:17.923000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 52, 
+          "used_slots": 5
+        }, 
+        "free_bikes": 5, 
+        "id": "4721bbb1da3a2212137078bdfc437762", 
+        "latitude": 39.57688334, 
+        "longitude": 2.649496794, 
+        "name": "Cecili Metel", 
+        "timestamp": "2015-10-12T11:21:17.944000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 29, 
+          "used_slots": 8
+        }, 
+        "free_bikes": 8, 
+        "id": "bf1f7776b46d70fc84ea4519916afedd", 
+        "latitude": 39.57728027, 
+        "longitude": 2.646095753, 
+        "name": "Institut Balear", 
+        "timestamp": "2015-10-12T11:21:17.965000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 46, 
+          "used_slots": 7
+        }, 
+        "free_bikes": 7, 
+        "id": "59cc80ea3cc1be3166378372412817e3", 
+        "latitude": 39.57137565, 
+        "longitude": 2.64695406, 
+        "name": "Pl Rei Joan Carles I", 
+        "timestamp": "2015-10-12T11:21:17.988000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 1, 
+          "uid": 51, 
+          "used_slots": 7
+        }, 
+        "free_bikes": 7, 
+        "id": "071b334d9cb75eecb12a09f5b1054be6", 
+        "latitude": 39.57529558, 
+        "longitude": 2.647608519, 
+        "name": "Via Roma", 
+        "timestamp": "2015-10-12T11:21:18.009000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 1, 
+          "uid": 41, 
+          "used_slots": 4
+        }, 
+        "free_bikes": 4, 
+        "id": "59ac7d7351cb5cf265712b171ce64614", 
+        "latitude": 39.57274848, 
+        "longitude": 2.637383938, 
+        "name": "F\u00e1brica", 
+        "timestamp": "2015-10-12T11:21:18.031000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 45, 
+          "used_slots": 6
+        }, 
+        "free_bikes": 6, 
+        "id": "63aa652c0af6ee4c91eeefc49e495830", 
+        "latitude": 39.57247557, 
+        "longitude": 2.642920017, 
+        "name": "Jaume Iii", 
+        "timestamp": "2015-10-12T11:21:18.053000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 1, 
+          "uid": 47, 
+          "used_slots": 4
+        }, 
+        "free_bikes": 4, 
+        "id": "1e6e08b4df7335aef3bfadc715224eff", 
+        "latitude": 39.57113582, 
+        "longitude": 2.641439438, 
+        "name": "Pl Porta S Catalina", 
+        "timestamp": "2015-10-12T11:21:18.076000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 49, 
+          "used_slots": 13
+        }, 
+        "free_bikes": 13, 
+        "id": "803ad53c9b577ebe9771c885c8c7a1c7", 
+        "latitude": 39.56797655, 
+        "longitude": 2.645848989, 
+        "name": "Pl de la Reina", 
+        "timestamp": "2015-10-12T11:21:18.099000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 1, 
+          "uid": 55, 
+          "used_slots": 9
+        }, 
+        "free_bikes": 9, 
+        "id": "da1ef71dcedddadca7d886b9b643dad7", 
+        "latitude": 39.56914268, 
+        "longitude": 2.650655508, 
+        "name": "Pl. Santa Eulalia", 
+        "timestamp": "2015-10-12T11:21:18.121000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 13, 
+          "used_slots": 7
+        }, 
+        "free_bikes": 7, 
+        "id": "3d6b8bcad31ca64fcb2768a62970db5e", 
+        "latitude": 39.57602331, 
+        "longitude": 2.655408382, 
+        "name": "Parc de Estacions", 
+        "timestamp": "2015-10-12T11:21:18.143000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 15, 
+          "used_slots": 1
+        }, 
+        "free_bikes": 1, 
+        "id": "16ef47119adf7460e0a724193d111bcc", 
+        "latitude": 39.58015797, 
+        "longitude": 2.659850121, 
+        "name": "J Verdaguer - J Balmes", 
+        "timestamp": "2015-10-12T11:21:18.165000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 63, 
+          "used_slots": 6
+        }, 
+        "free_bikes": 6, 
+        "id": "1c2d1811ddea91526e3292521e9a6b55", 
+        "latitude": 39.57543616, 
+        "longitude": 2.654550076, 
+        "name": "Pl. Despanya", 
+        "timestamp": "2015-10-12T11:21:18.187000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 65, 
+          "used_slots": 6
+        }, 
+        "free_bikes": 6, 
+        "id": "a670b347c12b04125c27ad19cdcb1b44", 
+        "latitude": 39.57226055, 
+        "longitude": 2.655934095, 
+        "name": "Pl Alexandre Jaume", 
+        "timestamp": "2015-10-12T11:21:18.209000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 16, 
+          "used_slots": 13
+        }, 
+        "free_bikes": 13, 
+        "id": "66852496757f803aebf6c70055c0dc77", 
+        "latitude": 39.5815637, 
+        "longitude": 2.644529343, 
+        "name": "Parc de sa Riera", 
+        "timestamp": "2015-10-12T11:21:18.231000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 24, 
+          "used_slots": 5
+        }, 
+        "free_bikes": 5, 
+        "id": "ea7f715a93a44b4bc66fa5dedeb9008a", 
+        "latitude": 39.57809894, 
+        "longitude": 2.651245594, 
+        "name": "Blanquerna - Sallent", 
+        "timestamp": "2015-10-12T11:21:18.252000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 1, 
+          "uid": 27, 
+          "used_slots": 10
+        }, 
+        "free_bikes": 10, 
+        "id": "c36a10e1942724c90c8982fd143ac14d", 
+        "latitude": 39.584186, 
+        "longitude": 2.649158, 
+        "name": "Pl. Paris", 
+        "timestamp": "2015-10-12T11:21:18.275000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 25, 
+          "used_slots": 9
+        }, 
+        "free_bikes": 9, 
+        "id": "8a02bcecb504d15a5609295b580e3c9e", 
+        "latitude": 39.58085257, 
+        "longitude": 2.649260759, 
+        "name": "Blanquerna Bartolom\u00e9", 
+        "timestamp": "2015-10-12T11:21:18.298000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 18, 
+          "used_slots": 4
+        }, 
+        "free_bikes": 4, 
+        "id": "9429b3eb3588e3fa62845e84c1da60dc", 
+        "latitude": 39.577219, 
+        "longitude": 2.667289, 
+        "name": "Metge Darder", 
+        "timestamp": "2015-10-12T11:21:18.319000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 34, 
+          "used_slots": 6
+        }, 
+        "free_bikes": 6, 
+        "id": "3add80b75252b4df6c130ad17ac58356", 
+        "latitude": 39.5776, 
+        "longitude": 2.633347, 
+        "name": "Sant - Ferran", 
+        "timestamp": "2015-10-12T11:21:18.340000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 1, 
+          "uid": 61, 
+          "used_slots": 7
+        }, 
+        "free_bikes": 7, 
+        "id": "67efc6f579c85a9609cb72429b9561fc", 
+        "latitude": 39.570342, 
+        "longitude": 2.633678, 
+        "name": "Pla\u00e7a Pont", 
+        "timestamp": "2015-10-12T11:21:18.361000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 70, 
+          "used_slots": 13
+        }, 
+        "free_bikes": 13, 
+        "id": "a8097ecd5cd7943c3d18c181dbca9419", 
+        "latitude": 39.587861, 
+        "longitude": 2.650011, 
+        "name": "Ctra. Valldemossa", 
+        "timestamp": "2015-10-12T11:21:18.382000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "enabled": true, 
+          "faulty_slots": 0, 
+          "uid": 77, 
+          "used_slots": 4
+        }, 
+        "free_bikes": 4, 
+        "id": "4890225a8d2d85c38d7ef47c75199be3", 
+        "latitude": 39.584114, 
+        "longitude": 2.6661, 
+        "name": "Son Costa - Son Forteza", 
+        "timestamp": "2015-10-12T11:21:18.403000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "network": {
+    "company": [
+      "Brainbox Technology", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/easybike-ioannina", 
+    "id": "easybike-ioannina", 
+    "location": {
+      "city": "Ioannina", 
+      "country": "GR", 
+      "latitude": 39.6639818, 
+      "longitude": 20.8522784
+    }, 
+    "name": "EasyBike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 8
+        }, 
+        "free_bikes": 4, 
+        "id": "243f8f0d6d94c9426d6f29f24364cd37", 
+        "latitude": 39.6694403464, 
+        "longitude": 20.8487143326, 
+        "name": "Alsos", 
+        "timestamp": "2017-08-15T04:49:16.845000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 8
+        }, 
+        "free_bikes": 0, 
+        "id": "06413fb4c9eedf671b0212f55a226188", 
+        "latitude": 39.6666510102, 
+        "longitude": 20.8532526302, 
+        "name": "Vivliothiki", 
+        "timestamp": "2017-08-15T04:49:16.849000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 8
+        }, 
+        "free_bikes": 0, 
+        "id": "3e05bf35e578a0e22cd91ba68d297bcd", 
+        "latitude": 39.6645429323, 
+        "longitude": 20.8523996878, 
+        "name": "Perifereia", 
+        "timestamp": "2017-08-15T04:49:16.850000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 10
+        }, 
+        "free_bikes": 0, 
+        "id": "8799305bdbeb207721cc80af29914ff1", 
+        "latitude": 39.6727353757, 
+        "longitude": 20.8552267361, 
+        "name": "Plateia Mavili", 
+        "timestamp": "2017-08-15T04:49:16.848000Z"
+      }
+    ]
+  }
+}

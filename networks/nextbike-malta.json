@@ -1,0 +1,955 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-malta", 
+    "id": "nextbike-malta", 
+    "location": {
+      "city": "Malta", 
+      "country": "MT", 
+      "latitude": 35.9192, 
+      "longitude": 14.4889
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "76322", 
+            "76257", 
+            "76202", 
+            "76115", 
+            "76000"
+          ], 
+          "number": "6871", 
+          "slots": 12, 
+          "uid": "405841"
+        }, 
+        "free_bikes": 5, 
+        "id": "565dc862cdc18f714c6848e7a6e6eb08", 
+        "latitude": 35.901561233547, 
+        "longitude": 14.475672841072, 
+        "name": "Mater Dei Hospital", 
+        "timestamp": "2017-08-15T04:46:10.688000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "76271", 
+            "76249", 
+            "76216", 
+            "76145", 
+            "76119"
+          ], 
+          "number": "6867", 
+          "slots": 12, 
+          "uid": "405834"
+        }, 
+        "free_bikes": 5, 
+        "id": "abbfc5d2b927b765e0f2256ee4836de9", 
+        "latitude": 35.911359315147, 
+        "longitude": 14.48757648468, 
+        "name": "Malta Independent", 
+        "timestamp": "2017-08-15T04:46:10.677000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76332"
+          ], 
+          "number": "6868", 
+          "slots": 6, 
+          "uid": "405835"
+        }, 
+        "free_bikes": 1, 
+        "id": "94e1751986550b13f9452feb30af1c81", 
+        "latitude": 35.906836271692, 
+        "longitude": 14.481455683708, 
+        "name": "Birkirkara Road", 
+        "timestamp": "2017-08-15T04:46:10.679000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "76276", 
+            "76212", 
+            "76160", 
+            "76151", 
+            "76108"
+          ], 
+          "number": "6869", 
+          "slots": 8, 
+          "uid": "405837"
+        }, 
+        "free_bikes": 5, 
+        "id": "8dd5b5d6345fc31c13275c7a9fd3f6b3", 
+        "latitude": 35.905345913521, 
+        "longitude": 14.490537643433, 
+        "name": "Sliema Road", 
+        "timestamp": "2017-08-15T04:46:10.682000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76337", 
+            "76199", 
+            "76187", 
+            "76184", 
+            "76094"
+          ], 
+          "number": "6870", 
+          "slots": 6, 
+          "uid": "405839"
+        }, 
+        "free_bikes": 5, 
+        "id": "d4c0fd61b624dafb2bed69c3a97b88d5", 
+        "latitude": 35.901678556999, 
+        "longitude": 14.492779970169, 
+        "name": "Empire Stadium", 
+        "timestamp": "2017-08-15T04:46:10.684000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "76104"
+          ], 
+          "number": "6878", 
+          "slots": 16, 
+          "uid": "407026"
+        }, 
+        "free_bikes": 1, 
+        "id": "11ac660e5fe7b7c987dd7ff99a25dde1", 
+        "latitude": 35.901487363136, 
+        "longitude": 14.483129382133, 
+        "name": "University - Students' House", 
+        "timestamp": "2017-08-15T04:46:10.703000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76321", 
+            "76313", 
+            "76245", 
+            "76197", 
+            "76170"
+          ], 
+          "number": "6879", 
+          "slots": 8, 
+          "uid": "407028"
+        }, 
+        "free_bikes": 5, 
+        "id": "efb27bcd225da7d75853fe49e8dc6efc", 
+        "latitude": 35.895082101822, 
+        "longitude": 14.490720033646, 
+        "name": "Msida Central", 
+        "timestamp": "2017-08-15T04:46:10.710000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76173"
+          ], 
+          "number": "6880", 
+          "slots": 6, 
+          "uid": "407030"
+        }, 
+        "free_bikes": 1, 
+        "id": "82e1350e5eb8c6d2dfc9bae11984b82a", 
+        "latitude": 35.908978340831, 
+        "longitude": 14.490795135498, 
+        "name": "Blue Sisters", 
+        "timestamp": "2017-08-15T04:46:10.711000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "76279", 
+            "76251", 
+            "76225", 
+            "76190", 
+            "76169"
+          ], 
+          "number": "6881", 
+          "slots": 8, 
+          "uid": "407033"
+        }, 
+        "free_bikes": 5, 
+        "id": "3a551064a298ce57bdf49f91cf7b3847", 
+        "latitude": 35.897424384355, 
+        "longitude": 14.494147896767, 
+        "name": "Ta Xbiex Yacht Marina", 
+        "timestamp": "2017-08-15T04:46:10.713000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "76351"
+          ], 
+          "number": "6862", 
+          "slots": 6, 
+          "uid": "405825"
+        }, 
+        "free_bikes": 1, 
+        "id": "3897910ff4988de83871d7baf028a2a0", 
+        "latitude": 35.919457567327, 
+        "longitude": 14.48286652565, 
+        "name": "Gnien F X Ebejer", 
+        "timestamp": "2017-08-15T04:46:10.664000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "76314", 
+            "76246"
+          ], 
+          "number": "6863", 
+          "slots": 10, 
+          "uid": "405826"
+        }, 
+        "free_bikes": 2, 
+        "id": "ba7abd7f48af3fdbdeb7e37a40bf8e2b", 
+        "latitude": 35.899805706306, 
+        "longitude": 14.485403895378, 
+        "name": "Msida Skatepark", 
+        "timestamp": "2017-08-15T04:46:10.667000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76331", 
+            "76285", 
+            "76282", 
+            "76238", 
+            "76236"
+          ], 
+          "number": "6872", 
+          "slots": 6, 
+          "uid": "405843"
+        }, 
+        "free_bikes": 5, 
+        "id": "6993b326210587594f5a59243b30ba87", 
+        "latitude": 35.907809551674, 
+        "longitude": 14.500392079353, 
+        "name": "The Strand", 
+        "timestamp": "2017-08-15T04:46:10.689000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "76309", 
+            "76174", 
+            "76066", 
+            "76030", 
+            "76019"
+          ], 
+          "number": "6873", 
+          "slots": 8, 
+          "uid": "405844"
+        }, 
+        "free_bikes": 5, 
+        "id": "6156b8e2dd8f4a49353b474124193919", 
+        "latitude": 35.902156539637, 
+        "longitude": 14.487211704254, 
+        "name": "University Sports Complex", 
+        "timestamp": "2017-08-15T04:46:10.691000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76329", 
+            "76056", 
+            "76042"
+          ], 
+          "number": "6876", 
+          "slots": 8, 
+          "uid": "407020"
+        }, 
+        "free_bikes": 3, 
+        "id": "486fdac3af224d7510cdedba7bdab776", 
+        "latitude": 35.909673523219, 
+        "longitude": 14.470946788788, 
+        "name": "Xwieki", 
+        "timestamp": "2017-08-15T04:46:10.699000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "6875", 
+          "slots": 6, 
+          "uid": "405847"
+        }, 
+        "free_bikes": 0, 
+        "id": "0a28aa6d762a49983610134cea245671", 
+        "latitude": 35.921351674056, 
+        "longitude": 14.485838413239, 
+        "name": "Swieqi Road", 
+        "timestamp": "2017-08-15T04:46:10.697000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "76224", 
+            "76070"
+          ], 
+          "number": "6842", 
+          "slots": 16, 
+          "uid": "405768"
+        }, 
+        "free_bikes": 2, 
+        "id": "380f7b4658b592a13c8391995b7636e9", 
+        "latitude": 35.924948614258, 
+        "longitude": 14.492173790932, 
+        "name": "Westin", 
+        "timestamp": "2017-08-15T04:46:10.623000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76222", 
+            "76182", 
+            "76062"
+          ], 
+          "number": "6840", 
+          "slots": 8, 
+          "uid": "405766"
+        }, 
+        "free_bikes": 3, 
+        "id": "833a950313004277fd1f62a20b062e53", 
+        "latitude": 35.92859317302, 
+        "longitude": 14.489690065384, 
+        "name": "Corinthia", 
+        "timestamp": "2017-08-15T04:46:10.615000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76335", 
+            "76311", 
+            "76264", 
+            "76235", 
+            "76233"
+          ], 
+          "number": "6841", 
+          "slots": 6, 
+          "uid": "405767"
+        }, 
+        "free_bikes": 5, 
+        "id": "4e2b51bd1592afb8759ec8b1cd49b6d0", 
+        "latitude": 35.924657563586, 
+        "longitude": 14.488037824631, 
+        "name": "St. George's Bay", 
+        "timestamp": "2017-08-15T04:46:10.622000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "6843", 
+          "slots": 6, 
+          "uid": "405769"
+        }, 
+        "free_bikes": 0, 
+        "id": "5804ac17c62a179f06862be2373cc62e", 
+        "latitude": 35.921799128425, 
+        "longitude": 14.49223279953, 
+        "name": "Hilton Malta", 
+        "timestamp": "2017-08-15T04:46:10.624000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76349", 
+            "76297", 
+            "76269", 
+            "76256", 
+            "76250"
+          ], 
+          "number": "6844", 
+          "slots": 8, 
+          "uid": "405772"
+        }, 
+        "free_bikes": 5, 
+        "id": "5dd6e39d007ffdea0a6bcce5a61fdda2", 
+        "latitude": 35.918897146319, 
+        "longitude": 14.489963650703, 
+        "name": "Spinola", 
+        "timestamp": "2017-08-15T04:46:10.626000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "6846", 
+          "slots": 6, 
+          "uid": "405778"
+        }, 
+        "free_bikes": 0, 
+        "id": "a5c7247d35fe166acc9b9454e773fd26", 
+        "latitude": 35.921594950532, 
+        "longitude": 14.480093121529, 
+        "name": "Swieqi Tennis Courts", 
+        "timestamp": "2017-08-15T04:46:10.629000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "76053", 
+            "76034"
+          ], 
+          "number": "6848", 
+          "slots": 10, 
+          "uid": "405786"
+        }, 
+        "free_bikes": 2, 
+        "id": "88aa346c8076e13c710b0b21f5401ea6", 
+        "latitude": 35.924979022475, 
+        "longitude": 14.479417204857, 
+        "name": "Pembroke", 
+        "timestamp": "2017-08-15T04:46:10.630000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "76312", 
+            "76283", 
+            "76242", 
+            "76237", 
+            "76215"
+          ], 
+          "number": "6852", 
+          "slots": 14, 
+          "uid": "405806"
+        }, 
+        "free_bikes": 5, 
+        "id": "e64c4c58e9c38fdcb89a00b5ba82f33a", 
+        "latitude": 35.91766768167, 
+        "longitude": 14.4987398386, 
+        "name": "Exiles", 
+        "timestamp": "2017-08-15T04:46:10.635000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76341", 
+            "76301", 
+            "76267", 
+            "76255", 
+            "76229"
+          ], 
+          "number": "6853", 
+          "slots": 12, 
+          "uid": "405809"
+        }, 
+        "free_bikes": 5, 
+        "id": "81a5e9527d8e3a1921586af7d95e703e", 
+        "latitude": 35.915239107005, 
+        "longitude": 14.504726529121, 
+        "name": "Fond Ghadir", 
+        "timestamp": "2017-08-15T04:46:10.637000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "76268", 
+            "76137", 
+            "76353"
+          ], 
+          "number": "6855", 
+          "slots": 16, 
+          "uid": "405810"
+        }, 
+        "free_bikes": 3, 
+        "id": "8646644d6bde05660fcf4221c304825a", 
+        "latitude": 35.913105896731, 
+        "longitude": 14.506856203079, 
+        "name": "Chalet", 
+        "timestamp": "2017-08-15T04:46:10.638000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76345", 
+            "76336", 
+            "76328", 
+            "76326", 
+            "76303"
+          ], 
+          "number": "6856", 
+          "slots": 10, 
+          "uid": "405818"
+        }, 
+        "free_bikes": 5, 
+        "id": "b3f7685b91fcd0b128a7d28730c640d7", 
+        "latitude": 35.915056635056, 
+        "longitude": 14.494807720184, 
+        "name": "Balluta", 
+        "timestamp": "2017-08-15T04:46:10.643000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "76274", 
+            "76138", 
+            "76114"
+          ], 
+          "number": "6858", 
+          "slots": 6, 
+          "uid": "405820"
+        }, 
+        "free_bikes": 3, 
+        "id": "714d6491929db5c6f4eba3e6d65fd57e", 
+        "latitude": 35.913770630338, 
+        "longitude": 14.492484927177, 
+        "name": "Le Meridien", 
+        "timestamp": "2017-08-15T04:46:10.645000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76338", 
+            "76316", 
+            "76284", 
+            "76240", 
+            "76179"
+          ], 
+          "number": "6859", 
+          "slots": 10, 
+          "uid": "405821"
+        }, 
+        "free_bikes": 5, 
+        "id": "672467cee2246691609434f24bbd1135", 
+        "latitude": 35.904642002818, 
+        "longitude": 14.496159553528, 
+        "name": "Manoel Island", 
+        "timestamp": "2017-08-15T04:46:10.651000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "76228", 
+            "76209", 
+            "76189", 
+            "76111", 
+            "76014"
+          ], 
+          "number": "6860", 
+          "slots": 12, 
+          "uid": "405822"
+        }, 
+        "free_bikes": 5, 
+        "id": "9e4595e29e77227f1d15634c53b74fa4", 
+        "latitude": 35.901565578863, 
+        "longitude": 14.480726122856, 
+        "name": "University Bus Terminus", 
+        "timestamp": "2017-08-15T04:46:10.652000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76232"
+          ], 
+          "number": "6861", 
+          "slots": 6, 
+          "uid": "405824"
+        }, 
+        "free_bikes": 1, 
+        "id": "526a35afa5644c9561f3c51f27f65b5e", 
+        "latitude": 35.90964745399, 
+        "longitude": 14.482169151306, 
+        "name": "Naxxar Road", 
+        "timestamp": "2017-08-15T04:46:10.655000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76109"
+          ], 
+          "number": "6883", 
+          "slots": 6, 
+          "uid": "407039"
+        }, 
+        "free_bikes": 1, 
+        "id": "36923e8e8d973092bbbfe659fc71985a", 
+        "latitude": 35.910325251162, 
+        "longitude": 14.506314396858, 
+        "name": "Bisazza", 
+        "timestamp": "2017-08-15T04:46:10.716000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "76280", 
+            "76265", 
+            "76219", 
+            "76144", 
+            "76105"
+          ], 
+          "number": "6885", 
+          "slots": 6, 
+          "uid": "407044"
+        }, 
+        "free_bikes": 5, 
+        "id": "b0e85d3c2108ed48243e3233f6b01d14", 
+        "latitude": 35.889136999374, 
+        "longitude": 14.519848823547, 
+        "name": "Grand Harbour Marina", 
+        "timestamp": "2017-08-15T04:46:10.720000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "76213", 
+            "76166", 
+            "76157", 
+            "76117", 
+            "76102"
+          ], 
+          "number": "6886", 
+          "slots": 16, 
+          "uid": "407047"
+        }, 
+        "free_bikes": 5, 
+        "id": "b23f44841f9545a1eb28455cee63c9b2", 
+        "latitude": 35.908952271373, 
+        "longitude": 14.503787755966, 
+        "name": "Ferries", 
+        "timestamp": "2017-08-15T04:46:10.723000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "76334", 
+            "76320", 
+            "76295", 
+            "76263", 
+            "76203"
+          ], 
+          "number": "6888", 
+          "slots": 16, 
+          "uid": "407052"
+        }, 
+        "free_bikes": 5, 
+        "id": "b50dcfb589f75e170d899129e4e813d6", 
+        "latitude": 35.91002, 
+        "longitude": 14.51032, 
+        "name": "Quisisana", 
+        "timestamp": "2017-08-15T04:46:10.727000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "76248", 
+            "76101"
+          ], 
+          "number": "6893", 
+          "slots": 12, 
+          "uid": "2338888"
+        }, 
+        "free_bikes": 2, 
+        "id": "8acad52559353fcaad11284e4061e0ac", 
+        "latitude": 35.917433082004, 
+        "longitude": 14.489164352417, 
+        "name": "Spinola Car Park", 
+        "timestamp": "2017-08-15T04:46:10.736000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76210"
+          ], 
+          "number": "6896", 
+          "slots": 6, 
+          "uid": "3217248"
+        }, 
+        "free_bikes": 1, 
+        "id": "d12dcdd2d9124ab829ab6fae3323b360", 
+        "latitude": 35.926516794219, 
+        "longitude": 14.487699866295, 
+        "name": "St. George's Beach", 
+        "timestamp": "2017-08-15T04:46:10.739000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76318"
+          ], 
+          "number": "6892", 
+          "slots": 6, 
+          "uid": "1687809"
+        }, 
+        "free_bikes": 1, 
+        "id": "d8718fc08cc062325f209cb1a5d35c30", 
+        "latitude": 35.895295039461, 
+        "longitude": 14.510514736176, 
+        "name": "Valletta Central", 
+        "timestamp": "2017-08-15T04:46:10.734000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "76204", 
+            "76165", 
+            "76148", 
+            "76359", 
+            "76357"
+          ], 
+          "number": "6890", 
+          "slots": 6, 
+          "uid": "1687796"
+        }, 
+        "free_bikes": 5, 
+        "id": "e1c20895a8bda91eda9dd2cf53471bf2", 
+        "latitude": 35.945184868717, 
+        "longitude": 14.410586357117, 
+        "name": "St. Paul's Bay", 
+        "timestamp": "2017-08-15T04:46:10.729000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "76243", 
+            "76211", 
+            "76161", 
+            "76128", 
+            "76121"
+          ], 
+          "number": "6882", 
+          "slots": 8, 
+          "uid": "407036"
+        }, 
+        "free_bikes": 5, 
+        "id": "1265fed4fd49f6a9f7a481b3cf094a45", 
+        "latitude": 35.90088770666, 
+        "longitude": 14.497468471527, 
+        "name": "Ta' Xbiex Gardens", 
+        "timestamp": "2017-08-15T04:46:10.715000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "76103", 
+            "76099"
+          ], 
+          "number": "6845", 
+          "slots": 8, 
+          "uid": "405776"
+        }, 
+        "free_bikes": 2, 
+        "id": "f645ab88ba4ba3a834c240ce2346fd92", 
+        "latitude": 35.922376905565, 
+        "longitude": 14.488595724106, 
+        "name": "Paceville", 
+        "timestamp": "2017-08-15T04:46:10.627000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76039"
+          ], 
+          "number": "6884", 
+          "slots": 6, 
+          "uid": "407043"
+        }, 
+        "free_bikes": 1, 
+        "id": "f839c5b09804e06160301037954edbb6", 
+        "latitude": 35.911385383812, 
+        "longitude": 14.479604959488, 
+        "name": "The Hub", 
+        "timestamp": "2017-08-15T04:46:10.718000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76305", 
+            "76266", 
+            "76247", 
+            "76244", 
+            "76163"
+          ], 
+          "number": "6864", 
+          "slots": 6, 
+          "uid": "405829"
+        }, 
+        "free_bikes": 5, 
+        "id": "b0d7ae731f86b2ec51e0de7373461dba", 
+        "latitude": 35.915751764037, 
+        "longitude": 14.499839544296, 
+        "name": "Dingli Circus", 
+        "timestamp": "2017-08-15T04:46:10.669000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76348", 
+            "76344", 
+            "76339", 
+            "76333", 
+            "76300"
+          ], 
+          "number": "6851", 
+          "slots": 10, 
+          "uid": "405805"
+        }, 
+        "free_bikes": 6, 
+        "id": "3666cb6f6452044a7d611c3fb2e30a52", 
+        "latitude": 35.914813338469, 
+        "longitude": 14.493514895439, 
+        "name": "Neptunes", 
+        "timestamp": "2017-08-15T04:46:10.634000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "76183", 
+            "76061"
+          ], 
+          "number": "6865", 
+          "slots": 6, 
+          "uid": "405830"
+        }, 
+        "free_bikes": 2, 
+        "id": "8b51f6f9209a8889b82315e03e19d642", 
+        "latitude": 35.912310815866, 
+        "longitude": 14.504694342613, 
+        "name": "Stella Maris", 
+        "timestamp": "2017-08-15T04:46:10.671000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "76308", 
+            "76123", 
+            "76059", 
+            "76361", 
+            "76360"
+          ], 
+          "number": "6891", 
+          "slots": 6, 
+          "uid": "1687804"
+        }, 
+        "free_bikes": 5, 
+        "id": "95bc89f68b56feb18cb24c298148e146", 
+        "latitude": 35.954452116439, 
+        "longitude": 14.419984817505, 
+        "name": "Qawra Terminus", 
+        "timestamp": "2017-08-15T04:46:10.731000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76262"
+          ], 
+          "number": "6874", 
+          "slots": 6, 
+          "uid": "405845"
+        }, 
+        "free_bikes": 1, 
+        "id": "a88f56cdc6075f4b7a9308f6b1fe11a7", 
+        "latitude": 35.91717, 
+        "longitude": 14.48583, 
+        "name": "Gizimin", 
+        "timestamp": "2017-08-15T04:46:10.695000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "76323", 
+            "76162"
+          ], 
+          "number": "6866", 
+          "slots": 8, 
+          "uid": "405832"
+        }, 
+        "free_bikes": 2, 
+        "id": "c51e3287eafcbee1e606684d8156af1e", 
+        "latitude": 35.929509716191, 
+        "longitude": 14.488520622253, 
+        "name": "Gnien Pembroke", 
+        "timestamp": "2017-08-15T04:46:10.674000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "76292", 
+            "76291", 
+            "76253", 
+            "76200", 
+            "76178"
+          ], 
+          "number": "6849", 
+          "slots": 6, 
+          "uid": "405788"
+        }, 
+        "free_bikes": 5, 
+        "id": "0ac58cc46dc87108b48709b9841183f4", 
+        "latitude": 35.922798289239, 
+        "longitude": 14.475474357605, 
+        "name": "Ibragg", 
+        "timestamp": "2017-08-15T04:46:10.633000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "76206", 
+            "76176", 
+            "76156"
+          ], 
+          "number": "6877", 
+          "slots": 8, 
+          "uid": "407022"
+        }, 
+        "free_bikes": 3, 
+        "id": "c0a531070d62da7a36f9ed3f831170a4", 
+        "latitude": 35.908348326516, 
+        "longitude": 14.476343393326, 
+        "name": "San Gwann Centre", 
+        "timestamp": "2017-08-15T04:46:10.700000Z"
+      }
+    ]
+  }
+}

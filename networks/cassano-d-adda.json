@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/cassano-d-adda", 
+    "id": "cassano-d-adda", 
+    "location": {
+      "city": "Cassano d'Adda", 
+      "country": "IT", 
+      "latitude": 45.5309616, 
+      "longitude": 9.5155813
+    }, 
+    "name": "Cassano d'Adda", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Nuovo Parcheggio", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "23ea9a7dab26d84aee1f49e37a225258", 
+        "latitude": 45.51557958984518, 
+        "longitude": 9.509954452514648, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:48:44.528000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Vittorio Veneto", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "572493eab437f03ef1042ef3e3f92e2c", 
+        "latitude": 45.525287676074136, 
+        "longitude": 9.521134731768825, 
+        "name": "Comune", 
+        "timestamp": "2017-08-15T04:48:44.535000Z"
+      }
+    ]
+  }
+}

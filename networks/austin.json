@@ -1,0 +1,883 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_austin/gbfs.json", 
+    "href": "/v2/networks/austin", 
+    "id": "austin", 
+    "location": {
+      "city": "Austin, TX", 
+      "country": "US", 
+      "latitude": 30.26408, 
+      "longitude": -97.74355
+    }, 
+    "name": "Austin B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1199 S. Congress Ave.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2570"
+        }, 
+        "free_bikes": 9, 
+        "id": "8d9dcd45a7b7d9843a239c0518264484", 
+        "latitude": 30.25222, 
+        "longitude": -97.74881, 
+        "name": "South Congress & Academy", 
+        "timestamp": "2017-08-15T04:49:05.065000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "310 E. 11th St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3291"
+        }, 
+        "free_bikes": 1, 
+        "id": "056491b86e9e64c788c90bd057344340", 
+        "latitude": 30.27193, 
+        "longitude": -97.73854, 
+        "name": "11th & San Jacinto", 
+        "timestamp": "2017-08-15T04:49:05.056000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "606 Trinity Street", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2565"
+        }, 
+        "free_bikes": 7, 
+        "id": "bc2824413e748667b80d555de755153b", 
+        "latitude": 30.26735, 
+        "longitude": -97.73933, 
+        "name": "Trinity & 6th Street", 
+        "timestamp": "2017-08-15T04:49:05.050000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "761 Red River St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2571"
+        }, 
+        "free_bikes": 4, 
+        "id": "889e7ef356b0f9c187e604560c022ad5", 
+        "latitude": 30.26854, 
+        "longitude": -97.73646, 
+        "name": "Red River & 8th Street", 
+        "timestamp": "2017-08-15T04:49:05.066000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "300 E. Riverside Dr.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3687"
+        }, 
+        "free_bikes": 4, 
+        "id": "71ac94f8934969e97ab7682575088a0a", 
+        "latitude": 30.25457, 
+        "longitude": -97.74258, 
+        "name": "Boardwalk West", 
+        "timestamp": "2017-08-15T04:49:05.025000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "672 Henderson Street", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3685"
+        }, 
+        "free_bikes": 8, 
+        "id": "8723bfa08ec83b133f6a9aeecd075f51", 
+        "latitude": 30.27217, 
+        "longitude": -97.75246, 
+        "name": "Henderson & 9th", 
+        "timestamp": "2017-08-15T04:49:05.020000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "124 W Cesar Chavez St", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3684"
+        }, 
+        "free_bikes": 5, 
+        "id": "4cddd031571f32ffc4ae49d78076dc9c", 
+        "latitude": 30.26332, 
+        "longitude": -97.74508, 
+        "name": "Congress & Cesar Chavez", 
+        "timestamp": "2017-08-15T04:49:05.067000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "151 E. 2nd St", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2494"
+        }, 
+        "free_bikes": 8, 
+        "id": "6ef1a960b649477ab71cdb7fef6bb963", 
+        "latitude": 30.26408, 
+        "longitude": -97.74355, 
+        "name": "2nd & Congress", 
+        "timestamp": "2017-08-15T04:49:05.030000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "120 W. 4th St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2495"
+        }, 
+        "free_bikes": 6, 
+        "id": "15c906ebd3955b31efa9a1dd4de8f950", 
+        "latitude": 30.26634, 
+        "longitude": -97.74378, 
+        "name": "4th & Congress", 
+        "timestamp": "2017-08-15T04:49:05.029000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "603 West Ave.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2537"
+        }, 
+        "free_bikes": 8, 
+        "id": "3c8c0510f41de2f9d61a1d3ed5993790", 
+        "latitude": 30.27041, 
+        "longitude": -97.75046, 
+        "name": "West & 6th St.", 
+        "timestamp": "2017-08-15T04:49:05.072000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Presented by Whole Foods Market", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2501"
+        }, 
+        "free_bikes": 8, 
+        "id": "fe29be7e92a14048c39a60215c97e1d1", 
+        "latitude": 30.2696, 
+        "longitude": -97.75332, 
+        "name": "5th & Bowie", 
+        "timestamp": "2017-08-15T04:49:05.042000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "400 Barton Springs Rd.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2502"
+        }, 
+        "free_bikes": 9, 
+        "id": "c6628073eb822f8da77bcbb52133931e", 
+        "latitude": 30.2587, 
+        "longitude": -97.74872, 
+        "name": "Barton Springs & Riverside", 
+        "timestamp": "2017-08-15T04:49:05.045000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2910 E 5th St", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2823"
+        }, 
+        "free_bikes": 6, 
+        "id": "fe9c5e51f706fdd8981ed72ebf05eab4", 
+        "latitude": 30.2563, 
+        "longitude": -97.71007, 
+        "name": "Capital Metro HQ - East 5th at Broadway", 
+        "timestamp": "2017-08-15T04:49:05.071000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "600 Congress Ave.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3619"
+        }, 
+        "free_bikes": 0, 
+        "id": "eda72ab2c97be9226392198a44fdd92d", 
+        "latitude": 30.26822, 
+        "longitude": -97.74285, 
+        "name": "6th & Congress", 
+        "timestamp": "2017-08-15T04:49:05.070000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "311 Nueces St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3621"
+        }, 
+        "free_bikes": 10, 
+        "id": "a11fa175c30061ac00dda92d375e2a02", 
+        "latitude": 30.26697, 
+        "longitude": -97.74929, 
+        "name": "Nueces & 3rd", 
+        "timestamp": "2017-08-15T04:49:05.049000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "584 Brazos St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3390"
+        }, 
+        "free_bikes": 3, 
+        "id": "bf06f1ad3826781adee9bd7ea15095be", 
+        "latitude": 30.26766, 
+        "longitude": -97.74162, 
+        "name": "Brazos & 6th", 
+        "timestamp": "2017-08-15T04:49:05.054000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "111 E. 8th St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2496"
+        }, 
+        "free_bikes": 3, 
+        "id": "4014b2559f742447b48263708c55c3f2", 
+        "latitude": 30.26978, 
+        "longitude": -97.74224, 
+        "name": "8th & Congress", 
+        "timestamp": "2017-08-15T04:49:05.028000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "411 W. 17th St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2540"
+        }, 
+        "free_bikes": 5, 
+        "id": "3290230356996a48faa0c2dca562e7a1", 
+        "latitude": 30.27974, 
+        "longitude": -97.74254, 
+        "name": "17th & Guadalupe", 
+        "timestamp": "2017-08-15T04:49:05.036000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1501 E. 5th St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2542"
+        }, 
+        "free_bikes": 7, 
+        "id": "cc0a7bb361f89cb6a3dae1373692d064", 
+        "latitude": 30.26217, 
+        "longitude": -97.72743, 
+        "name": "Plaza Saltillo", 
+        "timestamp": "2017-08-15T04:49:05.036000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "652 W. 3rd St", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2552"
+        }, 
+        "free_bikes": 6, 
+        "id": "f8342d4acf0eacf34df029c0dcdc24db", 
+        "latitude": 30.2678, 
+        "longitude": -97.75189, 
+        "name": "3rd & West", 
+        "timestamp": "2017-08-15T04:49:05.063000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "698 Davis St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2563"
+        }, 
+        "free_bikes": 11, 
+        "id": "bceb7257aa61b6800c21911112275498", 
+        "latitude": 30.26019, 
+        "longitude": -97.73845, 
+        "name": "Davis at Rainey Street", 
+        "timestamp": "2017-08-15T04:49:05.039000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1 Rainey St", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2707"
+        }, 
+        "free_bikes": 13, 
+        "id": "b371bdca03340ad1f51c3baa7cd93416", 
+        "latitude": 30.25579, 
+        "longitude": -97.73982, 
+        "name": "Rainey St @ Cummings", 
+        "timestamp": "2017-08-15T04:49:05.049000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2414 E 2nd St", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3293"
+        }, 
+        "free_bikes": 5, 
+        "id": "64d42a031fb236710d1f5cfa81df917d", 
+        "latitude": 30.25542, 
+        "longitude": -97.71665, 
+        "name": "East 2nd & Pedernales", 
+        "timestamp": "2017-08-15T04:49:05.055000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1090 Congress Ave.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2497"
+        }, 
+        "free_bikes": 13, 
+        "id": "49abfbfe3cddcd1574965bef3772db3d", 
+        "latitude": 30.2726, 
+        "longitude": -97.74127, 
+        "name": "Capitol Station / Congress & 11th", 
+        "timestamp": "2017-08-15T04:49:05.027000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "499 E. 4th St", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2498"
+        }, 
+        "free_bikes": 11, 
+        "id": "3e635076034b0714d8f24e78dae4bcc4", 
+        "latitude": 30.26483, 
+        "longitude": -97.739, 
+        "name": "Convention Center / 4th St. @ MetroRail", 
+        "timestamp": "2017-08-15T04:49:05.024000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Presented by Graves Dougherty Hearon & Moody", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2499"
+        }, 
+        "free_bikes": 8, 
+        "id": "96840128a6de03042f986c91dcd38e00", 
+        "latitude": 30.26476, 
+        "longitude": -97.74678, 
+        "name": "City Hall / Lavaca & 2nd", 
+        "timestamp": "2017-08-15T04:49:05.023000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1300 South Congress Ave", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2503"
+        }, 
+        "free_bikes": 1, 
+        "id": "700515d4267c9c6fe393fdc2e391bce9", 
+        "latitude": 30.25103, 
+        "longitude": -97.74926, 
+        "name": "South Congress & James", 
+        "timestamp": "2017-08-15T04:49:05.044000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "101 Elizabeth St. W", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2504"
+        }, 
+        "free_bikes": 8, 
+        "id": "8c8d0165291611b45159d72776264731", 
+        "latitude": 30.24891, 
+        "longitude": -97.75019, 
+        "name": "South Congress & Elizabeth", 
+        "timestamp": "2017-08-15T04:49:05.040000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1881 Congress Ave.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2538"
+        }, 
+        "free_bikes": 5, 
+        "id": "3afcc8e32a27ff534b393e657a79e5a1", 
+        "latitude": 30.28039, 
+        "longitude": -97.73809, 
+        "name": "Bullock Museum @ Congress & MLK", 
+        "timestamp": "2017-08-15T04:49:05.068000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "212 Trinity", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2539"
+        }, 
+        "free_bikes": 7, 
+        "id": "0bea9a6085cdb4791f3d11ac32bec4c3", 
+        "latitude": 30.26426, 
+        "longitude": -97.74023, 
+        "name": "Convention Center / 3rd & Trinity", 
+        "timestamp": "2017-08-15T04:49:05.069000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "206 W. 14th St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2541"
+        }, 
+        "free_bikes": 3, 
+        "id": "50f0c6026a3cb8aede45e88f487188a6", 
+        "latitude": 30.27654, 
+        "longitude": -97.74155, 
+        "name": "State Capitol @ 14th & Colorado", 
+        "timestamp": "2017-08-15T04:49:05.035000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2498 E. 6th St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2544"
+        }, 
+        "free_bikes": 1, 
+        "id": "db5bc4f289060d8308b065e0a583c0b6", 
+        "latitude": 30.25895, 
+        "longitude": -97.71475, 
+        "name": "East 6th & Pedernales St.", 
+        "timestamp": "2017-08-15T04:49:05.037000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2100 Guadalupe St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2547"
+        }, 
+        "free_bikes": 4, 
+        "id": "088582fba6c8c9078926fd933997d73c", 
+        "latitude": 30.28395, 
+        "longitude": -97.74198, 
+        "name": "Guadalupe & 21st", 
+        "timestamp": "2017-08-15T04:49:05.038000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "2242 Guadalupe St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2548"
+        }, 
+        "free_bikes": 2, 
+        "id": "8b6498f887df8da619d3316aec0fa3c5", 
+        "latitude": 30.28576, 
+        "longitude": -97.74181, 
+        "name": "UT West Mall @ Guadalupe", 
+        "timestamp": "2017-08-15T04:49:05.032000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Presented by Austin Energy", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2549"
+        }, 
+        "free_bikes": 9, 
+        "id": "c230e79a749fd6ae4f05edc42c23b1b0", 
+        "latitude": 30.25941, 
+        "longitude": -97.74971, 
+        "name": "Long Center @ South 1st & Riverside", 
+        "timestamp": "2017-08-15T04:49:05.031000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1201 San Jacinto Blvd.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2561"
+        }, 
+        "free_bikes": 8, 
+        "id": "0bba987157e12421b112ce5d33a1ec6c", 
+        "latitude": 30.27336, 
+        "longitude": -97.73805, 
+        "name": "State Capitol Visitors Garage @ San Jacinto & 12th", 
+        "timestamp": "2017-08-15T04:49:05.041000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "782 San Jacinto Blvd.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2562"
+        }, 
+        "free_bikes": 3, 
+        "id": "8ec54b5f13b396cea5ad673cc118e232", 
+        "latitude": 30.26912, 
+        "longitude": -97.73986, 
+        "name": "San Jacinto & 8th Street", 
+        "timestamp": "2017-08-15T04:49:05.034000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Presented by Austin Parks Foundation", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2566"
+        }, 
+        "free_bikes": 10, 
+        "id": "8c830e510bafffaca8ec2b52fe906cc7", 
+        "latitude": 30.26717, 
+        "longitude": -97.75484, 
+        "name": "Pfluger Bridge @ W 2nd Street", 
+        "timestamp": "2017-08-15T04:49:05.043000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "900 Barton Springs Rd.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2567"
+        }, 
+        "free_bikes": 8, 
+        "id": "1130dd8e9a9b8e99a8d8165cca951e48", 
+        "latitude": 30.25971, 
+        "longitude": -97.75346, 
+        "name": "Palmer Auditorium", 
+        "timestamp": "2017-08-15T04:49:05.046000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1106 E. 11th St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2568"
+        }, 
+        "free_bikes": 4, 
+        "id": "93d1a442b2d97abcdcdd82afbbdb0c73", 
+        "latitude": 30.26896, 
+        "longitude": -97.72843, 
+        "name": "East 11th St. at Victory Grill", 
+        "timestamp": "2017-08-15T04:49:05.048000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1001 E. 11th St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2569"
+        }, 
+        "free_bikes": 8, 
+        "id": "7e89fcbae8dd308d3116a478b1540d05", 
+        "latitude": 30.26968, 
+        "longitude": -97.73074, 
+        "name": "East 11th St. & San Marcos", 
+        "timestamp": "2017-08-15T04:49:05.047000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2200 William Barton Dr.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2572"
+        }, 
+        "free_bikes": 8, 
+        "id": "f5d3f402f4ec58fd6c71983b3640751f", 
+        "latitude": 30.26452, 
+        "longitude": -97.7712, 
+        "name": "Barton Springs Pool", 
+        "timestamp": "2017-08-15T04:49:05.066000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Barton Springs & William Barton Drive", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2574"
+        }, 
+        "free_bikes": 8, 
+        "id": "84d65c63f179f3dacf87104409dbfd36", 
+        "latitude": 30.2659, 
+        "longitude": -97.76822, 
+        "name": "Zilker Park", 
+        "timestamp": "2017-08-15T04:49:05.033000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Presented by Austin Parks Foundation", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2575"
+        }, 
+        "free_bikes": 4, 
+        "id": "36bc6bc746e6c3ed9978359f4c4aa354", 
+        "latitude": 30.26446, 
+        "longitude": -97.75665, 
+        "name": "Riverside @ S. Lamar", 
+        "timestamp": "2017-08-15T04:49:05.064000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1530 Barton Springs Road", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2711"
+        }, 
+        "free_bikes": 10, 
+        "id": "27fa3b25cdefc1eb6e3fe56c5b20c7b8", 
+        "latitude": 30.262, 
+        "longitude": -97.76118, 
+        "name": "Barton Springs @ Kinney Ave", 
+        "timestamp": "2017-08-15T04:49:05.061000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2120 East 6th St", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_2822"
+        }, 
+        "free_bikes": 4, 
+        "id": "fd505b8cf6ed85ef5d91f4a647c4ccc0", 
+        "latitude": 30.26032, 
+        "longitude": -97.71899, 
+        "name": "East 6th at Robert Martinez", 
+        "timestamp": "2017-08-15T04:49:05.071000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1819 East 4th St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3292"
+        }, 
+        "free_bikes": 3, 
+        "id": "67eb4c169fa502d28fd8063d4cd97c5e", 
+        "latitude": 30.25968, 
+        "longitude": -97.72308, 
+        "name": "East 4th & Chicon", 
+        "timestamp": "2017-08-15T04:49:05.055000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2105 Veterans Dr.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3377"
+        }, 
+        "free_bikes": 13, 
+        "id": "9f3c8feefcebbc7e34c375d71c7dc677", 
+        "latitude": 30.27466, 
+        "longitude": -97.77028, 
+        "name": "MoPac Pedestrian Bridge @ Veterans Drive", 
+        "timestamp": "2017-08-15T04:49:05.052000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Federal Courthouse Plaza", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3455"
+        }, 
+        "free_bikes": 7, 
+        "id": "5a6f6b477feafdeefad710336d1b135f", 
+        "latitude": 30.26753, 
+        "longitude": -97.74805, 
+        "name": "Republic Square @ Federal Courthouse Plaza", 
+        "timestamp": "2017-08-15T04:49:05.022000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "305 S. Congress Ave.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3513"
+        }, 
+        "free_bikes": 11, 
+        "id": "b57924d91ebca5a0f18d634893a4ee8e", 
+        "latitude": 30.25839, 
+        "longitude": -97.74592, 
+        "name": "South Congress & Barton Springs at the Austin American-Statesman", 
+        "timestamp": "2017-08-15T04:49:05.025000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1285 San Antonio St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3635"
+        }, 
+        "free_bikes": 6, 
+        "id": "d03f1d24bd3f332677a08ee7821bbd7f", 
+        "latitude": 30.27616, 
+        "longitude": -97.74488, 
+        "name": "13th & San Antonio", 
+        "timestamp": "2017-08-15T04:49:05.051000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "590 Medina St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3660"
+        }, 
+        "free_bikes": 8, 
+        "id": "f2fbeb88b68102eaaca01e4f8139d9ff", 
+        "latitude": 30.26455, 
+        "longitude": -97.73165, 
+        "name": "Medina & East 6th", 
+        "timestamp": "2017-08-15T04:49:05.062000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "601 Lavaca St.", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3294"
+        }, 
+        "free_bikes": 2, 
+        "id": "53ebc6e10cb92967400ccb2a26fa012f", 
+        "latitude": 30.26889, 
+        "longitude": -97.74525, 
+        "name": "Lavaca & 6th", 
+        "timestamp": "2017-08-15T04:49:05.053000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1872 Barton Springs Rd", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_austin_3686"
+        }, 
+        "free_bikes": 8, 
+        "id": "551b0f447c9144747dfb109cb9fd5e5e", 
+        "latitude": 30.26406, 
+        "longitude": -97.76385, 
+        "name": "Sterzing at Barton Springs", 
+        "timestamp": "2017-08-15T04:49:05.026000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,603 @@
+{
+  "network": {
+    "company": [
+      "Labici Bicicletas P\u00fablicas SL"
+    ], 
+    "href": "/v2/networks/saforbici", 
+    "id": "saforbici", 
+    "location": {
+      "city": "Gand\u00eda", 
+      "country": "ES", 
+      "latitude": 38.968032, 
+      "longitude": -0.1844671
+    }, 
+    "name": "SaforBici", 
+    "stations": [
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "38"
+        }, 
+        "free_bikes": 3, 
+        "id": "16ee33df989b4d07e16ee32b7fd1a45d", 
+        "latitude": 39.006294250488, 
+        "longitude": -0.16873627901077, 
+        "name": "PL. BALADRE", 
+        "timestamp": "2017-08-15T04:50:53.773000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "slots": "8", 
+          "uid": "27"
+        }, 
+        "free_bikes": 3, 
+        "id": "5180c1723fd96ff9ecaa741ca3ec8eb2", 
+        "latitude": 38.985119, 
+        "longitude": -0.153142, 
+        "name": "MARENYS", 
+        "timestamp": "2017-08-15T04:50:53.733000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "2"
+        }, 
+        "free_bikes": 3, 
+        "id": "dd04d88f971fedd20e01a44184f6f125", 
+        "latitude": 38.9665184021, 
+        "longitude": -0.17994317412376, 
+        "name": "AYUNTAMIENTO", 
+        "timestamp": "2017-08-15T04:50:53.660000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "slots": "24", 
+          "uid": "22"
+        }, 
+        "free_bikes": 4, 
+        "id": "76cb3927fb7a197f45fa9ad86b8505db", 
+        "latitude": 38.969841003418, 
+        "longitude": -0.17941650748253, 
+        "name": "RENFE", 
+        "timestamp": "2017-08-15T04:50:53.703000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "slots": "16", 
+          "uid": "36"
+        }, 
+        "free_bikes": 5, 
+        "id": "38efd340584bcba5beb7fc6e5187eb4d", 
+        "latitude": 39.015167236328, 
+        "longitude": -0.17062087357044, 
+        "name": "FINAL/PLAYA", 
+        "timestamp": "2017-08-15T04:50:53.771000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "slots": "16", 
+          "uid": "3"
+        }, 
+        "free_bikes": 0, 
+        "id": "74b34db8a74eaf6ccce266903ad15d35", 
+        "latitude": 38.966228485107, 
+        "longitude": -0.18169845640659, 
+        "name": "JAUME 1", 
+        "timestamp": "2017-08-15T04:50:53.668000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "slots": "16", 
+          "uid": "4"
+        }, 
+        "free_bikes": 4, 
+        "id": "7f14e78c6c1a7dd4df37142215a29b3d", 
+        "latitude": 38.964488983154, 
+        "longitude": -0.18237161636353, 
+        "name": "PRADO", 
+        "timestamp": "2017-08-15T04:50:53.669000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "5"
+        }, 
+        "free_bikes": 3, 
+        "id": "9091cbe9ce94d170005d76b892a1337d", 
+        "latitude": 38.963031768799, 
+        "longitude": -0.18030704557896, 
+        "name": "P. MOLI", 
+        "timestamp": "2017-08-15T04:50:53.670000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "6"
+        }, 
+        "free_bikes": 2, 
+        "id": "66ba4481d39805567a601150b7b84f47", 
+        "latitude": 38.959770202637, 
+        "longitude": -0.18343755602837, 
+        "name": "RAFELCOFER", 
+        "timestamp": "2017-08-15T04:50:53.672000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "slots": "16", 
+          "uid": "7"
+        }, 
+        "free_bikes": 4, 
+        "id": "b57234b82f941cc8904b4113a5f8666f", 
+        "latitude": 38.962871551514, 
+        "longitude": -0.18587210774422, 
+        "name": "BIBLI. BENIPEIXCAR", 
+        "timestamp": "2017-08-15T04:50:53.673000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "8"
+        }, 
+        "free_bikes": 2, 
+        "id": "44e9e107fc19024f54cb77cf1ede9ad7", 
+        "latitude": 38.960807800293, 
+        "longitude": -0.18789127469063, 
+        "name": "P. DOCTOR FERRAN", 
+        "timestamp": "2017-08-15T04:50:53.674000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "9"
+        }, 
+        "free_bikes": 2, 
+        "id": "c7b6faeb79ec9b1889b1e759d3429777", 
+        "latitude": 38.963359832764, 
+        "longitude": -0.18927554786205, 
+        "name": "CERC ROIS DE CORELLA", 
+        "timestamp": "2017-08-15T04:50:53.678000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": "16", 
+          "uid": "10"
+        }, 
+        "free_bikes": 1, 
+        "id": "d19374a2b255067b0d17007f8c3d337a", 
+        "latitude": 38.964622497559, 
+        "longitude": -0.19331789016724, 
+        "name": "ROIS DE CORELLA", 
+        "timestamp": "2017-08-15T04:50:53.682000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": "16", 
+          "uid": "11"
+        }, 
+        "free_bikes": 1, 
+        "id": "dda4212758e2bfeea70df0bdedb7223c", 
+        "latitude": 38.970485687256, 
+        "longitude": -0.1905867010355, 
+        "name": "PONT DE BENIOPA", 
+        "timestamp": "2017-08-15T04:50:53.683000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "slots": "16", 
+          "uid": "12"
+        }, 
+        "free_bikes": 5, 
+        "id": "945ed2272b5a72a9c63e17f5b872cc51", 
+        "latitude": 38.969940185547, 
+        "longitude": -0.18701668083668, 
+        "name": "BENIOPA", 
+        "timestamp": "2017-08-15T04:50:53.684000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "slots": "24", 
+          "uid": "13"
+        }, 
+        "free_bikes": 1, 
+        "id": "de70dd678cb3e72a5c10d49bcf10dd26", 
+        "latitude": 38.966827392578, 
+        "longitude": -0.18977101147175, 
+        "name": "HOSPITAL", 
+        "timestamp": "2017-08-15T04:50:53.686000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "14"
+        }, 
+        "free_bikes": 3, 
+        "id": "8aefd0ea86c7b955c2d13a7eb61ec732", 
+        "latitude": 38.965648651123, 
+        "longitude": -0.18630748987198, 
+        "name": "I.E.S. AUSIAS MARCH", 
+        "timestamp": "2017-08-15T04:50:53.691000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "15"
+        }, 
+        "free_bikes": 2, 
+        "id": "6dd46c1ac6da30b2fd4e804cd618f7c7", 
+        "latitude": 38.971202850342, 
+        "longitude": -0.18423171341419, 
+        "name": "PL.EL.LIPTICA", 
+        "timestamp": "2017-08-15T04:50:53.693000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "16"
+        }, 
+        "free_bikes": 3, 
+        "id": "35cc6a9b543e898012dba63b17e1e476", 
+        "latitude": 38.97575378418, 
+        "longitude": -0.18384325504303, 
+        "name": "PINET", 
+        "timestamp": "2017-08-15T04:50:53.694000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "slots": "8", 
+          "uid": "17"
+        }, 
+        "free_bikes": 0, 
+        "id": "8c6e2e150dcfa789b1680224db42aede", 
+        "latitude": 38.981266021729, 
+        "longitude": -0.16908825933933, 
+        "name": "JOAQUIN RODRIGO", 
+        "timestamp": "2017-08-15T04:50:53.695000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "slots": "16", 
+          "uid": "18"
+        }, 
+        "free_bikes": 0, 
+        "id": "04e9c89e53afb8f4b629b87afd104769", 
+        "latitude": 38.975734710693, 
+        "longitude": -0.17794193327427, 
+        "name": "AVDA. BLASCO IBA\u00d1EZ", 
+        "timestamp": "2017-08-15T04:50:53.696000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "19"
+        }, 
+        "free_bikes": 2, 
+        "id": "05ef471b3b50fb8d5d9045228d53abbd", 
+        "latitude": 38.975040435791, 
+        "longitude": -0.17452621459961, 
+        "name": "JOAN FUSTER", 
+        "timestamp": "2017-08-15T04:50:53.698000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "20"
+        }, 
+        "free_bikes": 3, 
+        "id": "b54cab64195f79abdc4c941f8db2c5c9", 
+        "latitude": 38.973537445068, 
+        "longitude": -0.18115821480751, 
+        "name": "BENISSUAI", 
+        "timestamp": "2017-08-15T04:50:53.699000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "21"
+        }, 
+        "free_bikes": 3, 
+        "id": "2d89219e876d66e90dd7ec8db102e09d", 
+        "latitude": 38.971939086914, 
+        "longitude": -0.17729960381985, 
+        "name": "JARDINET", 
+        "timestamp": "2017-08-15T04:50:53.700000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "23"
+        }, 
+        "free_bikes": 3, 
+        "id": "a8e2992aecec3e948e8fffefbe306953", 
+        "latitude": 38.969337463379, 
+        "longitude": -0.18232367932796, 
+        "name": "VILA NOVA", 
+        "timestamp": "2017-08-15T04:50:53.705000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "24"
+        }, 
+        "free_bikes": 2, 
+        "id": "d08dd31c81733a4b81b979939caf3ff1", 
+        "latitude": 38.969806671143, 
+        "longitude": -0.17430104315281, 
+        "name": "POLIESPORTIU", 
+        "timestamp": "2017-08-15T04:50:53.708000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "slots": "16", 
+          "uid": "25"
+        }, 
+        "free_bikes": 4, 
+        "id": "17302da59950afef57dc85741328ae24", 
+        "latitude": 38.969257354736, 
+        "longitude": -0.17023696005344, 
+        "name": "VITAL", 
+        "timestamp": "2017-08-15T04:50:53.718000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": "8", 
+          "uid": "26"
+        }, 
+        "free_bikes": 1, 
+        "id": "14b020249037d1c4f3fe098f470dc1a0", 
+        "latitude": 38.990327, 
+        "longitude": -0.17658, 
+        "name": "CDT", 
+        "timestamp": "2017-08-15T04:50:53.730000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": "16", 
+          "uid": "28"
+        }, 
+        "free_bikes": 1, 
+        "id": "f9254803be8c72c9a9a859b2e9c7fbd6", 
+        "latitude": 38.989688873291, 
+        "longitude": -0.15900155901909, 
+        "name": "PISCINA DEL GRAO", 
+        "timestamp": "2017-08-15T04:50:53.734000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "30"
+        }, 
+        "free_bikes": 3, 
+        "id": "bd9e359dd6a00bc7f8955a3cd38f5dfc", 
+        "latitude": 38.991744995117, 
+        "longitude": -0.16081176698208, 
+        "name": "PL.MARINA", 
+        "timestamp": "2017-08-15T04:50:53.736000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": "16", 
+          "uid": "31"
+        }, 
+        "free_bikes": 7, 
+        "id": "fbd8fa40d0394f8636127776728b5c80", 
+        "latitude": 38.995822906494, 
+        "longitude": -0.16236129403114, 
+        "name": "ROSA DELS VENTS", 
+        "timestamp": "2017-08-15T04:50:53.737000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "slots": "16", 
+          "uid": "32"
+        }, 
+        "free_bikes": 0, 
+        "id": "35477f23ce8395352172e259c0163818", 
+        "latitude": 38.996726989746, 
+        "longitude": -0.15624722838402, 
+        "name": "CLUB NAUTIC", 
+        "timestamp": "2017-08-15T04:50:53.743000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "slots": "16", 
+          "uid": "33"
+        }, 
+        "free_bikes": 5, 
+        "id": "3976ace80cbb38ea5467e060245bf9a6", 
+        "latitude": 39.002964019775, 
+        "longitude": -0.16137962043285, 
+        "name": "ILLES CANARIES", 
+        "timestamp": "2017-08-15T04:50:53.745000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "slots": "16", 
+          "uid": "34"
+        }, 
+        "free_bikes": 0, 
+        "id": "5eb8101bfa8854004fefb19a3c847b5b", 
+        "latitude": 39.008316040039, 
+        "longitude": -0.1657003313303, 
+        "name": "DUCAL", 
+        "timestamp": "2017-08-15T04:50:53.764000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "35"
+        }, 
+        "free_bikes": 2, 
+        "id": "7904f96234996ec80acde9196ed9775b", 
+        "latitude": 39.011116027832, 
+        "longitude": -0.16778689622879, 
+        "name": "C/ ASTURIES", 
+        "timestamp": "2017-08-15T04:50:53.766000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "slots": "16", 
+          "uid": "37"
+        }, 
+        "free_bikes": 0, 
+        "id": "1bb7f0532d3197b5e89955d78beb9e03", 
+        "latitude": 39.015254974365, 
+        "longitude": -0.17461983859539, 
+        "name": "P. DEL TEMPLE", 
+        "timestamp": "2017-08-15T04:50:53.772000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "slots": "24", 
+          "uid": "39"
+        }, 
+        "free_bikes": 3, 
+        "id": "8dbb3cfc57e671c1f9d142664946d353", 
+        "latitude": 38.996971130371, 
+        "longitude": -0.16546764969826, 
+        "name": "UNIVERSITAT", 
+        "timestamp": "2017-08-15T04:50:53.774000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "40"
+        }, 
+        "free_bikes": 2, 
+        "id": "7cd412887e613b7f82182b1eada76be4", 
+        "latitude": 38.984447479248, 
+        "longitude": -0.1693312972784, 
+        "name": "SANCHIS GUARNER", 
+        "timestamp": "2017-08-15T04:50:53.775000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "slots": "24", 
+          "uid": "41"
+        }, 
+        "free_bikes": 2, 
+        "id": "1930561520dd8712fb912f8f3c3afb01", 
+        "latitude": 38.961395263672, 
+        "longitude": -0.17228600382805, 
+        "name": "DULCESOL", 
+        "timestamp": "2017-08-15T04:50:53.777000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "slots": "24", 
+          "uid": "42"
+        }, 
+        "free_bikes": 2, 
+        "id": "cbfdf8c54a83cd4514aaabb7ff7328f6", 
+        "latitude": 38.963279724121, 
+        "longitude": -0.17178213596344, 
+        "name": "NOU HOSPITAL", 
+        "timestamp": "2017-08-15T04:50:53.778000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "49"
+        }, 
+        "free_bikes": 3, 
+        "id": "b15cf301403b64b80bfa8fc6218c5bb7", 
+        "latitude": 38.946186065674, 
+        "longitude": -0.16227230429649, 
+        "name": "BELLREGUARD", 
+        "timestamp": "2017-08-15T04:50:53.779000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": "16", 
+          "uid": "82"
+        }, 
+        "free_bikes": 1, 
+        "id": "d4516aa5f0f78806bd6854d36ec473af", 
+        "latitude": 38.960861206055, 
+        "longitude": -0.19358830153942, 
+        "name": "BENIRREDRA", 
+        "timestamp": "2017-08-15T04:50:53.780000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": "16", 
+          "uid": "83"
+        }, 
+        "free_bikes": 1, 
+        "id": "2600a7e6e6287677340a1a5696cdb772", 
+        "latitude": 38.960670471191, 
+        "longitude": -0.19099862873554, 
+        "name": "BENIRREDRA CREU", 
+        "timestamp": "2017-08-15T04:50:53.781000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": "16", 
+          "uid": "84"
+        }, 
+        "free_bikes": 2, 
+        "id": "f9be8ab042247ff99f634eb3434e361b", 
+        "latitude": 38.936492919922, 
+        "longitude": -0.15004262328148, 
+        "name": "ALQUERIA DE LA COMTESSA", 
+        "timestamp": "2017-08-15T04:50:53.782000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": "16", 
+          "uid": "86"
+        }, 
+        "free_bikes": 3, 
+        "id": "672259f1bf8043c42d0af9d0bae46bdf", 
+        "latitude": 38.943244934082, 
+        "longitude": -0.15284146368504, 
+        "name": "PALMERA", 
+        "timestamp": "2017-08-15T04:50:53.783000Z"
+      }
+    ]
+  }
+}

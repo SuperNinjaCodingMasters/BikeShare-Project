@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-priego-de-cordoba", 
+    "id": "onroll-priego-de-cordoba", 
+    "location": {
+      "city": "Priego de C\u00f3rdoba", 
+      "country": "ES", 
+      "latitude": 37.440517, 
+      "longitude": -4.201188
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "9924d7d859323825e3ea3068db52390e", 
+        "latitude": 37.439445, 
+        "longitude": -4.19298, 
+        "name": "Castillo", 
+        "timestamp": "2017-08-15T04:46:19.344000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "bd602ecd5b46320f1809a19b5f7a77b3", 
+        "latitude": 37.441353, 
+        "longitude": -4.211297, 
+        "name": "Nizeto Alcal\u00e1 Zamora", 
+        "timestamp": "2017-08-15T04:46:19.353000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "50df6fc584081e71b13dd9a5af1beb3c", 
+        "latitude": 37.441752, 
+        "longitude": -4.195522, 
+        "name": "Pabell\u00f3n de Deportes", 
+        "timestamp": "2017-08-15T04:46:19.353000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "e4949ca97e33a7d3e4642c2f7fed8002", 
+        "latitude": 37.437215, 
+        "longitude": -4.198057, 
+        "name": "Plaza Palenque", 
+        "timestamp": "2017-08-15T04:46:19.354000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "9ce6de137d5c009a6e599edc7b3cb7eb", 
+        "latitude": 37.442822, 
+        "longitude": -4.208085, 
+        "name": "Polideportivo", 
+        "timestamp": "2017-08-15T04:46:19.355000Z"
+      }
+    ]
+  }
+}

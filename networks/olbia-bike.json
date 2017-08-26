@@ -1,0 +1,56 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/olbia-bike", 
+    "id": "olbia-bike", 
+    "location": {
+      "city": "Olbia", 
+      "country": "IT", 
+      "latitude": 40.9240543, 
+      "longitude": 9.4994397
+    }, 
+    "name": "Olbia Bike", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via Principe Umberto", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "5638bfbeb494441012ae4ddabc78086b", 
+        "latitude": 40.92315072352025, 
+        "longitude": 9.505162105483578, 
+        "name": "Sede Comunale", 
+        "timestamp": "2017-08-15T04:47:01.640000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Gabriele D'Annunzio", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "5bb2c3913e8b8297905cf3140ff3cd94", 
+        "latitude": 40.92861613787437, 
+        "longitude": 9.501455632016018, 
+        "name": "Parco Fausto Noce", 
+        "timestamp": "2017-08-15T04:47:01.653000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "0d582aa2a5b06083c77624fbd7dc2b13", 
+        "latitude": 40.90282149775674, 
+        "longitude": 9.51486950793469, 
+        "name": "Aeroporto Costa Smeralda", 
+        "timestamp": "2017-08-15T04:47:01.657000Z"
+      }
+    ]
+  }
+}

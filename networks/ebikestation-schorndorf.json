@@ -1,0 +1,57 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-schorndorf", 
+    "id": "ebikestation-schorndorf", 
+    "location": {
+      "city": "Schorndorf", 
+      "country": "DE", 
+      "latitude": 48.8015, 
+      "longitude": 9.52962
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "91528", 
+            "91544", 
+            "91567"
+          ], 
+          "number": "5809", 
+          "slots": 8, 
+          "uid": "520141"
+        }, 
+        "free_bikes": 5, 
+        "id": "0f6508f1327374bee85f3f34b92b9e09", 
+        "latitude": 48.79702, 
+        "longitude": 9.51604, 
+        "name": "E-Bike-Station Schorndorf (Lortzingstr. 56)", 
+        "timestamp": "2017-08-15T04:46:05.615000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "91547", 
+            "91702", 
+            "91502", 
+            "91507"
+          ], 
+          "number": "5808", 
+          "slots": 15, 
+          "uid": "520147"
+        }, 
+        "free_bikes": 9, 
+        "id": "55970c8183619cfee183e4bc1d4cc59e", 
+        "latitude": 48.806892, 
+        "longitude": 9.527655, 
+        "name": "E-Bike-Station Schorndorf (Karlsplatz)", 
+        "timestamp": "2017-08-15T04:46:05.626000Z"
+      }
+    ]
+  }
+}

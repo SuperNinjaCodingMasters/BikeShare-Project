@@ -1,0 +1,631 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/facherrad-karlsruhe", 
+    "id": "facherrad-karlsruhe", 
+    "location": {
+      "city": "Karlsruhe", 
+      "country": "DE", 
+      "latitude": 49.0102, 
+      "longitude": 8.41827
+    }, 
+    "name": "F\u00e4cherrad", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5453", 
+          "uid": "297942"
+        }, 
+        "free_bikes": 0, 
+        "id": "e53db61b056e293a455d39f373e5fb25", 
+        "latitude": 49.011598308566, 
+        "longitude": 8.4092617034912, 
+        "name": "Neuer Zirkel / Englerstr.", 
+        "timestamp": "2017-08-15T04:49:12.969000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54020", 
+            "54062", 
+            "54186", 
+            "54195", 
+            "54339"
+          ], 
+          "number": "5456", 
+          "uid": "367726"
+        }, 
+        "free_bikes": 6, 
+        "id": "ce80a0b2dd751a8e7b66b2bd4a56fd84", 
+        "latitude": 49.021069358316, 
+        "longitude": 8.4311699867249, 
+        "name": "KIT Ost", 
+        "timestamp": "2017-08-15T04:49:12.973000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54256", 
+            "54329"
+          ], 
+          "number": "5413", 
+          "uid": "280262"
+        }, 
+        "free_bikes": 2, 
+        "id": "1ae5dc457b036c3a9e2ab82d4f98e1bd", 
+        "latitude": 49.035168, 
+        "longitude": 8.445234, 
+        "name": "Waldstadt-Zentrum", 
+        "timestamp": "2017-08-15T04:49:12.950000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54229"
+          ], 
+          "number": "5414", 
+          "uid": "280263"
+        }, 
+        "free_bikes": 1, 
+        "id": "35522c9695c9577e4a5efc558e96e783", 
+        "latitude": 49.025825312745, 
+        "longitude": 8.4449458122253, 
+        "name": "F\u00e4cherbad", 
+        "timestamp": "2017-08-15T04:49:12.952000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54021", 
+            "54194", 
+            "54222"
+          ], 
+          "number": "5448", 
+          "uid": "289944"
+        }, 
+        "free_bikes": 3, 
+        "id": "ee88535654c3023ea03b1c1acfb4014c", 
+        "latitude": 48.995945314776, 
+        "longitude": 8.4632062911987, 
+        "name": "Rommelstr. / Auerstr.      ", 
+        "timestamp": "2017-08-15T04:49:12.966000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5450", 
+          "uid": "296219"
+        }, 
+        "free_bikes": 0, 
+        "id": "f3ad53910ae757aa79439351f6ad3599", 
+        "latitude": 49.014573, 
+        "longitude": 8.394213, 
+        "name": "Neue Mensa", 
+        "timestamp": "2017-08-15T04:49:12.968000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5436", 
+          "uid": "284934"
+        }, 
+        "free_bikes": 0, 
+        "id": "76b4e0721a3939e6f7e288be9b8cc5b3", 
+        "latitude": 49.003167136365, 
+        "longitude": 8.4156775474548, 
+        "name": "Marie-Baum-Str. / Luise-Riegger-Str.", 
+        "timestamp": "2017-08-15T04:49:12.961000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54284", 
+            "54432"
+          ], 
+          "number": "5430", 
+          "uid": "284604"
+        }, 
+        "free_bikes": 2, 
+        "id": "d67ec2f75db78bd1bee21770a0f60d5d", 
+        "latitude": 49.007023976597, 
+        "longitude": 8.3725047111511, 
+        "name": "Weinbrennerstr. / H\u00fcbschstr.", 
+        "timestamp": "2017-08-15T04:49:12.958000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54442"
+          ], 
+          "number": "5403", 
+          "uid": "280250"
+        }, 
+        "free_bikes": 1, 
+        "id": "cfe75002bff4e128420c865491eba799", 
+        "latitude": 48.997704, 
+        "longitude": 8.393548, 
+        "name": "Kolpingplatz", 
+        "timestamp": "2017-08-15T04:49:12.937000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5405", 
+          "uid": "280253"
+        }, 
+        "free_bikes": 0, 
+        "id": "408884d5c65acc571632f9546ee5a08f", 
+        "latitude": 49.011246, 
+        "longitude": 8.423453, 
+        "name": "Karl-Wilhelm-Platz", 
+        "timestamp": "2017-08-15T04:49:12.938000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5408", 
+          "uid": "280257"
+        }, 
+        "free_bikes": 0, 
+        "id": "664aa26e5688a1597a564b39b8508e08", 
+        "latitude": 49.001205, 
+        "longitude": 8.384508, 
+        "name": "ZKM", 
+        "timestamp": "2017-08-15T04:49:12.941000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5434", 
+          "uid": "285510"
+        }, 
+        "free_bikes": 0, 
+        "id": "d7857e932306458228b96f71a2a62183", 
+        "latitude": 49.015317282568, 
+        "longitude": 8.4200119972229, 
+        "name": "Adenauerring / Fasanengarten", 
+        "timestamp": "2017-08-15T04:49:12.962000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54047", 
+            "54049", 
+            "54001", 
+            "54065", 
+            "54030"
+          ], 
+          "number": "5400", 
+          "uid": "264394"
+        }, 
+        "free_bikes": 8, 
+        "id": "e83fc4c92b8667aacc944bb95fcb6cad", 
+        "latitude": 48.994617, 
+        "longitude": 8.400361, 
+        "name": "Hauptbahnhof / Touristinformation", 
+        "timestamp": "2017-08-15T04:49:12.933000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54338"
+          ], 
+          "number": "5463", 
+          "uid": "462181"
+        }, 
+        "free_bikes": 1, 
+        "id": "477808f3e533038c22177674654753e6", 
+        "latitude": 49.007101, 
+        "longitude": 8.34356, 
+        "name": "Daxlanden - Stadtwerke", 
+        "timestamp": "2017-08-15T04:49:12.991000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54024", 
+            "54035", 
+            "54278", 
+            "54327"
+          ], 
+          "number": "5406", 
+          "uid": "280255"
+        }, 
+        "free_bikes": 4, 
+        "id": "ed75015d48e9916ca584131a4871e689", 
+        "latitude": 49.006073, 
+        "longitude": 8.431732, 
+        "name": "Kreativpark/Alter Schlachthof", 
+        "timestamp": "2017-08-15T04:49:12.940000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54088"
+          ], 
+          "number": "5415", 
+          "uid": "280322"
+        }, 
+        "free_bikes": 1, 
+        "id": "feb622be7ceba3784c289afe4404583d", 
+        "latitude": 49.011084596847, 
+        "longitude": 8.4177482128143, 
+        "name": "KIT S\u00fcd", 
+        "timestamp": "2017-08-15T04:49:12.953000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5409", 
+          "uid": "280258"
+        }, 
+        "free_bikes": 0, 
+        "id": "a0b37a8073219851e6171b93dbc86433", 
+        "latitude": 49.005443975068, 
+        "longitude": 8.3949011564255, 
+        "name": "Karlstor", 
+        "timestamp": "2017-08-15T04:49:12.943000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54336"
+          ], 
+          "number": "5407", 
+          "uid": "1390"
+        }, 
+        "free_bikes": 1, 
+        "id": "5259f91ca9cbafaf7c046dd954bf9ee7", 
+        "latitude": 49.008694, 
+        "longitude": 8.395077, 
+        "name": "Karlstra\u00dfe / Waldstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:12.932000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5401", 
+          "uid": "458"
+        }, 
+        "free_bikes": 0, 
+        "id": "d27082105194bc9b1226c9c00e513920", 
+        "latitude": 49.007126, 
+        "longitude": 8.402725, 
+        "name": "Erbprinzenstr.", 
+        "timestamp": "2017-08-15T04:49:12.929000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54204", 
+            "54320", 
+            "54333", 
+            "54330"
+          ], 
+          "number": "5402", 
+          "uid": "280249"
+        }, 
+        "free_bikes": 4, 
+        "id": "9ee02b5ecaaf15e3abd4c197aaa03733", 
+        "latitude": 49.010834, 
+        "longitude": 8.395102, 
+        "name": "Prinz-Max-Palais", 
+        "timestamp": "2017-08-15T04:49:12.936000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5416", 
+          "uid": "281794"
+        }, 
+        "free_bikes": 0, 
+        "id": "d14396134517b19fed62b85baaf660dc", 
+        "latitude": 49.003319, 
+        "longitude": 8.386003, 
+        "name": "Agentur f\u00fcr Arbeit", 
+        "timestamp": "2017-08-15T04:49:12.954000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54025", 
+            "54066", 
+            "54086", 
+            "54105", 
+            "54156"
+          ], 
+          "number": "5455", 
+          "uid": "300645"
+        }, 
+        "free_bikes": 6, 
+        "id": "11ff509ac1d28c6a3071a522e04715fa", 
+        "latitude": 49.019967, 
+        "longitude": 8.42145, 
+        "name": "HaDiKo", 
+        "timestamp": "2017-08-15T04:49:12.970000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54453", 
+            "54456"
+          ], 
+          "number": "5411", 
+          "uid": "280260"
+        }, 
+        "free_bikes": 2, 
+        "id": "b76540a6f57b86f2fcd131714a06d31f", 
+        "latitude": 49.030205, 
+        "longitude": 8.375981, 
+        "name": "Nordweststadt - Kurt-Schumacher-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:12.948000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5459", 
+          "uid": "462165"
+        }, 
+        "free_bikes": 0, 
+        "id": "e2a2493f26253c32409d6553a0da5f9c", 
+        "latitude": 48.971174821361, 
+        "longitude": 8.4046697616577, 
+        "name": "R\u00fcppurr \u2013 Tulpenstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:12.976000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5410", 
+          "uid": "280259"
+        }, 
+        "free_bikes": 0, 
+        "id": "286ddf6dac495aa69dc62fd3b15057c2", 
+        "latitude": 49.001457, 
+        "longitude": 8.407992, 
+        "name": "Werderplatz", 
+        "timestamp": "2017-08-15T04:49:12.944000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54319"
+          ], 
+          "number": "5412", 
+          "uid": "280261"
+        }, 
+        "free_bikes": 1, 
+        "id": "ab78bd3d0966fb2785149a929499824d", 
+        "latitude": 49.030727, 
+        "longitude": 8.341402, 
+        "name": "Knielingen / Herweghstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:12.949000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54099", 
+            "54149"
+          ], 
+          "number": "5461", 
+          "uid": "462175"
+        }, 
+        "free_bikes": 2, 
+        "id": "61c079820bb7edb19437aa4c787a4e6d", 
+        "latitude": 49.047159, 
+        "longitude": 8.378644, 
+        "name": "Neureut - B\u00e4renweg", 
+        "timestamp": "2017-08-15T04:49:12.986000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4377", 
+          "uid": "264579"
+        }, 
+        "free_bikes": 0, 
+        "id": "fab736508551a00a4e274786facca58f", 
+        "latitude": 49.013025, 
+        "longitude": 8.443479, 
+        "name": "Forststr. / Ernststr.", 
+        "timestamp": "2017-08-15T04:49:12.934000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54266"
+          ], 
+          "number": "5462", 
+          "uid": "462176"
+        }, 
+        "free_bikes": 1, 
+        "id": "85a92ae77954f4ad66c87ac2adb1cb59", 
+        "latitude": 49.009627878627, 
+        "longitude": 8.3547377586365, 
+        "name": "Gr\u00fcnwinkel - Carl-Metz-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:12.987000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54273"
+          ], 
+          "number": "5447", 
+          "uid": "289942"
+        }, 
+        "free_bikes": 1, 
+        "id": "b22c467d167041b91d713c972745d01f", 
+        "latitude": 49.001548300556, 
+        "longitude": 8.4630346298218, 
+        "name": "Durlach - Bahnhof ", 
+        "timestamp": "2017-08-15T04:49:12.963000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5433", 
+          "uid": "284522"
+        }, 
+        "free_bikes": 0, 
+        "id": "41337891b9fb666d06d60860b1a81f2f", 
+        "latitude": 49.020351704426, 
+        "longitude": 8.3848428726196, 
+        "name": "Michiganstr. / Erzbergerstr.", 
+        "timestamp": "2017-08-15T04:49:12.956000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5435", 
+          "uid": "284770"
+        }, 
+        "free_bikes": 0, 
+        "id": "79dd7b29faee9d6c3de53c7d046d9d22", 
+        "latitude": 48.998803197834, 
+        "longitude": 8.3866882324219, 
+        "name": "Brauerstr. / S\u00fcdendstr.", 
+        "timestamp": "2017-08-15T04:49:12.959000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5458", 
+          "uid": "462159"
+        }, 
+        "free_bikes": 0, 
+        "id": "307d398c25eab2d2a4270e7d9adee1d5", 
+        "latitude": 48.985680924863, 
+        "longitude": 8.3626341819763, 
+        "name": "Oberreut - Zentrum", 
+        "timestamp": "2017-08-15T04:49:12.975000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54101"
+          ], 
+          "number": "5440", 
+          "uid": "284597"
+        }, 
+        "free_bikes": 1, 
+        "id": "82006cbf22d1ca7a7823bb9301962bf2", 
+        "latitude": 49.004398824014, 
+        "longitude": 8.3893918991089, 
+        "name": "Gartenstr. / Otto-Sachs-Str.", 
+        "timestamp": "2017-08-15T04:49:12.957000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5429", 
+          "uid": "284911"
+        }, 
+        "free_bikes": 0, 
+        "id": "eb712b6b2e43af0dccdec49f101ac146", 
+        "latitude": 49.000436200249, 
+        "longitude": 8.4185099601746, 
+        "name": "Melitta-Sch\u00f6pf-Str. / Luisenstr.", 
+        "timestamp": "2017-08-15T04:49:12.960000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5449", 
+          "uid": "289946"
+        }, 
+        "free_bikes": 0, 
+        "id": "683e1df4191acf54903968df62eab33e", 
+        "latitude": 48.998943976013, 
+        "longitude": 8.4734952449799, 
+        "name": "Durlach Schlossplatz", 
+        "timestamp": "2017-08-15T04:49:12.967000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "5460", 
+          "uid": "462174"
+        }, 
+        "free_bikes": 0, 
+        "id": "9eaf114fec6b1959eb3c5d428adbeab1", 
+        "latitude": 48.988131053682, 
+        "longitude": 8.3799934387207, 
+        "name": "Bulach - Gr\u00fcnwinkler Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:12.977000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "54345"
+          ], 
+          "number": "5467", 
+          "uid": "392504"
+        }, 
+        "free_bikes": 1, 
+        "id": "97c3fdfaad64eea57f07a1e167b71c0a", 
+        "latitude": 49.010686994412, 
+        "longitude": 8.4050184488297, 
+        "name": "L-Bank", 
+        "timestamp": "2017-08-15T04:49:12.974000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "54375", 
+            "54373", 
+            "54372", 
+            "54363", 
+            "54384"
+          ], 
+          "number": "5464", 
+          "slots": 10, 
+          "uid": "364100"
+        }, 
+        "free_bikes": 6, 
+        "id": "eff647805d9050c43f92f757644c019a", 
+        "latitude": 48.994551509369, 
+        "longitude": 8.4011936187744, 
+        "name": "E-Bike-Station Hauptbahnhof", 
+        "timestamp": "2017-08-15T04:49:12.971000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "5465", 
+          "slots": 10, 
+          "uid": "364101"
+        }, 
+        "free_bikes": 0, 
+        "id": "4d09911bfa69042285440b46e74e7717", 
+        "latitude": 49.009423793927, 
+        "longitude": 8.4111607074738, 
+        "name": "E-Bike-Station Berliner Platz", 
+        "timestamp": "2017-08-15T04:49:12.972000Z"
+      }
+    ]
+  }
+}

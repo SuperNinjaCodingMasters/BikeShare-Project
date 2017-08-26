@@ -1,0 +1,1092 @@
+{
+  "network": {
+    "company": [
+      "Shared Mobility Inc.", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "https://reddybikeshare.socialbicycles.com/opendata/gbfs.json", 
+    "href": "/v2/networks/reddy-bike-share", 
+    "id": "reddy-bike-share", 
+    "location": {
+      "city": "Buffalo, NY", 
+      "country": "US", 
+      "latitude": 42.89373841865211, 
+      "longitude": -78.8718044757843
+    }, 
+    "name": "Reddy Bike Share", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "285 Niagara Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2493"
+        }, 
+        "free_bikes": 2, 
+        "id": "0f283ff1dade5612a2955067590cbc77", 
+        "latitude": 42.89227862741374, 
+        "longitude": -78.8834935426712, 
+        "name": "Turner Lofts", 
+        "timestamp": "2017-08-15T04:50:19.661000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1773"
+        }, 
+        "free_bikes": 3, 
+        "id": "4ad108e693878681115bf1fbdf96c7df", 
+        "latitude": 42.886207953674734, 
+        "longitude": -78.87916445732117, 
+        "name": "City Hall (Free)", 
+        "timestamp": "2017-08-15T04:50:19.696000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "567-603 North Oak Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1778"
+        }, 
+        "free_bikes": 1, 
+        "id": "7f43184e28860c3a095d6ce25e010e63", 
+        "latitude": 42.89694526862409, 
+        "longitude": -78.86795282363892, 
+        "name": "BNMC", 
+        "timestamp": "2017-08-15T04:50:19.690000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "722-736 Main Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1452"
+        }, 
+        "free_bikes": 2, 
+        "id": "53d5ac02bba95e288468c68b9c357c29", 
+        "latitude": 42.89373841865211, 
+        "longitude": -78.8718044757843, 
+        "name": "Main St. - Edward to Tupper (Free)", 
+        "timestamp": "2017-08-15T04:50:19.678000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1014 Broadway, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1455"
+        }, 
+        "free_bikes": 3, 
+        "id": "3014f41094557d26506bd7e57e288a6b", 
+        "latitude": 42.89329824975829, 
+        "longitude": -78.83788526058197, 
+        "name": "Broadway Market Free Parking", 
+        "timestamp": "2017-08-15T04:50:19.679000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Kensington Expressway, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1456"
+        }, 
+        "free_bikes": 3, 
+        "id": "b867d35e20a893e2e852b8667b857e81", 
+        "latitude": 42.90596756769168, 
+        "longitude": -78.84395778179169, 
+        "name": "Science Museum Free Parking", 
+        "timestamp": "2017-08-15T04:50:19.680000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Spot Coffee, West Chippewa Street, Allentown, Buffalo, New York", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1722"
+        }, 
+        "free_bikes": 10, 
+        "id": "3f6fb0bb13eee5621310e6699d638d06", 
+        "latitude": 42.89088119493353, 
+        "longitude": -78.87683629989624, 
+        "name": "The Westin Hotel on Delaware (Free)", 
+        "timestamp": "2017-08-15T04:50:19.662000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3-7 Marine Drive, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1724"
+        }, 
+        "free_bikes": 9, 
+        "id": "e4bd022e6c2fdddfa7688fee2eff3489", 
+        "latitude": 42.87777046137176, 
+        "longitude": -78.87949973344803, 
+        "name": "Canalside at Scott Street and Main Street (Free)", 
+        "timestamp": "2017-08-15T04:50:19.665000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Allpro Parking, Washington Street, Allentown, Buffalo, New York", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1725"
+        }, 
+        "free_bikes": 3, 
+        "id": "c16467b50fffc0ddb1adf6b60ea3269c", 
+        "latitude": 42.885566288191725, 
+        "longitude": -78.87265607714653, 
+        "name": "Buffalo and Erie County Public Library (Free)", 
+        "timestamp": "2017-08-15T04:50:19.666000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Metro Rail, Main Street, Elmwood Village, Buffalo, New York", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1726"
+        }, 
+        "free_bikes": 4, 
+        "id": "7ab38a2f474976572e95b57ab9ac04f2", 
+        "latitude": 42.923866787335974, 
+        "longitude": -78.85522305965424, 
+        "name": "Canisius College (Free)", 
+        "timestamp": "2017-08-15T04:50:19.663000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "181 Allen Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1727"
+        }, 
+        "free_bikes": 3, 
+        "id": "18526d6a8bac9de0211ec31839c495e0", 
+        "latitude": 42.899645023661826, 
+        "longitude": -78.87656271457672, 
+        "name": "Allen - Elmwood to Park (Free)", 
+        "timestamp": "2017-08-15T04:50:19.664000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Rhode Island Street, Elmwood Village, Buffalo, New York", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1728"
+        }, 
+        "free_bikes": 1, 
+        "id": "2e63b2447d4d7fe4116c6ef4cc103895", 
+        "latitude": 42.91305166330012, 
+        "longitude": -78.88316631317139, 
+        "name": "Essex Street Pub", 
+        "timestamp": "2017-08-15T04:50:19.667000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "951 Elmwood Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1729"
+        }, 
+        "free_bikes": 10, 
+        "id": "e494835d338873fa2fb5578e6e152171", 
+        "latitude": 42.92337184863346, 
+        "longitude": -78.8770079612732, 
+        "name": "Bidwell Parkway at Elmwood (Free)", 
+        "timestamp": "2017-08-15T04:50:19.667000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Coca-Cola Field, 275, Washington Street, Allentown, Buffalo, New York", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1730"
+        }, 
+        "free_bikes": 8, 
+        "id": "e9ff31c52bb83e4a296444a29c924e1c", 
+        "latitude": 42.88138105436499, 
+        "longitude": -78.87435793876648, 
+        "name": "The Buffalo Bisons at Coca-Cola Field One (Free)", 
+        "timestamp": "2017-08-15T04:50:19.692000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Lafayette Avenue, Elmwood Village, Buffalo, New York", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1741"
+        }, 
+        "free_bikes": 0, 
+        "id": "658dd4202ebaea5b30d1a213789a90d6", 
+        "latitude": 42.92042562095436, 
+        "longitude": -78.87710452079773, 
+        "name": "Elmwood - Delevan to Auburn (free)", 
+        "timestamp": "2017-08-15T04:50:19.670000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "695 Elmwood Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1742"
+        }, 
+        "free_bikes": 3, 
+        "id": "61865345be47eef1b9c9ef70b3def907", 
+        "latitude": 42.91586071747504, 
+        "longitude": -78.87701869010925, 
+        "name": "Elmwood - Auburn to Ferry (Free)", 
+        "timestamp": "2017-08-15T04:50:19.671000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "630 Elmwood Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1743"
+        }, 
+        "free_bikes": 2, 
+        "id": "25d25c1690a90db44704c24fe2799460", 
+        "latitude": 42.91433636908684, 
+        "longitude": -78.87712061405182, 
+        "name": "Elmwood - Ferry to Lexington (Free)", 
+        "timestamp": "2017-08-15T04:50:19.671000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "538-554 Elmwood Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1744"
+        }, 
+        "free_bikes": 0, 
+        "id": "69c1995cb039b6bf42036cbe571f070d", 
+        "latitude": 42.912226597118234, 
+        "longitude": -78.8771340250969, 
+        "name": "Elmwood - Lexington to Utica (free)", 
+        "timestamp": "2017-08-15T04:50:19.672000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "478 Elmwood Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1745"
+        }, 
+        "free_bikes": 0, 
+        "id": "37d7beddef4b7578e7e3e8e345039b7b", 
+        "latitude": 42.91012263817048, 
+        "longitude": -78.87715280056, 
+        "name": "Elmwood - Utica to Bryant (Free)", 
+        "timestamp": "2017-08-15T04:50:19.673000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "414-436 Elmwood Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1746"
+        }, 
+        "free_bikes": 3, 
+        "id": "2ec154bc76bce455f775cecb143a2362", 
+        "latitude": 42.90867871707994, 
+        "longitude": -78.8771367073059, 
+        "name": "Elmwood - Bryant to Summer (Free)", 
+        "timestamp": "2017-08-15T04:50:19.674000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "215-217 North Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1747"
+        }, 
+        "free_bikes": 1, 
+        "id": "b193b1d4c530c2fac4d82c74f97fc476", 
+        "latitude": 42.90227388452428, 
+        "longitude": -78.8772439956665, 
+        "name": "Elmwood - Summer to Allen (Free)", 
+        "timestamp": "2017-08-15T04:50:19.675000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1097 Elmwood Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1748"
+        }, 
+        "free_bikes": 2, 
+        "id": "e84938be486344bc392b5db7df24a1a1", 
+        "latitude": 42.927142782593414, 
+        "longitude": -78.87695431709288, 
+        "name": "Elmwood - Forest to Bidwell (free)", 
+        "timestamp": "2017-08-15T04:50:19.676000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1136-1208 Elmwood Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1749"
+        }, 
+        "free_bikes": 0, 
+        "id": "57bebbd895021a4523307a73dcdc062b", 
+        "latitude": 42.929994371839, 
+        "longitude": -78.87712597846985, 
+        "name": "Elmwood - Rockwell to Forest (Free)", 
+        "timestamp": "2017-08-15T04:50:19.676000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Rockwell Road, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1750"
+        }, 
+        "free_bikes": 5, 
+        "id": "4f43429d1c8258b6bab72a6e55583fd1", 
+        "latitude": 42.932142842152835, 
+        "longitude": -78.87782871723175, 
+        "name": "Buffalo State College (Free)", 
+        "timestamp": "2017-08-15T04:50:19.646000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "262-270 Allen Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1751"
+        }, 
+        "free_bikes": 6, 
+        "id": "a4111ceecbd612426777d9399d5f4a1d", 
+        "latitude": 42.89961358652095, 
+        "longitude": -78.87991547584532, 
+        "name": "Allen - Wadsworth to Elmwood (Free)", 
+        "timestamp": "2017-08-15T04:50:19.645000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "109-137 Allen Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1752"
+        }, 
+        "free_bikes": 0, 
+        "id": "6917c5f2a5e778fb73cafa51a199db4d", 
+        "latitude": 42.89951534332665, 
+        "longitude": -78.8748836517334, 
+        "name": "Allen - Park to Delaware (Free)", 
+        "timestamp": "2017-08-15T04:50:19.644000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Studio Hart, Allen Street, Allentown, New York", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1753"
+        }, 
+        "free_bikes": 6, 
+        "id": "f43978df81fe61ed2068ee832e18aacc", 
+        "latitude": 42.899295280731494, 
+        "longitude": -78.87235164642334, 
+        "name": "Allen - Delaware to Franklin (Free)", 
+        "timestamp": "2017-08-15T04:50:19.642000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "26 Allen Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1754"
+        }, 
+        "free_bikes": 0, 
+        "id": "af10fb2bdbd868a7b5f4f7af18e2a7f4", 
+        "latitude": 42.899287420005635, 
+        "longitude": -78.87092471122742, 
+        "name": "Allen - Franklin to Main (Free)", 
+        "timestamp": "2017-08-15T04:50:19.649000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Main Circle, University at Buffalo School of Public Health and Health Professions, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1756"
+        }, 
+        "free_bikes": 6, 
+        "id": "6fd018003cbe3256be6103d1295bda47", 
+        "latitude": 42.95413749652004, 
+        "longitude": -78.81952285766602, 
+        "name": "University Station", 
+        "timestamp": "2017-08-15T04:50:19.648000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Putnam Way, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1757"
+        }, 
+        "free_bikes": 2, 
+        "id": "d9da7dfc3bac97876f788d3db5ca918e", 
+        "latitude": 43.00154788713392, 
+        "longitude": -78.7857860326767, 
+        "name": "Student Union", 
+        "timestamp": "2017-08-15T04:50:19.647000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Putnam Way, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1758"
+        }, 
+        "free_bikes": 0, 
+        "id": "1f8565e345f88b180dfec8ac5c0133b7", 
+        "latitude": 43.00089074977585, 
+        "longitude": -78.78878742456436, 
+        "name": "Norton Hall", 
+        "timestamp": "2017-08-15T04:50:19.650000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "211 Putnam Way, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1759"
+        }, 
+        "free_bikes": 0, 
+        "id": "8095e15b1d3da42b06066b1a72fe424c", 
+        "latitude": 43.0007936497734, 
+        "longitude": -78.78804847598076, 
+        "name": "Knox Hall", 
+        "timestamp": "2017-08-15T04:50:19.649000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Webster Entrance, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1760"
+        }, 
+        "free_bikes": 0, 
+        "id": "bf68fb11a10df62f3e0733ac0bfe89b6", 
+        "latitude": 43.00036895784568, 
+        "longitude": -78.78217577934265, 
+        "name": "Alumni", 
+        "timestamp": "2017-08-15T04:50:19.658000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Hadley Road, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1761"
+        }, 
+        "free_bikes": 0, 
+        "id": "e7d5d22b2c66701ac3847ac781b46193", 
+        "latitude": 43.00217951718819, 
+        "longitude": -78.79352152347565, 
+        "name": "Govornor's", 
+        "timestamp": "2017-08-15T04:50:19.660000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Hadley Road, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1762"
+        }, 
+        "free_bikes": 2, 
+        "id": "ff7bb93d5c25463682585245ac9b31b2", 
+        "latitude": 42.99863288162898, 
+        "longitude": -78.79478752613068, 
+        "name": "Hadley", 
+        "timestamp": "2017-08-15T04:50:19.655000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Augspurger Road, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1763"
+        }, 
+        "free_bikes": 0, 
+        "id": "acf4eb6a6cf6fdf574db7411e187be1c", 
+        "latitude": 42.99739701378073, 
+        "longitude": -78.78735780715942, 
+        "name": "Flint", 
+        "timestamp": "2017-08-15T04:50:19.656000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Webster Entrance, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1764"
+        }, 
+        "free_bikes": 0, 
+        "id": "ace5b15f44dee70003c081398fa364df", 
+        "latitude": 43.00236782806464, 
+        "longitude": -78.77711713314056, 
+        "name": "South Lake", 
+        "timestamp": "2017-08-15T04:50:19.651000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Core Road, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1765"
+        }, 
+        "free_bikes": 1, 
+        "id": "a0b2eee3fd24ebc7bab379963b6f5a6e", 
+        "latitude": 43.007193095631955, 
+        "longitude": -78.78574848175049, 
+        "name": "Fargo", 
+        "timestamp": "2017-08-15T04:50:19.652000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Frontier Road, University at Buffalo, Getzville", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1766"
+        }, 
+        "free_bikes": 0, 
+        "id": "a3fafafcb9b1ef4cd3db293371d62d75", 
+        "latitude": 43.00986056053674, 
+        "longitude": -78.78426790237427, 
+        "name": "Spaulding", 
+        "timestamp": "2017-08-15T04:50:19.669000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1-9 Flickinger Court, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1767"
+        }, 
+        "free_bikes": 1, 
+        "id": "39b05fb0868cd98a421d7c5c043f5b93", 
+        "latitude": 43.00540425761059, 
+        "longitude": -78.80099952220917, 
+        "name": "Flickenger Court", 
+        "timestamp": "2017-08-15T04:50:19.659000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Goodyear Road, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1768"
+        }, 
+        "free_bikes": 5, 
+        "id": "05b071d957cab4d7b458e2e94557c58e", 
+        "latitude": 42.95715275421302, 
+        "longitude": -78.81498992443085, 
+        "name": "Clement/Goodyear", 
+        "timestamp": "2017-08-15T04:50:19.685000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "664-668 Main Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1769"
+        }, 
+        "free_bikes": 3, 
+        "id": "31aec3db2d8b1e08403ce0c72a348903", 
+        "latitude": 42.892056327728724, 
+        "longitude": -78.87229800224304, 
+        "name": "Main St - Tupper to Chippewa", 
+        "timestamp": "2017-08-15T04:50:19.681000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Metro Rail, Buffalo Place, Allentown, Buffalo, New York", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1770"
+        }, 
+        "free_bikes": 6, 
+        "id": "439e215dcc5c6e97baa22d1cae7b06f5", 
+        "latitude": 42.88853872296669, 
+        "longitude": -78.87321531772614, 
+        "name": "Main St - Chippewa to Huron (Free)", 
+        "timestamp": "2017-08-15T04:50:19.695000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "472 Main Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1771"
+        }, 
+        "free_bikes": 0, 
+        "id": "259a4dbe8d2486c0b85559b490a0bea6", 
+        "latitude": 42.88656170173186, 
+        "longitude": -78.87415409088133, 
+        "name": "Main St. - Huron to Court", 
+        "timestamp": "2017-08-15T04:50:19.695000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1424, Hertel Avenue, North Park, Buffalo, New York", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1774"
+        }, 
+        "free_bikes": 5, 
+        "id": "f14b072778e7274bb2c17aa4dec9b017", 
+        "latitude": 42.94772074676042, 
+        "longitude": -78.855359852314, 
+        "name": "Hertel and N Park", 
+        "timestamp": "2017-08-15T04:50:19.699000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "339 Ganson Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1775"
+        }, 
+        "free_bikes": 3, 
+        "id": "ec2469c5116fffdc43d07ceee4365ad4", 
+        "latitude": 42.86919813954212, 
+        "longitude": -78.87215852737427, 
+        "name": "Riverworks", 
+        "timestamp": "2017-08-15T04:50:19.698000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "181 Ellicott Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1776"
+        }, 
+        "free_bikes": 3, 
+        "id": "51f71d81a7f0fc1d37e2f721510b064b", 
+        "latitude": 42.88373362572425, 
+        "longitude": -78.87241065502167, 
+        "name": "NFTA Bus Station", 
+        "timestamp": "2017-08-15T04:50:19.700000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "230 Lafayette Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1780"
+        }, 
+        "free_bikes": 4, 
+        "id": "32795e78521a3cb80cf1a311b830c380", 
+        "latitude": 42.92028422427558, 
+        "longitude": -78.88998985290527, 
+        "name": "Lafayette and Grant", 
+        "timestamp": "2017-08-15T04:50:19.684000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "524 West Utica Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1781"
+        }, 
+        "free_bikes": 2, 
+        "id": "0685a7cc44ef5f41b480b0c4941d026d", 
+        "latitude": 42.91129545088175, 
+        "longitude": -78.88597190380096, 
+        "name": "Five Points - Utica and Rhode Island", 
+        "timestamp": "2017-08-15T04:50:19.653000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "161-179 Vermont Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1784"
+        }, 
+        "free_bikes": 3, 
+        "id": "e1d5bc968f133e97f8bf9af3a882be87", 
+        "latitude": 42.905969533967074, 
+        "longitude": -78.89187544584274, 
+        "name": "West Side Community Services", 
+        "timestamp": "2017-08-15T04:50:19.682000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "52-66 Normal Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1794"
+        }, 
+        "free_bikes": 1, 
+        "id": "b22c2b616ee76669e0a789297ff935ff", 
+        "latitude": 42.902515594961365, 
+        "longitude": -78.88469785451889, 
+        "name": "Porter and Normal (Free)", 
+        "timestamp": "2017-08-15T04:50:19.691000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "340 Connecticut Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1817"
+        }, 
+        "free_bikes": 2, 
+        "id": "4d58d8159c8487757a93e60d1918fa16", 
+        "latitude": 42.90573967016843, 
+        "longitude": -78.88825178146362, 
+        "name": "Connecticut and Normal", 
+        "timestamp": "2017-08-15T04:50:19.687000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Putnam Way, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1835"
+        }, 
+        "free_bikes": 0, 
+        "id": "712789fcbe5e5dce3e22a9eb6eb2c212", 
+        "latitude": 42.99975300252872, 
+        "longitude": -78.78417536616325, 
+        "name": "Baird Hall", 
+        "timestamp": "2017-08-15T04:50:19.688000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Putnam Way, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1836"
+        }, 
+        "free_bikes": 1, 
+        "id": "3b4dfd8f897180aea5c33b632652200d", 
+        "latitude": 43.000124734306326, 
+        "longitude": -78.78875657916069, 
+        "name": "Flint Loop", 
+        "timestamp": "2017-08-15T04:50:19.683000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "495 Skinnersville Road, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1838"
+        }, 
+        "free_bikes": 2, 
+        "id": "2e0bf557fba733602598af6d4a82aae0", 
+        "latitude": 43.01110599158605, 
+        "longitude": -78.79056841135025, 
+        "name": "Creekside", 
+        "timestamp": "2017-08-15T04:50:19.693000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "259 Capen Hall, University At Buffalo Career Services, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1839"
+        }, 
+        "free_bikes": 1, 
+        "id": "c0c689e1031467cf23b064dfae5e38f5", 
+        "latitude": 43.00075049416301, 
+        "longitude": -78.79012182354927, 
+        "name": "Talbert", 
+        "timestamp": "2017-08-15T04:50:19.693000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Putnam Way, University at Buffalo, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1840"
+        }, 
+        "free_bikes": 0, 
+        "id": "fe8afcae8e6e1d4117d967981a34f720", 
+        "latitude": 43.001808778786696, 
+        "longitude": -78.78715932369232, 
+        "name": "Furnas", 
+        "timestamp": "2017-08-15T04:50:19.678000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Augspurger Road, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1844"
+        }, 
+        "free_bikes": 2, 
+        "id": "9894b5e3f9e4b9318d115934ad9cd1ec", 
+        "latitude": 43.00030128152464, 
+        "longitude": -78.78012657165527, 
+        "name": "Rear Alumni", 
+        "timestamp": "2017-08-15T04:50:19.663000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1856 Hertel Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1880"
+        }, 
+        "free_bikes": 2, 
+        "id": "eb620ba4e29f6f201199e1968a386f82", 
+        "latitude": 42.94757251656828, 
+        "longitude": -78.83925318717957, 
+        "name": "Hertel - Winston to Shoshone", 
+        "timestamp": "2017-08-15T04:50:19.657000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "763 Seneca Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1901"
+        }, 
+        "free_bikes": 0, 
+        "id": "ac3503a86b34dcdda75b25dbfaa579bc", 
+        "latitude": 42.875905126115555, 
+        "longitude": -78.84879648685455, 
+        "name": "Larkinville", 
+        "timestamp": "2017-08-15T04:50:19.683000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1361 Hertel Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1966"
+        }, 
+        "free_bikes": 0, 
+        "id": "9f7729c2df2e17323d1d6e8aed80771b", 
+        "latitude": 42.94770798452503, 
+        "longitude": -78.85780870914459, 
+        "name": "Hertel and Colvin", 
+        "timestamp": "2017-08-15T04:50:19.688000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1472-1478 Hertel Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1967"
+        }, 
+        "free_bikes": 0, 
+        "id": "1d9087f151fef3c31f4aaadcc8cae7de", 
+        "latitude": 42.947694241289526, 
+        "longitude": -78.8535225391388, 
+        "name": "Hertel - Norwalk to Parkside", 
+        "timestamp": "2017-08-15T04:50:19.689000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1637 Hertel Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1968"
+        }, 
+        "free_bikes": 0, 
+        "id": "9a268405931b8f2af44949a68e0ee633", 
+        "latitude": 42.94762356224709, 
+        "longitude": -78.8477772474289, 
+        "name": "Hertel - Parkside to Starin", 
+        "timestamp": "2017-08-15T04:50:19.656000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1756-1764 Hertel Avenue, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1969"
+        }, 
+        "free_bikes": 0, 
+        "id": "0da67387a8393f047bad4491f8750d9c", 
+        "latitude": 42.94759411263197, 
+        "longitude": -78.84259521961212, 
+        "name": "Hertel - Starin to Winston", 
+        "timestamp": "2017-08-15T04:50:19.686000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1215 Amherst Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2339"
+        }, 
+        "free_bikes": 7, 
+        "id": "73ea20c9df789294714f3dd2100d1c4f", 
+        "latitude": 42.940181290411175, 
+        "longitude": -78.85886281728745, 
+        "name": "Delaware Park", 
+        "timestamp": "2017-08-15T04:50:19.668000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "783-789 Ellicott Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2508"
+        }, 
+        "free_bikes": 2, 
+        "id": "b41d98856904411b6fc0e4cf7bde6181", 
+        "latitude": 42.89973196642205, 
+        "longitude": -78.86744856834412, 
+        "name": "BNMC #2", 
+        "timestamp": "2017-08-15T04:50:19.654000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "345 Main Street, Buffalo", 
+          "last_updated": 1502772620, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1772"
+        }, 
+        "free_bikes": 1, 
+        "id": "d8f2d0e74a3e52045f6ff6cdc04af9ba", 
+        "latitude": 42.88327569723957, 
+        "longitude": -78.87487828731537, 
+        "name": "M&T Plaza", 
+        "timestamp": "2017-08-15T04:50:19.697000Z"
+      }
+    ]
+  }
+}

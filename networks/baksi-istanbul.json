@@ -1,0 +1,256 @@
+{
+  "network": {
+    "company": [
+      "Baksi Bike Sharing System"
+    ], 
+    "href": "/v2/networks/baksi-istanbul", 
+    "id": "baksi-istanbul", 
+    "location": {
+      "city": "Istanbul", 
+      "country": "TR", 
+      "latitude": 40.9696887925, 
+      "longitude": 29.0475373717
+    }, 
+    "name": "Isbike", 
+    "stations": [
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1122"
+        }, 
+        "free_bikes": 0, 
+        "id": "b55e80806631f79ca014364a6a6c1471", 
+        "latitude": 40.966247, 
+        "longitude": 28.795958, 
+        "name": "AquaFlorya", 
+        "timestamp": "2017-08-15T04:50:15.574000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "slots": 14, 
+          "status": "Inactive", 
+          "uid": "1106"
+        }, 
+        "free_bikes": 2, 
+        "id": "7c55abb6a5c4fd4f7acfd6e5e7d07017", 
+        "latitude": 40.918974276, 
+        "longitude": 29.1237105633, 
+        "name": "Konser Alan\u0131", 
+        "timestamp": "2017-08-15T04:50:15.556000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1108"
+        }, 
+        "free_bikes": 11, 
+        "id": "0631a3b8f3addb71e7edeccebbdabbfa", 
+        "latitude": 40.90171518, 
+        "longitude": 29.1465356, 
+        "name": "Dragos Sosyal Tesisleri", 
+        "timestamp": "2017-08-15T04:50:15.559000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1109"
+        }, 
+        "free_bikes": 12, 
+        "id": "91bb2b1f337e6e57f2e04e4dad246719", 
+        "latitude": 40.8900638046, 
+        "longitude": 29.1750217889, 
+        "name": "Kartal Sahil", 
+        "timestamp": "2017-08-15T04:50:15.562000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 10, 
+          "status": "Inactive", 
+          "uid": "1121"
+        }, 
+        "free_bikes": 1, 
+        "id": "967489fcf3821e1b3dea8545dfbcca71", 
+        "latitude": 40.97069, 
+        "longitude": 28.79055, 
+        "name": "G\u00fcne\u015f Plaj\u0131", 
+        "timestamp": "2017-08-15T04:50:15.566000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 0, 
+          "status": "Inactive", 
+          "uid": "1127"
+        }, 
+        "free_bikes": 0, 
+        "id": "33f1b5ad2f164dce34be349a0c9d80ad", 
+        "latitude": 40.94061, 
+        "longitude": 29.10928, 
+        "name": "Futbol Sahas\u0131", 
+        "timestamp": "2017-08-15T04:50:15.599000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1101"
+        }, 
+        "free_bikes": 7, 
+        "id": "5dee37144994bec445fcd5dec99e86bb", 
+        "latitude": 40.9696887925, 
+        "longitude": 29.0475373717, 
+        "name": "Dalyan Park", 
+        "timestamp": "2017-08-15T04:50:15.539000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1102"
+        }, 
+        "free_bikes": 9, 
+        "id": "be7aa8f441feb52206ce7b76d3dae0f3", 
+        "latitude": 40.9632964352, 
+        "longitude": 29.0663138845, 
+        "name": "Caddebostan Plaj\u0131", 
+        "timestamp": "2017-08-15T04:50:15.552000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1103"
+        }, 
+        "free_bikes": 12, 
+        "id": "18e65e31066464d92db742ab501c6598", 
+        "latitude": 40.9528749649, 
+        "longitude": 29.0901921798, 
+        "name": "Bostanc\u0131 \u0130do", 
+        "timestamp": "2017-08-15T04:50:15.553000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1104"
+        }, 
+        "free_bikes": 15, 
+        "id": "e9020219aac5a41b1c2bc17d2b940cb5", 
+        "latitude": 40.9466119337, 
+        "longitude": 29.1016927555, 
+        "name": "Maltepe K\u00fclt\u00fcr Merkezi", 
+        "timestamp": "2017-08-15T04:50:15.554000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1105"
+        }, 
+        "free_bikes": 3, 
+        "id": "f3aba957f06a8e48740b8697511fdb19", 
+        "latitude": 40.9249313794, 
+        "longitude": 29.123945947, 
+        "name": "S\u00fcreyya Pa\u015fa Plaj\u0131", 
+        "timestamp": "2017-08-15T04:50:15.555000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1107"
+        }, 
+        "free_bikes": 6, 
+        "id": "82413cb82a5ebe56637e356e991e48f6", 
+        "latitude": 40.912090533, 
+        "longitude": 29.1339457835, 
+        "name": "Piri Reis Caddesi", 
+        "timestamp": "2017-08-15T04:50:15.557000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1110"
+        }, 
+        "free_bikes": 5, 
+        "id": "280b59d999c514e416069e5063e05dca", 
+        "latitude": 40.8873985158, 
+        "longitude": 29.1878408945, 
+        "name": "Kartal \u0130do", 
+        "timestamp": "2017-08-15T04:50:15.564000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1123"
+        }, 
+        "free_bikes": 2, 
+        "id": "4e62d7e44f31dc241ba881aaf03d0995", 
+        "latitude": 40.959962, 
+        "longitude": 28.806776, 
+        "name": "\u0130bb Sosyal Tesisler", 
+        "timestamp": "2017-08-15T04:50:15.578000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1124"
+        }, 
+        "free_bikes": 4, 
+        "id": "913ce0bde80b4f19efc17973c57ce71b", 
+        "latitude": 40.95534, 
+        "longitude": 28.822, 
+        "name": "Marina", 
+        "timestamp": "2017-08-15T04:50:15.581000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 14, 
+          "status": "Inactive", 
+          "uid": "1125"
+        }, 
+        "free_bikes": 8, 
+        "id": "d32ad53d7e1205b09c2bd558eba10b15", 
+        "latitude": 40.95676, 
+        "longitude": 28.83431, 
+        "name": "R\u00f6nepark Sahil", 
+        "timestamp": "2017-08-15T04:50:15.583000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 15, 
+          "status": "Inactive", 
+          "uid": "1128"
+        }, 
+        "free_bikes": 6, 
+        "id": "e777fd48f03cecff805a20cd90948680", 
+        "latitude": 40.93365, 
+        "longitude": 29.11616, 
+        "name": "\u0130dealtepe Beltur", 
+        "timestamp": "2017-08-15T04:50:15.622000Z"
+      }
+    ]
+  }
+}

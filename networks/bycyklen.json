@@ -1,0 +1,1578 @@
+{
+  "network": {
+    "company": [
+      "Gobike A/S"
+    ], 
+    "href": "/v2/networks/bycyklen", 
+    "id": "bycyklen", 
+    "location": {
+      "city": "Copenhagen", 
+      "country": "DK", 
+      "latitude": 55.673582, 
+      "longitude": 12.564984
+    }, 
+    "name": "Bycyklen", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Stockflethsvej 39, 2000 Frederiksberg", 
+          "altitude": 20, 
+          "status": 0, 
+          "uid": 79
+        }, 
+        "free_bikes": 13, 
+        "id": "f561d848fa176b514343379e1f8fa8a2", 
+        "latitude": 55.689998626708984, 
+        "longitude": 12.517000198364258, 
+        "name": "Gr\u00f8ndal Station", 
+        "timestamp": "2017-08-15T04:46:36.511000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "R\u00e5dhuspladsen 75, Kobenhavn V, 1550 Copenhagen", 
+          "altitude": 9, 
+          "status": 0, 
+          "uid": 39
+        }, 
+        "free_bikes": 5, 
+        "id": "2fc49368fbcc07e2d41e128182dc9746", 
+        "latitude": 55.675716400146484, 
+        "longitude": 12.570953369140625, 
+        "name": "Regnbuepladsen", 
+        "timestamp": "2017-08-15T04:46:36.412000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "H\u00f8je Taastrup Boulevard 35, 2630 Taastrup", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 131
+        }, 
+        "free_bikes": 3, 
+        "id": "b4df6e6d107ca7233bb31a8b546dad4c", 
+        "latitude": 55.64834213256836, 
+        "longitude": 12.270488739013672, 
+        "name": "H\u00f8je Taastrup, Station", 
+        "timestamp": "2017-08-15T04:46:36.306000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Ansgars All\u00e9, 2500 Valby", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 114
+        }, 
+        "free_bikes": 18, 
+        "id": "d10b1e1571d40b2cb096dfff6cb320f2", 
+        "latitude": 55.664398193359375, 
+        "longitude": 12.494038581848145, 
+        "name": "Dansh\u00f8j Station", 
+        "timestamp": "2017-08-15T04:46:36.370000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "DFDS Terminalen, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 109
+        }, 
+        "free_bikes": 27, 
+        "id": "69fa7553d1d4a1c31f6d5ee9741eb2c5", 
+        "latitude": 55.70134353637695, 
+        "longitude": 12.59421443939209, 
+        "name": "Oslob\u00e5den", 
+        "timestamp": "2017-08-15T04:46:36.405000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Dalgas Boulevard 138, 2000 Frederiksberg", 
+          "altitude": 9, 
+          "status": 0, 
+          "uid": 47
+        }, 
+        "free_bikes": 15, 
+        "id": "0b5970e7e0a4f8e8fd82da25efe2dc55", 
+        "latitude": 55.68381881713867, 
+        "longitude": 12.512689590454102, 
+        "name": "Lindevang Metrostation", 
+        "timestamp": "2017-08-15T04:46:36.479000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Frederiksberg", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 156
+        }, 
+        "free_bikes": 10, 
+        "id": "fa575bd97b94b685cae58cc18783efc9", 
+        "latitude": 55.67824935913086, 
+        "longitude": 12.530099868774414, 
+        "name": "Frederiksberg Bredegade / Smallegade", 
+        "timestamp": "2017-08-15T04:46:36.471000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Emdrup Torv, 2400 K\u00f8benhavn NV", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 106
+        }, 
+        "free_bikes": 9, 
+        "id": "5cb965599eed1c963ffc74d1a4e0d940", 
+        "latitude": 55.722900390625, 
+        "longitude": 12.530099868774414, 
+        "name": "Emdrup Torv", 
+        "timestamp": "2017-08-15T04:46:36.410000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Roskildevej, 2500 Valby", 
+          "altitude": 25, 
+          "status": 0, 
+          "uid": 77
+        }, 
+        "free_bikes": 13, 
+        "id": "0e0dd9f44dbf92570bab49554c1dae10", 
+        "latitude": 55.672298431396484, 
+        "longitude": 12.492799758911133, 
+        "name": "\u00c5lholm Station", 
+        "timestamp": "2017-08-15T04:46:36.490000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "N\u00f8rre Voldgade 48, 1358 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 133
+        }, 
+        "free_bikes": 22, 
+        "id": "573c5b02fb913b39ff47721dee2a06b9", 
+        "latitude": 55.6818733215332, 
+        "longitude": 12.569897651672363, 
+        "name": "N\u00f8rreport Station Syd", 
+        "timestamp": "2017-08-15T04:46:36.292000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Thad Jones Vej 4, 2450 K\u00f8benhavn SV", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 130
+        }, 
+        "free_bikes": 14, 
+        "id": "25d8d920a0012d425e29955f260e5de0", 
+        "latitude": 55.646751403808594, 
+        "longitude": 12.548545837402344, 
+        "name": "Sluseholmen / Thad Jones Vej", 
+        "timestamp": "2017-08-15T04:46:36.308000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "\u00d8ster Voldgade 2A, 1350 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 134
+        }, 
+        "free_bikes": 7, 
+        "id": "50b63fb100330389ef4da5e663b67f46", 
+        "latitude": 55.68482971191406, 
+        "longitude": 12.574063301086426, 
+        "name": "N\u00f8rreport Station Nord", 
+        "timestamp": "2017-08-15T04:46:36.314000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Ingerslevsgade 101, K\u00f8benhavn V, 1705 Copenhagen", 
+          "altitude": 17, 
+          "status": 0, 
+          "uid": 26
+        }, 
+        "free_bikes": 18, 
+        "id": "5dbfe3946822eb7c6ab2deaf42794b22", 
+        "latitude": 55.66507339477539, 
+        "longitude": 12.558466911315918, 
+        "name": "Dybb\u00f8lsbro Station", 
+        "timestamp": "2017-08-15T04:46:36.318000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Kilevej 3, Frederiksberg, 2000 Copenhagen", 
+          "altitude": 35, 
+          "status": 0, 
+          "uid": 28
+        }, 
+        "free_bikes": 15, 
+        "id": "5007948baa4d1a5c0edb2a714fcf96c4", 
+        "latitude": 55.68151092529297, 
+        "longitude": 12.524019241333008, 
+        "name": "Fasanvej Metrostation", 
+        "timestamp": "2017-08-15T04:46:36.321000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Oslo Plads 9, K\u00f8benhavn \u00d8, 2100 Copenhagen", 
+          "altitude": 18, 
+          "status": 0, 
+          "uid": 29
+        }, 
+        "free_bikes": 6, 
+        "id": "3703281b528dc6c7916731cd66971d73", 
+        "latitude": 55.692344665527344, 
+        "longitude": 12.586094856262207, 
+        "name": "\u00d8sterport Station", 
+        "timestamp": "2017-08-15T04:46:36.322000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Ryvangs All\u00e9 81, 2900 Hellerup", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 122
+        }, 
+        "free_bikes": 22, 
+        "id": "921b9cd444ff43d86a14f32b10c7d1d7", 
+        "latitude": 55.73030090332031, 
+        "longitude": 12.567999839782715, 
+        "name": "Hellerup Station", 
+        "timestamp": "2017-08-15T04:46:36.330000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "\u00c5rhusgade 105, 2100 Copenhagen", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 123
+        }, 
+        "free_bikes": 15, 
+        "id": "daa16f350e2839e0d999f36fd42c60b1", 
+        "latitude": 55.70708465576172, 
+        "longitude": 12.58820915222168, 
+        "name": "\u00c5rhusgade / \u00d8sterbrohuset", 
+        "timestamp": "2017-08-15T04:46:36.335000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Nordre Frihavnsgade, Copenhagen", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 127
+        }, 
+        "free_bikes": 9, 
+        "id": "9cf6e9d89b47af62264006aa649b3709", 
+        "latitude": 55.70370101928711, 
+        "longitude": 12.590800285339355, 
+        "name": "Nordhavn Station / Nordre Frihavnsgade", 
+        "timestamp": "2017-08-15T04:46:36.342000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Victor Borges Plads, Copenhagen", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 128
+        }, 
+        "free_bikes": 13, 
+        "id": "2bbee330492dd93f2b329877394e1cbe", 
+        "latitude": 55.701690673828125, 
+        "longitude": 12.580499649047852, 
+        "name": "Victor Borges Plads", 
+        "timestamp": "2017-08-15T04:46:36.344000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Frankrigsgade 1, 2300 K\u00f8benhavn S", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 59
+        }, 
+        "free_bikes": 14, 
+        "id": "b68fa05f83746d7f53b5715f67edea7e", 
+        "latitude": 55.66059875488281, 
+        "longitude": 12.605600357055664, 
+        "name": "Amagerbrogade / Frankrigsgade", 
+        "timestamp": "2017-08-15T04:46:36.350000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Gunnar Nu Hansens Plads, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 54
+        }, 
+        "free_bikes": 23, 
+        "id": "18d298b08de0e6261ebebfe29625ffd6", 
+        "latitude": 55.70500183105469, 
+        "longitude": 12.576600074768066, 
+        "name": "Gunnar Nu Hansens Plads", 
+        "timestamp": "2017-08-15T04:46:36.356000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Gl. Kongevej  6, 1610 K\u00f8benhavn", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 57
+        }, 
+        "free_bikes": 12, 
+        "id": "09aec2660e50e206f0f25ec02180a957", 
+        "latitude": 55.674171447753906, 
+        "longitude": 12.557245254516602, 
+        "name": "Gammel Kongevej / Planetariet", 
+        "timestamp": "2017-08-15T04:46:36.358000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Dampf\u00e6rgevej 22, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 53
+        }, 
+        "free_bikes": 8, 
+        "id": "4f18f9e69af31a3a790034486bbfb3d7", 
+        "latitude": 55.69894027709961, 
+        "longitude": 12.59529972076416, 
+        "name": "Dampf\u00e6rgevej / Regionernes hus", 
+        "timestamp": "2017-08-15T04:46:36.368000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Julius Andersens Vej  3, 2450 K\u00f8benhavn SV", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 88
+        }, 
+        "free_bikes": 8, 
+        "id": "e95b19f24b71561c5414b78569225a5b", 
+        "latitude": 55.65010070800781, 
+        "longitude": 12.515800476074219, 
+        "name": "Valby Hallen", 
+        "timestamp": "2017-08-15T04:46:36.371000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Rantzausgade  57, Copenhagen ", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 89
+        }, 
+        "free_bikes": 18, 
+        "id": "090f3a66b5768ac4b0e107eb0874c768", 
+        "latitude": 55.688899993896484, 
+        "longitude": 12.544699668884277, 
+        "name": "Rantzausgade / Den gr\u00f8nne sti", 
+        "timestamp": "2017-08-15T04:46:36.471000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "\u00d8restads Boulevard, 2300 K\u00f8benhavn S", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 110
+        }, 
+        "free_bikes": 12, 
+        "id": "2b46ae9c1a5adcb72e76ebd43a3b0a33", 
+        "latitude": 55.629638671875, 
+        "longitude": 12.579554557800293, 
+        "name": "\u00d8restad Metrostation", 
+        "timestamp": "2017-08-15T04:46:36.376000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "S\u00f8ren Kierkegaards Plads, 1219 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 81
+        }, 
+        "free_bikes": 8, 
+        "id": "a688227a98bdfce9bb9c19a219c76750", 
+        "latitude": 55.67359924316406, 
+        "longitude": 12.581500053405762, 
+        "name": "Den Sorte Diamant", 
+        "timestamp": "2017-08-15T04:46:36.392000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Mozarts Plads, 2450 K\u00f8benhavn SV", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 84
+        }, 
+        "free_bikes": 13, 
+        "id": "0400e9ff8b651140985c05a12bc5c7aa", 
+        "latitude": 55.64870071411133, 
+        "longitude": 12.53499984741211, 
+        "name": "Mozarts Plads", 
+        "timestamp": "2017-08-15T04:46:36.398000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "S\u00f8torvet, 1371 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 85
+        }, 
+        "free_bikes": 25, 
+        "id": "4fce4e3c8dfae47c8112207d2626f0b6", 
+        "latitude": 55.685977935791016, 
+        "longitude": 12.565197944641113, 
+        "name": "S\u00f8torvet", 
+        "timestamp": "2017-08-15T04:46:36.400000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Njalsgade 70, 2300 K\u00f8benhvn S", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 108
+        }, 
+        "free_bikes": 8, 
+        "id": "e3a3d1ad96dd0a5e59eb9872f36a8b8a", 
+        "latitude": 55.663604736328125, 
+        "longitude": 12.58541202545166, 
+        "name": "Islands Brygge Metrostation", 
+        "timestamp": "2017-08-15T04:46:36.404000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "\u00d8ster All\u00e9 37, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 101
+        }, 
+        "free_bikes": 11, 
+        "id": "dd0a425c67087e7fe92e6477c08997b2", 
+        "latitude": 55.70330047607422, 
+        "longitude": 12.569299697875977, 
+        "name": "Parken / \u00d8ster All\u00e9", 
+        "timestamp": "2017-08-15T04:46:36.409000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "\u00d8restads Boulevard 41, 2300 K\u00f8benhavn S", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 107
+        }, 
+        "free_bikes": 7, 
+        "id": "3956c2c576616e9985a505fb67cc1d35", 
+        "latitude": 55.638301849365234, 
+        "longitude": 12.583100318908691, 
+        "name": "Bella Center Metrostation", 
+        "timestamp": "2017-08-15T04:46:36.411000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Allegade 3, Frederickberg, 2000 Copenhagen", 
+          "altitude": 9, 
+          "status": 0, 
+          "uid": 38
+        }, 
+        "free_bikes": 2, 
+        "id": "9cabc28013bf5c59dd7e1a06d2b1c31f", 
+        "latitude": 55.67491149902344, 
+        "longitude": 12.532196998596191, 
+        "name": "Frederiksberg Runddel", 
+        "timestamp": "2017-08-15T04:46:36.413000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Rosen\u00f8rns All\u00e9  22, Fredericksberg, 1970 Copenhagen", 
+          "altitude": 39, 
+          "status": 0, 
+          "uid": 32
+        }, 
+        "free_bikes": 30, 
+        "id": "54c4588c0fa4624ab4a43038a1471b46", 
+        "latitude": 55.682037353515625, 
+        "longitude": 12.55190372467041, 
+        "name": "Forum Metrostation", 
+        "timestamp": "2017-08-15T04:46:36.415000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Peter Bangsvej 44, Frederiksberg, 2000 Copenhagen", 
+          "altitude": 11, 
+          "status": 0, 
+          "uid": 37
+        }, 
+        "free_bikes": 8, 
+        "id": "6e27b5f837196f342a1bf17c823459d8", 
+        "latitude": 55.678993225097656, 
+        "longitude": 12.51164436340332, 
+        "name": "Peter Bangsvej / Sl\u00f8jfen", 
+        "timestamp": "2017-08-15T04:46:36.419000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Peter Bangs Vej 163, Fredericksberg, 2000 Copenhagen", 
+          "altitude": 12, 
+          "status": 0, 
+          "uid": 36
+        }, 
+        "free_bikes": 11, 
+        "id": "e3f0ebc7e2e7a266f45e792c96a79b44", 
+        "latitude": 55.678077697753906, 
+        "longitude": 12.492630004882812, 
+        "name": "KB Hallen Station", 
+        "timestamp": "2017-08-15T04:46:36.420000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Solsortvej 76, Frederiksberg, 2000 Copenhagen", 
+          "altitude": 3, 
+          "status": 0, 
+          "uid": 34
+        }, 
+        "free_bikes": 5, 
+        "id": "4d42b17cc8bdc2a1c10da24dc00656dd", 
+        "latitude": 55.69514846801758, 
+        "longitude": 12.527460098266602, 
+        "name": "Fuglebakken Station", 
+        "timestamp": "2017-08-15T04:46:36.420000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Blegdamsvej 9, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 62
+        }, 
+        "free_bikes": 13, 
+        "id": "250da1a29a8347d48e393ee4597d8a6e", 
+        "latitude": 55.69529342651367, 
+        "longitude": 12.568065643310547, 
+        "name": "Rigshospitalet", 
+        "timestamp": "2017-08-15T04:46:36.424000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Vigerslev all\u00e9 141, 2500 Valby", 
+          "altitude": 7, 
+          "status": 0, 
+          "uid": 68
+        }, 
+        "free_bikes": 11, 
+        "id": "826489d7e146070c3e8fecd2df3b0c9e", 
+        "latitude": 55.65999984741211, 
+        "longitude": 12.498900413513184, 
+        "name": "Vigerslev All\u00e9 Station", 
+        "timestamp": "2017-08-15T04:46:36.440000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "\u00d8restads Boulevard 25, Sundby, 2300 K\u00f8benhavn S", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 69
+        }, 
+        "free_bikes": 18, 
+        "id": "f5562071783b53b19ea4d5f4bae99cab", 
+        "latitude": 55.64500045776367, 
+        "longitude": 12.586999893188477, 
+        "name": "Sundby Metrostation", 
+        "timestamp": "2017-08-15T04:46:36.441000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Lyngbyvej 102, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 98
+        }, 
+        "free_bikes": 30, 
+        "id": "654d84931eb3293c3a25475d4333bc90", 
+        "latitude": 55.71493911743164, 
+        "longitude": 12.559724807739258, 
+        "name": "Ryparken Station", 
+        "timestamp": "2017-08-15T04:46:36.442000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Sankt Thomas Plads, 1820 Frederiksberg C", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 93
+        }, 
+        "free_bikes": 6, 
+        "id": "94364ad1b9b2cb9c030f9afae3625f7a", 
+        "latitude": 55.67340087890625, 
+        "longitude": 12.547800064086914, 
+        "name": "Sankt Thomas Plads", 
+        "timestamp": "2017-08-15T04:46:36.445000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Halmtorvet, 1700 K\u00f8benhavn V", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 95
+        }, 
+        "free_bikes": 17, 
+        "id": "85122e28a6af31a1035a0f95de9e9f36", 
+        "latitude": 55.66986083984375, 
+        "longitude": 12.560093879699707, 
+        "name": "Halmtorvet", 
+        "timestamp": "2017-08-15T04:46:36.448000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "N\u00f8rrebrogade, 2200 K\u00f8benhavn N", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 96
+        }, 
+        "free_bikes": 18, 
+        "id": "52ca15ec880d0bd77326b51e27306271", 
+        "latitude": 55.70121765136719, 
+        "longitude": 12.538065910339355, 
+        "name": "N\u00f8rrebro Station", 
+        "timestamp": "2017-08-15T04:46:36.457000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Smallegade 1, Copenhagen", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 15
+        }, 
+        "free_bikes": 17, 
+        "id": "1059ce5960ffddeef42239e49ff59070", 
+        "latitude": 55.67831802368164, 
+        "longitude": 12.53274917602539, 
+        "name": "Frederiksberg R\u00e5dhusplads", 
+        "timestamp": "2017-08-15T04:46:36.463000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Amagerbro Torv, 2300 K\u00f8benhavn S", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 117
+        }, 
+        "free_bikes": 14, 
+        "id": "264e3f0d3d8774a74e25b4eca85d5b46", 
+        "latitude": 55.66327667236328, 
+        "longitude": 12.602849960327148, 
+        "name": "Amagerbro Metrostation", 
+        "timestamp": "2017-08-15T04:46:36.470000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Solbjergvej 12, 2000 Frederiksberg", 
+          "altitude": 13, 
+          "status": 0, 
+          "uid": 48
+        }, 
+        "free_bikes": 5, 
+        "id": "785dd0b18583e1a6ae3afe4548c40687", 
+        "latitude": 55.680965423583984, 
+        "longitude": 12.530680656433105, 
+        "name": "Solbjerg Plads / Frederiksberg", 
+        "timestamp": "2017-08-15T04:46:36.472000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Nitivej, 2000 Frederiksberg", 
+          "altitude": 9, 
+          "status": 0, 
+          "uid": 49
+        }, 
+        "free_bikes": 9, 
+        "id": "9edc11ff373de21c6d2aba56c92252c1", 
+        "latitude": 55.69241714477539, 
+        "longitude": 12.531965255737305, 
+        "name": "Nordre Fasanvej / Nitivej", 
+        "timestamp": "2017-08-15T04:46:36.473000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Islands Brygge 18, 2300 K\u00f8benhavn S", 
+          "altitude": 4, 
+          "status": 0, 
+          "uid": 42
+        }, 
+        "free_bikes": 23, 
+        "id": "6ae3481b13dbc28fe4e7d9de343c72d4", 
+        "latitude": 55.66699981689453, 
+        "longitude": 12.576899528503418, 
+        "name": "Islands Brygge Kulturhus", 
+        "timestamp": "2017-08-15T04:46:36.483000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Enghavevej, 1761 K\u00f8benhavn V", 
+          "altitude": 12, 
+          "status": 0, 
+          "uid": 74
+        }, 
+        "free_bikes": 25, 
+        "id": "e9f204d8c2ac602ad50f95f55815669a", 
+        "latitude": 55.667335510253906, 
+        "longitude": 12.543991088867188, 
+        "name": "Enghavevej / Enghaveparken", 
+        "timestamp": "2017-08-15T04:46:36.497000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Tuborgvej, 2400 K\u00f8benhavn NV", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 112
+        }, 
+        "free_bikes": 27, 
+        "id": "a2141701bb5e11ba32fe2c0e5e128034", 
+        "latitude": 55.70668029785156, 
+        "longitude": 12.541239738464355, 
+        "name": "Bispebjerg Station", 
+        "timestamp": "2017-08-15T04:46:36.384000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Hostrup Have  62, Frederiksberg, 2000 Copenhagen", 
+          "altitude": 11, 
+          "status": 0, 
+          "uid": 137
+        }, 
+        "free_bikes": 0, 
+        "id": "0ed78386b21b01eb05f751fea3f49b1b", 
+        "latitude": 55.68461990356445, 
+        "longitude": 12.538089752197266, 
+        "name": "Falkoner All\u00e9/Hostrup Have Dropzone", 
+        "timestamp": "2017-08-15T04:46:36.309000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Ernst Kapers Vej 1, 2450 K\u00f8benhavn SV", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 75
+        }, 
+        "free_bikes": 5, 
+        "id": "4697399e527c862ed190094be57b0de8", 
+        "latitude": 55.65467834472656, 
+        "longitude": 12.53782844543457, 
+        "name": "Sydhavn Station", 
+        "timestamp": "2017-08-15T04:46:36.496000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "H. C. Andersens Boulevard, 1553 K\u00f8benhavn V", 
+          "altitude": 9, 
+          "status": 0, 
+          "uid": 50
+        }, 
+        "free_bikes": 13, 
+        "id": "44a75386555ccb559d91c9456dc3a7ec", 
+        "latitude": 55.67385482788086, 
+        "longitude": 12.571292877197266, 
+        "name": "H. C. Andersens Boulevard", 
+        "timestamp": "2017-08-15T04:46:36.367000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Bispetorvet, 1455 K\u00f8benhavn K", 
+          "altitude": 9, 
+          "status": 0, 
+          "uid": 45
+        }, 
+        "free_bikes": 5, 
+        "id": "3d7d75680c49e7a14cf76a72d2c38d14", 
+        "latitude": 55.679237365722656, 
+        "longitude": 12.571696281433105, 
+        "name": "Studiestr\u00e6de / Bispetorvet", 
+        "timestamp": "2017-08-15T04:46:36.482000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Blegdamsvej, 2200 K\u00f8benhavn N", 
+          "altitude": 16, 
+          "status": 0, 
+          "uid": 71
+        }, 
+        "free_bikes": 18, 
+        "id": "f247abd017302269a4534d6e7d05dfc1", 
+        "latitude": 55.69139862060547, 
+        "longitude": 12.561800003051758, 
+        "name": "Sankt Hans Torv", 
+        "timestamp": "2017-08-15T04:46:36.509000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Cityringen 1, 2630 Taastrup", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 132
+        }, 
+        "free_bikes": 4, 
+        "id": "21664a9715b56dc1583355f7bf94d9a3", 
+        "latitude": 55.644813537597656, 
+        "longitude": 12.277875900268555, 
+        "name": "H\u00f8je Taastrup, City 2", 
+        "timestamp": "2017-08-15T04:46:36.304000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Fredericiagade 21, Kobenhavn K, 1310 Copenhagen", 
+          "altitude": 24, 
+          "status": 0, 
+          "uid": 27
+        }, 
+        "free_bikes": 2, 
+        "id": "68d20a5b9b6516c32e89155507726647", 
+        "latitude": 55.68563461303711, 
+        "longitude": 12.591087341308594, 
+        "name": "Fredericiagade / Bredgade", 
+        "timestamp": "2017-08-15T04:46:36.319000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Lergravsvej, 2300 K\u00f8benhavn S", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 119
+        }, 
+        "free_bikes": 19, 
+        "id": "9b7f50974020ccffd55a415ac4481463", 
+        "latitude": 55.66230010986328, 
+        "longitude": 12.616499900817871, 
+        "name": "Lergravsparken Station", 
+        "timestamp": "2017-08-15T04:46:36.323000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "2500 Valby", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 120
+        }, 
+        "free_bikes": 9, 
+        "id": "f58f1b796bae0a89e5e9867d051cf01b", 
+        "latitude": 55.6525993347168, 
+        "longitude": 12.516900062561035, 
+        "name": "Ny Ellebjerg Station", 
+        "timestamp": "2017-08-15T04:46:36.329000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "\u00d8resundsvej 146, 2300 Copenhagen S", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 124
+        }, 
+        "free_bikes": 7, 
+        "id": "af92a32753d3af43fa37722f39deb2e3", 
+        "latitude": 55.66141128540039, 
+        "longitude": 12.629081726074219, 
+        "name": "\u00d8resund Metrostation", 
+        "timestamp": "2017-08-15T04:46:36.338000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "R\u00e5dmandsgade 90, 2200 K\u00f8benhavn N", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 129
+        }, 
+        "free_bikes": 19, 
+        "id": "d15ae2245254a37a9a32c19b32fbd260", 
+        "latitude": 55.70320129394531, 
+        "longitude": 12.557499885559082, 
+        "name": "Sifs Plads", 
+        "timestamp": "2017-08-15T04:46:36.345000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Gr\u00f8ndals Parkvej, 2720 Vanl\u00f8se", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 118
+        }, 
+        "free_bikes": 22, 
+        "id": "783206de1b1b935ddbdf4608fbc49ed5", 
+        "latitude": 55.6859016418457, 
+        "longitude": 12.498600006103516, 
+        "name": "Flintholm Station / Busterminalen", 
+        "timestamp": "2017-08-15T04:46:36.348000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Danneskiold-Sams\u00f8es All\u00e9 51, 1434 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 58
+        }, 
+        "free_bikes": 19, 
+        "id": "69e4962865ea1f0c0169ea6d355c4ee9", 
+        "latitude": 55.68170166015625, 
+        "longitude": 12.605199813842773, 
+        "name": "Danneskiold-Sams\u00f8es All\u00e9 (\"Holmen\")", 
+        "timestamp": "2017-08-15T04:46:36.351000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Holmbladsgade  71, 2300 K\u00f8benhavn S", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 55
+        }, 
+        "free_bikes": 6, 
+        "id": "13d3d9f934077813edd5f9997dc483d0", 
+        "latitude": 55.666107177734375, 
+        "longitude": 12.610891342163086, 
+        "name": "Prismen", 
+        "timestamp": "2017-08-15T04:46:36.355000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Hulg\u00e5rds Plads, 2400 K\u00f8benhavn NV", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 56
+        }, 
+        "free_bikes": 12, 
+        "id": "224ec47f50400d2f80945a4daf2e63eb", 
+        "latitude": 55.70560073852539, 
+        "longitude": 12.521900177001953, 
+        "name": "Hulg\u00e5rds Plads", 
+        "timestamp": "2017-08-15T04:46:36.365000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "N\u00f8rre Voldgade 68, 1358 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 115
+        }, 
+        "free_bikes": 18, 
+        "id": "35e907a3c0325439e9aa665e996d5212", 
+        "latitude": 55.68239974975586, 
+        "longitude": 12.570300102233887, 
+        "name": "N\u00f8rreport Station Midt", 
+        "timestamp": "2017-08-15T04:46:36.369000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Italiensvej, 2300 K\u00f8benhavn S", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 111
+        }, 
+        "free_bikes": 20, 
+        "id": "7dfab545d7612a38f1194f09f3b1195d", 
+        "latitude": 55.65620040893555, 
+        "longitude": 12.631600379943848, 
+        "name": "Amager Strand Metrostation", 
+        "timestamp": "2017-08-15T04:46:36.374000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Mellemtoftevej, 2500 Valby", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 113
+        }, 
+        "free_bikes": 12, 
+        "id": "e1dac83129860cd8058f31b8e4cf888d", 
+        "latitude": 55.66415786743164, 
+        "longitude": 12.514440536499023, 
+        "name": "Valby Station / Mellemtoftevej", 
+        "timestamp": "2017-08-15T04:46:36.383000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Borgergade, 1300 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 82
+        }, 
+        "free_bikes": 15, 
+        "id": "f0918eddfcdea86afb64871d5bad8035", 
+        "latitude": 55.68220138549805, 
+        "longitude": 12.583700180053711, 
+        "name": "Borgergade", 
+        "timestamp": "2017-08-15T04:46:36.387000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Vesterbros Torv, 1620 K\u00f8benhavn V", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 83
+        }, 
+        "free_bikes": 17, 
+        "id": "eba75dcb56eb31b523e2b966a69e4dbc", 
+        "latitude": 55.67210006713867, 
+        "longitude": 12.5556001663208, 
+        "name": "Vesterbros Torv", 
+        "timestamp": "2017-08-15T04:46:36.388000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Sankt Kjelds Plads, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 86
+        }, 
+        "free_bikes": 14, 
+        "id": "0769897e8e0daced71ccd0c625efa7ed", 
+        "latitude": 55.71039962768555, 
+        "longitude": 12.56470012664795, 
+        "name": "Sankt Kjelds Plads", 
+        "timestamp": "2017-08-15T04:46:36.394000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Havnegade, 1058 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 87
+        }, 
+        "free_bikes": 17, 
+        "id": "71c0788f79e02ea6e5d0e790145e83a8", 
+        "latitude": 55.67720031738281, 
+        "longitude": 12.590800285339355, 
+        "name": "Havnegade", 
+        "timestamp": "2017-08-15T04:46:36.396000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Oceanvej 12, 2150 K\u00f8benhavn ", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 100
+        }, 
+        "free_bikes": 21, 
+        "id": "d8a49e97c296869c64b3c536db8964c3", 
+        "latitude": 55.71379852294922, 
+        "longitude": 12.619199752807617, 
+        "name": "Oceankaj / Nordhavn", 
+        "timestamp": "2017-08-15T04:46:36.407000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "B\u00fclowsvej 28A, Fredericksberg C, 1871 Copenhagen", 
+          "altitude": 4, 
+          "status": 0, 
+          "uid": 33
+        }, 
+        "free_bikes": 14, 
+        "id": "bebec232f8c136aac6d0a025b6919f6c", 
+        "latitude": 55.68144989013672, 
+        "longitude": 12.544037818908691, 
+        "name": "B\u00fclowsvej / Thorvaldsensvej", 
+        "timestamp": "2017-08-15T04:46:36.414000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Vester Farimagsgade 9, Kobenhavn V, 1606 Copenhagen", 
+          "altitude": 5, 
+          "status": 0, 
+          "uid": 31
+        }, 
+        "free_bikes": 11, 
+        "id": "fa5af8db726860dce031462a155ae864", 
+        "latitude": 55.67599868774414, 
+        "longitude": 12.562199592590332, 
+        "name": "Vesterport Station", 
+        "timestamp": "2017-08-15T04:46:36.418000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Balders Plads, 2200 K\u00f8benhavn N", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 61
+        }, 
+        "free_bikes": 16, 
+        "id": "49d78357934342102df2872d62cade44", 
+        "latitude": 55.70121383666992, 
+        "longitude": 12.549081802368164, 
+        "name": "Balders Plads", 
+        "timestamp": "2017-08-15T04:46:36.421000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "S\u00f8nder Boulevard, 1720 K\u00f8benhavn V", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 63
+        }, 
+        "free_bikes": 8, 
+        "id": "b2aec87f3dffb0e9cfc9fcfd668c34dd", 
+        "latitude": 55.666099548339844, 
+        "longitude": 12.551600456237793, 
+        "name": "S\u00f8nder Boulevard", 
+        "timestamp": "2017-08-15T04:46:36.425000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "N\u00f8rre All\u00e9 59, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 64
+        }, 
+        "free_bikes": 5, 
+        "id": "7164e3fca454f8cf44d6b1053720499f", 
+        "latitude": 55.69987106323242, 
+        "longitude": 12.561668395996094, 
+        "name": "N\u00f8rre Campus", 
+        "timestamp": "2017-08-15T04:46:36.427000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "B\u00e5dsmandsstr\u00e6de 31, 1407 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 65
+        }, 
+        "free_bikes": 13, 
+        "id": "418181d7f800a9b547cd79c6b9515940", 
+        "latitude": 55.67280578613281, 
+        "longitude": 12.59709358215332, 
+        "name": "B\u00e5dsmandsstr\u00e6de", 
+        "timestamp": "2017-08-15T04:46:36.428000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Tuborgvej 170, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 66
+        }, 
+        "free_bikes": 11, 
+        "id": "807b24240bff9f81b64af1111896895b", 
+        "latitude": 55.719600677490234, 
+        "longitude": 12.541299819946289, 
+        "name": "Emdrup Station", 
+        "timestamp": "2017-08-15T04:46:36.436000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Langeliniekaj 2, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 67
+        }, 
+        "free_bikes": 4, 
+        "id": "e753f14668649ed7cf5e6868c6ae4ede", 
+        "latitude": 55.69340133666992, 
+        "longitude": 12.599200248718262, 
+        "name": "Langelinie", 
+        "timestamp": "2017-08-15T04:46:36.437000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Kongens Nytorv  11, 1050 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 91
+        }, 
+        "free_bikes": 15, 
+        "id": "1458807cb4d9495e54e29b497ce33ef6", 
+        "latitude": 55.67885208129883, 
+        "longitude": 12.5850248336792, 
+        "name": "Kongens Nytorv", 
+        "timestamp": "2017-08-15T04:46:36.443000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Pilestr\u00e6de 61, 1112 K\u00f8benhavn K", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 90
+        }, 
+        "free_bikes": 22, 
+        "id": "039babc1423060fc106e2acb91e97257", 
+        "latitude": 55.68190002441406, 
+        "longitude": 12.577118873596191, 
+        "name": "Pilestr\u00e6de", 
+        "timestamp": "2017-08-15T04:46:36.444000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Valby Langgade, 2500 Valby", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 92
+        }, 
+        "free_bikes": 10, 
+        "id": "be42f80284d947714a82b72c4f6323c5", 
+        "latitude": 55.66699981689453, 
+        "longitude": 12.504500389099121, 
+        "name": "Valby Langgade Station", 
+        "timestamp": "2017-08-15T04:46:36.447000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Aksel M\u00f8llers Have, 2000 Frederiksberg", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 94
+        }, 
+        "free_bikes": 13, 
+        "id": "9f5c337704e65a1935bba1618d618ab8", 
+        "latitude": 55.68479919433594, 
+        "longitude": 12.531599998474121, 
+        "name": "Frederiksberg Sv\u00f8mmehal", 
+        "timestamp": "2017-08-15T04:46:36.449000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "S\u00f8nder Boulevard, 1720 K\u00f8benhavn V", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 97
+        }, 
+        "free_bikes": 11, 
+        "id": "c200b298318932563afe5dada08d4df8", 
+        "latitude": 55.66374969482422, 
+        "longitude": 12.542338371276855, 
+        "name": "S\u00f8nder Boulevard / Enghavevej", 
+        "timestamp": "2017-08-15T04:46:36.456000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Bernstorffsgade 5, Vesterbro, 1704 Copenhagen", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 13
+        }, 
+        "free_bikes": 10, 
+        "id": "a8577288f347fcd4f136933d14542ff3", 
+        "latitude": 55.673484802246094, 
+        "longitude": 12.56537914276123, 
+        "name": "K\u00f8benhavn H", 
+        "timestamp": "2017-08-15T04:46:36.458000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Stig Lommers Plads, Frederiksberg, 2720 Copenhagen", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 12
+        }, 
+        "free_bikes": 23, 
+        "id": "b1a8d3216b93a7bfad58ca352af74c25", 
+        "latitude": 55.685340881347656, 
+        "longitude": 12.499360084533691, 
+        "name": "Flintholm Station / Stig Lommers Plads", 
+        "timestamp": "2017-08-15T04:46:36.461000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "R\u00e5dhuspladsen, 1599 Copenhagen", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 14
+        }, 
+        "free_bikes": 9, 
+        "id": "151d0b24008983695d7e3321c02498f5", 
+        "latitude": 55.675514221191406, 
+        "longitude": 12.568753242492676, 
+        "name": "K\u00f8benhavns R\u00e5dhusplads", 
+        "timestamp": "2017-08-15T04:46:36.464000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Lysh\u00f8jg\u00e5rdsvej 47, Copenhagen", 
+          "altitude": 0, 
+          "status": 0, 
+          "uid": 17
+        }, 
+        "free_bikes": 7, 
+        "id": "5ddbb7c2aebf3dc50061da537d0c522e", 
+        "latitude": 55.663490295410156, 
+        "longitude": 12.516571044921875, 
+        "name": "Valby Station / Lysh\u00f8jg\u00e5rdsvej", 
+        "timestamp": "2017-08-15T04:46:36.465000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Roskildevej 34, 2000 Frederiksberg", 
+          "altitude": 29, 
+          "status": 0, 
+          "uid": 16
+        }, 
+        "free_bikes": 27, 
+        "id": "7c9d0f30ac703f552585b68e672c13fa", 
+        "latitude": 55.671695709228516, 
+        "longitude": 12.522477149963379, 
+        "name": "Zoologisk Have", 
+        "timestamp": "2017-08-15T04:46:36.466000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Falkon\u00e9r All\u00e9, 2000 Frederiksberg", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 116
+        }, 
+        "free_bikes": 8, 
+        "id": "54cb6f43ec4e86740ff55bf3f9e24b69", 
+        "latitude": 55.68111038208008, 
+        "longitude": 12.533570289611816, 
+        "name": "Frederiksberg Centret", 
+        "timestamp": "2017-08-15T04:46:36.373000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Dronningensgade 53, 1420 K\u00f8benhavn K", 
+          "altitude": 29, 
+          "status": 0, 
+          "uid": 46
+        }, 
+        "free_bikes": 2, 
+        "id": "a16f97062b0802ba37436e1d12b8850a", 
+        "latitude": 55.672237396240234, 
+        "longitude": 12.592391014099121, 
+        "name": "Dronningensgade / Christianshavn", 
+        "timestamp": "2017-08-15T04:46:36.478000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Amagerbrogade 172, 2300 K\u00f8benhavn S", 
+          "altitude": 9, 
+          "status": 0, 
+          "uid": 44
+        }, 
+        "free_bikes": 23, 
+        "id": "ea09b157c6230091f7f35138ba757bf4", 
+        "latitude": 55.65317153930664, 
+        "longitude": 12.611369132995605, 
+        "name": "Amagerbrogade / Elbagade", 
+        "timestamp": "2017-08-15T04:46:36.481000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "\u00d8sterbrogade 246, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 4, 
+          "status": 0, 
+          "uid": 43
+        }, 
+        "free_bikes": 11, 
+        "id": "3dd49e69232d37ff7dffb06d51ac8167", 
+        "latitude": 55.714900970458984, 
+        "longitude": 12.577899932861328, 
+        "name": "Svanem\u00f8llen Station", 
+        "timestamp": "2017-08-15T04:46:36.484000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Slotsholmsgade 8, 1216 K\u00f8benhavn K", 
+          "altitude": 36, 
+          "status": 0, 
+          "uid": 41
+        }, 
+        "free_bikes": 21, 
+        "id": "77589e135872682811af24fba3889a2e", 
+        "latitude": 55.67530822753906, 
+        "longitude": 12.583168983459473, 
+        "name": "Folketinget / Slotsholmsgade", 
+        "timestamp": "2017-08-15T04:46:36.485000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Refshalevej, 1432 K\u00f8benhavn ", 
+          "altitude": 10, 
+          "status": 0, 
+          "uid": 76
+        }, 
+        "free_bikes": 13, 
+        "id": "848a5518e45556c6cbe38ca58b7a095f", 
+        "latitude": 55.690406799316406, 
+        "longitude": 12.6118803024292, 
+        "name": "Refshalevej", 
+        "timestamp": "2017-08-15T04:46:36.494000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Stefansgade, 2200 K\u00f8benhavn N", 
+          "altitude": 23, 
+          "status": 0, 
+          "uid": 73
+        }, 
+        "free_bikes": 13, 
+        "id": "40a8fe71343da62b400f6c5b6f544d3a", 
+        "latitude": 55.69620132446289, 
+        "longitude": 12.544400215148926, 
+        "name": "Stefansgade", 
+        "timestamp": "2017-08-15T04:46:36.499000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Islevhusvej 40, 2700 Br\u00f8nsh\u00f8j", 
+          "altitude": 21, 
+          "status": 0, 
+          "uid": 72
+        }, 
+        "free_bikes": 12, 
+        "id": "e307d2e913a7edc90e6c3b709b4c3ed1", 
+        "latitude": 55.70909881591797, 
+        "longitude": 12.463899612426758, 
+        "name": "Husum Station", 
+        "timestamp": "2017-08-15T04:46:36.507000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Roskildevej, 2000 Frederiksberg", 
+          "altitude": 19, 
+          "status": 0, 
+          "uid": 78
+        }, 
+        "free_bikes": 5, 
+        "id": "3b9a4a6179eecc5084a9243247251776", 
+        "latitude": 55.67210006713867, 
+        "longitude": 12.506999969482422, 
+        "name": "Roskildevej/Borgmester Fischersvej", 
+        "timestamp": "2017-08-15T04:46:36.522000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Stockholmsgade, 2100 K\u00f8benhavn \u00d8", 
+          "altitude": 15, 
+          "status": 0, 
+          "uid": 80
+        }, 
+        "free_bikes": 19, 
+        "id": "84d47580571b69656cae2f3d730207a6", 
+        "latitude": 55.68960189819336, 
+        "longitude": 12.575599670410156, 
+        "name": "S\u00f8lvtorvet", 
+        "timestamp": "2017-08-15T04:46:36.390000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Sj\u00e6l\u00f8r Blvd. 65, 2500 Valby", 
+          "altitude": 3, 
+          "status": 0, 
+          "uid": 70
+        }, 
+        "free_bikes": 8, 
+        "id": "58e11c243a90c94e1345ebafda65b258", 
+        "latitude": 55.652000427246094, 
+        "longitude": 12.527099609375, 
+        "name": "Sj\u00e6l\u00f8r Station", 
+        "timestamp": "2017-08-15T04:46:36.510000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "address": "Baggesensgade, Copenhagen", 
+          "altitude": 1, 
+          "status": 0, 
+          "uid": 126
+        }, 
+        "free_bikes": 14, 
+        "id": "9ae015f25f6d8ea72ea69bc9e6f4fb4c", 
+        "latitude": 55.68727493286133, 
+        "longitude": 12.558774948120117, 
+        "name": "Baggesensgade", 
+        "timestamp": "2017-08-15T04:46:36.341000Z"
+      }
+    ]
+  }
+}

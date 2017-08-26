@@ -1,0 +1,359 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-university-of-warwick", 
+    "id": "nextbike-university-of-warwick", 
+    "location": {
+      "city": "University of Warwick", 
+      "country": "GB", 
+      "latitude": 52.3815, 
+      "longitude": -1.56159
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "83517", 
+            "83502", 
+            "83593", 
+            "83575"
+          ], 
+          "number": "8310", 
+          "slots": 6, 
+          "uid": "2722433"
+        }, 
+        "free_bikes": 4, 
+        "id": "1efbe3d1bfe8e447a2092cadbd08f849", 
+        "latitude": 52.388066, 
+        "longitude": -1.557142, 
+        "name": "Argent Court", 
+        "timestamp": "2017-08-15T04:50:50.322000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "83534", 
+            "83596"
+          ], 
+          "number": "8314", 
+          "slots": 8, 
+          "uid": "2722448"
+        }, 
+        "free_bikes": 2, 
+        "id": "2719f696dddd6eac40add826d7a17a6b", 
+        "latitude": 52.380958, 
+        "longitude": -1.564613, 
+        "name": "Warwick Business School", 
+        "timestamp": "2017-08-15T04:50:50.331000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "83584", 
+            "83579", 
+            "83557", 
+            "83555"
+          ], 
+          "number": "8311", 
+          "slots": 6, 
+          "uid": "2722441"
+        }, 
+        "free_bikes": 4, 
+        "id": "090f8c7631e85c4be485b4b19b8b07ca", 
+        "latitude": 52.387355, 
+        "longitude": -1.561937, 
+        "name": "Millburn House", 
+        "timestamp": "2017-08-15T04:50:50.323000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "83529", 
+            "83504", 
+            "83577"
+          ], 
+          "number": "8315", 
+          "slots": 10, 
+          "uid": "2722450"
+        }, 
+        "free_bikes": 3, 
+        "id": "30439314dba05e135191243bb13ee5ad", 
+        "latitude": 52.381564, 
+        "longitude": -1.57173, 
+        "name": "Sherbourne Village", 
+        "timestamp": "2017-08-15T04:50:50.332000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "83528", 
+            "83595", 
+            "83590", 
+            "83576", 
+            "83567"
+          ], 
+          "number": "8313", 
+          "slots": 7, 
+          "uid": "2722444"
+        }, 
+        "free_bikes": 5, 
+        "id": "8e4186215e25ae2e7a3ef88e463a70ac", 
+        "latitude": 52.379377, 
+        "longitude": -1.56196, 
+        "name": "Bus Interchange", 
+        "timestamp": "2017-08-15T04:50:50.328000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "83536", 
+            "83589"
+          ], 
+          "number": "8316", 
+          "slots": 5, 
+          "uid": "2722457"
+        }, 
+        "free_bikes": 2, 
+        "id": "f3a8e4f3e0198dffb3a2926980a8d3a3", 
+        "latitude": 52.380656, 
+        "longitude": -1.555935, 
+        "name": "Arthur Vick 1", 
+        "timestamp": "2017-08-15T04:50:50.335000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "83546", 
+            "83526", 
+            "83507", 
+            "83570", 
+            "83559"
+          ], 
+          "number": "8300", 
+          "slots": 6, 
+          "uid": "479530"
+        }, 
+        "free_bikes": 5, 
+        "id": "20aaf3b23542d3c49d4ce8044189b3ae", 
+        "latitude": 52.389254, 
+        "longitude": -1.561928, 
+        "name": "Westwood Residences", 
+        "timestamp": "2017-08-15T04:50:50.292000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "83539", 
+            "83501", 
+            "83580", 
+            "83556"
+          ], 
+          "number": "8301", 
+          "slots": 6, 
+          "uid": "480753"
+        }, 
+        "free_bikes": 4, 
+        "id": "61106e7a3fe7a0ec10953647f71bb87b", 
+        "latitude": 52.377496, 
+        "longitude": -1.559514, 
+        "name": "Bluebell Residences", 
+        "timestamp": "2017-08-15T04:50:50.307000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "83549", 
+            "83545", 
+            "83509", 
+            "83505", 
+            "83599"
+          ], 
+          "number": "8302", 
+          "slots": 9, 
+          "uid": "480757"
+        }, 
+        "free_bikes": 5, 
+        "id": "3c01b36da5f6c14f2a5bb2cbf91e61c7", 
+        "latitude": 52.385273, 
+        "longitude": -1.565521, 
+        "name": "University House", 
+        "timestamp": "2017-08-15T04:50:50.309000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "83537", 
+            "83520", 
+            "83514", 
+            "83503", 
+            "83500"
+          ], 
+          "number": "8306", 
+          "slots": 7, 
+          "uid": "480764"
+        }, 
+        "free_bikes": 5, 
+        "id": "feca7bb3e515b415dbb7a67d116c0248", 
+        "latitude": 52.379592, 
+        "longitude": -1.560214, 
+        "name": "Rootes Grocery Store", 
+        "timestamp": "2017-08-15T04:50:50.315000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "83525", 
+            "83508", 
+            "83583", 
+            "83558", 
+            "83550"
+          ], 
+          "number": "8307", 
+          "slots": 8, 
+          "uid": "480771"
+        }, 
+        "free_bikes": 5, 
+        "id": "e3e0b1f7bacd10ba63a80d0055fd8b4b", 
+        "latitude": 52.374629, 
+        "longitude": -1.551999, 
+        "name": "Gibbet Hill Campus", 
+        "timestamp": "2017-08-15T04:50:50.317000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "83535", 
+            "83512", 
+            "83582", 
+            "83562"
+          ], 
+          "number": "8308", 
+          "slots": 6, 
+          "uid": "480773"
+        }, 
+        "free_bikes": 4, 
+        "id": "18320b8b26426fe2728e13a61aa99f33", 
+        "latitude": 52.383463, 
+        "longitude": -1.557215, 
+        "name": "Claycroft Residence", 
+        "timestamp": "2017-08-15T04:50:50.320000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "83538", 
+            "83533", 
+            "83592", 
+            "83586", 
+            "83563"
+          ], 
+          "number": "8304", 
+          "slots": 9, 
+          "uid": "480763"
+        }, 
+        "free_bikes": 5, 
+        "id": "17c7860e9657b14a361c93ebe5df343a", 
+        "latitude": 52.382367842, 
+        "longitude": -1.561142206192, 
+        "name": "Library Road", 
+        "timestamp": "2017-08-15T04:50:50.313000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "83522", 
+            "83519", 
+            "83515", 
+            "83598", 
+            "83573"
+          ], 
+          "number": "8303", 
+          "slots": 14, 
+          "uid": "480760"
+        }, 
+        "free_bikes": 5, 
+        "id": "31b2081083f798d1ff1bd71f57244742", 
+        "latitude": 52.38018, 
+        "longitude": -1.569743, 
+        "name": "Lakeside Residences", 
+        "timestamp": "2017-08-15T04:50:50.311000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "83548", 
+            "83544", 
+            "83591", 
+            "83554"
+          ], 
+          "number": "8305", 
+          "slots": 6, 
+          "uid": "480768"
+        }, 
+        "free_bikes": 4, 
+        "id": "ea672d5bff3883d231c89765ceb0a3aa", 
+        "latitude": 52.381742, 
+        "longitude": -1.558572, 
+        "name": "Warwick Sports Centre", 
+        "timestamp": "2017-08-15T04:50:50.316000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "83547", 
+            "83523", 
+            "83578", 
+            "83572", 
+            "83569"
+          ], 
+          "number": "8312", 
+          "slots": 7, 
+          "uid": "2722443"
+        }, 
+        "free_bikes": 5, 
+        "id": "7ca4248f2d4f21b29b0582ecd49b9279", 
+        "latitude": 52.3769, 
+        "longitude": -1.565449, 
+        "name": "Milking Parlour", 
+        "timestamp": "2017-08-15T04:50:50.326000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "83597", 
+            "83588"
+          ], 
+          "number": "8317", 
+          "slots": 5, 
+          "uid": "2722459"
+        }, 
+        "free_bikes": 2, 
+        "id": "c96578dc6ab4afc9602139acd213b4d3", 
+        "latitude": 52.380173, 
+        "longitude": -1.555575, 
+        "name": "Arthur Vick 2", 
+        "timestamp": "2017-08-15T04:50:50.337000Z"
+      }
+    ]
+  }
+}

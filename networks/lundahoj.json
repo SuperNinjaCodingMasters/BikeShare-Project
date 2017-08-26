@@ -1,0 +1,292 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/lundahoj", 
+    "id": "lundahoj", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Lund", 
+      "country": "SE", 
+      "latitude": 55.7046601, 
+      "longitude": 13.1910073
+    }, 
+    "name": "Lundahoj", 
+    "stations": [
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772121000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 0, 
+        "id": "63413709dbe458d8416d4432da8a645a", 
+        "latitude": 55.7128579364781, 
+        "longitude": 13.1967929005623, 
+        "name": "UNIVERSITETSSJUKHUSET", 
+        "timestamp": "2017-08-15T04:49:35.845000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771938000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 9, 
+        "id": "6eae6c96dc7a57479a882e39676d441d", 
+        "latitude": 55.7008134312229, 
+        "longitude": 13.1956234574318, 
+        "name": "GALTEN", 
+        "timestamp": "2017-08-15T04:49:35.848000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772161000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 11, 
+        "id": "3a7cf3adb5b51863f0ad76a84248c5e2", 
+        "latitude": 55.7013726686025, 
+        "longitude": 13.1856563687325, 
+        "name": "STADSPARKEN NORR", 
+        "timestamp": "2017-08-15T04:49:35.849000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772336000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 3, 
+        "id": "b868fc2fe2e8cd40bf193ffe0b5bd2c3", 
+        "latitude": 55.709632, 
+        "longitude": 13.20595, 
+        "name": "PROFESSORSGATAN", 
+        "timestamp": "2017-08-15T04:49:35.850000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772431000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 18, 
+        "id": "f4f343dba6ee93a2bde97fdaeda667f4", 
+        "latitude": 55.7029777865809, 
+        "longitude": 13.1933650374413, 
+        "name": "STORTORGET", 
+        "timestamp": "2017-08-15T04:49:35.852000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771999000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 1, 
+        "id": "5e753e307769e2d1dd9e67c75485dc9c", 
+        "latitude": 55.7059732259213, 
+        "longitude": 13.201240003109, 
+        "name": "BOTANISKA TR\u00c4DG\u00c5RDEN", 
+        "timestamp": "2017-08-15T04:49:35.853000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772256000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 40, 
+        "id": "93224a7349c51fe7644d749418652ad6", 
+        "latitude": 55.7065202995297, 
+        "longitude": 13.1874185800552, 
+        "name": "LUNDS CENTRAL", 
+        "timestamp": "2017-08-15T04:49:35.855000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772315000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 15, 
+        "id": "4eb7341d65a7822cac53e3545059c8cc", 
+        "latitude": 55.710366, 
+        "longitude": 13.192236, 
+        "name": "ALLHELGONAKYRKAN", 
+        "timestamp": "2017-08-15T04:49:35.843000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772491000, 
+          "slots": 33, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 30, 
+        "id": "0f4c9329d47b9bf2d40c317d7ad80498", 
+        "latitude": 55.7019107380952, 
+        "longitude": 13.196025788784, 
+        "name": "M\u00c5RTENSTORGET", 
+        "timestamp": "2017-08-15T04:49:35.846000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772242000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 25, 
+        "id": "33ad42a81ab4686112d56258838f80fe", 
+        "latitude": 55.7042412794077, 
+        "longitude": 13.1876116991043, 
+        "name": "BANTORGET", 
+        "timestamp": "2017-08-15T04:49:35.847000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772090000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 1, 
+        "id": "dd8e29d179c9fc44db5f7781d7f152bf", 
+        "latitude": 55.7080949824667, 
+        "longitude": 13.1963047385216, 
+        "name": "UNIVERSITETSBIBLIOTEKET", 
+        "timestamp": "2017-08-15T04:49:35.850000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772184000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 2, 
+        "id": "469d9e78f2d6ee3ded8ad2c4209e714a", 
+        "latitude": 55.7134230454044, 
+        "longitude": 13.2011756300926, 
+        "name": "BMC", 
+        "timestamp": "2017-08-15T04:49:35.851000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772501000, 
+          "slots": 39, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 12, 
+        "id": "7d47b85dd83d2b2dd65730d42e10f672", 
+        "latitude": 55.709257, 
+        "longitude": 13.214571, 
+        "name": "SPARTA", 
+        "timestamp": "2017-08-15T04:49:35.854000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502759001000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 3, 
+        "id": "edfe34982a63c8ca5f7fee8ef4bdeba8", 
+        "latitude": 55.712961, 
+        "longitude": 13.213704, 
+        "name": "IDEON S\u00d6DER", 
+        "timestamp": "2017-08-15T04:49:35.856000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772507000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 0, 
+        "id": "e71ef03e4ccb024ada2d87660b0d8885", 
+        "latitude": 55.710874, 
+        "longitude": 13.202782, 
+        "name": "FYSIOLOGEN", 
+        "timestamp": "2017-08-15T04:49:35.856000Z"
+      }
+    ]
+  }
+}

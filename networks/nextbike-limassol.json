@@ -1,0 +1,474 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-limassol", 
+    "id": "nextbike-limassol", 
+    "location": {
+      "city": "Limassol", 
+      "country": "CY", 
+      "latitude": 34.6823, 
+      "longitude": 33.0464
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "67514", 
+            "67513", 
+            "67558", 
+            "67609"
+          ], 
+          "number": "6766", 
+          "slots": 8, 
+          "uid": "166403"
+        }, 
+        "free_bikes": 4, 
+        "id": "a1dfe8cc46acacedc963abea88903414", 
+        "latitude": 34.661663735135, 
+        "longitude": 33.018443584442, 
+        "name": "Limani/port", 
+        "timestamp": "2017-08-15T04:47:51.011000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "67598", 
+            "67652", 
+            "67619"
+          ], 
+          "number": "6761", 
+          "uid": "187930"
+        }, 
+        "free_bikes": 3, 
+        "id": "8e850eb56e56bf78d118dea0c588fb4a", 
+        "latitude": 34.675151242065, 
+        "longitude": 33.042202591896, 
+        "name": "Athinon 1", 
+        "timestamp": "2017-08-15T04:47:51.019000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "67541", 
+            "67533", 
+            "67532", 
+            "67566"
+          ], 
+          "number": "6756", 
+          "slots": 8, 
+          "uid": "117202"
+        }, 
+        "free_bikes": 4, 
+        "id": "bd157793a361682f450a67696115b99e", 
+        "latitude": 34.683157996721, 
+        "longitude": 32.607207298279, 
+        "name": "Aphrodite hills Village Square", 
+        "timestamp": "2017-08-15T04:47:50.961000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "67525", 
+            "67519", 
+            "67620", 
+            "67597", 
+            "67646"
+          ], 
+          "number": "6754", 
+          "slots": 16, 
+          "uid": "117210"
+        }, 
+        "free_bikes": 5, 
+        "id": "9a8188536738a7575fe15f2c613fb7a9", 
+        "latitude": 34.696381783453, 
+        "longitude": 33.089355826378, 
+        "name": "Potamos Yermasoyias", 
+        "timestamp": "2017-08-15T04:47:50.982000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "67583", 
+            "67573", 
+            "67668", 
+            "67629"
+          ], 
+          "number": "6758", 
+          "uid": "249692"
+        }, 
+        "free_bikes": 4, 
+        "id": "f568ba68eb0e2c1c7a67c88638f9ee03", 
+        "latitude": 34.676929117262, 
+        "longitude": 33.038442134857, 
+        "name": "Tepak Uni Gym", 
+        "timestamp": "2017-08-15T04:47:51.020000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "67549", 
+            "67538", 
+            "67535", 
+            "67531", 
+            "67516"
+          ], 
+          "number": "6750", 
+          "slots": 20, 
+          "uid": "349446"
+        }, 
+        "free_bikes": 5, 
+        "id": "03bc78a545d068bf31af247b803d4f62", 
+        "latitude": 34.678005529353, 
+        "longitude": 33.051424026489, 
+        "name": "Molos", 
+        "timestamp": "2017-08-15T04:47:51.024000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "67589", 
+            "67587", 
+            "67627"
+          ], 
+          "number": "6753", 
+          "slots": 4, 
+          "uid": "117205"
+        }, 
+        "free_bikes": 3, 
+        "id": "9b26ef4d15c36bfef0a40c726810489a", 
+        "latitude": 34.674379200008, 
+        "longitude": 33.028947114945, 
+        "name": "Misiaouli & kavazoglou", 
+        "timestamp": "2017-08-15T04:47:50.963000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "67512", 
+            "67563", 
+            "67664", 
+            "67637"
+          ], 
+          "number": "6757", 
+          "slots": 5, 
+          "uid": "124869"
+        }, 
+        "free_bikes": 4, 
+        "id": "6046aca2a9f017448ecd6d8b0ce5c00c", 
+        "latitude": 34.682341916666, 
+        "longitude": 33.032004833221, 
+        "name": "Leontiou, CHS Fitness Club", 
+        "timestamp": "2017-08-15T04:47:50.984000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "67671", 
+            "67650"
+          ], 
+          "number": "6759", 
+          "uid": "1030659"
+        }, 
+        "free_bikes": 2, 
+        "id": "83f20fe147cfb4d4aec7dafbb3bed717", 
+        "latitude": 34.674480668803, 
+        "longitude": 33.025766015053, 
+        "name": "Pefkos Hotel", 
+        "timestamp": "2017-08-15T04:47:51.030000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "67548", 
+            "67520", 
+            "67508", 
+            "67551", 
+            "67550"
+          ], 
+          "number": "6767", 
+          "slots": 20, 
+          "uid": "115696"
+        }, 
+        "free_bikes": 5, 
+        "id": "2352039807768c641c4bfc5ef5fd8fbd", 
+        "latitude": 34.672040971591, 
+        "longitude": 33.043613433838, 
+        "name": "OLD PORT", 
+        "timestamp": "2017-08-15T04:47:50.941000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "67523", 
+            "67503", 
+            "67622", 
+            "67596", 
+            "67591"
+          ], 
+          "number": "6751", 
+          "slots": 16, 
+          "uid": "117206"
+        }, 
+        "free_bikes": 5, 
+        "id": "fa32acf9c94195f6495708ebc1a8c29f", 
+        "latitude": 34.687648498736, 
+        "longitude": 33.067372441292, 
+        "name": "Crowne Plaza ", 
+        "timestamp": "2017-08-15T04:47:50.966000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "67542", 
+            "67624", 
+            "67617", 
+            "67571"
+          ], 
+          "number": "6752", 
+          "slots": 12, 
+          "uid": "117207"
+        }, 
+        "free_bikes": 4, 
+        "id": "9815f2f0bca1d79c9ff72916dfe7784c", 
+        "latitude": 34.714374736868, 
+        "longitude": 33.162778615952, 
+        "name": "Pareklisia Grand Resort", 
+        "timestamp": "2017-08-15T04:47:50.974000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "67544", 
+            "67534", 
+            "67526", 
+            "67521", 
+            "67564"
+          ], 
+          "number": "6755", 
+          "slots": 20, 
+          "uid": "117209"
+        }, 
+        "free_bikes": 5, 
+        "id": "d7870f3774a9114d9a0d99d49a020de2", 
+        "latitude": 34.692156400153, 
+        "longitude": 33.079512119293, 
+        "name": "Dasoudi", 
+        "timestamp": "2017-08-15T04:47:50.979000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "67547", 
+            "67546", 
+            "67500", 
+            "67644"
+          ], 
+          "number": "6763", 
+          "slots": 8, 
+          "uid": "166392"
+        }, 
+        "free_bikes": 4, 
+        "id": "26e61082b3cd7c7de9568a8f85f07ebe", 
+        "latitude": 34.692756258937, 
+        "longitude": 33.063504695892, 
+        "name": " The Market Fair", 
+        "timestamp": "2017-08-15T04:47:50.986000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "67540", 
+            "67567", 
+            "67663", 
+            "67655"
+          ], 
+          "number": "6760", 
+          "slots": 13, 
+          "uid": "166395"
+        }, 
+        "free_bikes": 4, 
+        "id": "faae795feb95a8d8abba79138388b43c", 
+        "latitude": 34.676121799012, 
+        "longitude": 33.044584393501, 
+        "name": "A Themistokleous", 
+        "timestamp": "2017-08-15T04:47:50.993000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "67506", 
+            "67501", 
+            "67595", 
+            "67642"
+          ], 
+          "number": "6762", 
+          "slots": 12, 
+          "uid": "166399"
+        }, 
+        "free_bikes": 4, 
+        "id": "cfd7f77ec02579f53739cc77e31d4e32", 
+        "latitude": 34.659722271069, 
+        "longitude": 33.019988536835, 
+        "name": "New Port", 
+        "timestamp": "2017-08-15T04:47:50.995000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "67522", 
+            "67572", 
+            "67667", 
+            "67656", 
+            "67638"
+          ], 
+          "number": "6764", 
+          "slots": 10, 
+          "uid": "166401"
+        }, 
+        "free_bikes": 5, 
+        "id": "fe427012cb7aa4174378d1d0d5470a14", 
+        "latitude": 34.652794403586, 
+        "longitude": 32.997334599495, 
+        "name": "My Mall", 
+        "timestamp": "2017-08-15T04:47:51.001000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "67543", 
+            "67590", 
+            "67578"
+          ], 
+          "number": "6765", 
+          "slots": 6, 
+          "uid": "166402"
+        }, 
+        "free_bikes": 3, 
+        "id": "7e395bf5f0b447d82ffb288ca99bc718", 
+        "latitude": 34.678834886503, 
+        "longitude": 33.045169115066, 
+        "name": "Plateia Iron", 
+        "timestamp": "2017-08-15T04:47:51.007000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "67562", 
+            "67621", 
+            "67588", 
+            "67569", 
+            "67657"
+          ], 
+          "number": "6768", 
+          "slots": 20, 
+          "uid": "166405"
+        }, 
+        "free_bikes": 5, 
+        "id": "e192d08650f1948cd7f76f40c27fc477", 
+        "latitude": 34.684357840358, 
+        "longitude": 33.060339689255, 
+        "name": "Enaerios", 
+        "timestamp": "2017-08-15T04:47:51.012000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "67524", 
+            "67507", 
+            "67505", 
+            "67560", 
+            "67553"
+          ], 
+          "number": "6769", 
+          "slots": 20, 
+          "uid": "183749"
+        }, 
+        "free_bikes": 5, 
+        "id": "151011ff551df2bcb414bdfd665ebe0b", 
+        "latitude": 34.703729378819, 
+        "longitude": 33.110797405243, 
+        "name": "Ladas/parking", 
+        "timestamp": "2017-08-15T04:47:51.014000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "67545", 
+            "67539", 
+            "67613", 
+            "67602", 
+            "67576"
+          ], 
+          "number": "6770", 
+          "slots": 13, 
+          "uid": "183750"
+        }, 
+        "free_bikes": 5, 
+        "id": "a0ad3b1b849430c8dda7714b29ebed82", 
+        "latitude": 34.706366591854, 
+        "longitude": 33.118640184403, 
+        "name": "Armonia", 
+        "timestamp": "2017-08-15T04:47:51.016000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "67559", 
+            "67554", 
+            "67580", 
+            "67672", 
+            "67661"
+          ], 
+          "number": "6771", 
+          "slots": 10, 
+          "uid": "183751"
+        }, 
+        "free_bikes": 5, 
+        "id": "f90429a13ff078c9f70ac6d9405c4161", 
+        "latitude": 34.709559359344, 
+        "longitude": 33.133746385574, 
+        "name": "Amathus", 
+        "timestamp": "2017-08-15T04:47:51.017000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "number": "6772", 
+          "slots": 2, 
+          "uid": "488321"
+        }, 
+        "free_bikes": 0, 
+        "id": "2227765aa9e3f8d60f4989d96a4747f7", 
+        "latitude": 34.681971369554, 
+        "longitude": 33.039874434471, 
+        "name": "Lemongrass Hostel", 
+        "timestamp": "2017-08-15T04:47:51.026000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,963 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_sanantonio/gbfs.json", 
+    "href": "/v2/networks/sanantonio", 
+    "id": "sanantonio", 
+    "location": {
+      "city": "San Antonio, TX", 
+      "country": "US", 
+      "latitude": 29.43701, 
+      "longitude": -98.48236
+    }, 
+    "name": "San Antonio B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1414 S. Alamo St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1825"
+        }, 
+        "free_bikes": 15, 
+        "id": "6955d2d2bb7c95b2524aae2b0b0aed17", 
+        "latitude": 29.40944, 
+        "longitude": -98.49498, 
+        "name": "Blue Star", 
+        "timestamp": "2017-08-15T04:48:34.566000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "S. Alamo @ Nueva St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1819"
+        }, 
+        "free_bikes": 5, 
+        "id": "7e775a601072889566c182dd065089cb", 
+        "latitude": 29.42078, 
+        "longitude": -98.48818, 
+        "name": "S. Alamo@Nueva", 
+        "timestamp": "2017-08-15T04:48:34.481000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "317 Alamo Plaza", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1961"
+        }, 
+        "free_bikes": 3, 
+        "id": "640fc0686f842641be86d914af2fd04b", 
+        "latitude": 29.42577, 
+        "longitude": -98.48729, 
+        "name": "Visitor's Center", 
+        "timestamp": "2017-08-15T04:48:34.478000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Mission Rd. at Mission Pkwy", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2158"
+        }, 
+        "free_bikes": 7, 
+        "id": "ed9b5d7e26b49d974801f4782ebb2d5a", 
+        "latitude": 29.37846, 
+        "longitude": -98.48889, 
+        "name": "Mission Road", 
+        "timestamp": "2017-08-15T04:48:34.513000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "800 VFW Blvd.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2159"
+        }, 
+        "free_bikes": 6, 
+        "id": "6d44980cb505c30ecc629929db9c167b", 
+        "latitude": 29.37011, 
+        "longitude": -98.47693, 
+        "name": "VFW Blvd", 
+        "timestamp": "2017-08-15T04:48:34.514000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "42 Mission Road", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2137"
+        }, 
+        "free_bikes": 7, 
+        "id": "bde4e78a59f36c5834215417d582ae9c", 
+        "latitude": 29.40055, 
+        "longitude": -98.48852, 
+        "name": "Roosevelt Park", 
+        "timestamp": "2017-08-15T04:48:34.560000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "101 W Evergreen St", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_3641"
+        }, 
+        "free_bikes": 7, 
+        "id": "b29e607348d1bf995df18e4b9409c701", 
+        "latitude": 29.44284, 
+        "longitude": -98.49489, 
+        "name": "101 W Evergreen", 
+        "timestamp": "2017-08-15T04:48:34.503000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "278 W Market", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2413"
+        }, 
+        "free_bikes": 6, 
+        "id": "e4eecb2b0e5c3d1f49b1e8c9e4029187", 
+        "latitude": 29.42332, 
+        "longitude": -98.48903, 
+        "name": "USO", 
+        "timestamp": "2017-08-15T04:48:34.493000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "123 Padre Drive", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2421"
+        }, 
+        "free_bikes": 12, 
+        "id": "267d06b64de32198eadd945ce4553f16", 
+        "latitude": 29.36793, 
+        "longitude": -98.47618, 
+        "name": "Mission Park Pavilions", 
+        "timestamp": "2017-08-15T04:48:34.512000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "9101 Graf Road", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2339"
+        }, 
+        "free_bikes": 12, 
+        "id": "f2cc3a2c3eb82c4e585733ece282890f", 
+        "latitude": 29.33424, 
+        "longitude": -98.45535, 
+        "name": "Mission San Juan", 
+        "timestamp": "2017-08-15T04:48:34.494000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "S. Alamo @ Cesar Chavez", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1827"
+        }, 
+        "free_bikes": 5, 
+        "id": "8fff11a59b7c3ea6dae47301212646dc", 
+        "latitude": 29.41909, 
+        "longitude": -98.48803, 
+        "name": "Central Hub", 
+        "timestamp": "2017-08-15T04:48:34.565000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "285 Mission Pkwy.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2856"
+        }, 
+        "free_bikes": 9, 
+        "id": "60ba7d65af5be2815865311d7b1e8cff", 
+        "latitude": 29.35324, 
+        "longitude": -98.46937, 
+        "name": "285 Mission Parkway", 
+        "timestamp": "2017-08-15T04:48:34.496000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "200 W. Jones Ave.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1813"
+        }, 
+        "free_bikes": 6, 
+        "id": "f47fa7aa484f168be53da1d6e6577644", 
+        "latitude": 29.43701, 
+        "longitude": -98.48236, 
+        "name": "S.A. Museum of Art", 
+        "timestamp": "2017-08-15T04:48:34.489000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1224 Navarro St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1815"
+        }, 
+        "free_bikes": 7, 
+        "id": "8cd3d1cc5e3f135ab590eb411361ea8d", 
+        "latitude": 29.43257, 
+        "longitude": -98.4922, 
+        "name": "S.A. Central Library", 
+        "timestamp": "2017-08-15T04:48:34.488000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "100 N Santa Rosa", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1816"
+        }, 
+        "free_bikes": 4, 
+        "id": "f579efe109c7378204e762f8abb1ddf9", 
+        "latitude": 29.4263, 
+        "longitude": -98.49825, 
+        "name": "Milam Park", 
+        "timestamp": "2017-08-15T04:48:34.486000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Main Plaza @ S. Flores St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1817"
+        }, 
+        "free_bikes": 5, 
+        "id": "9ec591a804982ae95239184f5b326036", 
+        "latitude": 29.42479, 
+        "longitude": -98.49442, 
+        "name": "Main Plaza", 
+        "timestamp": "2017-08-15T04:48:34.487000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "E. Houston at Alamo St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1820"
+        }, 
+        "free_bikes": 5, 
+        "id": "b1082c54157584bb213775d3eab7c89a", 
+        "latitude": 29.4265, 
+        "longitude": -98.48703, 
+        "name": "Alamo Plaza", 
+        "timestamp": "2017-08-15T04:48:34.577000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "219 Chestnut St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1821"
+        }, 
+        "free_bikes": 9, 
+        "id": "a71b19111f4bd19784c248161bf60cd4", 
+        "latitude": 29.42277, 
+        "longitude": -98.48011, 
+        "name": "Ellis Alley ", 
+        "timestamp": "2017-08-15T04:48:34.573000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "600 Hemisfair Plaza Way", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1823"
+        }, 
+        "free_bikes": 9, 
+        "id": "cbb89b9942f6b50a13c853bc89b35a77", 
+        "latitude": 29.41942, 
+        "longitude": -98.48487, 
+        "name": "Hemisfair Park", 
+        "timestamp": "2017-08-15T04:48:34.571000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "825 S. St. Mary's St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1824"
+        }, 
+        "free_bikes": 1, 
+        "id": "987eba2d382e519c490018d4746b4fbc", 
+        "latitude": 29.41595, 
+        "longitude": -98.48974, 
+        "name": "S. St. Mary's@S. Alamo", 
+        "timestamp": "2017-08-15T04:48:34.567000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "136 East Grayson St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1849"
+        }, 
+        "free_bikes": 15, 
+        "id": "a418655097448a80c57d738a3682f8f8", 
+        "latitude": 29.44341, 
+        "longitude": -98.48085, 
+        "name": "Pearl@Hotel Emma", 
+        "timestamp": "2017-08-15T04:48:34.578000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "1111 S. Alamo St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1960"
+        }, 
+        "free_bikes": 3, 
+        "id": "ed46817dd6c8074b05c7edc4f53cda8a", 
+        "latitude": 29.41234, 
+        "longitude": -98.49193, 
+        "name": "1111 S. Alamo", 
+        "timestamp": "2017-08-15T04:48:34.475000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "202 Avenue A ", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2058"
+        }, 
+        "free_bikes": 6, 
+        "id": "858ffe84fa1b72f1bf545001d1810826", 
+        "latitude": 29.4376, 
+        "longitude": -98.48084, 
+        "name": "1221 Broadway", 
+        "timestamp": "2017-08-15T04:48:34.554000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Labor & Santos", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2059"
+        }, 
+        "free_bikes": 11, 
+        "id": "79ab712ab72f17d8dedc5eae5273d9eb", 
+        "latitude": 29.41535, 
+        "longitude": -98.48385, 
+        "name": "Labor@Santos", 
+        "timestamp": "2017-08-15T04:48:34.550000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Main St. @ E. Pecan St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2136"
+        }, 
+        "free_bikes": 7, 
+        "id": "4b11ffef5ec53a15c28ad8e96c33ccb7", 
+        "latitude": 29.42849, 
+        "longitude": -98.49374, 
+        "name": "Weston Centre", 
+        "timestamp": "2017-08-15T04:48:34.559000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "936 S. Presa St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2210"
+        }, 
+        "free_bikes": 14, 
+        "id": "24e5a5528549979e9328ccbdb59ee110", 
+        "latitude": 29.41094, 
+        "longitude": -98.48728, 
+        "name": "Ace Mart", 
+        "timestamp": "2017-08-15T04:48:34.581000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "487 Hoefgen Ave.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2211"
+        }, 
+        "free_bikes": 8, 
+        "id": "8ebd9a4feeb55b51b7144b0e952edb79", 
+        "latitude": 29.4196, 
+        "longitude": -98.4783, 
+        "name": "Sunset Station", 
+        "timestamp": "2017-08-15T04:48:34.545000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "3874 N St. Mary's", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2212"
+        }, 
+        "free_bikes": 11, 
+        "id": "689fcf64ae48d67bc934a7eaaf6a31db", 
+        "latitude": 29.4611, 
+        "longitude": -98.47447, 
+        "name": "SA Zoo", 
+        "timestamp": "2017-08-15T04:48:34.583000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "3233 N St. Mary's", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2213"
+        }, 
+        "free_bikes": 8, 
+        "id": "2807f86960735161a7ca2db3120c80b4", 
+        "latitude": 29.45447, 
+        "longitude": -98.48267, 
+        "name": "YMCA Tripoint", 
+        "timestamp": "2017-08-15T04:48:34.582000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "3787 N Avenue B", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2214"
+        }, 
+        "free_bikes": 10, 
+        "id": "903ebe77077e63856057ac4df5e02280", 
+        "latitude": 29.46125, 
+        "longitude": -98.468, 
+        "name": "Witte @ Parking Garage", 
+        "timestamp": "2017-08-15T04:48:34.591000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1901 S Alamo", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2340"
+        }, 
+        "free_bikes": 5, 
+        "id": "cd16a60ee002a887fbbebf1d65be3499", 
+        "latitude": 29.4115, 
+        "longitude": -98.50094, 
+        "name": "1901 S Alamo", 
+        "timestamp": "2017-08-15T04:48:34.508000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "524 S Flores", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2341"
+        }, 
+        "free_bikes": 6, 
+        "id": "c53e630833619f59364968e26dc6732d", 
+        "latitude": 29.41935, 
+        "longitude": -98.4969, 
+        "name": "Flores @ Cesar Chavez", 
+        "timestamp": "2017-08-15T04:48:34.506000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "115 E Crockett Street", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2342"
+        }, 
+        "free_bikes": 8, 
+        "id": "80f77535a0de513e4eff292ada74d08c", 
+        "latitude": 29.42509, 
+        "longitude": -98.48825, 
+        "name": "Crockett Street", 
+        "timestamp": "2017-08-15T04:48:34.505000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "200 N Main Street", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2407"
+        }, 
+        "free_bikes": 4, 
+        "id": "1565380d797a4bda7f383231d2aff486", 
+        "latitude": 29.42651, 
+        "longitude": -98.49363, 
+        "name": "Geekdom", 
+        "timestamp": "2017-08-15T04:48:34.529000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "305 E Houston", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2414"
+        }, 
+        "free_bikes": 3, 
+        "id": "d12064ed8cfd0376da70ee52aa62a3eb", 
+        "latitude": 29.4265, 
+        "longitude": -98.48938, 
+        "name": "305 E. Houston", 
+        "timestamp": "2017-08-15T04:48:34.470000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "100 E. Locust ", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2416"
+        }, 
+        "free_bikes": 11, 
+        "id": "313c6f91d7e8efa4a8de520927847a21", 
+        "latitude": 29.44598, 
+        "longitude": -98.49362, 
+        "name": "Eco Centro", 
+        "timestamp": "2017-08-15T04:48:34.467000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "498 Richmond Avenue", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2417"
+        }, 
+        "free_bikes": 4, 
+        "id": "79803f139dc0b8b80406b325047478b2", 
+        "latitude": 29.43397, 
+        "longitude": -98.49206, 
+        "name": "Madison Square Park", 
+        "timestamp": "2017-08-15T04:48:34.465000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "10040 Espada Drive", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2422"
+        }, 
+        "free_bikes": 10, 
+        "id": "1de03354d65788580dd35b8de2f145ca", 
+        "latitude": 29.31931, 
+        "longitude": -98.4511, 
+        "name": "Mission Espada", 
+        "timestamp": "2017-08-15T04:48:34.509000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "103 E Jones Ave", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2423"
+        }, 
+        "free_bikes": 4, 
+        "id": "a3f33c29ff9e61bad99687a84b0e616b", 
+        "latitude": 29.43634, 
+        "longitude": -98.48047, 
+        "name": "The Luxury", 
+        "timestamp": "2017-08-15T04:48:34.462000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1300 San Pedro @ Candler", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_3386"
+        }, 
+        "free_bikes": 11, 
+        "id": "37aab9288a51f06b26bcaf2e4b48699b", 
+        "latitude": 29.44596, 
+        "longitude": -98.49818, 
+        "name": "SAC @ Candler", 
+        "timestamp": "2017-08-15T04:48:34.521000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1800 Broadway", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2420"
+        }, 
+        "free_bikes": 11, 
+        "id": "568ba66bfea106c89ce76bb6a6e27f4a", 
+        "latitude": 29.4429, 
+        "longitude": -98.47669, 
+        "name": "1800 Broadway", 
+        "timestamp": "2017-08-15T04:48:34.511000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1015 Navarro St.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1959"
+        }, 
+        "free_bikes": 3, 
+        "id": "23e8819bf2ac63c0e43babda2f3296b7", 
+        "latitude": 29.43084, 
+        "longitude": -98.48969, 
+        "name": "Hotel Havana", 
+        "timestamp": "2017-08-15T04:48:34.555000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Valero Place @ Stadium Drive", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1822"
+        }, 
+        "free_bikes": 5, 
+        "id": "c61dbc35c7ff26d2f46437b6d6573715", 
+        "latitude": 29.45837, 
+        "longitude": -98.48062, 
+        "name": "S.A.W.S.", 
+        "timestamp": "2017-08-15T04:48:34.572000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "379 Stadium Dr", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_3640"
+        }, 
+        "free_bikes": 7, 
+        "id": "7e9c02a45ea3ca973327842b7c14ee1d", 
+        "latitude": 29.4612, 
+        "longitude": -98.48106, 
+        "name": "Stadium Dr @ Jesse Jones Rec Area", 
+        "timestamp": "2017-08-15T04:48:34.504000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "301 E Travis St,", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2451"
+        }, 
+        "free_bikes": 4, 
+        "id": "de4a5e8b35269380061406871f7e5699", 
+        "latitude": 29.42764, 
+        "longitude": -98.48951, 
+        "name": "Travis Park", 
+        "timestamp": "2017-08-15T04:48:34.452000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Cesar Chavez @ S. Presa", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2000"
+        }, 
+        "free_bikes": 13, 
+        "id": "547270e4428cf0dfe8ac855bac30d4d7", 
+        "latitude": 29.41816, 
+        "longitude": -98.49002, 
+        "name": "Cesar Chavez@S. St. Mary's", 
+        "timestamp": "2017-08-15T04:48:34.463000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2000 S. Presa ", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2415"
+        }, 
+        "free_bikes": 12, 
+        "id": "447edfb12acf6d49c594522ef7fbcbc8", 
+        "latitude": 29.40168, 
+        "longitude": -98.48269, 
+        "name": "Freetail Brewery", 
+        "timestamp": "2017-08-15T04:48:34.468000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "300 W Mitchell St", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2857"
+        }, 
+        "free_bikes": 7, 
+        "id": "6a287e0d3a4667d259a01d7beeaee7d3", 
+        "latitude": 29.39311, 
+        "longitude": -98.49522, 
+        "name": "Confluence Park", 
+        "timestamp": "2017-08-15T04:48:34.495000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "807 Mission Rd.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2157"
+        }, 
+        "free_bikes": 11, 
+        "id": "93eecdeafa72677afbd47feb27742d7e", 
+        "latitude": 29.38994, 
+        "longitude": -98.49174, 
+        "name": "Mission Concepcion", 
+        "timestamp": "2017-08-15T04:48:34.518000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "6701 San Jose Dr.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2160"
+        }, 
+        "free_bikes": 10, 
+        "id": "a263f20cf6002832590625c5dce74ca4", 
+        "latitude": 29.36014, 
+        "longitude": -98.47968, 
+        "name": "Mission San Jose", 
+        "timestamp": "2017-08-15T04:48:34.464000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "400 Mission Trail", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2335"
+        }, 
+        "free_bikes": 13, 
+        "id": "c0150e6024a41b76ac403ad283cb4971", 
+        "latitude": 29.34676, 
+        "longitude": -98.46291, 
+        "name": "Acequia Park", 
+        "timestamp": "2017-08-15T04:48:34.593000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "600 E. Theo Ave.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2156"
+        }, 
+        "free_bikes": 12, 
+        "id": "a4839b63e3cfd6b3aa9b14b64f9d8140", 
+        "latitude": 29.38812, 
+        "longitude": -98.49738, 
+        "name": "Concepcion Park", 
+        "timestamp": "2017-08-15T04:48:34.515000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "423 Blue Star", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2338"
+        }, 
+        "free_bikes": 7, 
+        "id": "0cab01506f33aaa5093ab9e02023a30c", 
+        "latitude": 29.40452, 
+        "longitude": -98.49091, 
+        "name": "423 Blue Star", 
+        "timestamp": "2017-08-15T04:48:34.510000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "827 S. Main Ave.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2060"
+        }, 
+        "free_bikes": 13, 
+        "id": "5435621b2f649b1f320ebfda610f2d61", 
+        "latitude": 29.41485, 
+        "longitude": -98.49699, 
+        "name": "Main@Sheridan", 
+        "timestamp": "2017-08-15T04:48:34.473000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "S. Flores @ Nueva", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1958"
+        }, 
+        "free_bikes": 7, 
+        "id": "6f213d18e91e7ee2c838d09ba100185e", 
+        "latitude": 29.42265, 
+        "longitude": -98.49537, 
+        "name": "Bexar County Garage", 
+        "timestamp": "2017-08-15T04:48:34.556000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Dolorosa St. @ Market Sq.", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_1818"
+        }, 
+        "free_bikes": 4, 
+        "id": "fbb431e2e3789a6797534be4cfbf4be2", 
+        "latitude": 29.42454, 
+        "longitude": -98.49949, 
+        "name": "Market Square", 
+        "timestamp": "2017-08-15T04:48:34.480000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Mission Trail", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_2337"
+        }, 
+        "free_bikes": 8, 
+        "id": "d57862f800c9c17534ce2f9259ae3805", 
+        "latitude": 29.36202, 
+        "longitude": -98.47053, 
+        "name": "Padre Park", 
+        "timestamp": "2017-08-15T04:48:34.561000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2800 Broadway", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_3387"
+        }, 
+        "free_bikes": 6, 
+        "id": "71fdf18186e8e172ff483eca1a6f7a36", 
+        "latitude": 29.45322, 
+        "longitude": -98.47149, 
+        "name": "The DoSeum", 
+        "timestamp": "2017-08-15T04:48:34.539000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "312 Pearl Parkway", 
+          "last_updated": 1502772514, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_sanantonio_3385"
+        }, 
+        "free_bikes": 6, 
+        "id": "75c7ce686a19e1a499bcf63cc493d30e", 
+        "latitude": 29.44276, 
+        "longitude": -98.48008, 
+        "name": "Pearl Culinary Gardens", 
+        "timestamp": "2017-08-15T04:48:34.498000Z"
+      }
+    ]
+  }
+}

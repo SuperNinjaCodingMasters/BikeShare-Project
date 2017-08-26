@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-casaletto-spartano", 
+    "id": "bicincitta-casaletto-spartano", 
+    "location": {
+      "city": "Casaletto Spartano", 
+      "country": "IT", 
+      "latitude": 40.1532801, 
+      "longitude": 15.6211479
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Nazionale frazione Battaglia", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "945ac8225af7bb9ce390a08bb7094cac", 
+        "latitude": 40.14545247557112, 
+        "longitude": 15.624656229391462, 
+        "name": "Battaglia", 
+        "timestamp": "2017-08-15T04:49:40.211000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Giovanni Amendola", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "cdc05499554c88fde9f6f0845c6dca39", 
+        "latitude": 40.15151602402078, 
+        "longitude": 15.618654665606755, 
+        "name": "Municipio", 
+        "timestamp": "2017-08-15T04:49:40.203000Z"
+      }
+    ]
+  }
+}

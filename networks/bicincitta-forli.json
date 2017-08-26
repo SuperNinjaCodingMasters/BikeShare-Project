@@ -1,0 +1,160 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-forli", 
+    "id": "bicincitta-forli", 
+    "location": {
+      "city": "Forl\u00ec", 
+      "country": "IT", 
+      "latitude": 44.2227398, 
+      "longitude": 12.0407312
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "P.le Martiri d'Ungheria", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "0e3b10f2fd10d820da4884581399a938", 
+        "latitude": 44.22335229505328, 
+        "longitude": 12.055386900901794, 
+        "name": "01. Stazione FS", 
+        "timestamp": "2017-08-15T04:50:50.484000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "P.le della Vittoria", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "993fcf1b08bdb8be668f3b17ac493a54", 
+        "latitude": 44.21760703103311, 
+        "longitude": 12.050157669358668, 
+        "name": "02. Vittoria", 
+        "timestamp": "2017-08-15T04:50:50.489000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "V.le Vittorio Veneto", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "5fd538e00c019ea6e2c41d7b880fa8b9", 
+        "latitude": 44.22791707224468, 
+        "longitude": 12.042153289953376, 
+        "name": "03. Vittorio Veneto", 
+        "timestamp": "2017-08-15T04:50:50.491000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "P.zza G. da Montefeltro", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "ae28a461bfd970a59e7438c35e4a309b", 
+        "latitude": 44.22204136033785, 
+        "longitude": 12.036168873310089, 
+        "name": "05. San Domenico", 
+        "timestamp": "2017-08-15T04:50:50.493000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "V.le Livio Salinatore", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "d6c89a46357ec1fa3b915316c97ba4aa", 
+        "latitude": 44.2189271376979, 
+        "longitude": 12.032757103443146, 
+        "name": "06. Park dell'Argine", 
+        "timestamp": "2017-08-15T04:50:50.493000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via Oriani", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "c2c50a06cdeb7ae178e9d2606fdf68fc", 
+        "latitude": 44.22113727254554, 
+        "longitude": 12.049119669740435, 
+        "name": "10. Park Oriani", 
+        "timestamp": "2017-08-15T04:50:50.498000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "V.le Corridoni", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "1bb62734ce57a6ded57124c3ed56ad06", 
+        "latitude": 44.21769682202885, 
+        "longitude": 12.044369191368787, 
+        "name": "11. Campus Universitario II", 
+        "timestamp": "2017-08-15T04:50:50.501000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "description": "C.so Mazzini", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "e9c52b1f383c4d0cc97c099e732a71bf", 
+        "latitude": 44.22332267076291, 
+        "longitude": 12.041495740413666, 
+        "name": "04. Piazza Saffi", 
+        "timestamp": "2017-08-15T04:50:50.492000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Porta Schiavonia", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "e44f8b208fea3fd1494ba0d274bd444e", 
+        "latitude": 44.22621541081547, 
+        "longitude": 12.028287202119827, 
+        "name": "07. Park Schiavonia", 
+        "timestamp": "2017-08-15T04:50:50.495000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "11ce293628363f1a8c11440fa3bff897", 
+        "latitude": 44.20714032290435, 
+        "longitude": 12.019766869059822, 
+        "name": "08. Ospedale Morgagni Pierantoni", 
+        "timestamp": "2017-08-15T04:50:50.496000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "P.le Solieri", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "07fd36c6192c4b0a968a1901b2436b47", 
+        "latitude": 44.219257092084504, 
+        "longitude": 12.042756043507666, 
+        "name": "09. Campus Universitario I", 
+        "timestamp": "2017-08-15T04:50:50.497000Z"
+      }
+    ]
+  }
+}

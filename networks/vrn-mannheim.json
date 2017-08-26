@@ -1,0 +1,706 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/vrn-mannheim", 
+    "id": "vrn-mannheim", 
+    "location": {
+      "city": "Mannheim", 
+      "country": "DE", 
+      "latitude": 49.4869, 
+      "longitude": 8.45638
+    }, 
+    "name": "VRN", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "43349"
+          ], 
+          "number": "2526", 
+          "slots": 6, 
+          "uid": "121376"
+        }, 
+        "free_bikes": 1, 
+        "id": "c71efad8bfdedd5e941cdb8aacb604e1", 
+        "latitude": 49.477089700906, 
+        "longitude": 8.463613986969, 
+        "name": "Lindenhof - Jugendherberge", 
+        "timestamp": "2017-08-15T04:51:38.227000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43155", 
+            "43104", 
+            "43069", 
+            "43485", 
+            "43328"
+          ], 
+          "number": "2537", 
+          "slots": 6, 
+          "uid": "660983"
+        }, 
+        "free_bikes": 5, 
+        "id": "5375d14356612ca0747aafda80ef0194", 
+        "latitude": 49.502210524821, 
+        "longitude": 8.4652554988861, 
+        "name": "Neckarstadt-West - Riedfeldstra\u00dfe", 
+        "timestamp": "2017-08-15T04:51:38.311000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "43452", 
+            "43356", 
+            "43267", 
+            "43645"
+          ], 
+          "number": "2536", 
+          "slots": 10, 
+          "uid": "660978"
+        }, 
+        "free_bikes": 4, 
+        "id": "6ea87d8b05e9441732d05afb9de548c2", 
+        "latitude": 49.508376379885, 
+        "longitude": 8.4760540723801, 
+        "name": "Neckarstadt-Ost  - Carl-Zuckmayer-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:51:38.309000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "2538", 
+          "slots": 10, 
+          "uid": "1804946"
+        }, 
+        "free_bikes": 0, 
+        "id": "8fb1d069dcb12e58e230b741d9328d78", 
+        "latitude": 49.517860525587, 
+        "longitude": 8.5355508327484, 
+        "name": "Franklin", 
+        "timestamp": "2017-08-15T04:51:38.314000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "43170"
+          ], 
+          "number": "2500", 
+          "slots": 9, 
+          "uid": "339343"
+        }, 
+        "free_bikes": 1, 
+        "id": "a67a2f4c757785397bf00a8e7ec543bc", 
+        "latitude": 49.497120496327, 
+        "longitude": 8.4730178117752, 
+        "name": "Neckarstadt - Alter Messplatz", 
+        "timestamp": "2017-08-15T04:51:38.230000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43021", 
+            "43477", 
+            "43382", 
+            "43336", 
+            "43544"
+          ], 
+          "number": "2501", 
+          "slots": 6, 
+          "uid": "339346"
+        }, 
+        "free_bikes": 5, 
+        "id": "91afcd823b508684e89513b8ab737e93", 
+        "latitude": 49.497263344867, 
+        "longitude": 8.4838324785233, 
+        "name": "Neckarstadt-Ost - Lange R\u00f6tterstra\u00dfe", 
+        "timestamp": "2017-08-15T04:51:38.231000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43049", 
+            "43492", 
+            "43484", 
+            "43456", 
+            "43435"
+          ], 
+          "number": "2502", 
+          "slots": 8, 
+          "uid": "339349"
+        }, 
+        "free_bikes": 5, 
+        "id": "41fffb21a300a751b69beda7d0b07b49", 
+        "latitude": 49.498946138964, 
+        "longitude": 8.467224240303, 
+        "name": "Neumarkt", 
+        "timestamp": "2017-08-15T04:51:38.232000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43187", 
+            "43055", 
+            "43463", 
+            "43410", 
+            "43305"
+          ], 
+          "number": "2503", 
+          "slots": 12, 
+          "uid": "339350"
+        }, 
+        "free_bikes": 5, 
+        "id": "c8789f172899769aceb9ccd005ce4099", 
+        "latitude": 49.506902915691, 
+        "longitude": 8.4922063350677, 
+        "name": "Studentensiedlung Ludwig Frank", 
+        "timestamp": "2017-08-15T04:51:38.232000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "43297", 
+            "43275", 
+            "43220"
+          ], 
+          "number": "2520", 
+          "slots": 10, 
+          "uid": "339478"
+        }, 
+        "free_bikes": 3, 
+        "id": "962ba62cba567f132b37a01c1c28bfe0", 
+        "latitude": 49.470261048857, 
+        "longitude": 8.4822553396225, 
+        "name": "Hochschule Mannheim", 
+        "timestamp": "2017-08-15T04:51:38.284000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "43175", 
+            "43151", 
+            "43106", 
+            "43067", 
+            "43012"
+          ], 
+          "number": "2523", 
+          "slots": 8, 
+          "uid": "339485"
+        }, 
+        "free_bikes": 5, 
+        "id": "8692c7d3b05b54cca27be402efd468d0", 
+        "latitude": 49.478511781242, 
+        "longitude": 8.4825611114502, 
+        "name": "Schwetzingerstadt - Pestalozzischule", 
+        "timestamp": "2017-08-15T04:51:38.293000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43497", 
+            "43475", 
+            "43472", 
+            "43503", 
+            "43559"
+          ], 
+          "number": "2519", 
+          "slots": 6, 
+          "uid": "339476"
+        }, 
+        "free_bikes": 5, 
+        "id": "bdd1b014bfc3924e96882491a5c7cb63", 
+        "latitude": 49.493448100477, 
+        "longitude": 8.4589684009552, 
+        "name": "Jungbusch - Jungbuschstra\u00dfe", 
+        "timestamp": "2017-08-15T04:51:38.274000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "43185", 
+            "43257"
+          ], 
+          "number": "2504", 
+          "slots": 8, 
+          "uid": "339352"
+        }, 
+        "free_bikes": 2, 
+        "id": "808aad928cedfdbdd98b568ec8af2a36", 
+        "latitude": 49.49722501969, 
+        "longitude": 8.4577506780624, 
+        "name": "Jungbusch - Popakademie", 
+        "timestamp": "2017-08-15T04:51:38.233000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "43183", 
+            "43424"
+          ], 
+          "number": "2509", 
+          "slots": 12, 
+          "uid": "339461"
+        }, 
+        "free_bikes": 2, 
+        "id": "e70d13e81f38316fffedc70d6e24e2db", 
+        "latitude": 49.485356707794, 
+        "longitude": 8.4766495227814, 
+        "name": "Kongresszentrum Rosengarten", 
+        "timestamp": "2017-08-15T04:51:38.238000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "43162"
+          ], 
+          "number": "2521", 
+          "slots": 8, 
+          "uid": "339481"
+        }, 
+        "free_bikes": 1, 
+        "id": "4115ee031c3df99f6b96c9ea0180f87f", 
+        "latitude": 49.479501636316, 
+        "longitude": 8.4952211380005, 
+        "name": "Oststadt - Luisenpark", 
+        "timestamp": "2017-08-15T04:51:38.286000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "2507", 
+          "slots": 6, 
+          "uid": "339457"
+        }, 
+        "free_bikes": 0, 
+        "id": "6484b6d0c5bd5cfd0303de10cbc9dea1", 
+        "latitude": 49.489559380995, 
+        "longitude": 8.4802973270416, 
+        "name": "Theresienkrankenhaus", 
+        "timestamp": "2017-08-15T04:51:38.236000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "43020", 
+            "43340", 
+            "43531", 
+            "43640"
+          ], 
+          "number": "2518", 
+          "slots": 20, 
+          "uid": "339475"
+        }, 
+        "free_bikes": 4, 
+        "id": "c685fc6045114d41f98977fbeb2ec4e2", 
+        "latitude": 49.480115057588, 
+        "longitude": 8.4707164764404, 
+        "name": "Hauptbahnhof Mannheim", 
+        "timestamp": "2017-08-15T04:51:38.270000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "43136"
+          ], 
+          "number": "2533", 
+          "slots": 10, 
+          "uid": "660951"
+        }, 
+        "free_bikes": 1, 
+        "id": "12cc669ff6055e0fe2897061fdf93e85", 
+        "latitude": 49.482749893387, 
+        "longitude": 8.4633028507233, 
+        "name": "Universit\u00e4t Schloss", 
+        "timestamp": "2017-08-15T04:51:38.303000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "2532", 
+          "slots": 8, 
+          "uid": "660945"
+        }, 
+        "free_bikes": 0, 
+        "id": "f39c0a91eb95e3a43520f3380423aa21", 
+        "latitude": 49.474531246529, 
+        "longitude": 8.4895241260529, 
+        "name": "Schwetzingerstadt - Dynamostra\u00dfe", 
+        "timestamp": "2017-08-15T04:51:38.302000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "43180", 
+            "43034", 
+            "43434", 
+            "43325", 
+            "43287"
+          ], 
+          "number": "2531", 
+          "slots": 12, 
+          "uid": "660943"
+        }, 
+        "free_bikes": 5, 
+        "id": "97d5bcc5cca52fd06859b721f6778481", 
+        "latitude": 49.474329074137, 
+        "longitude": 8.4869438409805, 
+        "name": "Schwetzingerstadt - rnv Betriebshof M\u00f6hlstra\u00dfe", 
+        "timestamp": "2017-08-15T04:51:38.300000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "43159", 
+            "43448", 
+            "43549", 
+            "43589", 
+            "43628"
+          ], 
+          "number": "2515", 
+          "slots": 10, 
+          "uid": "339468"
+        }, 
+        "free_bikes": 5, 
+        "id": "93ceab47e202662db93f2ae6a0b3512f", 
+        "latitude": 49.484576072048, 
+        "longitude": 8.4598588943481, 
+        "name": "Universit\u00e4t Mensa", 
+        "timestamp": "2017-08-15T04:51:38.262000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "43296", 
+            "43587"
+          ], 
+          "number": "2522", 
+          "slots": 8, 
+          "uid": "339482"
+        }, 
+        "free_bikes": 2, 
+        "id": "4afb649dd9142c2a5c3051e9e60b961b", 
+        "latitude": 49.477358086876, 
+        "longitude": 8.4961223602295, 
+        "name": "Technoseum", 
+        "timestamp": "2017-08-15T04:51:38.289000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "43366", 
+            "43301"
+          ], 
+          "number": "2505", 
+          "slots": 8, 
+          "uid": "339354"
+        }, 
+        "free_bikes": 2, 
+        "id": "54677c36b38d24328f9a96f2a9bd8981", 
+        "latitude": 49.493002098157, 
+        "longitude": 8.4703248739243, 
+        "name": "K1 - Kurpfalzbr\u00fccke", 
+        "timestamp": "2017-08-15T04:51:38.234000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "43050", 
+            "43372"
+          ], 
+          "number": "2508", 
+          "slots": 8, 
+          "uid": "339459"
+        }, 
+        "free_bikes": 2, 
+        "id": "81c067b367c6028da4461d8c8f816cc3", 
+        "latitude": 49.487938990033, 
+        "longitude": 8.478741645813, 
+        "name": "Nationaltheater", 
+        "timestamp": "2017-08-15T04:51:38.237000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "43259"
+          ], 
+          "number": "2510", 
+          "slots": 11, 
+          "uid": "339462"
+        }, 
+        "free_bikes": 1, 
+        "id": "44cb6ca261df7a5f8c9036878c200abd", 
+        "latitude": 49.489761490515, 
+        "longitude": 8.4684365987778, 
+        "name": "R1 - Marktplatz", 
+        "timestamp": "2017-08-15T04:51:38.246000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "43120", 
+            "43246"
+          ], 
+          "number": "2513", 
+          "slots": 8, 
+          "uid": "339465"
+        }, 
+        "free_bikes": 2, 
+        "id": "075a51c2456358195fc8af2de3bcff66", 
+        "latitude": 49.483244780592, 
+        "longitude": 8.4747934341431, 
+        "name": "Kunsthalle", 
+        "timestamp": "2017-08-15T04:51:38.259000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "43394"
+          ], 
+          "number": "2514", 
+          "slots": 6, 
+          "uid": "339466"
+        }, 
+        "free_bikes": 1, 
+        "id": "a5e7b13cf2fa40df4576d883bc7df778", 
+        "latitude": 49.491183202862, 
+        "longitude": 8.4623908996582, 
+        "name": "G7 - Westliche Unterstadt", 
+        "timestamp": "2017-08-15T04:51:38.260000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43126", 
+            "43110", 
+            "43042", 
+            "43446", 
+            "43278"
+          ], 
+          "number": "2516", 
+          "slots": 8, 
+          "uid": "339472"
+        }, 
+        "free_bikes": 6, 
+        "id": "f8935ae1b1828c9b667f4816387e6cfc", 
+        "latitude": 49.486973699388, 
+        "longitude": 8.4573215246201, 
+        "name": "A5 - Universit\u00e4t West", 
+        "timestamp": "2017-08-15T04:51:38.264000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43122", 
+            "43040", 
+            "43037", 
+            "43346", 
+            "43316"
+          ], 
+          "number": "2525", 
+          "slots": 6, 
+          "uid": "339487"
+        }, 
+        "free_bikes": 5, 
+        "id": "83c6827b312223eeb48dbc6aa212343c", 
+        "latitude": 49.485370647605, 
+        "longitude": 8.4694933891296, 
+        "name": "N5 - Kapuziner Planken ", 
+        "timestamp": "2017-08-15T04:51:38.295000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "43109"
+          ], 
+          "number": "2512", 
+          "slots": 8, 
+          "uid": "339464"
+        }, 
+        "free_bikes": 1, 
+        "id": "7839c4668e83157dc8d47e0ed81abed8", 
+        "latitude": 49.489012287249, 
+        "longitude": 8.4629970788956, 
+        "name": "E4 - Rathaus", 
+        "timestamp": "2017-08-15T04:51:38.258000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "2517", 
+          "slots": 10, 
+          "uid": "339473"
+        }, 
+        "free_bikes": 0, 
+        "id": "d1b3acb3679d5ce139e05a6e3b294d4b", 
+        "latitude": 49.484600467103, 
+        "longitude": 8.4634637832642, 
+        "name": "L1 - Schloss", 
+        "timestamp": "2017-08-15T04:51:38.266000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "number": "2535", 
+          "slots": 6, 
+          "uid": "660974"
+        }, 
+        "free_bikes": 0, 
+        "id": "44b0b4592fa1e65b5c54d451149dc270", 
+        "latitude": 49.494113612009, 
+        "longitude": 8.4675997495651, 
+        "name": "MVV Hochhaus", 
+        "timestamp": "2017-08-15T04:51:38.307000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "43077", 
+            "43429", 
+            "43634"
+          ], 
+          "number": "2506", 
+          "slots": 8, 
+          "uid": "339456"
+        }, 
+        "free_bikes": 3, 
+        "id": "4106951a3c97ccb4bd6cbfc324853377", 
+        "latitude": 49.490684911322, 
+        "longitude": 8.4757053852081, 
+        "name": "Gewerkschaftshaus", 
+        "timestamp": "2017-08-15T04:51:38.235000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "43192", 
+            "43035", 
+            "43014", 
+            "43321", 
+            "43303"
+          ], 
+          "number": "2530", 
+          "slots": 10, 
+          "uid": "660939"
+        }, 
+        "free_bikes": 5, 
+        "id": "3258bfb4a19bab6db1cfdeacc7f39cc7", 
+        "latitude": 49.464913190643, 
+        "longitude": 8.4759414196014, 
+        "name": "Neckarau - Markuskirche", 
+        "timestamp": "2017-08-15T04:51:38.298000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43135", 
+            "43132", 
+            "43071", 
+            "43056", 
+            "43045"
+          ], 
+          "number": "2534", 
+          "slots": 6, 
+          "uid": "660971"
+        }, 
+        "free_bikes": 6, 
+        "id": "c845595add34b510670ecdabd2b92d72", 
+        "latitude": 49.45669503752, 
+        "longitude": 8.4810268878937, 
+        "name": "Neckarau - Hans-Sachs-Ring", 
+        "timestamp": "2017-08-15T04:51:38.305000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "43425", 
+            "43384", 
+            "43369", 
+            "43536", 
+            "43622"
+          ], 
+          "number": "2528", 
+          "slots": 6, 
+          "uid": "1557693"
+        }, 
+        "free_bikes": 5, 
+        "id": "0e50c10e1603740ba69ef6a130f406c9", 
+        "latitude": 49.47365, 
+        "longitude": 8.46642, 
+        "name": "Lindenhof - Johanniskirche", 
+        "timestamp": "2017-08-15T04:51:38.312000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "43154", 
+            "43128", 
+            "43491", 
+            "43480", 
+            "43507"
+          ], 
+          "number": "2529", 
+          "slots": 10, 
+          "uid": "660937"
+        }, 
+        "free_bikes": 5, 
+        "id": "eb53bc27ca9976f9eb00c4cf26333249", 
+        "latitude": 49.477236093436, 
+        "longitude": 8.467572927475, 
+        "name": "Lindenhof - Lindenhofplatz", 
+        "timestamp": "2017-08-15T04:51:38.297000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "43458", 
+            "43591", 
+            "43659"
+          ], 
+          "number": "2511", 
+          "slots": 8, 
+          "uid": "339463"
+        }, 
+        "free_bikes": 3, 
+        "id": "9602626eec203d24df68f8f3c44aac9e", 
+        "latitude": 49.487332, 
+        "longitude": 8.46447, 
+        "name": "E1 - Paradeplatz", 
+        "timestamp": "2017-08-15T04:51:38.248000Z"
+      }
+    ]
+  }
+}

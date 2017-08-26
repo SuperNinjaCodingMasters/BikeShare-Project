@@ -1,0 +1,57 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-rivarolo-canavese", 
+    "id": "bicincitta-rivarolo-canavese", 
+    "location": {
+      "city": "Rivarolo Canavese", 
+      "country": "IT", 
+      "latitude": 45.306633, 
+      "longitude": 7.723242
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Corso Torino / Piazza Zanotti", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "a1a8afad069c8563f215cfe0f8fe96ad", 
+        "latitude": 45.32822186891885, 
+        "longitude": 7.726137357429138, 
+        "name": "Stazione Ferroviaria", 
+        "timestamp": "2017-08-15T04:49:45.676000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Via Carisia", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "9fe5e22417c5ccea4debb76fe090ef37", 
+        "latitude": 45.3339001329817, 
+        "longitude": 7.726419479796959, 
+        "name": "Carisia", 
+        "timestamp": "2017-08-15T04:49:45.686000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "Via Montenero", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "6eaf2c0bfa90b403f2180481cb7b02d5", 
+        "latitude": 45.331202763979384, 
+        "longitude": 7.719532055503123, 
+        "name": "Parcheggio S. Francesco", 
+        "timestamp": "2017-08-15T04:49:45.687000Z"
+      }
+    ]
+  }
+}

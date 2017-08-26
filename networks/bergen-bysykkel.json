@@ -1,0 +1,408 @@
+{
+  "network": {
+    "company": [
+      "Urban Infrastructure Partner"
+    ], 
+    "href": "/v2/networks/bergen-bysykkel", 
+    "id": "bergen-bysykkel", 
+    "location": {
+      "city": "Bergen", 
+      "country": "NO", 
+      "latitude": 60.391263, 
+      "longitude": 5.322054
+    }, 
+    "name": "Bysykkel", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "placement": "ved Beddingen", 
+          "uid": 38
+        }, 
+        "free_bikes": 10, 
+        "id": "164914b64ddb214ee7258ec75c3df18b", 
+        "latitude": 60.377123, 
+        "longitude": 5.335891, 
+        "name": "Solheimsviken", 
+        "timestamp": "2017-08-15T04:50:02.779000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "placement": "ved Platou Sport", 
+          "uid": 17
+        }, 
+        "free_bikes": 7, 
+        "id": "72115b407d7ca20c6f0d067c47d35c26", 
+        "latitude": 60.393292, 
+        "longitude": 5.327082, 
+        "name": "\u00d8vre V\u00e5gsallmenning", 
+        "timestamp": "2017-08-15T04:50:02.758000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "placement": "ved fotballbanen", 
+          "uid": 24
+        }, 
+        "free_bikes": 7, 
+        "id": "1dc72daaeb285961a0d9da9081ab8f70", 
+        "latitude": 60.399781, 
+        "longitude": 5.30489, 
+        "name": "Akvariet", 
+        "timestamp": "2017-08-15T04:50:02.769000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "placement": "i Neumannsgate", 
+          "uid": 27
+        }, 
+        "free_bikes": 8, 
+        "id": "35ba886a3e0ce173878ed9c857459d1f", 
+        "latitude": 60.391413, 
+        "longitude": 5.319082, 
+        "name": "Konsertpaleet", 
+        "timestamp": "2017-08-15T04:50:02.772000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "placement": "ved hovedinngangen", 
+          "uid": 28
+        }, 
+        "free_bikes": 2, 
+        "id": "c6ae5703cad97441df09221111748869", 
+        "latitude": 60.385604, 
+        "longitude": 5.337606, 
+        "name": "ADO Arena", 
+        "timestamp": "2017-08-15T04:50:02.773000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "placement": "ved studentboligene", 
+          "uid": 30
+        }, 
+        "free_bikes": 7, 
+        "id": "5a6a72a66fe6779001566cf8a2e7b774", 
+        "latitude": 60.378779, 
+        "longitude": 5.34957, 
+        "name": "Gr\u00f8nneviken", 
+        "timestamp": "2017-08-15T04:50:02.775000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "placement": "nord for Fiskeren", 
+          "uid": 4
+        }, 
+        "free_bikes": 12, 
+        "id": "a7798ff698d1b75e0e80ae521f2e6d08", 
+        "latitude": 60.390719, 
+        "longitude": 5.3256, 
+        "name": "Festplassen", 
+        "timestamp": "2017-08-15T04:50:02.736000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "placement": "mellom Nyg\u00e5rdsgaten og Str\u00f8mgaten", 
+          "uid": 5
+        }, 
+        "free_bikes": 25, 
+        "id": "3ca0de6b6204812b6a780d7521abe422", 
+        "latitude": 60.388078, 
+        "longitude": 5.328303, 
+        "name": "Grieghallen", 
+        "timestamp": "2017-08-15T04:50:02.744000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "placement": "Til venstre for trappen", 
+          "uid": 6
+        }, 
+        "free_bikes": 9, 
+        "id": "e9fac47114aa8af3d91d32013d45e959", 
+        "latitude": 60.392351, 
+        "longitude": 5.320083, 
+        "name": "Den Nationale Scene Vest", 
+        "timestamp": "2017-08-15T04:50:02.745000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "placement": "Til h\u00f8yre for trappen", 
+          "uid": 7
+        }, 
+        "free_bikes": 5, 
+        "id": "98e8819c324b1d6a014d9eb92c0e9680", 
+        "latitude": 60.392507, 
+        "longitude": 5.320271, 
+        "name": "Den Nationale Scene \u00d8st", 
+        "timestamp": "2017-08-15T04:50:02.746000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "placement": "s\u00f8r for M\u00f8hlenpris idrettsplass", 
+          "uid": 8
+        }, 
+        "free_bikes": 14, 
+        "id": "ccb663f90e8494470e50bc977a8a6159", 
+        "latitude": 60.382552, 
+        "longitude": 5.325483, 
+        "name": "Cornerteateret", 
+        "timestamp": "2017-08-15T04:50:02.747000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "placement": "mellom Biblioteket og Bergen storsenteret", 
+          "uid": 9
+        }, 
+        "free_bikes": 3, 
+        "id": "eea404ba31c5a6ed0178908ab63e7809", 
+        "latitude": 60.389588, 
+        "longitude": 5.331948, 
+        "name": "Bergen Offentlige Bibliotek", 
+        "timestamp": "2017-08-15T04:50:02.748000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "placement": "krysset Olaf Ryes vei og Parkveien", 
+          "uid": 10
+        }, 
+        "free_bikes": 13, 
+        "id": "5e3bd8bfa0aea70884e14c2a3580b68b", 
+        "latitude": 60.387041, 
+        "longitude": 5.323016, 
+        "name": "Studentsenteret UiB", 
+        "timestamp": "2017-08-15T04:50:02.750000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "placement": "ved hovedinngangen", 
+          "uid": 11
+        }, 
+        "free_bikes": 13, 
+        "id": "64894e772d38842a5864a0d764c28865", 
+        "latitude": 60.36939, 
+        "longitude": 5.349437, 
+        "name": "H\u00f8gskolen i Bergen", 
+        "timestamp": "2017-08-15T04:50:02.751000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "placement": "ved Sj\u00f8gaten", 
+          "uid": 12
+        }, 
+        "free_bikes": 18, 
+        "id": "6964d3d15121e668fa6d1b5c842de678", 
+        "latitude": 60.405947, 
+        "longitude": 5.32295, 
+        "name": "PwC Bergen", 
+        "timestamp": "2017-08-15T04:50:02.752000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "placement": "krysset N\u00f8stegaten og Sukkerhusgaten", 
+          "uid": 13
+        }, 
+        "free_bikes": 3, 
+        "id": "49723891d961cabdef2da3b4a2cfacd7", 
+        "latitude": 60.392319, 
+        "longitude": 5.315002, 
+        "name": "N\u00f8stetorget", 
+        "timestamp": "2017-08-15T04:50:02.753000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "placement": "mellom R\u00e5dhusgaten og Kaigaten", 
+          "uid": 14
+        }, 
+        "free_bikes": 7, 
+        "id": "496fba01caa627ffcb2ad37380fe410d", 
+        "latitude": 60.391888, 
+        "longitude": 5.326993, 
+        "name": "Gulating Lagmannsrett", 
+        "timestamp": "2017-08-15T04:50:02.755000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "placement": "ved St. Paul Gymnas", 
+          "uid": 15
+        }, 
+        "free_bikes": 0, 
+        "id": "ab63580638c7fec69417d3a27ba440b1", 
+        "latitude": 60.382244, 
+        "longitude": 5.33318, 
+        "name": "Florida", 
+        "timestamp": "2017-08-15T04:50:02.756000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "placement": "ved skur 11", 
+          "uid": 16
+        }, 
+        "free_bikes": 5, 
+        "id": "df3ea2ad3c941ff632c3a884f5667706", 
+        "latitude": 60.396429, 
+        "longitude": 5.324068, 
+        "name": "Bryggen", 
+        "timestamp": "2017-08-15T04:50:02.757000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "placement": "ved nedre fontenen", 
+          "uid": 18
+        }, 
+        "free_bikes": 5, 
+        "id": "02e3cbfe445dc86f5e27e34daff9e778", 
+        "latitude": 60.383029, 
+        "longitude": 5.330043, 
+        "name": "Nyg\u00e5rdsparken", 
+        "timestamp": "2017-08-15T04:50:02.759000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "placement": "ved Hudbygget", 
+          "uid": 19
+        }, 
+        "free_bikes": 2, 
+        "id": "cf6f05871960476974823946eab3b204", 
+        "latitude": 60.373583, 
+        "longitude": 5.356688, 
+        "name": "Haukeland Sykehus", 
+        "timestamp": "2017-08-15T04:50:02.760000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "placement": "utenfor Bergen Tingrett", 
+          "uid": 20
+        }, 
+        "free_bikes": 17, 
+        "id": "3bf9ada0ee404eb6bae7742f5600c3d8", 
+        "latitude": 60.393748, 
+        "longitude": 5.321755, 
+        "name": "T\u00e5rnplass", 
+        "timestamp": "2017-08-15T04:50:02.761000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "placement": "ved Lille Lungeg\u00e5rdsvann", 
+          "uid": 21
+        }, 
+        "free_bikes": 12, 
+        "id": "79a4797dff5349f6fd2a7915b08dc7b3", 
+        "latitude": 60.389578, 
+        "longitude": 5.32975, 
+        "name": "Gamle Lysverket", 
+        "timestamp": "2017-08-15T04:50:02.762000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "Jonsvollskvartalet", 
+          "uid": 22
+        }, 
+        "free_bikes": 1, 
+        "id": "cc638151a5173d0708550057745df6a9", 
+        "latitude": 60.39275, 
+        "longitude": 5.317152, 
+        "name": "Sparebanken Vest", 
+        "timestamp": "2017-08-15T04:50:02.764000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "ved USF", 
+          "uid": 23
+        }, 
+        "free_bikes": 4, 
+        "id": "19a17e5fadfe01e8646d12e49cb0bb99", 
+        "latitude": 60.39586, 
+        "longitude": 5.307934, 
+        "name": "Verftet", 
+        "timestamp": "2017-08-15T04:50:02.768000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "placement": "bak Johanneskirken", 
+          "uid": 25
+        }, 
+        "free_bikes": 6, 
+        "id": "5b98e60d34b1156103c98d662dc60788", 
+        "latitude": 60.388463, 
+        "longitude": 5.318419, 
+        "name": "Sydnesplass", 
+        "timestamp": "2017-08-15T04:50:02.771000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "placement": "ved fontenen", 
+          "uid": 29
+        }, 
+        "free_bikes": 11, 
+        "id": "63d5b0041ea5f42aa4238d3eb1139e57", 
+        "latitude": 60.403927, 
+        "longitude": 5.326517, 
+        "name": "Meyermarken", 
+        "timestamp": "2017-08-15T04:50:02.774000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "placement": "i M\u00f8llendalsveien", 
+          "uid": 34
+        }, 
+        "free_bikes": 16, 
+        "id": "25eb52341ed82b4348d0a2399fb919e9", 
+        "latitude": 60.380208, 
+        "longitude": 5.352786, 
+        "name": "KMD Fakultetet", 
+        "timestamp": "2017-08-15T04:50:02.776000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "placement": "ved skur 8", 
+          "uid": 36
+        }, 
+        "free_bikes": 4, 
+        "id": "16bf3a4d7d638d0f27352816f021c8e4", 
+        "latitude": 60.397745, 
+        "longitude": 5.321005, 
+        "name": "Bryggen", 
+        "timestamp": "2017-08-15T04:50:02.777000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "placement": "utenfor St. Jakobs kirke", 
+          "uid": 37
+        }, 
+        "free_bikes": 3, 
+        "id": "a1b988a72271f1e7bdcc1fb6d74b0cc7", 
+        "latitude": 60.386636, 
+        "longitude": 5.331173, 
+        "name": "St. Jakobs Plass", 
+        "timestamp": "2017-08-15T04:50:02.778000Z"
+      }
+    ]
+  }
+}

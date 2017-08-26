@@ -1,0 +1,109 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-monza", 
+    "id": "bicincitta-monza", 
+    "location": {
+      "city": "Monza", 
+      "country": "IT", 
+      "latitude": 45.5845001, 
+      "longitude": 9.2744485
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "via Filippo Turati / via Mentana", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "0450242eb70fd23f3d75417ff8823023", 
+        "latitude": 45.57745515785765, 
+        "longitude": 9.274450494408029, 
+        "name": "Urban Center", 
+        "timestamp": "2017-08-15T04:49:06.110000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "via Enrico Arosio / Park Taxi", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "f5f35a1e1145f74b910a956b8b737a21", 
+        "latitude": 45.577790296267914, 
+        "longitude": 9.272591629499857, 
+        "name": "Stazione Centrale", 
+        "timestamp": "2017-08-15T04:49:06.121000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "largo XXV Aprile", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "54f8710537a1663fe02135d5641777d4", 
+        "latitude": 45.584164294927305, 
+        "longitude": 9.273115379150568, 
+        "name": "XXV Aprile", 
+        "timestamp": "2017-08-15T04:49:06.123000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "piazza Citterio", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "7211fbfa6865266b90f6fe6cc23b0bf3", 
+        "latitude": 45.5886012902114, 
+        "longitude": 9.275737721352698, 
+        "name": "Citterio", 
+        "timestamp": "2017-08-15T04:49:06.124000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "via Sempione / via Stelvio", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "319cd2d896e869d451fb9d5aea8ed5cb", 
+        "latitude": 45.583460779300104, 
+        "longitude": 9.265254787818321, 
+        "name": "Sempione", 
+        "timestamp": "2017-08-15T04:49:06.125000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "via M. Baraggia / via Pergolesi", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "7ba5535869677d6e69d25e0ff9c937e4", 
+        "latitude": 45.60022559639241, 
+        "longitude": 9.259777889549241, 
+        "name": "Ospedale", 
+        "timestamp": "2017-08-15T04:49:06.126000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "viale Cavriga", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "378a8c6740db6450646cf1b5c392c10c", 
+        "latitude": 45.59751092376207, 
+        "longitude": 9.270707870165666, 
+        "name": "Parco", 
+        "timestamp": "2017-08-15T04:49:06.127000Z"
+      }
+    ]
+  }
+}

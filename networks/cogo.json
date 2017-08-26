@@ -1,0 +1,756 @@
+{
+  "network": {
+    "company": [
+      "Motivate International, Inc.", 
+      "PBSC Urban Solutions"
+    ], 
+    "gbfs_href": "https://gbfs.cogobikeshare.com/gbfs/gbfs.json", 
+    "href": "/v2/networks/cogo", 
+    "id": "cogo", 
+    "location": {
+      "city": "Columbus, OH", 
+      "country": "US", 
+      "latitude": 39.983333, 
+      "longitude": -82.983333
+    }, 
+    "name": "CoGo", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "High St & 17th Ave", 
+          "last_updated": 1502772400, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "52"
+        }, 
+        "free_bikes": 12, 
+        "id": "b28969a7699366438ed8f03b38a34efc", 
+        "latitude": 40.001397, 
+        "longitude": -83.008476, 
+        "name": "High St & 17th Ave", 
+        "timestamp": "2017-08-15T04:48:28.068000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Bicentennial Park", 
+          "last_updated": 1502772225, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1"
+        }, 
+        "free_bikes": 14, 
+        "id": "4965bd9356321f821737a3952bc427c1", 
+        "latitude": 39.955864, 
+        "longitude": -83.003106, 
+        "name": "Bicentennial Park", 
+        "timestamp": "2017-08-15T04:48:28.047000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "City Hall", 
+          "last_updated": 1502772494, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "2"
+        }, 
+        "free_bikes": 8, 
+        "id": "92176b606003f9ba41b027a14859afad", 
+        "latitude": 39.963524, 
+        "longitude": -83.002854, 
+        "name": "City Hall", 
+        "timestamp": "2017-08-15T04:48:28.048000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Front St & Beck St", 
+          "last_updated": 1502772350, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "3"
+        }, 
+        "free_bikes": 10, 
+        "id": "af23191d983cfa1f26e14524b0aa3e7a", 
+        "latitude": 39.950124, 
+        "longitude": -83.000235, 
+        "name": "Front St & Beck St", 
+        "timestamp": "2017-08-15T04:48:28.048000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Scioto Audubon Center", 
+          "last_updated": 1502772388, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "4"
+        }, 
+        "free_bikes": 12, 
+        "id": "a790aa88fef9ce43ed3f52e698b871bd", 
+        "latitude": 39.945895, 
+        "longitude": -83.00907, 
+        "name": "Scioto Audubon Center", 
+        "timestamp": "2017-08-15T04:48:28.050000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Dorrian Commons - Mound St", 
+          "last_updated": 1502772445, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "5"
+        }, 
+        "free_bikes": 4, 
+        "id": "56fc9272596a9916196514bc4653abaa", 
+        "latitude": 39.954717, 
+        "longitude": -82.998879, 
+        "name": "Dorrian Commons - Mound St", 
+        "timestamp": "2017-08-15T04:48:28.049000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Schiller Park - Stewart Ave", 
+          "last_updated": 1502772485, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "6"
+        }, 
+        "free_bikes": 4, 
+        "id": "92978f2aca2f2c1d7cdb9e229c3423ef", 
+        "latitude": 39.942026, 
+        "longitude": -82.995019, 
+        "name": "Schiller Park - Stewart Ave", 
+        "timestamp": "2017-08-15T04:48:28.052000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Neil Ave & Nationwide Blvd", 
+          "last_updated": 1502772372, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "7"
+        }, 
+        "free_bikes": 7, 
+        "id": "2794c2cfe5f3794c04f22650f44efca6", 
+        "latitude": 39.968098, 
+        "longitude": -83.008763, 
+        "name": "Neil Ave & Nationwide Blvd", 
+        "timestamp": "2017-08-15T04:48:28.051000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Bank St & Frankfort St", 
+          "last_updated": 1502772240, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "8"
+        }, 
+        "free_bikes": 4, 
+        "id": "f2cbda659f6f01f796ce15d25efe77a2", 
+        "latitude": 39.946568, 
+        "longitude": -83.000322, 
+        "name": "Bank St & Frankfort St", 
+        "timestamp": "2017-08-15T04:48:28.053000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Columbus Commons - Rich St", 
+          "last_updated": 1502772419, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "9"
+        }, 
+        "free_bikes": 3, 
+        "id": "ccd7a6b41ac256dea83999d7156cea4f", 
+        "latitude": 39.957591, 
+        "longitude": -82.998002, 
+        "name": "Columbus Commons - Rich St", 
+        "timestamp": "2017-08-15T04:48:28.053000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "3rd St & Sycamore St", 
+          "last_updated": 1502772270, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "10"
+        }, 
+        "free_bikes": 9, 
+        "id": "c705e7edf177cc4c52cf067028b87481", 
+        "latitude": 39.949348, 
+        "longitude": -82.995285, 
+        "name": "3rd St & Sycamore St", 
+        "timestamp": "2017-08-15T04:48:28.056000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Livingston Park", 
+          "last_updated": 1502772413, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "14"
+        }, 
+        "free_bikes": 7, 
+        "id": "ccbaf3965967be4456ec9319a41822ba", 
+        "latitude": 39.951464, 
+        "longitude": -82.979178, 
+        "name": "Livingston Park", 
+        "timestamp": "2017-08-15T04:48:28.059000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Grant Ave & Main St", 
+          "last_updated": 1502772313, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "15"
+        }, 
+        "free_bikes": 6, 
+        "id": "a239df3c8280cc7a4c4d824faffa8a07", 
+        "latitude": 39.957493, 
+        "longitude": -82.990057, 
+        "name": "Grant Ave & Main St", 
+        "timestamp": "2017-08-15T04:48:28.058000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Sensenbrenner Park", 
+          "last_updated": 1502772466, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "16"
+        }, 
+        "free_bikes": 6, 
+        "id": "72be88e768669e5df6c979b42c5e70a9", 
+        "latitude": 39.968596, 
+        "longitude": -83.001618, 
+        "name": "Sensenbrenner Park", 
+        "timestamp": "2017-08-15T04:48:28.061000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "High St & Spring St", 
+          "last_updated": 1502772416, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "17"
+        }, 
+        "free_bikes": 6, 
+        "id": "219212d529379540aa24e0b08f0b13b0", 
+        "latitude": 39.965866, 
+        "longitude": -83.001502, 
+        "name": "High St & Spring St", 
+        "timestamp": "2017-08-15T04:48:28.060000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "3rd St & Gay St", 
+          "last_updated": 1502772473, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "18"
+        }, 
+        "free_bikes": 13, 
+        "id": "3494d35b40f5880e69a20ef0ed3fabe4", 
+        "latitude": 39.963964, 
+        "longitude": -82.998665, 
+        "name": "3rd St & Gay St", 
+        "timestamp": "2017-08-15T04:48:28.063000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "North Market", 
+          "last_updated": 1502772394, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "20"
+        }, 
+        "free_bikes": 1, 
+        "id": "7f7f8fa48c706bd8fffcb63b0f4080ec", 
+        "latitude": 39.972193, 
+        "longitude": -83.00356, 
+        "name": "North Market", 
+        "timestamp": "2017-08-15T04:48:28.039000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Kilbourne St & Vine St", 
+          "last_updated": 1502772223, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "21"
+        }, 
+        "free_bikes": 7, 
+        "id": "d1552c33096674dbb2ef8bc393796aed", 
+        "latitude": 39.972025, 
+        "longitude": -83.007284, 
+        "name": "Kilbourne St & Vine St", 
+        "timestamp": "2017-08-15T04:48:28.040000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Neil Ave & Buttles Ave", 
+          "last_updated": 1502772244, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "22"
+        }, 
+        "free_bikes": 10, 
+        "id": "d9801e9b7455cb4429858e04f8ec9aec", 
+        "latitude": 39.977406, 
+        "longitude": -83.011549, 
+        "name": "Neil Ave & Buttles Ave", 
+        "timestamp": "2017-08-15T04:48:28.040000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "High St & Lincoln St", 
+          "last_updated": 1502772261, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "23"
+        }, 
+        "free_bikes": 8, 
+        "id": "81899283adb66ce78310be8ed628d14d", 
+        "latitude": 39.976916, 
+        "longitude": -83.0032, 
+        "name": "High St & Lincoln St", 
+        "timestamp": "2017-08-15T04:48:28.041000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Cleveland Ave & Mt Vernon Ave", 
+          "last_updated": 1502772413, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "25"
+        }, 
+        "free_bikes": 6, 
+        "id": "c871ec604c354de7177d4c3c3f87d185", 
+        "latitude": 39.969188, 
+        "longitude": -82.990716, 
+        "name": "Cleveland Ave & Mt Vernon Ave", 
+        "timestamp": "2017-08-15T04:48:28.036000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Columbus College of Art & Design", 
+          "last_updated": 1502772365, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "26"
+        }, 
+        "free_bikes": 9, 
+        "id": "4c6cde2c1526f578fa0ed06d40154a2e", 
+        "latitude": 39.965128, 
+        "longitude": -82.990471, 
+        "name": "Columbus College of Art & Design", 
+        "timestamp": "2017-08-15T04:48:28.037000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Columbus Museum of Art", 
+          "last_updated": 1502772340, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "27"
+        }, 
+        "free_bikes": 0, 
+        "id": "cd69c08262c9b8a1c4c05c16b72b0d18", 
+        "latitude": 39.963795, 
+        "longitude": -82.988346, 
+        "name": "Columbus Museum of Art", 
+        "timestamp": "2017-08-15T04:48:28.038000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Library - Main Branch", 
+          "last_updated": 1502772233, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "28"
+        }, 
+        "free_bikes": 5, 
+        "id": "f65614407dc2bc6e6ff5186de8fb3689", 
+        "latitude": 39.961512, 
+        "longitude": -82.990196, 
+        "name": "Library - Main Branch", 
+        "timestamp": "2017-08-15T04:48:28.045000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Topiary Park - Town St", 
+          "last_updated": 1502772252, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "29"
+        }, 
+        "free_bikes": 6, 
+        "id": "7c77743a3c5d374b3313f613e831f3c0", 
+        "latitude": 39.960245, 
+        "longitude": -82.986968, 
+        "name": "Topiary Park - Town St", 
+        "timestamp": "2017-08-15T04:48:28.046000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Parsons Ave & Oak St", 
+          "last_updated": 1502772294, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "30"
+        }, 
+        "free_bikes": 9, 
+        "id": "75906bb10efed33969cd84281df50fa5", 
+        "latitude": 39.963218, 
+        "longitude": -82.981326, 
+        "name": "Parsons Ave & Oak St", 
+        "timestamp": "2017-08-15T04:48:28.064000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Champion Ave & Main St", 
+          "last_updated": 1502772462, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "46"
+        }, 
+        "free_bikes": 5, 
+        "id": "1b03566ba06b8165fb0860a24a9b7332", 
+        "latitude": 39.957751, 
+        "longitude": -82.969205, 
+        "name": "Champion Ave & Main St", 
+        "timestamp": "2017-08-15T04:48:28.042000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "4th St & 1st Ave", 
+          "last_updated": 1502772369, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "47"
+        }, 
+        "free_bikes": 4, 
+        "id": "d358a2e11ae6f69397d5e6e34a95bfc5", 
+        "latitude": 39.980567, 
+        "longitude": -82.998133, 
+        "name": "4th St & 1st Ave - Jeffrey Park", 
+        "timestamp": "2017-08-15T04:48:28.043000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "High St & 4th Ave", 
+          "last_updated": 1502772359, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "48"
+        }, 
+        "free_bikes": 13, 
+        "id": "cf4c9e4602610620379ed22318fc3b22", 
+        "latitude": 39.985204, 
+        "longitude": -83.00544, 
+        "name": "High St & 4th Ave", 
+        "timestamp": "2017-08-15T04:48:28.070000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Weinland Park - 6th Ave", 
+          "last_updated": 1502772281, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "49"
+        }, 
+        "free_bikes": 4, 
+        "id": "7ef9f7a937b58554df1da85f0373636f", 
+        "latitude": 39.988541, 
+        "longitude": -82.999571, 
+        "name": "Weinland Park - 6th Ave", 
+        "timestamp": "2017-08-15T04:48:28.034000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "High St & King Ave", 
+          "last_updated": 1502772445, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "50"
+        }, 
+        "free_bikes": 11, 
+        "id": "304fe9ba6f287971fc050bfd0c1d14a7", 
+        "latitude": 39.990144, 
+        "longitude": -83.005912, 
+        "name": "High St & King Ave", 
+        "timestamp": "2017-08-15T04:48:28.066000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "High St & 11th Ave", 
+          "last_updated": 1502772244, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "51"
+        }, 
+        "free_bikes": 6, 
+        "id": "fbc87dc0e297c29afd2529ee5c2ed4cd", 
+        "latitude": 39.994813, 
+        "longitude": -83.007113, 
+        "name": "High St & 11th Ave", 
+        "timestamp": "2017-08-15T04:48:28.065000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Neil Ave & 11th Ave", 
+          "last_updated": 1502772358, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "53"
+        }, 
+        "free_bikes": 5, 
+        "id": "c28a3fc4b72f92d8b5cb1684203ee0c9", 
+        "latitude": 39.99543, 
+        "longitude": -83.014548, 
+        "name": "Neil Ave & 11th Ave", 
+        "timestamp": "2017-08-15T04:48:28.067000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Lucas St & Town St", 
+          "last_updated": 1502772347, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "45"
+        }, 
+        "free_bikes": 10, 
+        "id": "94a8f17ee4f1e76b0c11883bb32aa81f", 
+        "latitude": 39.957433, 
+        "longitude": -83.01136, 
+        "name": "Lucas St & Town St", 
+        "timestamp": "2017-08-15T04:48:28.044000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Nationwide Arena - Front St", 
+          "last_updated": 1502772388, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "11"
+        }, 
+        "free_bikes": 6, 
+        "id": "09b95a47997da91473f42890a08aa7bf", 
+        "latitude": 39.969126, 
+        "longitude": -83.00397, 
+        "name": "Nationwide Arena - Front St", 
+        "timestamp": "2017-08-15T04:48:28.055000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Jaeger St & Whittier St", 
+          "last_updated": 1502772244, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "59"
+        }, 
+        "free_bikes": 6, 
+        "id": "a40b549662a2f28557e780f76e06534a", 
+        "latitude": 39.944601, 
+        "longitude": -82.989581, 
+        "name": "Jaeger St & Whittier St", 
+        "timestamp": "2017-08-15T04:48:28.054000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Convention Center", 
+          "last_updated": 1502772295, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "12"
+        }, 
+        "free_bikes": 4, 
+        "id": "6b4a43ae5f61ac102e5b1eca43b9c9c1", 
+        "latitude": 39.970512, 
+        "longitude": -83.002354, 
+        "name": "Convention Center", 
+        "timestamp": "2017-08-15T04:48:28.057000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "High St & 2nd Ave", 
+          "last_updated": 1502772491, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "24"
+        }, 
+        "free_bikes": 6, 
+        "id": "056c6398cad4634621d98bfa3cf11aee", 
+        "latitude": 39.982788, 
+        "longitude": -83.00458, 
+        "name": "High St & 2nd Ave", 
+        "timestamp": "2017-08-15T04:48:28.035000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Market District & 3rd Ave", 
+          "last_updated": 1502772404, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "62"
+        }, 
+        "free_bikes": 6, 
+        "id": "bff39421bc3b45e9d55499ee37bdf981", 
+        "latitude": 39.985821, 
+        "longitude": -83.0272, 
+        "name": "Market District & 3rd Ave", 
+        "timestamp": "2017-08-15T04:48:28.033000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Thurman Ave & Bruck St", 
+          "last_updated": 1502772417, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "61"
+        }, 
+        "free_bikes": 6, 
+        "id": "94c3d3a206d0996b3a4ca05a398be886", 
+        "latitude": 39.939637, 
+        "longitude": -82.987619, 
+        "name": "Thurman Ave & Bruck St", 
+        "timestamp": "2017-08-15T04:48:28.033000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "High St & Broad St", 
+          "last_updated": 1502772491, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "13"
+        }, 
+        "free_bikes": 1, 
+        "id": "7d0fcff589b38953f2b0ba73bc185783", 
+        "latitude": 39.962002, 
+        "longitude": -83.001081, 
+        "name": "High St & Broad St", 
+        "timestamp": "2017-08-15T04:48:28.057000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Lane Ave at Olentangy Trail", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "60"
+        }, 
+        "free_bikes": 5, 
+        "id": "95eb394609946b00f8b0763d0cbd6979", 
+        "latitude": 40.006525, 
+        "longitude": -83.020453, 
+        "name": "Lane Ave at Olentangy Trail", 
+        "timestamp": "2017-08-15T04:48:28.032000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "4th St & Rich St", 
+          "last_updated": 1502772490, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "56"
+        }, 
+        "free_bikes": 8, 
+        "id": "ecb23c8428328c0e0ba8e3b752e151c5", 
+        "latitude": 39.957724, 
+        "longitude": -82.995405, 
+        "name": "4th St & Rich St", 
+        "timestamp": "2017-08-15T04:48:28.029000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Michigan Ave & 3rd Ave", 
+          "last_updated": 1502772487, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "55"
+        }, 
+        "free_bikes": 8, 
+        "id": "3ad66350a278b2335567ec40bbae5c83", 
+        "latitude": 39.984053, 
+        "longitude": -83.01692, 
+        "name": "Michigan Ave & 3rd Ave", 
+        "timestamp": "2017-08-15T04:48:28.069000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "COSI", 
+          "last_updated": 1502772428, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "19"
+        }, 
+        "free_bikes": 15, 
+        "id": "cb97e2887c2dc379baa70618be373f7e", 
+        "latitude": 39.961234, 
+        "longitude": -83.006558, 
+        "name": "COSI", 
+        "timestamp": "2017-08-15T04:48:28.062000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Neil Ave & King Ave", 
+          "last_updated": 1502772375, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "54"
+        }, 
+        "free_bikes": 3, 
+        "id": "f56bce9e20cfe73130d91ccb2a7e3a4d", 
+        "latitude": 39.990309, 
+        "longitude": -83.013626, 
+        "name": "Neil Ave & King Ave", 
+        "timestamp": "2017-08-15T04:48:28.031000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/grad-makarska-makarska", 
+    "id": "grad-makarska-makarska", 
+    "location": {
+      "city": "Makarska", 
+      "country": "HR", 
+      "latitude": 43.2992, 
+      "longitude": 17.0184
+    }, 
+    "name": "Grad Makarska", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "80151", 
+            "80145"
+          ], 
+          "number": "2340", 
+          "slots": 6, 
+          "uid": "687078"
+        }, 
+        "free_bikes": 2, 
+        "id": "70b3dc309bdc72f3293059e5f13f8f46", 
+        "latitude": 43.294980746124, 
+        "longitude": 17.018170952797, 
+        "name": "Obala kralja Tomislava 12", 
+        "timestamp": "2017-08-15T04:49:56.278000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "80154", 
+            "80142", 
+            "80143", 
+            "80140", 
+            "80150"
+          ], 
+          "number": "2341", 
+          "slots": 4, 
+          "uid": "711537"
+        }, 
+        "free_bikes": 5, 
+        "id": "988d447d9b74af559c04f0009c610714", 
+        "latitude": 43.301977027664, 
+        "longitude": 17.009764909744, 
+        "name": "Hotel Dalmacija", 
+        "timestamp": "2017-08-15T04:49:56.291000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/sellero", 
+    "id": "sellero", 
+    "location": {
+      "city": "Sellero", 
+      "country": "IT", 
+      "latitude": 46.06304765446406, 
+      "longitude": 10.353434085845947
+    }, 
+    "name": "Sellero", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "9b2ec0e49c6af6108ca6a7f1ccb814e6", 
+        "latitude": 46.07255579482342, 
+        "longitude": 10.349993847885116, 
+        "name": "Stazione di Cedegolo", 
+        "timestamp": "2017-08-15T04:48:43.809000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "77f885b392bfc67084542a69e8022b92", 
+        "latitude": 46.05340750517225, 
+        "longitude": 10.348801930163518, 
+        "name": "Stazione di Sellero", 
+        "timestamp": "2017-08-15T04:48:43.811000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/piacenza", 
+    "id": "piacenza", 
+    "location": {
+      "city": "Piacenza", 
+      "country": "IT", 
+      "latitude": 45.0473754, 
+      "longitude": 9.6865813
+    }, 
+    "name": "Piacenza", 
+    "stations": [
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "a8c8c8173dedd0d965165be27655e079", 
+        "latitude": 45.05154397668164, 
+        "longitude": 9.70590591430664, 
+        "name": "01. Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:45:42.062000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "857eebb9139bf04ba1ffe9331fbda9e1", 
+        "latitude": 45.052968924635515, 
+        "longitude": 9.683160781860352, 
+        "name": "02. Parcheggio viale Malta", 
+        "timestamp": "2017-08-15T04:45:42.065000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "017d85261922833f24073cf885e255ba", 
+        "latitude": 45.04487353549908, 
+        "longitude": 9.690370559692383, 
+        "name": "03. Parcheggio via IV Novembre", 
+        "timestamp": "2017-08-15T04:45:42.069000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "53886f74eef7ea81d95963f9dcdd464b", 
+        "latitude": 45.05249899891475, 
+        "longitude": 9.693374633789062, 
+        "name": "04. Piazza Cavalli", 
+        "timestamp": "2017-08-15T04:45:42.070000Z"
+      }
+    ]
+  }
+}

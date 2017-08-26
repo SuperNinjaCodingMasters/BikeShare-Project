@@ -1,0 +1,101 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/grad-zadar-zadar", 
+    "id": "grad-zadar-zadar", 
+    "location": {
+      "city": "Zadar", 
+      "country": "HR", 
+      "latitude": 44.0058, 
+      "longitude": 15.2183
+    }, 
+    "name": "Grad Zadar", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "80427", 
+            "80451", 
+            "80447", 
+            "80446", 
+            "80438"
+          ], 
+          "number": "2387", 
+          "slots": 6, 
+          "uid": "687092"
+        }, 
+        "free_bikes": 5, 
+        "id": "95481adb99fd819f2e129715a5915c58", 
+        "latitude": 44.130909251717, 
+        "longitude": 15.210925340652, 
+        "name": "Borik", 
+        "timestamp": "2017-08-15T04:49:46.612000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "80453", 
+            "80445", 
+            "80444", 
+            "80442", 
+            "80441"
+          ], 
+          "number": "2385", 
+          "slots": 10, 
+          "uid": "687100"
+        }, 
+        "free_bikes": 6, 
+        "id": "d415e23a599df28421acc677e806fec7", 
+        "latitude": 44.114939836308, 
+        "longitude": 15.228912234306, 
+        "name": "Poluotok", 
+        "timestamp": "2017-08-15T04:49:46.627000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "80450", 
+            "80440", 
+            "80439", 
+            "80436", 
+            "80430"
+          ], 
+          "number": "2386", 
+          "slots": 10, 
+          "uid": "687108"
+        }, 
+        "free_bikes": 5, 
+        "id": "f38555f69d81112760a2878b5d5d4cde", 
+        "latitude": 44.106762841634, 
+        "longitude": 15.241132378578, 
+        "name": "Autobusni kolodvor", 
+        "timestamp": "2017-08-15T04:49:46.627000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "80449", 
+            "80448", 
+            "80443", 
+            "80437"
+          ], 
+          "number": "2388", 
+          "slots": 4, 
+          "uid": "687113"
+        }, 
+        "free_bikes": 4, 
+        "id": "06e9b0d481033aec945b32e870d83db5", 
+        "latitude": 44.122853843104, 
+        "longitude": 15.253883600235, 
+        "name": "Bili brig", 
+        "timestamp": "2017-08-15T04:49:46.629000Z"
+      }
+    ]
+  }
+}

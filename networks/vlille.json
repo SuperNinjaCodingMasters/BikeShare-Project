@@ -1,0 +1,3570 @@
+{
+  "network": {
+    "company": [
+      "Keolis"
+    ], 
+    "href": "/v2/networks/vlille", 
+    "id": "vlille", 
+    "location": {
+      "city": "Lille", 
+      "country": "FR", 
+      "latitude": 50.62925, 
+      "longitude": 3.057256
+    }, 
+    "name": "V'lille", 
+    "stations": [
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "165 Rue Roger Salengro ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 84
+        }, 
+        "free_bikes": 2, 
+        "id": "eb57e120c00bd08c96aa7e3a4248148e", 
+        "latitude": 50.6272, 
+        "longitude": 3.10927, 
+        "name": "Mairie d'Hellemmes", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 32, 
+        "extra": {
+          "address": "Place Des Buisses ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 24
+        }, 
+        "free_bikes": 8, 
+        "id": "59e863e81659a6b17b357e20cfb6a9d7", 
+        "latitude": 50.637, 
+        "longitude": 3.07101, 
+        "name": "Flandres Euralille", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "H\u00f4tel De Ville ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 120
+        }, 
+        "free_bikes": 12, 
+        "id": "897e7951cb8ec75cc84e1ab2fd1f53d8", 
+        "latitude": 50.6394, 
+        "longitude": 3.01245, 
+        "name": "Lomme Mairie", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Rue Jacquard ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 81
+        }, 
+        "free_bikes": 7, 
+        "id": "5736d11fb012b3dd35e68e38f01ef11d", 
+        "latitude": 50.6353, 
+        "longitude": 3.11509, 
+        "name": "Guinguette", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "93 Rue Royale ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 18
+        }, 
+        "free_bikes": 9, 
+        "id": "8c93d9d448a146c1736bdd3e6eb0af71", 
+        "latitude": 50.6428, 
+        "longitude": 3.05593, 
+        "name": "Voltaire", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "272, Rue Verte ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 201
+        }, 
+        "free_bikes": 16, 
+        "id": "35bb3a56fd1b406aea2250cd61b47af8", 
+        "latitude": 50.6739, 
+        "longitude": 3.16344, 
+        "name": "Edhec", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Face Au 2 Chemin Rouge ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 152
+        }, 
+        "free_bikes": 11, 
+        "id": "cc645084f5d6ac226fdce21c2fe5cfa7", 
+        "latitude": 50.6106, 
+        "longitude": 3.0651, 
+        "name": "Chemin rouge", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "Angle Place Rihour Rue Jean Roisin ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 10
+        }, 
+        "free_bikes": 1, 
+        "id": "37f2e7cd83ada8dcc7a473e2ab366533", 
+        "latitude": 50.6359, 
+        "longitude": 3.06247, 
+        "name": "Rihour", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "260 Avenue De La Republique ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 100
+        }, 
+        "free_bikes": 0, 
+        "id": "a7a30d64a80d0d84b322556c8737230e", 
+        "latitude": 50.6516, 
+        "longitude": 3.08162, 
+        "name": "Saint Maur", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "56, Rue Paul Vaillant ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 118
+        }, 
+        "free_bikes": 5, 
+        "id": "8b2ff42e988887ca5d2432ad7e0c1ff0", 
+        "latitude": 50.6418, 
+        "longitude": 3.02236, 
+        "name": "College Lavoisier", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "44 Rue Lacordaire (Face A La Piscine) ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 103
+        }, 
+        "free_bikes": 8, 
+        "id": "f64fa755713442aff7dc5bcc074dcb17", 
+        "latitude": 50.6398, 
+        "longitude": 3.10668, 
+        "name": "Lacordaire", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "390, Avenue De Dunkerque ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 119
+        }, 
+        "free_bikes": 12, 
+        "id": "06134b589f0699b175f99f2d201ff137", 
+        "latitude": 50.641, 
+        "longitude": 3.0188, 
+        "name": "Lomme-Lambersart", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "27 Boulevard Alphonse Gayet ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 106
+        }, 
+        "free_bikes": 5, 
+        "id": "abd33a012b4460f81147dbfcd5008e04", 
+        "latitude": 50.6381, 
+        "longitude": 3.1127, 
+        "name": "Concorde", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Face Au 8 Rue Anatole France ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 12
+        }, 
+        "free_bikes": 1, 
+        "id": "20a553deb4a3527dbe807e84f8cd95b4", 
+        "latitude": 50.6375, 
+        "longitude": 3.0659, 
+        "name": "Opera", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "5 Rue Laurent De Lavoisier ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 107
+        }, 
+        "free_bikes": 11, 
+        "id": "ca4f47063f716a065888b389f60a13ea", 
+        "latitude": 50.6361, 
+        "longitude": 3.10644, 
+        "name": "Lavoisier", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rue Chambord Angle Avenue De La Chatellenie ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 136
+        }, 
+        "free_bikes": 12, 
+        "id": "05f6d2128a28dc4c20cb9fd2df6b2329", 
+        "latitude": 50.6297, 
+        "longitude": 3.13387, 
+        "name": "Rue Chambord", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "108 Rue Du General De Gaulle ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 108
+        }, 
+        "free_bikes": 9, 
+        "id": "560ee5aa8ec7265a57740aec13bb8fe2", 
+        "latitude": 50.6453, 
+        "longitude": 3.10052, 
+        "name": "General de Gaulle", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Angle De La Rue Auguste Bonte  Et Du N\u00b0520 De L\u2019Avenue De Dunkerque ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 121
+        }, 
+        "free_bikes": 12, 
+        "id": "7d2f3e9f0f81d54e250a09f59ac703a9", 
+        "latitude": 50.6449, 
+        "longitude": 3.01324, 
+        "name": "Pont superieur", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "298-300 Avenue De Lattre De Tassigny ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 122
+        }, 
+        "free_bikes": 15, 
+        "id": "12b7bc1eb6de20a106cf8b6678fa9db7", 
+        "latitude": 50.6657, 
+        "longitude": 3.08729, 
+        "name": "Piscine de Marcq", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Face Au 204 Rue De La Bassee ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 109
+        }, 
+        "free_bikes": 13, 
+        "id": "34fb9839b4f8e79f62d95d6367a25fc8", 
+        "latitude": 50.6235, 
+        "longitude": 3.03067, 
+        "name": "Square du Portugal", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "916-920 Avenue De La R\u00e9publiq ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 124
+        }, 
+        "free_bikes": 18, 
+        "id": "7f32abf705792f32b8d932c9cceb7911", 
+        "latitude": 50.6618, 
+        "longitude": 3.09624, 
+        "name": "Clemenceau Hippodrome", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "10 Rue De Pas (Sur La Place Pierre Mendes France) ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 11
+        }, 
+        "free_bikes": 16, 
+        "id": "96f0cbb176d99979fa70175d647f7137", 
+        "latitude": 50.6373, 
+        "longitude": 3.06098, 
+        "name": "Nouveau siecle", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "Avenue Leon Jouhaux (Quai De La Citadelle) ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 14
+        }, 
+        "free_bikes": 14, 
+        "id": "cf2b55adf7b594861a40265c75eb1f13", 
+        "latitude": 50.6378, 
+        "longitude": 3.05222, 
+        "name": "Champ de Mars", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Face Au 38, Avenue Rhin Et Danube ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 126
+        }, 
+        "free_bikes": 8, 
+        "id": "f332cddd3563cc8ee0e9b806eecdbb2b", 
+        "latitude": 50.6406, 
+        "longitude": 3.11557, 
+        "name": "Le Polyedre", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "318, Rue Roger Salengro ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 111
+        }, 
+        "free_bikes": 8, 
+        "id": "03ad0b434685756ff7af0bc1c6e18f89", 
+        "latitude": 50.6249, 
+        "longitude": 3.11668, 
+        "name": "Hellemmes Cimetieres", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Rue Corneille (Devant \u00c9cole De Musique) ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 140
+        }, 
+        "free_bikes": 7, 
+        "id": "9da43e06666fcdb15bebc26313361f5d", 
+        "latitude": 50.6238, 
+        "longitude": 3.14481, 
+        "name": "Rue Corneille", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "16 Rue Du G\u00e9n\u00e9ral Leclerc ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 127
+        }, 
+        "free_bikes": 7, 
+        "id": "de21a02734fbb4dbe17cfea22f549b72", 
+        "latitude": 50.6371, 
+        "longitude": 3.12796, 
+        "name": "Flers Mairie", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "4, Rue Ferdinand Buisson ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 112
+        }, 
+        "free_bikes": 3, 
+        "id": "f2f07f43816c8a4076f0785307cd458f", 
+        "latitude": 50.6268, 
+        "longitude": 3.1151, 
+        "name": "Square Charles de Gaulle", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2 Rue Traversi\u00e8re Angle All\u00e9e Turgot ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 141
+        }, 
+        "free_bikes": 16, 
+        "id": "09986406ff9a9f4386dea65d1158482c", 
+        "latitude": 50.6168, 
+        "longitude": 3.14081, 
+        "name": "Metro Triolo", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "93 Rue Louise Michel ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 128
+        }, 
+        "free_bikes": 9, 
+        "id": "add4c5e2ae3782c8d5d5a51d38d66888", 
+        "latitude": 50.6338, 
+        "longitude": 3.12734, 
+        "name": "Rue Louise Michel", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rue Tr\u00e9mi\u00e8res Angle Rue Des Fusill\u00e9s ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 142
+        }, 
+        "free_bikes": 10, 
+        "id": "5d9dc9e27fbb994001ef24bf6982625d", 
+        "latitude": 50.6206, 
+        "longitude": 3.13821, 
+        "name": "Tremiere", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Boulevard Du Pr\u00e9sident Hoover ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 114
+        }, 
+        "free_bikes": 9, 
+        "id": "7668e6891f782b37d120ac7e77ca517d", 
+        "latitude": 50.6265, 
+        "longitude": 3.07921, 
+        "name": "Bois Habite", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "55, Rue Des Fusill\u00e9s ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 143
+        }, 
+        "free_bikes": 11, 
+        "id": "922cf7f52d0b69dc937bafe85d2c22df", 
+        "latitude": 50.6178, 
+        "longitude": 3.14603, 
+        "name": "Rond Point de Tournai", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Face Au 92 Rue Du General Leclerc ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 156
+        }, 
+        "free_bikes": 9, 
+        "id": "ac7e3afa3cc74a0daab2b739720d3057", 
+        "latitude": 50.6616, 
+        "longitude": 3.05032, 
+        "name": "St Andre Mairie", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "85, Rue Du G\u00e9n\u00e9ral De Gaulle ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 115
+        }, 
+        "free_bikes": 14, 
+        "id": "f0a4f8140e624ed77fc3222ed1393aa5", 
+        "latitude": 50.6515, 
+        "longitude": 3.07232, 
+        "name": "De Gaulle", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Face Au 1 Bis Rue De La Station ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 144
+        }, 
+        "free_bikes": 14, 
+        "id": "49a52b5e575ec5647a989fc8f04e8bc2", 
+        "latitude": 50.6258, 
+        "longitude": 3.14862, 
+        "name": "Annappes Republique", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Face Au 255 Rue De Lille ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "1", 
+          "uid": 157
+        }, 
+        "free_bikes": 2, 
+        "id": "b7eaa20134419e396efd5c36e04601e5", 
+        "latitude": 50.6499, 
+        "longitude": 3.04205, 
+        "name": "Canon d'Or", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "185, Avenue De La R\u00e9publique ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 116
+        }, 
+        "free_bikes": 5, 
+        "id": "9f26833770203278fbe37feb2ed5ccbe", 
+        "latitude": 50.6489, 
+        "longitude": 3.07834, 
+        "name": "Botanique", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Place N. Dame De La Nativit\u00e9 ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 145
+        }, 
+        "free_bikes": 3, 
+        "id": "fb26e3f5e645214f3de4c300d0408977", 
+        "latitude": 50.6199, 
+        "longitude": 3.14528, 
+        "name": "Residence", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Face Au 102 Avenue Henri Delecaux ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 158
+        }, 
+        "free_bikes": 13, 
+        "id": "930655b475baf4326a24fd1ee4f1a670", 
+        "latitude": 50.6449, 
+        "longitude": 3.03693, 
+        "name": "Delecaut", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "Rue Baudouin Ix - M\u00e9tro Pont De Bois ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 130
+        }, 
+        "free_bikes": 4, 
+        "id": "0a7ce94b5a02c934f877f30a91a33eec", 
+        "latitude": 50.6245, 
+        "longitude": 3.12789, 
+        "name": "Pont de Bois", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Face 171 Rue Nationale ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 146
+        }, 
+        "free_bikes": 16, 
+        "id": "994cbdde9c40cd6f178d76645613058a", 
+        "latitude": 50.6327, 
+        "longitude": 3.05248, 
+        "name": "Solferino Nationale", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Rue Vermeer - Parking De L'H\u00f4tel De Ville ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 131
+        }, 
+        "free_bikes": 21, 
+        "id": "7fb0457a23dd466852b0e49c9e13eb60", 
+        "latitude": 50.6196, 
+        "longitude": 3.13197, 
+        "name": "V.Ascq Hotel de Ville", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Rue Du Faubourg De Douai Sous Le Pont ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 148
+        }, 
+        "free_bikes": 20, 
+        "id": "6310beb3c0f2b7de6b4c7835fefc8a5b", 
+        "latitude": 50.6122, 
+        "longitude": 3.07495, 
+        "name": "P.I. de Douai", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "33 Avenue Du Peuple Belge ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 17
+        }, 
+        "free_bikes": 16, 
+        "id": "7b2e5122a4ad8b728b0a12c55a01ab7e", 
+        "latitude": 50.6447, 
+        "longitude": 3.06087, 
+        "name": "Halle aux sucres", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "48, Avenue Gustave Delory ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 211
+        }, 
+        "free_bikes": 9, 
+        "id": "c45ccf16bf3c7c1872ba2c1c686a744f", 
+        "latitude": 50.6742, 
+        "longitude": 3.17452, 
+        "name": "Gustave Delory", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Face Au 233 Boulevard De Valmy ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 133
+        }, 
+        "free_bikes": 16, 
+        "id": "78526176e9e6adb6b034c1ef607fde5f", 
+        "latitude": 50.6191, 
+        "longitude": 3.1265, 
+        "name": "Boulevard de Valmy", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Face Au 780 Avenue Jean Jaures ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 149
+        }, 
+        "free_bikes": 4, 
+        "id": "75894648ede0d937c99ae0cd209ce4d7", 
+        "latitude": 50.6096, 
+        "longitude": 3.07548, 
+        "name": "Jean Jaures", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "42, Rue Dupuy De Lom\u00e9 ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 212
+        }, 
+        "free_bikes": 3, 
+        "id": "86b7582d788b384d15f8b5396702e24b", 
+        "latitude": 50.6821, 
+        "longitude": 3.1822, 
+        "name": "Danielle Lesaffre", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "158, Boulevard Gambetta ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 229
+        }, 
+        "free_bikes": 9, 
+        "id": "5a639dec5fb041f81b6750ef76ecf818", 
+        "latitude": 50.6924, 
+        "longitude": 3.18509, 
+        "name": "Nations Unies", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "76, Boulevard Van Gogh ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 134
+        }, 
+        "free_bikes": 7, 
+        "id": "9eafafba3d1b49767b3789973fcf85ca", 
+        "latitude": 50.6221, 
+        "longitude": 3.13171, 
+        "name": "Rue des Victoires", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Sur Le Parvis De La Mairie ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 150
+        }, 
+        "free_bikes": 4, 
+        "id": "818d904ada881df79a5374e2dac5ae94", 
+        "latitude": 50.6055, 
+        "longitude": 3.07762, 
+        "name": "Ronchin Mairie", 
+        "timestamp": "2017-08-15T04:46:36.264000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Rue Du Port Bd Vauban ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 2
+        }, 
+        "free_bikes": 19, 
+        "id": "f0d2afffdc755fc29df37f36f6ba208d", 
+        "latitude": 50.6322, 
+        "longitude": 3.04613, 
+        "name": "Universite Catholique", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "181, Boulevard De Strasbourg ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 230
+        }, 
+        "free_bikes": 5, 
+        "id": "9b88f280cfec8b7330fe122b15881e00", 
+        "latitude": 50.7008, 
+        "longitude": 3.18407, 
+        "name": "De la Vigne", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Face Au 152 Chemin Margueritois ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 151
+        }, 
+        "free_bikes": 9, 
+        "id": "c1ec55be561c855a3ea358632ca61181", 
+        "latitude": 50.6064, 
+        "longitude": 3.07221, 
+        "name": "Ch. des Margueritois", 
+        "timestamp": "2017-08-15T04:46:36.264000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "186, Avenue Julien Lagache ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 215
+        }, 
+        "free_bikes": 3, 
+        "id": "8a606851d1af1f7fa6a11d3d9810debc", 
+        "latitude": 50.6846, 
+        "longitude": 3.2008, 
+        "name": "Trois Ponts", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Face Au 102 Allee Du Riez ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 153
+        }, 
+        "free_bikes": 13, 
+        "id": "3a7d69c0aa7285dc5a404143c4aec92b", 
+        "latitude": 50.6555, 
+        "longitude": 3.06499, 
+        "name": "Pompidou", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Face Au 232, Rue Jean Jaur\u00e8s ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 200
+        }, 
+        "free_bikes": 12, 
+        "id": "b0818bad9790e3fe151306687fa8ce60", 
+        "latitude": 50.6791, 
+        "longitude": 3.15591, 
+        "name": "Mairie de Croix", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Face Au 125 Rue Roger Salengro ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 154
+        }, 
+        "free_bikes": 16, 
+        "id": "070e86882e0fe4af0f082bfc11922327", 
+        "latitude": 50.6553, 
+        "longitude": 3.06062, 
+        "name": "Chaufferie", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "13, Place De La Fosse Aux Ch\u00eanes ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 232
+        }, 
+        "free_bikes": 6, 
+        "id": "e561464022a712243876a1aebb3c6d28", 
+        "latitude": 50.6997, 
+        "longitude": 3.17435, 
+        "name": "Fosse aux Chenes", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Secteur Bvrd De L'Egalit\u00e9 ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 247
+        }, 
+        "free_bikes": 6, 
+        "id": "c5d503f36967cd5322378f79fbd2ff9f", 
+        "latitude": 50.7341, 
+        "longitude": 3.16799, 
+        "name": "Rouget de l Isle", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rue De Tourcoing (Sur La Parking Grdf) ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 233
+        }, 
+        "free_bikes": 5, 
+        "id": "fbb4584601b9e30d5531e40db85e23a7", 
+        "latitude": 50.702, 
+        "longitude": 3.17265, 
+        "name": "Rue de Tourcoing", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Boulevard Du G\u00e9n\u00e9ral De Gaulle ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 203
+        }, 
+        "free_bikes": 8, 
+        "id": "a61577eaf313506cc69ced1a51a6a16e", 
+        "latitude": 50.6808, 
+        "longitude": 3.16745, 
+        "name": "Victor Provo", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "89, Boulevard D'Armenti\u00e8res ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 234
+        }, 
+        "free_bikes": 9, 
+        "id": "5a793f76fe4bebc554c604b7e5824ece", 
+        "latitude": 50.7004, 
+        "longitude": 3.16138, 
+        "name": "Alsace", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Face Au 49 Bis Bd Du G\u00e9n\u00e9ral De Gaulle ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 204
+        }, 
+        "free_bikes": 7, 
+        "id": "496a16cb5679604625a9509090533847", 
+        "latitude": 50.6848, 
+        "longitude": 3.17197, 
+        "name": "Jean Moulin", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenue Des Nations Unies Angle Rue Blanchemaille ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 235
+        }, 
+        "free_bikes": 8, 
+        "id": "5b2056969a7741ccf1e3a663e825713a", 
+        "latitude": 50.6963, 
+        "longitude": 3.16713, 
+        "name": "Blanchemaille", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "45, Rue Louis Dupire ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 205
+        }, 
+        "free_bikes": 6, 
+        "id": "16e978289c8232329ac7661d67638d0b", 
+        "latitude": 50.6909, 
+        "longitude": 3.18854, 
+        "name": "Condition Publique", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "Place Louise De Bettignies ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 22
+        }, 
+        "free_bikes": 2, 
+        "id": "04bd2016b5c0da2dc2af4f3866b0a72d", 
+        "latitude": 50.6412, 
+        "longitude": 3.06499, 
+        "name": "Louise de Bettignies", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "15, Boulevard Du G\u00e9n\u00e9ral De Gaulle ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 206
+        }, 
+        "free_bikes": 0, 
+        "id": "17cad61ab6bf10e99203b6622f4ac6d2", 
+        "latitude": 50.688, 
+        "longitude": 3.17481, 
+        "name": "Alfred Mongy", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "105, Avenue Jean-Baptiste Lebas ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 220
+        }, 
+        "free_bikes": 7, 
+        "id": "f77815bed0e848a6c69125234403eb12", 
+        "latitude": 50.6938, 
+        "longitude": 3.16767, 
+        "name": "Musee Art et Industrie", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Face Au 42 Rue Des Anges ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 237
+        }, 
+        "free_bikes": 6, 
+        "id": "5842cf434af468cd46dccae610343038", 
+        "latitude": 50.7198, 
+        "longitude": 3.15634, 
+        "name": "Rue des Anges", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "78-84, Boulevard Du G\u00e9n\u00e9ral Leclerc ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 207
+        }, 
+        "free_bikes": 10, 
+        "id": "7975ae23b1db42f67197dc6bcc27e649", 
+        "latitude": 50.6914, 
+        "longitude": 3.17966, 
+        "name": "Euroteleport", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Face Au 1, Contour  Saint Martin ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 221
+        }, 
+        "free_bikes": 13, 
+        "id": "49c7e99b75013af6d72568edaf9bdf32", 
+        "latitude": 50.6918, 
+        "longitude": 3.17392, 
+        "name": "Roubaix Mairie", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rue De Gand (Face Au Lyc\u00e9e) ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 251
+        }, 
+        "free_bikes": 7, 
+        "id": "fa80995c9319e3e12a3f1d3a840c66ae", 
+        "latitude": 50.7255, 
+        "longitude": 3.15655, 
+        "name": "Colbert", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "32, Rue De La Communaut\u00e9 Urbaine ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 222
+        }, 
+        "free_bikes": 6, 
+        "id": "8c80cc74a3f7a25e4223efd07ac077c2", 
+        "latitude": 50.6941, 
+        "longitude": 3.17216, 
+        "name": "Les Gobelins", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "107, Boulevard De Fourmies ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 208
+        }, 
+        "free_bikes": 4, 
+        "id": "b73f53a2ebb4dda20c4bcc421c7563e7", 
+        "latitude": 50.6754, 
+        "longitude": 3.182, 
+        "name": "De Fourmies", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Boulevard Du President Hoover ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 63
+        }, 
+        "free_bikes": 20, 
+        "id": "556fc727c575338ca2a23189660018eb", 
+        "latitude": 50.6297, 
+        "longitude": 3.07822, 
+        "name": "Hotel de Region", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Secteur Bvld Egalite ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 239
+        }, 
+        "free_bikes": 6, 
+        "id": "847c124325c1eef0b2509bc2463af688", 
+        "latitude": 50.7303, 
+        "longitude": 3.16752, 
+        "name": "Bvrd de l Egalite", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "35 Rue Edouard Delesalle ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 66
+        }, 
+        "free_bikes": 11, 
+        "id": "136de7940f99657d24be2c9e8204a338", 
+        "latitude": 50.6324, 
+        "longitude": 3.06627, 
+        "name": "Delesalle Mediatheque", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "122 Boulevard Montebello ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 67
+        }, 
+        "free_bikes": 11, 
+        "id": "6b52c8dd7f54b988f6122b0d5bc717ad", 
+        "latitude": 50.622, 
+        "longitude": 3.04534, 
+        "name": "Montebello", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "301, Rue Du Pont De Neuville ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 256
+        }, 
+        "free_bikes": 10, 
+        "id": "dd8e373c447e63166de4bb6d83befee1", 
+        "latitude": 50.737, 
+        "longitude": 3.17117, 
+        "name": "Pont de Neuville", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "244 - 254 Rue Nationale ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 68
+        }, 
+        "free_bikes": 24, 
+        "id": "b92b538039af84d3936694a40ec2f1d1", 
+        "latitude": 50.6308, 
+        "longitude": 3.04778, 
+        "name": "Nationale Rue du Port", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1, Boulevard D'Armenti\u00e8res ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 227
+        }, 
+        "free_bikes": 8, 
+        "id": "d1e92995c11ec0e8aa5cd6b7d53d8aea", 
+        "latitude": 50.6994, 
+        "longitude": 3.15966, 
+        "name": "Bvrd Armentieres", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rue Des Piats (Sous Abri Bus - Parvis De L'Atelier) ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 241
+        }, 
+        "free_bikes": 7, 
+        "id": "56272105f91e3a41cfe4d376c35e794d", 
+        "latitude": 50.7223, 
+        "longitude": 3.17085, 
+        "name": "Le Corbusier", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "11 Avenue Verhaeren ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 69
+        }, 
+        "free_bikes": 9, 
+        "id": "fad64f046a265ec018438439a9847ea3", 
+        "latitude": 50.6189, 
+        "longitude": 3.03254, 
+        "name": "Chasseurs de Driant", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "7 Place De Strasbourg ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 7
+        }, 
+        "free_bikes": 9, 
+        "id": "0f5a1be28a0f12814628faed9810d451", 
+        "latitude": 50.6337, 
+        "longitude": 3.05531, 
+        "name": "Place de Strasbourg", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Face Au 1 Place De La Victoire ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 243
+        }, 
+        "free_bikes": 4, 
+        "id": "2ccccb3ad5b9906f1133dbf98354e979", 
+        "latitude": 50.7182, 
+        "longitude": 3.15749, 
+        "name": "Victoire", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Boulevard Gambetta (Face \u00c0 La Station De Taxi) ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 259
+        }, 
+        "free_bikes": 10, 
+        "id": "8973ff3a40dcfe686c058a54247e4416", 
+        "latitude": 50.7047, 
+        "longitude": 3.16052, 
+        "name": "Mercure", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "24 Place Marechal Leclerc ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 35
+        }, 
+        "free_bikes": 18, 
+        "id": "85087e37f7450ea483fa3c574f143aee", 
+        "latitude": 50.629, 
+        "longitude": 3.04331, 
+        "name": "Leclerc", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2-14 Boulevard De L'\u00c9galit\u00e9 ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 244
+        }, 
+        "free_bikes": 6, 
+        "id": "1ed7329f9f9824c535761f75c345064c", 
+        "latitude": 50.7274, 
+        "longitude": 3.16646, 
+        "name": "F Roosevelt", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "122 Avenue De Dunkerque ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 71
+        }, 
+        "free_bikes": 19, 
+        "id": "2b06a525aa2c921cc12468d2ba469736", 
+        "latitude": 50.634, 
+        "longitude": 3.03078, 
+        "name": "Bois Blancs", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "16 - 36 Place Cormontaigne ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 36
+        }, 
+        "free_bikes": 10, 
+        "id": "6f6fd2b4d497ebd4361aa745765fc86f", 
+        "latitude": 50.6262, 
+        "longitude": 3.03991, 
+        "name": "Cormontaigne", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "45, Place Charles Et Albert Roussel ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 260
+        }, 
+        "free_bikes": 13, 
+        "id": "9790c0ff371cc4a67b7c8b335cfb9e75", 
+        "latitude": 50.721, 
+        "longitude": 3.15798, 
+        "name": "Place Roussel", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1 Boulevard Jean Baptiste Lebas ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 47
+        }, 
+        "free_bikes": 15, 
+        "id": "eb68529f549dddc2009712118e2c8afa", 
+        "latitude": 50.6282, 
+        "longitude": 3.06923, 
+        "name": "Boulevard Louis XIV", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "211 Rue Du Faubourg De Roubaix ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 73
+        }, 
+        "free_bikes": 13, 
+        "id": "22fd99fe4ea79d119e084cc7125ae872", 
+        "latitude": 50.6423, 
+        "longitude": 3.08798, 
+        "name": "St Maurice Pellevoisin", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Face Au 49 Rue De La Cloche ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 246
+        }, 
+        "free_bikes": 9, 
+        "id": "ee211a54c73ecd7fb2b3688d739dc840", 
+        "latitude": 50.7227, 
+        "longitude": 3.16379, 
+        "name": "Cavell", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "104 Rue Du Faubourg De Roubaix ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 74
+        }, 
+        "free_bikes": 10, 
+        "id": "b1be6283f6c9488f1ed1118be7249655", 
+        "latitude": 50.641, 
+        "longitude": 3.08249, 
+        "name": "Faubourg de Roubaix", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "298 Rue Leon Gambetta ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 39
+        }, 
+        "free_bikes": 14, 
+        "id": "dde44efadd9de2daea77c8b367066bf0", 
+        "latitude": 50.6277, 
+        "longitude": 3.05017, 
+        "name": "Marche de Wazemmes", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "28 Rue De L'Hopital Saint Roch ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 4
+        }, 
+        "free_bikes": 9, 
+        "id": "2110e4e1febf42f154f80841f93e0f19", 
+        "latitude": 50.6247, 
+        "longitude": 3.04896, 
+        "name": "Maison Folie Wazemmes", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "681 Avenue De La Republique ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 41
+        }, 
+        "free_bikes": 15, 
+        "id": "5e79f4c58948de1f458ed4b4c690b366", 
+        "latitude": 50.6565, 
+        "longitude": 3.088, 
+        "name": "Buisson", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rue Du Faubourg Des Postes ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 78
+        }, 
+        "free_bikes": 7, 
+        "id": "97d20ce37153851c7a77e9554b8bf061", 
+        "latitude": 50.6155, 
+        "longitude": 3.04852, 
+        "name": "Hotel de Police", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "15 Place Phillippe Lebon ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 42
+        }, 
+        "free_bikes": 11, 
+        "id": "c5b2ebc06f75683a43ae20cf72bde45a", 
+        "latitude": 50.6276, 
+        "longitude": 3.06197, 
+        "name": "Place Philippe Lebon", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "299 Boulevard De Leeds ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 82
+        }, 
+        "free_bikes": 13, 
+        "id": "650ba709d6c6ef69811cbddcc93307f5", 
+        "latitude": 50.64, 
+        "longitude": 3.0752, 
+        "name": "Gare Lille Europe", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Face Au 37 Rue De Wazemmes ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 52
+        }, 
+        "free_bikes": 19, 
+        "id": "dfb04921e400e782eacd567437659517", 
+        "latitude": 50.6228, 
+        "longitude": 3.0638, 
+        "name": "Place Colette Besson", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Avenue De Bretagne (Devant L'Entree D'Euratechnologie) ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 83
+        }, 
+        "free_bikes": 7, 
+        "id": "ef2c1ee7ccea1cb072e048ec99db3d7d", 
+        "latitude": 50.6341, 
+        "longitude": 3.02066, 
+        "name": "EuraTechnologies", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "1 Place Barthelemy Dorez ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 53
+        }, 
+        "free_bikes": 11, 
+        "id": "8c3b6e1cff7ddec1e687570070a3c191", 
+        "latitude": 50.6186, 
+        "longitude": 3.04925, 
+        "name": "Porte des Postes", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "65 Rue Du Faubourg Des Postes ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 79
+        }, 
+        "free_bikes": 13, 
+        "id": "b4586dce837f11cc8df6101e0721393b", 
+        "latitude": 50.6131, 
+        "longitude": 3.04722, 
+        "name": "Cimetiere du Sud", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "199 Rue Leon Gambetta ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 44
+        }, 
+        "free_bikes": 3, 
+        "id": "d9e3181c08f54ff3037167d8ebde46da", 
+        "latitude": 50.6291, 
+        "longitude": 3.05371, 
+        "name": "Gambetta Utrecht", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "3 Place Jacques Febvrier ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 55
+        }, 
+        "free_bikes": 15, 
+        "id": "96f8b8313bd55f8d38d7faba7e84addc", 
+        "latitude": 50.6178, 
+        "longitude": 3.06176, 
+        "name": "Porte d'Arras", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Rue Du Professeur Langevin ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 80
+        }, 
+        "free_bikes": 5, 
+        "id": "c58411875d3b5513fdff8501b661953e", 
+        "latitude": 50.6199, 
+        "longitude": 3.08436, 
+        "name": "Petit Maroc", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "214 Boulevard Victor Hugo ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 56
+        }, 
+        "free_bikes": 17, 
+        "id": "0246cea3bd75d27cf81539e43860e6ea", 
+        "latitude": 50.6203, 
+        "longitude": 3.05547, 
+        "name": "Bd Victor Hugo", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "68 Rue Roger Salengro  ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 86
+        }, 
+        "free_bikes": 7, 
+        "id": "93b76a52e18b75287796ca60586d757d", 
+        "latitude": 50.6287, 
+        "longitude": 3.10402, 
+        "name": "Roger Salengro", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Face Au 52 Rue Barthelemy Delespaul ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 57
+        }, 
+        "free_bikes": 12, 
+        "id": "0c424c7611701f5b7bab067bb3a3d960", 
+        "latitude": 50.6242, 
+        "longitude": 3.0589, 
+        "name": "Barthelemy Delespaul", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Boulevard De Belfort ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 58
+        }, 
+        "free_bikes": 2, 
+        "id": "b1e999b02907906e59db4c7b5abf9ea6", 
+        "latitude": 50.6209, 
+        "longitude": 3.07895, 
+        "name": "Porte de Valenciennes", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "40 Boulevard De Metz ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 89
+        }, 
+        "free_bikes": 17, 
+        "id": "633d308182d5a47aac104587c751ffdc", 
+        "latitude": 50.6193, 
+        "longitude": 3.0413, 
+        "name": "Boulevard de Metz", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "30 Boulevard Du Marechal Vaillant ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 61
+        }, 
+        "free_bikes": 8, 
+        "id": "07e3722b5c64bf95cbbd06436d42042c", 
+        "latitude": 50.6292, 
+        "longitude": 3.07522, 
+        "name": "Lille Grand Palais", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "280 Bis Rue Pierre Legrand ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 95
+        }, 
+        "free_bikes": 8, 
+        "id": "13ec35cb1c1da3400175f4894e380296", 
+        "latitude": 50.6304, 
+        "longitude": 3.09704, 
+        "name": "Marbrerie", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "250 Rue General De Gaulle ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 97
+        }, 
+        "free_bikes": 10, 
+        "id": "24bc2556e83296ce91019c8e49f6efd2", 
+        "latitude": 50.6594, 
+        "longitude": 3.07406, 
+        "name": "La Madeleine Gare", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Angle De La Rue Gambetta Et La Place Fusilles Et Deportes ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 98
+        }, 
+        "free_bikes": 6, 
+        "id": "40277ab5e184f206732011d2faced228", 
+        "latitude": 50.6549, 
+        "longitude": 3.06876, 
+        "name": "Place du Marche", 
+        "timestamp": "2017-08-15T04:46:36.271000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rue Du General De Gaulle ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 99
+        }, 
+        "free_bikes": 16, 
+        "id": "a6367664318083eb3a23c04b64390a87", 
+        "latitude": 50.6546, 
+        "longitude": 3.07381, 
+        "name": "La Madeleine Mairie", 
+        "timestamp": "2017-08-15T04:46:36.271000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Avenue Jean Jaures ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 202
+        }, 
+        "free_bikes": 15, 
+        "id": "70e8c984f09044a201c3a35dae8b37ce", 
+        "latitude": 50.6779, 
+        "longitude": 3.16235, 
+        "name": "Parc Barbieux", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "97, Rue Jules Guesde ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 135
+        }, 
+        "free_bikes": 12, 
+        "id": "91bb436765f8cf926dc3e97e3dff30f4", 
+        "latitude": 50.6375, 
+        "longitude": 3.12315, 
+        "name": "Flers Masquelier", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "40, Rue De La Vague ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 137
+        }, 
+        "free_bikes": 6, 
+        "id": "b578c5be5e09d95f1b00ddbd67006714", 
+        "latitude": 50.6159, 
+        "longitude": 3.12609, 
+        "name": "Heron Parc", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Face Au 53 Rue De Fives ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 138
+        }, 
+        "free_bikes": 7, 
+        "id": "200aa0bca5505e518e92b1aefae31eca", 
+        "latitude": 50.6313, 
+        "longitude": 3.12691, 
+        "name": "Ladriere", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rue De Lille ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 139
+        }, 
+        "free_bikes": 8, 
+        "id": "ca4ef11308dee37dd694c5ad9e9744ee", 
+        "latitude": 50.6258, 
+        "longitude": 3.14471, 
+        "name": "Rue de Lille", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Pont Du Petit Paradis ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 15
+        }, 
+        "free_bikes": 10, 
+        "id": "824ec0bbc2dc8c88b9045b63157f053e", 
+        "latitude": 50.6449, 
+        "longitude": 3.05065, 
+        "name": "Esplanade", 
+        "timestamp": "2017-08-15T04:46:36.258000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "15 Rue De Courtrai ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 32
+        }, 
+        "free_bikes": 10, 
+        "id": "fc1ad681246e5bf0da45d9497e1660f7", 
+        "latitude": 50.6414, 
+        "longitude": 3.06787, 
+        "name": "Place aux Bleuets", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "18 Rue De Turenne ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 33
+        }, 
+        "free_bikes": 10, 
+        "id": "380cabeb7884c200f44b29af74dee596", 
+        "latitude": 50.6302, 
+        "longitude": 3.03568, 
+        "name": "Port de Lille", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "199 Rue Colbert ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 34
+        }, 
+        "free_bikes": 1, 
+        "id": "060c6c7405850cb44e058365053b75e3", 
+        "latitude": 50.6341, 
+        "longitude": 3.04121, 
+        "name": "Place Catinat", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "14 Rue Du Bazinghien ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 37
+        }, 
+        "free_bikes": 5, 
+        "id": "4eee06fdd914bc6d640700add2a83e07", 
+        "latitude": 50.6234, 
+        "longitude": 3.03755, 
+        "name": "Fulton", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "1 Rue D'Haubourdin ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "1", 
+          "uid": 38
+        }, 
+        "free_bikes": 0, 
+        "id": "96ba317525fe1a672fb1a371991e908c", 
+        "latitude": 50.6243, 
+        "longitude": 3.04532, 
+        "name": "Place Casquette", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "41 Rue Du Marche ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 40
+        }, 
+        "free_bikes": 6, 
+        "id": "e4e6359eb51e04b962be5e3ff5eefd1e", 
+        "latitude": 50.6261, 
+        "longitude": 3.05173, 
+        "name": "Metro Gambetta", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "3 Place Sebastopol ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 43
+        }, 
+        "free_bikes": 6, 
+        "id": "e9f05dfacddc26d70a576846d200cee0", 
+        "latitude": 50.629, 
+        "longitude": 3.05829, 
+        "name": "Theatre Sebastopol", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "51 Rue Des Postes ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 45
+        }, 
+        "free_bikes": 14, 
+        "id": "f8aeef3c5e725bf0f382c652cfead696", 
+        "latitude": 50.6265, 
+        "longitude": 3.05667, 
+        "name": "Brule Maison", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "12 Rue D'Artois ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 46
+        }, 
+        "free_bikes": 16, 
+        "id": "eec20e02f0253cb3f46e75dc16628a00", 
+        "latitude": 50.6263, 
+        "longitude": 3.0612, 
+        "name": "Artois", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Place Fernig ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 48
+        }, 
+        "free_bikes": 13, 
+        "id": "f21b576e04f7ee9b11ee6f5e1f7dd772", 
+        "latitude": 50.6183, 
+        "longitude": 3.0722, 
+        "name": "Porte de Douai", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1 Place Deliot ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 49
+        }, 
+        "free_bikes": 14, 
+        "id": "526c0e2a652be4ba5141cebff1724f54", 
+        "latitude": 50.6196, 
+        "longitude": 3.06839, 
+        "name": "Place Deliot", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "73 Rue Massena ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 5
+        }, 
+        "free_bikes": 6, 
+        "id": "28bc6f7fa42c1c7a330396b3affa9be9", 
+        "latitude": 50.6316, 
+        "longitude": 3.05474, 
+        "name": "Massena", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "4 Rue Wazemmes ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 50
+        }, 
+        "free_bikes": 8, 
+        "id": "9a7f2773f17573dcbd8d8e062ea1be57", 
+        "latitude": 50.6222, 
+        "longitude": 3.067, 
+        "name": "Rue d'Arras", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "93 Rue Racine ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 54
+        }, 
+        "free_bikes": 16, 
+        "id": "ee2dbe9d2bc7ee6e1ecca687782cb481", 
+        "latitude": 50.6234, 
+        "longitude": 3.05156, 
+        "name": "Metro Wazemmes", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "192, Avenue De Linn\u00e9 ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 210
+        }, 
+        "free_bikes": 8, 
+        "id": "e8dc8c5134b19d54b8ba8c6d70c4c4d6", 
+        "latitude": 50.6769, 
+        "longitude": 3.18782, 
+        "name": "Linne", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "93, Rue De Lannoy ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 213
+        }, 
+        "free_bikes": 8, 
+        "id": "91e359c36afaf593dfdacf09416ac7a3", 
+        "latitude": 50.6886, 
+        "longitude": 3.18203, 
+        "name": "Lannoy", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1, Rue Lesueur ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 214
+        }, 
+        "free_bikes": 8, 
+        "id": "8465de6aa4be516516b6a47994ffdd27", 
+        "latitude": 50.6795, 
+        "longitude": 3.17926, 
+        "name": "Saint Jean-Baptiste", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Place De La Fraternit\u00e9 ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 216
+        }, 
+        "free_bikes": 7, 
+        "id": "6e5444e697b76876a4e12ab0d2044f63", 
+        "latitude": 50.6818, 
+        "longitude": 3.19412, 
+        "name": "Fraternite", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Boulevard De Lyon ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 217
+        }, 
+        "free_bikes": 5, 
+        "id": "69d9a9ea8f4a79cc6411ee54a5617912", 
+        "latitude": 50.6787, 
+        "longitude": 3.17256, 
+        "name": "Hopital Victor Provo", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Place Charles Spriet ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 218
+        }, 
+        "free_bikes": 10, 
+        "id": "1efa13dc007add94b72c369372250a5e", 
+        "latitude": 50.6739, 
+        "longitude": 3.18514, 
+        "name": "Place Spriet", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Place De La Gare ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 219
+        }, 
+        "free_bikes": 9, 
+        "id": "aea5d9b4a79793c0dc7e2f2579140613", 
+        "latitude": 50.6955, 
+        "longitude": 3.16422, 
+        "name": "Gare Jean Lebas", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "3, Place Du Trichon ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 223
+        }, 
+        "free_bikes": 6, 
+        "id": "c99406b085f9c256da3d03bac45c5ec8", 
+        "latitude": 50.6903, 
+        "longitude": 3.16912, 
+        "name": "Place Trichon", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "26, Rue De L'Epeule ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 224
+        }, 
+        "free_bikes": 7, 
+        "id": "cea408fb2a174fa15901a0db14cb4d45", 
+        "latitude": 50.6914, 
+        "longitude": 3.1627, 
+        "name": "Centre Nautique", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rue Inkerman ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 225
+        }, 
+        "free_bikes": 10, 
+        "id": "60feeb8a0987d326d57d597b7cf2da55", 
+        "latitude": 50.684, 
+        "longitude": 3.16327, 
+        "name": "Epeule Montesquieu", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "72, Rue De Lille ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 226
+        }, 
+        "free_bikes": 10, 
+        "id": "b10e16c6b7db6c74e1064d9077611a9d", 
+        "latitude": 50.6865, 
+        "longitude": 3.17001, 
+        "name": "Charles de Gaulle", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "15, Rue Pellart ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 228
+        }, 
+        "free_bikes": 7, 
+        "id": "4bf108933b0ce95b7fa716ee41a2a344", 
+        "latitude": 50.6954, 
+        "longitude": 3.18078, 
+        "name": "Pellart", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "84 Rue De Trevise ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 59
+        }, 
+        "free_bikes": 6, 
+        "id": "9426a65d8550568aedb8c9e5909d1669", 
+        "latitude": 50.6222, 
+        "longitude": 3.07713, 
+        "name": "Belfort", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "2 Rue Inkerman ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 6
+        }, 
+        "free_bikes": 1, 
+        "id": "de37d88b64722eee45b56365ca24137f", 
+        "latitude": 50.6309, 
+        "longitude": 3.0603, 
+        "name": "Republique Beaux Arts", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "114 Rue De Douai ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 60
+        }, 
+        "free_bikes": 18, 
+        "id": "64cbbfeca1fb8eee841181b3be4bfafe", 
+        "latitude": 50.6212, 
+        "longitude": 3.07236, 
+        "name": "Trevise", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Boulevard Emile Dubuisson ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 62
+        }, 
+        "free_bikes": 3, 
+        "id": "31fa4b034af2d5d8940756504ffb2517", 
+        "latitude": 50.633, 
+        "longitude": 3.07644, 
+        "name": "Zenith", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "85, Rue De Gand ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 248
+        }, 
+        "free_bikes": 5, 
+        "id": "6fdf854b0a70db5074a7fc535e64e6e2", 
+        "latitude": 50.7288, 
+        "longitude": 3.15883, 
+        "name": "Rue Saint Blaise", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Face Au 40 Rue Jourdan ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 249
+        }, 
+        "free_bikes": 2, 
+        "id": "f4ce0c9c074bf3213fb508b67a3aedcf", 
+        "latitude": 50.7288, 
+        "longitude": 3.15405, 
+        "name": "Rue de Menin", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Place De La Gare ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 25
+        }, 
+        "free_bikes": 12, 
+        "id": "7f7fffabb8c66864783991730633829b", 
+        "latitude": 50.636, 
+        "longitude": 3.06968, 
+        "name": "Gare Lille Flandres", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "6 Bis, Rue Nationale ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 250
+        }, 
+        "free_bikes": 7, 
+        "id": "620cddb2cfef3cfff56b0c406e550971", 
+        "latitude": 50.7239, 
+        "longitude": 3.16034, 
+        "name": "Tourcoing Mairie", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rue De Lille ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 252
+        }, 
+        "free_bikes": 7, 
+        "id": "e4207d552f46696d7dc8414ba3596864", 
+        "latitude": 50.7226, 
+        "longitude": 3.15038, 
+        "name": "Rue des Poutrains", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Secteur Rue Condorcet ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 253
+        }, 
+        "free_bikes": 6, 
+        "id": "1565563d5c561ecf74d8c5dfac02f594", 
+        "latitude": 50.725, 
+        "longitude": 3.15068, 
+        "name": "Avenue Millet", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Face Au 69 Rue Carnot ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 254
+        }, 
+        "free_bikes": 11, 
+        "id": "7b3478b11aee03aeed102cb4fe65bca6", 
+        "latitude": 50.7173, 
+        "longitude": 3.16224, 
+        "name": "Sebastopol", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Secteur Union ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 255
+        }, 
+        "free_bikes": 5, 
+        "id": "5c70a1efbbe3ae862d2f9082751c37be", 
+        "latitude": 50.7134, 
+        "longitude": 3.16501, 
+        "name": "Rue de Roubaix", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Pont Hydraulique ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 257
+        }, 
+        "free_bikes": 7, 
+        "id": "0c5a07881c186c1cc095154e3439e437", 
+        "latitude": 50.7147, 
+        "longitude": 3.15718, 
+        "name": "Charles Wattinne", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "135, Chauss\u00e9e Galil\u00e9e ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 258
+        }, 
+        "free_bikes": 7, 
+        "id": "9586e8d307e2dac96b5b099fea10a485", 
+        "latitude": 50.7107, 
+        "longitude": 3.15988, 
+        "name": "Carliers", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "58 Rue Du Molinel ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 26
+        }, 
+        "free_bikes": 19, 
+        "id": "fea28fdbccf6d74ae0c1527f9b76ec2c", 
+        "latitude": 50.6346, 
+        "longitude": 3.06801, 
+        "name": "Molinel", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "2-10, D660 ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 262
+        }, 
+        "free_bikes": 7, 
+        "id": "8b8f3b1ce9d5adb9943f429d94e76098", 
+        "latitude": 50.7012, 
+        "longitude": 3.21501, 
+        "name": "Wattrelos Place", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "38-4 Rue De Stalingrad ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 263
+        }, 
+        "free_bikes": 6, 
+        "id": "9836d7476c92763f60bc2401f30d8a32", 
+        "latitude": 50.6963, 
+        "longitude": 3.20916, 
+        "name": "Stalingrad", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "203 Rue Carnot ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 264
+        }, 
+        "free_bikes": 5, 
+        "id": "0e079174ea8b6e638fcb82bab51dcf56", 
+        "latitude": 50.6979, 
+        "longitude": 3.2063, 
+        "name": "Republique", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "2 - 10 Rue Des Tanneurs ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 27
+        }, 
+        "free_bikes": 17, 
+        "id": "f2ef3f49834e81db3e04cb2e896100c0", 
+        "latitude": 50.635, 
+        "longitude": 3.0648, 
+        "name": "Tanneurs", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "17 Rue Solferino ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 28
+        }, 
+        "free_bikes": 19, 
+        "id": "b9351eddef245404af41c6b63a5505de", 
+        "latitude": 50.6347, 
+        "longitude": 3.04834, 
+        "name": "Palais Rameau", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "40 Rue Saint Sebastien ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 29
+        }, 
+        "free_bikes": 18, 
+        "id": "f869dd3cda76a097b57f934560cafd31", 
+        "latitude": 50.6472, 
+        "longitude": 3.05938, 
+        "name": "St Sebastien", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "39 Boulevard Vauban ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 3
+        }, 
+        "free_bikes": 18, 
+        "id": "87b0404f89aa447717a21a7753597e48", 
+        "latitude": 50.6361, 
+        "longitude": 3.05045, 
+        "name": "Jardin Vauban", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "8 Place De Gand ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 30
+        }, 
+        "free_bikes": 0, 
+        "id": "68bb316d2f369c21e597081e368f78ec", 
+        "latitude": 50.6431, 
+        "longitude": 3.06745, 
+        "name": "Rue de Gand", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "38 Bis Rue Du Pont Neuf ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 31
+        }, 
+        "free_bikes": 7, 
+        "id": "cf9e48fca14278572e541c66fd7ea0d2", 
+        "latitude": 50.6443, 
+        "longitude": 3.06294, 
+        "name": "Pont Neuf", 
+        "timestamp": "2017-08-15T04:46:36.269000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Face Au 4 Rue Gambetta ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 155
+        }, 
+        "free_bikes": 11, 
+        "id": "bffe18e0bbccf64a6bd570b54bac9b37", 
+        "latitude": 50.6551, 
+        "longitude": 3.0512, 
+        "name": "Bailly", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "3 Rue Saint Andre ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 16
+        }, 
+        "free_bikes": 10, 
+        "id": "69bf53a4c87c66aef318e91d6e721482", 
+        "latitude": 50.6462, 
+        "longitude": 3.0535, 
+        "name": "Magasin", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "40 Rue Royale ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 19
+        }, 
+        "free_bikes": 1, 
+        "id": "58a23f9fd2360fe7412fef5100131252", 
+        "latitude": 50.6403, 
+        "longitude": 3.05774, 
+        "name": "Rue Royale", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Place Gillson ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 20
+        }, 
+        "free_bikes": 28, 
+        "id": "4485fcda6e5e1f8468dcab34b2cd0a63", 
+        "latitude": 50.6404, 
+        "longitude": 3.06205, 
+        "name": "N.D. de la Treille", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Avenue Alfred Motte  ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 209
+        }, 
+        "free_bikes": 15, 
+        "id": "56da08cf759f91e95325ba73066ee104", 
+        "latitude": 50.675, 
+        "longitude": 3.19574, 
+        "name": "Usine", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rue Alphonse Colas ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 21
+        }, 
+        "free_bikes": 12, 
+        "id": "0b457735d92a6bad98da4dacf2592244", 
+        "latitude": 50.6419, 
+        "longitude": 3.06177, 
+        "name": "Place du Concert", 
+        "timestamp": "2017-08-15T04:46:36.265000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Mel Rue Du Ballon ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 1
+        }, 
+        "free_bikes": 12, 
+        "id": "389a8a6339ef5358ce3cfc8d23eed121", 
+        "latitude": 50.6419, 
+        "longitude": 3.07599, 
+        "name": "Metropole Europeenne de Lille", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Avenue Des Acacias ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 101
+        }, 
+        "free_bikes": 4, 
+        "id": "1c44f4ec60665b3e61c8f13dee328a9e", 
+        "latitude": 50.6423, 
+        "longitude": 3.09929, 
+        "name": "Mons Sarts", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Avenue Robert Schuman ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 102
+        }, 
+        "free_bikes": 13, 
+        "id": "ddc395da12af0e6428626a95de11edcc", 
+        "latitude": 50.6424, 
+        "longitude": 3.11084, 
+        "name": "Mairie de Mons", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Bd Napoleon 1Er ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 104
+        }, 
+        "free_bikes": 4, 
+        "id": "4c5f6765db2d013172a89c9bcfebe139", 
+        "latitude": 50.6458, 
+        "longitude": 3.11274, 
+        "name": "Mendes France", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "69 Avenue De Verdun ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 105
+        }, 
+        "free_bikes": 8, 
+        "id": "b080f0c9e76da0a8f618555bf770e544", 
+        "latitude": 50.6381, 
+        "longitude": 3.10231, 
+        "name": "Verdun", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "17 Rue Saint Sauveur ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 64
+        }, 
+        "free_bikes": 2, 
+        "id": "31518bb4331690dcbc3bba0726f35721", 
+        "latitude": 50.6318, 
+        "longitude": 3.07139, 
+        "name": "Mairie de Lille", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "70 Rue De Loos ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 65
+        }, 
+        "free_bikes": 12, 
+        "id": "f431646fa4578046b8d000e25d50f102", 
+        "latitude": 50.6211, 
+        "longitude": 3.03548, 
+        "name": "Place Tacq", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "51 Rue De Tournai ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 70
+        }, 
+        "free_bikes": 5, 
+        "id": "3579078f1f5594223cd0b31899d11ccf", 
+        "latitude": 50.6342, 
+        "longitude": 3.07399, 
+        "name": "Cite Administrative", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "237 Avenue De Dunkerque ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 72
+        }, 
+        "free_bikes": 10, 
+        "id": "c8732530bedbc48c60ada1cd5bcbfa72", 
+        "latitude": 50.6373, 
+        "longitude": 3.02431, 
+        "name": "Canteleu", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "59 Rue Eugene Jacquet ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 75
+        }, 
+        "free_bikes": 12, 
+        "id": "9c3c058f7f9a321b3eea25cf7f16a7e8", 
+        "latitude": 50.6373, 
+        "longitude": 3.08489, 
+        "name": "Eugene Jacquet", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "123 Rue Pierre Legrand ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 76
+        }, 
+        "free_bikes": 8, 
+        "id": "e8ac3ed0a6af706c079977da080ec81a", 
+        "latitude": 50.633, 
+        "longitude": 3.08965, 
+        "name": "Fives", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "7 Rue Matteoti ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 77
+        }, 
+        "free_bikes": 5, 
+        "id": "ef4d1fcafb49ff92cd0c7183a85f0ccf", 
+        "latitude": 50.623, 
+        "longitude": 3.09136, 
+        "name": "Mont de Terre", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "3 Place Richebe ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 8
+        }, 
+        "free_bikes": 1, 
+        "id": "d3960547cf4b7bce75821d90f6ce4093", 
+        "latitude": 50.6324, 
+        "longitude": 3.06231, 
+        "name": "Place Richebe", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "9, Avenue Henri Gruson ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 117
+        }, 
+        "free_bikes": 11, 
+        "id": "0b339eefcf71f77c51084ed9d263349a", 
+        "latitude": 50.6416, 
+        "longitude": 3.03137, 
+        "name": "Hippodrome", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "91 Rue Nationale ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 88
+        }, 
+        "free_bikes": 13, 
+        "id": "cf02aa37461d17836ee3403ee15375d3", 
+        "latitude": 50.6351, 
+        "longitude": 3.05802, 
+        "name": "Rue Nationale", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "18 Rue De Toul ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 9
+        }, 
+        "free_bikes": 23, 
+        "id": "60ce7c4c8c1a7a8e39aae51885abb355", 
+        "latitude": 50.6339, 
+        "longitude": 3.04499, 
+        "name": "Rue de Toul", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "1 Rue Du Dieu De Marcq ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 90
+        }, 
+        "free_bikes": 6, 
+        "id": "254425f5d0d9bd6531e8b6f4f0270318", 
+        "latitude": 50.6451, 
+        "longitude": 3.08605, 
+        "name": "Louviere", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "95 Rue De Lannoy ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 91
+        }, 
+        "free_bikes": 16, 
+        "id": "72760c5d0c2b966ae70309041faee589", 
+        "latitude": 50.6342, 
+        "longitude": 3.09654, 
+        "name": "Square des Meres", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "9 Rue Marceau ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 92
+        }, 
+        "free_bikes": 14, 
+        "id": "a6b075ce21543afd0b0b4a15833460f1", 
+        "latitude": 50.6367, 
+        "longitude": 3.09111, 
+        "name": "Rue de la Gaite", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "85 Rue Du Long Pot  ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 93
+        }, 
+        "free_bikes": 18, 
+        "id": "b077e0a37653d64823e4b8907ec52bb1", 
+        "latitude": 50.6289, 
+        "longitude": 3.08815, 
+        "name": "Stade Ballet", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rue De Bordeaux ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 94
+        }, 
+        "free_bikes": 16, 
+        "id": "ddbbcf5d83f29ce8d1731cc5c6214c82", 
+        "latitude": 50.6358, 
+        "longitude": 3.03398, 
+        "name": "Marx Dormoy", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Allee Victor Basch ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 96
+        }, 
+        "free_bikes": 4, 
+        "id": "49a0d96979f4ecaca3209b5ce9be7b43", 
+        "latitude": 50.6454, 
+        "longitude": 3.07512, 
+        "name": "Romarin", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "126, Rue Verte ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 245
+        }, 
+        "free_bikes": 8, 
+        "id": "f7ab20ab4865af76b3c448dcc5ee5607", 
+        "latitude": 50.7247, 
+        "longitude": 3.1657, 
+        "name": "Jardin Botanique", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "22, Rue L\u00e9on Salembier ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 240
+        }, 
+        "free_bikes": 4, 
+        "id": "421812a1220b39713d1a696b9f26a0e3", 
+        "latitude": 50.7192, 
+        "longitude": 3.1634, 
+        "name": "Poste", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Place Pierre Semard ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 242
+        }, 
+        "free_bikes": 9, 
+        "id": "6768859c1d279c9d4a11befb8ecf6299", 
+        "latitude": 50.7168, 
+        "longitude": 3.16783, 
+        "name": "Tourcoing gare", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "71, Rue Nationale ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 123
+        }, 
+        "free_bikes": 11, 
+        "id": "a2f20069aa79ab3ff868f9a06cf3a2ea", 
+        "latitude": 50.6653, 
+        "longitude": 3.07579, 
+        "name": "Rue de l'Eglise", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "12, Rue De Normandie ", 
+          "lastupd": "12 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 125
+        }, 
+        "free_bikes": 10, 
+        "id": "630ae689e89f6b63a66a51b43db539c2", 
+        "latitude": 50.6439, 
+        "longitude": 3.11858, 
+        "name": "Fort de Mons", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rue De La Chevalerie ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 129
+        }, 
+        "free_bikes": 5, 
+        "id": "543c40311bb214806161efe2b4c8eb19", 
+        "latitude": 50.6361, 
+        "longitude": 3.13085, 
+        "name": "Flers Chateau", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "17 Square Dutilleul ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 13
+        }, 
+        "free_bikes": 8, 
+        "id": "58953addba8d810bfff1b9d2df72c6cb", 
+        "latitude": 50.6367, 
+        "longitude": 3.05477, 
+        "name": "Quai du Wault", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "11 Rue Bonte Pollet ", 
+          "lastupd": "12 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 110
+        }, 
+        "free_bikes": 6, 
+        "id": "db2e265a69013cea868e88a1726defb9", 
+        "latitude": 50.6249, 
+        "longitude": 3.03423, 
+        "name": "Rue Bonte-Pollet", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Boulevard Valmy ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 132
+        }, 
+        "free_bikes": 11, 
+        "id": "21cee491588a56e2248adfcb6e2f2602", 
+        "latitude": 50.6161, 
+        "longitude": 3.13201, 
+        "name": "Centre Commercial V2", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "16, Rue Du Buisson ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 113
+        }, 
+        "free_bikes": 12, 
+        "id": "5e64fdc8c10b4c3bf3d32fba558733b7", 
+        "latitude": 50.6513, 
+        "longitude": 3.08945, 
+        "name": "Avenue de Mormal", 
+        "timestamp": "2017-08-15T04:46:36.257000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "41 Rue Des Arts ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 23
+        }, 
+        "free_bikes": 10, 
+        "id": "2c718678984f907b446157a104fd08f0", 
+        "latitude": 50.6391, 
+        "longitude": 3.06555, 
+        "name": "Rue des Arts", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rond Point De L'Europe ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 231
+        }, 
+        "free_bikes": 10, 
+        "id": "956469ca2cad6da05453b8e74f537ea3", 
+        "latitude": 50.6898, 
+        "longitude": 3.17718, 
+        "name": "Motte Bossut", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3, Rue D'Avelghem ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 236
+        }, 
+        "free_bikes": 7, 
+        "id": "3f927094ada844a179520bb98ceea3fd", 
+        "latitude": 50.6947, 
+        "longitude": 3.19264, 
+        "name": "Chaptal", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "1, Rue De L'Alma ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 238
+        }, 
+        "free_bikes": 6, 
+        "id": "d3c4ee1e5f53a22cde301b3974d4e7ea", 
+        "latitude": 50.7207, 
+        "longitude": 3.15266, 
+        "name": "Theatre Tourcoing", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2 Rue Cambrai ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 51
+        }, 
+        "free_bikes": 30, 
+        "id": "6330cbd5719d4613b321753d6898bfe1", 
+        "latitude": 50.6248, 
+        "longitude": 3.06869, 
+        "name": "JB Lebas", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rue St Eloi ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 87
+        }, 
+        "free_bikes": 4, 
+        "id": "3391adfc7b440f61b1e50bc18caa1d91", 
+        "latitude": 50.6324, 
+        "longitude": 3.11067, 
+        "name": "Jules Guesde", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "58 Rue Chanzy ", 
+          "lastupd": "13 secondes", 
+          "payment": "SANS_TPE", 
+          "status": "0", 
+          "uid": 85
+        }, 
+        "free_bikes": 10, 
+        "id": "49391e7738bbaf0d5103d2bced3068d9", 
+        "latitude": 50.6252, 
+        "longitude": 3.10073, 
+        "name": "Chanzy", 
+        "timestamp": "2017-08-15T04:46:36.270000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Phalempins ", 
+          "lastupd": "13 secondes", 
+          "payment": "AVEC_TPE", 
+          "status": "0", 
+          "uid": 261
+        }, 
+        "free_bikes": 4, 
+        "id": "33b44d229ee067be36c4256e222db9e9", 
+        "latitude": 50.7323, 
+        "longitude": 3.15766, 
+        "name": "Phalempins", 
+        "timestamp": "2017-08-15T04:46:36.266000Z"
+      }
+    ]
+  }
+}

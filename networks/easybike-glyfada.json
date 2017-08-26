@@ -1,0 +1,43 @@
+{
+  "network": {
+    "company": [
+      "Brainbox Technology", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/easybike-glyfada", 
+    "id": "easybike-glyfada", 
+    "location": {
+      "city": "Glyfada", 
+      "country": "GR", 
+      "latitude": 37.8715809825, 
+      "longitude": 23.7355544376
+    }, 
+    "name": "EasyBike", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 10
+        }, 
+        "free_bikes": 6, 
+        "id": "857c286e43c3a0d979be0960b5898705", 
+        "latitude": 37.8700056904, 
+        "longitude": 23.7360908794, 
+        "name": "Plateia Vergoti", 
+        "timestamp": "2017-08-15T04:47:57.800000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 10
+        }, 
+        "free_bikes": 6, 
+        "id": "fb139c9981a378930a42ed3d0c73d8ff", 
+        "latitude": 37.8644283776, 
+        "longitude": 23.7443735409, 
+        "name": "Diadoxou Pavlou", 
+        "timestamp": "2017-08-15T04:47:57.807000Z"
+      }
+    ]
+  }
+}

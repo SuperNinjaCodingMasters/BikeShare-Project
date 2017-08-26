@@ -1,0 +1,723 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_madison/gbfs.json", 
+    "href": "/v2/networks/madison", 
+    "id": "madison", 
+    "location": {
+      "city": "Madison, WI", 
+      "country": "US", 
+      "latitude": 43.07571, 
+      "longitude": -89.38527
+    }, 
+    "name": "B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "3330 Atwood Avenue", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1903"
+        }, 
+        "free_bikes": 8, 
+        "id": "dbfd9056229c7e8a74dd18a49b10cba4", 
+        "latitude": 43.09299, 
+        "longitude": -89.33673, 
+        "name": "Olbrich Gardens ", 
+        "timestamp": "2017-08-15T04:47:07.370000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "117 Wisconsin Avenue", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1874"
+        }, 
+        "free_bikes": 2, 
+        "id": "3085d938468114c4eceea72b7ca696c3", 
+        "latitude": 43.07571, 
+        "longitude": -89.38527, 
+        "name": "Wisconsin & E. Mifflin", 
+        "timestamp": "2017-08-15T04:47:07.303000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "504 University Ave.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2146"
+        }, 
+        "free_bikes": 4, 
+        "id": "f9a2814d5e2fe7b0a284387711a9d236", 
+        "latitude": 43.07329, 
+        "longitude": -89.39418, 
+        "name": "University & Bassett", 
+        "timestamp": "2017-08-15T04:47:07.308000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "242 South Pinckney St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1879"
+        }, 
+        "free_bikes": 6, 
+        "id": "e5cd4c28864e1a3db4a18ee9b33fd53e", 
+        "latitude": 43.07374, 
+        "longitude": -89.38084, 
+        "name": "E. Doty & S. Pinckney", 
+        "timestamp": "2017-08-15T04:47:07.306000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "699 N. Park St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1888"
+        }, 
+        "free_bikes": 4, 
+        "id": "ef131c613e51b24475bf696691bfaabb", 
+        "latitude": 43.07702, 
+        "longitude": -89.40053, 
+        "name": "Memorial Union", 
+        "timestamp": "2017-08-15T04:47:07.405000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "State St. & N. Francis", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2426"
+        }, 
+        "free_bikes": 3, 
+        "id": "3b804332ff9f29304619c15b7af4b6a1", 
+        "latitude": 43.07492, 
+        "longitude": -89.3954, 
+        "name": "State St. & N. Frances", 
+        "timestamp": "2017-08-15T04:47:07.330000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "511 N. Park St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_3696"
+        }, 
+        "free_bikes": 6, 
+        "id": "f5d0e5ae545f2258c3b4a1962d3ca802", 
+        "latitude": 43.07487, 
+        "longitude": -89.39955, 
+        "name": "Library Mall", 
+        "timestamp": "2017-08-15T04:47:07.347000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Union South", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1908"
+        }, 
+        "free_bikes": 4, 
+        "id": "74ea863db4eaaa5926801cfdb074dda7", 
+        "latitude": 43.07214, 
+        "longitude": -89.40804, 
+        "name": "Union South", 
+        "timestamp": "2017-08-15T04:47:07.362000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "387 S. Few ", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1912"
+        }, 
+        "free_bikes": 5, 
+        "id": "b540f173f8595431fc74aa347b170c73", 
+        "latitude": 43.08336, 
+        "longitude": -89.36456, 
+        "name": "S. Few & Williamson", 
+        "timestamp": "2017-08-15T04:47:07.354000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2880 University Ave.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2672"
+        }, 
+        "free_bikes": 2, 
+        "id": "da8f7fb466d17b64d49ce3129c49ce6d", 
+        "latitude": 43.07636, 
+        "longitude": -89.43853, 
+        "name": "University Station Clinic", 
+        "timestamp": "2017-08-15T04:47:07.381000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "633 Langdon Street", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2072"
+        }, 
+        "free_bikes": 6, 
+        "id": "7276dc097e945d623ae79f6950df19c1", 
+        "latitude": 43.07576, 
+        "longitude": -89.39686, 
+        "name": "Langdon St. & N. Lake St.", 
+        "timestamp": "2017-08-15T04:47:07.331000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "104 Martin Luther King Jr. Blvd", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1880"
+        }, 
+        "free_bikes": 4, 
+        "id": "be0ecac3c0541370d47589fcbeeb29b3", 
+        "latitude": 43.0738, 
+        "longitude": -89.38295, 
+        "name": "MLK & Main St.", 
+        "timestamp": "2017-08-15T04:47:07.441000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1750 Wright St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_3313"
+        }, 
+        "free_bikes": 5, 
+        "id": "1689eeabf6b841233c253d0a58abd70b", 
+        "latitude": 43.12127, 
+        "longitude": -89.33071, 
+        "name": "Madison College - Truax Campus", 
+        "timestamp": "2017-08-15T04:47:07.357000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "101 W. Mifflin", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_3695"
+        }, 
+        "free_bikes": 2, 
+        "id": "fd9694d602a2316379552a85f554e618", 
+        "latitude": 43.07448, 
+        "longitude": -89.38672, 
+        "name": "Philosopher's Grove", 
+        "timestamp": "2017-08-15T04:47:07.345000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "3527 Atwood Ave", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_3725"
+        }, 
+        "free_bikes": 5, 
+        "id": "b75efb1aca6d48f78bda4a26b8866cfb", 
+        "latitude": 43.08809, 
+        "longitude": -89.33017, 
+        "name": "Olbrich Biergarten", 
+        "timestamp": "2017-08-15T04:47:07.376000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "N. Webster & E. Mifflin", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1878"
+        }, 
+        "free_bikes": 6, 
+        "id": "a233827ccf971c9e3b6529482e5060b4", 
+        "latitude": 43.07734, 
+        "longitude": -89.38355, 
+        "name": "N. Webster & E. Mifflin", 
+        "timestamp": "2017-08-15T04:47:07.305000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "988 E. Gorham St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1881"
+        }, 
+        "free_bikes": 5, 
+        "id": "e2e45da254dd05d93630c47fd5f64a30", 
+        "latitude": 43.08634, 
+        "longitude": -89.37546, 
+        "name": "E. Gorham & N. Brearly", 
+        "timestamp": "2017-08-15T04:47:07.435000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "22 West Wilson Street", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1882"
+        }, 
+        "free_bikes": 8, 
+        "id": "ee8b384d9cced74330828e8fb2c7b1a9", 
+        "latitude": 43.07244, 
+        "longitude": -89.38165, 
+        "name": "W. Wilson & MLK", 
+        "timestamp": "2017-08-15T04:47:07.420000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "N. Park & Spring St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1885"
+        }, 
+        "free_bikes": 8, 
+        "id": "c25f7d582f2da746829e47b0a82fcc19", 
+        "latitude": 43.06962, 
+        "longitude": -89.40127, 
+        "name": "N. Park & Spring St.", 
+        "timestamp": "2017-08-15T04:47:07.417000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "92 S. Breese Terrace", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1886"
+        }, 
+        "free_bikes": 4, 
+        "id": "79935eed4581e9e6416de8ed5added6d", 
+        "latitude": 43.06765, 
+        "longitude": -89.41408, 
+        "name": "S. Breese @ Camp Randall", 
+        "timestamp": "2017-08-15T04:47:07.416000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "John Nolen Drive", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1887"
+        }, 
+        "free_bikes": 10, 
+        "id": "9c81255cf74f7512c89838009c55642b", 
+        "latitude": 43.07549, 
+        "longitude": -89.37549, 
+        "name": "John Nolen @ Law Park", 
+        "timestamp": "2017-08-15T04:47:07.409000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "677 W. Washington St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1889"
+        }, 
+        "free_bikes": 14, 
+        "id": "ea23d004a520978fa6806091db1b165f", 
+        "latitude": 43.06732, 
+        "longitude": -89.39433, 
+        "name": "W. Washington & Regent St.  ", 
+        "timestamp": "2017-08-15T04:47:07.400000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "472 E. Gorham St", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1891"
+        }, 
+        "free_bikes": 10, 
+        "id": "ec80f6224373bb17c2720c8d542ca265", 
+        "latitude": 43.08056, 
+        "longitude": -89.38357, 
+        "name": "E. Gorham @ James Madison Park", 
+        "timestamp": "2017-08-15T04:47:07.322000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "229 W. Gilman St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1892"
+        }, 
+        "free_bikes": 2, 
+        "id": "0fa402e6222dfce6f003af51c66c9b44", 
+        "latitude": 43.07531, 
+        "longitude": -89.39258, 
+        "name": "W. Gilman @ Peace Park", 
+        "timestamp": "2017-08-15T04:47:07.328000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "150 North Shore Drive", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1893"
+        }, 
+        "free_bikes": 5, 
+        "id": "1ccb4ff6e5ae0204ee8157851fd4cebf", 
+        "latitude": 43.06511, 
+        "longitude": -89.38885, 
+        "name": "N. Shore @ Brittingham Park", 
+        "timestamp": "2017-08-15T04:47:07.329000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2048 Eastwood Dr. ", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1897"
+        }, 
+        "free_bikes": 7, 
+        "id": "9324f45ea6298fe2a3ecbc04e34dcb0a", 
+        "latitude": 43.09245, 
+        "longitude": -89.35138, 
+        "name": "Eastwood & Division", 
+        "timestamp": "2017-08-15T04:47:07.318000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "850 S. Mills St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1898"
+        }, 
+        "free_bikes": 9, 
+        "id": "6b7d96022d13eec37b5fc570d3a45d24", 
+        "latitude": 43.05713, 
+        "longitude": -89.40417, 
+        "name": "Vilas Park @ Arboretum", 
+        "timestamp": "2017-08-15T04:47:07.312000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "N. Thornton @ Tenney Park", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1904"
+        }, 
+        "free_bikes": 13, 
+        "id": "341255dff2878585a0da1e6d29c985cb", 
+        "latitude": 43.09226, 
+        "longitude": -89.36612, 
+        "name": "N. Thornton @ Tenney Park", 
+        "timestamp": "2017-08-15T04:47:07.367000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Observatory Dr. @ Natatorium Gym", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1906"
+        }, 
+        "free_bikes": 9, 
+        "id": "fc7e908b6a1635ed4589a1dffdc70a97", 
+        "latitude": 43.07662, 
+        "longitude": -89.42028, 
+        "name": "Observatory Dr. @ Natatorium Gym", 
+        "timestamp": "2017-08-15T04:47:07.363000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Observatory Dr. @ UW Hospital", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1907"
+        }, 
+        "free_bikes": 6, 
+        "id": "f024737adc0f34462a22155890731bed", 
+        "latitude": 43.07721, 
+        "longitude": -89.43085, 
+        "name": "Observatory Dr. @ UW Hospital", 
+        "timestamp": "2017-08-15T04:47:07.365000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "University St. & Charter St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1913"
+        }, 
+        "free_bikes": 4, 
+        "id": "99d96e3801e551958a239ee80d20611f", 
+        "latitude": 43.07355, 
+        "longitude": -89.40635, 
+        "name": "University St. & Charter St. ", 
+        "timestamp": "2017-08-15T04:47:07.350000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "706 Willamson St", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2124"
+        }, 
+        "free_bikes": 5, 
+        "id": "5f419e5b589071f1a5d1bf78d87d48e3", 
+        "latitude": 43.07705, 
+        "longitude": -89.37286, 
+        "name": "Williamson St @ Jenifer St.", 
+        "timestamp": "2017-08-15T04:47:07.310000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "381 N. Lake St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2128"
+        }, 
+        "free_bikes": 12, 
+        "id": "c85c1ba85600e4936e9b157b81f54bfa", 
+        "latitude": 43.073, 
+        "longitude": -89.39727, 
+        "name": "N. Lake St. @ University Ave.", 
+        "timestamp": "2017-08-15T04:47:07.309000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "797 Harrison St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2147"
+        }, 
+        "free_bikes": 6, 
+        "id": "54895b685d951d5aea90e22f7eb463d7", 
+        "latitude": 43.06479, 
+        "longitude": -89.41757, 
+        "name": "Monroe & Harrison", 
+        "timestamp": "2017-08-15T04:47:07.307000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "701 Knickerbocker St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2148"
+        }, 
+        "free_bikes": 8, 
+        "id": "f144059b6fa0623d91e83599fe47c293", 
+        "latitude": 43.05711, 
+        "longitude": -89.42874, 
+        "name": "Monroe & Knickerbocker", 
+        "timestamp": "2017-08-15T04:47:07.298000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "424 N. Pinckney Street", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2281"
+        }, 
+        "free_bikes": 4, 
+        "id": "e785b6b4a7b230a65f46d97d71ba7eb0", 
+        "latitude": 43.07857, 
+        "longitude": -89.38763, 
+        "name": "Mansion Hill Inn", 
+        "timestamp": "2017-08-15T04:47:07.314000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "126 W. Mifflin Street", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2394"
+        }, 
+        "free_bikes": 1, 
+        "id": "5515eef8bd76b6845a28eedf9423c18c", 
+        "latitude": 43.07369, 
+        "longitude": -89.38778, 
+        "name": "W. Mifflin @ Central Library", 
+        "timestamp": "2017-08-15T04:47:07.393000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "726 N. Midvale Blvd.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2457"
+        }, 
+        "free_bikes": 5, 
+        "id": "2a7a533e8e201710e23a38291524f4b5", 
+        "latitude": 43.07432, 
+        "longitude": -89.45269, 
+        "name": "Hilldale North", 
+        "timestamp": "2017-08-15T04:47:07.373000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "3750 University Ave.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2554"
+        }, 
+        "free_bikes": 5, 
+        "id": "2dfa9a0108b6f16f4d3685f214d7bb03", 
+        "latitude": 43.07665, 
+        "longitude": -89.45083, 
+        "name": "UW Credit Union", 
+        "timestamp": "2017-08-15T04:47:07.443000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "900 University Bay Dr", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2556"
+        }, 
+        "free_bikes": 7, 
+        "id": "c8855bac9476888c5649606901f14643", 
+        "latitude": 43.07584, 
+        "longitude": -89.43397, 
+        "name": "UW Children's Hospital ", 
+        "timestamp": "2017-08-15T04:47:07.444000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "750 University Row", 
+          "last_updated": 1502772427, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_madison_2557"
+        }, 
+        "free_bikes": 8, 
+        "id": "97bffad5b62ea6b022598cb6e4ae3ae1", 
+        "latitude": 43.07666, 
+        "longitude": -89.4691, 
+        "name": "UW Digestive Health Center", 
+        "timestamp": "2017-08-15T04:47:07.448000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "619 State Street", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_1890"
+        }, 
+        "free_bikes": 5, 
+        "id": "bcabbb6329e428eb00ed37322b6b5940", 
+        "latitude": 43.07476, 
+        "longitude": -89.3966, 
+        "name": "Hawthorne Ct & State Street", 
+        "timestamp": "2017-08-15T04:47:07.321000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1702 Rimrock Road", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_2133"
+        }, 
+        "free_bikes": 7, 
+        "id": "b7ce818303ae02f794190906ec8236d5", 
+        "latitude": 43.04764, 
+        "longitude": -89.3744, 
+        "name": "Sheraton Hotel ", 
+        "timestamp": "2017-08-15T04:47:07.391000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "100 North Carroll St.", 
+          "last_updated": 1502772427, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_madison_3694"
+        }, 
+        "free_bikes": 4, 
+        "id": "16b98e2a8b1bed585a2cebbdcabfefc7", 
+        "latitude": 43.07499, 
+        "longitude": -89.38681, 
+        "name": "Ian's Pizza on State", 
+        "timestamp": "2017-08-15T04:47:07.333000Z"
+      }
+    ]
+  }
+}

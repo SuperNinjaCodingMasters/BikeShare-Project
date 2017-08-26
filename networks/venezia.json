@@ -1,0 +1,265 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/venezia", 
+    "id": "venezia", 
+    "location": {
+      "city": "Venezia", 
+      "country": "IT", 
+      "latitude": 45.4408474, 
+      "longitude": 12.3155151
+    }, 
+    "name": "Venezia", 
+    "stations": [
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "description": "Stazione di Mestre", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "1591c937d964234717dd18f06ed28143", 
+        "latitude": 45.48255146403347, 
+        "longitude": 12.232182025909424, 
+        "name": "Stazione F.S.", 
+        "timestamp": "2017-08-15T04:47:51.931000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "description": "P.le Donatori di sangue", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "fa7b5ee5f6c5e64ff2ac4be71db8f87b", 
+        "latitude": 45.49139695980605, 
+        "longitude": 12.238866090774536, 
+        "name": "Sicilia", 
+        "timestamp": "2017-08-15T04:47:51.951000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Piazzale Cialdini", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "6b042dab30d29589ecc992068d7c1762", 
+        "latitude": 45.4935385493275, 
+        "longitude": 12.246204614639282, 
+        "name": "Cialdini", 
+        "timestamp": "2017-08-15T04:47:51.952000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via Circonvallazione", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "34122419728cc2d4f7ed02a19580fbfa", 
+        "latitude": 45.49654115008702, 
+        "longitude": 12.236103415489197, 
+        "name": "Circonvallazione", 
+        "timestamp": "2017-08-15T04:47:51.953000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Via Ulloa", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "caaf4ac3da864b0000f9e789f3f8a439", 
+        "latitude": 45.47997878873615, 
+        "longitude": 12.230497598648071, 
+        "name": "Ulloa FS", 
+        "timestamp": "2017-08-15T04:47:51.954000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Via S.M dei Battuti", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "23c719aa5c1944bc64f18d22e4b3ac77", 
+        "latitude": 45.50308352019468, 
+        "longitude": 12.245357036590576, 
+        "name": "Santa Maria dei Battuti", 
+        "timestamp": "2017-08-15T04:47:51.955000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Mestrina C.so del Popolo", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "1f01678027a8d1e402ec346204c3e1a4", 
+        "latitude": 45.49065800791365, 
+        "longitude": 12.244842052459717, 
+        "name": "C.so del Popolo", 
+        "timestamp": "2017-08-15T04:47:51.956000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Piazza del Municipio Marghera", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "a646960ebb503332c53a565d48ee9dac", 
+        "latitude": 45.47588633803206, 
+        "longitude": 12.224693298339844, 
+        "name": "Municipio", 
+        "timestamp": "2017-08-15T04:47:51.956000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Angolo Via San Pio X", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "e56027ddcaf16b46de0eae40b5b43fac", 
+        "latitude": 45.49493552125542, 
+        "longitude": 12.243484854698181, 
+        "name": "San Girolamo", 
+        "timestamp": "2017-08-15T04:47:51.957000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "Viale San Marco", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "f83bb001f907562e05139f39529623aa", 
+        "latitude": 45.480926630144666, 
+        "longitude": 12.262201309204102, 
+        "name": "San Giuliano", 
+        "timestamp": "2017-08-15T04:47:51.958000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "Viale Ancona", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "292b6db93aee774c075df67bca37972a", 
+        "latitude": 45.484447044345096, 
+        "longitude": 12.250785827636719, 
+        "name": "Carbonifera", 
+        "timestamp": "2017-08-15T04:47:51.962000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Fusinato/P.le Da Vinci", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "c1808650e7f9f5c40d711ec47e61bb8d", 
+        "latitude": 45.48850878738295, 
+        "longitude": 12.23874807357788, 
+        "name": "Da Vinci", 
+        "timestamp": "2017-08-15T04:47:51.965000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Parco Albanese Via Casona", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "49da2d6f6722ea4c4e80b220371da9d2", 
+        "latitude": 45.497067575803804, 
+        "longitude": 12.264872789382935, 
+        "name": "Casona", 
+        "timestamp": "2017-08-15T04:47:51.966000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "P.le Candiani 15", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "063509ce4be8296a944fac991dc019a8", 
+        "latitude": 45.49495432279469, 
+        "longitude": 12.239413261413574, 
+        "name": "Candiani", 
+        "timestamp": "2017-08-15T04:47:51.968000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via Castellana", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "a413f8d385e84952943d8f97d3021347", 
+        "latitude": 45.498458820079335, 
+        "longitude": 12.231377363204956, 
+        "name": "Castellana A", 
+        "timestamp": "2017-08-15T04:47:51.971000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazzale S.M. Elisabetta", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "2046980e557de44f138ab88d918f8a95", 
+        "latitude": 45.4170696988221, 
+        "longitude": 12.36811637878418, 
+        "name": "Santa Maria Elisabetta", 
+        "timestamp": "2017-08-15T04:47:51.976000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Via Candia", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "1889687ee125b7b6f681df5dd18f290e", 
+        "latitude": 45.406193875004696, 
+        "longitude": 12.365970611572266, 
+        "name": "Palazzo del Cinema", 
+        "timestamp": "2017-08-15T04:47:51.977000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "Riva di Giovanni Diacono", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "69eea00aa5012aa8f840e9e8a57424bf", 
+        "latitude": 45.37160930710871, 
+        "longitude": 12.337002754211426, 
+        "name": "Malamocco", 
+        "timestamp": "2017-08-15T04:47:51.979000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "Via Torino", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "b6535085986845deebfccc934b5def44", 
+        "latitude": 45.477783445541654, 
+        "longitude": 12.254530234111371, 
+        "name": "Universita`", 
+        "timestamp": "2017-08-15T04:47:51.964000Z"
+      }
+    ]
+  }
+}

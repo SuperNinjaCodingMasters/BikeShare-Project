@@ -1,0 +1,679 @@
+{
+  "network": {
+    "company": [
+      "Mobilicidade Tecnologia LTD", 
+      "Grupo Serttel LTDA"
+    ], 
+    "href": "/v2/networks/bikebrasilia", 
+    "id": "bikebrasilia", 
+    "location": {
+      "city": "Bras\u00edlia", 
+      "country": "BR", 
+      "latitude": -15.795115, 
+      "longitude": -47.887424
+    }, 
+    "name": "BikeBrasilia", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "CLS 302", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 34
+        }, 
+        "free_bikes": 0, 
+        "id": "1e66e3614ecbbe8e2a36dcfec18e705a", 
+        "latitude": -15.80204, 
+        "longitude": -47.893534, 
+        "name": "Shopping Mall", 
+        "timestamp": "2017-08-15T04:49:05.658000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "EMI Via S1", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 7
+        }, 
+        "free_bikes": 0, 
+        "id": "5166feaee0a3af1cb52b9aef37acebd9", 
+        "latitude": -15.797628, 
+        "longitude": -47.874567, 
+        "name": "Catedral Metropolitana", 
+        "timestamp": "2017-08-15T04:49:05.627000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "UNB \u00e1rea 1", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 42
+        }, 
+        "free_bikes": 0, 
+        "id": "6e55d0639e9e71e5dddc1a99c16c929f", 
+        "latitude": -15.759423, 
+        "longitude": -47.870379, 
+        "name": "PAT", 
+        "timestamp": "2017-08-15T04:49:05.665000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "SDC", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 3
+        }, 
+        "free_bikes": 3, 
+        "id": "e26e45321012185815f43173b954ebdc", 
+        "latitude": -15.786474, 
+        "longitude": -47.900736, 
+        "name": "Centro de Conven\u00e7\u00f5es", 
+        "timestamp": "2017-08-15T04:49:05.623000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Eixo Monumental Lado Oeste", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 4
+        }, 
+        "free_bikes": 1, 
+        "id": "62aac1d2a29ded4e00540c47bcb37d21", 
+        "latitude": -15.789854, 
+        "longitude": -47.895431, 
+        "name": "Torre de TV", 
+        "timestamp": "2017-08-15T04:49:05.624000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Eixo Monumental Lado Leste Plataforma Inferior", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 6
+        }, 
+        "free_bikes": 9, 
+        "id": "3bd92a35901a43fa10bc5cddee4d78a8", 
+        "latitude": -15.793773, 
+        "longitude": -47.881432, 
+        "name": "Rodovi\u00e1ria", 
+        "timestamp": "2017-08-15T04:49:05.626000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "EMI", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": 8
+        }, 
+        "free_bikes": 1, 
+        "id": "d52ddaf83b36dd8c0f485f161c3d2556", 
+        "latitude": -15.795681, 
+        "longitude": -47.871508, 
+        "name": "Minist\u00e9rio da Defesa", 
+        "timestamp": "2017-08-15T04:49:05.628000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "EMI", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 10
+        }, 
+        "free_bikes": 1, 
+        "id": "4e5f91e06d480a7a213dc8a2b0f6405e", 
+        "latitude": -15.797327, 
+        "longitude": -47.867918, 
+        "name": "Minist\u00e9rio dos Transportes", 
+        "timestamp": "2017-08-15T04:49:05.629000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "SBS", 
+          "slots": 12, 
+          "status": "closed", 
+          "uid": 19
+        }, 
+        "free_bikes": 1, 
+        "id": "86bb4f45ce1410599d6dca08c70ff4c3", 
+        "latitude": -15.802045, 
+        "longitude": -47.883833, 
+        "name": "Banco Central", 
+        "timestamp": "2017-08-15T04:49:05.639000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "EQS 102 / 103", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 22
+        }, 
+        "free_bikes": 5, 
+        "id": "b39224eb67b1e71ea2d14b90c5c99569", 
+        "latitude": -15.805475, 
+        "longitude": -47.889986, 
+        "name": "102 Sul", 
+        "timestamp": "2017-08-15T04:49:05.643000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Via S1", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 23
+        }, 
+        "free_bikes": 7, 
+        "id": "f34cac2a0744a13be3ee4ff7eece5ca4", 
+        "latitude": -15.801266, 
+        "longitude": -47.863075, 
+        "name": "STF", 
+        "timestamp": "2017-08-15T04:49:05.644000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "SCS - QD 01", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 24
+        }, 
+        "free_bikes": 3, 
+        "id": "4f42e0b5e13fbf0fbf049b210932601c", 
+        "latitude": -15.798971, 
+        "longitude": -47.885614, 
+        "name": "Galeria", 
+        "timestamp": "2017-08-15T04:49:05.645000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "EMI BL K", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 27
+        }, 
+        "free_bikes": 0, 
+        "id": "9a169c3a09b445d0b86707c8e6fb47ca", 
+        "latitude": -15.795232, 
+        "longitude": -47.874578, 
+        "name": "Minist\u00e9rio do Planejamento", 
+        "timestamp": "2017-08-15T04:49:05.647000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "SHN EQN 102 / 103", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 29
+        }, 
+        "free_bikes": 2, 
+        "id": "9c3483958f872384574dfcb970beaa82", 
+        "latitude": -15.781, 
+        "longitude": -47.883857, 
+        "name": "INMETRO", 
+        "timestamp": "2017-08-15T04:49:05.652000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "St. de Administra\u00e7\u00e3o Federal Sul Q8 Lote 1", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 30
+        }, 
+        "free_bikes": 4, 
+        "id": "bd275c669b81bc4a081b8e29f9886be6", 
+        "latitude": -15.809349, 
+        "longitude": -47.869384, 
+        "name": "TSE", 
+        "timestamp": "2017-08-15T04:49:05.653000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "SQS 305", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 32
+        }, 
+        "free_bikes": 9, 
+        "id": "d718ec5dfb9d311a632a49f62924c91f", 
+        "latitude": -15.810185, 
+        "longitude": -47.898255, 
+        "name": "SQS 305", 
+        "timestamp": "2017-08-15T04:49:05.655000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "CLN 403", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 35
+        }, 
+        "free_bikes": 9, 
+        "id": "2fb04181eaaed1c94f0ac18e7198c318", 
+        "latitude": -15.78033, 
+        "longitude": -47.874796, 
+        "name": "CLN 403", 
+        "timestamp": "2017-08-15T04:49:05.659000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "CLN 406", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 39
+        }, 
+        "free_bikes": 10, 
+        "id": "50aab51216992067b87eb06b99129e61", 
+        "latitude": -15.766572, 
+        "longitude": -47.87684, 
+        "name": "CLN 406", 
+        "timestamp": "2017-08-15T04:49:05.662000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "UNB \u00e1rea 1", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 44
+        }, 
+        "free_bikes": 1, 
+        "id": "a7030f94d2a41c3ffd038901184b1d05", 
+        "latitude": -15.766104, 
+        "longitude": -47.867091, 
+        "name": "ICC Sul", 
+        "timestamp": "2017-08-15T04:49:05.667000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "UNB \u00e1rea 2", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 45
+        }, 
+        "free_bikes": 12, 
+        "id": "5ee1450219412065d0cf54f0dd607635", 
+        "latitude": -15.765093, 
+        "longitude": -47.858435, 
+        "name": "Centro Ol\u00edmpico", 
+        "timestamp": "2017-08-15T04:49:05.668000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "PMU", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 1
+        }, 
+        "free_bikes": 4, 
+        "id": "2ffc59f94e7a0d48056e8c48f92232cc", 
+        "latitude": -15.784737, 
+        "longitude": -47.913935, 
+        "name": "Memorial JK", 
+        "timestamp": "2017-08-15T04:49:05.620000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Eixo Monumental Lado Oeste", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 2
+        }, 
+        "free_bikes": 3, 
+        "id": "9d40d1a630f734fa18e11f32d956b24e", 
+        "latitude": -15.786287, 
+        "longitude": -47.908693, 
+        "name": "Pra\u00e7a Buriti", 
+        "timestamp": "2017-08-15T04:49:05.622000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Rua Poeta Carlos Drummond de Andrade", 
+          "slots": 14, 
+          "status": "closed", 
+          "uid": 800
+        }, 
+        "free_bikes": 1, 
+        "id": "a61f8bc50098b187bd0ca46e9fbfad41", 
+        "latitude": -8.0674991, 
+        "longitude": -34.986997, 
+        "name": "Esta\u00e7\u00e3o Serttel", 
+        "timestamp": "2017-08-15T04:49:05.670000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "SHN", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 5
+        }, 
+        "free_bikes": 1, 
+        "id": "b10f8ccb5444bb52e37bc5a6378edb11", 
+        "latitude": -15.789548, 
+        "longitude": -47.890852, 
+        "name": "Setor Hoteleiro Norte", 
+        "timestamp": "2017-08-15T04:49:05.625000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Eixo Monumental Lado Leste Plataforma Inferior", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 11
+        }, 
+        "free_bikes": 10, 
+        "id": "99bbc5b9f144cca4a90aa25f39169e23", 
+        "latitude": -15.79492, 
+        "longitude": -47.881526, 
+        "name": "Rodovi\u00e1ria 2", 
+        "timestamp": "2017-08-15T04:49:05.630000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Eixo Monumental Lado Leste Plataforma Inferior", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 12
+        }, 
+        "free_bikes": 7, 
+        "id": "316fe0fe539b270a051055da17ea87b6", 
+        "latitude": -15.794199, 
+        "longitude": -47.884039, 
+        "name": "Rodovi\u00e1ria 3", 
+        "timestamp": "2017-08-15T04:49:05.632000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "SCN", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 13
+        }, 
+        "free_bikes": 0, 
+        "id": "b683666011c3e523c6d50c7bea2543d2", 
+        "latitude": -15.786492, 
+        "longitude": -47.883363, 
+        "name": "Liberty Mall", 
+        "timestamp": "2017-08-15T04:49:05.633000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "SCN", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 14
+        }, 
+        "free_bikes": 1, 
+        "id": "7d931cde65bba0c7e6b35a0ce1053543", 
+        "latitude": -15.787236, 
+        "longitude": -47.887749, 
+        "name": "Bras\u00edlia Shopping", 
+        "timestamp": "2017-08-15T04:49:05.634000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "SHS", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 15
+        }, 
+        "free_bikes": 5, 
+        "id": "9b1c77805443ac76151fbe4c4957436f", 
+        "latitude": -15.79522, 
+        "longitude": -47.895227, 
+        "name": "Brasil 21", 
+        "timestamp": "2017-08-15T04:49:05.635000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "SRTVS", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 16
+        }, 
+        "free_bikes": 1, 
+        "id": "51cd0b34bd77d41536314bdb32ca8e3b", 
+        "latitude": -15.796669, 
+        "longitude": -47.893347, 
+        "name": "SRTVS", 
+        "timestamp": "2017-08-15T04:49:05.636000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "SCS", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 17
+        }, 
+        "free_bikes": 0, 
+        "id": "42db814caa701d24b56ce2ea21f12103", 
+        "latitude": -15.796269, 
+        "longitude": -47.890906, 
+        "name": "Shopping P\u00e1tio Brasil", 
+        "timestamp": "2017-08-15T04:49:05.637000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "SCS", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 18
+        }, 
+        "free_bikes": 1, 
+        "id": "6e44c5591f690bda05d27d95da37ab8f", 
+        "latitude": -15.798721, 
+        "longitude": -47.889044, 
+        "name": "Pra\u00e7a do Povo", 
+        "timestamp": "2017-08-15T04:49:05.638000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "SAS", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 20
+        }, 
+        "free_bikes": 3, 
+        "id": "6ec20020070a459c8ddfdc0e0745502c", 
+        "latitude": -15.800115, 
+        "longitude": -47.880753, 
+        "name": "SAS", 
+        "timestamp": "2017-08-15T04:49:05.640000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "SHC EQS 202 / 203", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 21
+        }, 
+        "free_bikes": 6, 
+        "id": "3243ed46706f17a2fc177cee3c2fa96a", 
+        "latitude": -15.807924, 
+        "longitude": -47.886518, 
+        "name": "EQS 202 / 203", 
+        "timestamp": "2017-08-15T04:49:05.641000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "EMI BL G", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 26
+        }, 
+        "free_bikes": 1, 
+        "id": "5541e18a5b3ea34397198bd649847793", 
+        "latitude": -15.79948, 
+        "longitude": -47.869223, 
+        "name": "Minist\u00e9rio da Saude", 
+        "timestamp": "2017-08-15T04:49:05.646000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Estacionamento do CNMP", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 28
+        }, 
+        "free_bikes": 2, 
+        "id": "92d13e2598856fb348be860bdfc6700c", 
+        "latitude": -15.804508, 
+        "longitude": -47.867839, 
+        "name": "CNMP - Conselho Nacional do Minist\u00e9rio P\u00fablico", 
+        "timestamp": "2017-08-15T04:49:05.650000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "EQS 204/205", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 31
+        }, 
+        "free_bikes": 4, 
+        "id": "d89d3a95fee9a6a8d9f4c740bbec54ca", 
+        "latitude": -15.812891, 
+        "longitude": -47.891096, 
+        "name": "EQS 204/205", 
+        "timestamp": "2017-08-15T04:49:05.654000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "EQS 104/304", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 33
+        }, 
+        "free_bikes": 2, 
+        "id": "03498c5a7b0a4aef9fedd799edb8973b", 
+        "latitude": -15.807223, 
+        "longitude": -47.89502, 
+        "name": "EQS 104/304", 
+        "timestamp": "2017-08-15T04:49:05.656000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "CLN 204", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 36
+        }, 
+        "free_bikes": 7, 
+        "id": "b346952fdae6dcbb11f238b47094c671", 
+        "latitude": -15.776996, 
+        "longitude": -47.877712, 
+        "name": "CLN 204", 
+        "timestamp": "2017-08-15T04:49:05.660000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "EQN 104/105", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 37
+        }, 
+        "free_bikes": 4, 
+        "id": "a6ca0cd80ba707ad5f9e4e735b617c88", 
+        "latitude": -15.774716, 
+        "longitude": -47.884544, 
+        "name": "EQN 104/105", 
+        "timestamp": "2017-08-15T04:49:05.661000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "SQN 205", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 38
+        }, 
+        "free_bikes": 7, 
+        "id": "a622311b6df9e639bed39052380d76e2", 
+        "latitude": -15.770854, 
+        "longitude": -47.878294, 
+        "name": "SQN 205", 
+        "timestamp": "2017-08-15T04:49:05.661000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "W2/EQN305/306", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 40
+        }, 
+        "free_bikes": 8, 
+        "id": "a10796c293fb37a2e9e5d97af27aa8db", 
+        "latitude": -15.772266, 
+        "longitude": -47.887947, 
+        "name": "W2/EQN305/306", 
+        "timestamp": "2017-08-15T04:49:05.663000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "UNB \u00e1rea 1", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 41
+        }, 
+        "free_bikes": 0, 
+        "id": "3160d4cca5cf0edea3e8626668ba9d1e", 
+        "latitude": -15.765119, 
+        "longitude": -47.87069, 
+        "name": "Instituto de Artes", 
+        "timestamp": "2017-08-15T04:49:05.664000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "UNB \u00e1rea 1", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 43
+        }, 
+        "free_bikes": 1, 
+        "id": "d1ea0b286f55b88329ce42529fee1085", 
+        "latitude": -15.761211, 
+        "longitude": -47.867234, 
+        "name": "Biblioteca Central", 
+        "timestamp": "2017-08-15T04:49:05.666000Z"
+      }
+    ]
+  }
+}

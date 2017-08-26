@@ -1,0 +1,2324 @@
+{
+  "network": {
+    "company": [
+      "Topeka Metropolitan Transit Authority", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "http://topekametrobikes.org/opendata/gbfs.json", 
+    "href": "/v2/networks/topeka-metro-bikes", 
+    "id": "topeka-metro-bikes", 
+    "location": {
+      "city": "Topeka, KS", 
+      "country": "US", 
+      "latitude": 39.0337646098385, 
+      "longitude": -95.7027213202284
+    }, 
+    "name": "Topeka Metro Bikes", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "101-299 Southwest Macvicar Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2190"
+        }, 
+        "free_bikes": 0, 
+        "id": "738ad9e29a379f758ee4cd4ac7e5d117", 
+        "latitude": 39.06321950087359, 
+        "longitude": -95.70682346820831, 
+        "name": "Shawnee County Health Agency - MacVicar", 
+        "timestamp": "2017-08-15T04:48:36.046000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1221-1239 Southwest Gage Boulevard, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2334"
+        }, 
+        "free_bikes": 0, 
+        "id": "1551904c1f505192d341a660744b5afa", 
+        "latitude": 39.04442281594321, 
+        "longitude": -95.72516441345213, 
+        "name": "SONIC - Huntoon & Gage", 
+        "timestamp": "2017-08-15T04:48:35.972000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Hidden Valley subdivision, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1715"
+        }, 
+        "free_bikes": 0, 
+        "id": "4d3e6bd7525977d200992495f99ba3d0", 
+        "latitude": 39.035496681508604, 
+        "longitude": -95.7657864689827, 
+        "name": "Bus Shelter at Westridge Mall", 
+        "timestamp": "2017-08-15T04:48:36.054000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "400, Southwest 8th Avenue, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2136"
+        }, 
+        "free_bikes": 0, 
+        "id": "71f57fb9fe231b85448e23f621f4a462", 
+        "latitude": 39.04994998319181, 
+        "longitude": -95.67914307117462, 
+        "name": "Bus shelter 8th & Harrison downtown", 
+        "timestamp": "2017-08-15T04:48:35.963000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Southwest Security Benefit Place, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2159"
+        }, 
+        "free_bikes": 0, 
+        "id": "ba8d7e607c16e14cb41fc81d963d1a6d", 
+        "latitude": 39.05702973012335, 
+        "longitude": -95.758096575737, 
+        "name": "Bus Shelter - Security Benefit", 
+        "timestamp": "2017-08-15T04:48:35.992000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "5039 Southwest 6th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2160"
+        }, 
+        "free_bikes": 0, 
+        "id": "9c3ba11ddc6e5c7813035bf559d05eee", 
+        "latitude": 39.05803779172565, 
+        "longitude": -95.75191140174866, 
+        "name": "Bus Shelter - 6th & Governors Row", 
+        "timestamp": "2017-08-15T04:48:36.001000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "728-798 Southwest Topeka Boulevard, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2161"
+        }, 
+        "free_bikes": 0, 
+        "id": "1264b17d6391ca7a14f908ba82c1d451", 
+        "latitude": 39.05036970558358, 
+        "longitude": -95.6801287829876, 
+        "name": "Bus shelter - 8th & Topeka", 
+        "timestamp": "2017-08-15T04:48:36Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "516, Southwest Harrison Street, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2184"
+        }, 
+        "free_bikes": 0, 
+        "id": "21c7babbfba4094d20219e1ec333da96", 
+        "latitude": 39.0528786142461, 
+        "longitude": -95.67707508802414, 
+        "name": "Bus stop - 6th & Harrison", 
+        "timestamp": "2017-08-15T04:48:35.943000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "631 Southwest Horne Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2185"
+        }, 
+        "free_bikes": 0, 
+        "id": "c4e326f22b5a95edec65f038884c8fb2", 
+        "latitude": 39.05305357821467, 
+        "longitude": -95.69632261991501, 
+        "name": "Stormont-Vail", 
+        "timestamp": "2017-08-15T04:48:35.942000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1900 Southwest Hope Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2612"
+        }, 
+        "free_bikes": 2, 
+        "id": "24cbb231ee93c4019d4ba3ae452f8bd6", 
+        "latitude": 39.0323643958361, 
+        "longitude": -95.7341068983078, 
+        "name": "Hope Street Academy", 
+        "timestamp": "2017-08-15T04:48:35.994000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Southwest Scenic Drive, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2613"
+        }, 
+        "free_bikes": 0, 
+        "id": "7bf94cb8842ab9190cc7ae8962ecb299", 
+        "latitude": 39.00389518802592, 
+        "longitude": -95.7370975613594, 
+        "name": "Burnett's Mound - Skyline Drive entrance", 
+        "timestamp": "2017-08-15T04:48:35.993000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Highway 4, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2080"
+        }, 
+        "free_bikes": 0, 
+        "id": "52e015d1b1ff66751229689a2ee1eac1", 
+        "latitude": 39.05748169341909, 
+        "longitude": -95.67103743553162, 
+        "name": "Bus shelter - 2nd & Kansas", 
+        "timestamp": "2017-08-15T04:48:35.971000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1625 Southwest Wanamaker Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2147"
+        }, 
+        "free_bikes": 0, 
+        "id": "0df61393529546f5a2b5f90df4c8d636", 
+        "latitude": 39.03692172769081, 
+        "longitude": -95.76247930526733, 
+        "name": "Chick-Fil-A", 
+        "timestamp": "2017-08-15T04:48:35.977000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "3230 Southwest Topeka Boulevard, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_889"
+        }, 
+        "free_bikes": 0, 
+        "id": "1977172e9ca5f880d37a2e33d640f3a2", 
+        "latitude": 39.00895724069964, 
+        "longitude": -95.68746596574782, 
+        "name": "Bus Shelter - 32nd and Topeka ", 
+        "timestamp": "2017-08-15T04:48:35.940000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1000 Southwest 10th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2183"
+        }, 
+        "free_bikes": 0, 
+        "id": "2f43a1c39bb87a036b6afaef791ad08d", 
+        "latitude": 39.04971460428855, 
+        "longitude": -95.6895124912262, 
+        "name": "Bus stop - 10th & Clay", 
+        "timestamp": "2017-08-15T04:48:35.944000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1501 Southwest 6th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2149"
+        }, 
+        "free_bikes": 0, 
+        "id": "a714f4df093deba0c7bc590092aa9ac8", 
+        "latitude": 39.05691101131315, 
+        "longitude": -95.6933882832527, 
+        "name": "Bus stop - 6th & Washburn - TACO CASA", 
+        "timestamp": "2017-08-15T04:48:35.975000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2751 Southwest East Circle Drive South, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2203"
+        }, 
+        "free_bikes": 0, 
+        "id": "496037176cee6718122e5cca2c3d19f0", 
+        "latitude": 39.06214070393011, 
+        "longitude": -95.70867419242859, 
+        "name": "Capital City High School", 
+        "timestamp": "2017-08-15T04:48:36.056000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "3401 Southeast Indiana Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1073"
+        }, 
+        "free_bikes": 0, 
+        "id": "ff85a70253ccfd6da5ac1cbd5210c759", 
+        "latitude": 39.00630504135409, 
+        "longitude": -95.66103413701057, 
+        "name": "Topeka Metro Bus Shelter - 34th & Indiana", 
+        "timestamp": "2017-08-15T04:48:36.009000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1906 Southeast 29th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1074"
+        }, 
+        "free_bikes": 0, 
+        "id": "2353338aad661d50cfa87ccd90d57e57", 
+        "latitude": 39.015340869401356, 
+        "longitude": -95.65140634775162, 
+        "name": "McDonald's at 29th & California", 
+        "timestamp": "2017-08-15T04:48:36.011000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1101-1199 Southeast 10th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1075"
+        }, 
+        "free_bikes": 0, 
+        "id": "560197e3c8372aece411aeef04bbe199", 
+        "latitude": 39.04415068550547, 
+        "longitude": -95.66061973571777, 
+        "name": "Topeka Metro Bus Shelter - 10th & Indiana", 
+        "timestamp": "2017-08-15T04:48:36.011000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "102 Southwest 37th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1076"
+        }, 
+        "free_bikes": 0, 
+        "id": "d0ca71444d3f47c881f2870a0e7241ff", 
+        "latitude": 39.000767929159636, 
+        "longitude": -95.6799128651619, 
+        "name": "Topeka Metro Bus Shelter - Landon Trail and 37th St", 
+        "timestamp": "2017-08-15T04:48:36.010000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "101-105 Southwest 29th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1080"
+        }, 
+        "free_bikes": 2, 
+        "id": "05378ed969dcaf193b7ecae218f8cf54", 
+        "latitude": 39.01504806458094, 
+        "longitude": -95.6823979318142, 
+        "name": "Capitol Federal - 29th & Kansas", 
+        "timestamp": "2017-08-15T04:48:35.996000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "501-599 Southwest 10th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1183"
+        }, 
+        "free_bikes": 0, 
+        "id": "1d75376558d3d585000c21100907eb6c", 
+        "latitude": 39.047514919216006, 
+        "longitude": -95.68237513303757, 
+        "name": "Walgreens bike rack downtown", 
+        "timestamp": "2017-08-15T04:48:35.969000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "924-998 North Kansas Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1195"
+        }, 
+        "free_bikes": 2, 
+        "id": "f982afcfcb8716d39f1bca0e6548c009", 
+        "latitude": 39.06888395701614, 
+        "longitude": -95.66593185067177, 
+        "name": "NOTO Arts Center", 
+        "timestamp": "2017-08-15T04:48:35.984000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "4000 Southwest 29th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1199"
+        }, 
+        "free_bikes": 1, 
+        "id": "2044c1bebd090eddd59c5ab303e4ee36", 
+        "latitude": 39.01521166031547, 
+        "longitude": -95.72699904441833, 
+        "name": "Walgreens - 29th & Gage", 
+        "timestamp": "2017-08-15T04:48:35.990000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "455 Southeast Golf Park Boulevard, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1207"
+        }, 
+        "free_bikes": 0, 
+        "id": "4a4905161833435d21ba866f8a508ccb", 
+        "latitude": 39.008942650998854, 
+        "longitude": -95.6729444861412, 
+        "name": "Avondale East - NetReach Center - CRC", 
+        "timestamp": "2017-08-15T04:48:35.982000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "5700-5798 Southwest Huntoon Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1255"
+        }, 
+        "free_bikes": 0, 
+        "id": "c9fc6b47d3191d9abe62451f99d3d495", 
+        "latitude": 39.04383716827699, 
+        "longitude": -95.7498662173748, 
+        "name": "Washburn Institute of Technology", 
+        "timestamp": "2017-08-15T04:48:36.018000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "2400-2438 Southeast California Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_883"
+        }, 
+        "free_bikes": 5, 
+        "id": "e09792cc9f3191cc02ed3778b66c8e91", 
+        "latitude": 39.02402234660697, 
+        "longitude": -95.65088868141174, 
+        "name": "Highland Park High School", 
+        "timestamp": "2017-08-15T04:48:35.937000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "4310-4398 Southwest 21st Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2148"
+        }, 
+        "free_bikes": 0, 
+        "id": "59b449eabbba89910ea1870cf31532f0", 
+        "latitude": 39.02953628146591, 
+        "longitude": -95.7301814854145, 
+        "name": "Bus stop - Donut District", 
+        "timestamp": "2017-08-15T04:48:35.968000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "6801-6989 Southwest 21st Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1793"
+        }, 
+        "free_bikes": 0, 
+        "id": "d87402ccad1a121275b657266510dced", 
+        "latitude": 39.02786052834072, 
+        "longitude": -95.78276216983795, 
+        "name": "Midwest Health Aquatic Center - Shawnee County westside pool", 
+        "timestamp": "2017-08-15T04:48:36.012000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "3938-4084 Southwest 45th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2711"
+        }, 
+        "free_bikes": 0, 
+        "id": "02ef572223b2d5c7be397976bb759ad4", 
+        "latitude": 38.98652723267857, 
+        "longitude": -95.72464942932129, 
+        "name": "GreatLife Golf - Berkshire Country Club", 
+        "timestamp": "2017-08-15T04:48:35.984000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1634 Southwest Jewell Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2873"
+        }, 
+        "free_bikes": 0, 
+        "id": "943abf114fb3aec82e96ba11d35df2af", 
+        "latitude": 39.03575092776897, 
+        "longitude": -95.70190697908401, 
+        "name": "Washburn University - Morgan west", 
+        "timestamp": "2017-08-15T04:48:35.995000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Kellam Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1256"
+        }, 
+        "free_bikes": 0, 
+        "id": "c62fa9f9607b47dfe54ff8ec4ccfe898", 
+        "latitude": 39.03613003871874, 
+        "longitude": -95.63362061977386, 
+        "name": "Reser's Salad - Loading Dock wave bike racks", 
+        "timestamp": "2017-08-15T04:48:36.017000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3741-3899 Southwest 17th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1265"
+        }, 
+        "free_bikes": 0, 
+        "id": "9d20239c81b1359d96604be5db9a0d06", 
+        "latitude": 39.03668005516857, 
+        "longitude": -95.72417065501213, 
+        "name": "Faith Lutheran Church 17th and Gage", 
+        "timestamp": "2017-08-15T04:48:36.005000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Southwest 12th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1266"
+        }, 
+        "free_bikes": 0, 
+        "id": "dccaa890220947cd43ff8c42fc07b732", 
+        "latitude": 39.04351531688845, 
+        "longitude": -95.67904114723206, 
+        "name": "YWCA", 
+        "timestamp": "2017-08-15T04:48:36.004000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Southwest Mulvane Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1298"
+        }, 
+        "free_bikes": 0, 
+        "id": "3bba21307789ee305a454ef03d75d1d1", 
+        "latitude": 39.032971529198264, 
+        "longitude": -95.69772809743881, 
+        "name": "Washburn University - KBI Building", 
+        "timestamp": "2017-08-15T04:48:35.967000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "3129 Southwest Huntoon Street, Westboro Shopping Center, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1308"
+        }, 
+        "free_bikes": 3, 
+        "id": "a5a1a23bd5341da6868de0292433b1ed", 
+        "latitude": 39.043874665408836, 
+        "longitude": -95.71662425994873, 
+        "name": "Westboro Mart", 
+        "timestamp": "2017-08-15T04:48:36.003000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1717 Southwest Topeka Boulevard, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1322"
+        }, 
+        "free_bikes": 0, 
+        "id": "6fdaf8324b3f3b5e9fc26ff3c74669bc", 
+        "latitude": 39.035148749299715, 
+        "longitude": -95.68436801433563, 
+        "name": "Capitol Plaza Hotel", 
+        "timestamp": "2017-08-15T04:48:35.998000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "924 South Kansas Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1392"
+        }, 
+        "free_bikes": 0, 
+        "id": "2cc216f4a9f5e7c87b3b5b71a9a85131", 
+        "latitude": 39.04660877934738, 
+        "longitude": -95.67536920309067, 
+        "name": "Downtown - 900 S. Kansas Midblock Crossing Bike Corral", 
+        "timestamp": "2017-08-15T04:48:36.014000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "900, South Kansas Avenue, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1393"
+        }, 
+        "free_bikes": 1, 
+        "id": "a7eb206fc840ab57fe4692f04218ea3a", 
+        "latitude": 39.04726703399379, 
+        "longitude": -95.67510232329369, 
+        "name": "Downtown - 9th & Kansas Pocket Park", 
+        "timestamp": "2017-08-15T04:48:36.013000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "8th & Kansas, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1394"
+        }, 
+        "free_bikes": 0, 
+        "id": "09f3b44bab6da45236784dd6c869f0f9", 
+        "latitude": 39.04890222870801, 
+        "longitude": -95.67430436611176, 
+        "name": "Downtown - 8th & Kansas - Lupita's", 
+        "timestamp": "2017-08-15T04:48:36.016000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "115 Southeast 6th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1395"
+        }, 
+        "free_bikes": 0, 
+        "id": "7f8cab8c73582ccc695391bb4bbaab92", 
+        "latitude": 39.05160594524673, 
+        "longitude": -95.6732127070427, 
+        "name": "Downtown - 6th & Kansas", 
+        "timestamp": "2017-08-15T04:48:36.015000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "600 Southeast Madison Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1447"
+        }, 
+        "free_bikes": 0, 
+        "id": "c859ca463f5884e0688853b52ff87d0b", 
+        "latitude": 39.04947714152772, 
+        "longitude": -95.66882193088531, 
+        "name": "Downtown - City of Topeka - Holliday Building", 
+        "timestamp": "2017-08-15T04:48:35.966000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1701 Southwest Collins Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1465"
+        }, 
+        "free_bikes": 0, 
+        "id": "a23cc31a56751fd9b404d0364c23ff25", 
+        "latitude": 39.03638369282106, 
+        "longitude": -95.71361348032951, 
+        "name": "First Congregational Church", 
+        "timestamp": "2017-08-15T04:48:35.991000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1034 South Kansas Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1682"
+        }, 
+        "free_bikes": 0, 
+        "id": "9ebf9f04a1c97324bcd48b8d66a6c80f", 
+        "latitude": 39.04465689287201, 
+        "longitude": -95.6754121184349, 
+        "name": "Hanover Pancake House", 
+        "timestamp": "2017-08-15T04:48:35.979000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "2801-3399 Southeast 25th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1702"
+        }, 
+        "free_bikes": 0, 
+        "id": "614a5c91e1abc3583d8834f0cebf8542", 
+        "latitude": 39.022207368280306, 
+        "longitude": -95.64049243927002, 
+        "name": "Dornwood Spray Park", 
+        "timestamp": "2017-08-15T04:48:36.036000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "100-198 Southeast 4th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1706"
+        }, 
+        "free_bikes": 0, 
+        "id": "0a67390ac792d4499dd9a5108e380dba", 
+        "latitude": 39.05470321908514, 
+        "longitude": -95.6708550453186, 
+        "name": "Downtown - TPD Station", 
+        "timestamp": "2017-08-15T04:48:36.032000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "200-298 Southwest 13th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1707"
+        }, 
+        "free_bikes": 0, 
+        "id": "02ca61657427550ad32f3985a7cb38ee", 
+        "latitude": 39.04281536315515, 
+        "longitude": -95.6792825460434, 
+        "name": "GreatLife - YWCA", 
+        "timestamp": "2017-08-15T04:48:36.033000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "3001 Southwest Wanamaker Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1720"
+        }, 
+        "free_bikes": 0, 
+        "id": "458b8c3595ff64232aed69e37cf772cc", 
+        "latitude": 39.012685782906075, 
+        "longitude": -95.76346635818481, 
+        "name": "HyVee Grocery", 
+        "timestamp": "2017-08-15T04:48:35.999000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "2940 Southwest Wanamaker Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1721"
+        }, 
+        "free_bikes": 0, 
+        "id": "ef5c32658e57f1dda262df02695da3e2", 
+        "latitude": 39.013181795837845, 
+        "longitude": -95.76175510883331, 
+        "name": "Starbucks", 
+        "timestamp": "2017-08-15T04:48:36Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "5101-5199 Southwest Shunga Drive, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1789"
+        }, 
+        "free_bikes": 0, 
+        "id": "9dccca8935f595bcf46875752822e5b7", 
+        "latitude": 39.019196193691144, 
+        "longitude": -95.74344635009766, 
+        "name": "Fire Station at Shunga and Fairlawn", 
+        "timestamp": "2017-08-15T04:48:36.008000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "720 Southwest 21st Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1790"
+        }, 
+        "free_bikes": 0, 
+        "id": "00037ddbf2db0bb03ff62016c9882793", 
+        "latitude": 39.02997331468865, 
+        "longitude": -95.68719506263733, 
+        "name": "Fire Station at Western and 21st", 
+        "timestamp": "2017-08-15T04:48:36.016000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1648 Southwest 18th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1799"
+        }, 
+        "free_bikes": 0, 
+        "id": "97e02e0b8ee03594657db45d07346f72", 
+        "latitude": 39.035277921903955, 
+        "longitude": -95.69774687290192, 
+        "name": "Washburn - Lincoln Hall", 
+        "timestamp": "2017-08-15T04:48:36.026000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "501-599 Southwest Frazier Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1820"
+        }, 
+        "free_bikes": 0, 
+        "id": "280eb321cfa96849a76864d182aab319", 
+        "latitude": 39.058977108992906, 
+        "longitude": -95.71971416473389, 
+        "name": "Valeo - 6th & Frazier", 
+        "timestamp": "2017-08-15T04:48:35.997000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2031-2099 Southwest Westport Drive, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1821"
+        }, 
+        "free_bikes": 0, 
+        "id": "1f6a5d40d5482c99bba8a47e16a4e4bc", 
+        "latitude": 39.02971286607331, 
+        "longitude": -95.7576110959053, 
+        "name": "Natural Grocers", 
+        "timestamp": "2017-08-15T04:48:35.946000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "3915 Southwest 19th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1837"
+        }, 
+        "free_bikes": 0, 
+        "id": "96170cfcf5e53eb2f3c7ed66c596f6bc", 
+        "latitude": 39.03295069426123, 
+        "longitude": -95.72563648223877, 
+        "name": "19th Street Salon", 
+        "timestamp": "2017-08-15T04:48:36.053000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1401-1499 Southwest 19th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2047"
+        }, 
+        "free_bikes": 0, 
+        "id": "2037efcfaaa3cf143725f8899c9ad8ac", 
+        "latitude": 39.03384815489691, 
+        "longitude": -95.69674104452133, 
+        "name": "Bus Shelter - 19th & Washburn", 
+        "timestamp": "2017-08-15T04:48:36.034000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "4402 Southwest 34th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2048"
+        }, 
+        "free_bikes": 0, 
+        "id": "6b64c367a811c51b5ad0f40e3230c530", 
+        "latitude": 39.00621229071045, 
+        "longitude": -95.73065221309662, 
+        "name": "Blue Dot", 
+        "timestamp": "2017-08-15T04:48:35.945000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Southwest 19th Street, Washburn University, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_634"
+        }, 
+        "free_bikes": 15, 
+        "id": "cfbc3b40c3ecca1e48206c5476757d7e", 
+        "latitude": 39.0337646098385, 
+        "longitude": -95.7027213202284, 
+        "name": "Washburn University - Henderson-Mabee", 
+        "timestamp": "2017-08-15T04:48:35.979000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "200-298 Northwest Crane Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_635"
+        }, 
+        "free_bikes": 1, 
+        "id": "f4b183d975deabaf91494b802758a638", 
+        "latitude": 39.0609598414429, 
+        "longitude": -95.6712623830365, 
+        "name": "Topeka Metro Ryan Admin Building", 
+        "timestamp": "2017-08-15T04:48:35.980000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Southwest Zoo Parkway, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_637"
+        }, 
+        "free_bikes": 13, 
+        "id": "2789c18581962d116eb0336bf095870d", 
+        "latitude": 39.05244745075553, 
+        "longitude": -95.72814166545868, 
+        "name": "Gage Park", 
+        "timestamp": "2017-08-15T04:48:35.981000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "3435 Southeast East Edge Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_639"
+        }, 
+        "free_bikes": 2, 
+        "id": "27882a95f1bb9af0b10d1e80b60973e6", 
+        "latitude": 39.0034367918231, 
+        "longitude": -95.6230590503792, 
+        "name": "Lake Shawnee Campground", 
+        "timestamp": "2017-08-15T04:48:35.983000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1515 Southwest 10th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_640"
+        }, 
+        "free_bikes": 6, 
+        "id": "d696b38e42f693e997ed71175c50bcfe", 
+        "latitude": 39.0503474336272, 
+        "longitude": -95.6970086569238, 
+        "name": "Topeka and Shawnee County Public Library", 
+        "timestamp": "2017-08-15T04:48:35.922000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1615 Southwest 8th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_641"
+        }, 
+        "free_bikes": 0, 
+        "id": "d345f1121c65df55caee650d111ee156", 
+        "latitude": 39.0540476139743, 
+        "longitude": -95.6963846385606, 
+        "name": "GraceMed between the hospitals", 
+        "timestamp": "2017-08-15T04:48:35.921000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2025 Southeast California Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_642"
+        }, 
+        "free_bikes": 0, 
+        "id": "4f0f2d5135b0fbe74fc83c4166e39ed8", 
+        "latitude": 39.0307633876083, 
+        "longitude": -95.6515374840144, 
+        "name": "Shawnee County Health Agency - East", 
+        "timestamp": "2017-08-15T04:48:35.924000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1691-1699 Southwest Washburn Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_643"
+        }, 
+        "free_bikes": 4, 
+        "id": "a4cf91ad8c617dbcb50930546877df8c", 
+        "latitude": 39.037132148735864, 
+        "longitude": -95.69700121879578, 
+        "name": "College Hill - PT's Coffee", 
+        "timestamp": "2017-08-15T04:48:35.923000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1401-1499 Southwest 16th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_644"
+        }, 
+        "free_bikes": 2, 
+        "id": "93e0cccec73efb05247611363e31936f", 
+        "latitude": 39.0388136868598, 
+        "longitude": -95.6962554532054, 
+        "name": "College Hill - Burger Stand", 
+        "timestamp": "2017-08-15T04:48:35.916000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Capitol Plaza Topeka, 1717, Southwest Topeka Boulevard, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_645"
+        }, 
+        "free_bikes": 1, 
+        "id": "d726a0e1f436cf87b6f9c287cdd52dab", 
+        "latitude": 39.0349653323476, 
+        "longitude": -95.6852604043445, 
+        "name": "Kansas Expocentre", 
+        "timestamp": "2017-08-15T04:48:35.910000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "4117, Southwest Huntoon Street, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_646"
+        }, 
+        "free_bikes": 0, 
+        "id": "e21799c47ba842380cf31591a9dded38", 
+        "latitude": 39.0430401638504, 
+        "longitude": -95.7268962304101, 
+        "name": "Annie's Place", 
+        "timestamp": "2017-08-15T04:48:35.918000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "5467-5487 Southwest 21st Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_647"
+        }, 
+        "free_bikes": 0, 
+        "id": "58340a2f6064e71776b2198fb706f6f1", 
+        "latitude": 39.0290962470401, 
+        "longitude": -95.7466323050004, 
+        "name": "Bus Shelter - Fairlawn Plaza", 
+        "timestamp": "2017-08-15T04:48:35.917000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1119 Southwest 10th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_648"
+        }, 
+        "free_bikes": 1, 
+        "id": "abf461dc28e5bfd900147cd5e596dcd8", 
+        "latitude": 39.0496911711017, 
+        "longitude": -95.6913260917216, 
+        "name": "Doorstep Inc.", 
+        "timestamp": "2017-08-15T04:48:35.927000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "123, Northwest Clay Street, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_649"
+        }, 
+        "free_bikes": 0, 
+        "id": "e1667ffb85f54560ca9f274829f4229e", 
+        "latitude": 39.0633736136613, 
+        "longitude": -95.6842178106308, 
+        "name": "Old Prairie Town", 
+        "timestamp": "2017-08-15T04:48:35.926000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "421 Southwest Van Buren Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_650"
+        }, 
+        "free_bikes": 0, 
+        "id": "fddb94f69e13d55e0e866c3465099fff", 
+        "latitude": 39.0549743352889, 
+        "longitude": -95.6753382979593, 
+        "name": "YMCA Downtown", 
+        "timestamp": "2017-08-15T04:48:35.957000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1939 Southwest Fairmont Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_652"
+        }, 
+        "free_bikes": 1, 
+        "id": "ee3b64d0ab835dc7bf54b76f563b6a82", 
+        "latitude": 39.0320485420497, 
+        "longitude": -95.7459768384113, 
+        "name": "Topeka West High School", 
+        "timestamp": "2017-08-15T04:48:35.956000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1636-1638 Southwest Wanamaker Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_656"
+        }, 
+        "free_bikes": 0, 
+        "id": "ca884b4a1f40f59d3341c5c7333c9e0e", 
+        "latitude": 39.0396298380557, 
+        "longitude": -95.7616991035816, 
+        "name": "Wanamaker & Westport", 
+        "timestamp": "2017-08-15T04:48:35.958000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "3050-3098 Southwest 8th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_668"
+        }, 
+        "free_bikes": 0, 
+        "id": "c85b46f3de5fb95e0b38b06c91e404f7", 
+        "latitude": 39.0552913938362, 
+        "longitude": -95.7148058181932, 
+        "name": "Topeka Civic Theatre and Academy", 
+        "timestamp": "2017-08-15T04:48:36.021000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "2028 Northwest Topeka Boulevard, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_669"
+        }, 
+        "free_bikes": 0, 
+        "id": "75269c526cab8c2dfc70c3449b3d0752", 
+        "latitude": 39.0861725432192, 
+        "longitude": -95.663076633943, 
+        "name": "Topeka Crossing Shopping Center (N. Topeka Blvd)", 
+        "timestamp": "2017-08-15T04:48:36.020000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "400 Northwest Lyman Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_670"
+        }, 
+        "free_bikes": 0, 
+        "id": "6312c2f88334463686fd5e2b39f306a7", 
+        "latitude": 39.0879312017274, 
+        "longitude": -95.6652938872458, 
+        "name": "Walgreens - North Topeka", 
+        "timestamp": "2017-08-15T04:48:36.038000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Breakpoint Church, Southwest Chelsea Drive, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_671"
+        }, 
+        "free_bikes": 0, 
+        "id": "065a79aac4b060d7b6ac763085bb0f0d", 
+        "latitude": 39.00095969790529, 
+        "longitude": -95.7487678527832, 
+        "name": "YMCA southwest", 
+        "timestamp": "2017-08-15T04:48:36.039000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1781 Southwest Wanamaker Road, West Ridge Mall, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_672"
+        }, 
+        "free_bikes": 0, 
+        "id": "0b9469fdbaa78601041de0e89a20d8e7", 
+        "latitude": 39.0337414783059, 
+        "longitude": -95.7670234503642, 
+        "name": "Westridge Mall NW entrance", 
+        "timestamp": "2017-08-15T04:48:36.040000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2120 Southwest Wanamaker Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_673"
+        }, 
+        "free_bikes": 0, 
+        "id": "bf95676610e5b6da47ed0048bac46eb2", 
+        "latitude": 39.0285592266384, 
+        "longitude": -95.7596259168943, 
+        "name": "Target", 
+        "timestamp": "2017-08-15T04:48:36.041000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2700 Southwest 6th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_674"
+        }, 
+        "free_bikes": 0, 
+        "id": "afbe8b48d08656e331a0d7194bea0c44", 
+        "latitude": 39.059966398490864, 
+        "longitude": -95.7083737850189, 
+        "name": "Walmart Neighborhood Store 6th & MacVicar", 
+        "timestamp": "2017-08-15T04:48:36.042000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "565-599 Southwest Clay Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_675"
+        }, 
+        "free_bikes": 0, 
+        "id": "575208fea420bb569175364b4382cd29", 
+        "latitude": 39.0557480016298, 
+        "longitude": -95.6877011490653, 
+        "name": "Tilton's Westside Grocery", 
+        "timestamp": "2017-08-15T04:48:36.043000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1515 Southeast Monroe Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_676"
+        }, 
+        "free_bikes": 0, 
+        "id": "8eab6209bd121311395e5f1b39077008", 
+        "latitude": 39.0381822806196, 
+        "longitude": -95.6765691020807, 
+        "name": "Brown vs. Board of Education National Historic Site", 
+        "timestamp": "2017-08-15T04:48:36.045000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1801 Southwest Wanamaker Road, West Ridge Mall, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_710"
+        }, 
+        "free_bikes": 0, 
+        "id": "92c6e89d5e3ebfc9c47fec88a749a68c", 
+        "latitude": 39.0317945068732, 
+        "longitude": -95.7669002465661, 
+        "name": "West Ridge Mall SW entrance", 
+        "timestamp": "2017-08-15T04:48:35.961000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "6000-6046 Southwest 21st Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_711"
+        }, 
+        "free_bikes": 0, 
+        "id": "1df54f9ed2c75337acf047d842c1ff01", 
+        "latitude": 39.0292709106411, 
+        "longitude": -95.7629798868615, 
+        "name": "Bus Shelter at West Ridge Mall", 
+        "timestamp": "2017-08-15T04:48:35.960000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "3071-3081 Southeast West Edge Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_735"
+        }, 
+        "free_bikes": 10, 
+        "id": "e1431420fd929b2e6eab5904a9566d69", 
+        "latitude": 39.0086050874493, 
+        "longitude": -95.6299535281191, 
+        "name": "Lake Shawnee - Marina West", 
+        "timestamp": "2017-08-15T04:48:35.974000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1737 Southwest Macvicar Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_736"
+        }, 
+        "free_bikes": 7, 
+        "id": "3d0f065c495167c7cf7035b3eb2b5076", 
+        "latitude": 39.0352842976921, 
+        "longitude": -95.7048229417351, 
+        "name": "Washburn University - Plass Street Station", 
+        "timestamp": "2017-08-15T04:48:35.976000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "200-306 Southeast 9th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_739"
+        }, 
+        "free_bikes": 12, 
+        "id": "1e99223046b8172fd33cf20b02b026e8", 
+        "latitude": 39.0470542100847, 
+        "longitude": -95.6733930922948, 
+        "name": "Downtown - Quincy Street Station (QSS) ", 
+        "timestamp": "2017-08-15T04:48:35.978000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "300 Southwest 10th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_740"
+        }, 
+        "free_bikes": 3, 
+        "id": "0e97b37ab91720b02ac44e015ec98647", 
+        "latitude": 39.0478766984882, 
+        "longitude": -95.6767196539826, 
+        "name": "Downtown - Kansas State Capitol Bike Parking", 
+        "timestamp": "2017-08-15T04:48:36.022000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "811 South Kansas Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_743"
+        }, 
+        "free_bikes": 3, 
+        "id": "d58809e8b3ac168dca301c6ca9a03e65", 
+        "latitude": 39.0480956298121, 
+        "longitude": -95.6748907952502, 
+        "name": "Downtown - Sunflower Bike Racks - 822 S Kansas Ave", 
+        "timestamp": "2017-08-15T04:48:36.023000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "716 South Kansas Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_744"
+        }, 
+        "free_bikes": 0, 
+        "id": "05c06d285039675b7389d631812ea050", 
+        "latitude": 39.04960212212917, 
+        "longitude": -95.67402005195618, 
+        "name": "Downtown - 712 S Kansas Ave", 
+        "timestamp": "2017-08-15T04:48:36.019000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "618 South Kansas Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_745"
+        }, 
+        "free_bikes": 8, 
+        "id": "f8da1c5f0995ecc88bd5f94e575ea4e7", 
+        "latitude": 39.050928984368866, 
+        "longitude": -95.67344337701797, 
+        "name": "Downtown - Visit Topeka, Inc. - 618 S Kansas Ave", 
+        "timestamp": "2017-08-15T04:48:36.020000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Crosswalk on Kansas (Between 4th & 5th), Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_748"
+        }, 
+        "free_bikes": 0, 
+        "id": "1d35da772300192befd54f964be3c8bb", 
+        "latitude": 39.0537409334076, 
+        "longitude": -95.67258507013321, 
+        "name": "Downtown - Topeka Community Cycle Project - 423 S Kansas Ave", 
+        "timestamp": "2017-08-15T04:48:36.025000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "700-798 Southeast Quincy Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_752"
+        }, 
+        "free_bikes": 0, 
+        "id": "f1fc1651bdd8290c76b4e69a4db76f50", 
+        "latitude": 39.0497756245855, 
+        "longitude": -95.6723875675925, 
+        "name": "Downtown - Topeka City Hall", 
+        "timestamp": "2017-08-15T04:48:36.007000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "4015 Southwest 10th Avenue, Flemming Place Shopping Center, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_753"
+        }, 
+        "free_bikes": 0, 
+        "id": "5cdb1d746706f7dbb11ad754c719d513", 
+        "latitude": 39.0503087698915, 
+        "longitude": -95.7270283553689, 
+        "name": "Dillons Gage / Fleming Place", 
+        "timestamp": "2017-08-15T04:48:36.006000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Morgan Hall, Southwest College Avenue, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_761"
+        }, 
+        "free_bikes": 1, 
+        "id": "2654cb7d8e31a9380db632d1ff74c361", 
+        "latitude": 39.035311256809486, 
+        "longitude": -95.70141077041626, 
+        "name": "Washburn University - Morgan Hall - South", 
+        "timestamp": "2017-08-15T04:48:35.941000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1800-1826 Southwest Mulvane Street, Washburn University, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_762"
+        }, 
+        "free_bikes": 1, 
+        "id": "6d27da86f24fa0af4cedb54971e92224", 
+        "latitude": 39.0342341733007, 
+        "longitude": -95.698579214289, 
+        "name": "Washburn University - Lee Arena  - NE", 
+        "timestamp": "2017-08-15T04:48:35.939000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "610-798 Southwest Corporate View, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_777"
+        }, 
+        "free_bikes": 0, 
+        "id": "90b73ef5b490701f8dd05bab9cdeca75", 
+        "latitude": 39.0552801135943, 
+        "longitude": -95.7676774279298, 
+        "name": "WIBW", 
+        "timestamp": "2017-08-15T04:48:36.037000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2201 Southeast 25th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_781"
+        }, 
+        "free_bikes": 6, 
+        "id": "8ce68bba1b702ac68ac8ec024a485825", 
+        "latitude": 39.0207152679409, 
+        "longitude": -95.6487687385111, 
+        "name": "Walmart East bike racks", 
+        "timestamp": "2017-08-15T04:48:35.985000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2800 Southeast Texas Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_782"
+        }, 
+        "free_bikes": 0, 
+        "id": "249b622179d4429e4fdc27e2e09e0921", 
+        "latitude": 39.016225398824, 
+        "longitude": -95.6496576122895, 
+        "name": "Dillons East", 
+        "timestamp": "2017-08-15T04:48:35.986000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2827 Southwest 29th Street, Brookwood Shopping Center, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_783"
+        }, 
+        "free_bikes": 0, 
+        "id": "6b368949b4563224ddc550b23356229e", 
+        "latitude": 39.0143403609587, 
+        "longitude": -95.7136372659046, 
+        "name": "Dillons Brookwood", 
+        "timestamp": "2017-08-15T04:48:35.987000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "5311 Southwest 22nd Place, Fairlawn Plaza, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_785"
+        }, 
+        "free_bikes": 0, 
+        "id": "6761f45a481c57f9858485ffa7759399", 
+        "latitude": 39.0270135592739, 
+        "longitude": -95.7452036800613, 
+        "name": "Dillons Fairlawn", 
+        "timestamp": "2017-08-15T04:48:35.988000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "800 Northwest 25th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_786"
+        }, 
+        "free_bikes": 0, 
+        "id": "0a89c84525a67d1cd7bb98907cd200e5", 
+        "latitude": 39.0933001172029, 
+        "longitude": -95.674991212342, 
+        "name": "Dillons North", 
+        "timestamp": "2017-08-15T04:48:35.989000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "6829 Southwest 29th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_787"
+        }, 
+        "free_bikes": 0, 
+        "id": "94cefa635e2a9ffacb3b68ee9f8f7bc5", 
+        "latitude": 39.0136104060317, 
+        "longitude": -95.7829856669539, 
+        "name": "Dillons West", 
+        "timestamp": "2017-08-15T04:48:35.990000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2200 Southwest Gage Boulevard, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_791"
+        }, 
+        "free_bikes": 0, 
+        "id": "cb48a3adf852c9b6e7690a7161e418e3", 
+        "latitude": 39.0259068294422, 
+        "longitude": -95.7236558885051, 
+        "name": "VA Hospital", 
+        "timestamp": "2017-08-15T04:48:35.970000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "700-740 Southwest Harrison Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_801"
+        }, 
+        "free_bikes": 4, 
+        "id": "e397d5fd34cc1d7172b88b8cf445cbf7", 
+        "latitude": 39.0508484362532, 
+        "longitude": -95.678257282929, 
+        "name": "Downtown - KDOT - 7th and Harrison", 
+        "timestamp": "2017-08-15T04:48:35.928000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Shunga Trail, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_807"
+        }, 
+        "free_bikes": 6, 
+        "id": "e00fcc3936c3d288d3393b5a5909a29c", 
+        "latitude": 39.0183167513595, 
+        "longitude": -95.7351132856117, 
+        "name": "Crestview Park", 
+        "timestamp": "2017-08-15T04:48:35.925000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "920-960 Southeast Quincy Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_817"
+        }, 
+        "free_bikes": 0, 
+        "id": "ebdb14921330c45933abe587bdd2abfd", 
+        "latitude": 39.04610050256053, 
+        "longitude": -95.67396104335785, 
+        "name": "Downtown - 900 Block SE Quincy", 
+        "timestamp": "2017-08-15T04:48:35.959000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1000 Southeast Hancock Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_823"
+        }, 
+        "free_bikes": 3, 
+        "id": "8bd0e398ba61c80372a5473346e28a03", 
+        "latitude": 39.0439022453399, 
+        "longitude": -95.664526799553, 
+        "name": "Community Action - 10th & Branner", 
+        "timestamp": "2017-08-15T04:48:35.965000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2001 Southwest Jewell Avenue, Washburn University, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_828"
+        }, 
+        "free_bikes": 5, 
+        "id": "57213290e15f63f04c6a780b77b97615", 
+        "latitude": 39.0316551835582, 
+        "longitude": -95.7041828700256, 
+        "name": "Washburn University Village", 
+        "timestamp": "2017-08-15T04:48:35.965000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Hidden Valley subdivision, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_829"
+        }, 
+        "free_bikes": 0, 
+        "id": "99e7cf79e78874f4efce4123ec320ba6", 
+        "latitude": 39.0339913295783, 
+        "longitude": -95.7653892403405, 
+        "name": "Westridge Mall north entrance", 
+        "timestamp": "2017-08-15T04:48:35.964000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "3665-3699 Southwest 10th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_850"
+        }, 
+        "free_bikes": 0, 
+        "id": "2c079247eabb6dd95f5833ffef38ef63", 
+        "latitude": 39.0511683411853, 
+        "longitude": -95.7222362615702, 
+        "name": "Bus Shelter 10th & Parkview", 
+        "timestamp": "2017-08-15T04:48:36.027000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2830 Southwest Fairlawn Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_851"
+        }, 
+        "free_bikes": 0, 
+        "id": "32b7f54fcc4d4edb88ec192b0f5dc358", 
+        "latitude": 39.0153534238513, 
+        "longitude": -95.7433703631365, 
+        "name": "Pizagel's", 
+        "timestamp": "2017-08-15T04:48:36.029000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "5-87 Southwest Security Benefit Place, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_852"
+        }, 
+        "free_bikes": 0, 
+        "id": "5742fff8b4812684d4746a76cab56fd9", 
+        "latitude": 39.0564122044422, 
+        "longitude": -95.7567336308366, 
+        "name": "Security Benefit Group", 
+        "timestamp": "2017-08-15T04:48:36.030000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Oakland Community Center, Northeast Sardou Avenue, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_853"
+        }, 
+        "free_bikes": 6, 
+        "id": "c8f6e325733b30c91fd56a7cfee0bf34", 
+        "latitude": 39.0666418835502, 
+        "longitude": -95.6447111070189, 
+        "name": "Oakland Community Center", 
+        "timestamp": "2017-08-15T04:48:36.031000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Southwest Durow Road, Washburn University, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_871"
+        }, 
+        "free_bikes": 0, 
+        "id": "6c58a1991115100be87eda42164cc264", 
+        "latitude": 39.03251315864193, 
+        "longitude": -95.70100978016853, 
+        "name": "Washburn University - SRWC", 
+        "timestamp": "2017-08-15T04:48:35.952000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1634 Southwest Jewell Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_872"
+        }, 
+        "free_bikes": 5, 
+        "id": "40f5df95ae733f2885ca0e8e5c6ff16a", 
+        "latitude": 39.03548053506226, 
+        "longitude": -95.70286519825459, 
+        "name": "Washburn University - Memorial Union", 
+        "timestamp": "2017-08-15T04:48:35.950000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1992-1996 Southwest College Avenue, Washburn University, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_873"
+        }, 
+        "free_bikes": 1, 
+        "id": "eae59f7f3e70782ccf3522eec32db7f2", 
+        "latitude": 39.034265368261906, 
+        "longitude": -95.69948494434357, 
+        "name": "Washburn University - Lee Arena - NW ", 
+        "timestamp": "2017-08-15T04:48:35.951000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1648 Southwest 18th Street, Washburn University, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_874"
+        }, 
+        "free_bikes": 9, 
+        "id": "5d2cf2ad3d5415d2525cb97e49bedf0b", 
+        "latitude": 39.03603211894959, 
+        "longitude": -95.7000133395195, 
+        "name": "Washburn University - Bennett Computer Center and Morgan Hall", 
+        "timestamp": "2017-08-15T04:48:35.955000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Southwest 19th Street, Washburn University, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_875"
+        }, 
+        "free_bikes": 0, 
+        "id": "4742fea4ef531c76a729824ed3cb432d", 
+        "latitude": 39.03249805319762, 
+        "longitude": -95.7016883790493, 
+        "name": "Washburn University - Art Building", 
+        "timestamp": "2017-08-15T04:48:35.955000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1845 Southwest Jewell Avenue, Washburn University, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_876"
+        }, 
+        "free_bikes": 4, 
+        "id": "963dd721f133e8afdc75e6199b01575d", 
+        "latitude": 39.03500082544994, 
+        "longitude": -95.70293694734573, 
+        "name": "Washburn University - International House", 
+        "timestamp": "2017-08-15T04:48:35.953000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1845 Southwest Jewell Avenue, Washburn University, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_877"
+        }, 
+        "free_bikes": 0, 
+        "id": "bb831be6572e66c592cdf279fd3fddd3", 
+        "latitude": 39.03491748796058, 
+        "longitude": -95.70395484566689, 
+        "name": "Washburn University - LLC SW", 
+        "timestamp": "2017-08-15T04:48:35.954000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2001 Southwest Jewell Avenue, Washburn University, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_878"
+        }, 
+        "free_bikes": 0, 
+        "id": "cbc50ba5fd777bf9e5b01becd471e06e", 
+        "latitude": 39.03222771723823, 
+        "longitude": -95.70446446537971, 
+        "name": "Washburn University - KTWU", 
+        "timestamp": "2017-08-15T04:48:35.947000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "100-112 Southeast 7th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_879"
+        }, 
+        "free_bikes": 2, 
+        "id": "0d30b86c483f4d7f0c60b53e197be07b", 
+        "latitude": 39.0501728634161, 
+        "longitude": -95.67362576723099, 
+        "name": "Downtown - Capitol Federal - 7th & Kansas", 
+        "timestamp": "2017-08-15T04:48:35.948000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "822 North Kansas Avenue, NOTO Arts District, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_880"
+        }, 
+        "free_bikes": 1, 
+        "id": "b35f8e3fdb3566f57838575c63a0fc77", 
+        "latitude": 39.06685146925476, 
+        "longitude": -95.66669225692749, 
+        "name": "NOTO - Midblock crossing, 822 N Kansas Ave", 
+        "timestamp": "2017-08-15T04:48:35.938000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2115 Southwest Fairlawn Plaza Drive, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_881"
+        }, 
+        "free_bikes": 0, 
+        "id": "f797a86cc87777b53aab78dc442a3b1c", 
+        "latitude": 39.02821683105729, 
+        "longitude": -95.74660062789917, 
+        "name": "Classic Bean - Fairlawn Plaza", 
+        "timestamp": "2017-08-15T04:48:35.938000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "201-299 Southwest 5th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_884"
+        }, 
+        "free_bikes": 0, 
+        "id": "43865c0aceada35c9c8a82bd847852f8", 
+        "latitude": 39.05355659784673, 
+        "longitude": -95.67450553178787, 
+        "name": "Downtown - TILRC - railing along 5th at Jackson", 
+        "timestamp": "2017-08-15T04:48:35.936000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "900-998 Southwest Western Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_885"
+        }, 
+        "free_bikes": 3, 
+        "id": "c0a134dd1672d513329a0f7ce2c48f3b", 
+        "latitude": 39.05003538587573, 
+        "longitude": -95.68650037050246, 
+        "name": "Topeka High School", 
+        "timestamp": "2017-08-15T04:48:35.931000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1801-1981 Southwest 17th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_886"
+        }, 
+        "free_bikes": 1, 
+        "id": "db906e5d5745a790695a617d649e5a8f", 
+        "latitude": 39.036024827003395, 
+        "longitude": -95.70207595825195, 
+        "name": "Washburn University - Theater", 
+        "timestamp": "2017-08-15T04:48:35.930000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "3624-3672 Southwest Topeka Boulevard, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_888"
+        }, 
+        "free_bikes": 0, 
+        "id": "a09e78c538f80d8dffa078ed41d3d094", 
+        "latitude": 39.00148810134978, 
+        "longitude": -95.68726882338524, 
+        "name": "Walgreen's at 37th and Topeka", 
+        "timestamp": "2017-08-15T04:48:35.973000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Southwest Westridge Mall, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_892"
+        }, 
+        "free_bikes": 0, 
+        "id": "3750058645b975651a68da9c6819e5ab", 
+        "latitude": 39.03134534179284, 
+        "longitude": -95.76310962438583, 
+        "name": "Olive Garden - Employee bike parking", 
+        "timestamp": "2017-08-15T04:48:35.960000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "3707 Southwest 6th Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_901"
+        }, 
+        "free_bikes": 0, 
+        "id": "b989206a24824e063f95ecbb0abdba05", 
+        "latitude": 39.05807736415895, 
+        "longitude": -95.72314873337746, 
+        "name": "Stormont-Vail - Wave rack near entrance", 
+        "timestamp": "2017-08-15T04:48:36.051000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1700-1946 Southeast California Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_902"
+        }, 
+        "free_bikes": 0, 
+        "id": "3500219b7424e16431e47fe305f647b2", 
+        "latitude": 39.03182559702738, 
+        "longitude": -95.65085917711258, 
+        "name": "Bus Shelter at Topeka Housing Authority", 
+        "timestamp": "2017-08-15T04:48:36.050000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Boca Caf\u00e9, 1414, Southwest 16th Street, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_906"
+        }, 
+        "free_bikes": 8, 
+        "id": "87fcd87562f3786290b3517bb1cac1e9", 
+        "latitude": 39.039107159114366, 
+        "longitude": -95.69579690694809, 
+        "name": "College Hill - 16th & Lane", 
+        "timestamp": "2017-08-15T04:48:36.048000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Gage Park, Southwest Reinisch Parkway, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_907"
+        }, 
+        "free_bikes": 0, 
+        "id": "40aafcf6ff26c081472a31c6b1d8a000", 
+        "latitude": 39.055437421817516, 
+        "longitude": -95.72993472218513, 
+        "name": "Gage Park - Blaisdell Pool", 
+        "timestamp": "2017-08-15T04:48:36.049000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1000-1098 Southwest 21st Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_917"
+        }, 
+        "free_bikes": 0, 
+        "id": "8f8f0d825d04aa09ab4f4aee8552b434", 
+        "latitude": 39.02967458011581, 
+        "longitude": -95.68902768194675, 
+        "name": "Bus Shelter - 21st & Fillmore", 
+        "timestamp": "2017-08-15T04:48:36.002000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "200 Southeast 7th Street, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_972"
+        }, 
+        "free_bikes": 0, 
+        "id": "495dbd1813c0e7f1ef31c8187f6ca3e0", 
+        "latitude": 39.049983311148196, 
+        "longitude": -95.67160338163376, 
+        "name": "Downtown - Shawnee County Courthouse", 
+        "timestamp": "2017-08-15T04:48:35.946000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1300-1398 Southwest Jewell Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_974"
+        }, 
+        "free_bikes": 2, 
+        "id": "f06cb4848aeb98af5cafc88d5b625ff9", 
+        "latitude": 39.042546889450605, 
+        "longitude": -95.70296041667461, 
+        "name": "Boswell Park", 
+        "timestamp": "2017-08-15T04:48:35.949000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1100 South Kansas Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_979"
+        }, 
+        "free_bikes": 0, 
+        "id": "422b3a4b6f017c0f3aee028d54047c23", 
+        "latitude": 39.04375696595395, 
+        "longitude": -95.67642599344254, 
+        "name": "Downtown McDonald's", 
+        "timestamp": "2017-08-15T04:48:35.951000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "2126-2150 Southwest Fairlawn Road, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2126"
+        }, 
+        "free_bikes": 6, 
+        "id": "b458c6124881acba38fa923415696d2c", 
+        "latitude": 39.028552295594224, 
+        "longitude": -95.7433833181858, 
+        "name": "Capitol Federal - 21st & Fairlawn", 
+        "timestamp": "2017-08-15T04:48:35.962000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "236-238 Southwest Gage Boulevard, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2051"
+        }, 
+        "free_bikes": 0, 
+        "id": "10d5ac3aae66644fab9aaa785d6a4615", 
+        "latitude": 39.0648686265322, 
+        "longitude": -95.72442948818207, 
+        "name": "Body Paradise salon", 
+        "timestamp": "2017-08-15T04:48:36.055000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1135, Southwest Topeka Boulevard, Topeka, Kansas", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_992"
+        }, 
+        "free_bikes": 1, 
+        "id": "18ea47084c8d7d3d1e039b8a8364a715", 
+        "latitude": 39.04540682344561, 
+        "longitude": -95.68348288536072, 
+        "name": "Downtown - Blue Cross Blue Shield of Kansas", 
+        "timestamp": "2017-08-15T04:48:36.005000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1008 Southwest Woodward Avenue, Topeka", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2726"
+        }, 
+        "free_bikes": 0, 
+        "id": "7f218d88c45b40e5afbdb170e68ce349", 
+        "latitude": 39.050973837544674, 
+        "longitude": -95.70346534252167, 
+        "name": "SNCO Health - 10th St & Jewell", 
+        "timestamp": "2017-08-15T04:48:35.969000Z"
+      }
+    ]
+  }
+}

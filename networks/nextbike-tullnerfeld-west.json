@@ -1,0 +1,56 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-tullnerfeld-west", 
+    "id": "nextbike-tullnerfeld-west", 
+    "location": {
+      "city": "Tullnerfeld West", 
+      "country": "AT", 
+      "latitude": 48.2994, 
+      "longitude": 15.9065
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09537", 
+            "09726", 
+            "09525", 
+            "08799"
+          ], 
+          "number": "3700", 
+          "uid": "187164"
+        }, 
+        "free_bikes": 4, 
+        "id": "01da0d41d1c3b2952a98ea51cdff9365", 
+        "latitude": 48.294272192881, 
+        "longitude": 15.996351242065, 
+        "name": "Michelhausen / Bahnhof Tullnerfeld", 
+        "timestamp": "2017-08-15T04:49:55.985000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09712", 
+            "09837", 
+            "08952", 
+            "08780"
+          ], 
+          "number": "3093", 
+          "uid": "121175"
+        }, 
+        "free_bikes": 4, 
+        "id": "1028eb7c7c680ceb709e3324a4a4ddd4", 
+        "latitude": 48.315595927626, 
+        "longitude": 15.903460979462, 
+        "name": "Atzenbrugg / Golfplatz ", 
+        "timestamp": "2017-08-15T04:49:55.979000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_kc/gbfs.json", 
+    "href": "/v2/networks/kansascity", 
+    "id": "kansascity", 
+    "location": {
+      "city": "Kansas City, MO", 
+      "country": "US", 
+      "latitude": 39.0999, 
+      "longitude": -94.5857
+    }, 
+    "name": "B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1016 Main St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2078"
+        }, 
+        "free_bikes": 8, 
+        "id": "7fd7bf210a6572efdcf5b70950cd2b98", 
+        "latitude": 39.10202, 
+        "longitude": -94.5834, 
+        "name": "10th & Main", 
+        "timestamp": "2017-08-15T04:48:43.999000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "2136 Main Street", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2079"
+        }, 
+        "free_bikes": 14, 
+        "id": "03fc9b28df0f444fa87a3684c8cb6916", 
+        "latitude": 39.08527, 
+        "longitude": -94.58421, 
+        "name": "Union Station", 
+        "timestamp": "2017-08-15T04:48:43.995000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "2446 Grand Blvd.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2080"
+        }, 
+        "free_bikes": 0, 
+        "id": "45058c501e7db6647c658caf06043cab", 
+        "latitude": 39.08312, 
+        "longitude": -94.58201, 
+        "name": "Crown Center", 
+        "timestamp": "2017-08-15T04:48:43.947000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "208 W. 19th St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2082"
+        }, 
+        "free_bikes": 6, 
+        "id": "60828ed65cf815abe587fb4a15a6e316", 
+        "latitude": 39.09108, 
+        "longitude": -94.58682, 
+        "name": "19th & Wyandotte", 
+        "timestamp": "2017-08-15T04:48:43.950000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1800 Oak St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2083"
+        }, 
+        "free_bikes": 5, 
+        "id": "92e7d66bdd9d247389164fa7a179cc5e", 
+        "latitude": 39.09155, 
+        "longitude": -94.57911, 
+        "name": "18th & Oak", 
+        "timestamp": "2017-08-15T04:48:43.953000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1975 Grand Blvd.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2084"
+        }, 
+        "free_bikes": 7, 
+        "id": "84955d077527a9b21e0740443516952a", 
+        "latitude": 39.08929, 
+        "longitude": -94.58132, 
+        "name": "20th & Grand", 
+        "timestamp": "2017-08-15T04:48:43.943000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1 Westport Rd.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2863"
+        }, 
+        "free_bikes": 4, 
+        "id": "d39c0253e134c3248242b6beaa9c9854", 
+        "latitude": 39.05514, 
+        "longitude": -94.58643, 
+        "name": "Westport & Main", 
+        "timestamp": "2017-08-15T04:48:43.940000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4870 Roanoke Pkwy.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2865"
+        }, 
+        "free_bikes": 6, 
+        "id": "522761fd0e6b1ac135406a968506abf3", 
+        "latitude": 39.03997, 
+        "longitude": -94.59759, 
+        "name": "Plaza Vista", 
+        "timestamp": "2017-08-15T04:48:43.938000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1812 Highland Ave.", 
+          "last_updated": 1502772524, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_kc_3277"
+        }, 
+        "free_bikes": 4, 
+        "id": "2539d6eca3bb1d1a32f7ab24e5b8c47b", 
+        "latitude": 39.09101, 
+        "longitude": -94.56222, 
+        "name": "Jazz District", 
+        "timestamp": "2017-08-15T04:48:43.967000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "800 E. 48th St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2654"
+        }, 
+        "free_bikes": 6, 
+        "id": "53e647b868b0d2f078484a5102bd2394", 
+        "latitude": 39.04014, 
+        "longitude": -94.57984, 
+        "name": "Kauffman Foundation", 
+        "timestamp": "2017-08-15T04:48:43.945000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "9898 Longview Road", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3708"
+        }, 
+        "free_bikes": 4, 
+        "id": "961b954771debc0a5d6beb3c78d980f0", 
+        "latitude": 38.91474, 
+        "longitude": -94.47483, 
+        "name": "Longview Lake ", 
+        "timestamp": "2017-08-15T04:48:43.974000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1204 W 39th Street", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3702"
+        }, 
+        "free_bikes": 3, 
+        "id": "f2347847e7e40a3e68670bed8e28c604", 
+        "latitude": 39.05719, 
+        "longitude": -94.60063, 
+        "name": "39th & Roanoke", 
+        "timestamp": "2017-08-15T04:48:43.954000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "498 W. 10th St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2074"
+        }, 
+        "free_bikes": 4, 
+        "id": "ede4cadbae03af555b45e846f8d3a801", 
+        "latitude": 39.10252, 
+        "longitude": -94.58979, 
+        "name": "10th & Washington", 
+        "timestamp": "2017-08-15T04:48:43.980000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "801 Broadway ", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2075"
+        }, 
+        "free_bikes": 9, 
+        "id": "13be5a84b394d408d67a6bb5030dfd5a", 
+        "latitude": 39.10481, 
+        "longitude": -94.5887, 
+        "name": "8th & Broadway", 
+        "timestamp": "2017-08-15T04:48:43.978000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "222 E. 3rd St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2076"
+        }, 
+        "free_bikes": 9, 
+        "id": "4ee086fef7ed538882d641acf82bf6d2", 
+        "latitude": 39.11054, 
+        "longitude": -94.58074, 
+        "name": "3rd & Grand", 
+        "timestamp": "2017-08-15T04:48:43.984000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1233 Grand Blvd.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2077"
+        }, 
+        "free_bikes": 3, 
+        "id": "02fe2bfaf44263041feed3a12c3031cc", 
+        "latitude": 39.0987, 
+        "longitude": -94.58082, 
+        "name": "13th & Grand", 
+        "timestamp": "2017-08-15T04:48:43.983000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "416 E. 13th", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2081"
+        }, 
+        "free_bikes": 3, 
+        "id": "4423566c927d9efed3fac78871a91e63", 
+        "latitude": 39.09859, 
+        "longitude": -94.57765, 
+        "name": "13th & Locust", 
+        "timestamp": "2017-08-15T04:48:43.949000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "4001 Mill St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2860"
+        }, 
+        "free_bikes": 4, 
+        "id": "7166cbaa7856d2c1a129d800c63e254b", 
+        "latitude": 39.05439, 
+        "longitude": -94.5945, 
+        "name": "Westport Sunfresh", 
+        "timestamp": "2017-08-15T04:48:43.941000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "400 40th Terrace", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2861"
+        }, 
+        "free_bikes": 5, 
+        "id": "034277ffcfd40b67713d980de6915228", 
+        "latitude": 39.05412, 
+        "longitude": -94.59122, 
+        "name": "40th & Broadway", 
+        "timestamp": "2017-08-15T04:48:43.942000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "599 Westport Rd.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2862"
+        }, 
+        "free_bikes": 5, 
+        "id": "2fd81f7bbc6c7f6d7310986bbb1d2790", 
+        "latitude": 39.05191, 
+        "longitude": -94.59322, 
+        "name": "Westport & Mill", 
+        "timestamp": "2017-08-15T04:48:43.939000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "3099 Oak St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3278"
+        }, 
+        "free_bikes": 4, 
+        "id": "6232fcf1fb038aec852ccb2b5fed97bd", 
+        "latitude": 39.07095, 
+        "longitude": -94.58002, 
+        "name": "Martini Corner", 
+        "timestamp": "2017-08-15T04:48:43.968000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "3013 Main St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3279"
+        }, 
+        "free_bikes": 2, 
+        "id": "95a1f1b2b5ce4e71458ab42f20220fb3", 
+        "latitude": 39.07234, 
+        "longitude": -94.58508, 
+        "name": "Buttonwood at Union Hill", 
+        "timestamp": "2017-08-15T04:48:43.970000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "397 W. 74th St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3280"
+        }, 
+        "free_bikes": 4, 
+        "id": "8f00931b7b2a21164c343804dc3c2f16", 
+        "latitude": 38.99424, 
+        "longitude": -94.59401, 
+        "name": "Waldo", 
+        "timestamp": "2017-08-15T04:48:43.943000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1801 Swift St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3672"
+        }, 
+        "free_bikes": 3, 
+        "id": "a5821540d42b8b5d85faf463e75670c9", 
+        "latitude": 39.14041, 
+        "longitude": -94.5772, 
+        "name": "18th & Swift", 
+        "timestamp": "2017-08-15T04:48:43.976000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1999 Iron St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3674"
+        }, 
+        "free_bikes": 6, 
+        "id": "1b7591a8b9ca16f7babef0980472793c", 
+        "latitude": 39.14289, 
+        "longitude": -94.57132, 
+        "name": "Armour and Iron", 
+        "timestamp": "2017-08-15T04:48:43.993000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2898 Swift St. ", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3673"
+        }, 
+        "free_bikes": 5, 
+        "id": "11d89147e8c961c018b9e63941865536", 
+        "latitude": 39.14975, 
+        "longitude": -94.57731, 
+        "name": "29th & Swift", 
+        "timestamp": "2017-08-15T04:48:43.956000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "5030 Holmes", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3707"
+        }, 
+        "free_bikes": 7, 
+        "id": "f9d78729362d5128828018c8f94858b9", 
+        "latitude": 39.03564, 
+        "longitude": -94.57807, 
+        "name": "51st & Holmes (UMKC)", 
+        "timestamp": "2017-08-15T04:48:43.960000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2 E Armour Blvd.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3705"
+        }, 
+        "free_bikes": 2, 
+        "id": "8f01ab4a5f9ae908a45f18e327a10846", 
+        "latitude": 39.06387, 
+        "longitude": -94.58549, 
+        "name": "Armour & Main", 
+        "timestamp": "2017-08-15T04:48:43.959000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1202 Wyandotte St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2073"
+        }, 
+        "free_bikes": 1, 
+        "id": "2c5d4329a1e2aadf3b77963b84c49221", 
+        "latitude": 39.0999, 
+        "longitude": -94.5857, 
+        "name": "12th & Wyandotte", 
+        "timestamp": "2017-08-15T04:48:43.991000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "4525 Oak St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2864"
+        }, 
+        "free_bikes": 3, 
+        "id": "b5589443fd7947f4cb969bbd8a85d927", 
+        "latitude": 39.04611, 
+        "longitude": -94.58178, 
+        "name": "The Nelson-Atkins Museum of Art", 
+        "timestamp": "2017-08-15T04:48:43.937000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "4701 Baltimore St.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2867"
+        }, 
+        "free_bikes": 8, 
+        "id": "6dfa66dfe9c0dd8deacac8535f5a0b64", 
+        "latitude": 39.04191, 
+        "longitude": -94.58792, 
+        "name": "47th & JC Nichols Pkwy.", 
+        "timestamp": "2017-08-15T04:48:43.935000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "400 Ward Parkway", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_2868"
+        }, 
+        "free_bikes": 9, 
+        "id": "442b784c64ca6b0823a5f3cdf5465319", 
+        "latitude": 39.04039, 
+        "longitude": -94.59189, 
+        "name": "Ward Parkway & Broadway", 
+        "timestamp": "2017-08-15T04:48:43.927000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "194 W. 62nd Terrace", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3275"
+        }, 
+        "free_bikes": 6, 
+        "id": "9e8a50b0466f46776d7fb1e183f0cc9b", 
+        "latitude": 39.015, 
+        "longitude": -94.59028, 
+        "name": "Brookside Shops", 
+        "timestamp": "2017-08-15T04:48:43.962000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "397 W. Gregory Blvd.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3276"
+        }, 
+        "free_bikes": 5, 
+        "id": "6bf11b7c98412ca2b6ea9fd31ac1916c", 
+        "latitude": 38.99975, 
+        "longitude": -94.59351, 
+        "name": "Gregory and Wornall", 
+        "timestamp": "2017-08-15T04:48:43.965000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2534 Madison Avenue ", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3400"
+        }, 
+        "free_bikes": 2, 
+        "id": "638f1c3af32765bdaf6fda3c8b30495e", 
+        "latitude": 39.08158, 
+        "longitude": -94.59543, 
+        "name": "Boulevard Brewing Co.", 
+        "timestamp": "2017-08-15T04:48:43.977000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "4410 Warwick Blvd.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3524"
+        }, 
+        "free_bikes": 6, 
+        "id": "e3013c12103e61b80e36763ea87e5a1b", 
+        "latitude": 39.04722, 
+        "longitude": -94.58445, 
+        "name": "Kansas City Art Institute", 
+        "timestamp": "2017-08-15T04:48:43.986000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "209 Emmanuel Cleaver II Blvd.", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3525"
+        }, 
+        "free_bikes": 6, 
+        "id": "d9979cb1e675f378572118d685f1cda5", 
+        "latitude": 39.04199, 
+        "longitude": -94.58383, 
+        "name": "Plaza 209", 
+        "timestamp": "2017-08-15T04:48:43.987000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "408 Delaware Street", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3704"
+        }, 
+        "free_bikes": 5, 
+        "id": "b7bca95d855dcdbba20c251b644f783f", 
+        "latitude": 39.10871, 
+        "longitude": -94.58444, 
+        "name": "4th & Delaware ", 
+        "timestamp": "2017-08-15T04:48:43.957000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "498 Wyandotte Street", 
+          "last_updated": 1502772524, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_kc_3709"
+        }, 
+        "free_bikes": 5, 
+        "id": "0c15c27181793962df5db88344e65586", 
+        "latitude": 39.10809, 
+        "longitude": -94.58544, 
+        "name": "4th & Wyandotte ", 
+        "timestamp": "2017-08-15T04:48:43.975000Z"
+      }
+    ]
+  }
+}

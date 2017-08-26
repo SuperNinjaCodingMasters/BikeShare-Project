@@ -1,0 +1,60 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/opcina-lastovo-lastovo", 
+    "id": "opcina-lastovo-lastovo", 
+    "location": {
+      "city": "Lastovo", 
+      "country": "HR", 
+      "latitude": 42.7626, 
+      "longitude": 16.8719
+    }, 
+    "name": "Op\u0107ina Lastovo", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "80429", 
+            "80425", 
+            "80423", 
+            "80422", 
+            "80421"
+          ], 
+          "number": "2383", 
+          "slots": 8, 
+          "uid": "687074"
+        }, 
+        "free_bikes": 6, 
+        "id": "587d9f6eae277353263308f556e638d5", 
+        "latitude": 42.745373359957, 
+        "longitude": 16.82487487793, 
+        "name": "Ubli", 
+        "timestamp": "2017-08-15T04:50:57.866000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "80428", 
+            "80426", 
+            "80419", 
+            "80418", 
+            "80431"
+          ], 
+          "number": "2382", 
+          "slots": 6, 
+          "uid": "866969"
+        }, 
+        "free_bikes": 6, 
+        "id": "7d6280c89c38e79fba83b3a8ca096c04", 
+        "latitude": 42.768785366538, 
+        "longitude": 16.893990039825, 
+        "name": "Lastovo", 
+        "timestamp": "2017-08-15T04:50:57.868000Z"
+      }
+    ]
+  }
+}

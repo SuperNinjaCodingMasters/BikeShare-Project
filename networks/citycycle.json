@@ -1,0 +1,2668 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/citycycle", 
+    "id": "citycycle", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Brisbane", 
+      "country": "AU", 
+      "latitude": -27.4710107, 
+      "longitude": 153.0234489
+    }, 
+    "name": "CityCycle", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Bouquet St / Montague Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772201000, 
+          "slots": 29, 
+          "status": "OPEN", 
+          "uid": 128
+        }, 
+        "free_bikes": 16, 
+        "id": "4ba645b5581a02a4dde3baf2f63e1f8e", 
+        "latitude": -27.471712, 
+        "longitude": 153.013188, 
+        "name": "128 - BOUQUET ST / MONTAGUE RD", 
+        "timestamp": "2017-08-15T04:49:30.309000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Regatta Ferry Terminal / Sylvan Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772170000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 143
+        }, 
+        "free_bikes": 11, 
+        "id": "8507ba0f93f3dfe0943a096bba72fcf0", 
+        "latitude": -27.483168, 
+        "longitude": 152.996419, 
+        "name": "143 - REGATTA FERRY TERMINAL / SYLVAN RD", 
+        "timestamp": "2017-08-15T04:49:30.120000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Ann St / Wharf St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772477000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 41
+        }, 
+        "free_bikes": 8, 
+        "id": "6518757fb33e488186a15fa8f588b04f", 
+        "latitude": -27.46383, 
+        "longitude": 153.029125, 
+        "name": "41 - ANN ST / WHARF ST", 
+        "timestamp": "2017-08-15T04:49:30.304000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Commercial Rd / Teneriffe Ferry Terminal", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772529000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 67
+        }, 
+        "free_bikes": 0, 
+        "id": "ff416de64e6aba69ab2f7046fa16dc48", 
+        "latitude": -27.452027, 
+        "longitude": 153.04911, 
+        "name": "67 - COMMERCIAL RD / TENERIFFE FERRY TERMINAL", 
+        "timestamp": "2017-08-15T04:49:30.086000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Edward St / Queen St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772032000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 13, 
+        "id": "35223ba8016f4dfc2f1ae108ccfb72f6", 
+        "latitude": -27.46812, 
+        "longitude": 153.02682, 
+        "name": "1 - EDWARD ST / QUEEN ST", 
+        "timestamp": "2017-08-15T04:49:30.338000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Queen St / Eagle St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772504000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 19, 
+        "id": "ce4ea46c9a7ebf83519227b0f85b2c12", 
+        "latitude": -27.466369, 
+        "longitude": 153.029597, 
+        "name": "2 - QUEEN ST / EAGLE ST", 
+        "timestamp": "2017-08-15T04:49:30.187000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Creek St / Elizabeth St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772330000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 21, 
+        "id": "b0888b89cf1da1f3f9bb459fa4342122", 
+        "latitude": -27.467556, 
+        "longitude": 153.029202, 
+        "name": "3 - CREEK ST / ELIZABETH ST", 
+        "timestamp": "2017-08-15T04:49:30.248000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Gipps St / Wickham St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772142000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 50
+        }, 
+        "free_bikes": 6, 
+        "id": "a42db8a719a23a01d0d9a22fd6206ff4", 
+        "latitude": -27.458641, 
+        "longitude": 153.03208, 
+        "name": "50 - GIPPS ST / WICKHAM ST", 
+        "timestamp": "2017-08-15T04:49:30.095000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Merthyr Rd / James St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772486000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 74
+        }, 
+        "free_bikes": 14, 
+        "id": "a7d9db49348517c05fb43332bd4006c2", 
+        "latitude": -27.463678, 
+        "longitude": 153.049485, 
+        "name": "74 - MERTHYR RD / JAMES ST", 
+        "timestamp": "2017-08-15T04:49:30.143000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Charlotte St / Eagle St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772251000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 17, 
+        "id": "f91adb14d6d541a7e516932be81b5636", 
+        "latitude": -27.468675, 
+        "longitude": 153.029834, 
+        "name": "4 - CHARLOTTE STREET / EAGLE STREET", 
+        "timestamp": "2017-08-15T04:49:30.116000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Market St / Mary St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772193000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 14, 
+        "id": "514d44ea82cfd22b6ed45b3d01f88acb", 
+        "latitude": -27.469702, 
+        "longitude": 153.029828, 
+        "name": "5 - MARKET STREET / MARY STREET", 
+        "timestamp": "2017-08-15T04:49:30.115000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Charlotte St / Albert St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772117000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 123
+        }, 
+        "free_bikes": 19, 
+        "id": "67fe6472c0dcc76d1fe2507f40b6e32e", 
+        "latitude": -27.471315, 
+        "longitude": 153.026627, 
+        "name": "123 - CHARLOTTE ST / ALBERT ST", 
+        "timestamp": "2017-08-15T04:49:30.191000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Alice St / Edward St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772395000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 11, 
+        "id": "d4db46484886346257b89d582f256b1e", 
+        "latitude": -27.472291, 
+        "longitude": 153.030639, 
+        "name": "6 - ALICE STREET / EDWARD STREET", 
+        "timestamp": "2017-08-15T04:49:30.289000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Shafston Ave / Thorn St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772254000, 
+          "slots": 31, 
+          "status": "OPEN", 
+          "uid": 131
+        }, 
+        "free_bikes": 14, 
+        "id": "470016fb946ccdf8e5ee914af3ec0f19", 
+        "latitude": -27.476792, 
+        "longitude": 153.039186, 
+        "name": "131 - SHAFSTON AVE / THORN ST", 
+        "timestamp": "2017-08-15T04:49:30.295000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Railway Tce / Cribb St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772295000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 134
+        }, 
+        "free_bikes": 7, 
+        "id": "f890cbd890d38a61821784a2e0b1b4e6", 
+        "latitude": -27.468845, 
+        "longitude": 153.007364, 
+        "name": "134 - RAILWAY TCE / CRIBB ST", 
+        "timestamp": "2017-08-15T04:49:30.098000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Charlotte St / Edward St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772213000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 22, 
+        "id": "6f64e946ca436da1090116d7b5c0aa8f", 
+        "latitude": -27.469924, 
+        "longitude": 153.02822, 
+        "name": "9 - CHARLOTTE STREET / EDWARD STREET", 
+        "timestamp": "2017-08-15T04:49:30.114000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Park Rd / Railway Tce", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771961000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 135
+        }, 
+        "free_bikes": 11, 
+        "id": "3a484ce0c8b53cbf42047306db460208", 
+        "latitude": -27.469501, 
+        "longitude": 153.004129, 
+        "name": "135 - PARK RD / RAILWAY TCE", 
+        "timestamp": "2017-08-15T04:49:30.233000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Edward St / Queen St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771974000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 12, 
+        "id": "adff0e4166c1c5d3b7f0983eebc3e69c", 
+        "latitude": -27.468206, 
+        "longitude": 153.026744, 
+        "name": "10 - EDWARD STREET / QUEEN STREET", 
+        "timestamp": "2017-08-15T04:49:30.286000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Coronation Dr / Archer St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772542000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 145
+        }, 
+        "free_bikes": 12, 
+        "id": "77fa9228bdebe031ad397af48ab6c8fb", 
+        "latitude": -27.485872, 
+        "longitude": 152.99347, 
+        "name": "145 - CORONATION DR / ARCHER ST", 
+        "timestamp": "2017-08-15T04:49:30.122000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "King George Square / Ann St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772511000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 15, 
+        "id": "6e9539507ff3aa5d6874236291ac0286", 
+        "latitude": -27.468422, 
+        "longitude": 153.024635, 
+        "name": "11 - KING GEORGE SQUARE / ANN ST", 
+        "timestamp": "2017-08-15T04:49:30.117000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Little Stanley St / Tribune St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772384000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 7, 
+        "id": "f9d5f0b5b5a85ad0231ab36c8159ea84", 
+        "latitude": -27.480385, 
+        "longitude": 153.023564, 
+        "name": "18 - LITTLE STANLEY ST / TRIBUNE ST", 
+        "timestamp": "2017-08-15T04:49:30.106000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Margaret St / Albert St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772149000, 
+          "slots": 11, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 6, 
+        "id": "586fc8ae30d82fe347990a794afd5d86", 
+        "latitude": -27.472598, 
+        "longitude": 153.028383, 
+        "name": "17 - MARGARET ST / ALBERT ST", 
+        "timestamp": "2017-08-15T04:49:30.240000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Albert St Mall / Adelaide St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772044000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 9, 
+        "id": "cf030c65e43ac4331f8a6b09f298c524", 
+        "latitude": -27.468963, 
+        "longitude": 153.02461, 
+        "name": "12 - ALBERT ST MALL / ADELAIDE ST", 
+        "timestamp": "2017-08-15T04:49:30.174000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Gardens Point Rd / Adj. Bridge", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772515000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 6, 
+        "id": "9a4f05a990f6dce0287d6e90fcfb9f2f", 
+        "latitude": -27.479004, 
+        "longitude": 153.028853, 
+        "name": "19 - GARDENS POINT ROAD / ADJ. BRIDGE", 
+        "timestamp": "2017-08-15T04:49:30.288000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Albert St Mall / Adelaide St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772369000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 6, 
+        "id": "39ed4087c19bd6b1ccf3c4dca7b255e4", 
+        "latitude": -27.469183, 
+        "longitude": 153.024719, 
+        "name": "13 - ALBERT STREET MALL / ADELAIDE STREET", 
+        "timestamp": "2017-08-15T04:49:30.311000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Albert St Mall / Elizabeth St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772245000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 4, 
+        "id": "c2fab9561ee4c324929f6f939126690b", 
+        "latitude": -27.47011, 
+        "longitude": 153.025627, 
+        "name": "14 - ALBERT STREET MALL / ELIZABETH STREET", 
+        "timestamp": "2017-08-15T04:49:30.333000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Gardens Point Rd / SE of Goodwill Bridge", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772361000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 13, 
+        "id": "7e6d72d952863c0c67209681ff1588e7", 
+        "latitude": -27.478846, 
+        "longitude": 153.028296, 
+        "name": "20 - GARDENS POINT RD / SE OF GOODWILL BRIDGE", 
+        "timestamp": "2017-08-15T04:49:30.259000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Albert St Mall / Elizabeth St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772461000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 10, 
+        "id": "b5a6685efb80850b481bdc0c2c8a7a35", 
+        "latitude": -27.47019, 
+        "longitude": 153.025852, 
+        "name": "15 - ALBERT STREET MALL / ELIZABETH STREET", 
+        "timestamp": "2017-08-15T04:49:30.148000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Botanical Gardens / QUT", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772189000, 
+          "slots": 34, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 25, 
+        "id": "089beae0b98109b294afafaff10eb7e9", 
+        "latitude": -27.475922, 
+        "longitude": 153.0288, 
+        "name": "21 - BOTANICAL GARDENS / QUT", 
+        "timestamp": "2017-08-15T04:49:30.137000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Tank St / George St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772211000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 32
+        }, 
+        "free_bikes": 4, 
+        "id": "c77d51c2aae330aa701bfa3ffffb0cb8", 
+        "latitude": -27.468678, 
+        "longitude": 153.019801, 
+        "name": "32 - TANK ST / GEORGE ST", 
+        "timestamp": "2017-08-15T04:49:30.301000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Roma St / Turbot St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772396000, 
+          "slots": 11, 
+          "status": "OPEN", 
+          "uid": 31
+        }, 
+        "free_bikes": 6, 
+        "id": "802d03ec9ae35cecf65500630a932d7e", 
+        "latitude": -27.467464, 
+        "longitude": 153.022094, 
+        "name": "31 - ROMA ST / TURBOT ST", 
+        "timestamp": "2017-08-15T04:49:30.082000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Commercial Rd / Skyring Tce", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772376000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 66
+        }, 
+        "free_bikes": 11, 
+        "id": "d9a6ed6de75b2429e1ed362b82514f71", 
+        "latitude": -27.45296, 
+        "longitude": 153.048107, 
+        "name": "66 - COMMERCIAL RD / SKYRING TCE", 
+        "timestamp": "2017-08-15T04:49:30.276000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Upper Roma St / Eagle Tce", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772210000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 37
+        }, 
+        "free_bikes": 21, 
+        "id": "e7035b8cae8426d6d0cc44a11afb4d7c", 
+        "latitude": -27.466032, 
+        "longitude": 153.01476, 
+        "name": "37 - UPPER ROMA ST / EAGLE TCE", 
+        "timestamp": "2017-08-15T04:49:30.253000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Melbourne St /  Edmondstone St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772308000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 100
+        }, 
+        "free_bikes": 7, 
+        "id": "34918967e1bddc4edbcdc5e9315a380b", 
+        "latitude": -27.47666, 
+        "longitude": 153.013287, 
+        "name": "100 - MELBOURNE ST / EDMONDSTONE ST", 
+        "timestamp": "2017-08-15T04:49:30.269000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Vernon Tce / Ethel St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772211000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 68
+        }, 
+        "free_bikes": 9, 
+        "id": "49a6f33fe197d0328f8d4755221b2ceb", 
+        "latitude": -27.454394, 
+        "longitude": 153.049519, 
+        "name": "68 - VERNON TCE / ETHEL ST", 
+        "timestamp": "2017-08-15T04:49:30.097000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Mary St / George St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772219000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 11, 
+        "id": "188d021cad0aae43473defda872b9867", 
+        "latitude": -27.473021, 
+        "longitude": 153.025988, 
+        "name": "23 - MARY STREET / GEORGE STREET", 
+        "timestamp": "2017-08-15T04:49:30.079000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Queen St / Wharf St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772092000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 43
+        }, 
+        "free_bikes": 12, 
+        "id": "5582bb5537b53f82a32d7b160404fd30", 
+        "latitude": -27.465043, 
+        "longitude": 153.030991, 
+        "name": "43 - QUEEN ST / WHARF ST", 
+        "timestamp": "2017-08-15T04:49:30.113000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Macquarie St / Guyatt Park", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772431000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 149
+        }, 
+        "free_bikes": 13, 
+        "id": "4f445a1199ac546dcbcdbf98d481d11a", 
+        "latitude": -27.493626, 
+        "longitude": 153.001482, 
+        "name": "149 - MACQUARIE ST / GUYATT PARK", 
+        "timestamp": "2017-08-15T04:49:30.073000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Sir William McGregor Dr / Sir Fred Schonnell", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772422000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 18, 
+        "id": "e35c218dd5539fadec149e98c09be12e", 
+        "latitude": -27.493963, 
+        "longitude": 153.011938, 
+        "name": "24 - SIR WILLIAM MCGREGOR DR / SIR FRED SCHONNELL", 
+        "timestamp": "2017-08-15T04:49:30.076000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Macquarie St / Beeston St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772448000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 70
+        }, 
+        "free_bikes": 14, 
+        "id": "8ed9902a7abfad8562d7db2e7d2d9339", 
+        "latitude": -27.459091, 
+        "longitude": 153.050239, 
+        "name": "70 - MACQUARIE ST / BEESTON ST", 
+        "timestamp": "2017-08-15T04:49:30.171000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Queen St / Adelaide St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772157000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 44
+        }, 
+        "free_bikes": 7, 
+        "id": "783826ff40d98420235d8f009409e0b4", 
+        "latitude": -27.463405, 
+        "longitude": 153.031142, 
+        "name": "44 - QUEEN STREET / ADELAIDE STREET", 
+        "timestamp": "2017-08-15T04:49:30.093000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Roma St / Ann St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772410000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 30
+        }, 
+        "free_bikes": 12, 
+        "id": "d4449120065ebca2827d70c70ce6b1e1", 
+        "latitude": -27.467963, 
+        "longitude": 153.0231, 
+        "name": "30 - ROMA ST / ANN ST", 
+        "timestamp": "2017-08-15T04:49:30.217000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Hastings St / Macquarie St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772543000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 71
+        }, 
+        "free_bikes": 12, 
+        "id": "2bec0e3208876fe514dc0aecb9b472dd", 
+        "latitude": -27.460914, 
+        "longitude": 153.04987, 
+        "name": "71 - HASTINGS ST / MACQUARIE ST", 
+        "timestamp": "2017-08-15T04:49:30.231000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Reddacliff Pl / Queen St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772483000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 11, 
+        "id": "492b53f413576b02f9a7045a3b87be14", 
+        "latitude": -27.471332, 
+        "longitude": 153.022991, 
+        "name": "25 - REDDACLIFF PL / QUEEN ST", 
+        "timestamp": "2017-08-15T04:49:30.210000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Ann St / Gotha St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772370000, 
+          "slots": 10, 
+          "status": "OPEN", 
+          "uid": 48
+        }, 
+        "free_bikes": 4, 
+        "id": "5c926010d4781943df0d89fd4d20d0f5", 
+        "latitude": -27.46048, 
+        "longitude": 153.032768, 
+        "name": "48 - ANN ST / GOTHA ST", 
+        "timestamp": "2017-08-15T04:49:30.164000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Roma St / Herschel St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502266616000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 33
+        }, 
+        "free_bikes": 8, 
+        "id": "a58cf3200b0befa9ef05f63f288cee68", 
+        "latitude": -27.466753, 
+        "longitude": 153.020012, 
+        "name": "33 - ROMA ST / HERSCHEL ST", 
+        "timestamp": "2017-08-15T04:49:30.251000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "North Quay /Reddacliff Place", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772190000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 0, 
+        "id": "c2b08c83c6324a1028368f0708c325df", 
+        "latitude": -27.471297, 
+        "longitude": 153.02257, 
+        "name": "26 - NORTH QUAY / REDDACLIFF PLACE", 
+        "timestamp": "2017-08-15T04:49:30.140000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Lamington St / Powerhouse", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772431000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 72
+        }, 
+        "free_bikes": 10, 
+        "id": "2bdd3d17fe60c27befe9ebecb2039eaf", 
+        "latitude": -27.467802, 
+        "longitude": 153.053645, 
+        "name": "72 - LAMINGTON ST / POWERHOUSE", 
+        "timestamp": "2017-08-15T04:49:30.121000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Ann St / Gipps St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772386000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 49
+        }, 
+        "free_bikes": 9, 
+        "id": "1b4c2a1eca68730158f88afd56077fd7", 
+        "latitude": -27.459833, 
+        "longitude": 153.033445, 
+        "name": "49 - ANN STREET / GIPPS STREET", 
+        "timestamp": "2017-08-15T04:49:30.136000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Browne St / James St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772137000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 75
+        }, 
+        "free_bikes": 15, 
+        "id": "684e822107d7abd32f661264d2fecc7a", 
+        "latitude": -27.461881, 
+        "longitude": 153.046986, 
+        "name": "75 - BROWNE ST / JAMES ST", 
+        "timestamp": "2017-08-15T04:49:30.071000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Brunswick St / Alfred St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772120000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 51
+        }, 
+        "free_bikes": 10, 
+        "id": "37f5e19685f9e6f99871ff6127c4ed6a", 
+        "latitude": -27.45663, 
+        "longitude": 153.032779, 
+        "name": "51 - BRUNSWICK ST / ALFRED ST", 
+        "timestamp": "2017-08-15T04:49:30.274000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "George St / Ann St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772008000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 4, 
+        "id": "09497808049ea2fb6687b529c83281d2", 
+        "latitude": -27.469075, 
+        "longitude": 153.021808, 
+        "name": "29 - GEORGE STREET / ANN STREET", 
+        "timestamp": "2017-08-15T04:49:30.138000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "WATERLOO ST (GASWORKS PARK) / NEWSTEAD TCE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772182000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 76
+        }, 
+        "free_bikes": 15, 
+        "id": "d1179cde19410812ae13b38fc723e476", 
+        "latitude": -27.448074, 
+        "longitude": 153.045762, 
+        "name": "76 - WATERLOO ST (GASWORKS PARK) / NEWSTEAD TCE", 
+        "timestamp": "2017-08-15T04:49:30.213000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Brunswick St Mall / Wickham St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772301000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 52
+        }, 
+        "free_bikes": 9, 
+        "id": "efbebc0ddb3e20416f696e5c1dc8d1ec", 
+        "latitude": -27.457512, 
+        "longitude": 153.033841, 
+        "name": "52 - BRUNSWICK ST MALL / WICKHAM ST", 
+        "timestamp": "2017-08-15T04:49:30.099000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "James St / Harcourt St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772034000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 77
+        }, 
+        "free_bikes": 18, 
+        "id": "574a44ec4c6600f463770f12f9ed45e1", 
+        "latitude": -27.458199, 
+        "longitude": 153.041688, 
+        "name": "77 - JAMES ST / HARCOURT ST", 
+        "timestamp": "2017-08-15T04:49:30.084000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Bowen Tce / Bradfield Hwy", 
+          "banking": false, 
+          "bonus": true, 
+          "last_update": 1502772472000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 53
+        }, 
+        "free_bikes": 14, 
+        "id": "6feb459c472c5b58191b6a60322ed045", 
+        "latitude": -27.461803, 
+        "longitude": 153.036021, 
+        "name": "53 - BOWEN TCE / BRADFIELD HWY", 
+        "timestamp": "2017-08-15T04:49:30.166000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Malt St / Brunswick St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772009000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 78
+        }, 
+        "free_bikes": 13, 
+        "id": "018973ecd6365cbb10cb14888a3a3b7b", 
+        "latitude": -27.461041, 
+        "longitude": 153.037902, 
+        "name": "78 - MALT ST / BRUNSWICK ST", 
+        "timestamp": "2017-08-15T04:49:30.091000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Bank St / Mollison St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772119000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 112
+        }, 
+        "free_bikes": 14, 
+        "id": "cfa3aa7d9b07d089e39adaed4ca4d25b", 
+        "latitude": -27.476724, 
+        "longitude": 153.010063, 
+        "name": "112 - BANK ST / MOLLISON ST", 
+        "timestamp": "2017-08-15T04:49:30.177000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "McLachlan St / Winn St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772148000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 54
+        }, 
+        "free_bikes": 12, 
+        "id": "2f525a805086a3c395463b72ca505d47", 
+        "latitude": -27.457825, 
+        "longitude": 153.036866, 
+        "name": "54 - MCLACHLAN ST / WINN ST", 
+        "timestamp": "2017-08-15T04:49:30.080000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Balfour St / Brunswick St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772154000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 79
+        }, 
+        "free_bikes": 16, 
+        "id": "9a3b6c194488f228e7cca588b7af67e7", 
+        "latitude": -27.463431, 
+        "longitude": 153.041031, 
+        "name": "79 - BALFOUR ST / BRUNSWICK ST", 
+        "timestamp": "2017-08-15T04:49:30.324000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Colchester St / Ernest St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772003000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 114
+        }, 
+        "free_bikes": 7, 
+        "id": "2db892010e69b921f1bc5e10e1948044", 
+        "latitude": -27.479876, 
+        "longitude": 153.021076, 
+        "name": "114 - COLCHESTER ST / ERNEST ST", 
+        "timestamp": "2017-08-15T04:49:30.212000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Alden St / Wickham St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772262000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 55
+        }, 
+        "free_bikes": 6, 
+        "id": "85d5364e964189e85fed9c612dd910b2", 
+        "latitude": -27.456085, 
+        "longitude": 153.03453, 
+        "name": "55 - ALDEN ST / WICKHAM ST", 
+        "timestamp": "2017-08-15T04:49:30.088000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Barker St / Brunswick St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772486000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 80
+        }, 
+        "free_bikes": 15, 
+        "id": "9b7f808268e385e660a99fcb7e6721cf", 
+        "latitude": -27.464681, 
+        "longitude": 153.042561, 
+        "name": "80 - BARKER ST / BRUNSWICK ST", 
+        "timestamp": "2017-08-15T04:49:30.090000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Jane St / Boundary St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772502000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 126
+        }, 
+        "free_bikes": 8, 
+        "id": "9155ef8c4dc4a1f22dde27df017ac0a8", 
+        "latitude": -27.479149, 
+        "longitude": 153.012132, 
+        "name": "126 - JANE ST / BOUNDARY ST", 
+        "timestamp": "2017-08-15T04:49:30.263000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Blair Dr / Sir William McGregor Dr", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772484000, 
+          "slots": 29, 
+          "status": "OPEN", 
+          "uid": 27
+        }, 
+        "free_bikes": 18, 
+        "id": "ada42a0e7ec01c53fcbed5751e01173c", 
+        "latitude": -27.494561, 
+        "longitude": 153.016318, 
+        "name": "27 - BLAIR DR / SIR WILLIAM MACGREGOR DR", 
+        "timestamp": "2017-08-15T04:49:30.133000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Bridge St / Wickham St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772082000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 57
+        }, 
+        "free_bikes": 10, 
+        "id": "2e93cedc2b3f4a48f8236a65623aeb2f", 
+        "latitude": -27.454746, 
+        "longitude": 153.036154, 
+        "name": "57 - BRIDGE ST / WICKHAM ST", 
+        "timestamp": "2017-08-15T04:49:30.300000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Sydney St / Brunswick St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772254000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 83
+        }, 
+        "free_bikes": 14, 
+        "id": "89270196b9b49958cd29de2059becdb6", 
+        "latitude": -27.468407, 
+        "longitude": 153.048273, 
+        "name": "83 - SYDNEY ST / BRUNSWICK ST", 
+        "timestamp": "2017-08-15T04:49:30.257000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Makerston St / Roma St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772197000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 34
+        }, 
+        "free_bikes": 14, 
+        "id": "09509a0022cc346ce87269d580f19936", 
+        "latitude": -27.467037, 
+        "longitude": 153.018471, 
+        "name": "34 - MAKERSTON ST / ROMA ST", 
+        "timestamp": "2017-08-15T04:49:30.308000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "East St / Ann St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772177000, 
+          "slots": 39, 
+          "status": "OPEN", 
+          "uid": 58
+        }, 
+        "free_bikes": 30, 
+        "id": "464a26f777785a27ffc33808c3ed5bbd", 
+        "latitude": -27.455472, 
+        "longitude": 153.037775, 
+        "name": "58 - EAST ST / ANN ST", 
+        "timestamp": "2017-08-15T04:49:30.298000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "New Farm Ferry Terminal / New Farm Park", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772353000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 84
+        }, 
+        "free_bikes": 16, 
+        "id": "ddea4853503b5bd3dde964bfa0cfd75f", 
+        "latitude": -27.471481, 
+        "longitude": 153.051966, 
+        "name": "84 - NEW FARM FERRY TERMINAL / NEW FARM PARK", 
+        "timestamp": "2017-08-15T04:49:30.260000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Roma St / Makerston St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772546000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 35
+        }, 
+        "free_bikes": 11, 
+        "id": "d26323122d44ea031824a5682464166d", 
+        "latitude": -27.46637, 
+        "longitude": 153.018506, 
+        "name": "35 - ROMA STREET / MAKERSTON STREET", 
+        "timestamp": "2017-08-15T04:49:30.089000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Lower River Tce / Parklands", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772139000, 
+          "slots": 35, 
+          "status": "OPEN", 
+          "uid": 129
+        }, 
+        "free_bikes": 21, 
+        "id": "0961d4fa94dddca7d4f17ca0ba0269f5", 
+        "latitude": -27.478032, 
+        "longitude": 153.034186, 
+        "name": "129 - LOWER RIVER TCE / PARKLANDS", 
+        "timestamp": "2017-08-15T04:49:30.262000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "James St / McLachlan St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772100000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 59
+        }, 
+        "free_bikes": 16, 
+        "id": "cdb28183d1c14a230d5090faa12f1392", 
+        "latitude": -27.456276, 
+        "longitude": 153.039196, 
+        "name": "59 - JAMES ST / MCLACHLAN ST", 
+        "timestamp": "2017-08-15T04:49:30.105000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Merthyr Rd / Reginald St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772294000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 87
+        }, 
+        "free_bikes": 2, 
+        "id": "72010c8e6a5d3e19c56a0d52cb9df00d", 
+        "latitude": -27.469931, 
+        "longitude": 153.043525, 
+        "name": "87 - MERTHYR RD / REGINALD ST", 
+        "timestamp": "2017-08-15T04:49:30.172000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Roma St / Garrick St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772420000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 36
+        }, 
+        "free_bikes": 13, 
+        "id": "300771f58519d5bd5f90b554636daa01", 
+        "latitude": -27.466307, 
+        "longitude": 153.017351, 
+        "name": "36 - ROMA STREET / GARRICK STREET", 
+        "timestamp": "2017-08-15T04:49:30.312000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "O'Connell St / Lambert St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771996000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 130
+        }, 
+        "free_bikes": 1, 
+        "id": "c102ff2a43cf8ebe6c0c78afc478cb77", 
+        "latitude": -27.474992, 
+        "longitude": 153.037647, 
+        "name": "130 - O'CONNELL ST / LAMBERT ST", 
+        "timestamp": "2017-08-15T04:49:30.160000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Wickham St / Brookes St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772376000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 60
+        }, 
+        "free_bikes": 14, 
+        "id": "b297f54248787aa164c2f015bdae733a", 
+        "latitude": -27.453127, 
+        "longitude": 153.037559, 
+        "name": "60 - WICKHAM STREET / BROOKES STREET", 
+        "timestamp": "2017-08-15T04:49:30.197000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Besant St / Vulture St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772327000, 
+          "slots": 31, 
+          "status": "OPEN", 
+          "uid": 102
+        }, 
+        "free_bikes": 10, 
+        "id": "8d63759c2436bf453b2795f748809a65", 
+        "latitude": -27.480885, 
+        "longitude": 153.014585, 
+        "name": "102 - BESANT ST / VULTURE ST", 
+        "timestamp": "2017-08-15T04:49:30.265000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "38 - Ann St / Creek St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772161000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 38
+        }, 
+        "free_bikes": 14, 
+        "id": "94a62dae68ee98ad33fc8155431185e4", 
+        "latitude": -27.46588, 
+        "longitude": 153.026861, 
+        "name": "38 - ANN ST / CREEK ST", 
+        "timestamp": "2017-08-15T04:49:30.332000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Little Cribb St / Boomerang St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772469000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 132
+        }, 
+        "free_bikes": 14, 
+        "id": "5c1bd0b45f6c8175c88dfadc9af3388b", 
+        "latitude": -27.467971, 
+        "longitude": 153.009968, 
+        "name": "132 - LITTLE CRIBB ST / BOOMERANG ST", 
+        "timestamp": "2017-08-15T04:49:30.184000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Vulture St / Thomas St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772200000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 103
+        }, 
+        "free_bikes": 6, 
+        "id": "ea351f1dc7aa6d99bc5df0a6b008dbc9", 
+        "latitude": -27.480768, 
+        "longitude": 153.011121, 
+        "name": "103 - VULTURE ST / THOMAS ST", 
+        "timestamp": "2017-08-15T04:49:30.193000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Wickham St / Murri Way", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772223000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 61
+        }, 
+        "free_bikes": 13, 
+        "id": "42435b4e039c4fdb145005c48784761b", 
+        "latitude": -27.451793, 
+        "longitude": 153.039562, 
+        "name": "61 - WICKHAM ST / MURRI WAY", 
+        "timestamp": "2017-08-15T04:49:30.272000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Turbot St / Wickham Tce", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772121000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 39
+        }, 
+        "free_bikes": 6, 
+        "id": "7193986dcc3d2fab765434ab90831891", 
+        "latitude": -27.464628, 
+        "longitude": 153.026863, 
+        "name": "39 - TURBOT ST / WICKHAM TCE", 
+        "timestamp": "2017-08-15T04:49:30.087000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Park Rd / Douglas St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772215000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 136
+        }, 
+        "free_bikes": 9, 
+        "id": "4e410ef43ce3ca5fe4917ce66feaf259", 
+        "latitude": -27.470987, 
+        "longitude": 153.004602, 
+        "name": "136 - PARK RD / DOUGLAS ST", 
+        "timestamp": "2017-08-15T04:49:30.135000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Dornoch Tce / Hardgrave Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772358000, 
+          "slots": 31, 
+          "status": "OPEN", 
+          "uid": 105
+        }, 
+        "free_bikes": 10, 
+        "id": "1b1a47f567cb7191b8429f43b4302cb1", 
+        "latitude": -27.487155, 
+        "longitude": 153.007281, 
+        "name": "105 - DORNOCH TCE / HARDGRAVE RD", 
+        "timestamp": "2017-08-15T04:49:30.264000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Ann St / Chester St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772345000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 62
+        }, 
+        "free_bikes": 4, 
+        "id": "b19f78b960ea780207c73d94635d7fca", 
+        "latitude": -27.453195, 
+        "longitude": 153.0401, 
+        "name": "62 - ANN ST / CHESTER ST", 
+        "timestamp": "2017-08-15T04:49:30.189000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Kilroe St / Dorsey St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502761303000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 137
+        }, 
+        "free_bikes": 6, 
+        "id": "89bd804e34915d0019c91a0cf0684cd8", 
+        "latitude": -27.472413, 
+        "longitude": 153.001803, 
+        "name": "137 - KILROE ST / DORSEY ST", 
+        "timestamp": "2017-08-15T04:49:30.315000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Ann St / Murri Way", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772223000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 63
+        }, 
+        "free_bikes": 17, 
+        "id": "a22dc0d8e6ead894be70f33bb6a11793", 
+        "latitude": -27.452468, 
+        "longitude": 153.040565, 
+        "name": "63 - ANN ST / MURRI WAY", 
+        "timestamp": "2017-08-15T04:49:30.139000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Roy St / Lang Pde", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772468000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 138
+        }, 
+        "free_bikes": 15, 
+        "id": "d4e4662a0a3a187268aa39179e6a6530", 
+        "latitude": -27.473888, 
+        "longitude": 153.000599, 
+        "name": "138 - ROY ST / LANG PDE", 
+        "timestamp": "2017-08-15T04:49:30.119000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Skyring Tce / Cunningham St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772358000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 64
+        }, 
+        "free_bikes": 15, 
+        "id": "41f095eac4bbd22c16510ffe9cb15e28", 
+        "latitude": -27.44979, 
+        "longitude": 153.044925, 
+        "name": "64 - SKYRING TCE / CUNNINGHAM ST", 
+        "timestamp": "2017-08-15T04:49:30.219000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Bi-centennial Bike Way / Lang Pde", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772286000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 139
+        }, 
+        "free_bikes": 17, 
+        "id": "dfe0416e22982578d714d4bfb95b31de", 
+        "latitude": -27.476076, 
+        "longitude": 153.002459, 
+        "name": "139 - BI-CENTENNIAL BIKE WAY / LANG PDE", 
+        "timestamp": "2017-08-15T04:49:30.074000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Wharf St / Adelaide St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772446000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 42
+        }, 
+        "free_bikes": 15, 
+        "id": "3f00e12c7936ced42491df94b758479f", 
+        "latitude": -27.464647, 
+        "longitude": 153.029361, 
+        "name": "42 - WHARF STREET / ADELAIDE STREET", 
+        "timestamp": "2017-08-15T04:49:30.285000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Chermside St / Commercial Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772423000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 65
+        }, 
+        "free_bikes": 7, 
+        "id": "35a41cd38c7962cf6fa5da17188f52b7", 
+        "latitude": -27.454482, 
+        "longitude": 153.046802, 
+        "name": "65 - CHERMSIDE ST / COMMERCIAL RD", 
+        "timestamp": "2017-08-15T04:49:30.092000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Land St / Coronation Dr", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772484000, 
+          "slots": 35, 
+          "status": "OPEN", 
+          "uid": 141
+        }, 
+        "free_bikes": 21, 
+        "id": "b659973741e6d77e710f0620f65aa618", 
+        "latitude": -27.479453, 
+        "longitude": 152.997215, 
+        "name": "141 - LAND ST / CORONATION DR", 
+        "timestamp": "2017-08-15T04:49:30.158000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Turbot St / Bowen St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772436000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 45
+        }, 
+        "free_bikes": 13, 
+        "id": "0bc75a38764dc5ac7c9e468a8543bd78", 
+        "latitude": -27.462665, 
+        "longitude": 153.029087, 
+        "name": "45 - TURBOT ST / BOWEN ST", 
+        "timestamp": "2017-08-15T04:49:30.335000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Ann St / Boundary St", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772321000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 46
+        }, 
+        "free_bikes": 15, 
+        "id": "ac17b733d5eb7fe20401dd465affc872", 
+        "latitude": -27.461984, 
+        "longitude": 153.031782, 
+        "name": "46 - ANN ST / BOUNDARY ST", 
+        "timestamp": "2017-08-15T04:49:30.238000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Sylvan Rd / Coronation Dr", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772182000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 142
+        }, 
+        "free_bikes": 5, 
+        "id": "a5f98467b3ee21b41884acde6f2ce5be", 
+        "latitude": -27.482081, 
+        "longitude": 152.995804, 
+        "name": "142 - SYLVAN RD / CORONATION DR", 
+        "timestamp": "2017-08-15T04:49:30.291000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Jephson St / Sherwood Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772047000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 144
+        }, 
+        "free_bikes": 13, 
+        "id": "66915e5364fcd7007b45ebf6ea9a81e6", 
+        "latitude": -27.485075, 
+        "longitude": 152.990627, 
+        "name": "144 - JEPHSON ST / SHERWOOD RD", 
+        "timestamp": "2017-08-15T04:49:30.277000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Turbot St / Barry Pde", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772150000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 47
+        }, 
+        "free_bikes": 9, 
+        "id": "905b9ef44fa6015d449b9e57dcef71fd", 
+        "latitude": -27.46123, 
+        "longitude": 153.031077, 
+        "name": "47 - TURBOT ST / BARRY PDE", 
+        "timestamp": "2017-08-15T04:49:30.100000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Constance St / St Pauls Tce", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772114000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 56
+        }, 
+        "free_bikes": 19, 
+        "id": "b495364584b2bb0ed87e76ae572ef530", 
+        "latitude": -27.453717, 
+        "longitude": 153.034042, 
+        "name": "56 - CONSTANCE ST / ST PAULS TCE", 
+        "timestamp": "2017-08-15T04:49:30.094000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Brisbane St / Glen Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772175000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 146
+        }, 
+        "free_bikes": 14, 
+        "id": "d47589d551e892def9896dcd4721b426", 
+        "latitude": -27.487187, 
+        "longitude": 152.993052, 
+        "name": "146 - BRISBANE ST / GLEN RD", 
+        "timestamp": "2017-08-15T04:49:30.283000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Sandford St / Brisbane St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771991000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 147
+        }, 
+        "free_bikes": 17, 
+        "id": "d22bcf9a9dc5189eed5a4d27665ed04e", 
+        "latitude": -27.490776, 
+        "longitude": 152.994747, 
+        "name": "147 - SANDFORD ST / BRISBANE ST", 
+        "timestamp": "2017-08-15T04:49:30.084000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Vernon Tce / Florence St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771961000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 69
+        }, 
+        "free_bikes": 15, 
+        "id": "0b5432d1022dcd18bb7342c8111f13d7", 
+        "latitude": -27.455907, 
+        "longitude": 153.050013, 
+        "name": "69 - VERNON TCE / FLORENCE ST", 
+        "timestamp": "2017-08-15T04:49:30.175000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Main St / Rotherham St (Mahoney Park)", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772237000, 
+          "slots": 45, 
+          "status": "OPEN", 
+          "uid": 90
+        }, 
+        "free_bikes": 34, 
+        "id": "c03fd9248f0be73e6104be8c219c1f66", 
+        "latitude": -27.469296, 
+        "longitude": 153.035533, 
+        "name": "90 - MAIN ST / ROTHERHAM ST (MAHONEY PARK)", 
+        "timestamp": "2017-08-15T04:49:30.182000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Sandford St / Austral St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772020000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 148
+        }, 
+        "free_bikes": 15, 
+        "id": "4e24c0fa8e1014d075ef1f2929ff27ea", 
+        "latitude": -27.492489, 
+        "longitude": 152.996768, 
+        "name": "148 - SANDFORD ST / AUSTRAL ST", 
+        "timestamp": "2017-08-15T04:49:30.281000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Main St / Darragh St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772342000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 91
+        }, 
+        "free_bikes": 19, 
+        "id": "f5710cb0ba677595d236b7054f4578e9", 
+        "latitude": -27.47059, 
+        "longitude": 153.036046, 
+        "name": "91 - MAIN ST / DARRAGH ST", 
+        "timestamp": "2017-08-15T04:49:30.069000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Macquarie St / Munro St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772295000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 150
+        }, 
+        "free_bikes": 13, 
+        "id": "e4229009ce08b453037110a53639ec12", 
+        "latitude": -27.492876, 
+        "longitude": 153.006071, 
+        "name": "150 - MACQUARIE ST / MUNRO ST", 
+        "timestamp": "2017-08-15T04:49:30.090000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Oxlade Dr / Turner Ave", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772260000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 85
+        }, 
+        "free_bikes": 9, 
+        "id": "6118fe91a075c6bab2bad0ff8ef95886", 
+        "latitude": -27.473304, 
+        "longitude": 153.048757, 
+        "name": "85 - OXLADE DR / TURNER AVE", 
+        "timestamp": "2017-08-15T04:49:30.118000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Brunswick St / Merthyr Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772533000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 82
+        }, 
+        "free_bikes": 15, 
+        "id": "313992822a7bd600d70c8cff810d0bf0", 
+        "latitude": -27.467498, 
+        "longitude": 153.0467, 
+        "name": "82 - BRUNSWICK ST / MERTHYR RD", 
+        "timestamp": "2017-08-15T04:49:30.142000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Thornton St Ferry Terminal / Main St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772065000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 92
+        }, 
+        "free_bikes": 16, 
+        "id": "f4f4ecb56d0ded439b1ccbb67700dd21", 
+        "latitude": -27.471025, 
+        "longitude": 153.034306, 
+        "name": "92 - THORNTON ST FERRY TERMINAL / MAIN ST", 
+        "timestamp": "2017-08-15T04:49:30.223000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Sydney St / Moray St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772036000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 86
+        }, 
+        "free_bikes": 11, 
+        "id": "380f9fca82e7d5ddb2b45cf632514089", 
+        "latitude": -27.471422, 
+        "longitude": 153.04519, 
+        "name": "86 - SYDNEY ST / MORAY ST", 
+        "timestamp": "2017-08-15T04:49:30.303000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Grey St / QCA", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772414000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 93
+        }, 
+        "free_bikes": 8, 
+        "id": "cef40a6c63ec791959fa7084ff347b6c", 
+        "latitude": -27.48148, 
+        "longitude": 153.02368, 
+        "name": "93 - GREY ST / QCA", 
+        "timestamp": "2017-08-15T04:49:30.081000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Mary St / Albert St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772209000, 
+          "slots": 10, 
+          "status": "CLOSED", 
+          "uid": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "c05c6367512807c560e5583fb7e59e7f", 
+        "latitude": -27.472044, 
+        "longitude": 153.027193, 
+        "name": "16 - MARY STREET / ALBERT STREET", 
+        "timestamp": "2017-08-15T04:49:30.105000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Sydney St Ferry Terminal / Park", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772129000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 88
+        }, 
+        "free_bikes": 18, 
+        "id": "24176c89db21e24188eeb53fe4fa2b1b", 
+        "latitude": -27.474531, 
+        "longitude": 153.042728, 
+        "name": "88 - SYDNEY ST FERRY TERMINAL / PARK", 
+        "timestamp": "2017-08-15T04:49:30.070000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Glenelg St / Merivale St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771954000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 94
+        }, 
+        "free_bikes": 10, 
+        "id": "e1e547442f4b61039e8cb0f850d87757", 
+        "latitude": -27.478653, 
+        "longitude": 153.019123, 
+        "name": "94 - GLENELG ST / MERIVALE ST", 
+        "timestamp": "2017-08-15T04:49:30.266000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Holman St / Main St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772473000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 89
+        }, 
+        "free_bikes": 15, 
+        "id": "baddfdf11b5cebc86da63f04bdee81e5", 
+        "latitude": -27.465733, 
+        "longitude": 153.034329, 
+        "name": "89 - HOLMAN ST / MAIN ST", 
+        "timestamp": "2017-08-15T04:49:30.250000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Stanley St / Melbourne St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772532000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 95
+        }, 
+        "free_bikes": 12, 
+        "id": "18893f071f13d753c95e9bb118637cfe", 
+        "latitude": -27.475039, 
+        "longitude": 153.020323, 
+        "name": "95 - STANLEY ST / MELBOURNE ST", 
+        "timestamp": "2017-08-15T04:49:30.095000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Grey St / Melbourne St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772480000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 96
+        }, 
+        "free_bikes": 13, 
+        "id": "baa6b495e2d0541ee01238f7a29817d3", 
+        "latitude": -27.474722, 
+        "longitude": 153.018694, 
+        "name": "96 - GREY ST / MELBOURNE ST", 
+        "timestamp": "2017-08-15T04:49:30.186000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Thynne Rd / College Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772332000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 97
+        }, 
+        "free_bikes": 16, 
+        "id": "0fc863c7a9266732bec4925a37792e3f", 
+        "latitude": -27.499963, 
+        "longitude": 153.017633, 
+        "name": "97 - THYNNE RD / COLLEGE RD", 
+        "timestamp": "2017-08-15T04:49:30.083000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Sidon St / Little Stanley St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772248000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 119
+        }, 
+        "free_bikes": 6, 
+        "id": "67b40d1b02f2de965f3b3006a6f85fbd", 
+        "latitude": -27.481808, 
+        "longitude": 153.025477, 
+        "name": "119 - SIDON ST / LITTLE STANLEY ST", 
+        "timestamp": "2017-08-15T04:49:30.085000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Kurilpa Point / Montague Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772309000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 98
+        }, 
+        "free_bikes": 19, 
+        "id": "76f73084670218a77b778a290a0a7de6", 
+        "latitude": -27.469658, 
+        "longitude": 153.016696, 
+        "name": "98 - KURILPA POINT / MONTAGUE RD", 
+        "timestamp": "2017-08-15T04:49:30.072000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Cordelia St / Peel St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772297000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 99
+        }, 
+        "free_bikes": 17, 
+        "id": "7f7ec69e92d64fcd95619d97e9753e50", 
+        "latitude": -27.474011, 
+        "longitude": 153.014541, 
+        "name": "99 - CORDELIA ST / PEEL ST", 
+        "timestamp": "2017-08-15T04:49:30.297000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Russell St / Edmondstone St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772498000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 101
+        }, 
+        "free_bikes": 11, 
+        "id": "2a270fdd2d04e1d20766c7b993280290", 
+        "latitude": -27.478235, 
+        "longitude": 153.015173, 
+        "name": "101 - RUSSELL ST / EDMONDSTONE ST", 
+        "timestamp": "2017-08-15T04:49:30.293000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Hardgrave Rd / Skinner St", 
+          "banking": false, 
+          "bonus": true, 
+          "last_update": 1502772347000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 104
+        }, 
+        "free_bikes": 15, 
+        "id": "9afc08e55e26220fa85a4e4a63314c61", 
+        "latitude": -27.482082, 
+        "longitude": 153.006981, 
+        "name": "104 - HARDGRAVE RD / SKINNER ST", 
+        "timestamp": "2017-08-15T04:49:30.306000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Drury St / Montague Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772198000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 107
+        }, 
+        "free_bikes": 8, 
+        "id": "008262acf04e72cfd2240dfda29e99fa", 
+        "latitude": -27.48872, 
+        "longitude": 152.999585, 
+        "name": "107 - DRURY ST / MONTAGUE RD", 
+        "timestamp": "2017-08-15T04:49:30.246000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rogers St / Montague Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772468000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 108
+        }, 
+        "free_bikes": 7, 
+        "id": "8d02c7cdb4da1f77a5b9ef40c22ffbfa", 
+        "latitude": -27.485078, 
+        "longitude": 153.002382, 
+        "name": "108 - ROGERS ST / MONTAGUE RD", 
+        "timestamp": "2017-08-15T04:49:30.235000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Montague Rd / Skinner St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772502000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 109
+        }, 
+        "free_bikes": 4, 
+        "id": "37cf2073b22b28df2194424b699d90cd", 
+        "latitude": -27.48172, 
+        "longitude": 153.00436, 
+        "name": "109 - MONTAGUE RD / SKINNER ST", 
+        "timestamp": "2017-08-15T04:49:30.072000Z"
+      }, 
+      {
+        "empty_slots": 41, 
+        "extra": {
+          "address": "King George Square 2", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771997000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 1101
+        }, 
+        "free_bikes": 18, 
+        "id": "fe203cf598d2101573d9212c1f2c2646", 
+        "latitude": -27.468447, 
+        "longitude": 153.024662, 
+        "name": "1101 - KING GEORGE SQUARE 2", 
+        "timestamp": "2017-08-15T04:49:30.078000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Montague Rd / Brereton St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772193000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 115
+        }, 
+        "free_bikes": 7, 
+        "id": "686c2eb4050b023e4b688da86f361608", 
+        "latitude": -27.474227, 
+        "longitude": 153.011164, 
+        "name": "115 - MONTAGUE RD / BRERETON ST", 
+        "timestamp": "2017-08-15T04:49:30.215000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Cordelia St / Ernest St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772191000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 116
+        }, 
+        "free_bikes": 15, 
+        "id": "188dd1e0db9044ce8a9f49a888fdd7a7", 
+        "latitude": -27.481137, 
+        "longitude": 153.019284, 
+        "name": "116 - CORDELIA ST / ERNEST ST", 
+        "timestamp": "2017-08-15T04:49:30.340000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Melbourne St / Merivale St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772376000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 118
+        }, 
+        "free_bikes": 11, 
+        "id": "2c2abc3b31136eb0765cb34b7f96fbf4", 
+        "latitude": -27.474755, 
+        "longitude": 153.016687, 
+        "name": "118 - MELBOURNE ST / MERIVALE ST", 
+        "timestamp": "2017-08-15T04:49:30.229000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Boundary St / Vulture St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771988000, 
+          "slots": 13, 
+          "status": "OPEN", 
+          "uid": 120
+        }, 
+        "free_bikes": 4, 
+        "id": "e620a63fa1e182367795bcae5bcba790", 
+        "latitude": -27.482562, 
+        "longitude": 153.011831, 
+        "name": "120 - BOUNDARY ST / VULTURE ST", 
+        "timestamp": "2017-08-15T04:49:30.254000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Orleigh St / Hoogley St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772135000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 106
+        }, 
+        "free_bikes": 8, 
+        "id": "cdabf83b8abd0bf6bb717e5c93ce2974", 
+        "latitude": -27.489807, 
+        "longitude": 153.002405, 
+        "name": "106 - ORLEIGH ST / HOOGLEY ST", 
+        "timestamp": "2017-08-15T04:49:30.267000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Jane St / Montague Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772536000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 110
+        }, 
+        "free_bikes": 14, 
+        "id": "e5a91baefe7f398c52acc362df883b55", 
+        "latitude": -27.478214, 
+        "longitude": 153.006181, 
+        "name": "110 - JANE ST / MONTAGUE RD", 
+        "timestamp": "2017-08-15T04:49:30.180000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Donkin St / Montague Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772235000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 111
+        }, 
+        "free_bikes": 20, 
+        "id": "a0bac53a5011f574247d6a7d339b3b05", 
+        "latitude": -27.476474, 
+        "longitude": 153.008182, 
+        "name": "111 - DONKIN ST / MONTAGUE RD", 
+        "timestamp": "2017-08-15T04:49:30.237000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Edmondstone St / Vulture St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772523000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 113
+        }, 
+        "free_bikes": 10, 
+        "id": "5e3c85323510a31f9e1c9a58742de83d", 
+        "latitude": -27.480164, 
+        "longitude": 153.016181, 
+        "name": "113 - EDMONDSTONE ST / VULTURE ST", 
+        "timestamp": "2017-08-15T04:49:30.176000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Vulture St / Tribune St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772450000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 117
+        }, 
+        "free_bikes": 11, 
+        "id": "0119a8dbc4ffa0be31f737636f2e657a", 
+        "latitude": -27.482197, 
+        "longitude": 153.020894, 
+        "name": "117 - VULTURE ST / TRIBUNE ST", 
+        "timestamp": "2017-08-15T04:49:30.077000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "VULTURE ST / STANLEY ST", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772294000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 121
+        }, 
+        "free_bikes": 4, 
+        "id": "cc3553cbd42309765d6b83d89a90bb41", 
+        "latitude": -27.483259, 
+        "longitude": 153.026946, 
+        "name": "121 - VULTURE ST / STANLEY ST", 
+        "timestamp": "2017-08-15T04:49:30.123000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Lower River Tce / Ellis St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772427000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 122
+        }, 
+        "free_bikes": 6, 
+        "id": "d54b248ebd3f4644b88b353749a0b053", 
+        "latitude": -27.482279, 
+        "longitude": 153.028723, 
+        "name": "122 - LOWER RIVER TCE / ELLIS ST", 
+        "timestamp": "2017-08-15T04:49:30.063000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Annerley Rd / Grove St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772375000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 124
+        }, 
+        "free_bikes": 12, 
+        "id": "c5cdb94edffafc8d5bcf03c745b64e39", 
+        "latitude": -27.491284, 
+        "longitude": 153.027138, 
+        "name": "124 - ANNERLEY ROAD / GROVE ST", 
+        "timestamp": "2017-08-15T04:49:30.199000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Annerley Rd / Boggo Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772286000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 125
+        }, 
+        "free_bikes": 8, 
+        "id": "3629f8243422993706cc597c76b8a549", 
+        "latitude": -27.494959, 
+        "longitude": 153.02802, 
+        "name": "125 - ANNERLEY RD / BOGGO RD", 
+        "timestamp": "2017-08-15T04:49:30.169000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Gladstone Rd / Annerley Rd", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772336000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 127
+        }, 
+        "free_bikes": 19, 
+        "id": "80e494bc1a3befe6ff592ab90c884ab7", 
+        "latitude": -27.497934, 
+        "longitude": 153.027333, 
+        "name": "127 - GLADSTONE RD / ANNERLEY RD", 
+        "timestamp": "2017-08-15T04:49:30.178000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Coronation Dr / Go Between Bridge", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772373000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 133
+        }, 
+        "free_bikes": 14, 
+        "id": "ef504f9a1b727de400de969e7fbffefe", 
+        "latitude": -27.468839, 
+        "longitude": 153.011115, 
+        "name": "133 - CORONATION DR / GO BETWEEN BRIDGE", 
+        "timestamp": "2017-08-15T04:49:30.096000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Dunmore Tce / Kingsford St", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772064000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 140
+        }, 
+        "free_bikes": 12, 
+        "id": "5baa1c70a06778f667abe3bec1ee26fe", 
+        "latitude": -27.476003, 
+        "longitude": 153.000676, 
+        "name": "140 - DUNMORE TCE / KINGSFORD ST", 
+        "timestamp": "2017-08-15T04:49:30.104000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Lamington St / Refinery Pde", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772292000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 73
+        }, 
+        "free_bikes": 17, 
+        "id": "1a5e96570056bfe442d60d760ae01b09", 
+        "latitude": -27.465226, 
+        "longitude": 153.050864, 
+        "name": "73 - LAMINGTON ST / REFINERY PDE", 
+        "timestamp": "2017-08-15T04:49:30.077000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Margaret St / Edward St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772099000, 
+          "slots": 29, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 17, 
+        "id": "e26bfeaff1849c0ce733a249f93ca191", 
+        "latitude": -27.47148, 
+        "longitude": 153.029647, 
+        "name": "7 - MARGARET STREET / EDWARD STREET", 
+        "timestamp": "2017-08-15T04:49:30.266000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "George St / Adelaide St", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772399000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 28
+        }, 
+        "free_bikes": 12, 
+        "id": "ca78ff9082f8e9f7e41b370831a063f5", 
+        "latitude": -27.469902, 
+        "longitude": 153.022603, 
+        "name": "28 - GEORGE ST / ADELAIDE ST", 
+        "timestamp": "2017-08-15T04:49:30.195000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-vaihingen-an-der-enz", 
+    "id": "ebikestation-vaihingen-an-der-enz", 
+    "location": {
+      "city": "Vaihingen an der Enz", 
+      "country": "DE", 
+      "latitude": 48.9334, 
+      "longitude": 8.96121
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "91638", 
+            "91632"
+          ], 
+          "number": "5803", 
+          "slots": 12, 
+          "uid": "367660"
+        }, 
+        "free_bikes": 7, 
+        "id": "a8e55d5cabb829cc47c21de0017b1fa8", 
+        "latitude": 48.947822398109, 
+        "longitude": 8.9571511745453, 
+        "name": "E-Bike-Station Vaihingen an der Enz", 
+        "timestamp": "2017-08-15T04:50:18.778000Z"
+      }
+    ]
+  }
+}

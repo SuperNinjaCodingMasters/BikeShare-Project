@@ -1,0 +1,57 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-modena", 
+    "id": "bicincitta-modena", 
+    "location": {
+      "city": "Modena", 
+      "country": "IT", 
+      "latitude": 44.647128, 
+      "longitude": 10.9252269
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Piazza Alighieri", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "c3cfff0a3186526679f3aca1d7a9428c", 
+        "latitude": 44.65380809425761, 
+        "longitude": 10.930219107505422, 
+        "name": "01. Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:48:38.940000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazza Matteotti", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "1cecfcd62269b22d50c362fac4ffba92", 
+        "latitude": 44.64740293352995, 
+        "longitude": 10.924642602585664, 
+        "name": "02. Matteotti", 
+        "timestamp": "2017-08-15T04:48:38.964000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Via Gottardi", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "a66ff14ee879da5656c0f0f0aac68b24", 
+        "latitude": 44.63025734175057, 
+        "longitude": 10.950745966934164, 
+        "name": "03. Terminal Bus", 
+        "timestamp": "2017-08-15T04:48:38.969000Z"
+      }
+    ]
+  }
+}

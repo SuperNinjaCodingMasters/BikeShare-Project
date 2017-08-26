@@ -1,0 +1,1420 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-luzern", 
+    "id": "nextbike-luzern", 
+    "location": {
+      "city": "Luzern", 
+      "country": "CH", 
+      "latitude": 47.0472, 
+      "longitude": 8.30446
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40191", 
+            "40187", 
+            "40174", 
+            "40167", 
+            "40136"
+          ], 
+          "number": "8011", 
+          "uid": "43734"
+        }, 
+        "free_bikes": 14, 
+        "id": "2058be92bbdf16c74db3b4a1c538697f", 
+        "latitude": 47.048936, 
+        "longitude": 8.31167, 
+        "name": "Velostation Bhf Luzern", 
+        "timestamp": "2017-08-15T04:50:17.123000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8068", 
+          "uid": "265398"
+        }, 
+        "free_bikes": 0, 
+        "id": "527a46b45ceb8fa1ca6e3d14a5704bce", 
+        "latitude": 47.042262, 
+        "longitude": 8.310366, 
+        "name": "Br\u00fcnigstr. / Industriestr.", 
+        "timestamp": "2017-08-15T04:50:17.148000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40115", 
+            "40098", 
+            "40088"
+          ], 
+          "number": "8023", 
+          "uid": "265395"
+        }, 
+        "free_bikes": 3, 
+        "id": "d715d1638ce2a07258538bd3005f07a0", 
+        "latitude": 47.073386, 
+        "longitude": 8.324666, 
+        "name": "Ebikon, Rotsee-Badi", 
+        "timestamp": "2017-08-15T04:50:17.146000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8057", 
+          "uid": "34386"
+        }, 
+        "free_bikes": 0, 
+        "id": "1eeba0fdbe59a426345dffc3ce15d059", 
+        "latitude": 47.049920232455, 
+        "longitude": 8.3130347728729, 
+        "name": "Inseliquai 1 / Frohburgstrasse", 
+        "timestamp": "2017-08-15T04:50:17.004000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40016", 
+            "40331"
+          ], 
+          "number": "8019", 
+          "uid": "65652"
+        }, 
+        "free_bikes": 2, 
+        "id": "7618518a0424599e659242b1ba1d651d", 
+        "latitude": 47.0487244, 
+        "longitude": 8.3050931, 
+        "name": "Stadtverwaltung / Winkelriedstrasse 14", 
+        "timestamp": "2017-08-15T04:50:17.130000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40213"
+          ], 
+          "number": "8037", 
+          "uid": "34397"
+        }, 
+        "free_bikes": 1, 
+        "id": "007a4f0be471a737aa5407864ba30a09", 
+        "latitude": 47.045990850213, 
+        "longitude": 8.3091723918915, 
+        "name": "Bundesplatz / Zentralstr. ", 
+        "timestamp": "2017-08-15T04:50:17.029000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40180", 
+            "40472", 
+            "40346"
+          ], 
+          "number": "8027", 
+          "uid": "39636"
+        }, 
+        "free_bikes": 3, 
+        "id": "a5ed0e3f84bb1998dd8d8475c27f240c", 
+        "latitude": 47.040576966717, 
+        "longitude": 8.3014154434204, 
+        "name": "Obergrundstr. / Eichhof", 
+        "timestamp": "2017-08-15T04:50:17.101000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40316", 
+            "40474"
+          ], 
+          "number": "8015", 
+          "uid": "70900"
+        }, 
+        "free_bikes": 2, 
+        "id": "0c446796b819272659cc82116e1af14a", 
+        "latitude": 47.03330885086, 
+        "longitude": 8.2963299751282, 
+        "name": "S\u00fcdpol/Arsenalstrasse 28", 
+        "timestamp": "2017-08-15T04:50:17.136000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40166", 
+            "40239", 
+            "40259", 
+            "40289", 
+            "40464"
+          ], 
+          "number": "8104", 
+          "uid": "38582"
+        }, 
+        "free_bikes": 6, 
+        "id": "f666f0e898d28ef1a749169178792c65", 
+        "latitude": 47.061808, 
+        "longitude": 8.308666, 
+        "name": "Maihofstr. / Vallasterstr.", 
+        "timestamp": "2017-08-15T04:50:17.056000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40188"
+          ], 
+          "number": "8046", 
+          "uid": "19515"
+        }, 
+        "free_bikes": 1, 
+        "id": "26d22511577c476f60ede9598bd7b201", 
+        "latitude": 47.048604378546, 
+        "longitude": 8.3140808343887, 
+        "name": "Hotel Radisson / Inseliquai 12 ", 
+        "timestamp": "2017-08-15T04:50:16.999000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40196", 
+            "40119", 
+            "40033", 
+            "40017", 
+            "40247"
+          ], 
+          "number": "8112", 
+          "uid": "762893"
+        }, 
+        "free_bikes": 7, 
+        "id": "2965fc7ddb52fecb804e339ac76c8472", 
+        "latitude": 47.050408, 
+        "longitude": 8.311496, 
+        "name": "KKL / Bahnhofplatz", 
+        "timestamp": "2017-08-15T04:50:17.162000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40357"
+          ], 
+          "number": "8047", 
+          "uid": "34394"
+        }, 
+        "free_bikes": 1, 
+        "id": "608f98badb40c3101be1d0a284a6c9ec", 
+        "latitude": 47.048896793331, 
+        "longitude": 8.3080887794495, 
+        "name": "Morgartenstr. / Frankenstr.", 
+        "timestamp": "2017-08-15T04:50:17.022000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40189", 
+            "40526"
+          ], 
+          "number": "8114", 
+          "uid": "1165565"
+        }, 
+        "free_bikes": 2, 
+        "id": "d2f489198c4ff94ace21044586dd7905", 
+        "latitude": 47.05639, 
+        "longitude": 8.315751, 
+        "name": "Caritas Schweiz", 
+        "timestamp": "2017-08-15T04:50:17.166000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40148", 
+            "40063", 
+            "40581", 
+            "40405", 
+            "40361"
+          ], 
+          "number": "8177", 
+          "uid": "2828612"
+        }, 
+        "free_bikes": 5, 
+        "id": "9e6021f7117f17cbd65497ee39a11551", 
+        "latitude": 47.069259538933, 
+        "longitude": 8.282071352005, 
+        "name": "Emmenbr\u00fccke / Bahnhof S\u00fcd", 
+        "timestamp": "2017-08-15T04:50:17.177000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40090", 
+            "40064", 
+            "40029"
+          ], 
+          "number": "8175", 
+          "uid": "2793143"
+        }, 
+        "free_bikes": 3, 
+        "id": "054552313e13a60bb446451f8ecc3e5f", 
+        "latitude": 47.07982923914, 
+        "longitude": 8.3139449532609, 
+        "name": "SSBL / Rathausen", 
+        "timestamp": "2017-08-15T04:50:17.175000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40338"
+          ], 
+          "number": "8121", 
+          "uid": "3024979"
+        }, 
+        "free_bikes": 1, 
+        "id": "eee7ec37783f33e0da167258ec9713a8", 
+        "latitude": 47.035231414972, 
+        "longitude": 8.3029496132804, 
+        "name": "Messe Allmend / Horwerstrasse", 
+        "timestamp": "2017-08-15T04:50:17.181000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40162", 
+            "40144", 
+            "40132", 
+            "40037"
+          ], 
+          "number": "8106", 
+          "uid": "34401"
+        }, 
+        "free_bikes": 4, 
+        "id": "e1dc7f4eb526aaa8de7f4523993bc5eb", 
+        "latitude": 47.042426741571, 
+        "longitude": 8.3028209209442, 
+        "name": "Paulusplatz / Obergrundstr.", 
+        "timestamp": "2017-08-15T04:50:17.036000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40123", 
+            "40348"
+          ], 
+          "number": "8122", 
+          "uid": "3025003"
+        }, 
+        "free_bikes": 2, 
+        "id": "3f99bb9de4c45ccba5cf0a59ac95a6bd", 
+        "latitude": 47.031239377266, 
+        "longitude": 8.3043926954269, 
+        "name": "Hallenbad Allmend / Zihlmattweg 46", 
+        "timestamp": "2017-08-15T04:50:17.196000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40198", 
+            "40299"
+          ], 
+          "number": "8123", 
+          "uid": "3024968"
+        }, 
+        "free_bikes": 2, 
+        "id": "bf86e6de15b73c75cb66305cf6851e98", 
+        "latitude": 47.033107757123, 
+        "longitude": 8.3079653978348, 
+        "name": "Zihlmattweg 29", 
+        "timestamp": "2017-08-15T04:50:17.180000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8051", 
+          "uid": "39632"
+        }, 
+        "free_bikes": 0, 
+        "id": "68ac3a0cbd25e4db7fcc4c60eba32f3c", 
+        "latitude": 47.055249108814, 
+        "longitude": 8.3171546459198, 
+        "name": "Haldenstrasse 10", 
+        "timestamp": "2017-08-15T04:50:17.092000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40246", 
+            "40427"
+          ], 
+          "number": "8073", 
+          "uid": "286636"
+        }, 
+        "free_bikes": 2, 
+        "id": "3039a38a1f4d98ca79df7997ada02c65", 
+        "latitude": 47.055508594684, 
+        "longitude": 8.3197939395905, 
+        "name": "Palace Luzern", 
+        "timestamp": "2017-08-15T04:50:17.159000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40192", 
+            "40091", 
+            "40228", 
+            "40273"
+          ], 
+          "number": "8021", 
+          "uid": "26816"
+        }, 
+        "free_bikes": 4, 
+        "id": "4513c50b07a3e40bba556335f2a521c7", 
+        "latitude": 47.070567575811, 
+        "longitude": 8.2819211483002, 
+        "name": "Emmen, Bahnhofstrasse 11 ", 
+        "timestamp": "2017-08-15T04:50:17.002000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40265", 
+            "40358"
+          ], 
+          "number": "8058", 
+          "uid": "265397"
+        }, 
+        "free_bikes": 2, 
+        "id": "d4439ff439258edad35a95f086e81b99", 
+        "latitude": 47.042644, 
+        "longitude": 8.306399, 
+        "name": "Bleicherstrasse 10", 
+        "timestamp": "2017-08-15T04:50:17.147000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40076", 
+            "40574", 
+            "40400"
+          ], 
+          "number": "8026", 
+          "uid": "38569"
+        }, 
+        "free_bikes": 3, 
+        "id": "fcc5f573c672e6f7cab5deb666c1462b", 
+        "latitude": 47.033740285777, 
+        "longitude": 8.2795822620392, 
+        "name": "Kriens, Gallusstr. / Luzernerstr.", 
+        "timestamp": "2017-08-15T04:50:17.051000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40437", 
+            "40339"
+          ], 
+          "number": "8176", 
+          "uid": "2793160"
+        }, 
+        "free_bikes": 2, 
+        "id": "7ca9696a51b2ec16ba476ec338766b0c", 
+        "latitude": 47.081663552292, 
+        "longitude": 8.3138731242798, 
+        "name": "CKW / Rathausen", 
+        "timestamp": "2017-08-15T04:50:17.175000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40181", 
+            "40155", 
+            "40261", 
+            "40290", 
+            "40337"
+          ], 
+          "number": "8113", 
+          "uid": "767279"
+        }, 
+        "free_bikes": 6, 
+        "id": "cf515b2e976512ed8d8a4524f9ebd0ee", 
+        "latitude": 47.06294, 
+        "longitude": 8.308821, 
+        "name": "MaiHof", 
+        "timestamp": "2017-08-15T04:50:17.165000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8032", 
+          "uid": "34395"
+        }, 
+        "free_bikes": 0, 
+        "id": "9aba7a5c1f7c242ee123be43abf65f14", 
+        "latitude": 47.047851403096, 
+        "longitude": 8.3090972900391, 
+        "name": "Habsburgerstr. 1a / Zentralstr.", 
+        "timestamp": "2017-08-15T04:50:17.027000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40157", 
+            "40121", 
+            "40109", 
+            "40102", 
+            "40020"
+          ], 
+          "number": "8063", 
+          "uid": "34398"
+        }, 
+        "free_bikes": 11, 
+        "id": "2ecc1990b61a7afb13c65e909fe5d3c9", 
+        "latitude": 47.046696332716, 
+        "longitude": 8.3066940307617, 
+        "name": "Habsburgerstrasse 26", 
+        "timestamp": "2017-08-15T04:50:17.030000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40103", 
+            "40002", 
+            "40264", 
+            "40272", 
+            "40370"
+          ], 
+          "number": "8069", 
+          "uid": "64404"
+        }, 
+        "free_bikes": 5, 
+        "id": "c965947481c53b9878aa5668b681e07c", 
+        "latitude": 47.052248483303, 
+        "longitude": 8.2982529042056, 
+        "name": "G\u00fctschstr. 2", 
+        "timestamp": "2017-08-15T04:50:17.125000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40179"
+          ], 
+          "number": "8102", 
+          "uid": "16871"
+        }, 
+        "free_bikes": 1, 
+        "id": "29f4d830dfedf0118be78c7513d63005", 
+        "latitude": 47.049466997551, 
+        "longitude": 8.3095693588257, 
+        "name": "Tourist-Information / Zentralstr. 5", 
+        "timestamp": "2017-08-15T04:50:16.985000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40178", 
+            "40163", 
+            "40107", 
+            "40101", 
+            "40084"
+          ], 
+          "number": "8109", 
+          "uid": "65654"
+        }, 
+        "free_bikes": 6, 
+        "id": "b92dc1dfbd3074db25482f6d2daa2724", 
+        "latitude": 47.05272362405, 
+        "longitude": 8.3085232973099, 
+        "name": "Schwanenplatz", 
+        "timestamp": "2017-08-15T04:50:17.134000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40173", 
+            "40253", 
+            "40263", 
+            "40569", 
+            "40398"
+          ], 
+          "number": "8039", 
+          "uid": "77717"
+        }, 
+        "free_bikes": 6, 
+        "id": "bd49158b8dad1433acefef90bdfaaf10", 
+        "latitude": 47.046908341179, 
+        "longitude": 8.3438587188721, 
+        "name": "Hotel Seeburg", 
+        "timestamp": "2017-08-15T04:50:17.143000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40111", 
+            "40093", 
+            "40004", 
+            "40296", 
+            "40302"
+          ], 
+          "number": "8020", 
+          "uid": "265394"
+        }, 
+        "free_bikes": 5, 
+        "id": "55d20174a3c41a1561b52f546d375738", 
+        "latitude": 47.041180161216, 
+        "longitude": 8.3204859495163, 
+        "name": "SwissLife / Eisfeldstr.", 
+        "timestamp": "2017-08-15T04:50:17.145000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40104", 
+            "40070", 
+            "40271"
+          ], 
+          "number": "8071", 
+          "uid": "280463"
+        }, 
+        "free_bikes": 3, 
+        "id": "d7ea9377a6d6398a211b016fa3b4217f", 
+        "latitude": 47.054890943145, 
+        "longitude": 8.3158779144287, 
+        "name": "Grand Hotel National", 
+        "timestamp": "2017-08-15T04:50:17.149000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40184", 
+            "40149", 
+            "40056", 
+            "40044", 
+            "40040"
+          ], 
+          "number": "8017", 
+          "uid": "38585"
+        }, 
+        "free_bikes": 8, 
+        "id": "3084506906f709cc1182b56f440917f7", 
+        "latitude": 47.050521493782, 
+        "longitude": 8.2995808124542, 
+        "name": "Bruchstr. / Sch\u00fctzenstr.", 
+        "timestamp": "2017-08-15T04:50:17.061000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40301", 
+            "40468", 
+            "40418", 
+            "40412"
+          ], 
+          "number": "8042", 
+          "uid": "38572"
+        }, 
+        "free_bikes": 4, 
+        "id": "b588304e2af73919370c284a4fa3aa9d", 
+        "latitude": 47.050885171356, 
+        "longitude": 8.3090543746948, 
+        "name": "Hauptpost / Bahnhofstr. 1", 
+        "timestamp": "2017-08-15T04:50:17.052000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40061", 
+            "40313", 
+            "40277", 
+            "40286", 
+            "40429"
+          ], 
+          "number": "8029", 
+          "uid": "38574"
+        }, 
+        "free_bikes": 5, 
+        "id": "55800823480202116b7cfb33156b043b", 
+        "latitude": 47.062751761057, 
+        "longitude": 8.2738316059112, 
+        "name": "Roupigenplatz 1", 
+        "timestamp": "2017-08-15T04:50:17.053000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40199", 
+            "40164", 
+            "40159", 
+            "40079", 
+            "40073"
+          ], 
+          "number": "8044", 
+          "uid": "38586"
+        }, 
+        "free_bikes": 12, 
+        "id": "b90837035e3ac56bd2c61f31017eb9f8", 
+        "latitude": 47.052010911343, 
+        "longitude": 8.3034324645996, 
+        "name": "M\u00fchleplatz", 
+        "timestamp": "2017-08-15T04:50:17.071000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8062", 
+          "uid": "65653"
+        }, 
+        "free_bikes": 0, 
+        "id": "c6db60ea4322840a7dccfb1415d1f175", 
+        "latitude": 47.054510846334, 
+        "longitude": 8.3131313323975, 
+        "name": "Haldenstr. 1 / Kurplatz", 
+        "timestamp": "2017-08-15T04:50:17.133000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40080", 
+            "40402"
+          ], 
+          "number": "8033", 
+          "uid": "38584"
+        }, 
+        "free_bikes": 2, 
+        "id": "fbf6f8e663063d94dfd82dc348f73fac", 
+        "latitude": 47.057441907401, 
+        "longitude": 8.29665184021, 
+        "name": "Kantonspital Personalhaus 2 / Spitalstr.", 
+        "timestamp": "2017-08-15T04:50:17.059000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40032", 
+            "40287", 
+            "40367"
+          ], 
+          "number": "8035", 
+          "uid": "34408"
+        }, 
+        "free_bikes": 3, 
+        "id": "69836e51b12c896319c1ce15f271968b", 
+        "latitude": 47.047770987613, 
+        "longitude": 8.303325176239, 
+        "name": "Pilatusplatz / Hallwilerweg", 
+        "timestamp": "2017-08-15T04:50:17.040000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40053", 
+            "40257", 
+            "40433"
+          ], 
+          "number": "8050", 
+          "uid": "38566"
+        }, 
+        "free_bikes": 3, 
+        "id": "82758e888e833c8d6d4f929b61fd5f0d", 
+        "latitude": 47.037272070972, 
+        "longitude": 8.3272933959961, 
+        "name": "Sch\u00f6nb\u00fchlcenter", 
+        "timestamp": "2017-08-15T04:50:17.046000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40094", 
+            "40219", 
+            "40310", 
+            "40576", 
+            "40475"
+          ], 
+          "number": "8018", 
+          "uid": "39638"
+        }, 
+        "free_bikes": 6, 
+        "id": "ec7ea84be393af1941c4e90a3e9cf8fb", 
+        "latitude": 47.045415125712, 
+        "longitude": 8.3076569437981, 
+        "name": "Moosstr. / Bundesstr.", 
+        "timestamp": "2017-08-15T04:50:17.106000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40195", 
+            "40152"
+          ], 
+          "number": "8052", 
+          "uid": "34405"
+        }, 
+        "free_bikes": 2, 
+        "id": "9b7b98aa15490c53865d995983debaa2", 
+        "latitude": 47.050594595001, 
+        "longitude": 8.3057096600532, 
+        "name": "Stadttheater / Hirschengraben", 
+        "timestamp": "2017-08-15T04:50:17.038000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40075", 
+            "40025", 
+            "40230", 
+            "40539", 
+            "40368"
+          ], 
+          "number": "8016", 
+          "uid": "34387"
+        }, 
+        "free_bikes": 5, 
+        "id": "8b26578f8525a2b9054b94d8c37f3dec", 
+        "latitude": 47.046540981153, 
+        "longitude": 8.3179378509522, 
+        "name": "Werftestr. / Ufsch\u00f6tti", 
+        "timestamp": "2017-08-15T04:50:17.014000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40182", 
+            "40158", 
+            "40074", 
+            "40042", 
+            "40223"
+          ], 
+          "number": "8067", 
+          "uid": "34404"
+        }, 
+        "free_bikes": 8, 
+        "id": "934449dcf99472f4bcf9303fdb48df23", 
+        "latitude": 47.041344667624, 
+        "longitude": 8.3077669143677, 
+        "name": "Neustadtstrasse 44", 
+        "timestamp": "2017-08-15T04:50:17.037000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8022", 
+          "uid": "24871"
+        }, 
+        "free_bikes": 0, 
+        "id": "d5a539acac5353aa9018d368d5df1f67", 
+        "latitude": 47.053253583735, 
+        "longitude": 8.3345460891724, 
+        "name": "Verkehrshaus / Lidostr.", 
+        "timestamp": "2017-08-15T04:50:17.001000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40140", 
+            "40048", 
+            "40047", 
+            "40251", 
+            "40453"
+          ], 
+          "number": "8054", 
+          "uid": "38588"
+        }, 
+        "free_bikes": 5, 
+        "id": "51575a994519bbb357997a5a8647fbc7", 
+        "latitude": 47.054360999731, 
+        "longitude": 8.3090114593506, 
+        "name": "Seehofstr. / Matth\u00e4uskirche", 
+        "timestamp": "2017-08-15T04:50:17.085000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8030", 
+          "uid": "34389"
+        }, 
+        "free_bikes": 0, 
+        "id": "8b7c94afd659230d24779ce03b953add", 
+        "latitude": 47.049847130311, 
+        "longitude": 8.3088290691376, 
+        "name": "Pilatusstr. 1", 
+        "timestamp": "2017-08-15T04:50:17.018000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8049", 
+          "uid": "34390"
+        }, 
+        "free_bikes": 0, 
+        "id": "c7d8f61f7522b34bdc1024e1c9833a6c", 
+        "latitude": 47.049686305243, 
+        "longitude": 8.3077239990234, 
+        "name": "Pilatusstr. 8 / Seidenhofstr.", 
+        "timestamp": "2017-08-15T04:50:17.019000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40193", 
+            "40146", 
+            "40245", 
+            "40268", 
+            "40584"
+          ], 
+          "number": "8025", 
+          "uid": "38564"
+        }, 
+        "free_bikes": 7, 
+        "id": "7fd501c415c6d6d24d2baf96a7f3a90a", 
+        "latitude": 47.043428371543, 
+        "longitude": 8.3141183853149, 
+        "name": "Tribschenstr. / Werkhofstr.", 
+        "timestamp": "2017-08-15T04:50:17.043000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40081", 
+            "40203"
+          ], 
+          "number": "8024", 
+          "uid": "38592"
+        }, 
+        "free_bikes": 2, 
+        "id": "f9c0d24e026f894a95b9e4eae49f15fe", 
+        "latitude": 47.034087624912, 
+        "longitude": 8.2823127508164, 
+        "name": "Kriens, Bellpark / Luzernerstr.", 
+        "timestamp": "2017-08-15T04:50:17.091000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8041", 
+          "uid": "38583"
+        }, 
+        "free_bikes": 0, 
+        "id": "d4cd3fc28a5ccf96e6fc6a2b4e429e78", 
+        "latitude": 47.053940696037, 
+        "longitude": 8.2990872859955, 
+        "name": "St. Karlistr. /  Geissmattstr.", 
+        "timestamp": "2017-08-15T04:50:17.058000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40183"
+          ], 
+          "number": "8013", 
+          "uid": "38563"
+        }, 
+        "free_bikes": 1, 
+        "id": "853270e6b22d4519b7ddff5023869160", 
+        "latitude": 47.044389772404, 
+        "longitude": 8.3144375681877, 
+        "name": "R\u00f6sslimattstr. / Werkhofstr.", 
+        "timestamp": "2017-08-15T04:50:17.041000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40118", 
+            "40018", 
+            "40322", 
+            "40404"
+          ], 
+          "number": "8065", 
+          "uid": "34399"
+        }, 
+        "free_bikes": 4, 
+        "id": "bad6368ea94030d4fcfb3e9ce02bf99d", 
+        "latitude": 47.045808081203, 
+        "longitude": 8.304215669632, 
+        "name": "Moosstr. / Obergrundstr.", 
+        "timestamp": "2017-08-15T04:50:17.034000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40086", 
+            "40224", 
+            "40204"
+          ], 
+          "number": "8045", 
+          "uid": "39634"
+        }, 
+        "free_bikes": 3, 
+        "id": "75ff6fea7b0f8fee9764032c0848319b", 
+        "latitude": 47.054218462328, 
+        "longitude": 8.3394813537598, 
+        "name": "Sch\u00e4dr\u00fctistr. / W\u00fcrzenbach", 
+        "timestamp": "2017-08-15T04:50:17.099000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40026"
+          ], 
+          "number": "8014", 
+          "uid": "38580"
+        }, 
+        "free_bikes": 1, 
+        "id": "a0f8e80a5e3cd8182d12c98684c556b5", 
+        "latitude": 47.067227999022, 
+        "longitude": 8.3149123191833, 
+        "name": "Maihofstrasse / Maihofmatte", 
+        "timestamp": "2017-08-15T04:50:17.055000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40165", 
+            "40260"
+          ], 
+          "number": "8012", 
+          "uid": "265393"
+        }, 
+        "free_bikes": 2, 
+        "id": "69f0e5ec5915662779f1b2ff6f21c70f", 
+        "latitude": 47.031316, 
+        "longitude": 8.285756, 
+        "name": "Kriens, Parkbad / Horwerstr.", 
+        "timestamp": "2017-08-15T04:50:17.144000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40133", 
+            "40114", 
+            "40105", 
+            "40036", 
+            "40035"
+          ], 
+          "number": "8110", 
+          "uid": "38587"
+        }, 
+        "free_bikes": 6, 
+        "id": "1cc48e229c0f68151e6e53ec675b009c", 
+        "latitude": 47.0535130793, 
+        "longitude": 8.3077561855316, 
+        "name": "Grendel 8 ", 
+        "timestamp": "2017-08-15T04:50:17.080000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40194"
+          ], 
+          "number": "8036", 
+          "uid": "42822"
+        }, 
+        "free_bikes": 1, 
+        "id": "3c42bc0cf27e80190731dc3cf6fe5792", 
+        "latitude": 47.054825157352, 
+        "longitude": 8.317734003067, 
+        "name": "Nationalquai / Seebad (Badesaison)", 
+        "timestamp": "2017-08-15T04:50:17.121000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40517"
+          ], 
+          "number": "8028", 
+          "uid": "38567"
+        }, 
+        "free_bikes": 1, 
+        "id": "b324f19c9cb20d2e18a04204259a149b", 
+        "latitude": 47.026533, 
+        "longitude": 8.302169, 
+        "name": "Kriens / Matthof SBB", 
+        "timestamp": "2017-08-15T04:50:17.047000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40128", 
+            "40007", 
+            "40434", 
+            "40423"
+          ], 
+          "number": "8040", 
+          "uid": "38591"
+        }, 
+        "free_bikes": 4, 
+        "id": "d129e2cf115d2ebd0dac64880e31d350", 
+        "latitude": 47.049949473284, 
+        "longitude": 8.3365631103516, 
+        "name": "Lido Strandbad / Park&Ride", 
+        "timestamp": "2017-08-15T04:50:17.090000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40052", 
+            "40046", 
+            "40254", 
+            "40256"
+          ], 
+          "number": "8031", 
+          "uid": "39637"
+        }, 
+        "free_bikes": 4, 
+        "id": "0748fe76910b89854229408796bf41ed", 
+        "latitude": 47.037001528406, 
+        "longitude": 8.2921242713928, 
+        "name": "Kriens, Luzernerstr. / St. Kupferhammer", 
+        "timestamp": "2017-08-15T04:50:17.104000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "number": "8053", 
+          "slots": 1, 
+          "uid": "38568"
+        }, 
+        "free_bikes": 0, 
+        "id": "3f513c68debb6da9a193fee550ddfb31", 
+        "latitude": 47.033988907703, 
+        "longitude": 8.3031320571899, 
+        "name": "Allmend / Horwerstr. 85", 
+        "timestamp": "2017-08-15T04:50:17.048000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40059", 
+            "40049", 
+            "40043", 
+            "40021", 
+            "40226"
+          ], 
+          "number": "8115", 
+          "uid": "1292239"
+        }, 
+        "free_bikes": 8, 
+        "id": "0bab67b5ced30c19cb2b25c99df10355", 
+        "latitude": 47.055941, 
+        "longitude": 8.324786, 
+        "name": "Hotel Europe", 
+        "timestamp": "2017-08-15T04:50:17.167000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40426", 
+            "40350"
+          ], 
+          "number": "8074", 
+          "uid": "350723"
+        }, 
+        "free_bikes": 2, 
+        "id": "efc0332c9b14840f4dd27d2dfd47ba72", 
+        "latitude": 47.081308340354, 
+        "longitude": 8.3045107126236, 
+        "name": "ALSO", 
+        "timestamp": "2017-08-15T04:50:17.160000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8055", 
+          "uid": "42821"
+        }, 
+        "free_bikes": 0, 
+        "id": "e9a9f39544fb095e37d861865a220938", 
+        "latitude": 47.049178241048, 
+        "longitude": 8.3065974712372, 
+        "name": "Kantonalbank / Pilatusstr. 12", 
+        "timestamp": "2017-08-15T04:50:17.108000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40225", 
+            "40557", 
+            "40481", 
+            "40363"
+          ], 
+          "number": "8043", 
+          "uid": "23220"
+        }, 
+        "free_bikes": 4, 
+        "id": "2127c736df41aea7f6c3a305d5ae2daf", 
+        "latitude": 47.0617131, 
+        "longitude": 8.3016302, 
+        "name": "Jugendherberge / Sedelstr. 12", 
+        "timestamp": "2017-08-15T04:50:17Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40060", 
+            "40270", 
+            "40202", 
+            "40324", 
+            "40533"
+          ], 
+          "number": "8101", 
+          "uid": "34407"
+        }, 
+        "free_bikes": 7, 
+        "id": "791fbfe8ba0b2ec39dcf46be932ee682", 
+        "latitude": 47.051792307663, 
+        "longitude": 8.3006475268485, 
+        "name": "Kasernenplatz / Naturmuseum", 
+        "timestamp": "2017-08-15T04:50:17.039000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40108"
+          ], 
+          "number": "8038", 
+          "uid": "265396"
+        }, 
+        "free_bikes": 1, 
+        "id": "51c865275865911ec8238fbee57bd475", 
+        "latitude": 47.044832, 
+        "longitude": 8.310942, 
+        "name": "Sch\u00fc\u00fcr / G\u00fcterstr.", 
+        "timestamp": "2017-08-15T04:50:17.146000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40150", 
+            "40008", 
+            "40232", 
+            "40476"
+          ], 
+          "number": "8059", 
+          "uid": "57172"
+        }, 
+        "free_bikes": 4, 
+        "id": "91c4965ffe7894c74c6fe9cea3399bca", 
+        "latitude": 47.0418001, 
+        "longitude": 8.3166403, 
+        "name": "Weinberglistr. 4", 
+        "timestamp": "2017-08-15T04:50:17.124000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40134", 
+            "40019"
+          ], 
+          "number": "8034", 
+          "uid": "39633"
+        }, 
+        "free_bikes": 2, 
+        "id": "f3ce147ab59d0ed57511dba2fb679f7d", 
+        "latitude": 47.041505517842, 
+        "longitude": 8.3109694719315, 
+        "name": "ewl / Industriestrasse 6", 
+        "timestamp": "2017-08-15T04:50:17.095000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "8107", 
+          "uid": "364146"
+        }, 
+        "free_bikes": 0, 
+        "id": "9ea81f270646bfacee4ede26586793c4", 
+        "latitude": 47.041316, 
+        "longitude": 8.307503, 
+        "name": "Neubad", 
+        "timestamp": "2017-08-15T04:50:17.161000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40176", 
+            "40445"
+          ], 
+          "number": "8117", 
+          "uid": "2799056"
+        }, 
+        "free_bikes": 2, 
+        "id": "5e0829a502a1fa2a2306cc763c62cf68", 
+        "latitude": 47.056162237727, 
+        "longitude": 8.2934159698198, 
+        "name": "Spitalstrasse 93", 
+        "timestamp": "2017-08-15T04:50:17.176000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40028", 
+            "40275", 
+            "40366", 
+            "40355"
+          ], 
+          "number": "8120", 
+          "uid": "3024956"
+        }, 
+        "free_bikes": 4, 
+        "id": "2b4b5150de278bd5a04615b3574cd02f", 
+        "latitude": 47.044187441034, 
+        "longitude": 8.308511710311, 
+        "name": "Neustadtstrasse 10", 
+        "timestamp": "2017-08-15T04:50:17.180000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40041", 
+            "40300", 
+            "40336", 
+            "40469", 
+            "40447"
+          ], 
+          "number": "8118", 
+          "uid": "2845312"
+        }, 
+        "free_bikes": 5, 
+        "id": "a2021a3691849bc2931812cf675aa226", 
+        "latitude": 47.04202235545, 
+        "longitude": 8.3033115526996, 
+        "name": "Pauluskirche / Moosmattstrasse 4 ", 
+        "timestamp": "2017-08-15T04:50:17.178000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40097", 
+            "40288", 
+            "40207", 
+            "40542", 
+            "40424"
+          ], 
+          "number": "8048", 
+          "uid": "65655"
+        }, 
+        "free_bikes": 5, 
+        "id": "249c1d6a7e4e542b6408d8676884d703", 
+        "latitude": 47.057149210453, 
+        "longitude": 8.3103476823817, 
+        "name": "L\u00f6wenplatz/Z\u00fcrichstrasse", 
+        "timestamp": "2017-08-15T04:50:17.135000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40171", 
+            "40065", 
+            "40012", 
+            "40255"
+          ], 
+          "number": "8116", 
+          "uid": "2528832"
+        }, 
+        "free_bikes": 4, 
+        "id": "448d4f988c77a0eae8a19c0a83eee300", 
+        "latitude": 47.046133409606, 
+        "longitude": 8.3166128396988, 
+        "name": "Landenbergstrasse 36", 
+        "timestamp": "2017-08-15T04:50:17.168000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40095", 
+            "40062", 
+            "40011", 
+            "40359"
+          ], 
+          "number": "8119", 
+          "uid": "3024891"
+        }, 
+        "free_bikes": 4, 
+        "id": "924d6f257241b180b2db71836325bb28", 
+        "latitude": 47.049069207697, 
+        "longitude": 8.2999581994591, 
+        "name": "Klosterstrasse 12A", 
+        "timestamp": "2017-08-15T04:50:17.179000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40151", 
+            "40110"
+          ], 
+          "number": "8056", 
+          "uid": "38589"
+        }, 
+        "free_bikes": 2, 
+        "id": "f39381affbef881b73084cadeaff6a00", 
+        "latitude": 47.057088726737, 
+        "longitude": 8.3109962940216, 
+        "name": "L\u00f6wenplatz / Bourbaki-Panorama", 
+        "timestamp": "2017-08-15T04:50:17.089000Z"
+      }
+    ]
+  }
+}

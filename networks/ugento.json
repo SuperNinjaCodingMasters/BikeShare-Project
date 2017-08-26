@@ -1,0 +1,90 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/ugento", 
+    "id": "ugento", 
+    "location": {
+      "city": "Ugento", 
+      "country": "IT", 
+      "latitude": 39.9273518, 
+      "longitude": 18.1582962
+    }, 
+    "name": "Ugento", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "f65ad6f4ec67bd597862a5732e751f42", 
+        "latitude": 39.858990078896596, 
+        "longitude": 18.1638765335083, 
+        "name": "Ugento", 
+        "timestamp": "2017-08-15T04:47:02.504000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "69f6af2f2bd7eeab2b3a61a0ae3f1c34", 
+        "latitude": 39.876678109963564, 
+        "longitude": 18.14168930053711, 
+        "name": "Torre San Giovanni - Annibale", 
+        "timestamp": "2017-08-15T04:47:02.514000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 7, 
+        "id": "823857e9e47901d424b03f099d2c4986", 
+        "latitude": 39.88896152561282, 
+        "longitude": 18.115854263305664, 
+        "name": "Torre San Giovanni - Lungomare Jonio", 
+        "timestamp": "2017-08-15T04:47:02.516000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "5472562cdc7ad1dd7eadc84f16d14e1b", 
+        "latitude": 39.895744452650796, 
+        "longitude": 18.0999755859375, 
+        "name": "Fontanelle", 
+        "timestamp": "2017-08-15T04:47:02.520000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 1, 
+        "id": "8e5de93858af737805d54ae26d8e2215", 
+        "latitude": 39.9295832008467, 
+        "longitude": 18.159713745117188, 
+        "name": "Torre Mozza", 
+        "timestamp": "2017-08-15T04:47:02.523000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "9d448844c4fa113c971fab30fa877b1d", 
+        "latitude": 39.84861229610178, 
+        "longitude": 18.185420036315918, 
+        "name": "Lido Marini", 
+        "timestamp": "2017-08-15T04:47:02.525000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/grad-karlovac-karlovac", 
+    "id": "grad-karlovac-karlovac", 
+    "location": {
+      "city": "Karlovac", 
+      "country": "HR", 
+      "latitude": 45.4905, 
+      "longitude": 15.5503
+    }, 
+    "name": "Grad Karlovac", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "80039", 
+            "80026", 
+            "80023", 
+            "80015", 
+            "80069"
+          ], 
+          "number": "2371", 
+          "slots": 6, 
+          "uid": "418417"
+        }, 
+        "free_bikes": 5, 
+        "id": "68953c6fb204005ad4d279f85fda1729", 
+        "latitude": 45.487876979924, 
+        "longitude": 15.545117855072, 
+        "name": "Tr\u017enica", 
+        "timestamp": "2017-08-15T04:50:15.423000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "80038", 
+            "80031", 
+            "80005", 
+            "80000", 
+            "80124"
+          ], 
+          "number": "2370", 
+          "slots": 8, 
+          "uid": "417335"
+        }, 
+        "free_bikes": 5, 
+        "id": "2e6bf1353fac6439f005ccac16ac1065", 
+        "latitude": 45.4938713439, 
+        "longitude": 15.55223107338, 
+        "name": "\u0160etali\u0161te dr. Franje Tu\u0111mana 1", 
+        "timestamp": "2017-08-15T04:50:15.402000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "80022", 
+            "80006", 
+            "80054"
+          ], 
+          "number": "2372", 
+          "slots": 4, 
+          "uid": "419697"
+        }, 
+        "free_bikes": 3, 
+        "id": "ad21eabb757cfdc8fc1b263452894195", 
+        "latitude": 45.486372647925, 
+        "longitude": 15.556882023811, 
+        "name": "Foginovo", 
+        "timestamp": "2017-08-15T04:50:15.425000Z"
+      }
+    ]
+  }
+}

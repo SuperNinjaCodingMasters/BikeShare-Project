@@ -1,0 +1,2068 @@
+{
+  "network": {
+    "company": [
+      "DB Rent GmbH"
+    ], 
+    "href": "/v2/networks/stadtrad", 
+    "id": "stadtrad", 
+    "location": {
+      "city": "Hamburg", 
+      "country": "DE", 
+      "latitude": 53.558572, 
+      "longitude": 9.9278215
+    }, 
+    "name": "StadtRAD Hamburg", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 25, 
+        "id": "800f3d54b7161875df90bf39978bf4d5", 
+        "latitude": 53.62, 
+        "longitude": 10.032, 
+        "name": "2397 Alsterdorfer Stra\u00dfe/Fuhlsb\u00fcttler Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.858000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 13, 
+        "id": "56f06656afd1d11e20c6c783c1a7b5e9", 
+        "latitude": 53.514265, 
+        "longitude": 9.987298, 
+        "name": "2711 Mannesallee/Veringstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.840000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "2ba25bc323ac003643d3d78c8b4e3602", 
+        "latitude": 53.566972, 
+        "longitude": 9.986076, 
+        "name": "2214 Universit\u00e4t / Schl\u00fcterstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.449000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 16, 
+        "id": "ffd636219a60d17383c7bc05acbf0e36", 
+        "latitude": 53.567845, 
+        "longitude": 9.982728, 
+        "name": "2215 Allende-Platz/Grindelhof", 
+        "timestamp": "2017-02-22T13:14:10.451000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 13, 
+        "id": "3375487dc4f60feaec3de75623d864fa", 
+        "latitude": 53.563755, 
+        "longitude": 9.987659, 
+        "name": "2212 Universit\u00e4t / Moorweidenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.452000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "21812835a71724c53cce9bd628152d04", 
+        "latitude": 53.572081, 
+        "longitude": 9.988801, 
+        "name": "2231 Hallerstra\u00dfe / Rohtenbaumchaussee", 
+        "timestamp": "2017-02-22T13:14:10.453000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "089fbbb5fe858b1deaa7973666d266f1", 
+        "latitude": 53.5602, 
+        "longitude": 9.98963, 
+        "name": "2528 Bahnhof Dammtor S\u00fcd / Marseiller Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.454000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 16, 
+        "id": "7298707a15f3bca26edcf68b25b4bf41", 
+        "latitude": 53.5712, 
+        "longitude": 9.977694, 
+        "name": "2216 Bogenstra\u00dfe / Grindelallee", 
+        "timestamp": "2017-02-22T13:14:10.455000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "f35e177c5a4a7571b5e182bae87a9faa", 
+        "latitude": 53.559762, 
+        "longitude": 9.981839, 
+        "name": "2512 St.Petersburger Stra\u00dfe/Bei den Kirchh\u00f6fen", 
+        "timestamp": "2017-02-22T13:14:10.456000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "b52d6775e5c272adbc31ca6e401eecb5", 
+        "latitude": 53.5672, 
+        "longitude": 10.0011, 
+        "name": "2213 Harvestehuder Weg / Alte Rabenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.457000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 11, 
+        "id": "5e16f9465b240160646a2028339b0ab4", 
+        "latitude": 53.575408, 
+        "longitude": 9.977824, 
+        "name": "2232 Grindelberg / Bezirksamt Eimsb\u00fcttel", 
+        "timestamp": "2017-02-22T13:14:10.458000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "bf8af5398be5efbda747bab509fdaf3e", 
+        "latitude": 53.567991, 
+        "longitude": 9.969601, 
+        "name": "2221 U-Bahn Schlump", 
+        "timestamp": "2017-02-22T13:14:10.458000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "3fdf82f2906381cc5e4b7da2ee615f31", 
+        "latitude": 53.576378, 
+        "longitude": 9.993122, 
+        "name": "2234 Mittelweg/Sophienterrasse-NDR", 
+        "timestamp": "2017-02-22T13:14:10.459000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "6ebf7e37c329ea72058d6432286c9f2e", 
+        "latitude": 53.556282, 
+        "longitude": 9.990091, 
+        "name": "2524 G\u00e4nsemarkt / B\u00fcschstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.460000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "be8f743523d0e14422e10a46be058539", 
+        "latitude": 53.558518, 
+        "longitude": 9.975346, 
+        "name": "2511 Messehallen / Marktstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.461000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 11, 
+        "id": "0045c405b0ce3969518b845dcfb83857", 
+        "latitude": 53.564227, 
+        "longitude": 9.96925, 
+        "name": "2133 Sternschanze / Eingang D\u00e4nenweg", 
+        "timestamp": "2017-02-22T13:14:10.462000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "cedb3ef1d4e9d72a3efb051f2b99fe60", 
+        "latitude": 53.577248, 
+        "longitude": 9.98211, 
+        "name": "2233 Innocentiapark/Oberstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.462000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "85dd4a04707810308fbe573712fd563e", 
+        "latitude": 53.555722, 
+        "longitude": 9.984209, 
+        "name": "2525 Caffamacherreihe/Valentinskamp.", 
+        "timestamp": "2017-02-22T13:14:10.463000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "db20a612ebb6cab9e3826a8e9e8d429a", 
+        "latitude": 53.556061, 
+        "longitude": 9.979697, 
+        "name": "2526 Sievekingplatz/Gorch-Fock-Wall", 
+        "timestamp": "2017-02-22T13:14:10.464000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 16, 
+        "id": "38d908d2a4bfca5897ae21bae66f683d", 
+        "latitude": 53.555, 
+        "longitude": 9.9914, 
+        "name": "2523 Jungfernstieg / Neuer Jungfernstieg", 
+        "timestamp": "2017-02-22T13:14:10.465000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 23, 
+        "id": "89e17b91187aa5eb6d3eb0f56a002eb5", 
+        "latitude": 53.578, 
+        "longitude": 9.97721, 
+        "name": "2241 Isestra\u00dfe / Hoheluftbr\u00fccke", 
+        "timestamp": "2017-02-22T13:14:10.466000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "6f754c0d5e2ed136b540425d103102de", 
+        "latitude": 53.557414, 
+        "longitude": 9.969178, 
+        "name": "2513 Feldstra\u00dfe / Marktstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.467000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "ebac1b9e9ed69dc4eeedb34df08fd6d5", 
+        "latitude": 53.5695, 
+        "longitude": 9.96309, 
+        "name": "2222 Christuskirche/Fruchtallee", 
+        "timestamp": "2017-02-22T13:14:10.468000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c229a8c02d3de0b38b3aefd94c34c99e", 
+        "latitude": 53.551853, 
+        "longitude": 9.985161, 
+        "name": "2522 Axel-Springer-Platz/Wexstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.469000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "399fa5819a0b32329d9d3bcb0cd7d804", 
+        "latitude": 53.552244, 
+        "longitude": 9.995501, 
+        "name": "2533 Jungfernstieg / Ballindamm", 
+        "timestamp": "2017-02-22T13:14:10.469000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "bde4a3299e443d4978572ab8b56aa579", 
+        "latitude": 53.5524, 
+        "longitude": 9.97695, 
+        "name": "2624 Enckeplatz / H\u00fctten", 
+        "timestamp": "2017-02-22T13:14:10.477000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "45cb9623903f966310d28c7edac611cf", 
+        "latitude": 53.580391, 
+        "longitude": 9.999404, 
+        "name": "2316 Leinpfad/Fernsicht", 
+        "timestamp": "2017-02-22T13:14:10.478000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "1795f303e7e8f00e30d3cd976872fb54", 
+        "latitude": 53.558869, 
+        "longitude": 9.963824, 
+        "name": "2131 Neuer Pferdemarkt / Beim Gr\u00fcnen J\u00e4ger", 
+        "timestamp": "2017-02-22T13:14:10.480000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "52698e6223ab2a11dc5b3a21b2a66bb2", 
+        "latitude": 53.562709, 
+        "longitude": 9.96099, 
+        "name": "2132 Schulterblatt/Eifflerstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.482000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 19, 
+        "id": "faadebb6cd6784a65686a0e29881c56b", 
+        "latitude": 53.573183, 
+        "longitude": 9.962395, 
+        "name": "2223 Osterstra\u00dfe/Bismarckstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.483000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "bb1982eb1eb44eefe7d5501d6bdd7b16", 
+        "latitude": 53.550977, 
+        "longitude": 9.980459, 
+        "name": "2623 Gro\u00dfneumarkt/Thielbek", 
+        "timestamp": "2017-02-22T13:14:10.486000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "626ec6efa49c2734f22ebec1929c29c6", 
+        "latitude": 53.5516, 
+        "longitude": 9.99843, 
+        "name": "2534 Kleine Rosenstra\u00dfe / Gerhart-Hauptmann-Platz", 
+        "timestamp": "2017-02-22T13:14:10.489000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "c1fc654c7eaf342b563e229c98c73dcb", 
+        "latitude": 53.550193, 
+        "longitude": 9.99011, 
+        "name": "2531 Alter Wall/Adolphsbr\u00fccke", 
+        "timestamp": "2017-02-22T13:14:10.494000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "831949b994ee0219039d81c418e01823", 
+        "latitude": 53.5832, 
+        "longitude": 9.98441, 
+        "name": "2235 Eppendorfer Baum / Isestra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.497000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "5acf99c3b48f7b747e960789b5ec044f", 
+        "latitude": 53.553676, 
+        "longitude": 10.004553, 
+        "name": "2536 Hauptbahnhof West / Glockengie\u00dfer Wall", 
+        "timestamp": "2017-02-22T13:14:10.499000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "1b97c6a23724ac49c8e69476590bbaee", 
+        "latitude": 53.549672, 
+        "longitude": 9.986594, 
+        "name": "2521 Stadthausbr\u00fccke / Neuer Wall", 
+        "timestamp": "2017-02-22T13:14:10.503000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 11, 
+        "id": "cf42a01045d68d47c234c4062c12fd10", 
+        "latitude": 53.550722, 
+        "longitude": 9.99714, 
+        "name": "2636 M\u00f6nckebergstra\u00dfe / Rosenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.505000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "24dd6a71b830abf892c186fc12907287", 
+        "latitude": 53.5552, 
+        "longitude": 10.0082, 
+        "name": "2542 Lange Reihe / Kirchenallee", 
+        "timestamp": "2017-02-22T13:14:10.507000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "d48d0895bace89dbd8bc778a258a5f3f", 
+        "latitude": 53.554307, 
+        "longitude": 10.007652, 
+        "name": "2541 Hauptbahnhof Ost / Hachmannplatz", 
+        "timestamp": "2017-02-22T13:14:10.512000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 20, 
+        "id": "1512a30b1eb4501ba39a85159d1500e0", 
+        "latitude": 53.5677, 
+        "longitude": 10.0162, 
+        "name": "2321 Eduard-Rhein-Ufer / Schwanenwik", 
+        "timestamp": "2017-02-22T13:14:10.514000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 13, 
+        "id": "aec6f384ed0f2ea153bb9753b09c2160", 
+        "latitude": 53.581771, 
+        "longitude": 9.97172, 
+        "name": "2243 Eppendorfer Weg/Hoheluftchaussee", 
+        "timestamp": "2017-02-22T13:14:10.516000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "6287656cfdf6932a05f20cd4111c84a8", 
+        "latitude": 53.577579, 
+        "longitude": 9.963063, 
+        "name": "2242 Goebenstra\u00dfe/Eppendorfer Weg", 
+        "timestamp": "2017-02-22T13:14:10.518000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 26, 
+        "id": "ff93dd156c1aff006a31e27a0ac50ee9", 
+        "latitude": 53.5599, 
+        "longitude": 10.0149, 
+        "name": "2544 Lange Reihe / Lohm\u00fchlenpark", 
+        "timestamp": "2017-02-22T13:14:10.520000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 15, 
+        "id": "33e3428964aaaa9ed236c2632f3995e6", 
+        "latitude": 53.5483, 
+        "longitude": 9.98695, 
+        "name": "2632 R\u00f6dingsmarkt / Gro\u00dfer Burstah", 
+        "timestamp": "2017-02-22T13:14:10.523000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "6025d79efc913e7328e160f15e4c88a0", 
+        "latitude": 53.551, 
+        "longitude": 9.97033, 
+        "name": "2612 Millerntorplatz/St.Pauli", 
+        "timestamp": "2017-02-22T13:14:10.537000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "131311f89f105949bd2d8f69c6cf21cc", 
+        "latitude": 53.5503, 
+        "longitude": 10.0015, 
+        "name": "2637 Jacobikirche / Steinstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.539000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "2f8490f9a08013194a83e42e272a9e03", 
+        "latitude": 53.5516, 
+        "longitude": 10.0054, 
+        "name": "2639 M\u00f6nckebergstra\u00dfe / Steintorwall", 
+        "timestamp": "2017-02-22T13:14:10.541000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "56a176842d4ed8eba246dffa17744234", 
+        "latitude": 53.548703, 
+        "longitude": 9.997126, 
+        "name": "2635 Schopenstehl/Alter Fischmarkt", 
+        "timestamp": "2017-02-22T13:14:10.543000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "528a9f36a10a005733a5263e7af36440", 
+        "latitude": 53.5542, 
+        "longitude": 9.96246, 
+        "name": "2613 Paulinenplatz/Wohlwillstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.545000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "52ffd47bd666ff560941c92170bd8aee", 
+        "latitude": 53.547975, 
+        "longitude": 9.97942, 
+        "name": "2622 Michaeliskirche / Krayenkamp", 
+        "timestamp": "2017-02-22T13:14:10.546000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "43bcc690e45e60db03d14be0d4e5adc8", 
+        "latitude": 53.547486, 
+        "longitude": 9.994057, 
+        "name": "2633 Domstra\u00dfe/Willy-Brandt-Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.549000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 23, 
+        "id": "c9d8b6cff333951423322e846befdf6c", 
+        "latitude": 53.578035, 
+        "longitude": 10.013995, 
+        "name": "2324 Hofweg/Am Langenzug", 
+        "timestamp": "2017-02-22T13:14:10.554000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 15, 
+        "id": "69e6a672e91ab8b833a86a1d3b621847", 
+        "latitude": 53.5662, 
+        "longitude": 9.9534, 
+        "name": "2135 Eimsb\u00fctteler Stra\u00dfe/Waterloostra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.558000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "b3b7ece603465b514aa472a5645d61bd", 
+        "latitude": 53.554216, 
+        "longitude": 10.013306, 
+        "name": "2644 Steindamm / Stralsunder Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.561000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "ccfb70b1a7e8636e8a28d0df7fdbcba4", 
+        "latitude": 53.547805, 
+        "longitude": 9.998774, 
+        "name": "2634 Me\u00dfberg / Willy-Brandt-Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.563000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "12aba6eda6875fbae20eefd0a8e03209", 
+        "latitude": 53.57169, 
+        "longitude": 9.953138, 
+        "name": "2224 Emilienstra\u00dfe/Fruchtallee", 
+        "timestamp": "2017-02-22T13:14:10.564000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "b62bc2667f1f7ab004b0448ade6960d0", 
+        "latitude": 53.550332, 
+        "longitude": 10.008849, 
+        "name": "2641 Zentralbibliothek / M\u00fcnzstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.566000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 9, 
+        "id": "6e5d94faf12a4df2e98dcad8c054df37", 
+        "latitude": 53.548562, 
+        "longitude": 10.005325, 
+        "name": "2638 Steinstra\u00dfe / Deichtorplatz", 
+        "timestamp": "2017-02-22T13:14:10.568000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "3612518eb321b8577d3b4568daf9c2fe", 
+        "latitude": 53.560781, 
+        "longitude": 10.022148, 
+        "name": "2311 Alsterschwimmhalle/Ifflandstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.570000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 11, 
+        "id": "48ce5de3d44718ecfa33fa87bb1c8a83", 
+        "latitude": 53.575308, 
+        "longitude": 10.02045, 
+        "name": "2326 Winterhuder Weg/ Zimmerstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.572000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "e48eecfb1f83220bed898ea0256263d4", 
+        "latitude": 53.5572, 
+        "longitude": 10.0199, 
+        "name": "2646 Lohm\u00fchlenstra\u00dfe / Steindamm", 
+        "timestamp": "2017-02-22T13:14:10.574000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 39, 
+        "id": "e6dc3faa7c450f36a7e2290838a66328", 
+        "latitude": 53.5838, 
+        "longitude": 10.01, 
+        "name": "2363 Goldbekplatz / Semperstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.576000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "d65f0af58327359686dc1e91d98fbd3f", 
+        "latitude": 53.588516, 
+        "longitude": 9.991125, 
+        "name": "2371 Kellinghusenstra\u00dfe / Loogeplatz", 
+        "timestamp": "2017-02-22T13:14:10.578000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "7ddfeb43bfaab0b0168210e3a7e53cfa", 
+        "latitude": 53.569769, 
+        "longitude": 9.94977, 
+        "name": "2136 Sophienallee / Sandweg", 
+        "timestamp": "2017-02-22T13:14:10.580000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 16, 
+        "id": "a37673af8f6736a4bd3d672de53fb0f8", 
+        "latitude": 53.544279, 
+        "longitude": 9.980896, 
+        "name": "2631 U-Bahn Baumwall", 
+        "timestamp": "2017-02-22T13:14:10.581000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 26, 
+        "id": "fe6ae7eac20172dfa430fa563df88f21", 
+        "latitude": 53.5457, 
+        "longitude": 9.9723, 
+        "name": "2621 Landungsbr\u00fccke/Hafentor", 
+        "timestamp": "2017-02-22T13:14:10.583000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 10, 
+        "id": "4bac2b7afcd614407f6d5c7be69dab8e", 
+        "latitude": 53.5517, 
+        "longitude": 10.016, 
+        "name": "2643 Kurt-Schumacher-Allee / Nagelsweg", 
+        "timestamp": "2017-02-22T13:14:10.587000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 15, 
+        "id": "b71b90d4b8fcce0c4310e4227e3a72f5", 
+        "latitude": 53.543731, 
+        "longitude": 9.98971, 
+        "name": "2672 Auf dem Sande/Kehrwieder-MiniaturWunderland", 
+        "timestamp": "2017-02-22T13:14:10.589000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 16, 
+        "id": "08745804fe09984f6fcca55bd8d56de1", 
+        "latitude": 53.577796, 
+        "longitude": 9.953073, 
+        "name": "2225 Heu\u00dfweg/Wiesenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.592000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "f0fe10deb7dd76bb0c971b2c1713a4e0", 
+        "latitude": 53.54732, 
+        "longitude": 9.965669, 
+        "name": "2611 Bernhard-Nocht-Stra\u00dfe/Zirkusweg", 
+        "timestamp": "2017-02-22T13:14:10.594000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "a00c2f16dcf75b5e55a213ec7063cf5d", 
+        "latitude": 53.563037, 
+        "longitude": 9.948345, 
+        "name": "2134 Alsenstra\u00dfe/D\u00fcppelstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.596000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 21, 
+        "id": "fb89afe2306496a9765c5b6e35a76ca1", 
+        "latitude": 53.588918, 
+        "longitude": 9.975715, 
+        "name": "2373 Martinistra\u00dfe / Haupteingang Klinikum", 
+        "timestamp": "2017-02-22T13:14:10.598000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 9, 
+        "id": "60cd440ebb672b04b9a0f71f4c66350c", 
+        "latitude": 53.590237, 
+        "longitude": 9.98673, 
+        "name": "2372 K\u00fcmmellstra\u00dfe / Robert-Koch-Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.600000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "ee8771a65f2ef7614899ae38ca92f7dc", 
+        "latitude": 53.565, 
+        "longitude": 10.0267, 
+        "name": "2315 Uhlandstra\u00dfe / Eingang Nord", 
+        "timestamp": "2017-02-22T13:14:10.602000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "76ddba26f46bf82833535626aea73edd", 
+        "latitude": 53.582793, 
+        "longitude": 9.957594, 
+        "name": "2227 Troplowitzstra\u00dfe / Beiersdorf  / NXP", 
+        "timestamp": "2017-02-22T13:14:10.605000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "33cebe833286b941af810fe30ea09560", 
+        "latitude": 53.5696, 
+        "longitude": 10.0271, 
+        "name": "2323 Mundsburg / Sch\u00fcrbeker Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.615000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "d1af504de78f72136ec8a2cd241e7152", 
+        "latitude": 53.547868, 
+        "longitude": 10.012361, 
+        "name": "2642 Amsinckstra\u00dfe/ Nordkanalbr\u00fccke", 
+        "timestamp": "2017-02-22T13:14:10.616000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 23, 
+        "id": "8181267e63cd0a7820d5a5d1ffbc6391", 
+        "latitude": 53.541838, 
+        "longitude": 9.992856, 
+        "name": "2673 Am Kaiserkai/Gro\u00dfer Grasbrook", 
+        "timestamp": "2017-02-22T13:14:10.619000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "7e503dc5cb4b1d377a9796fda192f1e6", 
+        "latitude": 53.549501, 
+        "longitude": 9.954934, 
+        "name": "2111 Reeperbahn / K\u00f6nigstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.620000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "54492b92f6396d7383420e9dc97adbe2", 
+        "latitude": 53.5597, 
+        "longitude": 10.0285, 
+        "name": "2312 L\u00fcbecker Stra\u00dfe / Marienkrankenhaus", 
+        "timestamp": "2017-02-22T13:14:10.622000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "2d4c520df3e0db245678e268af7c264e", 
+        "latitude": 53.5533, 
+        "longitude": 10.0246, 
+        "name": "2645 Berliner Tor / Berlinertordamm", 
+        "timestamp": "2017-02-22T13:14:10.623000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 9, 
+        "id": "24d5ef1c56859370e842050a84ef5efd", 
+        "latitude": 53.541583, 
+        "longitude": 9.999731, 
+        "name": "2674 Osakaallee/\u00dcbersee Quartier", 
+        "timestamp": "2017-02-22T13:14:10.626000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "0a558a2ae2f2ad4577c461fd1033bc18", 
+        "latitude": 53.567, 
+        "longitude": 10.0318, 
+        "name": "2322 Lerchenfeld / Uferstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.627000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "55807c0456f7057520116d6eeaa7c1d0", 
+        "latitude": 53.575573, 
+        "longitude": 9.944487, 
+        "name": "2220 Lappenbergsallee / Bei der Apostelkirche", 
+        "timestamp": "2017-02-22T13:14:10.631000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 30, 
+        "id": "30e5666b98c7a8cfb8c1d7c1ec686cfb", 
+        "latitude": 53.584, 
+        "longitude": 10.0211, 
+        "name": "2364 Jarrestra\u00dfe / Rambatzweg", 
+        "timestamp": "2017-02-22T13:14:10.633000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 10, 
+        "id": "c1982ebae5d8a389769721ff04352691", 
+        "latitude": 53.575652, 
+        "longitude": 10.02957, 
+        "name": "2333 Bartholom\u00e4usstra\u00dfe/Beim Alten Sch\u00fctzenhof", 
+        "timestamp": "2017-02-22T13:14:10.634000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "e1701361b8f713e9ac8179d09f046930", 
+        "latitude": 53.540282, 
+        "longitude": 9.997945, 
+        "name": "2675 Grasbrookpark/\u00dcberseequartier", 
+        "timestamp": "2017-02-22T13:14:10.636000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "5345f9eeb4d09aff755e81a3b2f39793", 
+        "latitude": 53.53958, 
+        "longitude": 9.99365, 
+        "name": "2671 Unilever/Strandkai", 
+        "timestamp": "2017-02-22T13:14:10.647000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "6103641964d780a24293685f7d226c22", 
+        "latitude": 53.58006, 
+        "longitude": 9.946786, 
+        "name": "2226 Methfesselstra\u00dfe/Luruper Weg", 
+        "timestamp": "2017-02-22T13:14:10.648000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 22, 
+        "id": "7f43be1344d820ae2a2ca6e3a11cace7", 
+        "latitude": 53.5943, 
+        "longitude": 9.99575, 
+        "name": "2369 Hudtwalckerstra\u00dfe / Bebelallee", 
+        "timestamp": "2017-02-22T13:14:10.650000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 17, 
+        "id": "a3fcf311d647f448be9a663123f59f3a", 
+        "latitude": 53.5636, 
+        "longitude": 10.0341, 
+        "name": "2314 Wartenau / L\u00fcbecker Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.651000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "fc61f70ccd04381068dbb00e81611021", 
+        "latitude": 53.594, 
+        "longitude": 9.973, 
+        "name": "2374 S\u00fcderfeldstra\u00dfe/Universit\u00e4tsklinikum Eppendorf", 
+        "timestamp": "2017-02-22T13:14:10.657000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 13, 
+        "id": "f98a335dd638b6785228262a545a26ed", 
+        "latitude": 53.5512, 
+        "longitude": 9.94576, 
+        "name": "2115 Gro\u00dfe Bergstra\u00dfe / Jessenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.660000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "b7854841f015b74ab52caee9317975cf", 
+        "latitude": 53.5462, 
+        "longitude": 9.95088, 
+        "name": "2112 Fischmarkt/Breite Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.662000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "9c420175489868ad41c226863ed7f023", 
+        "latitude": 53.552123, 
+        "longitude": 10.030364, 
+        "name": "2551 Eiffestrasse/Normannenweg", 
+        "timestamp": "2017-02-22T13:14:10.668000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "87d47f68079974914c25350b140f0bcf", 
+        "latitude": 53.546011, 
+        "longitude": 10.024042, 
+        "name": "2651 Hammerbrook / Sachsenfeld", 
+        "timestamp": "2017-02-22T13:14:10.671000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 11, 
+        "id": "c9202efef20038cffbf1adc03950dd92", 
+        "latitude": 53.561109, 
+        "longitude": 10.037022, 
+        "name": "2313 Landwehr / Ramazan-Avci-Platz", 
+        "timestamp": "2017-02-22T13:14:10.675000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 10, 
+        "id": "4c721b4d444c1cd60683883f93d170c5", 
+        "latitude": 53.592022, 
+        "longitude": 10.015021, 
+        "name": "2367 Borgweg/Stadtpark", 
+        "timestamp": "2017-02-22T13:14:10.676000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "91c7e7cbdc0002dd19808a11bccb5258", 
+        "latitude": 53.574518, 
+        "longitude": 10.036608, 
+        "name": "2332 Holsteinischer Kamp/ Wagnerstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.680000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 10, 
+        "id": "2d146d12948aa099f7ab1315f1c1554b", 
+        "latitude": 53.571078, 
+        "longitude": 10.039741, 
+        "name": "2331 Uferstra\u00dfe/Wagnerstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.688000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "045aac3607a291517a059ba104d2a863", 
+        "latitude": 53.5471, 
+        "longitude": 9.94241, 
+        "name": "2113 K\u00f6nigstra\u00dfe / Struenseestra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.695000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 35, 
+        "id": "18887012011a9a5bac48351dab9f8666", 
+        "latitude": 53.599203, 
+        "longitude": 9.994017, 
+        "name": "2383 Bebelallee/Meenkwiese", 
+        "timestamp": "2017-02-22T13:14:10.698000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2acd685625bc6149af97eec04f289a10", 
+        "latitude": 53.584582, 
+        "longitude": 10.03369, 
+        "name": "2336 Schleidenstra\u00dfe/Osterbekstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.703000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "ee053b94e23bf6db2e509769daf75599", 
+        "latitude": 53.59595, 
+        "longitude": 10.01365, 
+        "name": "2381 Planetarium/Hindenburgstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.705000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "214239d1e0210bc3e0707f97431e366e", 
+        "latitude": 53.59285, 
+        "longitude": 9.952055, 
+        "name": "2250 Emil-Andresen-Stra\u00dfe / Lohkoppelweg", 
+        "timestamp": "2017-02-22T13:14:10.713000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "7516c861d39034ff0490fbdbe5630b89", 
+        "latitude": 53.552121, 
+        "longitude": 9.936005, 
+        "name": "2121 Bahnhof Altona Ost/Max-Brauer-Allee", 
+        "timestamp": "2017-02-22T13:14:10.715000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 36, 
+        "id": "aa627f0934e83e8883883f4d2b361a34", 
+        "latitude": 53.555693, 
+        "longitude": 10.041298, 
+        "name": "2561 Burgstra\u00dfe/Hammer Landstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.717000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 20, 
+        "id": "6307c393fe842da0c74fcbd50bcc74e4", 
+        "latitude": 53.567126, 
+        "longitude": 10.044484, 
+        "name": "2411 Wandsbeker Chaussee/Ritterstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.721000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 13, 
+        "id": "21faac5b5193f4eaf67bcacefbb3f0d1", 
+        "latitude": 53.5518, 
+        "longitude": 9.93387, 
+        "name": "2122 Bahnhof Altona West / Busbahnhof", 
+        "timestamp": "2017-02-22T13:14:10.725000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 15, 
+        "id": "4c0be7cee1c58aa04e3fe31008293946", 
+        "latitude": 53.579981, 
+        "longitude": 10.041461, 
+        "name": "2335 Dehnhaide/Barmbeker Markt", 
+        "timestamp": "2017-02-22T13:14:10.736000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 14, 
+        "id": "fa57096bad45ae55dfd76e70ae21b0ee", 
+        "latitude": 53.591446, 
+        "longitude": 10.030327, 
+        "name": "2366 S\u00fcdring/Stadthallenbr\u00fccke", 
+        "timestamp": "2017-02-22T13:14:10.738000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "6ee8ea22b0c3a6dc96495fb50faaf425", 
+        "latitude": 53.556897, 
+        "longitude": 9.927945, 
+        "name": "2126 Bahrenfelder Stra\u00dfe/V\u00f6lckersstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.751000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "83d22c97f4b3769b25f87f8bb6e1a6fd", 
+        "latitude": 53.552339, 
+        "longitude": 9.930344, 
+        "name": "2127 Gro\u00dfe Rainstra\u00dfe/Ottenser Hauptstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.753000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "5cbfe0c7be65ff8b82ae4f2be5399f5a", 
+        "latitude": 53.544979, 
+        "longitude": 10.03685, 
+        "name": "2680 Bullerdeich/Stadtreinigung Hamburg", 
+        "timestamp": "2017-02-22T13:14:10.756000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "a408f9478899aeb6697122dd688ba930", 
+        "latitude": 53.593587, 
+        "longitude": 9.943525, 
+        "name": "2251 Koppelstra\u00dfe/Lokstedter Grenzstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.758000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 15, 
+        "id": "3c7f282931c70f1e1caae1597da29d4a", 
+        "latitude": 53.573588, 
+        "longitude": 10.049568, 
+        "name": "2337 Lortzingstra\u00dfe/Friedrichsberger Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.760000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "e4b91a2f406c563314e1b660df52bc53", 
+        "latitude": 53.586958, 
+        "longitude": 10.042993, 
+        "name": "2351 Wiesendamm/Roggenkamp", 
+        "timestamp": "2017-02-22T13:14:10.765000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "09f379d3b05118be554532c151144d61", 
+        "latitude": 53.560835, 
+        "longitude": 10.052589, 
+        "name": "2414 Sievekingsallee/Sievekingdamm", 
+        "timestamp": "2017-02-22T13:14:10.767000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "c65a5a9b02e612193b86505a45a3fe31", 
+        "latitude": 53.550816, 
+        "longitude": 9.925653, 
+        "name": "2124 Eulenstra\u00dfe/Gro\u00dfe Brunnenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.771000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 25, 
+        "id": "63c62ee398073609b112693be58d5340", 
+        "latitude": 53.564805, 
+        "longitude": 10.054679, 
+        "name": "2412 Hasselbrookstra\u00dfe/Papenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.774000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "81265561d6e44fc50f60d7c78bd84d7c", 
+        "latitude": 53.550966, 
+        "longitude": 9.92226, 
+        "name": "2125 Fischersallee/Bleickenallee", 
+        "timestamp": "2017-02-22T13:14:10.778000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 9, 
+        "id": "c3aae2e01d611e9edde38235ecf42360", 
+        "latitude": 53.601619, 
+        "longitude": 10.024745, 
+        "name": "2382 \u00dcberseering/Mexikoring", 
+        "timestamp": "2017-02-22T13:14:10.780000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 10, 
+        "id": "37a0ccb01adc5028c9e0414cee0024c5", 
+        "latitude": 53.556699, 
+        "longitude": 10.055075, 
+        "name": "2562 Bei der Hammer Kirche/Hammerpark", 
+        "timestamp": "2017-02-22T13:14:10.783000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "191e510f211426feacd0cd1eb7adebbd", 
+        "latitude": 53.55671, 
+        "longitude": 9.918508, 
+        "name": "2129 Hohenzollernring/Friedensallee", 
+        "timestamp": "2017-02-22T13:14:10.785000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 10, 
+        "id": "5a36842396fd6bcbc21da607af084af4", 
+        "latitude": 53.59146, 
+        "longitude": 10.044508, 
+        "name": "2352 Fuhlsb\u00fcttler Stra\u00dfe/Hellbrookstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.787000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 19, 
+        "id": "3368cd4065c18c3d192b7bcd3398f482", 
+        "latitude": 53.540103, 
+        "longitude": 10.04287, 
+        "name": "2681 Billstra\u00dfe/Billhorner Deich", 
+        "timestamp": "2017-02-22T13:14:10.790000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "4de44d7db144c2039aa039ffa4a50242", 
+        "latitude": 53.57047, 
+        "longitude": 10.059528, 
+        "name": "2413 Wandsbeker Chaussee/ B\u00f6rnestra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.791000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "84085bea1c00cbee5d2cb0f0572091b7", 
+        "latitude": 53.576238, 
+        "longitude": 10.058237, 
+        "name": "2341 Krausestra\u00dfe/Eilbektal", 
+        "timestamp": "2017-02-22T13:14:10.793000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "ebb4e86539ab03221e94d2d376143e91", 
+        "latitude": 53.534288, 
+        "longitude": 10.038938, 
+        "name": "2682 Rothenburgsort/Marktplatz/Lindleystra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.795000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 15, 
+        "id": "a7fe15d007204e2d85ebd9cf225905cc", 
+        "latitude": 53.546932, 
+        "longitude": 10.057613, 
+        "name": "2686 Osterbrookplatz/ S\u00fcderstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.801000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "3e5f41117d6b4d879621014df7c87246", 
+        "latitude": 53.56026, 
+        "longitude": 9.908946, 
+        "name": "2090 Friedensallee/Hegarstra\u00dfe ( S Bahn Bahrenfeld )", 
+        "timestamp": "2017-02-22T13:14:10.821000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "9afaa031119f31038cc0ca9cc021586c", 
+        "latitude": 53.522794, 
+        "longitude": 10.01481, 
+        "name": "2691 Wilhelmsburger Platz/Zur Schleuse", 
+        "timestamp": "2017-02-22T13:14:10.822000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "774f1c5593c9459e8dbd556de7c48ffd", 
+        "latitude": 53.601, 
+        "longitude": 10.041, 
+        "name": "2391 Fuhlsb\u00fcttler Stra\u00dfe/Hartzloh", 
+        "timestamp": "2017-02-22T13:14:10.823000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 9, 
+        "id": "5db7c49075fc1f981a4b23c5475ecd54", 
+        "latitude": 53.544302, 
+        "longitude": 9.914731, 
+        "name": "2151 Neum\u00fchlen/\u00d6velg\u00f6nne", 
+        "timestamp": "2017-02-22T13:14:10.829000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 21, 
+        "id": "1220f07d2485e3ef215ae0475fd4acaf", 
+        "latitude": 53.571664, 
+        "longitude": 10.068644, 
+        "name": "2431 Schlo\u00dfstrasse/Schlo\u00dfgarten", 
+        "timestamp": "2017-02-22T13:14:10.831000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 19, 
+        "id": "626e5426d0c11ae3dad804f4215ab433", 
+        "latitude": 53.555503, 
+        "longitude": 10.066926, 
+        "name": "2563 Horner Weg/Morahtstieg", 
+        "timestamp": "2017-02-22T13:14:10.836000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "25782904c8c996002598208e4b10cd88", 
+        "latitude": 53.572433, 
+        "longitude": 10.068955, 
+        "name": "2432 Wandsbeker Marktstra\u00dfe/Wandsbeker Marktplatz", 
+        "timestamp": "2017-02-22T13:14:10.837000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 23, 
+        "id": "35d9e7cb0e08d6673b347c418acb2004", 
+        "latitude": 53.584919, 
+        "longitude": 10.079638, 
+        "name": "2435 Friedrich-Ebert-Damm / Lomerstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.851000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 17, 
+        "id": "74e8a8bf63a372f3ab36b00dbe9a6acb", 
+        "latitude": 53.560395, 
+        "longitude": 9.887159, 
+        "name": "2085 D\u00fcrerstra\u00dfe/Beslerplatz- S Bahn Othmarschen", 
+        "timestamp": "2017-02-22T13:14:10.853000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 13, 
+        "id": "4e206d834fd89e66d9e861e9c3b67fd2", 
+        "latitude": 53.554193, 
+        "longitude": 10.085077, 
+        "name": "2566 Horner Rennbahn/ Meurer Weg", 
+        "timestamp": "2017-02-22T13:14:10.854000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "7504945e9d5b774309d488a48152ec93", 
+        "latitude": 53.60026, 
+        "longitude": 10.070397, 
+        "name": "2433 OTTO Group / Wandsbeker Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.860000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "5c52b969c0ed8e6bb0a914c9798734c7", 
+        "latitude": 53.499748, 
+        "longitude": 9.99647, 
+        "name": "2712 Barkassenanleger/Mengestra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.863000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 16, 
+        "id": "53be9650d90d696850b60e4f4fb4f42d", 
+        "latitude": 53.611878, 
+        "longitude": 10.075913, 
+        "name": "2438 Herthastra\u00dfe / Einkaufszentrum Bramfeld", 
+        "timestamp": "2017-02-22T13:14:10.866000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "fa2e7508611ccd8861904c307679b613", 
+        "latitude": 53.497933, 
+        "longitude": 10.007016, 
+        "name": "2714 Berta-Kr\u00f6ger-Platz/Wilhelm-Strau\u00df-Weg", 
+        "timestamp": "2017-02-22T13:14:10.867000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "424518dc416ca19c415f10f35831719b", 
+        "latitude": 53.497232, 
+        "longitude": 10.003843, 
+        "name": "2713 Neunenfelder Stra\u00dfe/ Kurt-Emmerich-Platz", 
+        "timestamp": "2017-02-22T13:14:10.868000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 9, 
+        "id": "d2189e0b79e9b210b1192eecc4695000", 
+        "latitude": 53.4665, 
+        "longitude": 9.984148, 
+        "name": "2801 Kanalplatz/Harburger Schlossstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.882000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "17c804e4f0c65a8c91f37c1d3f8ffe6b", 
+        "latitude": 53.465276, 
+        "longitude": 9.963537, 
+        "name": "2814 Alter Postweg / Heimfelder Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.884000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "dafb1c443eb88d15faf3618c76dc95c6", 
+        "latitude": 53.464282, 
+        "longitude": 9.986136, 
+        "name": "2802 Schellerdamm/Hausnummer22", 
+        "timestamp": "2017-02-22T13:14:10.885000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "ad21686fa49f9237c1451ee343246913", 
+        "latitude": 53.4606874, 
+        "longitude": 9.9775729, 
+        "name": "2812 Harburger Ring/Neue Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.887000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "23c8f4feb2b31353a42e657b2de0006c", 
+        "latitude": 53.460407, 
+        "longitude": 9.983319, 
+        "name": "2811 Herbert-Wehner-Platz/Gro\u00dfer Schippsee", 
+        "timestamp": "2017-02-22T13:14:10.888000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "dbc2767f4fa475b9b6bf860fcdb9deb8", 
+        "latitude": 53.460622, 
+        "longitude": 9.969487, 
+        "name": "2820 TU Harburg/Denickestra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.889000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 15, 
+        "id": "f0135617eb936dbf654e48d7f534e572", 
+        "latitude": 53.4599586, 
+        "longitude": 9.9804731, 
+        "name": "2813 Harburger Rathausstra\u00dfe/Deichhausweg", 
+        "timestamp": "2017-02-22T13:14:10.890000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "2c1b83243a1cb0d3f248b24e1a8ed5c3", 
+        "latitude": 53.457286, 
+        "longitude": 9.987994, 
+        "name": "2810 Moorstra\u00dfe/Bahnhof Harburg", 
+        "timestamp": "2017-02-22T13:14:10.891000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 13, 
+        "id": "05b8e56f74e0adf8f26989ea5b31a80d", 
+        "latitude": 53.459, 
+        "longitude": 9.951, 
+        "name": "2821 Ei\u00dfendorfer Pferdeweg/ Asklepios-Klinik Harburg", 
+        "timestamp": "2017-02-22T13:14:10.892000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 14, 
+        "id": "37d183fade680866798b4da433e38a7e", 
+        "latitude": 53.44896, 
+        "longitude": 9.990306, 
+        "name": "2840 Reeseberg/EBV-Anzengruberstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.893000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "6dc1790bf9b8d915d116a950d1ae0b70", 
+        "latitude": 53.447625, 
+        "longitude": 9.980675, 
+        "name": "2841 Gotthelfweg/Au\u00dfenm\u00fchlenteich", 
+        "timestamp": "2017-02-22T13:14:10.895000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "13b733c4e7da2e8e7debbe25d3210bbf", 
+        "latitude": 53.554433, 
+        "longitude": 9.900752, 
+        "name": "2075 Paul-Ehrlich-Stra\u00dfe/Asklepios Klinik Altona", 
+        "timestamp": "2017-02-22T13:14:10.844000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 11, 
+        "id": "8cdd2d2c45e1c1d3bd4a54cea03851a8", 
+        "latitude": 53.65429, 
+        "longitude": 9.98528, 
+        "name": "2950 Hugo-Kirchberg-Stra\u00dfe/Tesa", 
+        "timestamp": "2017-02-22T13:14:10.880000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 14, 
+        "id": "ca172570910d748875b94624fe536965", 
+        "latitude": 53.6487572, 
+        "longitude": 10.0163663, 
+        "name": "2399 Langenhorn Markt/Tangstedter Landstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.879000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "89326519f667f70ca272a89199c8beb3", 
+        "latitude": 53.5808087, 
+        "longitude": 10.0258479, 
+        "name": "2362 Weidestra\u00dfe /Johannes-Prassek-Park", 
+        "timestamp": "2017-02-22T13:14:10.638000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 17, 
+        "id": "a7a78e08b61cde396cbc52eda6e8cb9c", 
+        "latitude": 53.494, 
+        "longitude": 9.99, 
+        "name": "2720 Georg-Wilhelm-Stra\u00dfe/Mankiewicz", 
+        "timestamp": "2017-02-22T13:14:10.870000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 14, 
+        "id": "147c8d458a0448fb86dd8d368d1cf097", 
+        "latitude": 53.6408352, 
+        "longitude": 9.9500955, 
+        "name": "2035 Nordalbinger Weg/Paul-Sorge-Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.878000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "e43f0fd20ae841a12ddb49012fdab7cd", 
+        "latitude": 53.590248, 
+        "longitude": 9.919356, 
+        "name": "2218 Randstra\u00dfe/ Stellingen", 
+        "timestamp": "2017-02-22T13:14:10.816000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "a5a9309b206c48a13c6ef587c9331601", 
+        "latitude": 53.571629, 
+        "longitude": 9.862423, 
+        "name": "2031 Osdorfer Landstra\u00dfe/ Elbe-Einkaufszentrum", 
+        "timestamp": "2017-02-22T13:14:10.871000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 26, 
+        "id": "aacc8354efc9b4a55fee5178bb98fab1", 
+        "latitude": 53.600072, 
+        "longitude": 9.963929, 
+        "name": "2261 Siemersplatz/Kollaustra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.743000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "db16ff76e1c2dbe7585887eef68c091b", 
+        "latitude": 53.606177, 
+        "longitude": 10.012225, 
+        "name": "2377 Hindenburgstra\u00dfe/M\u00f6ringbogen", 
+        "timestamp": "2017-02-22T13:14:10.788000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "2cbd3caa7eebe403250067ca5db5dc39", 
+        "latitude": 53.558587, 
+        "longitude": 9.86216, 
+        "name": "2040 Ohnhorststra\u00dfe/Klein Flottbek", 
+        "timestamp": "2017-02-22T13:14:10.872000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "5dcd91b7e6b6dd73f3650e0bf8e1e0ae", 
+        "latitude": 53.588172, 
+        "longitude": 10.095665, 
+        "name": "2436 Friedrich-Ebert-Damm/Helbingtwiete", 
+        "timestamp": "2017-02-22T13:14:10.865000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "987fca7283749f29c6fc8d49387be793", 
+        "latitude": 53.59145, 
+        "longitude": 10.106858, 
+        "name": "2437 Charlie-Mills-Stra\u00dfe/Friedrich-Ebert-Damm", 
+        "timestamp": "2017-02-22T13:14:10.875000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 14, 
+        "id": "77af983de07e1889f2d5b8f09b0d8d32", 
+        "latitude": 53.606246, 
+        "longitude": 10.12021, 
+        "name": "2441 Rahlstedter Weg/Berner Heerweg", 
+        "timestamp": "2017-02-22T13:14:10.881000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "3afbcefca6ca2def82b4529ccf5d6253", 
+        "latitude": 53.610149, 
+        "longitude": 10.058096, 
+        "name": "2451 Gr\u00fcndgensstra\u00dfe/C\u00e9sar-Klein-Ring", 
+        "timestamp": "2017-02-22T13:14:10.861000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "5448b2ba19735d8c1ad5632ba8c2fa0e", 
+        "latitude": 53.490126, 
+        "longitude": 10.158515, 
+        "name": "2921 S Allerm\u00f6he/Walter-Rudolphi-Weg", 
+        "timestamp": "2017-02-22T13:14:10.896000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "dba7552120fcaca2a68a939a55111f6c", 
+        "latitude": 53.6234809, 
+        "longitude": 10.0122088, 
+        "name": "2396 R\u00f6ntgenstra\u00dfe/Philips", 
+        "timestamp": "2017-02-22T13:14:10.852000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 11, 
+        "id": "6d5d710544343675a0ea244cdd0192c8", 
+        "latitude": 53.540096, 
+        "longitude": 10.106106, 
+        "name": "2585 Billstedter Platz/\u00d6jendorfer Weg", 
+        "timestamp": "2017-02-22T13:14:10.876000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 15, 
+        "id": "8c772edcf7f6477023fa4410ae0ab3ad", 
+        "latitude": 53.490496, 
+        "longitude": 10.206105, 
+        "name": "2912 Bahnhof Bergedorf/Johann-Meyer-Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.900000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "242b5bf0e032094c0284bdac47f16979", 
+        "latitude": 53.494675, 
+        "longitude": 10.206894, 
+        "name": "2913 Lohbr\u00fcgger Markt/Ludwig-Rosenberg-Ring", 
+        "timestamp": "2017-02-22T13:14:10.899000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "5e51ffdeaa2aad5e789b6cda88c247bf", 
+        "latitude": 53.543906, 
+        "longitude": 9.94246, 
+        "name": "2117 Gro\u00dfe Elbstra\u00dfe/Van-der-Smissen-Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.727000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "e6963760575233d5f152bafdf95abde0", 
+        "latitude": 53.598017, 
+        "longitude": 10.101459, 
+        "name": "2440 Traberweg/Eckerkoppel", 
+        "timestamp": "2017-02-22T13:14:10.873000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 10, 
+        "id": "7080c6be1944d51fbcce82aa8edee6cd", 
+        "latitude": 53.583795, 
+        "longitude": 9.977916, 
+        "name": "2244 L\u00f6wenstra\u00dfe/Eppendorfer Weg", 
+        "timestamp": "2017-02-22T13:14:10.522000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "879ceb211d13edc3630df9f0a368857a", 
+        "latitude": 53.5512881, 
+        "longitude": 9.9129134, 
+        "name": "2128 Bleickenallee/Kinderkrankenhaus Altona", 
+        "timestamp": "2017-02-22T13:14:10.814000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "a6951aab48011ccba10fb533119c4268", 
+        "latitude": 53.5759831, 
+        "longitude": 9.9520709, 
+        "name": "2228 Osterstra\u00dfe/Heu\u00dfweg", 
+        "timestamp": "2017-02-22T13:14:10.585000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "0ccd582679b788b1cc724dfd4a16837f", 
+        "latitude": 53.552611, 
+        "longitude": 10.00415, 
+        "name": "2535 Kurze M\u00fchren/Spitalerstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.510000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "414c45f8bc0b242c85325e84bdac5be2", 
+        "latitude": 53.547905, 
+        "longitude": 9.934844, 
+        "name": "2114 Ottenser Marktplatz/Museumsstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.745000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "dfd9fba85bd6aaa4302a2cf12fb15cbe", 
+        "latitude": 53.5614, 
+        "longitude": 9.99043, 
+        "name": "2211 Bahnhof Dammtor Nord // Theodor-Heuss-Platz", 
+        "timestamp": "2017-02-22T13:14:10.453000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "0b3a2f06c2a71d2518c2f4236b71f70c", 
+        "latitude": 53.593726, 
+        "longitude": 10.0506397, 
+        "name": "2353 Habichtstra\u00dfe/Steilshooper Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.817000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "d2d16f849c28781398911b9ba283434d", 
+        "latitude": 53.540782, 
+        "longitude": 10.006168, 
+        "name": "2677 Versmannstra\u00dfe/Am Hannoverschen Bahnhof", 
+        "timestamp": "2017-02-22T13:14:10.653000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "dfeaf9a526b3f84bf02b2ca77c825b4c", 
+        "latitude": 53.6120909, 
+        "longitude": 10.0239462, 
+        "name": "2394 Alsterdorf Markt/Evangelische Stiftung", 
+        "timestamp": "2017-02-22T13:14:10.839000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "6c994a434ede359709e526063f0cb880", 
+        "latitude": 53.6190722, 
+        "longitude": 9.9513113, 
+        "name": "2030 Niendorf Markt/Tibarg", 
+        "timestamp": "2017-02-22T13:14:10.846000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "c1c75c3a9d1903c4ea58aceb73ea1a1a", 
+        "latitude": 53.580757, 
+        "longitude": 9.938418, 
+        "name": "2219 Langenfelder Damm/M\u00fcggenkampstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.692000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "8b9cf5a7f05616c0577d6128736a17be", 
+        "latitude": 53.4616513, 
+        "longitude": 10.0041327, 
+        "name": "2809 Neul\u00e4nder Kamp/Eurofins", 
+        "timestamp": "2017-02-22T13:14:10.886000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "09d3d6699ea9beb8888286be6cc02245", 
+        "latitude": 53.589185, 
+        "longitude": 9.964681, 
+        "name": "2229 Grandweg/Veilchenweg", 
+        "timestamp": "2017-02-22T13:14:10.624000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 14, 
+        "id": "2640370461fef9bbbb00e10e94bbbf11", 
+        "latitude": 53.547425, 
+        "longitude": 9.862013, 
+        "name": "2050 Elbchaussee/Teufelsbr\u00fcck", 
+        "timestamp": "2017-02-22T13:14:10.877000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 19, 
+        "id": "ffd046da96df7831c2917d1661c190b2", 
+        "latitude": 53.585813, 
+        "longitude": 10.06523, 
+        "name": "2429 Nordschleswiger Stra\u00dfe/Dulsberg-Nord", 
+        "timestamp": "2017-02-22T13:14:10.838000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "dbac4d473386ce41d9f9eacfb524e91d", 
+        "latitude": 53.609163, 
+        "longitude": 10.022685, 
+        "name": "2376 Djarkartaweg/Sengelmannstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.827000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "0580ed2881dde34a582cba0bd4aeb5e0", 
+        "latitude": 53.559893, 
+        "longitude": 10.061703, 
+        "name": "2564 Caspar-Voght-Stra\u00dfe/Sievekingsallee", 
+        "timestamp": "2017-02-22T13:14:10.796000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "999d69b788aea3d4f853fdf90a25eab8", 
+        "latitude": 53.559215, 
+        "longitude": 10.107447, 
+        "name": "2570 Manshardtstra\u00dfe/EKZ Manshardtstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.869000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "5cbb72378d1f75b558fda80f6e744e27", 
+        "latitude": 53.547643, 
+        "longitude": 10.095515, 
+        "name": "2580 Riedweg/Vierbergen", 
+        "timestamp": "2017-02-22T13:14:10.864000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "117c980ed6239d5d59266852dd1e36df", 
+        "latitude": 53.574537, 
+        "longitude": 9.878527, 
+        "name": "2070 DESY/Notkestra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.862000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "eac401480ff26414bfce22f626c5ad83", 
+        "latitude": 53.555827, 
+        "longitude": 9.950708, 
+        "name": "2119 Thadenstra\u00dfe/Holstenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.612000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "d66eb0ffb2b6a4cf130096921eb2988e", 
+        "latitude": 53.487427, 
+        "longitude": 10.22, 
+        "name": "2910 Wentorfer Stra\u00dfe/Bezirksamt Bergedorf", 
+        "timestamp": "2017-02-22T13:14:10.903000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 21, 
+        "id": "5b5ea54312a925b19ac7c0d251e4f479", 
+        "latitude": 53.488449, 
+        "longitude": 10.210913, 
+        "name": "2911 Vierlandenstra\u00dfe/Johann-Adolf-Hasse-Platz", 
+        "timestamp": "2017-02-22T13:14:10.902000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 14, 
+        "id": "e95aa466966cb5fbad3cdbfb66a5f0f0", 
+        "latitude": 53.488482, 
+        "longitude": 10.182199, 
+        "name": "2920 S Nettelnburg/Friedrich-Frank-Bogen", 
+        "timestamp": "2017-02-22T13:14:10.898000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "bc32fa861a7e002abf173625ad83cd61", 
+        "latitude": 53.5659729, 
+        "longitude": 9.9108696, 
+        "name": "2080 Bahrenfelder Chaussee/Von-Sauer-Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:14:10.797000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "73108a673d609fae75bd3c83bd75f0ef", 
+        "latitude": 53.5800038, 
+        "longitude": 10.033846, 
+        "name": "2334 Weidestra\u00dfe/Biedermannplatz", 
+        "timestamp": "2017-02-22T13:14:10.683000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "bfb8e98c9bcedec185765d556162d641", 
+        "latitude": 53.588735, 
+        "longitude": 10.03268, 
+        "name": "2365 Saarlandstra\u00dfe/Wiesendamm", 
+        "timestamp": "2017-02-22T13:14:10.730000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/goodbike", 
+    "id": "goodbike", 
+    "location": {
+      "city": "Padova", 
+      "country": "IT", 
+      "latitude": 45.4064349, 
+      "longitude": 11.8767611
+    }, 
+    "name": "GoodBike", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "02476f0db7ed1f646e26d5ebc968b31d", 
+        "latitude": 45.41690025087058, 
+        "longitude": 11.87646210193634, 
+        "name": "Sarpi", 
+        "timestamp": "2017-08-15T04:46:39.235000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "c9cdae0b6a8a92a9c15367ad718a8bf2", 
+        "latitude": 45.41406851207768, 
+        "longitude": 11.874284148216248, 
+        "name": "Mazzini", 
+        "timestamp": "2017-08-15T04:46:39.250000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "281b8ce4a9c7d58e4fc4bfd1862fa699", 
+        "latitude": 45.41301787074625, 
+        "longitude": 11.877320408821106, 
+        "name": "Giotto", 
+        "timestamp": "2017-08-15T04:46:39.251000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "04524e5a89b82a8e319c9e8b882fd395", 
+        "latitude": 45.4117252538335, 
+        "longitude": 11.882157772779465, 
+        "name": "Gasometro", 
+        "timestamp": "2017-08-15T04:46:39.257000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "a58be28017785fc66a1cc98efae3d17d", 
+        "latitude": 45.41022453838384, 
+        "longitude": 11.892544627189636, 
+        "name": "Venezia / Colombo", 
+        "timestamp": "2017-08-15T04:46:39.258000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "8987407baa2e5d4fbe197152408fbc3f", 
+        "latitude": 45.4085863216692, 
+        "longitude": 11.892351508140564, 
+        "name": "Marzolo", 
+        "timestamp": "2017-08-15T04:46:39.259000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "39b5f01a177a6ab25e801c9a5d4e3bd6", 
+        "latitude": 45.41005789437164, 
+        "longitude": 11.883006691932678, 
+        "name": "Morgagni", 
+        "timestamp": "2017-08-15T04:46:39.260000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "2f0f16902a332411ec3f1258d27ef0fd", 
+        "latitude": 45.408944097190876, 
+        "longitude": 11.878805682063103, 
+        "name": "Altinate", 
+        "timestamp": "2017-08-15T04:46:39.260000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "ff23cba87b2ac625f56cc0100f9517b3", 
+        "latitude": 45.40598861512061, 
+        "longitude": 11.872200071811676, 
+        "name": "Duomo", 
+        "timestamp": "2017-08-15T04:46:39.261000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "eb2bbb2e98cfa0b9344568aa814a2036", 
+        "latitude": 45.40601497881719, 
+        "longitude": 11.877886354923248, 
+        "name": "Antenore", 
+        "timestamp": "2017-08-15T04:46:39.262000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "8a7866f578f1b9ba942757ab56ebcc72", 
+        "latitude": 45.40204333755762, 
+        "longitude": 11.882164478302002, 
+        "name": "Cesarotti", 
+        "timestamp": "2017-08-15T04:46:39.264000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "80033cb9feed9258705142c0ec68a71e", 
+        "latitude": 45.405338934424535, 
+        "longitude": 11.864558458328247, 
+        "name": "Orsini", 
+        "timestamp": "2017-08-15T04:46:39.267000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "14bf88c44a0138b0f1aeb70717c4eec0", 
+        "latitude": 45.40211490113156, 
+        "longitude": 11.890736818313599, 
+        "name": "Gattamelata", 
+        "timestamp": "2017-08-15T04:46:39.271000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "f8d32dc2d2b4e31886f1c22721475314", 
+        "latitude": 45.40053483165556, 
+        "longitude": 11.884653568267822, 
+        "name": "Pontecorvo", 
+        "timestamp": "2017-08-15T04:46:39.274000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "9d972537b9365362aa11bc952f2270f9", 
+        "latitude": 45.417416124162756, 
+        "longitude": 11.87909334897995, 
+        "name": "Stazione", 
+        "timestamp": "2017-08-15T04:46:39.275000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "bd637dbf7989a373928449e943e1a4f9", 
+        "latitude": 45.40915028784376, 
+        "longitude": 11.901111602783203, 
+        "name": "Venezia 2", 
+        "timestamp": "2017-08-15T04:46:39.277000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "a9cb8a083265ae1aad2fd1b91f84a3b1", 
+        "latitude": 45.39815616936569, 
+        "longitude": 11.839179396629333, 
+        "name": "I Colli", 
+        "timestamp": "2017-08-15T04:46:39.279000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "ee567b8b7e50f75e8003699f18890a2c", 
+        "latitude": 45.39752711604011, 
+        "longitude": 11.87521755695343, 
+        "name": "Della Valle", 
+        "timestamp": "2017-08-15T04:46:39.285000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "e91ec75af39f4f29155bcbb0dafc976f", 
+        "latitude": 45.3676522072608, 
+        "longitude": 11.890591979026794, 
+        "name": "Park Bembo Est", 
+        "timestamp": "2017-08-15T04:46:39.286000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "e9b04bfd25f36e812cbf1b9e57c34c36", 
+        "latitude": 45.379673396367856, 
+        "longitude": 11.902737021446228, 
+        "name": "Piovese", 
+        "timestamp": "2017-08-15T04:46:39.289000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "868d34efa67c6709efaf02f4879df507", 
+        "latitude": 45.40544439034983, 
+        "longitude": 11.886549890041351, 
+        "name": "Falloppio", 
+        "timestamp": "2017-08-15T04:46:39.291000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "b669a0bbcb3c2695d558488857f9a972", 
+        "latitude": 45.41288606848259, 
+        "longitude": 11.891305446624756, 
+        "name": "Fiere", 
+        "timestamp": "2017-08-15T04:46:39.293000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "316a6c7e03c6dfbfc9a75e82b58a0396", 
+        "latitude": 45.40321470886614, 
+        "longitude": 11.875917613506317, 
+        "name": "Riviera Tito Livio", 
+        "timestamp": "2017-08-15T04:46:39.298000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "9a57254056bd03b933858e7a4d20da4f", 
+        "latitude": 45.414243617065935, 
+        "longitude": 11.887268722057343, 
+        "name": "Tribunale", 
+        "timestamp": "2017-08-15T04:46:39.301000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "b0cfdf2329765752595fa4adcda3fb94", 
+        "latitude": 45.416145259928946, 
+        "longitude": 11.882623136043549, 
+        "name": "Stazione 2", 
+        "timestamp": "2017-08-15T04:46:39.302000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "11826382661ad3d023f8241ade742346", 
+        "latitude": 45.39995665454696, 
+        "longitude": 11.91891074180603, 
+        "name": "La Fenice", 
+        "timestamp": "2017-08-15T04:46:39.303000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "f8aa180ec043c2d9bb42c58296fca813", 
+        "latitude": 45.39505980336278, 
+        "longitude": 11.88970685005188, 
+        "name": "Facciolati", 
+        "timestamp": "2017-08-15T04:46:39.305000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "4438a5acd4ab9c3943db7a52910613b6", 
+        "latitude": 45.399741955352006, 
+        "longitude": 11.891144514083862, 
+        "name": "Nazareth", 
+        "timestamp": "2017-08-15T04:46:39.306000Z"
+      }
+    ]
+  }
+}

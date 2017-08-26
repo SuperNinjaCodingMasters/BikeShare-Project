@@ -1,0 +1,83 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/brindisi", 
+    "id": "brindisi", 
+    "location": {
+      "city": "Brindisi", 
+      "country": "IT", 
+      "latitude": 40.637580319936106, 
+      "longitude": 17.940774547082572
+    }, 
+    "name": "BrindisiByBike", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Strada Provinciale San Vito", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "c1401da92dc81874146cf5290eef73fb", 
+        "latitude": 40.63960755909417, 
+        "longitude": 17.92655405581968, 
+        "name": "Cillarese", 
+        "timestamp": "2017-08-15T04:46:15.826000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Corso Umberto I/Via Bastioni Carlo V", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "87ced2d4782adc20f00238ffb16824ce", 
+        "latitude": 40.634407088626396, 
+        "longitude": 17.94001548193137, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:46:15.834000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Via Filomeno Consiglio fr. 14A", 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "5b7a972e772726b9bbe8e65567df6acb", 
+        "latitude": 40.63826750462809, 
+        "longitude": 17.945823509053753, 
+        "name": "Filomeno", 
+        "timestamp": "2017-08-15T04:46:15.836000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Piazza Vittorio Emanuele II", 
+          "status": "online"
+        }, 
+        "free_bikes": 17, 
+        "id": "c384a3a6d9dce0ec2e3cd8e038354103", 
+        "latitude": 40.63963056468349, 
+        "longitude": 17.948018326319925, 
+        "name": "Vittorio Emanuele", 
+        "timestamp": "2017-08-15T04:46:15.837000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Spalato fronte n.c.3", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "7d29077bf8e729413586492a802e464d", 
+        "latitude": 40.63119303304311, 
+        "longitude": 17.946278350123634, 
+        "name": "Spalato", 
+        "timestamp": "2017-08-15T04:46:15.839000Z"
+      }
+    ]
+  }
+}

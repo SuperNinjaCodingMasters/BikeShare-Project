@@ -1,0 +1,367 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/vrn-kaiserslautern", 
+    "id": "vrn-kaiserslautern", 
+    "location": {
+      "city": "Kaiserslautern", 
+      "country": "DE", 
+      "latitude": 49.4413, 
+      "longitude": 7.75566
+    }, 
+    "name": "VRN", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "43804"
+          ], 
+          "number": "2666", 
+          "uid": "3845882"
+        }, 
+        "free_bikes": 1, 
+        "id": "96f7e952e9b5f5713280ad5ae00c7298", 
+        "latitude": 49.446787489476, 
+        "longitude": 7.7586436271667, 
+        "name": "HS Kaiserslautern", 
+        "timestamp": "2017-08-15T04:50:36.847000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "2667", 
+          "uid": "3845924"
+        }, 
+        "free_bikes": 0, 
+        "id": "0b81d5eb71b74a29a051a60fc3b7e122", 
+        "latitude": 49.43534650622, 
+        "longitude": 7.7610898017883, 
+        "name": "SWK Kaiserslautern Versorgung", 
+        "timestamp": "2017-08-15T04:50:36.851000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "43786", 
+            "43770", 
+            "43758", 
+            "43756", 
+            "43725"
+          ], 
+          "number": "2650", 
+          "slots": 10, 
+          "uid": "2974665"
+        }, 
+        "free_bikes": 5, 
+        "id": "ec54edc3a0986f944e273e615546adfb", 
+        "latitude": 49.445702803478, 
+        "longitude": 7.7694797515869, 
+        "name": "Stadtmitte / Fruchthalle", 
+        "timestamp": "2017-08-15T04:50:36.789000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43787", 
+            "43773", 
+            "43743", 
+            "43734", 
+            "43733"
+          ], 
+          "number": "2651", 
+          "slots": 10, 
+          "uid": "2974674"
+        }, 
+        "free_bikes": 5, 
+        "id": "635c2d19fe628ba2c184015c09de5cd1", 
+        "latitude": 49.444084449212, 
+        "longitude": 7.772376537323, 
+        "name": "Stiftsplatz", 
+        "timestamp": "2017-08-15T04:50:36.807000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43772", 
+            "43768", 
+            "43766", 
+            "43755", 
+            "43752"
+          ], 
+          "number": "2652", 
+          "slots": 10, 
+          "uid": "2974701"
+        }, 
+        "free_bikes": 5, 
+        "id": "712b922a4a6c62f1522991e20c53ac99", 
+        "latitude": 49.443906566498, 
+        "longitude": 7.7657461166382, 
+        "name": "Richard-Wagner-Stra\u00dfe / K\u00f6nigstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:36.813000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "43788", 
+            "43783", 
+            "43774", 
+            "43769", 
+            "43735"
+          ], 
+          "number": "2653", 
+          "slots": 10, 
+          "uid": "2974719"
+        }, 
+        "free_bikes": 5, 
+        "id": "d4dacca947bd5e6eded95d750c98386c", 
+        "latitude": 49.447648943251, 
+        "longitude": 7.7827942371368, 
+        "name": "Friedenstr. / Hilgardring", 
+        "timestamp": "2017-08-15T04:50:36.815000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "43732", 
+            "43713", 
+            "43811"
+          ], 
+          "number": "2654", 
+          "slots": 14, 
+          "uid": "2974732"
+        }, 
+        "free_bikes": 3, 
+        "id": "fe2cae91d3694a142595bc17365c906a", 
+        "latitude": 49.4365186321, 
+        "longitude": 7.7690237760544, 
+        "name": "Hauptbahnhof ", 
+        "timestamp": "2017-08-15T04:50:36.820000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "43763", 
+            "43701", 
+            "43818"
+          ], 
+          "number": "2655", 
+          "slots": 14, 
+          "uid": "2974743"
+        }, 
+        "free_bikes": 3, 
+        "id": "3231685b27df65ce4974cfe28ac77f1f", 
+        "latitude": 49.434924394505, 
+        "longitude": 7.7689754962921, 
+        "name": "Hauptbahnhof / Zollamtstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:36.822000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43784", 
+            "43780", 
+            "43777", 
+            "43767", 
+            "43745"
+          ], 
+          "number": "2656", 
+          "slots": 10, 
+          "uid": "2974762"
+        }, 
+        "free_bikes": 5, 
+        "id": "a47695b4a4d71f01eb7b56ce6fdc6b44", 
+        "latitude": 49.442364889275, 
+        "longitude": 7.7772045135498, 
+        "name": "Hilde Mattauch-Platz", 
+        "timestamp": "2017-08-15T04:50:36.828000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43746", 
+            "43730", 
+            "43812", 
+            "43806", 
+            "43801"
+          ], 
+          "number": "2657", 
+          "slots": 6, 
+          "uid": "2974798"
+        }, 
+        "free_bikes": 5, 
+        "id": "ab6729a64c9749bc19b6aebac88a34d2", 
+        "latitude": 49.443052022894, 
+        "longitude": 7.7708637714386, 
+        "name": "Rummelstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:36.832000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43785", 
+            "43778", 
+            "43771", 
+            "43724", 
+            "43714"
+          ], 
+          "number": "2658", 
+          "slots": 10, 
+          "uid": "2974817"
+        }, 
+        "free_bikes": 5, 
+        "id": "e6bbaf81623a7c4a115138aa27c76fc2", 
+        "latitude": 49.443055510857, 
+        "longitude": 7.7591639757156, 
+        "name": "Pfaffplatz", 
+        "timestamp": "2017-08-15T04:50:36.833000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "43765", 
+            "43762", 
+            "43761", 
+            "43754", 
+            "43749"
+          ], 
+          "number": "2659", 
+          "slots": 10, 
+          "uid": "2974832"
+        }, 
+        "free_bikes": 5, 
+        "id": "cb570514b559adcc7a6bc399257767db", 
+        "latitude": 49.438036074889, 
+        "longitude": 7.7633965015411, 
+        "name": "Stadtpark", 
+        "timestamp": "2017-08-15T04:50:36.834000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "43782", 
+            "43776", 
+            "43760", 
+            "43751", 
+            "43740"
+          ], 
+          "number": "2660", 
+          "slots": 10, 
+          "uid": "2974868"
+        }, 
+        "free_bikes": 5, 
+        "id": "f5b621311ea4f7e9d24bfe47992bb438", 
+        "latitude": 49.44745712287, 
+        "longitude": 7.751117348671, 
+        "name": "Westbahnhof / Gartenschau", 
+        "timestamp": "2017-08-15T04:50:36.835000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43727", 
+            "43715", 
+            "43700", 
+            "43800"
+          ], 
+          "number": "2662", 
+          "slots": 6, 
+          "uid": "2974929"
+        }, 
+        "free_bikes": 4, 
+        "id": "59b56514385a73a6eca5c7f2e1eea84b", 
+        "latitude": 49.456346336991, 
+        "longitude": 7.8041017055511, 
+        "name": "Demando / PRE-Park", 
+        "timestamp": "2017-08-15T04:50:36.838000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "43719", 
+            "43710"
+          ], 
+          "number": "2664", 
+          "slots": 10, 
+          "uid": "3318163"
+        }, 
+        "free_bikes": 2, 
+        "id": "3dd5cac70fc7373e39440e562af627dd", 
+        "latitude": 49.442500921568, 
+        "longitude": 7.7914953231812, 
+        "name": "Volkspark", 
+        "timestamp": "2017-08-15T04:50:36.842000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "43775", 
+            "43744", 
+            "43802"
+          ], 
+          "number": "2668", 
+          "uid": "3560073"
+        }, 
+        "free_bikes": 3, 
+        "id": "54c3d42be0f1e95aaa1f7da5b81e4759", 
+        "latitude": 49.443382, 
+        "longitude": 7.793824, 
+        "name": "SWK Verkehrs AG (Betriebshof)", 
+        "timestamp": "2017-08-15T04:50:36.844000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "43747", 
+            "43815"
+          ], 
+          "number": "2663", 
+          "slots": 10, 
+          "uid": "2974947"
+        }, 
+        "free_bikes": 2, 
+        "id": "9194b9fce4c0d57495887bb1bf39b434", 
+        "latitude": 49.425678888062, 
+        "longitude": 7.7463215589523, 
+        "name": "Davenportplatz", 
+        "timestamp": "2017-08-15T04:50:36.841000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "43757", 
+            "43794", 
+            "43792", 
+            "43790"
+          ], 
+          "number": "2661", 
+          "uid": "2974903"
+        }, 
+        "free_bikes": 4, 
+        "id": "4413956f6245af04b59f7b3444e7b3cf", 
+        "latitude": 49.430751921306, 
+        "longitude": 7.7529144287109, 
+        "name": "Trippstadter Stra\u00dfe / Institute ", 
+        "timestamp": "2017-08-15T04:50:36.837000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "network": {
+    "company": [
+      "Cyclopolis Systems"
+    ], 
+    "href": "/v2/networks/cyclopolis-maroussi", 
+    "id": "cyclopolis-maroussi", 
+    "location": {
+      "city": "Maroussi", 
+      "country": "GR", 
+      "latitude": 38.0568722388, 
+      "longitude": 23.8083299536
+    }, 
+    "name": "Cyclopolis", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "2b495ede36cfc0cf52d6ebcb372470a6", 
+        "latitude": 38.0568722388136, 
+        "longitude": 23.8083299535566, 
+        "name": "IROON SQUARE", 
+        "timestamp": "2017-08-15T04:49:33.825000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 14
+        }, 
+        "free_bikes": 0, 
+        "id": "578e3c46d7dc953a4cf73da64916ca59", 
+        "latitude": 38.0540381014617, 
+        "longitude": 23.8107115449059, 
+        "name": "AGHIAS LAVRAS SQUARE", 
+        "timestamp": "2017-08-15T04:49:33.830000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "bd0ee8cd1628d966eb27da86b606e828", 
+        "latitude": 38.0472408, 
+        "longitude": 23.8049853, 
+        "name": "AGHIOU KONSTANTINOU", 
+        "timestamp": "2017-08-15T04:49:33.834000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "866b7874b0223245668c309d8e98de23", 
+        "latitude": 38.0524095, 
+        "longitude": 23.8086402, 
+        "name": "MAROUSSI TOWNHALL", 
+        "timestamp": "2017-08-15T04:49:33.838000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 24
+        }, 
+        "free_bikes": 0, 
+        "id": "9cb40305808cfafe5d5436729cc25b2f", 
+        "latitude": 38.0557816, 
+        "longitude": 23.8044946, 
+        "name": "ISAP MAROUSSI ", 
+        "timestamp": "2017-08-15T04:49:33.832000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "2ad427571435c598f61ef0f074f46a41", 
+        "latitude": 38.0448487, 
+        "longitude": 23.7934117, 
+        "name": "ISAP NERATZIOTISSA", 
+        "timestamp": "2017-08-15T04:49:33.833000Z"
+      }
+    ]
+  }
+}

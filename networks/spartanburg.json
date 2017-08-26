@@ -1,0 +1,99 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_spartanburg/gbfs.json", 
+    "href": "/v2/networks/spartanburg", 
+    "id": "spartanburg", 
+    "location": {
+      "city": "Spartanburg, SC", 
+      "country": "US", 
+      "latitude": 34.94867, 
+      "longitude": -81.93345
+    }, 
+    "name": "Spartanburg BCycle", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "50 S. Spring St.", 
+          "last_updated": 1502772332, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_spartanburg_1923"
+        }, 
+        "free_bikes": 7, 
+        "id": "9d21926455d978ebde7fe63165213925", 
+        "latitude": 34.94867, 
+        "longitude": -81.93345, 
+        "name": "Morgan Square", 
+        "timestamp": "2017-08-15T04:46:11.973000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "295 E. Henry St.", 
+          "last_updated": 1502772332, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_spartanburg_1924"
+        }, 
+        "free_bikes": 8, 
+        "id": "68b346809911b69c271f2f0dd6acf961", 
+        "latitude": 34.94747, 
+        "longitude": -81.92174, 
+        "name": "Rail Trail", 
+        "timestamp": "2017-08-15T04:46:11.955000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "160 Evins St.", 
+          "last_updated": 1502772332, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_spartanburg_2289"
+        }, 
+        "free_bikes": 4, 
+        "id": "91ad61517d5f272b79802a55a4728662", 
+        "latitude": 34.96023, 
+        "longitude": -81.93861, 
+        "name": "Wofford College", 
+        "timestamp": "2017-08-15T04:46:11.971000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "580 E. Main St.", 
+          "last_updated": 1502772332, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_spartanburg_2290"
+        }, 
+        "free_bikes": 8, 
+        "id": "50d83e4b97527f5854c34e63d3ddfdd8", 
+        "latitude": 34.95618, 
+        "longitude": -81.91928, 
+        "name": "Converse College", 
+        "timestamp": "2017-08-15T04:46:11.974000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "498 Howard St.", 
+          "last_updated": 1502772332, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_spartanburg_2754"
+        }, 
+        "free_bikes": 8, 
+        "id": "27f3d90b562526a5802910f9fc68f9c1", 
+        "latitude": 34.95624, 
+        "longitude": -81.94241, 
+        "name": "VCOM station at Harvest Park", 
+        "timestamp": "2017-08-15T04:46:11.972000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/cristolib", 
+    "id": "cristolib", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Cr\u00e9teil", 
+      "country": "FR", 
+      "latitude": 48.790367, 
+      "longitude": 2.455572
+    }, 
+    "name": "Cristolib", 
+    "stations": [
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Avenue de la France Libre", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772105000, 
+          "slots": 34, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 15, 
+        "id": "e7cb24f6c343260f0df99684ab702933", 
+        "latitude": 48.7773524472175, 
+        "longitude": 2.45537843175518, 
+        "name": "08 - ROND POINT HOTEL DE VILLE", 
+        "timestamp": "2017-08-15T04:48:33.675000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "AVENUE DE LA BRECHE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772023000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 4, 
+        "id": "e878dc1269d21ce2cafab0f260474686", 
+        "latitude": 48.78350102672993, 
+        "longitude": 2.454576358402657, 
+        "name": "06 - AVENUE DE LA BRECHE", 
+        "timestamp": "2017-08-15T04:48:33.686000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "144 RUE DU GENERAL LECLERC", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771877000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 4, 
+        "id": "8f73d514e406c94db069f5ddeadcc091", 
+        "latitude": 48.7868389124326, 
+        "longitude": 2.46856657248876, 
+        "name": "05 - GENERAL LECLERC / BARRAGE", 
+        "timestamp": "2017-08-15T04:48:33.687000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "AVENUE DU MARECHAL DE LATTRE DE TASSIGNY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772288000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 7, 
+        "id": "97b937bef53837fb2f681adeb231457e", 
+        "latitude": 48.7988350967829, 
+        "longitude": 2.45387633773323, 
+        "name": "01 - LATTRE DE TASSIGNY", 
+        "timestamp": "2017-08-15T04:48:33.688000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "ALLEE FERNAND POUILLON", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772121000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 6, 
+        "id": "0952da6d92bff5f3cccdee43e54a4fc4", 
+        "latitude": 48.76603756422197, 
+        "longitude": 2.471314855226071, 
+        "name": "09 - EUROPARC", 
+        "timestamp": "2017-08-15T04:48:33.690000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "Avenue du G\u00e9n\u00e9ral de Gaulle", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772447000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 11, 
+        "id": "02b92f770a84bddcd4c3ace2c93291f2", 
+        "latitude": 48.788110780811415, 
+        "longitude": 2.446248652158302, 
+        "name": "04 - UNIVERSITE - MAIL DES MECHES", 
+        "timestamp": "2017-08-15T04:48:33.691000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Avenue du docteur Paul Casalis", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772003000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 8, 
+        "id": "4203649dd8e7e43880951643f14473b0", 
+        "latitude": 48.78021352952279, 
+        "longitude": 2.469692230994849, 
+        "name": "07- AVENUE DU DOCTEUR PAUL CASALIS", 
+        "timestamp": "2017-08-15T04:48:33.697000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "AVENUE DE VERDUN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772250000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 8, 
+        "id": "9bb2ccba62b1f6f3443942cfd98ea60e", 
+        "latitude": 48.796173633089616, 
+        "longitude": 2.46370624551545, 
+        "name": "02 - HOPITAL INTERCOMMUNAL (CHIC)", 
+        "timestamp": "2017-08-15T04:48:33.698000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "RUE MAGELLAN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772107000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 12, 
+        "id": "ec9d7f5c81152eccfbf2b6fe5b080436", 
+        "latitude": 48.76895633113984, 
+        "longitude": 2.456664667660431, 
+        "name": "10 - MAGELLAN", 
+        "timestamp": "2017-08-15T04:48:33.693000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "En face du 1 ter rue de joly", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772206000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 8, 
+        "id": "c0e6369735e322838f63880ec20ed482", 
+        "latitude": 48.7907886168279, 
+        "longitude": 2.46489018474127, 
+        "name": "03 - RUE DU GENERAL LECLERC - CENTRE ANCIEN", 
+        "timestamp": "2017-08-15T04:48:33.689000Z"
+      }
+    ]
+  }
+}

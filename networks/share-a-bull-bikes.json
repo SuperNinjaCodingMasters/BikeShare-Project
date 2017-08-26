@@ -1,0 +1,115 @@
+{
+  "network": {
+    "company": [
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "https://usf.socialbicycles.com/opendata/gbfs.json", 
+    "href": "/v2/networks/share-a-bull-bikes", 
+    "id": "share-a-bull-bikes", 
+    "location": {
+      "city": "University of South Florida, FL", 
+      "country": "US", 
+      "latitude": 28.060548696070995, 
+      "longitude": -82.4076198041439
+    }, 
+    "name": "Share-a-Bull Bikes", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "12030 USF Beard Drive, Tampa", 
+          "last_updated": 1502772517, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2824"
+        }, 
+        "free_bikes": 0, 
+        "id": "73a549160c5963580c2ebb12e8c41e0d", 
+        "latitude": 28.06002891953059, 
+        "longitude": -82.41848945617676, 
+        "name": "U - JPH - Juniper-Poplar Hall - North", 
+        "timestamp": "2017-08-15T04:48:37.271000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "12220 Leroy Collins Boulevard, Tampa", 
+          "last_updated": 1502772517, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2843"
+        }, 
+        "free_bikes": 0, 
+        "id": "a708d19d674d2c38ab3b03274c52d675", 
+        "latitude": 28.06268890106829, 
+        "longitude": -82.41273008286953, 
+        "name": "U - SVC - Student Services", 
+        "timestamp": "2017-08-15T04:48:37.233000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "4103 USF Cedar Circle, Tampa", 
+          "last_updated": 1502772517, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2847"
+        }, 
+        "free_bikes": 0, 
+        "id": "557fe64718c65ac72d6ed63a0d5a26d2", 
+        "latitude": 28.064301142260874, 
+        "longitude": -82.41371780633926, 
+        "name": "U - MSC - Marshall Student Center - North", 
+        "timestamp": "2017-08-15T04:48:37.243000Z"
+      }, 
+      {
+        "empty_slots": 90, 
+        "extra": {
+          "address": "12301 USF Maple Drive, Tampa", 
+          "last_updated": 1502772517, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1270"
+        }, 
+        "free_bikes": 0, 
+        "id": "ce8e1f9914118ed669e5da97277a31f1", 
+        "latitude": 28.060548696070995, 
+        "longitude": -82.4076198041439, 
+        "name": "U - Shop", 
+        "timestamp": "2017-08-15T04:48:37.202000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "13325 USF Laurel Drive, Tampa", 
+          "last_updated": 1502772517, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1825"
+        }, 
+        "free_bikes": 0, 
+        "id": "19a9c711b025599874f2145e2809f540", 
+        "latitude": 28.067902458566493, 
+        "longitude": -82.41713359951973, 
+        "name": "U - Lot 43", 
+        "timestamp": "2017-08-15T04:48:37.226000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "504 USF Sycamore Drive, Tampa", 
+          "last_updated": 1502772517, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1826"
+        }, 
+        "free_bikes": 0, 
+        "id": "cf86912072d8d782d173a7a0ab94429e", 
+        "latitude": 28.065433430265518, 
+        "longitude": -82.40270733833313, 
+        "name": "U - Lot 18 north", 
+        "timestamp": "2017-08-15T04:48:37.230000Z"
+      }
+    ]
+  }
+}

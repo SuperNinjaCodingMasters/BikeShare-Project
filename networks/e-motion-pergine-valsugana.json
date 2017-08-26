@@ -1,0 +1,109 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/e-motion-pergine-valsugana", 
+    "id": "e-motion-pergine-valsugana", 
+    "location": {
+      "city": "Pergine Valsugana", 
+      "country": "IT", 
+      "latitude": 46.06050419001399, 
+      "longitude": 11.239041694195503
+    }, 
+    "name": "e.motion", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "Stazione / via Dante Alighieri 69", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "075fc596a9ad2a08f6c19c39fcf6e9d4", 
+        "latitude": 46.06283953962371, 
+        "longitude": 11.232342992868098, 
+        "name": "Centro Intermodale", 
+        "timestamp": "2017-08-15T04:47:50.089000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "Via Pennella / p.za Gavazzi", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "3113754040aaa44fb3c591f9056575f8", 
+        "latitude": 46.061562809082304, 
+        "longitude": 11.237374816980036, 
+        "name": "Piazza Gavazzi", 
+        "timestamp": "2017-08-15T04:47:50.106000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "p.za s. rocco 6", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "2e944358906034f30be5ee4e29671061", 
+        "latitude": 46.05895684521892, 
+        "longitude": 11.238906428311111, 
+        "name": "Spiaz de le Oche", 
+        "timestamp": "2017-08-15T04:47:50.109000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Via Tegazzo fr. civ. 10", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "71ca6b1111507049471e626e6a3954a3", 
+        "latitude": 46.06131044875352, 
+        "longitude": 11.243516084620978, 
+        "name": "Tegazzo", 
+        "timestamp": "2017-08-15T04:47:50.109000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via Oltrefersina 153", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "187be5514ff09c2bedb1520c48abca32", 
+        "latitude": 46.0838504717494, 
+        "longitude": 11.219184817335531, 
+        "name": "Madrano", 
+        "timestamp": "2017-08-15T04:47:50.110000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "Via Don Giovanni Sopperra 45", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "bbf20afd53f3033268579805c52b8b27", 
+        "latitude": 46.050157284989574, 
+        "longitude": 11.223331429499808, 
+        "name": "Susa` - Scuola Elementare", 
+        "timestamp": "2017-08-15T04:47:50.112000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "SP1 - Loc. S. Cristoforo al lago 76", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "29085b02e842d46a0fb1aed71b78400b", 
+        "latitude": 46.03895281452017, 
+        "longitude": 11.234006501852377, 
+        "name": "San Cristoforo", 
+        "timestamp": "2017-08-15T04:47:50.118000Z"
+      }
+    ]
+  }
+}

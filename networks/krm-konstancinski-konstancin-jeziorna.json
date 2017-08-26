@@ -1,0 +1,123 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/krm-konstancinski-konstancin-jeziorna", 
+    "id": "krm-konstancinski-konstancin-jeziorna", 
+    "location": {
+      "city": "Konstancin Jeziorna", 
+      "country": "PL", 
+      "latitude": 52.0759, 
+      "longitude": 21.1161
+    }, 
+    "name": "KRM Konstanci\u0144ski", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "24010", 
+            "28821", 
+            "28114", 
+            "28053", 
+            "27849"
+          ], 
+          "number": "6083", 
+          "slots": 25, 
+          "uid": "3006009"
+        }, 
+        "free_bikes": 16, 
+        "id": "868a93c271aaecebbfebfaf269401ac2", 
+        "latitude": 52.084147651876, 
+        "longitude": 21.119241714478, 
+        "name": "Park Zdrojowy", 
+        "timestamp": "2017-08-15T04:49:56.875000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "24885", 
+            "28420", 
+            "27768", 
+            "27249", 
+            "26675"
+          ], 
+          "number": "6085", 
+          "slots": 15, 
+          "uid": "3006012"
+        }, 
+        "free_bikes": 5, 
+        "id": "ea44dad7040a80a3968d03146742d119", 
+        "latitude": 52.097865383129, 
+        "longitude": 21.134390830994, 
+        "name": "Mirk\u00f3w", 
+        "timestamp": "2017-08-15T04:49:56.879000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "24741", 
+            "28549", 
+            "28133", 
+            "27523", 
+            "26617"
+          ], 
+          "number": "6081", 
+          "slots": 15, 
+          "uid": "3006001"
+        }, 
+        "free_bikes": 5, 
+        "id": "9ed86fc37117fcaea9c7c874eb813355", 
+        "latitude": 52.102973023152, 
+        "longitude": 21.114907264709, 
+        "name": "Klarysew", 
+        "timestamp": "2017-08-15T04:49:56.835000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "27424", 
+            "26312", 
+            "26039", 
+            "25925", 
+            "25923"
+          ], 
+          "number": "6082", 
+          "slots": 15, 
+          "uid": "3006004"
+        }, 
+        "free_bikes": 5, 
+        "id": "a9dfc9824355cdddbf1b0c699fc5a3b7", 
+        "latitude": 52.089843560244, 
+        "longitude": 21.123490333557, 
+        "name": "Grapa", 
+        "timestamp": "2017-08-15T04:49:56.868000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "24756", 
+            "28354", 
+            "28277", 
+            "28117", 
+            "26565"
+          ], 
+          "number": "6084", 
+          "slots": 15, 
+          "uid": "3006011"
+        }, 
+        "free_bikes": 5, 
+        "id": "6920e930ebf2095157c291f02c651dbd", 
+        "latitude": 52.077422379795, 
+        "longitude": 21.100702285767, 
+        "name": "Skolim\u00f3w", 
+        "timestamp": "2017-08-15T04:49:56.878000Z"
+      }
+    ]
+  }
+}

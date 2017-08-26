@@ -1,0 +1,178 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/vrn-bensheim", 
+    "id": "vrn-bensheim", 
+    "location": {
+      "city": "Bensheim", 
+      "country": "DE", 
+      "latitude": 49.6803, 
+      "longitude": 8.6189
+    }, 
+    "name": "VRN", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "43419", 
+            "43566", 
+            "43624"
+          ], 
+          "number": "2633", 
+          "slots": 6, 
+          "uid": "704305"
+        }, 
+        "free_bikes": 3, 
+        "id": "460aea00df5c811514935a0f8404fe7a", 
+        "latitude": 49.68256, 
+        "longitude": 8.62007, 
+        "name": "Parktheater", 
+        "timestamp": "2017-08-15T04:49:56.022000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "43191", 
+            "43290", 
+            "43219", 
+            "43202"
+          ], 
+          "number": "2630", 
+          "slots": 12, 
+          "uid": "704300"
+        }, 
+        "free_bikes": 4, 
+        "id": "45fc18ec967f346c717ad445e55bc183", 
+        "latitude": 49.68141, 
+        "longitude": 8.61765, 
+        "name": "Bahnhof", 
+        "timestamp": "2017-08-15T04:49:56.013000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "43174", 
+            "43217"
+          ], 
+          "number": "2631", 
+          "slots": 8, 
+          "uid": "704302"
+        }, 
+        "free_bikes": 2, 
+        "id": "87b87230dfa6f1b757a7b31ed52a4b55", 
+        "latitude": 49.678056477734, 
+        "longitude": 8.6222237348557, 
+        "name": "Untere Fu\u00dfg\u00e4ngerzone", 
+        "timestamp": "2017-08-15T04:49:56.019000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "43150", 
+            "43133", 
+            "43459", 
+            "43272", 
+            "43228"
+          ], 
+          "number": "2632", 
+          "slots": 10, 
+          "uid": "704303"
+        }, 
+        "free_bikes": 5, 
+        "id": "c7cb2357b8fff3d8525635e64c322e6a", 
+        "latitude": 49.67721, 
+        "longitude": 8.61513, 
+        "name": "Einkaufszentrum G\u00fcterbahnhof", 
+        "timestamp": "2017-08-15T04:49:56.021000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43399", 
+            "43293", 
+            "43218", 
+            "43601"
+          ], 
+          "number": "2634", 
+          "slots": 6, 
+          "uid": "704308"
+        }, 
+        "free_bikes": 4, 
+        "id": "b019c11d5fece42bf23d7ab63fa1b35c", 
+        "latitude": 49.688569658573, 
+        "longitude": 8.6196756362915, 
+        "name": "Rathaus", 
+        "timestamp": "2017-08-15T04:49:56.023000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "43141", 
+            "43117", 
+            "43087", 
+            "43494", 
+            "43404"
+          ], 
+          "number": "2635", 
+          "slots": 6, 
+          "uid": "704310"
+        }, 
+        "free_bikes": 5, 
+        "id": "8d711da2c51b1498dbab1990b343c0ba", 
+        "latitude": 49.68771, 
+        "longitude": 8.60668, 
+        "name": " Weststadthalle / Badesee", 
+        "timestamp": "2017-08-15T04:49:56.024000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43084", 
+            "43363", 
+            "43516", 
+            "43586"
+          ], 
+          "number": "2636", 
+          "slots": 6, 
+          "uid": "704311"
+        }, 
+        "free_bikes": 4, 
+        "id": "e517365fa53530ba1e08e0fd045f67b2", 
+        "latitude": 49.70238, 
+        "longitude": 8.61354, 
+        "name": "Auerbach - Bahnhof", 
+        "timestamp": "2017-08-15T04:49:56.025000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "43560", 
+            "43596", 
+            "43588", 
+            "43655", 
+            "43950"
+          ], 
+          "number": "2637", 
+          "slots": 6, 
+          "uid": "704314"
+        }, 
+        "free_bikes": 5, 
+        "id": "bae76ab3783cd461c3246bba9506509a", 
+        "latitude": 49.70008, 
+        "longitude": 8.62178, 
+        "name": "Auerbach - Kronepark", 
+        "timestamp": "2017-08-15T04:49:56.026000Z"
+      }
+    ]
+  }
+}

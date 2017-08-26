@@ -1,0 +1,55 @@
+{
+  "network": {
+    "company": [
+      "Brainbox Technology", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/easybike-irakleio", 
+    "id": "easybike-irakleio", 
+    "location": {
+      "city": "Irakleio", 
+      "country": "GR", 
+      "latitude": 35.338735, 
+      "longitude": 25.144213
+    }, 
+    "name": "EasyBike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 40
+        }, 
+        "free_bikes": 40, 
+        "id": "28f24cbe7cffc7dba0fb0326323d998a", 
+        "latitude": 35.331792, 
+        "longitude": 25.104697, 
+        "name": "\u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf 3", 
+        "timestamp": "2017-08-15T04:47:48.739000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 30
+        }, 
+        "free_bikes": 30, 
+        "id": "1676ccc288e8c84e2c452a85b1f467db", 
+        "latitude": 35.340369, 
+        "longitude": 25.142591, 
+        "name": "\u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf 1", 
+        "timestamp": "2017-08-15T04:47:48.721000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 30
+        }, 
+        "free_bikes": 30, 
+        "id": "009b76a734ac24f4ed6805d3721d9b87", 
+        "latitude": 35.32689, 
+        "longitude": 25.136497, 
+        "name": "\u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf 2", 
+        "timestamp": "2017-08-15T04:47:48.737000Z"
+      }
+    ]
+  }
+}

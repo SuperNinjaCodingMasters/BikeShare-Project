@@ -1,0 +1,483 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-lviv", 
+    "id": "nextbike-lviv", 
+    "location": {
+      "city": "Lviv", 
+      "country": "UA", 
+      "latitude": 49.8402, 
+      "longitude": 24.0182
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "78010", 
+            "78020", 
+            "78024", 
+            "78050", 
+            "78113"
+          ], 
+          "number": "9101", 
+          "slots": 14, 
+          "uid": "355487"
+        }, 
+        "free_bikes": 5, 
+        "id": "6da16b216a8fd1248a4ad1b35a910792", 
+        "latitude": 49.839985628787, 
+        "longitude": 24.021863937378, 
+        "name": "Ivan Franko Univercity", 
+        "timestamp": "2017-08-15T04:50:11.184000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "78135", 
+            "78128", 
+            "78115", 
+            "78107", 
+            "78087"
+          ], 
+          "number": "9100", 
+          "slots": 10, 
+          "uid": "355486"
+        }, 
+        "free_bikes": 5, 
+        "id": "79c53eba876ac73c18f5eb60aa9e9eed", 
+        "latitude": 49.841566660506, 
+        "longitude": 24.031187295914, 
+        "name": "Ratusha, Rynok Square", 
+        "timestamp": "2017-08-15T04:50:11.181000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "78008", 
+            "78014", 
+            "78029", 
+            "78043"
+          ], 
+          "number": "9102", 
+          "slots": 8, 
+          "uid": "355489"
+        }, 
+        "free_bikes": 4, 
+        "id": "df91475c8ee23d418234d7cc9c757b5f", 
+        "latitude": 49.806398119387, 
+        "longitude": 23.998346328735, 
+        "name": "Knyahyni Olhy Akvapark", 
+        "timestamp": "2017-08-15T04:50:11.185000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "78070", 
+            "78061"
+          ], 
+          "number": "9105", 
+          "slots": 8, 
+          "uid": "355494"
+        }, 
+        "free_bikes": 2, 
+        "id": "daef4a5f557c431068ad199b0b9a9b8b", 
+        "latitude": 49.855861600193, 
+        "longitude": 24.021838697536, 
+        "name": "Chornovola / Lypyns'koho ", 
+        "timestamp": "2017-08-15T04:50:11.188000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "78018", 
+            "78052", 
+            "78125", 
+            "78121", 
+            "78096"
+          ], 
+          "number": "9106", 
+          "slots": 10, 
+          "uid": "355495"
+        }, 
+        "free_bikes": 5, 
+        "id": "5ea221506059c1183651079d2f5c35f6", 
+        "latitude": 49.861936593047, 
+        "longitude": 24.018494369084, 
+        "name": "Chornovola, 67", 
+        "timestamp": "2017-08-15T04:50:11.189000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "78002", 
+            "78006", 
+            "78028", 
+            "78138", 
+            "78123"
+          ], 
+          "number": "9141", 
+          "slots": 10, 
+          "uid": "355496"
+        }, 
+        "free_bikes": 5, 
+        "id": "8a776732b3542c875faa91dde0d59b10", 
+        "latitude": 49.833190409402, 
+        "longitude": 24.035752415657, 
+        "name": "Petrushevycha sq.1", 
+        "timestamp": "2017-08-15T04:50:11.190000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "78035", 
+            "78041", 
+            "78066"
+          ], 
+          "number": "9143", 
+          "slots": 6, 
+          "uid": "355500"
+        }, 
+        "free_bikes": 3, 
+        "id": "3b3f54b5aa5b7e56cf427cc561a61165", 
+        "latitude": 49.784363026174, 
+        "longitude": 24.059486087172, 
+        "name": "Chervonoi Kalyny ave. 109 (Santa Barbara shopping mall)", 
+        "timestamp": "2017-08-15T04:50:11.190000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "78122", 
+            "78120", 
+            "78119", 
+            "78095", 
+            "78065"
+          ], 
+          "number": "9145", 
+          "slots": 6, 
+          "uid": "355501"
+        }, 
+        "free_bikes": 5, 
+        "id": "7cc4226793be2758b923d7508d28c363", 
+        "latitude": 49.799066083583, 
+        "longitude": 24.049372823647, 
+        "name": "Chervonoi Kalyny Ave, 49 (Shuvar trade zone)", 
+        "timestamp": "2017-08-15T04:50:11.191000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "9142", 
+          "slots": 8, 
+          "uid": "355502"
+        }, 
+        "free_bikes": 0, 
+        "id": "5079fa946bd94387b5974b42d429e546", 
+        "latitude": 49.861288884695, 
+        "longitude": 24.043879508972, 
+        "name": "Promyslova str. 50/52", 
+        "timestamp": "2017-08-15T04:50:11.192000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "78048", 
+            "78083", 
+            "78072"
+          ], 
+          "number": "9150", 
+          "slots": 8, 
+          "uid": "355504"
+        }, 
+        "free_bikes": 3, 
+        "id": "787785d2b74e8a2f185750e4bf262a74", 
+        "latitude": 49.813030947533, 
+        "longitude": 23.977076411247, 
+        "name": "Shchyrecka str. 36 (Pivdennyy shopping center)", 
+        "timestamp": "2017-08-15T04:50:11.194000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "78133", 
+            "78086"
+          ], 
+          "number": "9144", 
+          "slots": 6, 
+          "uid": "355732"
+        }, 
+        "free_bikes": 2, 
+        "id": "dc2b6f900db8898b114bc14434b2ce3a", 
+        "latitude": 49.794866452941, 
+        "longitude": 24.057437051379, 
+        "name": "Chervonoi Kalyny ave. 81 (O.Dovhenko cinema hall)", 
+        "timestamp": "2017-08-15T04:50:11.195000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "78000", 
+            "78005", 
+            "78111", 
+            "78105", 
+            "78081"
+          ], 
+          "number": "9147", 
+          "slots": 8, 
+          "uid": "355735"
+        }, 
+        "free_bikes": 5, 
+        "id": "ddfdb45db857ebb9772220139819d8f3", 
+        "latitude": 49.849716629556, 
+        "longitude": 24.024583697319, 
+        "name": "Forum Lviv shoppingmall", 
+        "timestamp": "2017-08-15T04:50:11.196000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "78011", 
+            "78080", 
+            "78076"
+          ], 
+          "number": "9149", 
+          "slots": 6, 
+          "uid": "355737"
+        }, 
+        "free_bikes": 3, 
+        "id": "ab4fad2428e7bf1dba07c86f72ea9876", 
+        "latitude": 49.822201149114, 
+        "longitude": 23.984892679691, 
+        "name": "Sadova str. 2a (SoftServe office)", 
+        "timestamp": "2017-08-15T04:50:11.198000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "78022", 
+            "78134"
+          ], 
+          "number": "9136", 
+          "slots": 8, 
+          "uid": "355739"
+        }, 
+        "free_bikes": 2, 
+        "id": "aaa25bf85dcfb48491eff85641a97383", 
+        "latitude": 49.787294900785, 
+        "longitude": 24.016905868775, 
+        "name": "Lviv bus station", 
+        "timestamp": "2017-08-15T04:50:11.199000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "78001", 
+            "78132", 
+            "78114", 
+            "78109", 
+            "78099"
+          ], 
+          "number": "9137", 
+          "slots": 6, 
+          "uid": "355740"
+        }, 
+        "free_bikes": 5, 
+        "id": "14e3174a3b0b18d07bf9770cabf10b67", 
+        "latitude": 49.802086331621, 
+        "longitude": 24.018311705477, 
+        "name": "Stryyska - Naukova str. intersection", 
+        "timestamp": "2017-08-15T04:50:11.200000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "78042", 
+            "78130", 
+            "78116"
+          ], 
+          "number": "9148", 
+          "slots": 6, 
+          "uid": "355742"
+        }, 
+        "free_bikes": 3, 
+        "id": "0b7ecd699ec9bb11da5c5ce5b266b09a", 
+        "latitude": 49.811168585479, 
+        "longitude": 23.991340398788, 
+        "name": "V.Velykoho str. 113", 
+        "timestamp": "2017-08-15T04:50:11.202000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "78129", 
+            "78124", 
+            "78092", 
+            "78089", 
+            "78082"
+          ], 
+          "number": "9151", 
+          "slots": 8, 
+          "uid": "355743"
+        }, 
+        "free_bikes": 5, 
+        "id": "efb3c15581a5deb9c5b69a82fd66c942", 
+        "latitude": 49.823878301122, 
+        "longitude": 23.977376818657, 
+        "name": "Lyubinska str.89", 
+        "timestamp": "2017-08-15T04:50:11.202000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "78106"
+          ], 
+          "number": "9146", 
+          "slots": 6, 
+          "uid": "503046"
+        }, 
+        "free_bikes": 1, 
+        "id": "d0d4e00a13121a4d8eb93bf07fdcb050", 
+        "latitude": 49.810562208415, 
+        "longitude": 24.045831052754, 
+        "name": "Uhorska str. 14 (Bisiness center Dominant Plaza)", 
+        "timestamp": "2017-08-15T04:50:11.203000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "78004", 
+            "78017", 
+            "78131", 
+            "78118"
+          ], 
+          "number": "9152", 
+          "slots": 8, 
+          "uid": "2379590"
+        }, 
+        "free_bikes": 4, 
+        "id": "ce3b9a3092e93e02a0a3384794932e9c", 
+        "latitude": 49.773986473202, 
+        "longitude": 24.012215924158, 
+        "name": "King Cross Leopolis", 
+        "timestamp": "2017-08-15T04:50:11.204000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "78007", 
+            "78015", 
+            "78032", 
+            "78045", 
+            "78053"
+          ], 
+          "number": "9104", 
+          "slots": 16, 
+          "uid": "355492"
+        }, 
+        "free_bikes": 5, 
+        "id": "8f4726b59113ab8aaf99355ee99a47a3", 
+        "latitude": 49.834505241221, 
+        "longitude": 24.016070365906, 
+        "name": "Politehnichna", 
+        "timestamp": "2017-08-15T04:50:11.187000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "78009", 
+            "78038", 
+            "78044", 
+            "78110", 
+            "78090"
+          ], 
+          "number": "9140", 
+          "slots": 6, 
+          "uid": "355491"
+        }, 
+        "free_bikes": 5, 
+        "id": "ec9cab6161972f71b74ffd39d2122446", 
+        "latitude": 49.816613542875, 
+        "longitude": 24.025796055794, 
+        "name": "Ukrainian Catholic University", 
+        "timestamp": "2017-08-15T04:50:11.186000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "78027", 
+            "78039", 
+            "78097"
+          ], 
+          "number": "9139", 
+          "slots": 6, 
+          "uid": "355503"
+        }, 
+        "free_bikes": 3, 
+        "id": "9165dcfafbccc236698ab7f40a420f50", 
+        "latitude": 49.815446168699, 
+        "longitude": 24.020055876717, 
+        "name": "Stryyska str. 35 (State tax office)", 
+        "timestamp": "2017-08-15T04:50:11.193000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "78049", 
+            "78140", 
+            "78126", 
+            "78104", 
+            "78075"
+          ], 
+          "number": "9103", 
+          "slots": 12, 
+          "uid": "355738"
+        }, 
+        "free_bikes": 5, 
+        "id": "8a853d38e82f3138974c310275b4ddcc", 
+        "latitude": 49.832252704872, 
+        "longitude": 23.996195197105, 
+        "name": "TechnoPark", 
+        "timestamp": "2017-08-15T04:50:11.199000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "9138", 
+          "slots": 6, 
+          "uid": "355736"
+        }, 
+        "free_bikes": 0, 
+        "id": "890641116958646f0a1bb829168d5ae6", 
+        "latitude": 49.808041137543, 
+        "longitude": 24.018859058815, 
+        "name": "Volodymyra Velykoho Str, 1", 
+        "timestamp": "2017-08-15T04:50:11.197000Z"
+      }
+    ]
+  }
+}

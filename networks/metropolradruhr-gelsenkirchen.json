@@ -1,0 +1,363 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/metropolradruhr-gelsenkirchen", 
+    "id": "metropolradruhr-gelsenkirchen", 
+    "location": {
+      "city": "Gelsenkirchen", 
+      "country": "DE", 
+      "latitude": 51.5404, 
+      "longitude": 7.07039
+    }, 
+    "name": "metropolradruhr", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "50037", 
+            "53519"
+          ], 
+          "number": "7601", 
+          "slots": 14, 
+          "uid": "50447"
+        }, 
+        "free_bikes": 2, 
+        "id": "eaba087c1ab752c35e3a7ac0d3432f36", 
+        "latitude": 51.506275027575, 
+        "longitude": 7.1006441116333, 
+        "name": "Hauptbahnhof Bahnhofsvorplatz", 
+        "timestamp": "2017-08-15T04:47:11.571000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "53855"
+          ], 
+          "number": "7603", 
+          "slots": 10, 
+          "uid": "50449"
+        }, 
+        "free_bikes": 1, 
+        "id": "6b2dcf182b94fadd13dd54be2a661fdd", 
+        "latitude": 51.5099538, 
+        "longitude": 7.0947774, 
+        "name": "Heinrich-K\u00f6nig-Platz", 
+        "timestamp": "2017-08-15T04:47:11.576000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "51216", 
+            "31134"
+          ], 
+          "number": "7604", 
+          "slots": 8, 
+          "uid": "50450"
+        }, 
+        "free_bikes": 2, 
+        "id": "3087df3dfd223418f506bd8397db3319", 
+        "latitude": 51.5130961644, 
+        "longitude": 7.09186587644, 
+        "name": "Musiktheater", 
+        "timestamp": "2017-08-15T04:47:11.579000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "10062", 
+            "50439", 
+            "50694", 
+            "51135", 
+            "52273"
+          ], 
+          "number": "7606", 
+          "slots": 10, 
+          "uid": "50452"
+        }, 
+        "free_bikes": 9, 
+        "id": "257ff9907e5e300454efd6d7e4f6ddd1", 
+        "latitude": 51.5282066369, 
+        "longitude": 7.03020540281, 
+        "name": "Nordsternpark", 
+        "timestamp": "2017-08-15T04:47:11.580000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "20017", 
+            "51097", 
+            "53159", 
+            "53208", 
+            "53894"
+          ], 
+          "number": "7607", 
+          "slots": 13, 
+          "uid": "50453"
+        }, 
+        "free_bikes": 5, 
+        "id": "afd30be9f46795be3562bd0f1689685e", 
+        "latitude": 51.5367664029, 
+        "longitude": 7.02476329529, 
+        "name": "Schloss Horst", 
+        "timestamp": "2017-08-15T04:47:11.581000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "51081", 
+            "52578", 
+            "53268", 
+            "52705", 
+            "53426"
+          ], 
+          "number": "7608", 
+          "slots": 14, 
+          "uid": "50454"
+        }, 
+        "free_bikes": 8, 
+        "id": "82d965a42356d9d357477687ed5bd6d7", 
+        "latitude": 51.5749900821, 
+        "longitude": 7.02625799504, 
+        "name": "Westf\u00e4lische Hochschule", 
+        "timestamp": "2017-08-15T04:47:11.582000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "7611", 
+          "slots": 8, 
+          "uid": "50457"
+        }, 
+        "free_bikes": 0, 
+        "id": "d8a6f09a76a974a69785eb67153c25a6", 
+        "latitude": 51.581533247556, 
+        "longitude": 7.0508086681366, 
+        "name": "Freiheit", 
+        "timestamp": "2017-08-15T04:47:11.584000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "51431"
+          ], 
+          "number": "7612", 
+          "slots": 14, 
+          "uid": "105713"
+        }, 
+        "free_bikes": 1, 
+        "id": "2dbd9ce187893713670dbeac32292235", 
+        "latitude": 51.587209760313, 
+        "longitude": 7.0502185821533, 
+        "name": "Buer Nordbahnhof", 
+        "timestamp": "2017-08-15T04:47:11.585000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "7613", 
+          "slots": 10, 
+          "uid": "110268"
+        }, 
+        "free_bikes": 0, 
+        "id": "9045c8ef4df832c8ab28d5cbcb26fbd4", 
+        "latitude": 51.557175861935, 
+        "longitude": 7.066901922226, 
+        "name": "Arenapark", 
+        "timestamp": "2017-08-15T04:47:11.588000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "7617", 
+          "slots": 8, 
+          "uid": "110616"
+        }, 
+        "free_bikes": 0, 
+        "id": "03dbcb8a2982513bbd86294ccd7f3d3f", 
+        "latitude": 51.508281703714, 
+        "longitude": 7.1089160442352, 
+        "name": "Wildenbruchplatz", 
+        "timestamp": "2017-08-15T04:47:11.589000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "53252"
+          ], 
+          "number": "7620", 
+          "slots": 7, 
+          "uid": "137811"
+        }, 
+        "free_bikes": 1, 
+        "id": "1379fd1f4b3b4017419850cd5e1df096", 
+        "latitude": 51.512748828379, 
+        "longitude": 7.0993030071259, 
+        "name": "Grillo-Gymnasium", 
+        "timestamp": "2017-08-15T04:47:11.601000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "number": "7621", 
+          "slots": 7, 
+          "uid": "137812"
+        }, 
+        "free_bikes": 0, 
+        "id": "11b93c3c6c3e463c4bad10094097fbd1", 
+        "latitude": 51.579463127229, 
+        "longitude": 7.0647776126862, 
+        "name": "Max-Planck-Gymnasium", 
+        "timestamp": "2017-08-15T04:47:11.606000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "31094", 
+            "52821", 
+            "53908", 
+            "53939"
+          ], 
+          "number": "7602", 
+          "slots": 14, 
+          "uid": "200785"
+        }, 
+        "free_bikes": 4, 
+        "id": "bc4b41f44431a5c8a72ac5a56cd52127", 
+        "latitude": 51.504481965981, 
+        "longitude": 7.1036911010742, 
+        "name": "Hauptbahnhof S\u00fcdausgang", 
+        "timestamp": "2017-08-15T04:47:11.607000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "50603"
+          ], 
+          "number": "7622", 
+          "uid": "1490054"
+        }, 
+        "free_bikes": 1, 
+        "id": "bb5bb46700ae5e7f423a82b07a6e45c6", 
+        "latitude": 51.548841, 
+        "longitude": 7.042051, 
+        "name": "Bahnhof Buer-S\u00fcd", 
+        "timestamp": "2017-08-15T04:47:11.608000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "50632", 
+            "51339", 
+            "51324", 
+            "52772", 
+            "52092"
+          ], 
+          "number": "7623", 
+          "uid": "1490059"
+        }, 
+        "free_bikes": 8, 
+        "id": "5852e398fc5d9c9d29c620c9a9cc3c36", 
+        "latitude": 51.565898, 
+        "longitude": 7.080963, 
+        "name": "AKAF\u00d6 Wodanstra\u00dfe", 
+        "timestamp": "2017-08-15T04:47:11.608000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "52420", 
+            "53405", 
+            "53246", 
+            "52931"
+          ], 
+          "number": "7624", 
+          "uid": "1490069"
+        }, 
+        "free_bikes": 4, 
+        "id": "a3ecda62c20aaf2cb122e1e23289d7c5", 
+        "latitude": 51.572935, 
+        "longitude": 7.033295, 
+        "name": "Neidenburger Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:47:11.609000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "7618", 
+          "slots": 8, 
+          "uid": "137809"
+        }, 
+        "free_bikes": 0, 
+        "id": "231e057c68f8768dbe6fe0a7951ff516", 
+        "latitude": 51.508168183628, 
+        "longitude": 7.0981335639954, 
+        "name": "Preuteplatz", 
+        "timestamp": "2017-08-15T04:47:11.592000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "number": "7605", 
+          "slots": 7, 
+          "uid": "50451"
+        }, 
+        "free_bikes": 0, 
+        "id": "67cad0366b1e7c36d379bc2512e56176", 
+        "latitude": 51.5417849043, 
+        "longitude": 7.11032612019, 
+        "name": "Zoom-Erlebniswelt", 
+        "timestamp": "2017-08-15T04:47:11.579000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "53302", 
+            "53682"
+          ], 
+          "number": "7610", 
+          "slots": 10, 
+          "uid": "50456"
+        }, 
+        "free_bikes": 2, 
+        "id": "368c661f013c3198b51e6ebd5d94f1cb", 
+        "latitude": 51.577076204782, 
+        "longitude": 7.0549553632736, 
+        "name": "Rathaus Buer / Kunstmuseum", 
+        "timestamp": "2017-08-15T04:47:11.583000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "52082", 
+            "52979"
+          ], 
+          "number": "7614", 
+          "slots": 8, 
+          "uid": "111961"
+        }, 
+        "free_bikes": 2, 
+        "id": "fe46a70054284e329f5ec9283b841d0b", 
+        "latitude": 51.494917779131, 
+        "longitude": 7.1069955825806, 
+        "name": "Rheinelbe-Park", 
+        "timestamp": "2017-08-15T04:47:11.591000Z"
+      }
+    ]
+  }
+}

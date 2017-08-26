@@ -1,0 +1,35 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-offenbach-am-main", 
+    "id": "nextbike-offenbach-am-main", 
+    "location": {
+      "city": "Offenbach am Main", 
+      "country": "DE", 
+      "latitude": 50.1093, 
+      "longitude": 8.73825
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06015", 
+            "06098"
+          ], 
+          "number": "4287", 
+          "uid": "44537"
+        }, 
+        "free_bikes": 2, 
+        "id": "944fb6dcb0cf62d6a282bde43b13079c", 
+        "latitude": 50.106979722073, 
+        "longitude": 8.7414801120758, 
+        "name": "4287 - Hotel Macrander", 
+        "timestamp": "2017-08-15T04:49:11.099000Z"
+      }
+    ]
+  }
+}

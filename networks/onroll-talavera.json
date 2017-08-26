@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-talavera", 
+    "id": "onroll-talavera", 
+    "location": {
+      "city": "Talavera de la Reina", 
+      "country": "ES", 
+      "latitude": 39.961829, 
+      "longitude": -4.830319
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "454c32aadbe536924352299bd7ec332a", 
+        "latitude": 39.965412, 
+        "longitude": -4.821882, 
+        "name": "Campo de F\u00fatbol Cesped Artificial", 
+        "timestamp": "2017-08-15T04:48:43.758000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "8edaf13bf5e5bc30e74be30638246bc4", 
+        "latitude": 39.959821, 
+        "longitude": -4.833009, 
+        "name": "Oficina de Turismo", 
+        "timestamp": "2017-08-15T04:48:43.760000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "cf99720aeb8a0d6e22dd96561c9a6bfc", 
+        "latitude": 39.966547, 
+        "longitude": -4.815983, 
+        "name": "Polideportivo Municipal 1\u00ba de Mayo", 
+        "timestamp": "2017-08-15T04:48:43.761000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "0ccab7695f6dd395d10696c265a8df01", 
+        "latitude": 39.956756, 
+        "longitude": -4.839271, 
+        "name": "P. Jose Angel de Jesus Encinas", 
+        "timestamp": "2017-08-15T04:48:43.762000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "7c691778ae2b9366b8fdc70bdd011a66", 
+        "latitude": 39.960609, 
+        "longitude": -4.841452, 
+        "name": "P. Puerta de Cuartos", 
+        "timestamp": "2017-08-15T04:48:43.763000Z"
+      }
+    ]
+  }
+}

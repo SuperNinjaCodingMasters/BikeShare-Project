@@ -1,0 +1,70 @@
+{
+  "network": {
+    "company": [
+      "Cyclopolis Systems"
+    ], 
+    "href": "/v2/networks/cyclopolis-marathon", 
+    "id": "cyclopolis-marathon", 
+    "location": {
+      "city": "Marathon", 
+      "country": "GR", 
+      "latitude": 38.0855680022, 
+      "longitude": 23.9776389963
+    }, 
+    "name": "Cyclopolis", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 8
+        }, 
+        "free_bikes": 0, 
+        "id": "e6ae0a40774f358eae76560f2f1b1d10", 
+        "latitude": 38.0855680022053, 
+        "longitude": 23.9776389963143, 
+        "name": "NEA MAKRI TOWNHALL", 
+        "timestamp": "2017-08-15T04:49:34.319000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "674c976c2b100a3b74916ca9059c2f2f", 
+        "latitude": 38.1578151468578, 
+        "longitude": 23.9585400933042, 
+        "name": "MARATHON TOWNHALL", 
+        "timestamp": "2017-08-15T04:49:34.342000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 24
+        }, 
+        "free_bikes": 0, 
+        "id": "7986708b55f69511b1f1c62b28570b00", 
+        "latitude": 38.089046735235, 
+        "longitude": 23.9827750324381, 
+        "name": "PARALIA NEA MAKRI", 
+        "timestamp": "2017-08-15T04:49:34.338000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "9d59f8ad2d52a3ce11cbaae0dc56b6c4", 
+        "latitude": 38.1175019301398, 
+        "longitude": 23.990421168824, 
+        "name": "PARALIA MARATHONA", 
+        "timestamp": "2017-08-15T04:49:34.343000Z"
+      }
+    ]
+  }
+}

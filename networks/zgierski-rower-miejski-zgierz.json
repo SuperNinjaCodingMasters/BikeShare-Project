@@ -1,0 +1,102 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/zgierski-rower-miejski-zgierz", 
+    "id": "zgierski-rower-miejski-zgierz", 
+    "location": {
+      "city": "Zgierz", 
+      "country": "PL", 
+      "latitude": 51.8602, 
+      "longitude": 19.4118
+    }, 
+    "name": "Zgierski Rower Miejski", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "89425", 
+            "89347", 
+            "89075", 
+            "88819", 
+            "88810"
+          ], 
+          "number": "6209", 
+          "slots": 12, 
+          "uid": "2956204"
+        }, 
+        "free_bikes": 7, 
+        "id": "a6503bfe867da7a3bc4b6d7669500e3a", 
+        "latitude": 51.881206684065, 
+        "longitude": 19.425630569458, 
+        "name": "Malinka", 
+        "timestamp": "2017-08-15T04:49:15.530000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "89482", 
+            "89396", 
+            "89387", 
+            "89361", 
+            "89334"
+          ], 
+          "number": "6206", 
+          "slots": 12, 
+          "uid": "3116761"
+        }, 
+        "free_bikes": 7, 
+        "id": "48eab18fb76815aee98e861f9e5ac17f", 
+        "latitude": 51.85916, 
+        "longitude": 19.4079, 
+        "name": "Park Miejski", 
+        "timestamp": "2017-08-15T04:49:15.535000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "89180", 
+            "89138", 
+            "89113", 
+            "89003", 
+            "88904"
+          ], 
+          "number": "6208", 
+          "slots": 12, 
+          "uid": "3116765"
+        }, 
+        "free_bikes": 5, 
+        "id": "8719f1af0e41cc64cccff77e30f671ee", 
+        "latitude": 51.85461, 
+        "longitude": 19.41622, 
+        "name": "Plac Kili\u0144skiego", 
+        "timestamp": "2017-08-15T04:49:15.537000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "89091", 
+            "89068", 
+            "88880", 
+            "88759", 
+            "88757"
+          ], 
+          "number": "6207", 
+          "slots": 12, 
+          "uid": "3116762"
+        }, 
+        "free_bikes": 6, 
+        "id": "204f6d4741bcfacec2e631f5c6b2fbbc", 
+        "latitude": 51.85789, 
+        "longitude": 19.38566, 
+        "name": "Osiedle 650-lecia", 
+        "timestamp": "2017-08-15T04:49:15.535000Z"
+      }
+    ]
+  }
+}

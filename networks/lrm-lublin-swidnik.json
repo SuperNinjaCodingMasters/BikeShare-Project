@@ -1,0 +1,116 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/lrm-lublin-swidnik", 
+    "id": "lrm-lublin-swidnik", 
+    "location": {
+      "city": "\u015awidnik", 
+      "country": "PL", 
+      "latitude": 51.2194, 
+      "longitude": 22.6988
+    }, 
+    "name": "LRM Lublin", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "69963"
+          ], 
+          "number": "6993", 
+          "slots": 10, 
+          "uid": "692587"
+        }, 
+        "free_bikes": 1, 
+        "id": "9bdd9f09c66d881bd0e8c6c1170718bc", 
+        "latitude": 51.218856591243, 
+        "longitude": 22.70790874958, 
+        "name": "ul. Niepodleg\u0142o\u015bci", 
+        "timestamp": "2017-08-15T04:48:45.411000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "69113", 
+            "69046", 
+            "69243", 
+            "69866", 
+            "69737"
+          ], 
+          "number": "6995", 
+          "slots": 10, 
+          "uid": "692598"
+        }, 
+        "free_bikes": 5, 
+        "id": "cfc92d4fe1e3637d5bdfa3455df85ec1", 
+        "latitude": 51.211245587788, 
+        "longitude": 22.708246707916, 
+        "name": "Brzeziny", 
+        "timestamp": "2017-08-15T04:48:45.422000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "69679", 
+            "69890"
+          ], 
+          "number": "6991", 
+          "slots": 15, 
+          "uid": "692585"
+        }, 
+        "free_bikes": 2, 
+        "id": "a429dc8cfd6d37953ebaf57dbdb7deb4", 
+        "latitude": 51.215997152064, 
+        "longitude": 22.697914838791, 
+        "name": "ul. Rac\u0142awicka / ul. Wyszy\u0144skiego", 
+        "timestamp": "2017-08-15T04:48:45.402000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "69011", 
+            "69116", 
+            "69147", 
+            "69260", 
+            "69412"
+          ], 
+          "number": "6992", 
+          "slots": 15, 
+          "uid": "692586"
+        }, 
+        "free_bikes": 5, 
+        "id": "1fdbeeb3913a72b50d4360ccaed2e063", 
+        "latitude": 51.225885150975, 
+        "longitude": 22.696933150291, 
+        "name": "ul. Genera\u0142a Tadeusza G\u00f3ry", 
+        "timestamp": "2017-08-15T04:48:45.410000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "69087", 
+            "69857", 
+            "69827", 
+            "69825", 
+            "69608"
+          ], 
+          "number": "6994", 
+          "slots": 10, 
+          "uid": "692596"
+        }, 
+        "free_bikes": 5, 
+        "id": "7908304a9c6b6fc5d3097b1d23967a44", 
+        "latitude": 51.220039292071, 
+        "longitude": 22.692979574203, 
+        "name": "Centrum Kultury", 
+        "timestamp": "2017-08-15T04:48:45.414000Z"
+      }
+    ]
+  }
+}

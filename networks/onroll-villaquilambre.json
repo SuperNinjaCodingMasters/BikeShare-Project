@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-villaquilambre", 
+    "id": "onroll-villaquilambre", 
+    "location": {
+      "city": "Villaquilambre", 
+      "country": "ES", 
+      "latitude": 42.642358, 
+      "longitude": -5.535311
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "225d3a94351832b02e46835b6b575e33", 
+        "latitude": 42.646618, 
+        "longitude": -5.553868, 
+        "name": "Apeadero Villaquilambre", 
+        "timestamp": "2017-08-15T04:46:03.517000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "722c178f370a1e043d05c4932a564105", 
+        "latitude": 42.635616, 
+        "longitude": -5.535822, 
+        "name": "Casa de Cultura - Villarrodrigo de las Regueras", 
+        "timestamp": "2017-08-15T04:46:03.520000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "4c0a83ea43fccee6989723ea466f8f4c", 
+        "latitude": 42.620657, 
+        "longitude": -5.534545, 
+        "name": "Casa de Cultura - Villamoros de las Regueras", 
+        "timestamp": "2017-08-15T04:46:03.522000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "828568da8dd1fd144cea66e6c78a022a", 
+        "latitude": 42.658699, 
+        "longitude": -5.525608, 
+        "name": "Casa de Cultura - Villanueva del ?rbol", 
+        "timestamp": "2017-08-15T04:46:03.523000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "803f61148e72390cf41c60ba5dcb86b2", 
+        "latitude": 42.650199, 
+        "longitude": -5.526713, 
+        "name": "Casa de Cultura - Robledo", 
+        "timestamp": "2017-08-15T04:46:03.524000Z"
+      }
+    ]
+  }
+}

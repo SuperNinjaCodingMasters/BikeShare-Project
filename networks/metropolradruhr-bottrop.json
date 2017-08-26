@@ -1,0 +1,142 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/metropolradruhr-bottrop", 
+    "id": "metropolradruhr-bottrop", 
+    "location": {
+      "city": "Bottrop", 
+      "country": "DE", 
+      "latitude": 51.5263, 
+      "longitude": 6.94611
+    }, 
+    "name": "metropolradruhr", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "7206", 
+          "slots": 8, 
+          "uid": "50354"
+        }, 
+        "free_bikes": 0, 
+        "id": "3d7eb9e750d0fecbaf4b36da2a5971ef", 
+        "latitude": 51.5241324842, 
+        "longitude": 6.92485579466, 
+        "name": "Ernst-Wilczok-Platz", 
+        "timestamp": "2017-08-15T04:46:50.322000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "7204", 
+          "slots": 8, 
+          "uid": "50352"
+        }, 
+        "free_bikes": 0, 
+        "id": "0b0a469ae4ca6abbb69b7bc7fc70c3fc", 
+        "latitude": 51.5153076069, 
+        "longitude": 6.90854204256, 
+        "name": "Knappschaftskrankenhaus", 
+        "timestamp": "2017-08-15T04:46:50.321000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "53064", 
+            "51399", 
+            "51276", 
+            "51327", 
+            "52695"
+          ], 
+          "number": "7201", 
+          "slots": 14, 
+          "uid": "50349"
+        }, 
+        "free_bikes": 5, 
+        "id": "eb93486c2425ef5b23b94cd20e19938e", 
+        "latitude": 51.5099643105, 
+        "longitude": 6.93648114621, 
+        "name": "Hauptbahnhof", 
+        "timestamp": "2017-08-15T04:46:50.298000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "51308", 
+            "51282"
+          ], 
+          "number": "7202", 
+          "slots": 10, 
+          "uid": "50351"
+        }, 
+        "free_bikes": 2, 
+        "id": "125d8f441996811317ef4c546b02ad3f", 
+        "latitude": 51.5230418757, 
+        "longitude": 6.92637540214, 
+        "name": "Berliner Platz", 
+        "timestamp": "2017-08-15T04:46:50.320000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "52994", 
+            "50704", 
+            "50719", 
+            "52830", 
+            "50440"
+          ], 
+          "number": "7205", 
+          "slots": 10, 
+          "uid": "803774"
+        }, 
+        "free_bikes": 8, 
+        "id": "c68b44dc20407e9b586b05d9cfd5815b", 
+        "latitude": 51.527353, 
+        "longitude": 6.927293, 
+        "name": "HRW/L\u00fctzowstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:50.325000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "31346", 
+            "00693", 
+            "50291"
+          ], 
+          "number": "7207", 
+          "slots": 8, 
+          "uid": "50355"
+        }, 
+        "free_bikes": 3, 
+        "id": "7fe6209275c95e8963130ba00e3790e7", 
+        "latitude": 51.5190364171, 
+        "longitude": 6.92594829534, 
+        "name": "Untere Hochstr.", 
+        "timestamp": "2017-08-15T04:46:50.323000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "50488"
+          ], 
+          "number": "7203", 
+          "slots": 8, 
+          "uid": "50350"
+        }, 
+        "free_bikes": 1, 
+        "id": "78b3201e542cd37f48b5d6c0c415b395", 
+        "latitude": 51.5220833269, 
+        "longitude": 6.92369040459, 
+        "name": "Pferdemarkt", 
+        "timestamp": "2017-08-15T04:46:50.318000Z"
+      }
+    ]
+  }
+}

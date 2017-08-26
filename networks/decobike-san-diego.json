@@ -1,0 +1,1227 @@
+{
+  "network": {
+    "company": [
+      "DecoBike LLC"
+    ], 
+    "href": "/v2/networks/decobike-san-diego", 
+    "id": "decobike-san-diego", 
+    "location": {
+      "city": "San Diego, CA", 
+      "country": "US", 
+      "latitude": 32.715738, 
+      "longitude": -117.1610838
+    }, 
+    "name": "Decobike San Diego", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "4500 Ocean Blvd (PB Boardwalk)", 
+          "uid": "92"
+        }, 
+        "free_bikes": 9, 
+        "id": "07b4726bc926e8df81cc80b3e6e4fa0a", 
+        "latitude": 32.795911, 
+        "longitude": -117.256644, 
+        "name": "92 - 4500 Ocean Blvd (PB Boardwalk)", 
+        "timestamp": "2017-08-15T04:46:29.857000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "737 Park Blvd (F St & Park Blvd)", 
+          "uid": "2"
+        }, 
+        "free_bikes": 7, 
+        "id": "8c5df39e6ce3a059fb35d95939486c45", 
+        "latitude": 32.713381, 
+        "longitude": -117.153803, 
+        "name": "2 - 737 Park Blvd (F St & Park Blvd)", 
+        "timestamp": "2017-08-15T04:46:29.769000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "425 10th Ave (J St & 10th Ave)", 
+          "uid": "3"
+        }, 
+        "free_bikes": 4, 
+        "id": "308e950b6acd4c135a4071d689bd0eba", 
+        "latitude": 32.70951, 
+        "longitude": -117.15542, 
+        "name": "3 - 425 10th Ave (J St & 10th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.785000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1091 K St (K St & 10th Ave)", 
+          "uid": "4"
+        }, 
+        "free_bikes": 6, 
+        "id": "de7aef70a5b90b20d9372f0cfa122772", 
+        "latitude": 32.70832, 
+        "longitude": -117.15524, 
+        "name": "4 - 1091 K St (K St & 10th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.786000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "345 6th Ave (J St & 6th Ave)", 
+          "uid": "7"
+        }, 
+        "free_bikes": 10, 
+        "id": "ce29db01f08495405193e5180b844a4c", 
+        "latitude": 32.708972, 
+        "longitude": -117.159135, 
+        "name": "7 - 345 6th Ave (J St & 6th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.788000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "815 J St (J St & 9th Ave)", 
+          "uid": "8"
+        }, 
+        "free_bikes": 12, 
+        "id": "a34636392b6123c57e24bbe3234c4b47", 
+        "latitude": 32.709411, 
+        "longitude": -117.156876, 
+        "name": "8 - 815 J St (J St & 9th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.789000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "4198 Mission Bay Dr (Mission Bay Boat Ramp)", 
+          "uid": "13"
+        }, 
+        "free_bikes": 7, 
+        "id": "353126358526c7ce1968af259fc46a76", 
+        "latitude": 32.7923203, 
+        "longitude": -117.2091202, 
+        "name": "13 - 4198 Mission Bay Dr (Mission Bay Boat Ramp)", 
+        "timestamp": "2017-08-15T04:46:29.792000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "700 9th Ave (G St & 9th Ave)", 
+          "uid": "14"
+        }, 
+        "free_bikes": 2, 
+        "id": "d6b8e424a434d26ac0f6885edb6b271c", 
+        "latitude": 32.71274, 
+        "longitude": -117.15661, 
+        "name": "14 - 700 9th Ave (G St & 9th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.793000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "625 8th Ave (Market St & 8th Ave)", 
+          "uid": "15"
+        }, 
+        "free_bikes": 3, 
+        "id": "ef5b8b4c39ac00f8735fb3f2368e59bf", 
+        "latitude": 32.711837, 
+        "longitude": -117.157405, 
+        "name": "15 - 625 8th Ave (Market St & 8th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.794000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "726 6th Ave (G St & 6th Ave)", 
+          "uid": "17"
+        }, 
+        "free_bikes": 11, 
+        "id": "084f1e27c23959dd0728ef710cd05814", 
+        "latitude": 32.71287, 
+        "longitude": -117.15933, 
+        "name": "17 - 726 6th Ave (G St & 6th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.795000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "645 Market St (Market St & 7th Ave)", 
+          "uid": "18"
+        }, 
+        "free_bikes": 9, 
+        "id": "76d256d4f0b25c463df1ab0e17921a75", 
+        "latitude": 32.711415, 
+        "longitude": -117.158585, 
+        "name": "18 - 645 Market St (Market St & 7th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.796000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "685 2nd Ave (G St & 2nd Ave)", 
+          "uid": "22"
+        }, 
+        "free_bikes": 10, 
+        "id": "6b078a5488073c77d24c260c9d35875e", 
+        "latitude": 32.71223, 
+        "longitude": -117.163, 
+        "name": "22 - 685 2nd Ave (G St & 2nd Ave)", 
+        "timestamp": "2017-08-15T04:46:29.803000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "400 Front St (W Island Ave & Front St)", 
+          "uid": "23"
+        }, 
+        "free_bikes": 15, 
+        "id": "b3668369a4b570cf0e26fcea2f35a35d", 
+        "latitude": 32.70997, 
+        "longitude": -117.16486, 
+        "name": "23 - 400 Front St (W Island Ave & Front St)", 
+        "timestamp": "2017-08-15T04:46:29.804000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "839 B St (B St & 8th Ave)", 
+          "uid": "47"
+        }, 
+        "free_bikes": 6, 
+        "id": "fdafe665fd30649c9b76683dae91a8fb", 
+        "latitude": 32.71773, 
+        "longitude": -117.157059, 
+        "name": "47 - 839 B St (B St & 8th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.812000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1157 6th Ave (B St & 6th Ave)", 
+          "uid": "48"
+        }, 
+        "free_bikes": 6, 
+        "id": "c80fea4639b1c0898b3501e65ad52a76", 
+        "latitude": 32.717475, 
+        "longitude": -117.159199, 
+        "name": "48 - 1157 6th Ave (B St & 6th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.813000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "510 C St (C St & 5th Ave)", 
+          "uid": "49"
+        }, 
+        "free_bikes": 8, 
+        "id": "cc6418fe9d4f1957c7c49a0aff2c9869", 
+        "latitude": 32.71681, 
+        "longitude": -117.15976, 
+        "name": "49 - 510 C St (C St & 5th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.813000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1249 Park Blvd (B St & Park Blvd)", 
+          "uid": "51"
+        }, 
+        "free_bikes": 7, 
+        "id": "51546f6de3f3c2fcd38a81bf8f10c559", 
+        "latitude": 32.718378, 
+        "longitude": -117.153652, 
+        "name": "51 - 1249 Park Blvd (B St & Park Blvd)", 
+        "timestamp": "2017-08-15T04:46:29.824000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1439 Broadway (SDPD HQ)", 
+          "uid": "53"
+        }, 
+        "free_bikes": 3, 
+        "id": "70f46ec3bece41a3f76a15d5d6db5175", 
+        "latitude": 32.715541, 
+        "longitude": -117.151383, 
+        "name": "53 - 1439 Broadway (SDPD HQ)", 
+        "timestamp": "2017-08-15T04:46:29.826000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "444 G St (G St & 5th Ave)", 
+          "uid": "56"
+        }, 
+        "free_bikes": 13, 
+        "id": "3a0c056f84dc6436bed22485cdca9085", 
+        "latitude": 32.712573, 
+        "longitude": -117.160282, 
+        "name": "56 - 444 G St (G St & 5th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.832000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "302 Island Ave (Island Ave & 3rd Ave)", 
+          "uid": "57"
+        }, 
+        "free_bikes": 5, 
+        "id": "37e3e3ba46ff916b3d02fbcf3b651653", 
+        "latitude": 32.710556, 
+        "longitude": -117.161667, 
+        "name": "57 - 302 Island Ave (Island Ave & 3rd Ave)", 
+        "timestamp": "2017-08-15T04:46:29.834000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "1443 Union St (W Ash St & Union St)", 
+          "uid": "58"
+        }, 
+        "free_bikes": 5, 
+        "id": "083ac4e7ad3c1c898a1edfb875fd6d97", 
+        "latitude": 32.7201, 
+        "longitude": -117.16548, 
+        "name": "58 - 1443 Union St (W Ash St & Union St)", 
+        "timestamp": "2017-08-15T04:46:29.839000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "602 W Fir St (W Fir St & Columbia St)", 
+          "uid": "59"
+        }, 
+        "free_bikes": 0, 
+        "id": "5a69a10992372b282659723a2e98d250", 
+        "latitude": 32.72468, 
+        "longitude": -117.1679, 
+        "name": "59 - 602 W Fir St (W Fir St & Columbia St)", 
+        "timestamp": "2017-08-15T04:46:29.841000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "782 W Cedar St (Cedar St & Kettner Blvd)", 
+          "uid": "61"
+        }, 
+        "free_bikes": 1, 
+        "id": "b21f446208b89d3acbbaf0390da3f385", 
+        "latitude": 32.72207, 
+        "longitude": -117.169419, 
+        "name": "61 - 782 W Cedar St (Cedar St & Kettner Blvd)", 
+        "timestamp": "2017-08-15T04:46:29.842000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "671 W Beech St (W Beech St & India St)", 
+          "uid": "62"
+        }, 
+        "free_bikes": 3, 
+        "id": "9ef696e798d4112f6d86174e5bd72355", 
+        "latitude": 32.720889, 
+        "longitude": -117.168397, 
+        "name": "62 - 671 W Beech St (W Beech St & India St)", 
+        "timestamp": "2017-08-15T04:46:29.842000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "705 W Grape St (W Grape St & India St)", 
+          "uid": "63"
+        }, 
+        "free_bikes": 7, 
+        "id": "d6df160b9710ef55474158f36022c7b5", 
+        "latitude": 32.725255, 
+        "longitude": -117.169231, 
+        "name": "63 - 705 W Grape St (W Grape St & India St)", 
+        "timestamp": "2017-08-15T04:46:29.845000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "4026 Dove St (Washington St & Dove St)", 
+          "uid": "69"
+        }, 
+        "free_bikes": 2, 
+        "id": "665bba042b035d5cc399534d25a2e201", 
+        "latitude": 32.75009, 
+        "longitude": -117.168741, 
+        "name": "69 - 4026 Dove St (Washington St & Dove St)", 
+        "timestamp": "2017-08-15T04:46:29.849000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "4019 Front St (Washington St & Front St)", 
+          "uid": "70"
+        }, 
+        "free_bikes": 0, 
+        "id": "2a6b25527103df6ff5dce4cb62856713", 
+        "latitude": 32.7501, 
+        "longitude": -117.16496, 
+        "name": "70 - 4019 Front St (Washington St & Front St)", 
+        "timestamp": "2017-08-15T04:46:29.849000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "640 University Ave (University Ave & 6th Ave)", 
+          "uid": "71"
+        }, 
+        "free_bikes": 1, 
+        "id": "e47e11af95404f76189e66531382ea18", 
+        "latitude": 32.74848, 
+        "longitude": -117.15892, 
+        "name": "71 - 640 University Ave (University Ave & 6th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.855000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "3949 Vermont St (University Ave & Vermont St)", 
+          "uid": "73"
+        }, 
+        "free_bikes": 2, 
+        "id": "549c2ef238af4efca46b27bab1dfc483", 
+        "latitude": 32.748753, 
+        "longitude": -117.153464, 
+        "name": "73 - 3949 Vermont St (University Ave & Vermont St)", 
+        "timestamp": "2017-08-15T04:46:29.856000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "3909 Richmond St (University Ave & Richmond St)", 
+          "uid": "116"
+        }, 
+        "free_bikes": 8, 
+        "id": "8e4efcdd05f788f866da1520454247e6", 
+        "latitude": 32.7488, 
+        "longitude": -117.15111, 
+        "name": "116 - 3909 Richmond St (University Ave & Richmond St)", 
+        "timestamp": "2017-08-15T04:46:29.870000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2350 Texas St (University Ave & Texas St)", 
+          "uid": "119"
+        }, 
+        "free_bikes": 5, 
+        "id": "15f6ef069988f4d99d18b47b4732c208", 
+        "latitude": 32.748645, 
+        "longitude": -117.138941, 
+        "name": "119 - 2350 Texas St (University Ave & Texas St)", 
+        "timestamp": "2017-08-15T04:46:29.873000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "3900 Utah St (University Ave & Utah St)", 
+          "uid": "120"
+        }, 
+        "free_bikes": 2, 
+        "id": "705eacb8d5894ba9f03c306529106164", 
+        "latitude": 32.748693, 
+        "longitude": -117.132717, 
+        "name": "120 - 3900 Utah St (University Ave & Utah St)", 
+        "timestamp": "2017-08-15T04:46:29.875000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "3880 30th St (University Ave & 30th St)", 
+          "uid": "121"
+        }, 
+        "free_bikes": 9, 
+        "id": "42839bcb53890f2782b9f14b216b58d7", 
+        "latitude": 32.748081, 
+        "longitude": -117.130081, 
+        "name": "121 - 3880 30th St (University Ave & 30th St)", 
+        "timestamp": "2017-08-15T04:46:29.876000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1125 Cesar E. Chavez Pkway (Mercado del Barrio)", 
+          "uid": "135"
+        }, 
+        "free_bikes": 8, 
+        "id": "ccfcf3fad2a148201d2ee132bdac645d", 
+        "latitude": 32.69956, 
+        "longitude": -117.14589, 
+        "name": "135 - 1125 Cesar E. Chavez Pkway (Mercado del Barrio)", 
+        "timestamp": "2017-08-15T04:46:29.882000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1800 Logan Ave (Logan Ave & Beardsley St)", 
+          "uid": "136"
+        }, 
+        "free_bikes": 6, 
+        "id": "bafdaa291dde254a2709043fe6f8e98b", 
+        "latitude": 32.702563, 
+        "longitude": -117.145734, 
+        "name": "136 - 1800 Logan Ave (Logan Ave & Beardsley St)", 
+        "timestamp": "2017-08-15T04:46:29.885000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1601 State St (W Cedar & State St)", 
+          "uid": "137"
+        }, 
+        "free_bikes": 9, 
+        "id": "15b3c80db044e83f3bcead29a89a763e", 
+        "latitude": 32.722077, 
+        "longitude": -117.166427, 
+        "name": "137 - 1601 State St (W Cedar & State St)", 
+        "timestamp": "2017-08-15T04:46:29.886000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1616 National Ave (National Ave & S 16th St)", 
+          "uid": "138"
+        }, 
+        "free_bikes": 5, 
+        "id": "9898aefd2a8df0bf548889b6ad83260e", 
+        "latitude": 32.70406, 
+        "longitude": -117.14976, 
+        "name": "138 - 1616 National Ave (National Ave & S 16th St)", 
+        "timestamp": "2017-08-15T04:46:29.887000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1441 L St (Mission Brewery)", 
+          "uid": "139"
+        }, 
+        "free_bikes": 7, 
+        "id": "f0ed958d70a297b1d45924913f023cb3", 
+        "latitude": 32.707222, 
+        "longitude": -117.151389, 
+        "name": "139 - 1441 L St (Mission Brewery)", 
+        "timestamp": "2017-08-15T04:46:29.889000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "1206 28th St (B St & 28th St)", 
+          "uid": "143"
+        }, 
+        "free_bikes": 0, 
+        "id": "d65f19bfca7d8d6ee2502743712e29d3", 
+        "latitude": 32.71818, 
+        "longitude": -117.13394, 
+        "name": "143 - 1206 28th St (B St & 28th St)", 
+        "timestamp": "2017-08-15T04:46:29.890000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1901 Park Blvd (Inspiration Point Parking Lot)", 
+          "uid": "150"
+        }, 
+        "free_bikes": 4, 
+        "id": "16831fb61dff47b2685745e4c3632fa7", 
+        "latitude": 32.725331, 
+        "longitude": -117.1491, 
+        "name": "150 - 1901 Park Blvd (Inspiration Point Parking Lot)", 
+        "timestamp": "2017-08-15T04:46:29.893000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "699 El Prado (El Prado & Balboa Dr)", 
+          "uid": "163"
+        }, 
+        "free_bikes": 3, 
+        "id": "54a0489a2eebc4c59cfe105efe349048", 
+        "latitude": 32.731389, 
+        "longitude": -117.158333, 
+        "name": "163 - 699 El Prado (El Prado & Balboa Dr)", 
+        "timestamp": "2017-08-15T04:46:29.894000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "3370 Balboa Dr (Balboa Dr & 6th Ave)", 
+          "uid": "164"
+        }, 
+        "free_bikes": 5, 
+        "id": "3c398ff3cd87432447a7226df5528876", 
+        "latitude": 32.740763, 
+        "longitude": -117.159084, 
+        "name": "164 - 3370 Balboa Dr (Balboa Dr & 6th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.901000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "450 Robinson Ave (Robinson Ave & 5th Ave)", 
+          "uid": "184"
+        }, 
+        "free_bikes": 5, 
+        "id": "60a432b1b98b31e626a3416fc579da00", 
+        "latitude": 32.747017, 
+        "longitude": -117.16072, 
+        "name": "184 - 450 Robinson Ave (Robinson Ave & 5th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.902000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "3000 Polk Ave (Polk Ave & 30th Ave)", 
+          "uid": "185"
+        }, 
+        "free_bikes": 8, 
+        "id": "7b53d79d5cb630f602fe938a08279b02", 
+        "latitude": 32.752278, 
+        "longitude": -117.129934, 
+        "name": "185 - 3000 Polk Ave (Polk Ave & 30th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.905000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2220 Fern St (Ivy St & Fern St)", 
+          "uid": "125"
+        }, 
+        "free_bikes": 7, 
+        "id": "8e9702f0d2fd85a2a6826a100fbae486", 
+        "latitude": 32.729034, 
+        "longitude": -117.12978, 
+        "name": "125 - 2220 Fern St (Ivy St & Fern St)", 
+        "timestamp": "2017-08-15T04:46:29.909000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "399 Park Blvd (J St & Park Ave)", 
+          "uid": "1"
+        }, 
+        "free_bikes": 5, 
+        "id": "5888f974c405aa790a6d7c726119c411", 
+        "latitude": 32.7091725, 
+        "longitude": -117.153791, 
+        "name": "1 - 399 Park Blvd (J St & Park Ave)", 
+        "timestamp": "2017-08-15T04:46:29.910000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1151 3rd Ave (B St & 3rd Ave)", 
+          "uid": "46"
+        }, 
+        "free_bikes": 4, 
+        "id": "1f4d571983f5a66de5cc72c469263a6c", 
+        "latitude": 32.717449, 
+        "longitude": -117.161923, 
+        "name": "46 - 1151 3rd Ave (B St & 3rd Ave)", 
+        "timestamp": "2017-08-15T04:46:29.916000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4909 Pacific Highway (DecoBike SD)", 
+          "uid": "999"
+        }, 
+        "free_bikes": 3, 
+        "id": "7c610d01cfe3bd758828468673659ec8", 
+        "latitude": 32.764856, 
+        "longitude": -117.204178, 
+        "name": "999 - 4909 Pacific Highway (DecoBike SD)", 
+        "timestamp": "2017-08-15T04:46:29.918000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1060 Imperial Ave (Imperial Ave & Park Blvd)", 
+          "uid": "140"
+        }, 
+        "free_bikes": 6, 
+        "id": "f2c091e51f2aba2f47f00477141b0810", 
+        "latitude": 32.7062678, 
+        "longitude": -117.154745, 
+        "name": "140 - 1060 Imperial Ave (Imperial Ave & Park Blvd)", 
+        "timestamp": "2017-08-15T04:46:29.919000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1047 W G Street (USS Midway)", 
+          "uid": "33"
+        }, 
+        "free_bikes": 15, 
+        "id": "0325aa2791ac71e23be2b090c1a15db4", 
+        "latitude": 32.7125485, 
+        "longitude": -117.1732058, 
+        "name": "33 - 1047 W G Street (USS Midway)", 
+        "timestamp": "2017-08-15T04:46:29.922000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "869 West Harbor Drive (Seaport Village)", 
+          "uid": "31"
+        }, 
+        "free_bikes": 15, 
+        "id": "b6974c024912c3cd7acdd7c4d33ff0df", 
+        "latitude": 32.7081531, 
+        "longitude": -117.1700674, 
+        "name": "31 - 869 West Harbor Drive (Seaport Village)", 
+        "timestamp": "2017-08-15T04:46:29.922000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "910 Grand Ave (Grand Ave & Bayard St)", 
+          "uid": "102"
+        }, 
+        "free_bikes": 3, 
+        "id": "1ea68b54db372814299bfc432be6c485", 
+        "latitude": 32.79534, 
+        "longitude": -117.25257, 
+        "name": "102 - 910 Grand Ave (Grand Ave & Bayard St)", 
+        "timestamp": "2017-08-15T04:46:29.859000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "780 Thomas Ave (Thomas Ave & Mission Blvd)", 
+          "uid": "103"
+        }, 
+        "free_bikes": 9, 
+        "id": "3aabd299cda626f2b17a1fc7aabd9b8a", 
+        "latitude": 32.793611, 
+        "longitude": -117.255, 
+        "name": "103 - 780 Thomas Ave (Thomas Ave & Mission Blvd)", 
+        "timestamp": "2017-08-15T04:46:29.859000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "760 Pacific Beach Dr (P.B. Dr & Mission Blvd)", 
+          "uid": "105"
+        }, 
+        "free_bikes": 7, 
+        "id": "dbeea252422f0e52d08e5aa46d889d31", 
+        "latitude": 32.79094, 
+        "longitude": -117.25403, 
+        "name": "105 - 760 Pacific Beach Dr (P.B. Dr & Mission Blvd)", 
+        "timestamp": "2017-08-15T04:46:29.908000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "5800 Newport Ave (Newport Ave & Abbott Ave)", 
+          "uid": "112"
+        }, 
+        "free_bikes": 4, 
+        "id": "4a5f0d01cd7381e903f668065400841a", 
+        "latitude": 32.747643, 
+        "longitude": -117.252542, 
+        "name": "112 - 5800 Newport Ave (Newport Ave & Abbott Ave)", 
+        "timestamp": "2017-08-15T04:46:29.864000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2100 Spray St (Spray St & Brighton Ave)", 
+          "uid": "115"
+        }, 
+        "free_bikes": 8, 
+        "id": "00c6fdecf29054997c1ea69b078e139f", 
+        "latitude": 32.75257, 
+        "longitude": -117.25161, 
+        "name": "115 - 2100 Spray St (Spray St & Brighton Ave)", 
+        "timestamp": "2017-08-15T04:46:29.865000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "2576 Laning Rd (USS Recruit, Liberty Station)", 
+          "uid": "131"
+        }, 
+        "free_bikes": 7, 
+        "id": "1eaaa64b0ad98a35ce5eb583d241668a", 
+        "latitude": 32.728715, 
+        "longitude": -117.215974, 
+        "name": "131 - 2576 Laning Rd (USS Recruit, Liberty Station)", 
+        "timestamp": "2017-08-15T04:46:29.879000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "738 W Broadway (W Broadway & Kettner Blvd)", 
+          "uid": "26"
+        }, 
+        "free_bikes": 9, 
+        "id": "03a9464e41d88403d51059b837fc1de2", 
+        "latitude": 32.715766, 
+        "longitude": -117.1694539, 
+        "name": "26 - 738 W Broadway (W Broadway & Kettner Blvd)", 
+        "timestamp": "2017-08-15T04:46:29.805000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "251 10th Ave (K St & 10th Ave)", 
+          "uid": "5"
+        }, 
+        "free_bikes": 4, 
+        "id": "66e736fdcf9797a349f6aa56ee670615", 
+        "latitude": 32.707992, 
+        "longitude": -117.155586, 
+        "name": "5 - 251 10th Ave (K St & 10th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.787000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3900 N Harbor Dr (Spanish Landing Park)", 
+          "uid": "175"
+        }, 
+        "free_bikes": 3, 
+        "id": "5c58907a9c151f56e59b63e1fa28610b", 
+        "latitude": 32.729246, 
+        "longitude": -117.204618, 
+        "name": "175 - 3900 N Harbor Dr (Spanish Landing Park)", 
+        "timestamp": "2017-08-15T04:46:29.932000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1005 W Mission Bay Dr (Bonita Cove Park)", 
+          "uid": "108"
+        }, 
+        "free_bikes": 13, 
+        "id": "40bc89b1e7946266c7f7ff51fd7886c3", 
+        "latitude": 32.771761, 
+        "longitude": -117.248364, 
+        "name": "108 - 1005 W Mission Bay Dr (Bonita Cove Park)", 
+        "timestamp": "2017-08-15T04:46:29.861000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "636 L St (L St & Tony Gwynn Dr)", 
+          "uid": "9"
+        }, 
+        "free_bikes": 8, 
+        "id": "61f7293d3fc606fcac5d00151a29b553", 
+        "latitude": 32.7073446, 
+        "longitude": -117.158515, 
+        "name": "9 - 636 L St (L St & Tony Gwynn Dr)", 
+        "timestamp": "2017-08-15T04:46:29.790000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "450 J St (J St & 5th Ave)", 
+          "uid": "19"
+        }, 
+        "free_bikes": 10, 
+        "id": "29f26e782cd8f10b3c3b1f060f99452c", 
+        "latitude": 32.709447, 
+        "longitude": -117.160373, 
+        "name": "19 - 450 J St (J St & 5th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.801000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "598 W G St (Pantoja Park)", 
+          "uid": "40"
+        }, 
+        "free_bikes": 6, 
+        "id": "098a7b9b2fad60ad53a731388e3ecccd", 
+        "latitude": 32.7125212, 
+        "longitude": -117.1681482, 
+        "name": "40 - 598 W G St (Pantoja Park)", 
+        "timestamp": "2017-08-15T04:46:29.807000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1160 Harbor Island Dr (Harbor Island Entrance)", 
+          "uid": "35"
+        }, 
+        "free_bikes": 4, 
+        "id": "3ea530d98e9836145014080cd509e007", 
+        "latitude": 32.729034, 
+        "longitude": -117.195309, 
+        "name": "35 - 1160 Harbor Island Dr (Harbor Island Entrance)", 
+        "timestamp": "2017-08-15T04:46:29.926000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1240 East Mission Bay Dr (Fiesta Island Park)", 
+          "uid": "187"
+        }, 
+        "free_bikes": 7, 
+        "id": "8f3f31551a7cc626c8a0a4c3dc132ecd", 
+        "latitude": 32.768515, 
+        "longitude": -117.209536, 
+        "name": "187 - 1240 East Mission Bay Dr (Fiesta Island Park)", 
+        "timestamp": "2017-08-15T04:46:29.906000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "425 F St (F St & 5th Ave)", 
+          "uid": "55"
+        }, 
+        "free_bikes": 6, 
+        "id": "4c7138f9598798fb1da2dbed0b863524", 
+        "latitude": 32.713598, 
+        "longitude": -117.160394, 
+        "name": "55 - 425 F St (F St & 5th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.827000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "4590 Cass St (Felspar St & Cass St)", 
+          "uid": "97"
+        }, 
+        "free_bikes": 5, 
+        "id": "f87c1c62bc8bbf3c0c5f2d59d34b1c04", 
+        "latitude": 32.798057, 
+        "longitude": -117.251957, 
+        "name": "97 - 4590 Cass St (Felspar St & Cass St)", 
+        "timestamp": "2017-08-15T04:46:29.907000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2440 Truxtun Rd (Truxtun Rd & Womble Rd)", 
+          "uid": "133"
+        }, 
+        "free_bikes": 3, 
+        "id": "0d4566f305888e54eed6f7898d6f1fc4", 
+        "latitude": 32.736693, 
+        "longitude": -117.217042, 
+        "name": "133 - 2440 Truxtun Rd (Truxtun Rd & Womble Rd)", 
+        "timestamp": "2017-08-15T04:46:29.881000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1809 Washington St (Washington St & San Diego Ave)", 
+          "uid": "64"
+        }, 
+        "free_bikes": 3, 
+        "id": "f035da705a40d267a3e05db1c58042d3", 
+        "latitude": 32.74283, 
+        "longitude": -117.18155, 
+        "name": "64 - 1809 Washington St (Washington St & San Diego Ave)", 
+        "timestamp": "2017-08-15T04:46:29.845000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "4779 Newport Ave(Newport Ave & Sunset Cliffs Blvd)", 
+          "uid": "113"
+        }, 
+        "free_bikes": 7, 
+        "id": "f9e2b2645458218cd8bf47cd696fcea9", 
+        "latitude": 32.744597, 
+        "longitude": -117.247494, 
+        "name": "113 - 4779 Newport Ave(Newport Ave & Sunset Cliffs Blvd)", 
+        "timestamp": "2017-08-15T04:46:29.864000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "200 Marina Park Way(Embarcadero Marina Park South)", 
+          "uid": "30"
+        }, 
+        "free_bikes": 9, 
+        "id": "44d490f79f6f44c71464b62c3dac2bac", 
+        "latitude": 32.7057646, 
+        "longitude": -117.1634446, 
+        "name": "30 - 200 Marina Park Way(Embarcadero Marina Park South)", 
+        "timestamp": "2017-08-15T04:46:29.923000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "499 1st Ave (Island Ave & 1st Ave)", 
+          "uid": "21"
+        }, 
+        "free_bikes": 12, 
+        "id": "5e529fcf3314fb4740d214bb3c301973", 
+        "latitude": 32.710163, 
+        "longitude": -117.163684, 
+        "name": "21 - 499 1st Ave (Island Ave & 1st Ave)", 
+        "timestamp": "2017-08-15T04:46:29.803000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "1100 N Harbor Dr (B St Pier)", 
+          "uid": "208"
+        }, 
+        "free_bikes": 3, 
+        "id": "ece618144aa6a9e11b7ad2842aceab5f", 
+        "latitude": 32.716874, 
+        "longitude": -117.173246, 
+        "name": "208 - 1100 N Harbor Dr (B St Pier)", 
+        "timestamp": "2017-08-15T04:46:29.921000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1098 W Mission Bay Dr (Ventura Cove Park)", 
+          "uid": "110"
+        }, 
+        "free_bikes": 7, 
+        "id": "d1c6ee54ca1a719f4e555eaa9eb871b0", 
+        "latitude": 32.770619, 
+        "longitude": -117.245857, 
+        "name": "110 - 1098 W Mission Bay Dr (Ventura Cove Park)", 
+        "timestamp": "2017-08-15T04:46:29.862000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2920 Zoo Dr (San Diego Zoo)", 
+          "uid": "145"
+        }, 
+        "free_bikes": 12, 
+        "id": "ff05b3c336dc68df6b5c630640802f4a", 
+        "latitude": 32.735345, 
+        "longitude": -117.148271, 
+        "name": "145 - 2920 Zoo Dr (San Diego Zoo)", 
+        "timestamp": "2017-08-15T04:46:29.891000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "822 1st Ave (W F St & 1st Ave)", 
+          "uid": "42"
+        }, 
+        "free_bikes": 8, 
+        "id": "443382239387ac43bae2bd34b394fee5", 
+        "latitude": 32.713831, 
+        "longitude": -117.163854, 
+        "name": "42 - 822 1st Ave (W F St & 1st Ave)", 
+        "timestamp": "2017-08-15T04:46:29.808000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "900 6th Ave (E St & 6th Ave)", 
+          "uid": "50"
+        }, 
+        "free_bikes": 7, 
+        "id": "c9ecbd936e5134040ee73587be237ba8", 
+        "latitude": 32.714838, 
+        "longitude": -117.15938, 
+        "name": "50 - 900 6th Ave (E St & 6th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.814000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "895 Broadway Cir (Horton Square)", 
+          "uid": "45"
+        }, 
+        "free_bikes": 2, 
+        "id": "84368e73b251b799c45eec2d6840997a", 
+        "latitude": 32.714653, 
+        "longitude": -117.16213, 
+        "name": "45 - 895 Broadway Cir (Horton Square)", 
+        "timestamp": "2017-08-15T04:46:29.915000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "4490 Bayard St (Garnet Ave & Bayard St)", 
+          "uid": "96"
+        }, 
+        "free_bikes": 4, 
+        "id": "12d38d813cd717b5097790ba8b3216ba", 
+        "latitude": 32.796899, 
+        "longitude": -117.253595, 
+        "name": "96 - 4490 Bayard St (Garnet Ave & Bayard St)", 
+        "timestamp": "2017-08-15T04:46:29.858000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2727 De Anza Rd (N Mission Bay Dr & De Anza Rd)", 
+          "uid": "118"
+        }, 
+        "free_bikes": 6, 
+        "id": "cc394fce7e10e2be4e6065c3fa7308b1", 
+        "latitude": 32.798153, 
+        "longitude": -117.215792, 
+        "name": "118 - 2727 De Anza Rd (N Mission Bay Dr & De Anza Rd)", 
+        "timestamp": "2017-08-15T04:46:29.872000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "3757 Park Blvd (Robinson Ave & Park Blvd)", 
+          "uid": "117"
+        }, 
+        "free_bikes": 4, 
+        "id": "81bb69aaeaea96b10be28041c2dc4e91", 
+        "latitude": 32.746723, 
+        "longitude": -117.14622, 
+        "name": "117 - 3757 Park Blvd (Robinson Ave & Park Blvd)", 
+        "timestamp": "2017-08-15T04:46:29.920000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Dana Landing Rd & W Mission Bay Dr", 
+          "uid": "111"
+        }, 
+        "free_bikes": 3, 
+        "id": "7c56e182ffc933774038c7532c319066", 
+        "latitude": 32.765747, 
+        "longitude": -117.237956, 
+        "name": "111 - Dana Landing Rd & W Mission Bay Dr", 
+        "timestamp": "2017-08-15T04:46:29.863000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "2753 Historic Decatur Rd (Bks 15, Liberty Station)", 
+          "uid": "128"
+        }, 
+        "free_bikes": 8, 
+        "id": "aeead78eaf0c0b3e68602d3a4799684f", 
+        "latitude": 32.73898, 
+        "longitude": -117.21185, 
+        "name": "128 - 2753 Historic Decatur Rd (Bks 15, Liberty Station)", 
+        "timestamp": "2017-08-15T04:46:29.878000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2801 Congress St.", 
+          "uid": "66"
+        }, 
+        "free_bikes": 9, 
+        "id": "9eb26325a54c40c41a989a172f13e200", 
+        "latitude": 32.755413, 
+        "longitude": -117.199426, 
+        "name": "66 - 2801 Congress St.", 
+        "timestamp": "2017-08-15T04:46:29.935000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "700 Grand Ave (PB Lifeguard Station)", 
+          "uid": "104"
+        }, 
+        "free_bikes": 8, 
+        "id": "4a1228da32f9ea95f043bc574d99b15c", 
+        "latitude": 32.794612, 
+        "longitude": -117.256105, 
+        "name": "104 - 700 Grand Ave (PB Lifeguard Station)", 
+        "timestamp": "2017-08-15T04:46:29.924000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1960 Harbor Island Dr (West Harbor Island)", 
+          "uid": "36"
+        }, 
+        "free_bikes": 7, 
+        "id": "0ff21ee9e9de6a066a91f12f9990ee66", 
+        "latitude": 32.7247666, 
+        "longitude": -117.2090306, 
+        "name": "36 - 1960 Harbor Island Dr (West Harbor Island)", 
+        "timestamp": "2017-08-15T04:46:29.928000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "955 Harbor Island Dr (East Harbor Island)", 
+          "uid": "174"
+        }, 
+        "free_bikes": 2, 
+        "id": "f25bc981b8c6f492626c508ecf18ce06", 
+        "latitude": 32.7246269, 
+        "longitude": -117.1911637, 
+        "name": "174 - 955 Harbor Island Dr (East Harbor Island)", 
+        "timestamp": "2017-08-15T04:46:29.929000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1929 4th Ave (Fir St & 4th Ave)", 
+          "uid": "197"
+        }, 
+        "free_bikes": 1, 
+        "id": "c6f46929c3e5a4e6afd8054c1c7b5667", 
+        "latitude": 32.725632, 
+        "longitude": -117.16114, 
+        "name": "197 - 1929 4th Ave (Fir St & 4th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.917000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "501 L St (L St & 5th Ave)", 
+          "uid": "10"
+        }, 
+        "free_bikes": 6, 
+        "id": "9bc9030d24d03c97d15533dde1b8c872", 
+        "latitude": 32.7072949, 
+        "longitude": -117.159987, 
+        "name": "10 - 501 L St (L St & 5th Ave)", 
+        "timestamp": "2017-08-15T04:46:29.791000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1492 N Harbor Dr (W Ash St & N Harbor Dr)", 
+          "uid": "52"
+        }, 
+        "free_bikes": 8, 
+        "id": "ffe037a9bc90a6638631feb829c75092", 
+        "latitude": 32.720071, 
+        "longitude": -117.172911, 
+        "name": "52 - 1492 N Harbor Dr (W Ash St & N Harbor Dr)", 
+        "timestamp": "2017-08-15T04:46:29.825000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1899 N Harbor Dr (W Grape St and N Harbor Dr)", 
+          "uid": "68"
+        }, 
+        "free_bikes": 7, 
+        "id": "87570e3624bd615cd830270630133ac5", 
+        "latitude": 32.724004, 
+        "longitude": -117.173074, 
+        "name": "68 - 1899 N Harbor Dr (W Grape St and N Harbor Dr)", 
+        "timestamp": "2017-08-15T04:46:29.848000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "2313 East Mission Bay Dr (Hilton San Diego Resort)", 
+          "uid": "39"
+        }, 
+        "free_bikes": 4, 
+        "id": "e3738d4259e5455817a2d35217ac18a7", 
+        "latitude": 32.780144, 
+        "longitude": -117.209317, 
+        "name": "39 - 2313 East Mission Bay Dr (Hilton San Diego Resort)", 
+        "timestamp": "2017-08-15T04:46:29.806000Z"
+      }
+    ]
+  }
+}

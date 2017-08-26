@@ -1,0 +1,436 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/cyclic", 
+    "id": "cyclic", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Rouen", 
+      "country": "FR", 
+      "latitude": 49.44323199999999, 
+      "longitude": 1.099971
+    }, 
+    "name": "cy'clic", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "RUE DE LESSARD ANGLE AVENUE DE GRAMMOND", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772284000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 10, 
+        "id": "c13f5c2677b1c52af96459e13bbd4b85", 
+        "latitude": 49.427214017510224, 
+        "longitude": 1.096418417222262, 
+        "name": "21 - SIMONE DE BEAUVOIR", 
+        "timestamp": "2017-08-15T04:46:30.180000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "RUE DE L HOPITAL", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772126000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 0, 
+        "id": "f734567debf00af11153be1883204963", 
+        "latitude": 49.44250558644192, 
+        "longitude": 1.098266338219107, 
+        "name": "05- HOTEL DE VILLE", 
+        "timestamp": "2017-08-15T04:46:30.158000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "ROUTE DE DARNETAL", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772101000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 10, 
+        "id": "c2178ee12f12dfb51ffeb2c6bbc32278", 
+        "latitude": 49.441452231089485, 
+        "longitude": 1.120087272683398, 
+        "name": "20 - AUBERGE DE JEUNESSE", 
+        "timestamp": "2017-08-15T04:46:30.161000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenue des Martyrs de la R\u00e9sistance angle rue de la mare au parc", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772134000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 5, 
+        "id": "b9d0e90ea85114d262f161932ed00491", 
+        "latitude": 49.42174920022087, 
+        "longitude": 1.079707617664568, 
+        "name": "19 - JARDIN DES PLANTES", 
+        "timestamp": "2017-08-15T04:46:30.162000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "DEVANT N\u00b0 39 ALLEE EUGENE DELACROIX", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772066000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 18, 
+        "id": "1681166e9861d32096cae0b4110f46b8", 
+        "latitude": 49.44430797679112, 
+        "longitude": 1.093579586130271, 
+        "name": "04- MUSEE DES BEAUX ARTS", 
+        "timestamp": "2017-08-15T04:46:30.163000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rue des Carmes angle rue du Gros Horloge", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772084000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 9, 
+        "id": "e4e9ef81fd1e0a2dffcc964395b7c140", 
+        "latitude": 49.440904, 
+        "longitude": 1.09396, 
+        "name": "22 - CATHEDRALE", 
+        "timestamp": "2017-08-15T04:46:30.164000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "COURS CLEMENCEAU", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772062000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 11, 
+        "id": "cfb1e3221f9c924fa342c6244230c2b8", 
+        "latitude": 49.4336973759198, 
+        "longitude": 1.09090294278958, 
+        "name": "10- PLACE CARNOT", 
+        "timestamp": "2017-08-15T04:46:30.165000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "RUE ARMAND CARREL", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772075000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 11, 
+        "id": "81c0491735f7eae59355f32e4278fa12", 
+        "latitude": 49.43811211136788, 
+        "longitude": 1.100852281910646, 
+        "name": "08- SAINT MARC", 
+        "timestamp": "2017-08-15T04:46:30.167000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "RUE JEANNE D'ARC ANGLE RUE DE LA ROCHEFOUCAULD", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771952000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 0, 
+        "id": "af2ea0952fa14425e9543e84d34f76e8", 
+        "latitude": 49.448285193967465, 
+        "longitude": 1.09419956401142, 
+        "name": "15-GARE", 
+        "timestamp": "2017-08-15T04:46:30.168000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "AVENUE PASTEUR", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772143000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 10, 
+        "id": "0cc4a7f2cc6a2c3764758e7971e66210", 
+        "latitude": 49.4442849736749, 
+        "longitude": 1.07838302560908, 
+        "name": "02- PASTEUR - FAC DE DROIT", 
+        "timestamp": "2017-08-15T04:46:30.169000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "PLACE DES COTONNIERS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772083000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 14, 
+        "id": "93921fd6eda0a90308b829490998463a", 
+        "latitude": 49.43087671678897, 
+        "longitude": 1.081412105910482, 
+        "name": "12- PLACE DES COTONNIERS", 
+        "timestamp": "2017-08-15T04:46:30.170000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "PLACE SAINT SEVER", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772064000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 13, 
+        "id": "d4b3f2ecb1d79ea16cf26f9b259f8120", 
+        "latitude": 49.430880514851474, 
+        "longitude": 1.086095305349564, 
+        "name": "13- SAINT SEVER", 
+        "timestamp": "2017-08-15T04:46:30.172000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "DEVANT N\u00b07 BIS RUE JEANNE D'ARC", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772056000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 7, 
+        "id": "8d3f987f138df2fad7c5f599cc3d40a1", 
+        "latitude": 49.439524149091774, 
+        "longitude": 1.088804949870617, 
+        "name": "01 - THEATRE DES ARTS", 
+        "timestamp": "2017-08-15T04:46:30.173000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "DEVANT N\u00b0 6 RUE EDOUARD ADAM", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772086000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 0, 
+        "id": "ea5914e9fdf827cf1588acca0030df3b", 
+        "latitude": 49.441201188322225, 
+        "longitude": 1.105985502540096, 
+        "name": "06- CHU - RUE DE GERMONT", 
+        "timestamp": "2017-08-15T04:46:30.174000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "AVENUE JACQUES CHASTELLAIN - PARKING DE LA PATINOIRE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772088000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 9, 
+        "id": "73d89fbd8226a78c8a199335fe41edf2", 
+        "latitude": 49.431521256315975, 
+        "longitude": 1.102925918082832, 
+        "name": "16-ILE LACROIX", 
+        "timestamp": "2017-08-15T04:46:30.175000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "PLACE DU VIEUX MARCHE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772229000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 16, 
+        "id": "6e75ed7a6e71b4cafd9b077da1a7e82c", 
+        "latitude": 49.44340061638054, 
+        "longitude": 1.089234065324399, 
+        "name": "03- VIEUX MARCHE", 
+        "timestamp": "2017-08-15T04:46:30.176000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "COURS CLEMENCEAU", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772173000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 13, 
+        "id": "9b6e4988bcc7730f2fb9bfce231af103", 
+        "latitude": 49.43464613956876, 
+        "longitude": 1.087959490140167, 
+        "name": "11- CLEMENCEAU JOFFRE", 
+        "timestamp": "2017-08-15T04:46:30.177000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "RUE D' AMIENS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772281000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 12, 
+        "id": "6181617903001ff9bf11feb7904f1926", 
+        "latitude": 49.43885379551624, 
+        "longitude": 1.107488426850231, 
+        "name": "07- CHU - BOULEVARD GAMBETTA", 
+        "timestamp": "2017-08-15T04:46:30.179000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "bd ferdinands de lesseps angle rue amedee dormoy", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772071000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 7, 
+        "id": "7f01999337efedc533bc07726bf63da9", 
+        "latitude": 49.44541856175536, 
+        "longitude": 1.063998154832871, 
+        "name": "18 - DOCKS", 
+        "timestamp": "2017-08-15T04:46:30.181000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "RUE LECUYER ANGLE RUE LETHUILLIER PINEL", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772057000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 11, 
+        "id": "a14059fd5cc76249f7d865a31045b674", 
+        "latitude": 49.42576540125409, 
+        "longitude": 1.076303569768087, 
+        "name": "17- SAINT CLEMENT", 
+        "timestamp": "2017-08-15T04:46:30.166000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "RUE DE LA REPUBLIQUE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772043000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 12, 
+        "id": "d1715a988777b607cc8b4d040425798f", 
+        "latitude": 49.437489866065405, 
+        "longitude": 1.096252291204278, 
+        "name": "09 - REPUBLIQUE - QUAI CORNEILLE", 
+        "timestamp": "2017-08-15T04:46:30.171000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "BOULEVARD DE L' EUROPE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772141000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 13, 
+        "id": "961a1c4e19501f1f7d2c06b7f6cc4031", 
+        "latitude": 49.42582345143276, 
+        "longitude": 1.087912810909562, 
+        "name": "14- BALZAC - BOULEVARD DE L' EUROPE", 
+        "timestamp": "2017-08-15T04:46:30.160000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "All\u00e9e Jean de B\u00e9thencourt devant LE HANGAR 108 76100 ROUEN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771899000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 18, 
+        "id": "5402c1c193b9ee88fb90038b46fb7b0d", 
+        "latitude": 49.441286, 
+        "longitude": 1.07176, 
+        "name": "24 - HANGAR 108", 
+        "timestamp": "2017-08-15T04:46:30.178000Z"
+      }
+    ]
+  }
+}

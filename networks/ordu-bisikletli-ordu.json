@@ -1,0 +1,354 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ordu-bisikletli-ordu", 
+    "id": "ordu-bisikletli-ordu", 
+    "location": {
+      "city": "Ordu", 
+      "country": "TR", 
+      "latitude": 40.9702, 
+      "longitude": 37.8707
+    }, 
+    "name": "Ordu Bisikletli", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "65700"
+          ], 
+          "number": "6079", 
+          "uid": "3571179"
+        }, 
+        "free_bikes": 1, 
+        "id": "e770aefe34077b3162dd07c35df655ed", 
+        "latitude": 40.977046940223, 
+        "longitude": 37.859058380127, 
+        "name": "Warehouse", 
+        "timestamp": "2017-08-15T04:48:39.993000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "65739", 
+            "65734", 
+            "65723", 
+            "65827", 
+            "65825"
+          ], 
+          "number": "6553", 
+          "slots": 14, 
+          "uid": "1954649"
+        }, 
+        "free_bikes": 5, 
+        "id": "25fe590b2b8e43ae3545b84820c49158", 
+        "latitude": 41.028979715788, 
+        "longitude": 37.506959438324, 
+        "name": "Ordu - Fatsa \u0130stasyonu - 1", 
+        "timestamp": "2017-08-15T04:48:39.980000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "65753", 
+            "65722", 
+            "65718"
+          ], 
+          "number": "6554", 
+          "slots": 14, 
+          "uid": "1954653"
+        }, 
+        "free_bikes": 3, 
+        "id": "87e16fa061c590510c578de429481d66", 
+        "latitude": 41.03139156268, 
+        "longitude": 37.501487731934, 
+        "name": "Ordu - Fatsa \u0130stasyonu - 2", 
+        "timestamp": "2017-08-15T04:48:39.981000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "65818", 
+            "65803", 
+            "65791", 
+            "65747", 
+            "65713"
+          ], 
+          "number": "6555", 
+          "slots": 7, 
+          "uid": "1954658"
+        }, 
+        "free_bikes": 5, 
+        "id": "a725cf6f19e66a89c0376b7d46e723d4", 
+        "latitude": 41.045763690359, 
+        "longitude": 37.484321594238, 
+        "name": "Ordu - Fatsa \u0130stasyonu - 3", 
+        "timestamp": "2017-08-15T04:48:39.985000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "65768", 
+            "65764", 
+            "65745", 
+            "65714", 
+            "65703"
+          ], 
+          "number": "6556", 
+          "slots": 14, 
+          "uid": "1954663"
+        }, 
+        "free_bikes": 5, 
+        "id": "f072e21791d3f13d393af9a25f7107fc", 
+        "latitude": 41.117221772891, 
+        "longitude": 37.30972457095, 
+        "name": "Ordu - \u00dcnye Istasyonu - 1", 
+        "timestamp": "2017-08-15T04:48:39.985000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "65814", 
+            "65793", 
+            "65770", 
+            "65751"
+          ], 
+          "number": "6557", 
+          "slots": 14, 
+          "uid": "1954821"
+        }, 
+        "free_bikes": 4, 
+        "id": "6dc5ca3f347f4bf1d5239986af558f6e", 
+        "latitude": 41.13136487819, 
+        "longitude": 37.287082672119, 
+        "name": "Ordu - \u00dcnye \u0130stasyonu - 2", 
+        "timestamp": "2017-08-15T04:48:39.986000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "65806", 
+            "65769", 
+            "65757", 
+            "65717"
+          ], 
+          "number": "6558", 
+          "slots": 10, 
+          "uid": "1961988"
+        }, 
+        "free_bikes": 4, 
+        "id": "83f410725cf41c94c6f5e9641722e3da", 
+        "latitude": 41.142531864113, 
+        "longitude": 37.293713092804, 
+        "name": "Ordu - \u00dcnye \u0130stasyonu - 3", 
+        "timestamp": "2017-08-15T04:48:39.987000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "65810", 
+            "65805", 
+            "65792", 
+            "65754", 
+            "65750"
+          ], 
+          "number": "6544", 
+          "slots": 12, 
+          "uid": "1961995"
+        }, 
+        "free_bikes": 5, 
+        "id": "49d995658325514a3483fdbc99115ff0", 
+        "latitude": 41.14461637304, 
+        "longitude": 37.259016036987, 
+        "name": "Ordu - \u00dcnye Istasyonu - 4", 
+        "timestamp": "2017-08-15T04:48:39.988000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "65816", 
+            "65795", 
+            "65762", 
+            "65732", 
+            "65840"
+          ], 
+          "number": "6549", 
+          "slots": 18, 
+          "uid": "1962008"
+        }, 
+        "free_bikes": 5, 
+        "id": "5a3df24ea4ebaad15736fa6c5ec726a9", 
+        "latitude": 40.986664570092, 
+        "longitude": 37.879630128955, 
+        "name": "Ordu - Alt\u0131nordu \u0130stasyonu-8", 
+        "timestamp": "2017-08-15T04:48:39.989000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "number": "6548", 
+          "slots": 8, 
+          "uid": "1962014"
+        }, 
+        "free_bikes": 0, 
+        "id": "5aed3bca52dd5bd1faa30084bbf9def6", 
+        "latitude": 40.98410164071, 
+        "longitude": 37.884957790375, 
+        "name": "Ordu - Alt\u0131nordu \u0130stasyonu-7", 
+        "timestamp": "2017-08-15T04:48:39.990000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "65796", 
+            "65741", 
+            "65729", 
+            "65823"
+          ], 
+          "number": "6080", 
+          "uid": "3571203"
+        }, 
+        "free_bikes": 4, 
+        "id": "ecf5a925e00cbb887c393340b0882469", 
+        "latitude": 40.967455873297, 
+        "longitude": 37.852020263672, 
+        "name": "Transport", 
+        "timestamp": "2017-08-15T04:48:39.994000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "65771", 
+            "65765", 
+            "65702", 
+            "65838"
+          ], 
+          "number": "6547", 
+          "slots": 14, 
+          "uid": "4015726"
+        }, 
+        "free_bikes": 4, 
+        "id": "7043f4c4d3624de10e4c0891ef0cf7bb", 
+        "latitude": 40.98375337814, 
+        "longitude": 37.889753580093, 
+        "name": "Ordu - Alt\u0131nordu \u0130stasyonu-6", 
+        "timestamp": "2017-08-15T04:48:39.998000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "65799", 
+            "65763", 
+            "65760", 
+            "65744", 
+            "65731"
+          ], 
+          "number": "6546", 
+          "slots": 8, 
+          "uid": "4058625"
+        }, 
+        "free_bikes": 5, 
+        "id": "8f47967e0780ce9597d0dccb90a47efb", 
+        "latitude": 40.98334841935, 
+        "longitude": 37.900664806366, 
+        "name": "Ordu - Alt\u0131nordu \u0130stasyonu-5", 
+        "timestamp": "2017-08-15T04:48:39.999000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "65812", 
+            "65755", 
+            "65832"
+          ], 
+          "number": "6569", 
+          "slots": 11, 
+          "uid": "1941949"
+        }, 
+        "free_bikes": 3, 
+        "id": "d258575a72d4cc215ef669a535090d14", 
+        "latitude": 40.984122017435, 
+        "longitude": 37.910929587524, 
+        "name": "Alt\u0131nordu \u0130stasyonu-3", 
+        "timestamp": "2017-08-15T04:48:39.979000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "65800", 
+            "65794", 
+            "65785", 
+            "65781", 
+            "65779"
+          ], 
+          "number": "6542", 
+          "slots": 12, 
+          "uid": "1941763"
+        }, 
+        "free_bikes": 5, 
+        "id": "9daebef8922d7beaf1450d44322abe14", 
+        "latitude": 40.984528, 
+        "longitude": 37.922853, 
+        "name": "Alt\u0131nordu \u0130stasyonu-1", 
+        "timestamp": "2017-08-15T04:48:39.966000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "65815", 
+            "65808", 
+            "65748", 
+            "65740", 
+            "65733"
+          ], 
+          "number": "6545", 
+          "slots": 13, 
+          "uid": "1962048"
+        }, 
+        "free_bikes": 5, 
+        "id": "0c70e8f66af0baa5c19481021129082c", 
+        "latitude": 40.983755386367, 
+        "longitude": 37.904293525098, 
+        "name": "Alt\u0131nordu \u0130stasyonu-4", 
+        "timestamp": "2017-08-15T04:48:39.991000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "65801", 
+            "65774", 
+            "65767", 
+            "65758", 
+            "65706"
+          ], 
+          "number": "6543", 
+          "slots": 11, 
+          "uid": "1941886"
+        }, 
+        "free_bikes": 5, 
+        "id": "e9a9f36b96cf12a850efc1142f676d3c", 
+        "latitude": 40.983994796065, 
+        "longitude": 37.916943457676, 
+        "name": "Alt\u0131nordu \u0130stasyonu-2", 
+        "timestamp": "2017-08-15T04:48:39.978000Z"
+      }
+    ]
+  }
+}

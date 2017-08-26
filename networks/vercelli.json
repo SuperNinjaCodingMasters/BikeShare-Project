@@ -1,0 +1,83 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/vercelli", 
+    "id": "vercelli", 
+    "location": {
+      "city": "Vercelli", 
+      "country": "IT", 
+      "latitude": 45.32022720000001, 
+      "longitude": 8.418573499999999
+    }, 
+    "name": "Vercelli", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Piazza Roma", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "07daa4d18ddb161f915286fe405c8936", 
+        "latitude": 45.329020372840496, 
+        "longitude": 8.417585577979253, 
+        "name": "Ferrovia", 
+        "timestamp": "2017-08-15T04:46:19.515000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Largo Brigata Cagliari", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "e57d05ba7117edc6312d072380e069fe", 
+        "latitude": 45.32343306844861, 
+        "longitude": 8.416345178573579, 
+        "name": "Paietta", 
+        "timestamp": "2017-08-15T04:46:19.518000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Corso Abbiate", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "00fbb63d5309bf6538512139f5fd053c", 
+        "latitude": 45.3183839584586, 
+        "longitude": 8.41425287466052, 
+        "name": "Ospedale S. Andrea", 
+        "timestamp": "2017-08-15T04:46:19.524000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Piazza Mazzini", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "e737d4a92619725e8282e5048d8d1727", 
+        "latitude": 45.32176265956099, 
+        "longitude": 8.426543842327874, 
+        "name": "Mazzini", 
+        "timestamp": "2017-08-15T04:46:19.527000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "Via Zubiena", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "83a638782cbb91f29d5e7ab96090c654", 
+        "latitude": 45.325163756350236, 
+        "longitude": 8.429210433798971, 
+        "name": "Park Garrone", 
+        "timestamp": "2017-08-15T04:46:19.528000Z"
+      }
+    ]
+  }
+}

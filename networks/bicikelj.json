@@ -1,0 +1,940 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/bicikelj", 
+    "id": "bicikelj", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Ljubljana", 
+      "country": "SI", 
+      "latitude": 46.05645089999999, 
+      "longitude": 14.5080702
+    }, 
+    "name": "Bicikelj", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Jak\u010deva ulica 37", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772266000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 47
+        }, 
+        "free_bikes": 18, 
+        "id": "da85aa19bed24ae318fa87179314bf82", 
+        "latitude": 46.053047, 
+        "longitude": 14.545125, 
+        "name": "\u0160TEPANJSKO NASELJE 1 - JAK\u010cEVA ULICA", 
+        "timestamp": "2017-08-15T04:47:06.568000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "\u0160martinska cesta 28", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772281000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 46
+        }, 
+        "free_bikes": 11, 
+        "id": "bf3dda9d839da0aa18ab598d5e642f92", 
+        "latitude": 46.059433, 
+        "longitude": 14.52051, 
+        "name": "SITULA", 
+        "timestamp": "2017-08-15T04:47:06.536000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Kajuhova ulica 42", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772247000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 48
+        }, 
+        "free_bikes": 8, 
+        "id": "34dc8e1715b4621ff814c6fa06f36bde", 
+        "latitude": 46.056405, 
+        "longitude": 14.540901, 
+        "name": "HOFER - KAJUHOVA", 
+        "timestamp": "2017-08-15T04:47:06.540000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Vilharjeva cesta 23", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772226000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 0, 
+        "id": "9da54234147422888119646fb0f0cf9f", 
+        "latitude": 46.06005, 
+        "longitude": 14.51302, 
+        "name": "VILHARJEVA CESTA", 
+        "timestamp": "2017-08-15T04:47:06.507000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Masarykova cesta 14", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771981000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 0, 
+        "id": "b75a949d52982eaab8694d95dd5bcc48", 
+        "latitude": 46.05763, 
+        "longitude": 14.514264, 
+        "name": "MASARYKOVA DDC", 
+        "timestamp": "2017-08-15T04:47:06.509000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Poga\u010darjev trg 3", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772041000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 1, 
+        "id": "91b02bbea2b0880926c2258d89f811fa", 
+        "latitude": 46.051093, 
+        "longitude": 14.507186, 
+        "name": "POGA\u010cARJEV TRG-TR\u017dNICA", 
+        "timestamp": "2017-08-15T04:47:06.510000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Zalo\u0161ka cesta 54", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772254000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 18, 
+        "id": "a50d1d767f91a30e5f657bde4955764a", 
+        "latitude": 46.055801, 
+        "longitude": 14.534156, 
+        "name": "TR\u017dNICA MOSTE", 
+        "timestamp": "2017-08-15T04:47:06.521000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Grudnovo nabre\u017eje 3", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771927000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 1, 
+        "id": "2ee1da1f22203acab10a4e1e0dbd9de0", 
+        "latitude": 46.045748, 
+        "longitude": 14.506196, 
+        "name": "GRUDNOVO NABRE\u017dJE-KARLOV\u0160KA C.", 
+        "timestamp": "2017-08-15T04:47:06.525000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Celov\u0161ka cesta 26", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771959000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 10, 
+        "id": "24b0f09960da8aae0852233928657fc8", 
+        "latitude": 46.05952, 
+        "longitude": 14.4982, 
+        "name": "TIVOLI", 
+        "timestamp": "2017-08-15T04:47:06.528000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Vojkova cesta 91", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772015000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 31
+        }, 
+        "free_bikes": 16, 
+        "id": "7b23c5e420574a69aea02b6bcd50cd03", 
+        "latitude": 46.08259, 
+        "longitude": 14.52016, 
+        "name": "\u0160PORTNI CENTER STO\u017dICE", 
+        "timestamp": "2017-08-15T04:47:06.530000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Prule 8", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771947000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 6, 
+        "id": "26d9f65cc5c1e88bbc9bd3c901d0f5ab", 
+        "latitude": 46.040213, 
+        "longitude": 14.512044, 
+        "name": "\u0160PICA", 
+        "timestamp": "2017-08-15T04:47:06.532000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Slovenska cesta 55c", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772242000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 2, 
+        "id": "4092324e29a6e00fd4f59e77fbeb1707", 
+        "latitude": 46.05682, 
+        "longitude": 14.50551, 
+        "name": "BAVARSKI DVOR", 
+        "timestamp": "2017-08-15T04:47:06.534000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Celov\u0161ka cesta 69", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772392000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 10, 
+        "id": "827e9704206917b5905597d963324d9e", 
+        "latitude": 46.06342, 
+        "longitude": 14.494588, 
+        "name": "STARA CERKEV", 
+        "timestamp": "2017-08-15T04:47:06.535000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Koprska ulica 98", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772141000, 
+          "slots": 8, 
+          "status": "OPEN", 
+          "uid": 32
+        }, 
+        "free_bikes": 4, 
+        "id": "23b2f82e2846ff0599440805f83356bd", 
+        "latitude": 46.033408, 
+        "longitude": 14.482468, 
+        "name": "KOPRSKA ULICA", 
+        "timestamp": "2017-08-15T04:47:06.538000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "\u017delezna cesta 18", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772227000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 4, 
+        "id": "5d4fb60a57f1d0e097561de12456e22b", 
+        "latitude": 46.06361, 
+        "longitude": 14.51315, 
+        "name": "PARK NAVJE-\u017dELEZNA CESTA", 
+        "timestamp": "2017-08-15T04:47:06.539000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Dunajska cesta 50", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772238000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 27
+        }, 
+        "free_bikes": 2, 
+        "id": "fc8a366b823dc9e4e2afca08fbce7148", 
+        "latitude": 46.065136, 
+        "longitude": 14.509112, 
+        "name": "DUNAJSKA C.-PS PETROL", 
+        "timestamp": "2017-08-15T04:47:06.542000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Ilirska ulica 1", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772032000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 2, 
+        "id": "7babe93ed5a71f08fb2129b75b948874", 
+        "latitude": 46.053144, 
+        "longitude": 14.513479, 
+        "name": "ILIRSKA ULICA", 
+        "timestamp": "2017-08-15T04:47:06.544000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Dunajska cesta 105", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771819000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 10, 
+        "id": "a4d62ecd7a15d40551c1735b2757b02b", 
+        "latitude": 46.074193, 
+        "longitude": 14.511134, 
+        "name": "DUNAJSKA C.-PS MERCATOR", 
+        "timestamp": "2017-08-15T04:47:06.545000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Citypark - \u0160martinska 152 g", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772262000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 34
+        }, 
+        "free_bikes": 0, 
+        "id": "165ae88f5055ba423da1a95edb8b999e", 
+        "latitude": 46.068805, 
+        "longitude": 14.546257, 
+        "name": "CITYPARK", 
+        "timestamp": "2017-08-15T04:47:06.546000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Vojkova cesta 73", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771826000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 30
+        }, 
+        "free_bikes": 12, 
+        "id": "7be5bb37eca31dd3b9611d37a0f41ef7", 
+        "latitude": 46.07586, 
+        "longitude": 14.51959, 
+        "name": "VOJKOVA C.-BO\u017dI\u010cEVA C.", 
+        "timestamp": "2017-08-15T04:47:06.547000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Kongresni trg 3", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771795000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 0, 
+        "id": "fc149cb01e62c0cfeba560f06f10cf94", 
+        "latitude": 46.050388, 
+        "longitude": 14.504623, 
+        "name": "KONGRESNI TRG-\u0160UBI\u010cEVA ULICA", 
+        "timestamp": "2017-08-15T04:47:06.551000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "BTC City - Dvorana A", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772256000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 35
+        }, 
+        "free_bikes": 0, 
+        "id": "f123965d9a61736f77f2cd74091240de", 
+        "latitude": 46.065297, 
+        "longitude": 14.543996, 
+        "name": "BTC CITY - DVORANA A", 
+        "timestamp": "2017-08-15T04:47:06.552000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Celov\u0161ka cesta 111c", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772091000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 21, 
+        "id": "8be225717455bf23972c59cea94bc270", 
+        "latitude": 46.06928, 
+        "longitude": 14.48971, 
+        "name": "KINO \u0160I\u0160KA", 
+        "timestamp": "2017-08-15T04:47:06.556000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Zalo\u0161ka cesta 16", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772200000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 15, 
+        "id": "fff16b5d82cee98317b02d6e70f0f8cf", 
+        "latitude": 46.05441, 
+        "longitude": 14.52978, 
+        "name": "ZALO\u0160KA C.-GRABLOVI\u010cEVA C.", 
+        "timestamp": "2017-08-15T04:47:06.557000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Cesta Ljubljanske brigade 33", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772055000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 33
+        }, 
+        "free_bikes": 10, 
+        "id": "cc00b525a02340574dcc6cb3291e8e95", 
+        "latitude": 46.087079, 
+        "longitude": 14.475439, 
+        "name": "MERCATOR CENTER \u0160I\u0160KA", 
+        "timestamp": "2017-08-15T04:47:06.562000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Zalo\u0161ka cesta 1", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772103000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 2, 
+        "id": "5ad3358b3a5b6e478f6e26f39e3d7d94", 
+        "latitude": 46.05257, 
+        "longitude": 14.51928, 
+        "name": "GH \u0160ENTPETER-NJEGO\u0160EVA C.", 
+        "timestamp": "2017-08-15T04:47:06.563000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "\u0160krab\u010deva ulica 2", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772203000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 16, 
+        "id": "52e1a5d56da23326c1b699fe07a224c9", 
+        "latitude": 46.051439, 
+        "longitude": 14.49273, 
+        "name": "RO\u017dNA DOLINA-\u0160KRAB\u010cEVA UL.", 
+        "timestamp": "2017-08-15T04:47:06.566000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Trg MDB 9", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772347000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 0, 
+        "id": "dba73a8e2f184bcc716d37bc02a5c597", 
+        "latitude": 46.047565, 
+        "longitude": 14.495687, 
+        "name": "TRG MDB", 
+        "timestamp": "2017-08-15T04:47:06.578000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Pre\u0161ernov trg 6", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502762656000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 0, 
+        "id": "3eee7892fce3d020012554d0c764015c", 
+        "latitude": 46.051367, 
+        "longitude": 14.506542, 
+        "name": "PRE\u0160ERNOV TRG-PETKOV\u0160KOVO NABRE\u017dJE", 
+        "timestamp": "2017-08-15T04:47:06.579000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "BTC City - Atlantis", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772385000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 36
+        }, 
+        "free_bikes": 7, 
+        "id": "fe4e0ba2e10486503911b78e9d213f2d", 
+        "latitude": 46.063081, 
+        "longitude": 14.547851, 
+        "name": "BTC CITY - ATLANTIS", 
+        "timestamp": "2017-08-15T04:47:06.580000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Poljanska cesta 20c", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772319000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 7, 
+        "id": "5fce4ae8abc4f1afbf589ab7f736d365", 
+        "latitude": 46.049877, 
+        "longitude": 14.516308, 
+        "name": "AMBRO\u017dEV TRG", 
+        "timestamp": "2017-08-15T04:47:06.581000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Dunajska cesta 70", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772289000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 28
+        }, 
+        "free_bikes": 14, 
+        "id": "67d5a835befdb8287bc0d5211fa443c4", 
+        "latitude": 46.06942, 
+        "longitude": 14.51052, 
+        "name": "PLE\u010cNIKOV STADION", 
+        "timestamp": "2017-08-15T04:47:06.587000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Tr\u017ea\u0161ka cesta 37", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771931000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 13, 
+        "id": "102e27ccaf89c1a4cc003631b44b7f58", 
+        "latitude": 46.044629, 
+        "longitude": 14.486699, 
+        "name": "TR\u017dA\u0160KA C.-ILIRIJA", 
+        "timestamp": "2017-08-15T04:47:06.588000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Breg 20", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772097000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 0, 
+        "id": "769a5178bb6a812426e63e8aa5170413", 
+        "latitude": 46.046498, 
+        "longitude": 14.505148, 
+        "name": "BREG", 
+        "timestamp": "2017-08-15T04:47:06.590000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Miklo\u0161i\u010deva cesta 20", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772205000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 1, 
+        "id": "99717c0bb9e517f526c66ac76176fa45", 
+        "latitude": 46.054168, 
+        "longitude": 14.50706, 
+        "name": "MIKLO\u0160I\u010cEV PARK", 
+        "timestamp": "2017-08-15T04:47:06.591000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Devinska ulica 1a", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772319000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 10, 
+        "id": "e1444ffb14a58b7c89965600426eac84", 
+        "latitude": 46.04081, 
+        "longitude": 14.49951, 
+        "name": "BARJANSKA C.-CENTER STAREJ\u0160IH TRNOVO", 
+        "timestamp": "2017-08-15T04:47:06.592000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "TRNOVO", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772253000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 37
+        }, 
+        "free_bikes": 11, 
+        "id": "6cb75d05ee0bcc62e2f707c6820465b0", 
+        "latitude": 46.03784, 
+        "longitude": 14.50001, 
+        "name": "TRNOVO", 
+        "timestamp": "2017-08-15T04:47:06.554000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Tr\u017ea\u0161ka 91", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772254000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 41
+        }, 
+        "free_bikes": 19, 
+        "id": "25fae6e6690f816c92430b2c65e9a3bd", 
+        "latitude": 46.041753, 
+        "longitude": 14.477016, 
+        "name": "ANTONOV TRG", 
+        "timestamp": "2017-08-15T04:47:06.519000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Topni\u0161ka 54", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772396000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 44
+        }, 
+        "free_bikes": 13, 
+        "id": "eb5628b508f863c03cf66333e88dccc7", 
+        "latitude": 46.064546, 
+        "longitude": 14.518013, 
+        "name": "SAVSKO NASELJE 2 - LINHARTOVA CESTA", 
+        "timestamp": "2017-08-15T04:47:06.579000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "Cankarjeva cesta 1", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771827000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 0, 
+        "id": "497bfa8af745d2707926b014b7f9088f", 
+        "latitude": 46.052431, 
+        "longitude": 14.503257, 
+        "name": "CANKARJEVA UL.-NAMA", 
+        "timestamp": "2017-08-15T04:47:06.516000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Trg OF 12", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502733925000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 2, 
+        "id": "b6f0e7bbb81a5824c882845bb10ddd9e", 
+        "latitude": 46.057421, 
+        "longitude": 14.510265, 
+        "name": "TRG OF-KOLODVORSKA UL.", 
+        "timestamp": "2017-08-15T04:47:06.577000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Zoisova cesta 2", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772292000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 5, 
+        "id": "ba33bd33cffc0d174fff8372c5b83b91", 
+        "latitude": 46.046377, 
+        "longitude": 14.501256, 
+        "name": "PARKIRI\u0160\u010cE NUK 2-FF", 
+        "timestamp": "2017-08-15T04:47:06.543000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "P+R BARJE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772257000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 38
+        }, 
+        "free_bikes": 13, 
+        "id": "7fc22e7f8d699a5f054499644246f450", 
+        "latitude": 46.02749, 
+        "longitude": 14.49958, 
+        "name": "P+R BARJE", 
+        "timestamp": "2017-08-15T04:47:06.565000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Tr\u017ea\u0161ka 123", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772335000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 40
+        }, 
+        "free_bikes": 4, 
+        "id": "94404d70bd59b8d996da7cf137bee739", 
+        "latitude": 46.039641, 
+        "longitude": 14.472664, 
+        "name": "BONIFACIJA", 
+        "timestamp": "2017-08-15T04:47:06.575000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Nove Fuzine 33", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772234000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 50
+        }, 
+        "free_bikes": 14, 
+        "id": "4d0b94e99e03712a8ce5fe050cff8e3c", 
+        "latitude": 46.054554, 
+        "longitude": 14.55908, 
+        "name": "PREGLOV TRG", 
+        "timestamp": "2017-08-15T04:47:06.594000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Nove Fuzine 8", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771962000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 49
+        }, 
+        "free_bikes": 12, 
+        "id": "c7619ea2309c631400a0f19060739528", 
+        "latitude": 46.054398, 
+        "longitude": 14.553319, 
+        "name": "BRODARJEV TRG", 
+        "timestamp": "2017-08-15T04:47:06.566000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Dunajska 186", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772261000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 43
+        }, 
+        "free_bikes": 19, 
+        "id": "1c45b3e5404071a158959dfe1af85cfb", 
+        "latitude": 46.086761, 
+        "longitude": 14.514151, 
+        "name": "BS4 - STO\u017dICE", 
+        "timestamp": "2017-08-15T04:47:06.564000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Dunajska 211", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772096000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 42
+        }, 
+        "free_bikes": 10, 
+        "id": "42d341f3bab4c96f7df8984340bf4a42", 
+        "latitude": 46.08929, 
+        "longitude": 14.513751, 
+        "name": "BRATOV\u0160EVA PLO\u0160\u010cAD", 
+        "timestamp": "2017-08-15T04:47:06.550000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Savska cesta 1", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771875000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 45
+        }, 
+        "free_bikes": 3, 
+        "id": "683a1374d9646885316af3464006c0d8", 
+        "latitude": 46.062475, 
+        "longitude": 14.524321, 
+        "name": "SAVSKO NASELJE 1 - \u0160MARTINSKA CESTA", 
+        "timestamp": "2017-08-15T04:47:06.505000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "P+R Dolgi most", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772322000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 39
+        }, 
+        "free_bikes": 17, 
+        "id": "6ccd9701b7fd009449111f36ba20e95f", 
+        "latitude": 46.03701, 
+        "longitude": 14.465229, 
+        "name": "P + R DOLGI MOST", 
+        "timestamp": "2017-08-15T04:47:06.576000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Litijska cesta 47", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771952000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 51
+        }, 
+        "free_bikes": 8, 
+        "id": "22b8f54e69dc443c5f039a2d6d12cfe1", 
+        "latitude": 46.047957, 
+        "longitude": 14.544831, 
+        "name": "\u0160TEPANJSKO NASELJE 2 - LITIJSKA CESTA", 
+        "timestamp": "2017-08-15T04:47:06.527000Z"
+      }
+    ]
+  }
+}

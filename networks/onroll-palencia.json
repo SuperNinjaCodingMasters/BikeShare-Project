@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-palencia", 
+    "id": "onroll-palencia", 
+    "location": {
+      "city": "Palencia", 
+      "country": "ES", 
+      "latitude": 42.005639, 
+      "longitude": -4.527022
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "6fccf4f1a20ae542cf0f55dfff375a55", 
+        "latitude": 42.001945, 
+        "longitude": -4.52155, 
+        "name": "Isaac Peral", 
+        "timestamp": "2017-08-15T04:48:07.595000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "db67953156292dfcbcff17c351fcbed2", 
+        "latitude": 42.019451, 
+        "longitude": -4.530283, 
+        "name": "Palacio de Congresos", 
+        "timestamp": "2017-08-15T04:48:07.598000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "e87a2d5ed9fba88ebdad3f69578dbab1", 
+        "latitude": 42.014259, 
+        "longitude": -4.535218, 
+        "name": "Plaza de Leon", 
+        "timestamp": "2017-08-15T04:48:07.599000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "d6910b4477ae43590c3532b28049bfa8", 
+        "latitude": 42.005627, 
+        "longitude": -4.530691, 
+        "name": "Plaza Pio Xii", 
+        "timestamp": "2017-08-15T04:48:07.600000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "ad5f84c90b5106d87e9d2b8edff9b012", 
+        "latitude": 41.986912, 
+        "longitude": -4.517366, 
+        "name": "Universidad", 
+        "timestamp": "2017-08-15T04:48:07.601000Z"
+      }
+    ]
+  }
+}

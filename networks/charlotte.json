@@ -1,0 +1,403 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_charlotte/gbfs.json", 
+    "href": "/v2/networks/charlotte", 
+    "id": "charlotte", 
+    "location": {
+      "city": "Charlotte, NC", 
+      "country": "US", 
+      "latitude": 35.22716, 
+      "longitude": -80.83855
+    }, 
+    "name": "Charlotte B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "300 E. 7th Street", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2093"
+        }, 
+        "free_bikes": 6, 
+        "id": "2de329f573114cb42f978fb55396945f", 
+        "latitude": 35.22732, 
+        "longitude": -80.83827, 
+        "name": "7th St. Public Market", 
+        "timestamp": "2017-08-15T04:47:47.952000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1509 Camden Rd.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2113"
+        }, 
+        "free_bikes": 6, 
+        "id": "d449c64026e3720c64752f4eab196ef7", 
+        "latitude": 35.21573, 
+        "longitude": -80.85543, 
+        "name": "Bland St.", 
+        "timestamp": "2017-08-15T04:47:47.929000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "100 West Blvd.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2117"
+        }, 
+        "free_bikes": 8, 
+        "id": "3a3753577b31f75418d23699ac516458", 
+        "latitude": 35.21234, 
+        "longitude": -80.85858, 
+        "name": "East/West Blvd.", 
+        "timestamp": "2017-08-15T04:47:47.923000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1400 Harding Place", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_3356"
+        }, 
+        "free_bikes": 8, 
+        "id": "423915c48ac98fa23377ee159d3b92eb", 
+        "latitude": 35.20708, 
+        "longitude": -80.83694, 
+        "name": "Berkshire Dilworth ", 
+        "timestamp": "2017-08-15T04:47:47.942000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2399 Freedom Park Service Rd.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2101"
+        }, 
+        "free_bikes": 15, 
+        "id": "a8c100ef7a8967c59e77b09b4c38a3dc", 
+        "latitude": 35.19034, 
+        "longitude": -80.84509, 
+        "name": "Freedom Park", 
+        "timestamp": "2017-08-15T04:47:47.958000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "430 S. Tryon St.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2114"
+        }, 
+        "free_bikes": 7, 
+        "id": "2447765515d9a3929580c2e4c65d8509", 
+        "latitude": 35.22473, 
+        "longitude": -80.84805, 
+        "name": "Levine Ave. of the Arts", 
+        "timestamp": "2017-08-15T04:47:47.913000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "411 E. Trade Street", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2102"
+        }, 
+        "free_bikes": 8, 
+        "id": "36636e2064d4e4d8fc59c8df6887651a", 
+        "latitude": 35.22473, 
+        "longitude": -80.84005, 
+        "name": "Trade at Arena", 
+        "timestamp": "2017-08-15T04:47:47.931000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "410 W. 6th St.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2103"
+        }, 
+        "free_bikes": 11, 
+        "id": "d262256cb2207723c1637cd83807ab91", 
+        "latitude": 35.23152, 
+        "longitude": -80.84396, 
+        "name": "6th & Pine", 
+        "timestamp": "2017-08-15T04:47:47.955000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "301 S. Tryon Street", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2118"
+        }, 
+        "free_bikes": 4, 
+        "id": "3ca9a1563d90ac89a2d345284045c844", 
+        "latitude": 35.22505, 
+        "longitude": -80.84526, 
+        "name": "Tryon & 3rd", 
+        "timestamp": "2017-08-15T04:47:47.936000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "501 S. College Street", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2108"
+        }, 
+        "free_bikes": 7, 
+        "id": "8f6b946b7935855496a01cd7469c94bd", 
+        "latitude": 35.22314, 
+        "longitude": -80.8456, 
+        "name": "Convention Center", 
+        "timestamp": "2017-08-15T04:47:47.965000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "320 E. 9th St.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2116"
+        }, 
+        "free_bikes": 8, 
+        "id": "4726f7c8f050c0635fa8573a98b85d51", 
+        "latitude": 35.22853, 
+        "longitude": -80.83482, 
+        "name": "UNC Charlotte Uptown", 
+        "timestamp": "2017-08-15T04:47:47.924000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "401 South College St.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2107"
+        }, 
+        "free_bikes": 8, 
+        "id": "60ed0dc6dc0a22caa0841781af873f0b", 
+        "latitude": 35.22533, 
+        "longitude": -80.84299, 
+        "name": "4th & College", 
+        "timestamp": "2017-08-15T04:47:47.950000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "102 E. Trade St.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2094"
+        }, 
+        "free_bikes": 8, 
+        "id": "3744c530b95ca40c43cf584830be4fe2", 
+        "latitude": 35.22681, 
+        "longitude": -80.84278, 
+        "name": "Trade & Tryon", 
+        "timestamp": "2017-08-15T04:47:47.953000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "400 N. Tryon St.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2110"
+        }, 
+        "free_bikes": 6, 
+        "id": "858a6470c0db8de5e89c2e1f887bb846", 
+        "latitude": 35.22956, 
+        "longitude": -80.83959, 
+        "name": "Tryon & 7th", 
+        "timestamp": "2017-08-15T04:47:47.926000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "898 W. Trade Street", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2106"
+        }, 
+        "free_bikes": 9, 
+        "id": "e3cf0d16455f23c86ad01148e56f65d9", 
+        "latitude": 35.23411, 
+        "longitude": -80.85116, 
+        "name": "Gateway Village", 
+        "timestamp": "2017-08-15T04:47:47.946000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "725 W. 4th St.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2651"
+        }, 
+        "free_bikes": 8, 
+        "id": "33e0f563f0b7335117de223d82257884", 
+        "latitude": 35.23192, 
+        "longitude": -80.85091, 
+        "name": "4th & Cedar", 
+        "timestamp": "2017-08-15T04:47:47.938000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "941 S. Tryon St. ", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2649"
+        }, 
+        "free_bikes": 6, 
+        "id": "26f7d8baccb36f6b9653ea8b15be2849", 
+        "latitude": 35.22109, 
+        "longitude": -80.85097, 
+        "name": "S. Tryon & Morehead", 
+        "timestamp": "2017-08-15T04:47:47.963000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "129 New Bern St.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2398"
+        }, 
+        "free_bikes": 9, 
+        "id": "9c31f7e62a4f97728f3c1d6332ceca2c", 
+        "latitude": 35.20028, 
+        "longitude": -80.86884, 
+        "name": "New Bern", 
+        "timestamp": "2017-08-15T04:47:47.945000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "282 W. Martin Luther King Jr. Blvd.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2650"
+        }, 
+        "free_bikes": 3, 
+        "id": "75d3cdbfff0e2d384810364005160ae8", 
+        "latitude": 35.2265, 
+        "longitude": -80.84809, 
+        "name": "Romare Bearden Park", 
+        "timestamp": "2017-08-15T04:47:47.937000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1140 Elizabeth Ave.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2112"
+        }, 
+        "free_bikes": 7, 
+        "id": "34fc984689daaed7aa0b4ad99e40c53c", 
+        "latitude": 35.21797, 
+        "longitude": -80.83199, 
+        "name": "Kings Dr./CPCC", 
+        "timestamp": "2017-08-15T04:47:47.930000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "722 Charlottetowne Ave.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2099"
+        }, 
+        "free_bikes": 7, 
+        "id": "62b3964a79f5083845d78a2e6ba08156", 
+        "latitude": 35.21358, 
+        "longitude": -80.83564, 
+        "name": "Metropolitan", 
+        "timestamp": "2017-08-15T04:47:47.961000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1532 Elizabeth Ave.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2119"
+        }, 
+        "free_bikes": 9, 
+        "id": "2aef482aeaccf9d52309c1e0ea6338fb", 
+        "latitude": 35.21382, 
+        "longitude": -80.82683, 
+        "name": "Elizabeth Ave./Presbyterian Hospital", 
+        "timestamp": "2017-08-15T04:47:47.935000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1101 Blythe Blvd.", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_2100"
+        }, 
+        "free_bikes": 8, 
+        "id": "ea0f1cb84167233d2508616d8be7b80a", 
+        "latitude": 35.20373, 
+        "longitude": -80.83734, 
+        "name": "Carolinas Medical Center", 
+        "timestamp": "2017-08-15T04:47:47.956000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1305 Central Avenue", 
+          "last_updated": 1502772468, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_charlotte_3617"
+        }, 
+        "free_bikes": 8, 
+        "id": "1696d3bd3faf1e524205768cf6c081c8", 
+        "latitude": 35.22101, 
+        "longitude": -80.81633, 
+        "name": "ONE305", 
+        "timestamp": "2017-08-15T04:47:47.951000Z"
+      }
+    ]
+  }
+}

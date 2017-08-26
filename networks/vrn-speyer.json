@@ -1,0 +1,157 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/vrn-speyer", 
+    "id": "vrn-speyer", 
+    "location": {
+      "city": "Speyer", 
+      "country": "DE", 
+      "latitude": 49.3126, 
+      "longitude": 8.45295
+    }, 
+    "name": "VRN", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "43550"
+          ], 
+          "number": "2611", 
+          "slots": 8, 
+          "uid": "348020"
+        }, 
+        "free_bikes": 1, 
+        "id": "e01fd1f815ca249b15493fc0c26aa862", 
+        "latitude": 49.316958, 
+        "longitude": 8.449868, 
+        "name": "Anlegestelle Rhein", 
+        "timestamp": "2017-08-15T04:49:15.002000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "43097", 
+            "43513", 
+            "43569"
+          ], 
+          "number": "2612", 
+          "slots": 8, 
+          "uid": "348021"
+        }, 
+        "free_bikes": 3, 
+        "id": "b2ea1dda34131af144ee73cf8689dcb9", 
+        "latitude": 49.327553, 
+        "longitude": 8.418427, 
+        "name": "Speyer West - Berliner Platz", 
+        "timestamp": "2017-08-15T04:49:15.006000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "43130", 
+            "43311", 
+            "43280", 
+            "43557", 
+            "43626"
+          ], 
+          "number": "2613", 
+          "slots": 12, 
+          "uid": "348022"
+        }, 
+        "free_bikes": 5, 
+        "id": "67e2da5be6a9d0754925d47719a9d58c", 
+        "latitude": 49.324071, 
+        "longitude": 8.428981, 
+        "name": "Hauptbahnhof", 
+        "timestamp": "2017-08-15T04:49:15.007000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "43171", 
+            "43127", 
+            "43260", 
+            "43545"
+          ], 
+          "number": "2615", 
+          "slots": 8, 
+          "uid": "348025"
+        }, 
+        "free_bikes": 4, 
+        "id": "fd4c6e5aeb15ef8ef887c7d698193466", 
+        "latitude": 49.317593, 
+        "longitude": 8.416232, 
+        "name": "Universit\u00e4t", 
+        "timestamp": "2017-08-15T04:49:15.008000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43455", 
+            "43539", 
+            "43509", 
+            "43514", 
+            "43521"
+          ], 
+          "number": "2616", 
+          "slots": 10, 
+          "uid": "348026"
+        }, 
+        "free_bikes": 6, 
+        "id": "a5bbdb91f0ad305f1496c84a9ed2f6e6", 
+        "latitude": 49.31511, 
+        "longitude": 8.443422, 
+        "name": "Festplatz", 
+        "timestamp": "2017-08-15T04:49:15.009000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "43092", 
+            "43089", 
+            "43082", 
+            "43443", 
+            "43322"
+          ], 
+          "number": "2610", 
+          "slots": 8, 
+          "uid": "348030"
+        }, 
+        "free_bikes": 6, 
+        "id": "53621ffc8af19683673e69ed2eaa0b40", 
+        "latitude": 49.316307, 
+        "longitude": 8.441675, 
+        "name": "Dom", 
+        "timestamp": "2017-08-15T04:49:15.010000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43148", 
+            "43411", 
+            "43307", 
+            "43533"
+          ], 
+          "number": "2617", 
+          "slots": 4, 
+          "uid": "348027"
+        }, 
+        "free_bikes": 4, 
+        "id": "f60f3ac1c29a22731e99101b975bfc55", 
+        "latitude": 49.317918, 
+        "longitude": 8.438148, 
+        "name": "B\u00fcrgerb\u00fcro Salzgasse", 
+        "timestamp": "2017-08-15T04:49:15.010000Z"
+      }
+    ]
+  }
+}

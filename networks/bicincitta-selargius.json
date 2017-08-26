@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-selargius", 
+    "id": "bicincitta-selargius", 
+    "location": {
+      "city": "Selargius", 
+      "country": "IT", 
+      "latitude": 39.2596768, 
+      "longitude": 9.1629372
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Cellarium", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "ff28b1bf29ff5f7373de368e92ec971e", 
+        "latitude": 39.25390105450153, 
+        "longitude": 9.165302406216824, 
+        "name": "Cellarium", 
+        "timestamp": "2017-08-15T04:49:17.386000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via delle Primule", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "02d56de5fc36978cb3fdaec63b6bd1b2", 
+        "latitude": 39.25865181000439, 
+        "longitude": 9.153683384725127, 
+        "name": "San Lussorio", 
+        "timestamp": "2017-08-15T04:49:17.388000Z"
+      }
+    ]
+  }
+}

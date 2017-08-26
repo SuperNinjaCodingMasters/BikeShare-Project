@@ -1,0 +1,115 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-gutersloh", 
+    "id": "nextbike-gutersloh", 
+    "location": {
+      "city": "G\u00fctersloh", 
+      "country": "DE", 
+      "latitude": 51.9049, 
+      "longitude": 8.39275
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "7754", 
+          "uid": "66546"
+        }, 
+        "free_bikes": 0, 
+        "id": "f5627a8b14114f57fb773f8abfc88588", 
+        "latitude": 51.905347095027, 
+        "longitude": 8.3774185180664, 
+        "name": "Berliner Str. / Ecke M\u00fcnsterstr.", 
+        "timestamp": "2017-08-15T04:49:48.140000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10430", 
+            "31007", 
+            "05868", 
+            "00539", 
+            "00737"
+          ], 
+          "number": "7751", 
+          "uid": "67768"
+        }, 
+        "free_bikes": 8, 
+        "id": "b80995e590f3026473bc5dda4b3db618", 
+        "latitude": 51.907369242232, 
+        "longitude": 8.3842957019806, 
+        "name": "Hauptbahnhof - Vorplatz", 
+        "timestamp": "2017-08-15T04:49:48.143000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "7753", 
+          "uid": "68571"
+        }, 
+        "free_bikes": 0, 
+        "id": "e80e972471b4eb0be8ffab4ebd36c17c", 
+        "latitude": 51.90829920081, 
+        "longitude": 8.3806371688843, 
+        "name": "Strengerstr. / Sparkasse", 
+        "timestamp": "2017-08-15T04:49:48.143000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "7752", 
+          "uid": "68582"
+        }, 
+        "free_bikes": 0, 
+        "id": "a8b22c0936442aed1e596a4c858f295a", 
+        "latitude": 51.908944534413, 
+        "longitude": 8.3846980333328, 
+        "name": "Friedrich Ebert Str. / Volksbank", 
+        "timestamp": "2017-08-15T04:49:48.144000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "04543", 
+            "00719", 
+            "04941", 
+            "20090", 
+            "50792"
+          ], 
+          "number": "7750", 
+          "uid": "129232"
+        }, 
+        "free_bikes": 8, 
+        "id": "3da381b7c809c8308f1f1dc7f827225f", 
+        "latitude": 51.908272725387, 
+        "longitude": 8.4177589416504, 
+        "name": "Bertelsmann", 
+        "timestamp": "2017-08-15T04:49:48.145000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "04589", 
+            "04916", 
+            "20119"
+          ], 
+          "number": "7755", 
+          "uid": "350180"
+        }, 
+        "free_bikes": 3, 
+        "id": "b631ebe70037b677a4c5e428a8a6d450", 
+        "latitude": 51.912015533416, 
+        "longitude": 8.4301614761353, 
+        "name": "Sparkasse Avenwedde Amt", 
+        "timestamp": "2017-08-15T04:49:48.146000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,836 @@
+{
+  "network": {
+    "company": [
+      "Mountain Rides", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "http://mrbikeshare.org/opendata/gbfs.json", 
+    "href": "/v2/networks/mountain-rides-bike-share", 
+    "id": "mountain-rides-bike-share", 
+    "location": {
+      "city": "Ketchum / Sun Valley, ID", 
+      "country": "US", 
+      "latitude": 43.5194695168239, 
+      "longitude": -114.317415758737
+    }, 
+    "name": "Mountain Rides Bike Share", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "100 Hospital Drive, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2929"
+        }, 
+        "free_bikes": 0, 
+        "id": "1c999ae3554820c187a54fa9ea84a245", 
+        "latitude": 43.64919785976534, 
+        "longitude": -114.34922218322754, 
+        "name": "St. Lukes", 
+        "timestamp": "2017-08-15T04:48:33.501000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "2-4 Gannett Road, Bellevue", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3086"
+        }, 
+        "free_bikes": 0, 
+        "id": "096873e86b8fa91f8dd40865fcd5bdbe", 
+        "latitude": 43.45298197839979, 
+        "longitude": -114.2537248134613, 
+        "name": "Bellevue Mt Rides ", 
+        "timestamp": "2017-08-15T04:48:33.502000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "200 River Street West, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1485"
+        }, 
+        "free_bikes": 0, 
+        "id": "00af00119b534d4edc2ac5b0d5775e1e", 
+        "latitude": 43.67709067379101, 
+        "longitude": -114.36463683843613, 
+        "name": "River and 2nd", 
+        "timestamp": "2017-08-15T04:48:33.545000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "110 North River Street, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_165"
+        }, 
+        "free_bikes": 0, 
+        "id": "3490d8bf1565a32ae7acf58c45064035", 
+        "latitude": 43.5194695168239, 
+        "longitude": -114.317415758737, 
+        "name": "Park and Ride River St and Bullion", 
+        "timestamp": "2017-08-15T04:48:33.546000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Community Campus, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_166"
+        }, 
+        "free_bikes": 0, 
+        "id": "aa0f457735caf779985684b26027260c", 
+        "latitude": 43.5156576582103, 
+        "longitude": -114.294452279422, 
+        "name": "Community Campus", 
+        "timestamp": "2017-08-15T04:48:33.547000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "848-880 Shenandoah Drive, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_168"
+        }, 
+        "free_bikes": 0, 
+        "id": "3eb0c13a0ac23ec8bbfaec2f9fa16483", 
+        "latitude": 43.5032888271893, 
+        "longitude": -114.28971898295, 
+        "name": "Balmoral", 
+        "timestamp": "2017-08-15T04:48:33.536000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Main Street North, Barite, Idaho", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_169"
+        }, 
+        "free_bikes": 0, 
+        "id": "16cda36a473b8baf1ea4340e198117cb", 
+        "latitude": 43.5281380338408, 
+        "longitude": -114.321671159073, 
+        "name": "North Hailey McKercher and Main", 
+        "timestamp": "2017-08-15T04:48:33.536000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "711 Warm Springs Road, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1708"
+        }, 
+        "free_bikes": 0, 
+        "id": "96cb42bf75c781b953b705160264bc84", 
+        "latitude": 43.683148642889904, 
+        "longitude": -114.36742901802063, 
+        "name": "Warm Springs", 
+        "timestamp": "2017-08-15T04:48:33.512000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1451 Aviation Drive, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1824"
+        }, 
+        "free_bikes": 0, 
+        "id": "32322d36415522d221906918d9289c88", 
+        "latitude": 43.507195853275654, 
+        "longitude": -114.30375337600708, 
+        "name": "St Luke's Clinic aiport way", 
+        "timestamp": "2017-08-15T04:48:33.500000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "171 6th Street West, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2054"
+        }, 
+        "free_bikes": 0, 
+        "id": "d3abd4176113c3d6f4fa3397d8711ef8", 
+        "latitude": 43.6808132071708, 
+        "longitude": -114.36885058879852, 
+        "name": "6th and 2nd west Ketchum", 
+        "timestamp": "2017-08-15T04:48:33.559000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "219 South 1st Avenue, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_208"
+        }, 
+        "free_bikes": 0, 
+        "id": "05bb73616d784cd6724c4b38a35b2cd2", 
+        "latitude": 43.5187554052642, 
+        "longitude": -114.312905873348, 
+        "name": "County Building/Hope Garden", 
+        "timestamp": "2017-08-15T04:48:33.535000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Croy Street, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_210"
+        }, 
+        "free_bikes": 3, 
+        "id": "cad854e566bad0425fda1030f52b0109", 
+        "latitude": 43.51866469157406, 
+        "longitude": -114.31487917900085, 
+        "name": "Hailey Library Main and Croy", 
+        "timestamp": "2017-08-15T04:48:33.498000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "515 North River Street, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_211"
+        }, 
+        "free_bikes": 0, 
+        "id": "b98150fe17fe930b0ab2280877d39e99", 
+        "latitude": 43.526396241112, 
+        "longitude": -114.322739508857, 
+        "name": "Marketron", 
+        "timestamp": "2017-08-15T04:48:33.499000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "101-153 Bullion Street, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_212"
+        }, 
+        "free_bikes": 0, 
+        "id": "48bd3cc490cbca3479b6a0e9464e805b", 
+        "latitude": 43.5204688588318, 
+        "longitude": -114.314243550742, 
+        "name": "Mercantile Building", 
+        "timestamp": "2017-08-15T04:48:33.497000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Highway 75, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_220"
+        }, 
+        "free_bikes": 0, 
+        "id": "380efa905b45b605c2ab3008d7ee6551", 
+        "latitude": 43.5130764506378, 
+        "longitude": -114.307483270033, 
+        "name": "Hailey Chamber/Visitor Center", 
+        "timestamp": "2017-08-15T04:48:33.545000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "100-108 Saddle Road, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_719"
+        }, 
+        "free_bikes": 0, 
+        "id": "6e54ebd1080025ee705f1c3c3582e1c7", 
+        "latitude": 43.6871907247106, 
+        "longitude": -114.371608879544, 
+        "name": "Wood River YMCA", 
+        "timestamp": "2017-08-15T04:48:33.529000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "440 Washington Avenue, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_720"
+        }, 
+        "free_bikes": 4, 
+        "id": "7dc22bbebe6eb52968699af1dc11ab4a", 
+        "latitude": 43.6808075459127, 
+        "longitude": -114.365833367532, 
+        "name": "Despo's 4th and Washington", 
+        "timestamp": "2017-08-15T04:48:33.491000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "480 4th Avenue North, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_721"
+        }, 
+        "free_bikes": 4, 
+        "id": "3c8926ac19f112a8b8ec295cae660474", 
+        "latitude": 43.6818849656263, 
+        "longitude": -114.363111315247, 
+        "name": "Ketchum Visitor Center/Starbucks", 
+        "timestamp": "2017-08-15T04:48:33.493000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "8th Street West, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_734"
+        }, 
+        "free_bikes": 0, 
+        "id": "8466c79a4cd67588aa25cadfacbd332f", 
+        "latitude": 43.682116231682, 
+        "longitude": -114.369629215401, 
+        "name": "mountain rides office", 
+        "timestamp": "2017-08-15T04:48:33.526000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "151-171 North Main Street, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_826"
+        }, 
+        "free_bikes": 0, 
+        "id": "d2a0594b09faa94d1a51ce10eea908da", 
+        "latitude": 43.5203341741918, 
+        "longitude": -114.315962842828, 
+        "name": "Main Street and Carbonate", 
+        "timestamp": "2017-08-15T04:48:33.496000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "418-498 North Main Street, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_827"
+        }, 
+        "free_bikes": 0, 
+        "id": "17163a686704c639d1025b71ea933815", 
+        "latitude": 43.5240735110146, 
+        "longitude": -114.31840005521, 
+        "name": "powerhouse", 
+        "timestamp": "2017-08-15T04:48:33.495000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "180 1st Street East, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_838"
+        }, 
+        "free_bikes": 0, 
+        "id": "52c34074ed383f3fc82da5f28a4fff7d", 
+        "latitude": 43.6795574615611, 
+        "longitude": -114.362512263411, 
+        "name": "WrapCity 1st and Main", 
+        "timestamp": "2017-08-15T04:48:33.523000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Hideaway Lane, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_839"
+        }, 
+        "free_bikes": 0, 
+        "id": "2399a06bae121b3ff9f7cc14fff91383", 
+        "latitude": 43.682681184202, 
+        "longitude": -114.372536879781, 
+        "name": "Atkinsons Park", 
+        "timestamp": "2017-08-15T04:48:33.524000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "The Community School, Community School Road, Sun Valley, Idaho", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_841"
+        }, 
+        "free_bikes": 0, 
+        "id": "5a5da11ae7c8ea77aa6457e58042856e", 
+        "latitude": 43.6891444485061, 
+        "longitude": -114.352598985813, 
+        "name": "community school", 
+        "timestamp": "2017-08-15T04:48:33.550000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Challenger, I-80, Idaho", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_842"
+        }, 
+        "free_bikes": 0, 
+        "id": "2692f2516f4edcd1c564205e9f7226e2", 
+        "latitude": 43.68407625091, 
+        "longitude": -114.401455858255, 
+        "name": "warm springs lodge", 
+        "timestamp": "2017-08-15T04:48:33.549000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Washington Avenue, Ketchum, Idaho", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_843"
+        }, 
+        "free_bikes": 0, 
+        "id": "fba0ed09b4e0d3ca90c5fc719499ce80", 
+        "latitude": 43.6785207598704, 
+        "longitude": -114.363504008108, 
+        "name": "Forest Service park", 
+        "timestamp": "2017-08-15T04:48:33.548000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "5th Street East, Sun Valley", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_844"
+        }, 
+        "free_bikes": 0, 
+        "id": "2e52e4013f3fce9cc69b1ecd61188ddd", 
+        "latitude": 43.68304777866441, 
+        "longitude": -114.3638214468956, 
+        "name": "4th and East Ave", 
+        "timestamp": "2017-08-15T04:48:33.559000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1st Avenue, Ketchum, Idaho", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_845"
+        }, 
+        "free_bikes": 0, 
+        "id": "7aab06f85b550933a195d84e55a181c8", 
+        "latitude": 43.6795645924939, 
+        "longitude": -114.366495735651, 
+        "name": "Perry's Restaurant", 
+        "timestamp": "2017-08-15T04:48:33.558000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "River Run Plaza, 3rd Avenue, Elkhorn Village, Idaho", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_847"
+        }, 
+        "free_bikes": 0, 
+        "id": "c86af817c3c5409ad7af893854e3de1f", 
+        "latitude": 43.6707527140358, 
+        "longitude": -114.366796016693, 
+        "name": "river run", 
+        "timestamp": "2017-08-15T04:48:33.551000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "South Main Street, Hailey, Idaho", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_848"
+        }, 
+        "free_bikes": 0, 
+        "id": "7ded916eb0ba4670e7606b70b6ea0da9", 
+        "latitude": 43.5165141049619, 
+        "longitude": -114.312669825639, 
+        "name": "divine wine bar", 
+        "timestamp": "2017-08-15T04:48:33.560000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Saddle Road, Ketchum, Idaho", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_855"
+        }, 
+        "free_bikes": 0, 
+        "id": "78df5f890859350ea4c62f9abd965df4", 
+        "latitude": 43.6928968998074, 
+        "longitude": -114.367606258646, 
+        "name": "zenergy", 
+        "timestamp": "2017-08-15T04:48:33.513000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "416-488 Sun Valley Trail, Sun Valley", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_859"
+        }, 
+        "free_bikes": 0, 
+        "id": "ffd886d956355f8e4c3ed54559cd7ef8", 
+        "latitude": 43.6834254745656, 
+        "longitude": -114.360563411998, 
+        "name": "St Thomas Church", 
+        "timestamp": "2017-08-15T04:48:33.521000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "East Avenue, Ketchum, Idaho", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_860"
+        }, 
+        "free_bikes": 0, 
+        "id": "3b01c3a16b123c4145e6daf6fc582e6b", 
+        "latitude": 43.6812304241209, 
+        "longitude": -114.361936390345, 
+        "name": "2nd and east ave", 
+        "timestamp": "2017-08-15T04:48:33.562000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "151-251 Northwood Way, Sun Valley", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_861"
+        }, 
+        "free_bikes": 0, 
+        "id": "be3f14a5bf0c20952766260e20aad2a8", 
+        "latitude": 43.6910808019729, 
+        "longitude": -114.369411717422, 
+        "name": "big wood bread bakery light industrial", 
+        "timestamp": "2017-08-15T04:48:33.561000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "630 Fox Acres Road, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_895"
+        }, 
+        "free_bikes": 0, 
+        "id": "54d0ab47cdf143e512281669efc649da", 
+        "latitude": 43.5140898565722, 
+        "longitude": -114.30113554000854, 
+        "name": "Fox Acres bus stop", 
+        "timestamp": "2017-08-15T04:48:33.528000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "651 5th Street East, Sun Valley", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_896"
+        }, 
+        "free_bikes": 0, 
+        "id": "12d5dd2e951de9621ba6d9cbfa01b9a5", 
+        "latitude": 43.68439973263059, 
+        "longitude": -114.36195731163025, 
+        "name": "community library", 
+        "timestamp": "2017-08-15T04:48:33.530000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "169-177 Valleywood Drive, Sun Valley", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_897"
+        }, 
+        "free_bikes": 0, 
+        "id": "beec00c16b055ee908d7c8eb37ab813f", 
+        "latitude": 43.69322062853958, 
+        "longitude": -114.36460733413696, 
+        "name": "Thundersprings", 
+        "timestamp": "2017-08-15T04:48:33.530000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "101-111 Saddle Lane, Sun Valley", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_898"
+        }, 
+        "free_bikes": 0, 
+        "id": "847e1501e3eecb5a098672728bf2cb14", 
+        "latitude": 43.6931275387073, 
+        "longitude": -114.35992956161499, 
+        "name": "White cloud trail", 
+        "timestamp": "2017-08-15T04:48:33.534000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1 Sun Valley Road, Sun Valley", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_899"
+        }, 
+        "free_bikes": 0, 
+        "id": "18013255a2f51978270b742ba998ec3f", 
+        "latitude": 43.6941437533421, 
+        "longitude": -114.35624957084656, 
+        "name": "sun valley PO", 
+        "timestamp": "2017-08-15T04:48:33.504000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "24 Dollar Road, Sun Valley", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_900"
+        }, 
+        "free_bikes": 0, 
+        "id": "06537cc7c9a4140114ee7c190cffa09f", 
+        "latitude": 43.69104073287274, 
+        "longitude": -114.34905052185059, 
+        "name": "Sun Valley City Hall", 
+        "timestamp": "2017-08-15T04:48:33.526000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Hospital Road, Sun Valley", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_918"
+        }, 
+        "free_bikes": 0, 
+        "id": "e0fcfbee45be8b59f0a60004f41cbd83", 
+        "latitude": 43.69803394302045, 
+        "longitude": -114.35253739356995, 
+        "name": "Sun Valley Village", 
+        "timestamp": "2017-08-15T04:48:33.494000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Boardwalk Mall, Sun Valley", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_919"
+        }, 
+        "free_bikes": 0, 
+        "id": "575eb98c3136c10f0ed4d3e72645e8ce", 
+        "latitude": 43.69600549751876, 
+        "longitude": -114.35420036315917, 
+        "name": "Sun Valley area", 
+        "timestamp": "2017-08-15T04:48:33.525000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "89 Elkhorn Road, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_949"
+        }, 
+        "free_bikes": 0, 
+        "id": "a5b8845dcfd1de4734e7d179425d9dae", 
+        "latitude": 43.68533069612819, 
+        "longitude": -114.33400869369507, 
+        "name": "Elkhorn", 
+        "timestamp": "2017-08-15T04:48:33.551000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "59 Bonne Vie Condo Road, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_950"
+        }, 
+        "free_bikes": 0, 
+        "id": "99fc9dd417c9e2938c4f745cbc8fcdaa", 
+        "latitude": 43.67994604402438, 
+        "longitude": -114.33161616325378, 
+        "name": "Elkhorn village ", 
+        "timestamp": "2017-08-15T04:48:33.522000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "301-307 South River Street, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_962"
+        }, 
+        "free_bikes": 0, 
+        "id": "9f3242b32146d09da5095a46ecffab61", 
+        "latitude": 43.51679745361206, 
+        "longitude": -114.31488990783691, 
+        "name": "River Street south", 
+        "timestamp": "2017-08-15T04:48:33.503000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Edge Wood Lane, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_963"
+        }, 
+        "free_bikes": 0, 
+        "id": "0c61354836a42f037cb9b8ee29a7736a", 
+        "latitude": 43.5030637348435, 
+        "longitude": -114.28492426872253, 
+        "name": "keefer park", 
+        "timestamp": "2017-08-15T04:48:33.505000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1616 Airport Way, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_964"
+        }, 
+        "free_bikes": 0, 
+        "id": "7d2a31b99d8c6216c085b6b3e5ef9c07", 
+        "latitude": 43.50605974382209, 
+        "longitude": -114.30062055587769, 
+        "name": "airport", 
+        "timestamp": "2017-08-15T04:48:33.471000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "330 War Eagle Drive, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_965"
+        }, 
+        "free_bikes": 0, 
+        "id": "ed9e489034ea4cba8f5f29aa17930728", 
+        "latitude": 43.507522672912955, 
+        "longitude": -114.31171417236328, 
+        "name": "heagle park", 
+        "timestamp": "2017-08-15T04:48:33.552000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "126-312 Bullion Street, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_966"
+        }, 
+        "free_bikes": 0, 
+        "id": "b892dcfafbeb9e029fbc2a4887b45e58", 
+        "latitude": 43.51826012661435, 
+        "longitude": -114.31946039199829, 
+        "name": "hop porter park", 
+        "timestamp": "2017-08-15T04:48:33.537000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "712 Morning Star Road, Hailey", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_967"
+        }, 
+        "free_bikes": 0, 
+        "id": "0664130e66bca55e732963ec5a73dcbf", 
+        "latitude": 43.6753059330774, 
+        "longitude": -114.31204676628113, 
+        "name": "harker center", 
+        "timestamp": "2017-08-15T04:48:33.527000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "303 Walnut Avenue, Ketchum", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_980"
+        }, 
+        "free_bikes": 0, 
+        "id": "bd2a5a7d533a148ab04687d52839e8d7", 
+        "latitude": 43.682991527198936, 
+        "longitude": -114.362091422081, 
+        "name": "4th st and walnut", 
+        "timestamp": "2017-08-15T04:48:33.499000Z"
+      }
+    ]
+  }
+}

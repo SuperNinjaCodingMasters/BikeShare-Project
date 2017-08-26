@@ -1,0 +1,819 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-glasgow", 
+    "id": "nextbike-glasgow", 
+    "location": {
+      "city": "Glasgow", 
+      "country": "GB", 
+      "latitude": 55.8589, 
+      "longitude": -4.25549
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "81619"
+          ], 
+          "number": "8426", 
+          "slots": 8, 
+          "uid": "266220"
+        }, 
+        "free_bikes": 1, 
+        "id": "bbb411a1542cd34221b7fc6133b7a90a", 
+        "latitude": 55.857837, 
+        "longitude": -4.293207, 
+        "name": "Glasgow Science Centre", 
+        "timestamp": "2017-08-15T04:49:47.535000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "81624", 
+            "81896", 
+            "81673", 
+            "81493"
+          ], 
+          "number": "8449", 
+          "slots": 6, 
+          "uid": "733236"
+        }, 
+        "free_bikes": 4, 
+        "id": "3d62952ead776bc810dd44b5b1971918", 
+        "latitude": 55.883901, 
+        "longitude": -4.310356, 
+        "name": "Gartnavel General Hospital", 
+        "timestamp": "2017-08-15T04:49:47.559000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "81514", 
+            "81818"
+          ], 
+          "number": "8438", 
+          "slots": 8, 
+          "uid": "315912"
+        }, 
+        "free_bikes": 2, 
+        "id": "a9c25ce4491fa0d4a8583b13a1b3979b", 
+        "latitude": 55.863424, 
+        "longitude": -4.280664, 
+        "name": "Finnieston Street", 
+        "timestamp": "2017-08-15T04:49:47.537000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "8401", 
+          "slots": 10, 
+          "uid": "264281"
+        }, 
+        "free_bikes": 0, 
+        "id": "ed0fb1e86eb6c50ccd85eb26afa4e946", 
+        "latitude": 55.860787689358, 
+        "longitude": -4.2586022615433, 
+        "name": "Central Station ", 
+        "timestamp": "2017-08-15T04:49:47.492000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "number": "8411", 
+          "slots": 7, 
+          "uid": "264392"
+        }, 
+        "free_bikes": 0, 
+        "id": "bf64c2030fd195e6e29dbb4ef6f9c35e", 
+        "latitude": 55.857567, 
+        "longitude": -4.249717, 
+        "name": "Argyle Street Railway Station", 
+        "timestamp": "2017-08-15T04:49:47.525000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "8430", 
+          "slots": 6, 
+          "uid": "266168"
+        }, 
+        "free_bikes": 0, 
+        "id": "ae3a615a2f6a8bee619c47dac7df7463", 
+        "latitude": 55.859733, 
+        "longitude": -4.251917, 
+        "name": "Gallery of Modern Art", 
+        "timestamp": "2017-08-15T04:49:47.528000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "8433", 
+          "slots": 6, 
+          "uid": "266170"
+        }, 
+        "free_bikes": 0, 
+        "id": "28ae77e57c39887ceab9e2b2eb3a0e3a", 
+        "latitude": 55.860633, 
+        "longitude": -4.2419, 
+        "name": "University of Strathclyde (South)", 
+        "timestamp": "2017-08-15T04:49:47.531000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "81845", 
+            "81807", 
+            "81984", 
+            "81991", 
+            "81465"
+          ], 
+          "number": "8439", 
+          "slots": 6, 
+          "uid": "349450"
+        }, 
+        "free_bikes": 5, 
+        "id": "f579476c136e40d8c2aa290b0ab9dca7", 
+        "latitude": 55.858227, 
+        "longitude": -4.224286, 
+        "name": "Bellgrove Railway Station (North)", 
+        "timestamp": "2017-08-15T04:49:47.541000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81611", 
+            "81654", 
+            "81768", 
+            "81886", 
+            "81965"
+          ], 
+          "number": "8442", 
+          "slots": 6, 
+          "uid": "349453"
+        }, 
+        "free_bikes": 6, 
+        "id": "1172741997ccd599fa530bfb8451808c", 
+        "latitude": 55.850554, 
+        "longitude": -4.248127, 
+        "name": "City of Glasgow College (Riverside Campus)", 
+        "timestamp": "2017-08-15T04:49:47.545000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "81890", 
+            "81870"
+          ], 
+          "number": "8404", 
+          "slots": 10, 
+          "uid": "380893"
+        }, 
+        "free_bikes": 2, 
+        "id": "b0c856dc11d0b18c9911ec9a85c4c001", 
+        "latitude": 55.864986, 
+        "longitude": -4.252261, 
+        "name": "Buchanan Street Bus Station", 
+        "timestamp": "2017-08-15T04:49:47.558000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "81581", 
+            "81598", 
+            "81766"
+          ], 
+          "number": "8405", 
+          "slots": 6, 
+          "uid": "266157"
+        }, 
+        "free_bikes": 3, 
+        "id": "3ddf8661cd54b63e042898f8c83b38e0", 
+        "latitude": 55.865817, 
+        "longitude": -4.251367, 
+        "name": "Glasgow Caledonian University", 
+        "timestamp": "2017-08-15T04:49:47.527000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "81607", 
+            "81621", 
+            "81900", 
+            "81676"
+          ], 
+          "number": "8422", 
+          "slots": 10, 
+          "uid": "264306"
+        }, 
+        "free_bikes": 4, 
+        "id": "ed5d908ec3299e1def0ea6c09a120a10", 
+        "latitude": 55.8728, 
+        "longitude": -4.2927, 
+        "name": "University of Glasgow (West)", 
+        "timestamp": "2017-08-15T04:49:47.518000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81551", 
+            "81880", 
+            "81954"
+          ], 
+          "number": "8424", 
+          "slots": 3, 
+          "uid": "264309"
+        }, 
+        "free_bikes": 3, 
+        "id": "a087989280fd941fd9c41c3e787940ae", 
+        "latitude": 55.862983, 
+        "longitude": -4.241, 
+        "name": "University of Strathclyde (North)", 
+        "timestamp": "2017-08-15T04:49:47.520000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81508", 
+            "81593", 
+            "81566", 
+            "81645", 
+            "81653"
+          ], 
+          "number": "8420", 
+          "slots": 6, 
+          "uid": "264304"
+        }, 
+        "free_bikes": 5, 
+        "id": "0b3ed7d467ec69dd1f6854cc9659ab41", 
+        "latitude": 55.868283, 
+        "longitude": -4.28945, 
+        "name": "Kelvingrove Art Gallery", 
+        "timestamp": "2017-08-15T04:49:47.517000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "81513"
+          ], 
+          "number": "8435", 
+          "slots": 5, 
+          "uid": "266171"
+        }, 
+        "free_bikes": 1, 
+        "id": "90297f2e70406ac2b597f0242c2ce7a7", 
+        "latitude": 55.87165, 
+        "longitude": -4.27795, 
+        "name": "University of Glasgow (East)", 
+        "timestamp": "2017-08-15T04:49:47.532000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "81764", 
+            "81884", 
+            "81908", 
+            "81902", 
+            "81916"
+          ], 
+          "number": "8450", 
+          "slots": 8, 
+          "uid": "751103"
+        }, 
+        "free_bikes": 5, 
+        "id": "f6a8e8d51ce11c27a53a643f9c4242b3", 
+        "latitude": 55.862919, 
+        "longitude": -4.34157, 
+        "name": "University Hospital", 
+        "timestamp": "2017-08-15T04:49:47.561000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "81827"
+          ], 
+          "number": "8402", 
+          "slots": 6, 
+          "uid": "264283"
+        }, 
+        "free_bikes": 1, 
+        "id": "64b4a51ef3f284c407e7caba7d275a98", 
+        "latitude": 55.860767, 
+        "longitude": -4.264083, 
+        "name": "Waterloo Street", 
+        "timestamp": "2017-08-15T04:49:47.501000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "8406", 
+          "slots": 10, 
+          "uid": "264292"
+        }, 
+        "free_bikes": 0, 
+        "id": "bfdb33b93e6a6a80f01c46a8284203e0", 
+        "latitude": 55.86155, 
+        "longitude": -4.2494, 
+        "name": "George Square ", 
+        "timestamp": "2017-08-15T04:49:47.503000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "81506", 
+            "81533", 
+            "81600", 
+            "81866"
+          ], 
+          "number": "8407", 
+          "slots": 8, 
+          "uid": "264293"
+        }, 
+        "free_bikes": 4, 
+        "id": "af1d0f25cbc75377878349fde4d86133", 
+        "latitude": 55.858167, 
+        "longitude": -4.245483, 
+        "name": "Merchant Square", 
+        "timestamp": "2017-08-15T04:49:47.503000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "81563"
+          ], 
+          "number": "8410", 
+          "slots": 10, 
+          "uid": "264295"
+        }, 
+        "free_bikes": 1, 
+        "id": "e2f40b4e275a6ffe415c16b87a7a6b4a", 
+        "latitude": 55.856828625833, 
+        "longitude": -4.2552924156189, 
+        "name": "St Enoch Square", 
+        "timestamp": "2017-08-15T04:49:47.505000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81620", 
+            "81631", 
+            "81809", 
+            "81763", 
+            "81871"
+          ], 
+          "number": "8412", 
+          "slots": 8, 
+          "uid": "264298"
+        }, 
+        "free_bikes": 6, 
+        "id": "ab5e5dc12c8217d4077ba0df3970feb5", 
+        "latitude": 55.84945, 
+        "longitude": -4.23375, 
+        "name": "Glasgow Green ", 
+        "timestamp": "2017-08-15T04:49:47.507000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "81527"
+          ], 
+          "number": "8413", 
+          "slots": 8, 
+          "uid": "264299"
+        }, 
+        "free_bikes": 1, 
+        "id": "8025fcb7a981869c8e89144008b99cfb", 
+        "latitude": 55.85665, 
+        "longitude": -4.26375, 
+        "name": "Broomielaw", 
+        "timestamp": "2017-08-15T04:49:47.508000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "81586", 
+            "81833", 
+            "81455"
+          ], 
+          "number": "8416", 
+          "slots": 6, 
+          "uid": "264301"
+        }, 
+        "free_bikes": 3, 
+        "id": "066c99293af108ece27d9b0436c30cc4", 
+        "latitude": 55.865683, 
+        "longitude": -4.305367, 
+        "name": "Riverside Museum", 
+        "timestamp": "2017-08-15T04:49:47.511000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81570", 
+            "81529", 
+            "81627", 
+            "81548", 
+            "81659"
+          ], 
+          "number": "8417", 
+          "slots": 8, 
+          "uid": "264302"
+        }, 
+        "free_bikes": 6, 
+        "id": "71b02b6f26f03e58c97dec1e1c9faa00", 
+        "latitude": 55.878278006264, 
+        "longitude": -4.2884874343872, 
+        "name": "Botanic Gardens", 
+        "timestamp": "2017-08-15T04:49:47.513000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "81549", 
+            "81779", 
+            "81856", 
+            "81950", 
+            "81928"
+          ], 
+          "number": "8428", 
+          "slots": 12, 
+          "uid": "266166"
+        }, 
+        "free_bikes": 6, 
+        "id": "c7019d9e008c9b91c2888e0bc6c2e10d", 
+        "latitude": 55.846367, 
+        "longitude": -4.208, 
+        "name": "Emirates Arena", 
+        "timestamp": "2017-08-15T04:49:47.528000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81840", 
+            "81832", 
+            "81985", 
+            "81980", 
+            "81979"
+          ], 
+          "number": "8423", 
+          "slots": 6, 
+          "uid": "266218"
+        }, 
+        "free_bikes": 7, 
+        "id": "03129bf407f7ea39d3ead112fc6a2e57", 
+        "latitude": 55.86995, 
+        "longitude": -4.308433, 
+        "name": "Partick Interchange", 
+        "timestamp": "2017-08-15T04:49:47.534000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "81481"
+          ], 
+          "number": "8440", 
+          "slots": 6, 
+          "uid": "349451"
+        }, 
+        "free_bikes": 1, 
+        "id": "62a3a1e31e104bbf471fe0e7ef54db7f", 
+        "latitude": 55.855247, 
+        "longitude": -4.235172, 
+        "name": "Barrowlands", 
+        "timestamp": "2017-08-15T04:49:47.542000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "8441", 
+          "slots": 8, 
+          "uid": "349452"
+        }, 
+        "free_bikes": 0, 
+        "id": "c8482cf67420365e44642a470a9688fe", 
+        "latitude": 55.848881, 
+        "longitude": -4.226744, 
+        "name": "Bridgeton", 
+        "timestamp": "2017-08-15T04:49:47.543000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "number": "8445", 
+          "slots": 5, 
+          "uid": "349456"
+        }, 
+        "free_bikes": 0, 
+        "id": "f2d6449730cc762b66c73df23c2538cc", 
+        "latitude": 55.863331, 
+        "longitude": -4.311153, 
+        "name": "Govan Cross", 
+        "timestamp": "2017-08-15T04:49:47.551000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81515", 
+            "81616", 
+            "81794", 
+            "81791", 
+            "81781"
+          ], 
+          "number": "8448", 
+          "slots": 8, 
+          "uid": "349461"
+        }, 
+        "free_bikes": 5, 
+        "id": "fcc47df38b188406a03928a8d3d13626", 
+        "latitude": 55.835022, 
+        "longitude": -4.272439, 
+        "name": "Queens Park West", 
+        "timestamp": "2017-08-15T04:49:47.556000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "81521", 
+            "81594", 
+            "81808", 
+            "81473"
+          ], 
+          "number": "8409", 
+          "slots": 6, 
+          "uid": "264296"
+        }, 
+        "free_bikes": 4, 
+        "id": "314043c614db0e0e0090ae91174508ae", 
+        "latitude": 55.862883, 
+        "longitude": -4.237467, 
+        "name": "Glasgow Cathedral", 
+        "timestamp": "2017-08-15T04:49:47.506000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "81574", 
+            "81592", 
+            "81606"
+          ], 
+          "number": "8418", 
+          "slots": 8, 
+          "uid": "264303"
+        }, 
+        "free_bikes": 3, 
+        "id": "961afba7e4e6b5236cdc7595c488341c", 
+        "latitude": 55.87505, 
+        "longitude": -4.28035, 
+        "name": "Kelvinbridge Subway", 
+        "timestamp": "2017-08-15T04:49:47.514000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "81550", 
+            "81555", 
+            "81821", 
+            "81786", 
+            "81767"
+          ], 
+          "number": "8408", 
+          "slots": 10, 
+          "uid": "264294"
+        }, 
+        "free_bikes": 6, 
+        "id": "3ff58e3afee22e9aeef8b1e95650e749", 
+        "latitude": 55.871367, 
+        "longitude": -4.269117, 
+        "name": "St George's Cross", 
+        "timestamp": "2017-08-15T04:49:47.504000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81525", 
+            "81813", 
+            "81811", 
+            "81981", 
+            "81671"
+          ], 
+          "number": "8446", 
+          "slots": 6, 
+          "uid": "349458"
+        }, 
+        "free_bikes": 5, 
+        "id": "0b89589b3812e39a8c66d3ef22462228", 
+        "latitude": 55.842696, 
+        "longitude": -4.262674, 
+        "name": "Eglinton Toll", 
+        "timestamp": "2017-08-15T04:49:47.553000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "81633", 
+            "81854", 
+            "81816", 
+            "81996", 
+            "81675"
+          ], 
+          "number": "8403", 
+          "slots": 8, 
+          "uid": "264286"
+        }, 
+        "free_bikes": 6, 
+        "id": "2baae85265c6e4ed5f79998f4a57a627", 
+        "latitude": 55.845797, 
+        "longitude": -4.275208, 
+        "name": "Shields Road (North)", 
+        "timestamp": "2017-08-15T04:49:47.502000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "81552", 
+            "81554", 
+            "81913", 
+            "81907", 
+            "81474"
+          ], 
+          "number": "8425", 
+          "slots": 6, 
+          "uid": "264308"
+        }, 
+        "free_bikes": 5, 
+        "id": "bf850ae451f61a249be1679dca57739d", 
+        "latitude": 55.864788492724, 
+        "longitude": -4.27206158638, 
+        "name": "Mitchell Library", 
+        "timestamp": "2017-08-15T04:49:47.519000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81579", 
+            "81825", 
+            "81898", 
+            "81936", 
+            "81491"
+          ], 
+          "number": "8432", 
+          "slots": 5, 
+          "uid": "264316"
+        }, 
+        "free_bikes": 5, 
+        "id": "eb47a36e3d5fe5bc456397413bd2aa75", 
+        "latitude": 55.8525, 
+        "longitude": -4.25885, 
+        "name": "Bridge Street Subway", 
+        "timestamp": "2017-08-15T04:49:47.521000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "81968"
+          ], 
+          "number": "8443", 
+          "slots": 6, 
+          "uid": "349454"
+        }, 
+        "free_bikes": 1, 
+        "id": "ef89ae581497a99c0a1d61db38e53380", 
+        "latitude": 55.85378, 
+        "longitude": -4.279158, 
+        "name": "Paisley Road Toll", 
+        "timestamp": "2017-08-15T04:49:47.545000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "81585", 
+            "81961"
+          ], 
+          "number": "8431", 
+          "slots": 5, 
+          "uid": "266169"
+        }, 
+        "free_bikes": 2, 
+        "id": "ecff83d04d6a6868bddf0b18b18d97ac", 
+        "latitude": 55.856083, 
+        "longitude": -4.24465, 
+        "name": "Trongate", 
+        "timestamp": "2017-08-15T04:49:47.529000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81500", 
+            "81504", 
+            "81516", 
+            "81573", 
+            "81610"
+          ], 
+          "number": "8444", 
+          "slots": 6, 
+          "uid": "349455"
+        }, 
+        "free_bikes": 5, 
+        "id": "35a4bdf763f520ca2f18d7986d597517", 
+        "latitude": 55.851939, 
+        "longitude": -4.294648, 
+        "name": "Cessnock Subway Station", 
+        "timestamp": "2017-08-15T04:49:47.548000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "81639", 
+            "81798", 
+            "81951", 
+            "81479"
+          ], 
+          "number": "8421", 
+          "slots": 10, 
+          "uid": "3456076"
+        }, 
+        "free_bikes": 4, 
+        "id": "ed5ad71f18c17c6ca1cbd7ef0d0e4374", 
+        "latitude": 55.864520581218, 
+        "longitude": -4.2700660228729, 
+        "name": "Charing Cross Railway Station", 
+        "timestamp": "2017-08-15T04:49:47.562000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "81523", 
+            "81530", 
+            "81638", 
+            "81652", 
+            "81789"
+          ], 
+          "number": "8447", 
+          "slots": 6, 
+          "uid": "349460"
+        }, 
+        "free_bikes": 5, 
+        "id": "c4109623c2ff23d909d0f47191229938", 
+        "latitude": 55.834567, 
+        "longitude": -4.265429, 
+        "name": "Queens Park Railway Station", 
+        "timestamp": "2017-08-15T04:49:47.555000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "81576", 
+            "81590"
+          ], 
+          "number": "8415", 
+          "slots": 8, 
+          "uid": "264300"
+        }, 
+        "free_bikes": 2, 
+        "id": "57445c5942480afd756cfcba9e26c53d", 
+        "latitude": 55.859128845686, 
+        "longitude": -4.2867279052734, 
+        "name": "Scottish Event Campus (formerly S.E.C.C)", 
+        "timestamp": "2017-08-15T04:49:47.510000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-stirling", 
+    "id": "nextbike-stirling", 
+    "location": {
+      "city": "Stirling", 
+      "country": "GB", 
+      "latitude": 56.1165, 
+      "longitude": -3.9369
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "82035", 
+            "82034", 
+            "82095", 
+            "82145", 
+            "82131"
+          ], 
+          "number": "8495", 
+          "slots": 6, 
+          "uid": "1112668"
+        }, 
+        "free_bikes": 5, 
+        "id": "b0b1fc3a4c60a37d654aeebdae350706", 
+        "latitude": 56.09013, 
+        "longitude": -3.91239, 
+        "name": "Bannockburn Town Centre", 
+        "timestamp": "2017-08-15T04:50:06.701000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "82073"
+          ], 
+          "number": "8493", 
+          "slots": 8, 
+          "uid": "1112656"
+        }, 
+        "free_bikes": 1, 
+        "id": "cbd20fc3df6ed2f3e465e9cffaf79a68", 
+        "latitude": 56.10034, 
+        "longitude": -3.937017, 
+        "name": "Borestone Roundabout", 
+        "timestamp": "2017-08-15T04:50:06.698000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "82013", 
+            "82042", 
+            "82023", 
+            "82070", 
+            "82082"
+          ], 
+          "number": "8484", 
+          "slots": 8, 
+          "uid": "278891"
+        }, 
+        "free_bikes": 5, 
+        "id": "6c1776670be94d96eb2bad2f465771a3", 
+        "latitude": 56.119012, 
+        "longitude": -3.936557, 
+        "name": "Murray Place", 
+        "timestamp": "2017-08-15T04:50:06.686000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "82006", 
+            "82009", 
+            "82053", 
+            "82132", 
+            "82119"
+          ], 
+          "number": "8478", 
+          "slots": 6, 
+          "uid": "2204201"
+        }, 
+        "free_bikes": 6, 
+        "id": "bf553ad0f039eb301d48d43deb97d263", 
+        "latitude": 56.15685, 
+        "longitude": -3.95705, 
+        "name": "Bridge of Allan Train Station", 
+        "timestamp": "2017-08-15T04:50:06.701000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "82014", 
+            "82063", 
+            "82020", 
+            "82130", 
+            "82110"
+          ], 
+          "number": "8480", 
+          "slots": 9, 
+          "uid": "278886"
+        }, 
+        "free_bikes": 5, 
+        "id": "2318ec48ecc192c8f44e94408e6a1e89", 
+        "latitude": 56.1282246151, 
+        "longitude": -3.960292339325, 
+        "name": "Castle Business Park / Lomond Court", 
+        "timestamp": "2017-08-15T04:50:06.680000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "82064", 
+            "82022", 
+            "82072", 
+            "82093", 
+            "82084"
+          ], 
+          "number": "8489", 
+          "slots": 10, 
+          "uid": "297675"
+        }, 
+        "free_bikes": 6, 
+        "id": "90a29ebd2cae22678a541954878bfd35", 
+        "latitude": 56.129803, 
+        "longitude": -3.9492095, 
+        "name": "Raploch Community Campus", 
+        "timestamp": "2017-08-15T04:50:06.690000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "82003", 
+            "82010", 
+            "82043", 
+            "82038", 
+            "82026"
+          ], 
+          "number": "8490", 
+          "slots": 12, 
+          "uid": "312488"
+        }, 
+        "free_bikes": 9, 
+        "id": "b382ba9efb9cb77a22793b9ebebe16c0", 
+        "latitude": 56.148932, 
+        "longitude": -3.9066, 
+        "name": "Alexander Court Residences, University of Stirling", 
+        "timestamp": "2017-08-15T04:50:06.691000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "8487", 
+          "slots": 8, 
+          "uid": "278899"
+        }, 
+        "free_bikes": 0, 
+        "id": "59a15e153b011d5b9bb23c81ff69fe20", 
+        "latitude": 56.149165, 
+        "longitude": -3.921513, 
+        "name": "Willow Court Residences, University of Stirling", 
+        "timestamp": "2017-08-15T04:50:06.688000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "82058", 
+            "82048", 
+            "82157", 
+            "82151", 
+            "82138"
+          ], 
+          "number": "8482", 
+          "slots": 8, 
+          "uid": "278889"
+        }, 
+        "free_bikes": 5, 
+        "id": "4f864b553704abc4f6ca0d58a7b439af", 
+        "latitude": 56.13297807817, 
+        "longitude": -3.9611291885376, 
+        "name": "Forth Valley College", 
+        "timestamp": "2017-08-15T04:50:06.684000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "82067", 
+            "82050", 
+            "82040", 
+            "82017", 
+            "82094"
+          ], 
+          "number": "8481", 
+          "slots": 8, 
+          "uid": "278887"
+        }, 
+        "free_bikes": 6, 
+        "id": "09beb65a93e54b324fe8c0f372e9a291", 
+        "latitude": 56.107011, 
+        "longitude": -3.936759, 
+        "name": "Community Hospital", 
+        "timestamp": "2017-08-15T04:50:06.683000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "82055", 
+            "82049", 
+            "82044", 
+            "82041", 
+            "82018"
+          ], 
+          "number": "8483", 
+          "slots": 14, 
+          "uid": "278890"
+        }, 
+        "free_bikes": 7, 
+        "id": "9c300af339de75973c2160beb071e00d", 
+        "latitude": 56.117809, 
+        "longitude": -3.939483, 
+        "name": "The Back Walk", 
+        "timestamp": "2017-08-15T04:50:06.685000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "82080"
+          ], 
+          "number": "8485", 
+          "slots": 6, 
+          "uid": "278892"
+        }, 
+        "free_bikes": 1, 
+        "id": "0d11deb82fd834a200258b74da6c82f2", 
+        "latitude": 56.115382, 
+        "longitude": -3.937405, 
+        "name": "Port Street", 
+        "timestamp": "2017-08-15T04:50:06.687000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "82004", 
+            "82039", 
+            "82037", 
+            "82016", 
+            "82025"
+          ], 
+          "number": "8488", 
+          "slots": 20, 
+          "uid": "278900"
+        }, 
+        "free_bikes": 8, 
+        "id": "cf5fa3dbe19d09cfa6ec8eb118e97218", 
+        "latitude": 56.119452, 
+        "longitude": -3.935368, 
+        "name": "Train Station", 
+        "timestamp": "2017-08-15T04:50:06.689000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "82054", 
+            "82076", 
+            "82155", 
+            "82140", 
+            "82111"
+          ], 
+          "number": "8479", 
+          "slots": 8, 
+          "uid": "1112287"
+        }, 
+        "free_bikes": 5, 
+        "id": "3d150afd7d180ec88239fac6758db16f", 
+        "latitude": 56.15297, 
+        "longitude": -3.94723, 
+        "name": "Bridge of Allan ", 
+        "timestamp": "2017-08-15T04:50:06.692000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "82000", 
+            "82060", 
+            "82071", 
+            "82074", 
+            "82097"
+          ], 
+          "number": "8476", 
+          "slots": 8, 
+          "uid": "1112320"
+        }, 
+        "free_bikes": 8, 
+        "id": "83415817eea814d847e6ef824bde84a1", 
+        "latitude": 56.13829, 
+        "longitude": -3.92392, 
+        "name": "Causewayhead Roundabout", 
+        "timestamp": "2017-08-15T04:50:06.694000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "82069", 
+            "82019", 
+            "82106"
+          ], 
+          "number": "8494", 
+          "slots": 5, 
+          "uid": "1112665"
+        }, 
+        "free_bikes": 3, 
+        "id": "f70e0e906b517c94c462d9f29b20eb90", 
+        "latitude": 56.09396, 
+        "longitude": -3.92104, 
+        "name": "Bannockburn High School", 
+        "timestamp": "2017-08-15T04:50:06.699000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "82068", 
+            "82059", 
+            "82056", 
+            "82031", 
+            "82146"
+          ], 
+          "number": "8491", 
+          "slots": 12, 
+          "uid": "1112586"
+        }, 
+        "free_bikes": 6, 
+        "id": "8e3cf8ba4c6a31256c1a018770ad4c14", 
+        "latitude": 56.11289, 
+        "longitude": -3.92586, 
+        "name": "Teith House", 
+        "timestamp": "2017-08-15T04:50:06.697000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "82001", 
+            "82002", 
+            "82007", 
+            "82030", 
+            "82079"
+          ], 
+          "number": "8474", 
+          "slots": 14, 
+          "uid": "1112575"
+        }, 
+        "free_bikes": 9, 
+        "id": "022887bc48bad8d83f10dddc6da3941b", 
+        "latitude": 56.1147, 
+        "longitude": -3.90739, 
+        "name": "Springkerse Park & Ride", 
+        "timestamp": "2017-08-15T04:50:06.696000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "82012", 
+            "82065", 
+            "82045", 
+            "82032", 
+            "82098"
+          ], 
+          "number": "8492", 
+          "slots": 18, 
+          "uid": "1112595"
+        }, 
+        "free_bikes": 6, 
+        "id": "c10542f0f5b2921d52905430e91978bd", 
+        "latitude": 56.1182, 
+        "longitude": -3.91407, 
+        "name": "The Peak", 
+        "timestamp": "2017-08-15T04:50:06.698000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "82008", 
+            "82066", 
+            "82052", 
+            "82036", 
+            "82029"
+          ], 
+          "number": "8477", 
+          "slots": 16, 
+          "uid": "1112309"
+        }, 
+        "free_bikes": 7, 
+        "id": "4608b61a0f9697500bbb42f1e82c35a2", 
+        "latitude": 56.13104, 
+        "longitude": -3.96703, 
+        "name": "Castleview Park & Ride", 
+        "timestamp": "2017-08-15T04:50:06.693000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "82062", 
+            "82061", 
+            "82021", 
+            "82120", 
+            "82112"
+          ], 
+          "number": "8475", 
+          "slots": 9, 
+          "uid": "1112500"
+        }, 
+        "free_bikes": 6, 
+        "id": "d65366b80b086cf781d2ceb76a060159", 
+        "latitude": 56.12954, 
+        "longitude": -3.93506, 
+        "name": "Old Stirling Bridge", 
+        "timestamp": "2017-08-15T04:50:06.695000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "82005", 
+            "82011", 
+            "82047", 
+            "82090", 
+            "82113"
+          ], 
+          "number": "8486", 
+          "slots": 20, 
+          "uid": "278898"
+        }, 
+        "free_bikes": 6, 
+        "id": "4cb2234ef2bc4eaf33dbeee41591454b", 
+        "latitude": 56.143968, 
+        "longitude": -3.920836, 
+        "name": "Cottrell Building (Logie Entrance), University of Stirling", 
+        "timestamp": "2017-08-15T04:50:06.687000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "82051", 
+            "82046", 
+            "82086", 
+            "82143", 
+            "82118"
+          ], 
+          "number": "8496", 
+          "slots": 6, 
+          "uid": "2722400"
+        }, 
+        "free_bikes": 5, 
+        "id": "a6153e21d8ccd703398b7b89c96373a3", 
+        "latitude": 56.113118, 
+        "longitude": -3.936394, 
+        "name": "Stirling Council \u2013 Old Viewforth", 
+        "timestamp": "2017-08-15T04:50:06.702000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-mezzolombardo", 
+    "id": "bicincitta-mezzolombardo", 
+    "location": {
+      "city": "Mezzolombardo", 
+      "country": "IT", 
+      "latitude": 46.21400260000001, 
+      "longitude": 11.0967867
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Via Carducci", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "64b078d16b9d61dc4811a90156ae8a9e", 
+        "latitude": 46.21259623820249, 
+        "longitude": 11.094625366934224, 
+        "name": "Ospedale San Giovanni", 
+        "timestamp": "2017-08-15T04:49:34.173000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "Via San Francesco, 4", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "f05cd193ebf3ece66f875a15f562048c", 
+        "latitude": 46.2134060415138, 
+        "longitude": 11.093330302516165, 
+        "name": "Stazione TN-MALE'", 
+        "timestamp": "2017-08-15T04:49:34.181000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazza Fiera", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "acfc73671667d6ca003b8b07c06ac867", 
+        "latitude": 46.216924942019766, 
+        "longitude": 11.087134399691763, 
+        "name": "Fiera", 
+        "timestamp": "2017-08-15T04:49:34.182000Z"
+      }
+    ]
+  }
+}

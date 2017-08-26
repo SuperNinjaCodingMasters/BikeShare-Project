@@ -1,0 +1,100 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/tyski-rower-miejski-tychy", 
+    "id": "tyski-rower-miejski-tychy", 
+    "location": {
+      "city": "Tychy", 
+      "country": "PL", 
+      "latitude": 50.1294, 
+      "longitude": 18.994
+    }, 
+    "name": "Tyski Rower Miejski", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "61120", 
+            "61114", 
+            "61112"
+          ], 
+          "number": "6217", 
+          "slots": 12, 
+          "uid": "3110230"
+        }, 
+        "free_bikes": 3, 
+        "id": "3ca8484a3917b767e75e3b4e500cf09a", 
+        "latitude": 50.13612, 
+        "longitude": 18.96613, 
+        "name": "Dworzec PKP", 
+        "timestamp": "2017-08-15T04:49:10.563000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "61119", 
+            "61118", 
+            "61117", 
+            "61110", 
+            "61109"
+          ], 
+          "number": "6218", 
+          "slots": 12, 
+          "uid": "3110237"
+        }, 
+        "free_bikes": 5, 
+        "id": "05db97f9ac59149f84eb26b25bfe2ccf", 
+        "latitude": 50.12602, 
+        "longitude": 18.98378, 
+        "name": "pl. Baczy\u0144skiego", 
+        "timestamp": "2017-08-15T04:49:10.575000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "61115", 
+            "61105", 
+            "61104", 
+            "61097", 
+            "61096"
+          ], 
+          "number": "6216", 
+          "slots": 12, 
+          "uid": "3110224"
+        }, 
+        "free_bikes": 5, 
+        "id": "424ac84e292f2a8dd5505a2066625f47", 
+        "latitude": 50.10882, 
+        "longitude": 19.00051, 
+        "name": "Lodowisko", 
+        "timestamp": "2017-08-15T04:49:10.546000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "61116", 
+            "61111", 
+            "61106", 
+            "61102", 
+            "61101"
+          ], 
+          "number": "6219", 
+          "slots": 12, 
+          "uid": "3110240"
+        }, 
+        "free_bikes": 5, 
+        "id": "308bb9ec1092e6826dbc9002f637fa24", 
+        "latitude": 50.09313, 
+        "longitude": 18.99418, 
+        "name": "Paprocany", 
+        "timestamp": "2017-08-15T04:49:10.576000Z"
+      }
+    ]
+  }
+}

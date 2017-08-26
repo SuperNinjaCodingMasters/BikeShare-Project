@@ -1,0 +1,2596 @@
+{
+  "network": {
+    "company": [
+      "CycleHop, LLC", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "https://coast.socialbicycles.com/opendata/gbfs.json", 
+    "href": "/v2/networks/coast-bike-share", 
+    "id": "coast-bike-share", 
+    "location": {
+      "city": "Tampa, FL", 
+      "country": "US", 
+      "latitude": 27.9627193250593, 
+      "longitude": -82.438056400783
+    }, 
+    "name": "Coast Bike Share", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "452-474 7th Avenue North, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2219"
+        }, 
+        "free_bikes": 7, 
+        "id": "bebad6fb89b0d2cf3ff3d5eb2da147ce", 
+        "latitude": 27.779506280776832, 
+        "longitude": -82.6394672691822, 
+        "name": "SP - 7th Ave N & Dartmoor St", 
+        "timestamp": "2017-08-15T04:48:54.737000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "488-498 Central Avenue North, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2173"
+        }, 
+        "free_bikes": 5, 
+        "id": "ef4b9dac074ea70f5e74ef3dfc6879ae", 
+        "latitude": 27.77113425732845, 
+        "longitude": -82.63999298214912, 
+        "name": "SP - 5th St N & Central Ave ", 
+        "timestamp": "2017-08-15T04:48:54.802000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "USF Cherry Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3180"
+        }, 
+        "free_bikes": 0, 
+        "id": "68be6a17619122b2552dd57e7af63301", 
+        "latitude": 28.059620623476828, 
+        "longitude": -82.41572141647339, 
+        "name": "U - ENG - Engineering I (Edgar W. Kopp)", 
+        "timestamp": "2017-08-15T04:48:54.827000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4205 USF Willow Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3149"
+        }, 
+        "free_bikes": 0, 
+        "id": "2981ffe1a74e3b356e82f292f66c11d9", 
+        "latitude": 28.062231324879328, 
+        "longitude": -82.4101772904396, 
+        "name": "U- BEH- Behavioral Sciences", 
+        "timestamp": "2017-08-15T04:48:54.782000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4231 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3235"
+        }, 
+        "free_bikes": 0, 
+        "id": "0fac9adceb9357528628013906ff1086", 
+        "latitude": 28.065006930281058, 
+        "longitude": -82.41146206855774, 
+        "name": "U- HAD- Holly Apts", 
+        "timestamp": "2017-08-15T04:48:54.755000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "3132-3152 Central Avenue North, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2176"
+        }, 
+        "free_bikes": 6, 
+        "id": "d51957643f64feb948670d54f7591624", 
+        "latitude": 27.770882691345165, 
+        "longitude": -82.67603784799576, 
+        "name": "SP - Central Ave & 31st Street", 
+        "timestamp": "2017-08-15T04:48:54.796000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1-99 7th Street South, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2193"
+        }, 
+        "free_bikes": 11, 
+        "id": "7b2849a1186e787d26e887d81cebf469", 
+        "latitude": 27.771017967409612, 
+        "longitude": -82.64318749308586, 
+        "name": "SP - 7th St S & Central Ave", 
+        "timestamp": "2017-08-15T04:48:54.880000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "250-298 1st Street North, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2195"
+        }, 
+        "free_bikes": 11, 
+        "id": "5df52e20e3fd1dfb4c1d465002ba5d8d", 
+        "latitude": 27.77467747845229, 
+        "longitude": -82.63406503190708, 
+        "name": "SP - 1st St N & 3rd Ave N", 
+        "timestamp": "2017-08-15T04:48:54.876000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "301 1st Avenue Southeast, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2286"
+        }, 
+        "free_bikes": 9, 
+        "id": "06dfd4e7cd7a4146ee8b4f19d5364653", 
+        "latitude": 27.770638244657178, 
+        "longitude": -82.6308211684227, 
+        "name": "SP - Demen's Landing", 
+        "timestamp": "2017-08-15T04:48:54.835000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "100-198 1st Street Southeast, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2068"
+        }, 
+        "free_bikes": 11, 
+        "id": "1b2881c8a0348b0155c89b63d1b8f59f", 
+        "latitude": 27.769859808720867, 
+        "longitude": -82.63374209403992, 
+        "name": "SP - 1st Street S & 1st Ave S", 
+        "timestamp": "2017-08-15T04:48:54.781000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12912-12930 USF Magnolia Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3177"
+        }, 
+        "free_bikes": 0, 
+        "id": "aa900c6c5e1eba220a6e3d4ac068b429", 
+        "latitude": 28.059133033037497, 
+        "longitude": -82.42018461227417, 
+        "name": "U - Magnolia Fields", 
+        "timestamp": "2017-08-15T04:48:54.843000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "3800 USF Beard Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3178"
+        }, 
+        "free_bikes": 0, 
+        "id": "bb2aea0a0826e186015ce1aad9e88124", 
+        "latitude": 28.05908285376859, 
+        "longitude": -82.41678759455681, 
+        "name": "U - BDG - Beard Drive Parking", 
+        "timestamp": "2017-08-15T04:48:54.857000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4220 East Fowler Avenue, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3179"
+        }, 
+        "free_bikes": 0, 
+        "id": "404dc0195b43622694a9098f9a7a98f8", 
+        "latitude": 28.059172265283646, 
+        "longitude": -82.41548169404268, 
+        "name": "U - ENB - Engineering Building II", 
+        "timestamp": "2017-08-15T04:48:54.848000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "USF Cherry Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3173"
+        }, 
+        "free_bikes": 0, 
+        "id": "0ce459e66d2a75353a7bfd8b30a11b25", 
+        "latitude": 28.05988885648339, 
+        "longitude": -82.41580791771412, 
+        "name": "U - ENA - Engineering Teaching Auditorium ", 
+        "timestamp": "2017-08-15T04:48:54.847000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "USF Cherry Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3174"
+        }, 
+        "free_bikes": 0, 
+        "id": "b5302815ea30ee863511abe546621e40", 
+        "latitude": 28.060167384906116, 
+        "longitude": -82.41553902626038, 
+        "name": "U - ENA - Lawn (Engineering Teaching Auditorium)", 
+        "timestamp": "2017-08-15T04:48:54.842000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Leroy Collins Boulevard, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3182"
+        }, 
+        "free_bikes": 2, 
+        "id": "76f3e07dc1c6ef81b679773ebcdf16ed", 
+        "latitude": 28.058435964308956, 
+        "longitude": -82.4142649769783, 
+        "name": "U - ENC - Engineering III", 
+        "timestamp": "2017-08-15T04:48:54.829000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3702 USF Beach Lane, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3183"
+        }, 
+        "free_bikes": 0, 
+        "id": "ea60fab93777ab8da6bb0d23f5cbe6b9", 
+        "latitude": 28.05894604390233, 
+        "longitude": -82.41896957159042, 
+        "name": "U - MAG - Magnolia Housing", 
+        "timestamp": "2017-08-15T04:48:54.830000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Wheelchair Access, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3185"
+        }, 
+        "free_bikes": 0, 
+        "id": "9ab52c7ddd9531fbfeec1bc9fcea89c0", 
+        "latitude": 28.061349658085593, 
+        "longitude": -82.4149489402771, 
+        "name": "U - ISA - Interdisciplinary Sciences - West", 
+        "timestamp": "2017-08-15T04:48:54.831000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Wheelchair Access, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3186"
+        }, 
+        "free_bikes": 0, 
+        "id": "67dd6e4473d1be00307bf66095467cf7", 
+        "latitude": 28.06176457484662, 
+        "longitude": -82.41426028311253, 
+        "name": "U - ISA - Interdisciplinary Sciences - North", 
+        "timestamp": "2017-08-15T04:48:54.832000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3375 USF Laurel Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3202"
+        }, 
+        "free_bikes": 0, 
+        "id": "a492bff0986a4275e2f82e3877ba7566", 
+        "latitude": 28.064242208092843, 
+        "longitude": -82.41816826164722, 
+        "name": "U - MUS - Music - South", 
+        "timestamp": "2017-08-15T04:48:54.739000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12498-12502 USF Health Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3207"
+        }, 
+        "free_bikes": 0, 
+        "id": "e7ed05b68a0d598c4252221cb7425cc4", 
+        "latitude": 28.064958765462656, 
+        "longitude": -82.42373049259186, 
+        "name": "U - MDN - USF Health and Nursing - North", 
+        "timestamp": "2017-08-15T04:48:54.745000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3820 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3211"
+        }, 
+        "free_bikes": 0, 
+        "id": "6c0ac172a0d10aae15994ce56c88914d", 
+        "latitude": 28.065391064448526, 
+        "longitude": -82.41459891200066, 
+        "name": "U - PPA - US Post Office", 
+        "timestamp": "2017-08-15T04:48:54.884000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "12011 USF Sago Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3141"
+        }, 
+        "free_bikes": 6, 
+        "id": "c215cff1b24d2dda1af7801874250d88", 
+        "latitude": 28.059803114327984, 
+        "longitude": -82.41089075803755, 
+        "name": "U- CPR- Cooper Hall", 
+        "timestamp": "2017-08-15T04:48:54.785000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "12030 USF Beard Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3212"
+        }, 
+        "free_bikes": 2, 
+        "id": "4ddd42106ec2925322a4d979b84c5420", 
+        "latitude": 28.060039807505138, 
+        "longitude": -82.41843044757843, 
+        "name": "U - JPH - Juniper-Poplar Hall - North", 
+        "timestamp": "2017-08-15T04:48:54.885000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "391-499 Bay Shore Drive Northeast, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2066"
+        }, 
+        "free_bikes": 14, 
+        "id": "5d91d561134ea0f453853b241a9581d9", 
+        "latitude": 27.777247605368732, 
+        "longitude": -82.63009697198868, 
+        "name": "SP - Bay Shore Dr & 5th Ave N", 
+        "timestamp": "2017-08-15T04:48:54.779000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "442-464 2nd Avenue North, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2172"
+        }, 
+        "free_bikes": 8, 
+        "id": "7024af03842fe013cbaf8ba662fcbef9", 
+        "latitude": 27.773423243463956, 
+        "longitude": -82.6395571231842, 
+        "name": "SP - 2nd Ave N & 5th Street", 
+        "timestamp": "2017-08-15T04:48:54.801000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "2335 Central Avenue, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2191"
+        }, 
+        "free_bikes": 9, 
+        "id": "a37a16e9db3fc5a7ba7aa32f55bcbb0b", 
+        "latitude": 27.771283772678725, 
+        "longitude": -82.66518831253052, 
+        "name": "SP - Central Ave & 24th St", 
+        "timestamp": "2017-08-15T04:48:54.878000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "400 Beach Drive Northeast, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2192"
+        }, 
+        "free_bikes": 9, 
+        "id": "cefae40c8a2a41906099c167a2018d5c", 
+        "latitude": 27.77687146430557, 
+        "longitude": -82.63156145811081, 
+        "name": "SP - Beach Dr & 5th Ave N", 
+        "timestamp": "2017-08-15T04:48:54.879000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1-99 27th Street North, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2277"
+        }, 
+        "free_bikes": 12, 
+        "id": "469f2ad505135b1fed23461417c52308", 
+        "latitude": 27.77109457935473, 
+        "longitude": -82.66975611448288, 
+        "name": "Sp - central ave and 27th st", 
+        "timestamp": "2017-08-15T04:48:54.861000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "3707 USF Beach Lane, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3214"
+        }, 
+        "free_bikes": 4, 
+        "id": "69a53ce3f09c0c5b065daf2448feeabb", 
+        "latitude": 28.059543697973687, 
+        "longitude": -82.41856187582016, 
+        "name": "U - JPH - Juniper-Poplar Hall - South", 
+        "timestamp": "2017-08-15T04:48:54.886000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "12020 USF Cherry Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3184"
+        }, 
+        "free_bikes": 0, 
+        "id": "b65c862a97c470f6370dcace64662b93", 
+        "latitude": 28.061804220330984, 
+        "longitude": -82.41553299129009, 
+        "name": "U - NES - Natural and Environmental Sciences - West", 
+        "timestamp": "2017-08-15T04:48:54.831000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Wheelchair Access, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3187"
+        }, 
+        "free_bikes": 0, 
+        "id": "818cd894f7c152d80129454140ab5792", 
+        "latitude": 28.06100959317974, 
+        "longitude": -82.41431526839732, 
+        "name": "U - ISA - Interdisciplinary Sciences - South", 
+        "timestamp": "2017-08-15T04:48:54.833000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4103 USF Cedar Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3175"
+        }, 
+        "free_bikes": 0, 
+        "id": "4a0225ef8b209a7624965a7b9f92f257", 
+        "latitude": 28.063993453216405, 
+        "longitude": -82.41282194852829, 
+        "name": "U - MSC - Marshall Student Center - East", 
+        "timestamp": "2017-08-15T04:48:54.841000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3375 USF Laurel Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3201"
+        }, 
+        "free_bikes": 0, 
+        "id": "6422a5877dff4e25a8afef3268d3fe2f", 
+        "latitude": 28.063793454853105, 
+        "longitude": -82.41785377264023, 
+        "name": "U - PCD - Psych / Comm Science Building ", 
+        "timestamp": "2017-08-15T04:48:54.740000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "13325 USF Laurel Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3209"
+        }, 
+        "free_bikes": 0, 
+        "id": "ff74b8672908bd2d80637fdd05fa49e2", 
+        "latitude": 28.067104622103553, 
+        "longitude": -82.4186423420906, 
+        "name": "U - LDG - Laurel Drive Parking Facility - North West", 
+        "timestamp": "2017-08-15T04:48:54.735000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4107 USF Cedar Circle, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3215"
+        }, 
+        "free_bikes": 0, 
+        "id": "905b648ba88a7f6f09b739e6ad4b58a9", 
+        "latitude": 28.063753455193, 
+        "longitude": -82.41108924150467, 
+        "name": "U- RBC- Kastor Hall", 
+        "timestamp": "2017-08-15T04:48:54.887000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "180 2nd Avenue Northeast, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2067"
+        }, 
+        "free_bikes": 11, 
+        "id": "9b3943034ac473ef26cfd608a06ca2c9", 
+        "latitude": 27.774245557995513, 
+        "longitude": -82.62913405895233, 
+        "name": "SP - 2nd Ave NE @ Museum of History", 
+        "timestamp": "2017-08-15T04:48:54.780000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1399 Central Avenue South, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2175"
+        }, 
+        "free_bikes": 14, 
+        "id": "010b2fd22f273223bb37070b1ccfb446", 
+        "latitude": 27.7712339342232, 
+        "longitude": -82.65289843082428, 
+        "name": "SP - Central Ave & 14th Street", 
+        "timestamp": "2017-08-15T04:48:54.799000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2177-2199 9th Avenue South, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2177"
+        }, 
+        "free_bikes": 7, 
+        "id": "f4a817f47333c522acf0e3106659620e", 
+        "latitude": 27.761156610694368, 
+        "longitude": -82.66281589865685, 
+        "name": "SP - 9th Ave S & 22nd Street", 
+        "timestamp": "2017-08-15T04:48:54.797000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "500-528 3rd Avenue South, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2197"
+        }, 
+        "free_bikes": 7, 
+        "id": "15eefdc46625e461c157b71f0d76f5e3", 
+        "latitude": 27.768539658819932, 
+        "longitude": -82.64028333127499, 
+        "name": "SP - 3rd Ave S & 5th Street", 
+        "timestamp": "2017-08-15T04:48:54.877000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "432 1st Street North, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2217"
+        }, 
+        "free_bikes": 5, 
+        "id": "251d63909cf3a7e17d3aeaef0cd00b7f", 
+        "latitude": 27.77739422052099, 
+        "longitude": -82.63413101434708, 
+        "name": "SP - 1st St N & 5th Ave N", 
+        "timestamp": "2017-08-15T04:48:54.738000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1201-1299 North Shore Drive Northeast, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2278"
+        }, 
+        "free_bikes": 7, 
+        "id": "e2d10ba00a4bf2336eb87931169cfa64", 
+        "latitude": 27.78416315454539, 
+        "longitude": -82.62541651725768, 
+        "name": "SP - North Shore Dr and 12th Ave NE", 
+        "timestamp": "2017-08-15T04:48:54.859000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "701 Mirror Lake Drive North, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2279"
+        }, 
+        "free_bikes": 6, 
+        "id": "957c91a893da3cd82b59e8132fe01840", 
+        "latitude": 27.775594472518314, 
+        "longitude": -82.64220982789993, 
+        "name": "SP - Mirror Lake Dr and 7th St", 
+        "timestamp": "2017-08-15T04:48:54.858000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "250-298 2nd Avenue South, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2477"
+        }, 
+        "free_bikes": 6, 
+        "id": "95a0fa8005e5d736b69f3bccac2dc750", 
+        "latitude": 27.76936616351732, 
+        "longitude": -82.63687491416931, 
+        "name": "SP - 2nd Ave S and 3rd Street", 
+        "timestamp": "2017-08-15T04:48:54.815000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "901-999 North Shore Drive Northeast, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2599"
+        }, 
+        "free_bikes": 9, 
+        "id": "afadbee26f5d8c6745803611b1bd36f8", 
+        "latitude": 27.781293193987466, 
+        "longitude": -82.62752071022987, 
+        "name": "SP - N Shore & 9th ave N- hub", 
+        "timestamp": "2017-08-15T04:48:54.871000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Pinellas Trail, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2601"
+        }, 
+        "free_bikes": 12, 
+        "id": "5b6c7fc4dbce1f021d0681cdc0227d60", 
+        "latitude": 27.766752610078612, 
+        "longitude": -82.66278102993965, 
+        "name": "SP - 22nd st & 5th ave S", 
+        "timestamp": "2017-08-15T04:48:54.836000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3705 USF Alumni Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3191"
+        }, 
+        "free_bikes": 0, 
+        "id": "259f587cf73a8fec39da7964397080f3", 
+        "latitude": 28.058453953265747, 
+        "longitude": -82.41895079612732, 
+        "name": "U - MAA - Magnolia Housing", 
+        "timestamp": "2017-08-15T04:48:54.778000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12020 USF Cherry Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3188"
+        }, 
+        "free_bikes": 0, 
+        "id": "9ad40352721df6c824be725a4d1ec204", 
+        "latitude": 28.06067982323196, 
+        "longitude": -82.41479873657227, 
+        "name": "U - BSF - Bio-Science - South West", 
+        "timestamp": "2017-08-15T04:48:54.825000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3711 USF Beach Lane, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3189"
+        }, 
+        "free_bikes": 0, 
+        "id": "a2d9ad0f02b3f6e7bb16a5972c9d33de", 
+        "latitude": 28.058962375895476, 
+        "longitude": -82.41814076900482, 
+        "name": "U - MAH - Magnolia Housing", 
+        "timestamp": "2017-08-15T04:48:54.826000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3711 USF Beard Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3190"
+        }, 
+        "free_bikes": 0, 
+        "id": "fa157d89716cad929b86e1b388238ed3", 
+        "latitude": 28.058463184333437, 
+        "longitude": -82.41812199354172, 
+        "name": "U - MAB - Magnolia Housing", 
+        "timestamp": "2017-08-15T04:48:54.834000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "John & Grace Allen / Welcome Center (ALN), Leroy Collins Boulevard, Tampa, Florida", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3192"
+        }, 
+        "free_bikes": 0, 
+        "id": "d157c1ba8461b872b6a4ad0c79e0cb26", 
+        "latitude": 28.061878659041227, 
+        "longitude": -82.41324573755264, 
+        "name": "U - ALN - John and Grace Allen Welcome Building - North", 
+        "timestamp": "2017-08-15T04:48:54.776000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "12220 Leroy Collins Boulevard, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3194"
+        }, 
+        "free_bikes": 0, 
+        "id": "408b99cada024e469459f8ed4077bd85", 
+        "latitude": 28.063124404486327, 
+        "longitude": -82.41277433931828, 
+        "name": "U - BKS - Bookstore", 
+        "timestamp": "2017-08-15T04:48:54.870000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "3839 USF Holly Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3195"
+        }, 
+        "free_bikes": 2, 
+        "id": "e23dfaa4148b26953171326908b28a28", 
+        "latitude": 28.063213575969996, 
+        "longitude": -82.41384118795395, 
+        "name": "U - MSC - Marshall Student Center - South", 
+        "timestamp": "2017-08-15T04:48:54.869000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3839 USF Holly Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3197"
+        }, 
+        "free_bikes": 0, 
+        "id": "963044cb1fb1818036330cf99bf1421f", 
+        "latitude": 28.06379540757007, 
+        "longitude": -82.41431258618832, 
+        "name": "U - TAR - Theater Centre", 
+        "timestamp": "2017-08-15T04:48:54.868000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3825 USF Holly Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3198"
+        }, 
+        "free_bikes": 0, 
+        "id": "70db3b95ca4d316de96bb7e4c877f0a8", 
+        "latitude": 28.06386907562615, 
+        "longitude": -82.41486880928278, 
+        "name": "U - FAD - Fine Arts - Dance", 
+        "timestamp": "2017-08-15T04:48:54.863000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "13001 USF Laurel Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3199"
+        }, 
+        "free_bikes": 2, 
+        "id": "3279c7750123406f12838fb1c9fb47f0", 
+        "latitude": 28.062695232471732, 
+        "longitude": -82.4161747097969, 
+        "name": "U - FAH - Fine Arts - South East", 
+        "timestamp": "2017-08-15T04:48:54.862000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "3821 USF Holly Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3200"
+        }, 
+        "free_bikes": 2, 
+        "id": "f6c1f092e9948b24c8e2306d176711fc", 
+        "latitude": 28.063488131244085, 
+        "longitude": -82.41619348526001, 
+        "name": "U - FAH - Fine Arts - North East", 
+        "timestamp": "2017-08-15T04:48:54.741000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "13046-13098 USF Laurel Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3203"
+        }, 
+        "free_bikes": 0, 
+        "id": "5cdd01af5b5be94530c38c95aa2dd786", 
+        "latitude": 28.065462778762914, 
+        "longitude": -82.41932697594166, 
+        "name": "U - MRC - Moffitt Research Center - South East ", 
+        "timestamp": "2017-08-15T04:48:54.814000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3018 USF Banyan Circle, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3204"
+        }, 
+        "free_bikes": 0, 
+        "id": "5ef714550b0eb289ba1760bf9d4826a5", 
+        "latitude": 28.067456087428134, 
+        "longitude": -82.42365136742592, 
+        "name": "U - MHA - CBCS West Side Conference Center - North", 
+        "timestamp": "2017-08-15T04:48:54.749000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "3320 USF Banyan Circle, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3205"
+        }, 
+        "free_bikes": 0, 
+        "id": "aa2286022307ef88569cf07f66b8d9f8", 
+        "latitude": 28.067772286916036, 
+        "longitude": -82.42479667067528, 
+        "name": "U - NEC - Northwest Educational Complex", 
+        "timestamp": "2017-08-15T04:48:54.747000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4234 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3153"
+        }, 
+        "free_bikes": 0, 
+        "id": "9f215b394df9effe633660a5f6569b02", 
+        "latitude": 28.066616118988037, 
+        "longitude": -82.41047608854842, 
+        "name": "USF- RIO- Iota Hall", 
+        "timestamp": "2017-08-15T04:48:54.809000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4235 USF Holly Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3167"
+        }, 
+        "free_bikes": 0, 
+        "id": "b93e7c61bef0be4527f5142f6a67a212", 
+        "latitude": 28.065586089515616, 
+        "longitude": -82.41092093288898, 
+        "name": "USF- HAE- Holly Apts", 
+        "timestamp": "2017-08-15T04:48:54.820000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "429-473 Harbour Place Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1079"
+        }, 
+        "free_bikes": 11, 
+        "id": "0f34fd1bc28c34a66e251c56a6b29a5e", 
+        "latitude": 27.93933334127054, 
+        "longitude": -82.45107159018517, 
+        "name": "TPA - Harbor Place dr and Harbour post dr", 
+        "timestamp": "2017-08-15T04:48:54.824000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "208 East Cass Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1333"
+        }, 
+        "free_bikes": 0, 
+        "id": "0eb08d2774f198adeb7495329ffcf6ed", 
+        "latitude": 27.951297883048035, 
+        "longitude": -82.46007442474365, 
+        "name": "TPA - City Bike Tampa Park and Go Rack", 
+        "timestamp": "2017-08-15T04:48:54.728000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1516-1530 West Cass Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1508"
+        }, 
+        "free_bikes": 11, 
+        "id": "00ac66283bb2dfb92d96473f91e26aad", 
+        "latitude": 27.949753075611753, 
+        "longitude": -82.47639834880829, 
+        "name": "TPA - Cass St and Rome Ave", 
+        "timestamp": "2017-08-15T04:48:54.727000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "129-199 West Platt Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1530"
+        }, 
+        "free_bikes": 5, 
+        "id": "798f3bf72f1d0a48207f670d45ccee80", 
+        "latitude": 27.941678017295615, 
+        "longitude": -82.4608039855957, 
+        "name": "TPA - Platt and Parker", 
+        "timestamp": "2017-08-15T04:48:54.867000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1600-1698 West Platt Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1531"
+        }, 
+        "free_bikes": 13, 
+        "id": "eccf61127050219ed70e16692d905827", 
+        "latitude": 27.941768059477553, 
+        "longitude": -82.47638761997223, 
+        "name": "TPA - Platt and Rome", 
+        "timestamp": "2017-08-15T04:48:54.866000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "2352-2398 West Platt Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1532"
+        }, 
+        "free_bikes": 9, 
+        "id": "ca27b40911afa578d50d478721cb68ad", 
+        "latitude": 27.941817819605127, 
+        "longitude": -82.48368591070175, 
+        "name": "TPA - Platt and Moody", 
+        "timestamp": "2017-08-15T04:48:54.865000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2200-2298 North 19th Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_251"
+        }, 
+        "free_bikes": 5, 
+        "id": "bd84c307820a7d147be5755469b2e18b", 
+        "latitude": 27.9627193250593, 
+        "longitude": -82.438056400783, 
+        "name": "TPA - 19th St and E Palm Ave", 
+        "timestamp": "2017-08-15T04:48:54.769000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1600-1698 East 9th Avenue, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_255"
+        }, 
+        "free_bikes": 19, 
+        "id": "afdecc5a56707086a6073f33f1c44ddf", 
+        "latitude": 27.9618561214264, 
+        "longitude": -82.4415005780512, 
+        "name": "TPA - 9th Ave and 16th St", 
+        "timestamp": "2017-08-15T04:48:54.724000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1430 East 7th Avenue, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_256"
+        }, 
+        "free_bikes": 8, 
+        "id": "5ade98049297a3fc398f5bace60d02e4", 
+        "latitude": 27.9604880627085, 
+        "longitude": -82.4430826321256, 
+        "name": "TPA - 15th St and 7th Ave", 
+        "timestamp": "2017-08-15T04:48:54.762000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1900-1998 North 13th Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_257"
+        }, 
+        "free_bikes": 12, 
+        "id": "09d6a4cb8744097408c6795386d4cac5", 
+        "latitude": 27.9613658481865, 
+        "longitude": -82.4456547254871, 
+        "name": "TPA - 13th St and 8th Ave", 
+        "timestamp": "2017-08-15T04:48:54.763000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Element, 808, North Franklin Street, Ridgewood Park, Tampa Heights, Tampa, Florida", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_263"
+        }, 
+        "free_bikes": 14, 
+        "id": "63aa5964e4e8c73f04be5f158f3a9518", 
+        "latitude": 27.95096617783814, 
+        "longitude": -82.45933949947357, 
+        "name": "TPA - N Franklin St and E Cass St", 
+        "timestamp": "2017-08-15T04:48:54.875000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "744-784 North Ashley Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_264"
+        }, 
+        "free_bikes": 26, 
+        "id": "cc22c94f8a19669c05365fa4d1b88ff1", 
+        "latitude": 27.9495104473449, 
+        "longitude": -82.4609377282072, 
+        "name": "TPA - Curtis Hixon Park", 
+        "timestamp": "2017-08-15T04:48:54.874000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "655 North Franklin Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_266"
+        }, 
+        "free_bikes": 9, 
+        "id": "0da7ef8caed8773fd6971d94827a501e", 
+        "latitude": 27.9495321599275, 
+        "longitude": -82.4588299730942, 
+        "name": "TPA - N Franklin St and E Twiggs St", 
+        "timestamp": "2017-08-15T04:48:54.873000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "418 North Jefferson Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_267"
+        }, 
+        "free_bikes": 8, 
+        "id": "ffa5ea17e73e72e03ec1f8e84dd4ef35", 
+        "latitude": 27.9500718099433, 
+        "longitude": -82.4542584509825, 
+        "name": "TPA - N Jefferson St and Twiggs", 
+        "timestamp": "2017-08-15T04:48:54.872000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "336-352 East Madison Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_268"
+        }, 
+        "free_bikes": 4, 
+        "id": "3091804e144bc1ac0a74ea021f80dc08", 
+        "latitude": 27.9486487468182, 
+        "longitude": -82.4576712302482, 
+        "name": "TPA - Madison St and N Franklin St", 
+        "timestamp": "2017-08-15T04:48:54.837000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "301-399 North Franklin Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_270"
+        }, 
+        "free_bikes": 3, 
+        "id": "5faca60cf52e04c567665a58216588c7", 
+        "latitude": 27.9473813272224, 
+        "longitude": -82.4577408065186, 
+        "name": "TPA - N Franklin St and E Jackson St  Sponsored By Sam Schwartz Engineering D.P.C.", 
+        "timestamp": "2017-08-15T04:48:54.731000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "MacDill Park, Tampa Riverwalk, Harbour Island, Tampa, Florida", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_272"
+        }, 
+        "free_bikes": 5, 
+        "id": "a0c04f218bd79489439ff6c011bc89b7", 
+        "latitude": 27.9449311118153, 
+        "longitude": -82.4586076071121, 
+        "name": "TPA - E Whiting St and Riverwalk", 
+        "timestamp": "2017-08-15T04:48:54.732000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "107 South Franklin Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_273"
+        }, 
+        "free_bikes": 2, 
+        "id": "f2bc5d4c67b5e64bbd0710088b5e467d", 
+        "latitude": 27.9450375505472, 
+        "longitude": -82.4568860897568, 
+        "name": "TPA - S Franklin St and E Whiting St", 
+        "timestamp": "2017-08-15T04:48:54.732000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "400-454 Old Water Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_274"
+        }, 
+        "free_bikes": 12, 
+        "id": "430675bc59389cd5124a3ea323de5172", 
+        "latitude": 27.9412114253873, 
+        "longitude": -82.4548257935946, 
+        "name": "TPA - S Franklin St and Old Waters St Sponsored By Sam Schwartz Engineering D.P.C.", 
+        "timestamp": "2017-08-15T04:48:54.730000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "100-178 West Tyler Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_278"
+        }, 
+        "free_bikes": 12, 
+        "id": "1339a30adea4de9d6cb9e1fde1e85ab9", 
+        "latitude": 27.951300844725672, 
+        "longitude": -82.46202774345875, 
+        "name": "TPA - E Tyler St and Ashley Dr", 
+        "timestamp": "2017-08-15T04:48:54.733000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "302 East Davis Boulevard, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_279"
+        }, 
+        "free_bikes": 12, 
+        "id": "f031313b28902e2b62dc580d7e0e6fa0", 
+        "latitude": 27.9257835077301, 
+        "longitude": -82.4529797232004, 
+        "name": "TPA - E Davis Blvd and Chesapeake Ave", 
+        "timestamp": "2017-08-15T04:48:54.734000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1701 Bayshore Boulevard, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_283"
+        }, 
+        "free_bikes": 4, 
+        "id": "457618413d412cc36279b8e7668b17d1", 
+        "latitude": 27.9291962234777, 
+        "longitude": -82.4765097355042, 
+        "name": "TPA - Bayshore & Rome", 
+        "timestamp": "2017-08-15T04:48:54.814000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "170-198 Channelside Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_284"
+        }, 
+        "free_bikes": 14, 
+        "id": "d80f8510fd0366af3f97c5ac073c3880", 
+        "latitude": 27.942493131949256, 
+        "longitude": -82.45587676763535, 
+        "name": "TPA - S Franklin St and Channelside", 
+        "timestamp": "2017-08-15T04:48:54.813000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "403 Grand Central Avenue, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_450"
+        }, 
+        "free_bikes": 7, 
+        "id": "a1c1bafff39edfe9692eb37158b64317", 
+        "latitude": 27.9446846157316, 
+        "longitude": -82.4640155437695, 
+        "name": "TPA - Grand Central Ave and S Hyde Park Ave Sponsored By Oxford Exchange", 
+        "timestamp": "2017-08-15T04:48:54.837000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Scott Street, Ybor City, Tampa, Florida", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_451"
+        }, 
+        "free_bikes": 2, 
+        "id": "66959924218b62e0b35da2090416adc5", 
+        "latitude": 27.955286642701, 
+        "longitude": -82.4536264456511, 
+        "name": "TPA - Ray Charles Blvd and Governor St", 
+        "timestamp": "2017-08-15T04:48:54.838000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1211 East Cumberland Avenue, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_452"
+        }, 
+        "free_bikes": 11, 
+        "id": "e9794719545c27b8237f36f1480003d1", 
+        "latitude": 27.9449469177581, 
+        "longitude": -82.4475920457454, 
+        "name": "TPA - Cumberland and 11th", 
+        "timestamp": "2017-08-15T04:48:54.839000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Marion Transit Parking Lot, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_453"
+        }, 
+        "free_bikes": 8, 
+        "id": "9f5cf40ce873ac5ea86eb6b166526692", 
+        "latitude": 27.9554328870259, 
+        "longitude": -82.4584196437688, 
+        "name": "TPA - Marion Transit Center", 
+        "timestamp": "2017-08-15T04:48:54.840000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1638-1798 Doyle Carlton Avenue, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_480"
+        }, 
+        "free_bikes": 9, 
+        "id": "2fe4f8d9d82c558c7b1ef9632a573d1c", 
+        "latitude": 27.9593143906181, 
+        "longitude": -82.4624992346234, 
+        "name": "TPA - Waterworks Park", 
+        "timestamp": "2017-08-15T04:48:54.751000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1201-1273 East Madison Street, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_854"
+        }, 
+        "free_bikes": 14, 
+        "id": "0b50e6053957cbda0790e8097de7b336", 
+        "latitude": 27.9514051371272, 
+        "longitude": -82.4485652057228, 
+        "name": "TPA - Madison and Meridian", 
+        "timestamp": "2017-08-15T04:48:54.860000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2601 East 2nd Avenue, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_957"
+        }, 
+        "free_bikes": 0, 
+        "id": "fd35d394cfec125fdfe2ea5c81f5e900", 
+        "latitude": 27.95621647799642, 
+        "longitude": -82.43033677339554, 
+        "name": "TPA - Coppertail Brewing Co Park and Go Rack", 
+        "timestamp": "2017-08-15T04:48:54.777000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "109 2nd Street North, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2070"
+        }, 
+        "free_bikes": 9, 
+        "id": "3220c8bb2cd015fe69cb25f25fb1b532", 
+        "latitude": 27.772243751108235, 
+        "longitude": -82.63547614216805, 
+        "name": "SP - 2nd Street & 1st Ave N", 
+        "timestamp": "2017-08-15T04:48:54.795000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "300 Pinellas Trail, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2071"
+        }, 
+        "free_bikes": 5, 
+        "id": "669684826da47972c99204b12e2d433e", 
+        "latitude": 27.770208681585906, 
+        "longitude": -82.63742208480835, 
+        "name": "SP - 1st Ave S & 3rd Street", 
+        "timestamp": "2017-08-15T04:48:54.794000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "430 Pinellas Trail, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2072"
+        }, 
+        "free_bikes": 11, 
+        "id": "206a83f55390198aef6e925360c09407", 
+        "latitude": 27.770144602957636, 
+        "longitude": -82.64439851045609, 
+        "name": "SP - 1st Ave s & 8th Street", 
+        "timestamp": "2017-08-15T04:48:54.793000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1049 Central Avenue, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2073"
+        }, 
+        "free_bikes": 10, 
+        "id": "389fb1ca6632c928f3c8ffad9c8660b5", 
+        "latitude": 27.771288519143972, 
+        "longitude": -82.64963954687119, 
+        "name": "SP - 11th Street N & Central Ave", 
+        "timestamp": "2017-08-15T04:48:54.792000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2081 Central Avenue, St. Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2074"
+        }, 
+        "free_bikes": 13, 
+        "id": "b1ee66bdc298ff5998c0458cf3b43a8e", 
+        "latitude": 27.771117644500215, 
+        "longitude": -82.66139566898346, 
+        "name": "SP - Central Ave & 21st Street", 
+        "timestamp": "2017-08-15T04:48:54.791000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "599 2nd Street South, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2075"
+        }, 
+        "free_bikes": 13, 
+        "id": "9d906c55aa569b24f2059055a1548a65", 
+        "latitude": 27.76446518948289, 
+        "longitude": -82.63556331396103, 
+        "name": "SP - 2nd Street & 6th Ave S.", 
+        "timestamp": "2017-08-15T04:48:54.790000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "301-349 Drive Martin Luther King Junior Street South, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2174"
+        }, 
+        "free_bikes": 14, 
+        "id": "4d6336806526944f9eafe8e4a0d76373", 
+        "latitude": 27.768136786785796, 
+        "longitude": -82.6467776298523, 
+        "name": "SP - MLK Jr St & 3rd Ave S", 
+        "timestamp": "2017-08-15T04:48:54.798000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "235 3rd Avenue North, Saint Petersburg", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2196"
+        }, 
+        "free_bikes": 5, 
+        "id": "ef9252a0288416b984c77b1074699f61", 
+        "latitude": 27.775069052904577, 
+        "longitude": -82.63668447732925, 
+        "name": "SP - 3rd Ave N & 3rd St N", 
+        "timestamp": "2017-08-15T04:48:54.876000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "USF Cherry Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3176"
+        }, 
+        "free_bikes": 3, 
+        "id": "81412df8976ffcac08d697315065be1a", 
+        "latitude": 28.05987506910396, 
+        "longitude": -82.41468608379364, 
+        "name": "U - CMC - CAS Multidisciplinary Complex", 
+        "timestamp": "2017-08-15T04:48:54.844000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12101 USF Beard Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3181"
+        }, 
+        "free_bikes": 0, 
+        "id": "61f17f03aa9c9a065ac3f952f592c5d1", 
+        "latitude": 28.061253976137962, 
+        "longitude": -82.41715505719185, 
+        "name": "U - LSA - Life Science Annex", 
+        "timestamp": "2017-08-15T04:48:54.828000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3111-3127 USF Banyan Circle, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3172"
+        }, 
+        "free_bikes": 0, 
+        "id": "a03aa707d973148aa6f92676d0548a66", 
+        "latitude": 28.067073617247345, 
+        "longitude": -82.42500185966492, 
+        "name": "U - CPH - College of Public Health", 
+        "timestamp": "2017-08-15T04:48:54.847000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "13101 Bruce B Downs Boulevard, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3206"
+        }, 
+        "free_bikes": 0, 
+        "id": "cb0b90e375309ebea8540f80d674c9b0", 
+        "latitude": 28.066478845409936, 
+        "longitude": -82.42524325847626, 
+        "name": "U - CMS - Childrens Medical Services", 
+        "timestamp": "2017-08-15T04:48:54.746000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "13330 USF Laurel Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3208"
+        }, 
+        "free_bikes": 0, 
+        "id": "68a5cf8d862fc528556381af3b5b4870", 
+        "latitude": 28.0669886501241, 
+        "longitude": -82.41917341947556, 
+        "name": "U - MDH - Morasani Center for Advanced Health Care", 
+        "timestamp": "2017-08-15T04:48:54.736000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "13302 USF Palm Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3210"
+        }, 
+        "free_bikes": 0, 
+        "id": "bf8450aa6122d1be9db695e47abed1ef", 
+        "latitude": 28.066943681456088, 
+        "longitude": -82.41355016827582, 
+        "name": "U - CRU - USF Federal Credit Union", 
+        "timestamp": "2017-08-15T04:48:54.883000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "207 USF Sycamore Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3169"
+        }, 
+        "free_bikes": 3, 
+        "id": "c513f5311434a29776a91dad62d2bdec", 
+        "latitude": 28.06022472356573, 
+        "longitude": -82.40266978740692, 
+        "name": "U - Lot 18 south", 
+        "timestamp": "2017-08-15T04:48:54.823000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "12503 USF Elm Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3213"
+        }, 
+        "free_bikes": 2, 
+        "id": "3d51500afd23ca382b2c897267ab4399", 
+        "latitude": 28.060622307149984, 
+        "longitude": -82.40553840994835, 
+        "name": "U- Athletics ", 
+        "timestamp": "2017-08-15T04:48:54.886000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12212 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3129"
+        }, 
+        "free_bikes": 0, 
+        "id": "82b9c327ceb006b8aea64e1fb244c671", 
+        "latitude": 28.058840241076876, 
+        "longitude": -82.40950137376785, 
+        "name": "U- BSN- College of Business ", 
+        "timestamp": "2017-08-15T04:48:54.758000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "4747 USF Birch Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3133"
+        }, 
+        "free_bikes": 1, 
+        "id": "311e507e5e2305c37d69db36a434901f", 
+        "latitude": 28.067951687093103, 
+        "longitude": -82.40587502717972, 
+        "name": "U- GKH- Greek Village", 
+        "timestamp": "2017-08-15T04:48:54.764000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4743 USF Birch Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3134"
+        }, 
+        "free_bikes": 0, 
+        "id": "7db712cfa2a3b3d123c1bbf5a4295126", 
+        "latitude": 28.067776547087472, 
+        "longitude": -82.40629211068153, 
+        "name": "U- GVG- Greek Village", 
+        "timestamp": "2017-08-15T04:48:54.766000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4723 USF Birch Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3136"
+        }, 
+        "free_bikes": 0, 
+        "id": "8f95156bb079747b170440a55700bca8", 
+        "latitude": 28.0672698228312, 
+        "longitude": -82.40727514028549, 
+        "name": "U- GKN- Greek Village", 
+        "timestamp": "2017-08-15T04:48:54.729000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4745 USF Birch Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3137"
+        }, 
+        "free_bikes": 0, 
+        "id": "1ba9604543ff21778f095da39bf9233c", 
+        "latitude": 28.067481885213986, 
+        "longitude": -82.4061244726181, 
+        "name": "U- GVI- Greek Village", 
+        "timestamp": "2017-08-15T04:48:54.767000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "12301 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3138"
+        }, 
+        "free_bikes": 2, 
+        "id": "394221073205f97a7479655c5bd0d3f3", 
+        "latitude": 28.060034126882762, 
+        "longitude": -82.40753799676895, 
+        "name": "USF-REC- Rec Center, Front", 
+        "timestamp": "2017-08-15T04:48:54.761000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12303 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3139"
+        }, 
+        "free_bikes": 0, 
+        "id": "c4dee34fbe86341e5586884451c3452b", 
+        "latitude": 28.061546584062334, 
+        "longitude": -82.40835338830948, 
+        "name": "U- CWY- CW Bill Young Hall", 
+        "timestamp": "2017-08-15T04:48:54.760000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "4241 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3142"
+        }, 
+        "free_bikes": 1, 
+        "id": "0acd8c12c07dfccc32f3b25ad43c4fee", 
+        "latitude": 28.064863619243464, 
+        "longitude": -82.40948796272278, 
+        "name": "USF- RBE- Beta Hall", 
+        "timestamp": "2017-08-15T04:48:54.786000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4223 USF Dogwood Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3144"
+        }, 
+        "free_bikes": 0, 
+        "id": "14e154f9df92cfba3e25671495a92bc0", 
+        "latitude": 28.06796896435614, 
+        "longitude": -82.41048681742541, 
+        "name": "USF- RMU- Mu Hall", 
+        "timestamp": "2017-08-15T04:48:54.783000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4223 USF Dogwood Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3151"
+        }, 
+        "free_bikes": 0, 
+        "id": "2767264ea59b2562b40fe29df915496f", 
+        "latitude": 28.0672565689308, 
+        "longitude": -82.41057962179184, 
+        "name": "USF- RKA- Kappa Hall", 
+        "timestamp": "2017-08-15T04:48:54.811000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4238 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3152"
+        }, 
+        "free_bikes": 0, 
+        "id": "1c859dce6dae5e48a06be7f7600c4dcb", 
+        "latitude": 28.066712210375396, 
+        "longitude": -82.40982457995415, 
+        "name": "USF- RTH- Theta Hall", 
+        "timestamp": "2017-08-15T04:48:54.810000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4303 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3154"
+        }, 
+        "free_bikes": 0, 
+        "id": "4b606acdae85662d53c75dc4aef50385", 
+        "latitude": 28.06553188961711, 
+        "longitude": -82.40876778960228, 
+        "name": "USF- MPB- Maple Suites ", 
+        "timestamp": "2017-08-15T04:48:54.808000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4239 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3155"
+        }, 
+        "free_bikes": 0, 
+        "id": "769cf82054ec91422f93c1bd00ae6f60", 
+        "latitude": 28.065558871232057, 
+        "longitude": -82.40997947752476, 
+        "name": "U- HAG- Holly Apts ", 
+        "timestamp": "2017-08-15T04:48:54.807000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12480 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3156"
+        }, 
+        "free_bikes": 0, 
+        "id": "ae023dbfe93f2b85844993960683f1a4", 
+        "latitude": 28.065062077146948, 
+        "longitude": -82.40834668278694, 
+        "name": "USF- MPA- Maple Suites", 
+        "timestamp": "2017-08-15T04:48:54.806000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4303 USF Dogwood Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3159"
+        }, 
+        "free_bikes": 0, 
+        "id": "fcdf6bfe036b2ad3f0a937bf7e9a4f37", 
+        "latitude": 28.067499162592377, 
+        "longitude": -82.40809991955757, 
+        "name": "USF- RCC- Cypress Apts", 
+        "timestamp": "2017-08-15T04:48:54.803000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4301 USF Dogwood Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3163"
+        }, 
+        "free_bikes": 0, 
+        "id": "7dd22bd99f17e44a5032b8f06f219a5b", 
+        "latitude": 28.06694770494632, 
+        "longitude": -82.40886904299259, 
+        "name": "USF- RCE- Cypress Apts", 
+        "timestamp": "2017-08-15T04:48:54.817000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "20-26 USF Holly Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3164"
+        }, 
+        "free_bikes": 0, 
+        "id": "6783f215220785a82357318bb842ff88", 
+        "latitude": 28.06586004707973, 
+        "longitude": -82.41100810468197, 
+        "name": "U- HAA- Holly Apts ", 
+        "timestamp": "2017-08-15T04:48:54.821000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4236 USF Holly Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3165"
+        }, 
+        "free_bikes": 0, 
+        "id": "17dfe57c46be28e0e1a522677e3c38d3", 
+        "latitude": 28.06586300558064, 
+        "longitude": -82.41019673645496, 
+        "name": "U- HAB- Holly Apts ", 
+        "timestamp": "2017-08-15T04:48:54.822000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4107 USF Cedar Circle, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3216"
+        }, 
+        "free_bikes": 0, 
+        "id": "c2769de93e480a74d2314b8f48d80483", 
+        "latitude": 28.06322848716472, 
+        "longitude": -82.41195157170296, 
+        "name": "U- SHS- Student Health Services", 
+        "timestamp": "2017-08-15T04:48:54.888000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12316 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3218"
+        }, 
+        "free_bikes": 0, 
+        "id": "850cd62cd3d59512049dd9b97067dbdd", 
+        "latitude": 28.060692131212218, 
+        "longitude": -82.40972131490707, 
+        "name": "U- ULH- University Lecture Hall ", 
+        "timestamp": "2017-08-15T04:48:54.880000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12316 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3219"
+        }, 
+        "free_bikes": 0, 
+        "id": "9b2397dc04954bf4cd6f7dfb694ed386", 
+        "latitude": 28.06035247835119, 
+        "longitude": -82.41032615303993, 
+        "name": "U- EDU- Education ", 
+        "timestamp": "2017-08-15T04:48:54.759000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4107 USF Apple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3220"
+        }, 
+        "free_bikes": 0, 
+        "id": "97f4ec1d39b334df9184521216845944", 
+        "latitude": 28.06034537760764, 
+        "longitude": -82.41115361452103, 
+        "name": "U- EDU- Education, W", 
+        "timestamp": "2017-08-15T04:48:54.770000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12011 USF Sago Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3223"
+        }, 
+        "free_bikes": 0, 
+        "id": "e568c940c2f76e39e9eb76bc75fd2ac5", 
+        "latitude": 28.05878201396432, 
+        "longitude": -82.41131722927094, 
+        "name": "U- CIS- Communication and Information Sci", 
+        "timestamp": "2017-08-15T04:48:54.771000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "USF Alumni Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3225"
+        }, 
+        "free_bikes": 0, 
+        "id": "6021e10591f77c17ae5040463ba6ba45", 
+        "latitude": 28.05614897884207, 
+        "longitude": -82.40585088729858, 
+        "name": "U- FOW- Fowler Fields", 
+        "timestamp": "2017-08-15T04:48:54.773000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4303 USF Dogwood Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3160"
+        }, 
+        "free_bikes": 0, 
+        "id": "46ca5386391c2b0d4fa2c4fedf1b7c1e", 
+        "latitude": 28.067179412183982, 
+        "longitude": -82.40834333002566, 
+        "name": "USF- RCC- Cypress Apts ", 
+        "timestamp": "2017-08-15T04:48:54.818000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4301 USF Dogwood Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3162"
+        }, 
+        "free_bikes": 0, 
+        "id": "cba4e1a26e2240a2127b5938a858e8c9", 
+        "latitude": 28.06748945885911, 
+        "longitude": -82.40886099636555, 
+        "name": "USF- RCD- Cypress Apts ", 
+        "timestamp": "2017-08-15T04:48:54.816000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "4302 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3158"
+        }, 
+        "free_bikes": 2, 
+        "id": "df4f87e9b65be88032da8b384026b5d6", 
+        "latitude": 28.06618299658302, 
+        "longitude": -82.40906283259392, 
+        "name": "USF- RCA- Cypress Suites", 
+        "timestamp": "2017-08-15T04:48:54.804000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "15171 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3157"
+        }, 
+        "free_bikes": 0, 
+        "id": "e29ba294097ce0fa6f1ecfe2c79891f2", 
+        "latitude": 28.066289502254538, 
+        "longitude": -82.40854650735855, 
+        "name": "USF- RCB- Cypress Suites ", 
+        "timestamp": "2017-08-15T04:48:54.805000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "3720 Spectrum Boulevard, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3224"
+        }, 
+        "free_bikes": 2, 
+        "id": "26a66d1cc0297447d7797c33386f44e8", 
+        "latitude": 28.05704560040863, 
+        "longitude": -82.4155256152153, 
+        "name": "U- IDR- Interdisciplinary Research", 
+        "timestamp": "2017-08-15T04:48:54.775000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "USF Elm Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3128"
+        }, 
+        "free_bikes": 1, 
+        "id": "43d9737eda14d8f14331d66b0ef17834", 
+        "latitude": 28.06009306339817, 
+        "longitude": -82.40618214011192, 
+        "name": "USF-SUN- Sun Dome ", 
+        "timestamp": "2017-08-15T04:48:54.758000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12320 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3140"
+        }, 
+        "free_bikes": 0, 
+        "id": "0c67f4d4e5702d191bddbebbdb60aa63", 
+        "latitude": 28.06144930458128, 
+        "longitude": -82.40970320999622, 
+        "name": "USF- SOC- Social Science Building ", 
+        "timestamp": "2017-08-15T04:48:54.784000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12316 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3217"
+        }, 
+        "free_bikes": 0, 
+        "id": "e33aeeec64f806ddffacbdf1802c2660", 
+        "latitude": 28.06102917934276, 
+        "longitude": -82.4096006155014, 
+        "name": "U- HMS- Human Services ", 
+        "timestamp": "2017-08-15T04:48:54.889000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4801-4883 USF Willow Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3226"
+        }, 
+        "free_bikes": 0, 
+        "id": "b65cad5aea10d6397f4f17202393e03d", 
+        "latitude": 28.061006930418863, 
+        "longitude": -82.41017460823059, 
+        "name": "U- EDU- Education, NE", 
+        "timestamp": "2017-08-15T04:48:54.750000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4107 USF Apple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3222"
+        }, 
+        "free_bikes": 0, 
+        "id": "104a3b6552cabdbcd2396b8803c170a3", 
+        "latitude": 28.059829150603, 
+        "longitude": -82.4125725030899, 
+        "name": "U- LIB, W- Library ", 
+        "timestamp": "2017-08-15T04:48:54.772000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4107 USF Apple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3221"
+        }, 
+        "free_bikes": 0, 
+        "id": "6eda1dc9d872dd3fcd1c873b415ddc5b", 
+        "latitude": 28.059822049801348, 
+        "longitude": -82.41187781095503, 
+        "name": "U- LIB, E- Library ", 
+        "timestamp": "2017-08-15T04:48:54.770000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "4223 USF Dogwood Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3150"
+        }, 
+        "free_bikes": 1, 
+        "id": "8047c69c34bc638b701109162646e846", 
+        "latitude": 28.06760898043004, 
+        "longitude": -82.41035163402557, 
+        "name": "USF- RLA- Lambda Hall", 
+        "timestamp": "2017-08-15T04:48:54.812000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "15171 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3161"
+        }, 
+        "free_bikes": 1, 
+        "id": "f097c88b5ba5c8047b046cc06d9343cf", 
+        "latitude": 28.06692616728941, 
+        "longitude": -82.40846268832684, 
+        "name": "USF- RCC- Cypress Apts", 
+        "timestamp": "2017-08-15T04:48:54.819000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "4103 USF Cedar Circle, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3196"
+        }, 
+        "free_bikes": 2, 
+        "id": "ce3746db34d76b8567d245fadc3e098c", 
+        "latitude": 28.064290728220872, 
+        "longitude": -82.41374731063843, 
+        "name": "U - MSC - Marshall Student Center - North", 
+        "timestamp": "2017-08-15T04:48:54.868000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "12220 Leroy Collins Boulevard, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3231"
+        }, 
+        "free_bikes": 0, 
+        "id": "2e0fabf26ee9ceec6fa063998eb94831", 
+        "latitude": 28.0621181879079, 
+        "longitude": -82.41277635097504, 
+        "name": "U- SVC- Student Services, SW", 
+        "timestamp": "2017-08-15T04:48:54.789000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "12220 Leroy Collins Boulevard, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3193"
+        }, 
+        "free_bikes": 2, 
+        "id": "1761da7736972adfe71949f42bed12ce", 
+        "latitude": 28.06268576484726, 
+        "longitude": -82.41276830434799, 
+        "name": "U - SVC - Student Services", 
+        "timestamp": "2017-08-15T04:48:54.864000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "15171 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3232"
+        }, 
+        "free_bikes": 3, 
+        "id": "803199947706e128ad8942b3ad149c7b", 
+        "latitude": 28.06653825174871, 
+        "longitude": -82.40725234150887, 
+        "name": "U- GKY- Greek Village ", 
+        "timestamp": "2017-08-15T04:48:54.756000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "4743 USF Birch Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3233"
+        }, 
+        "free_bikes": 1, 
+        "id": "d70820ab5208157cb07689f5f4f807e3", 
+        "latitude": 28.06722840436042, 
+        "longitude": -82.40615464746952, 
+        "name": "U- GVI- Greek Village", 
+        "timestamp": "2017-08-15T04:48:54.757000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4238 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3234"
+        }, 
+        "free_bikes": 0, 
+        "id": "e862bdd6ade51699cc4e01e6a2205c03", 
+        "latitude": 28.066423344236, 
+        "longitude": -82.40946918725967, 
+        "name": "U- HAC- Holly Apts", 
+        "timestamp": "2017-08-15T04:48:54.754000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4723 USF Birch Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3135"
+        }, 
+        "free_bikes": 0, 
+        "id": "46e565ead06728ce5037aa0b9dcfcaee", 
+        "latitude": 28.06804742228219, 
+        "longitude": -82.40723758935928, 
+        "name": "U- GVA- Greek Village ", 
+        "timestamp": "2017-08-15T04:48:54.765000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4727 USF Birch Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3131"
+        }, 
+        "free_bikes": 0, 
+        "id": "c98a12969182d03a10437e056deb6985", 
+        "latitude": 28.06849059583152, 
+        "longitude": -82.40684330463408, 
+        "name": "U- GVC- Greek Village", 
+        "timestamp": "2017-08-15T04:48:54.881000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4729 USF Birch Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3132"
+        }, 
+        "free_bikes": 0, 
+        "id": "bdee1f5c994683c2b655817c33781c76", 
+        "latitude": 28.06799357864232, 
+        "longitude": -82.4064476788044, 
+        "name": "U- GVE- Greek Village", 
+        "timestamp": "2017-08-15T04:48:54.765000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4231 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3168"
+        }, 
+        "free_bikes": 0, 
+        "id": "2723206ece6505239f5c96f11e212410", 
+        "latitude": 28.065520292254966, 
+        "longitude": -82.4113132059574, 
+        "name": "U- HAD - Holly Apts", 
+        "timestamp": "2017-08-15T04:48:54.822000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4235 USF Holly Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3236"
+        }, 
+        "free_bikes": 0, 
+        "id": "7677be5eebd294d74c885ccde690b0c0", 
+        "latitude": 28.064989415825302, 
+        "longitude": -82.4108961224556, 
+        "name": "U- HAE- Holly Apts", 
+        "timestamp": "2017-08-15T04:48:54.752000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "4103 USF Cedar Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3143"
+        }, 
+        "free_bikes": 1, 
+        "id": "cba237c09763c9f71057d61d8336bee5", 
+        "latitude": 28.06451841758259, 
+        "longitude": -82.4114017188549, 
+        "name": "U- RKO- Kosove Hall", 
+        "timestamp": "2017-08-15T04:48:54.788000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4237 Holly Court, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3237"
+        }, 
+        "free_bikes": 0, 
+        "id": "b95096cd6149ddabc4848485d36844ec", 
+        "latitude": 28.065024563082833, 
+        "longitude": -82.41049915552139, 
+        "name": "U- HAF- Holly Apts", 
+        "timestamp": "2017-08-15T04:48:54.753000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "504 USF Sycamore Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3171"
+        }, 
+        "free_bikes": 7, 
+        "id": "33ccfea9dc0833623b38830b6e184238", 
+        "latitude": 28.06550727480761, 
+        "longitude": -82.40262418985367, 
+        "name": "U - Lot 18 north", 
+        "timestamp": "2017-08-15T04:48:54.845000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "13335 USF Laurel Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3170"
+        }, 
+        "free_bikes": 3, 
+        "id": "93460e1b41ad1ba1d7a32691d3081ae7", 
+        "latitude": 28.067914292354303, 
+        "longitude": -82.41642951965332, 
+        "name": "U - Lot 43", 
+        "timestamp": "2017-08-15T04:48:54.846000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "12301 USF Maple Drive, Tampa", 
+          "last_updated": 1502772510, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3130"
+        }, 
+        "free_bikes": 2, 
+        "id": "b50ad5bc1bfdaaa4e9bb89493b010a9a", 
+        "latitude": 28.06090846699867, 
+        "longitude": -82.40791350603104, 
+        "name": "U- REC- Rec Center, Back", 
+        "timestamp": "2017-08-15T04:48:54.882000Z"
+      }
+    ]
+  }
+}

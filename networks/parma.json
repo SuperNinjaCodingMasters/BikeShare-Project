@@ -1,0 +1,330 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/parma", 
+    "id": "parma", 
+    "location": {
+      "city": "Parma", 
+      "country": "IT", 
+      "latitude": 44.801485, 
+      "longitude": 10.3279036
+    }, 
+    "name": "Parma", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Abbeveratoia", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "aa46c0a692efefd94a12188806bc6911", 
+        "latitude": 44.80226318269335, 
+        "longitude": 10.306275486946106, 
+        "name": "02. Ospedale Maggiore", 
+        "timestamp": "2017-08-15T04:48:37.794000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Parcheggio Scambiatore", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "3c606bbb4f1d25dfba2a53a8690b43cc", 
+        "latitude": 44.78159516206973, 
+        "longitude": 10.344491600990295, 
+        "name": "03. Traversetolo", 
+        "timestamp": "2017-08-15T04:48:37.798000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Dipartimento Chimica", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "b5cd35774c61b4d4d0ab616e3de2baa5", 
+        "latitude": 44.76643302086223, 
+        "longitude": 10.314547419548035, 
+        "name": "04. Campus Chimica", 
+        "timestamp": "2017-08-15T04:48:37.799000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Via Mazzini", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "ee9dcee4b4269e789855da7c2f1ab746", 
+        "latitude": 44.80224319969499, 
+        "longitude": 10.32427042722702, 
+        "name": "06. Ponte di Mezzo", 
+        "timestamp": "2017-08-15T04:48:37.802000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "Piazzale Santa Croce", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "3809f3834bf24d47327697928ba2c12a", 
+        "latitude": 44.80406447882609, 
+        "longitude": 10.314442813396454, 
+        "name": "07. Santa Croce", 
+        "timestamp": "2017-08-15T04:48:37.803000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via Emilia Est", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "7da3bd643d024f079c53ffcbf7b048bf", 
+        "latitude": 44.79841565101591, 
+        "longitude": 10.340687531816116, 
+        "name": "10. Barilla Center", 
+        "timestamp": "2017-08-15T04:48:37.808000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Parcheggio Dus", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "e0b71df5e612ed33260b8f17410ae9ec", 
+        "latitude": 44.80597482052397, 
+        "longitude": 10.33607937843476, 
+        "name": "11. Dus", 
+        "timestamp": "2017-08-15T04:48:37.812000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazzale Barezzi", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "f650b12733614a643a9e0515028c2f4c", 
+        "latitude": 44.802875991282086, 
+        "longitude": 10.32688558101654, 
+        "name": "12. Barezzi", 
+        "timestamp": "2017-08-15T04:48:37.813000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Piazza Garibaldi", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "3c48942ba52ee656839ceefd4673f820", 
+        "latitude": 44.80123737983608, 
+        "longitude": 10.328924059867859, 
+        "name": "14. Garibaldi", 
+        "timestamp": "2017-08-15T04:48:37.815000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Strada della Repubblica", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "7da6fd2c5ac209f80704d4cffcd8376c", 
+        "latitude": 44.800086898347026, 
+        "longitude": 10.33481553196907, 
+        "name": "15. Repubblica", 
+        "timestamp": "2017-08-15T04:48:37.816000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Battistero", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "d2491770ce2d10e2c416e405b5895258", 
+        "latitude": 44.80276722630655, 
+        "longitude": 10.33050388097763, 
+        "name": "13. Borgo XX Marzo", 
+        "timestamp": "2017-08-15T04:48:37.814000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Via Emilia Ovest", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "8e9ae78ceb4227e7f975bc1c1e7144be", 
+        "latitude": 44.807424535882014, 
+        "longitude": 10.297198236896861, 
+        "name": "18. Crocetta", 
+        "timestamp": "2017-08-15T04:48:37.819000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Piazzale Boito", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "d1e0577db2c3066569dc7e3914bf07d6", 
+        "latitude": 44.79980823818546, 
+        "longitude": 10.325119255560253, 
+        "name": "19. Boito", 
+        "timestamp": "2017-08-15T04:48:37.820000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Piazzale dalla Chiesa", 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "7bd4dae1d753a27541d9b186cb180074", 
+        "latitude": 44.80988763032787, 
+        "longitude": 10.327692925930023, 
+        "name": "05. Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:48:37.800000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Viale Piacenza", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "f8f2a4f9a8945ffb2242bc4de6aa97b4", 
+        "latitude": 44.80942430247727, 
+        "longitude": 10.321884651546839, 
+        "name": "20. Efsa", 
+        "timestamp": "2017-08-15T04:48:37.825000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Via Usberti", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "1c9c44e7d92fd2abe9d9e2e541502e0b", 
+        "latitude": 44.76646635739822, 
+        "longitude": 10.319646294165068, 
+        "name": "24. Campus", 
+        "timestamp": "2017-08-15T04:48:37.833000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via Passo Buole", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "ee30ff06aef789a1f8676f1cc6fa32f4", 
+        "latitude": 44.79395874575078, 
+        "longitude": 10.330952507427128, 
+        "name": "22. Cittadella", 
+        "timestamp": "2017-08-15T04:48:37.829000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Vicolo S. Maria", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "a78868462f3de37bf541ca189ca175af", 
+        "latitude": 44.80472873089977, 
+        "longitude": 10.317976961393697, 
+        "name": "21. Kennedy", 
+        "timestamp": "2017-08-15T04:48:37.827000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Strada del Quartiere", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "79e76204d78c8cc38649a5c28da39ea3", 
+        "latitude": 44.80057561836474, 
+        "longitude": 10.313930499162666, 
+        "name": "23. Vittoria", 
+        "timestamp": "2017-08-15T04:48:37.831000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Piazzale Barbieri", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "5089a2277a37c704b647d02b17ae7488", 
+        "latitude": 44.79634967606434, 
+        "longitude": 10.317876620021252, 
+        "name": "08. Bixio", 
+        "timestamp": "2017-08-15T04:48:37.805000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Piazzale Rondani", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "5f5ccbc5ea7762302885cccd7187a99a", 
+        "latitude": 44.79825794247251, 
+        "longitude": 10.322102087243366, 
+        "name": "17. Rondani", 
+        "timestamp": "2017-08-15T04:48:37.818000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Viale Toschi", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "c20324325c2347f92c660b6e2adcca59", 
+        "latitude": 44.805984009085144, 
+        "longitude": 10.325475922614942, 
+        "name": "16. Toschi", 
+        "timestamp": "2017-08-15T04:48:37.817000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Viale Mentana", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "56f902385918d31e61df694627c5a18a", 
+        "latitude": 44.807117535291866, 
+        "longitude": 10.332933962345123, 
+        "name": "01. Duc", 
+        "timestamp": "2017-08-15T04:48:37.791000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Barriera Farini", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "ca9ab779b60637eab3e662c7b7aa65ca", 
+        "latitude": 44.795387317466826, 
+        "longitude": 10.327643521108257, 
+        "name": "09. Farini", 
+        "timestamp": "2017-08-15T04:48:37.807000Z"
+      }
+    ]
+  }
+}

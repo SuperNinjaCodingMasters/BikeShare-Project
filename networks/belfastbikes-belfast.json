@@ -1,0 +1,606 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/belfastbikes-belfast", 
+    "id": "belfastbikes-belfast", 
+    "location": {
+      "city": "Belfast", 
+      "country": "GB", 
+      "latitude": 54.5969, 
+      "longitude": -5.92918
+    }, 
+    "name": "BelfastBikes", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "3932", 
+          "slots": 18, 
+          "uid": "566097"
+        }, 
+        "free_bikes": 5, 
+        "id": "246e8322e19e25192d30310f90b77f87", 
+        "latitude": 54.605694055706, 
+        "longitude": -5.9112238883972, 
+        "name": "Titanic Belfast Met", 
+        "timestamp": "2017-08-15T04:48:40.598000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "number": "3914", 
+          "slots": 20, 
+          "uid": "318501"
+        }, 
+        "free_bikes": 2, 
+        "id": "926d9233eaa99e6901802096d5f9b9bd", 
+        "latitude": 54.603713, 
+        "longitude": -5.929348, 
+        "name": "Cathedral Gardens / York Street", 
+        "timestamp": "2017-08-15T04:48:40.568000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "number": "3916", 
+          "slots": 8, 
+          "uid": "318506"
+        }, 
+        "free_bikes": 3, 
+        "id": "fe426bff4a755e18bb6ad7b629b21d82", 
+        "latitude": 54.602338279868, 
+        "longitude": -5.925418138504, 
+        "name": "Dunbar Link / Gordon Street", 
+        "timestamp": "2017-08-15T04:48:40.571000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "number": "3934", 
+          "slots": 14, 
+          "uid": "555520"
+        }, 
+        "free_bikes": 5, 
+        "id": "862bfc5189d37ecae42a58cebf32b8d2", 
+        "latitude": 54.584049537784, 
+        "longitude": -5.9328201762401, 
+        "name": "Queens University / Botanic Gardens ", 
+        "timestamp": "2017-08-15T04:48:40.597000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "number": "3923", 
+          "slots": 14, 
+          "uid": "318543"
+        }, 
+        "free_bikes": 0, 
+        "id": "ae959cc5946ea850d80c0fd35d62d38b", 
+        "latitude": 54.594851759084, 
+        "longitude": -5.9274214804827, 
+        "name": "Alfred Street / St Malachy's Church", 
+        "timestamp": "2017-08-15T04:48:40.584000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "number": "3936", 
+          "slots": 20, 
+          "uid": "1189161"
+        }, 
+        "free_bikes": 1, 
+        "id": "3a82aa3e83ed49b9966ffdd1733d9ce8", 
+        "latitude": 54.589608675276, 
+        "longitude": -5.9582581401264, 
+        "name": "Royal Victoria Hospital", 
+        "timestamp": "2017-08-15T04:48:40.599000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "number": "3938", 
+          "slots": 18, 
+          "uid": "1728242"
+        }, 
+        "free_bikes": 1, 
+        "id": "155c76a413159a9a447a9d4704903464", 
+        "latitude": 54.603847, 
+        "longitude": -5.945705, 
+        "name": "Shankill Leisure Centre/ Shankill Road", 
+        "timestamp": "2017-08-15T04:48:40.602000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "number": "3922", 
+          "slots": 14, 
+          "uid": "318537"
+        }, 
+        "free_bikes": 0, 
+        "id": "410f11ecf2a334e06e5545b5bc575a30", 
+        "latitude": 54.604722222222, 
+        "longitude": -5.9213888888889, 
+        "name": "Corporation Square", 
+        "timestamp": "2017-08-15T04:48:40.579000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "number": "3930", 
+          "slots": 20, 
+          "uid": "318474"
+        }, 
+        "free_bikes": 0, 
+        "id": "a97214ba9f3cafb7e5062952a1b003a3", 
+        "latitude": 54.595408348947, 
+        "longitude": -5.9192833895213, 
+        "name": "Central Station / East Bridge Street", 
+        "timestamp": "2017-08-15T04:48:40.562000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "3903", 
+          "slots": 10, 
+          "uid": "316476"
+        }, 
+        "free_bikes": 0, 
+        "id": "f11df81687159e04f885ae2bb147cd74", 
+        "latitude": 54.598224, 
+        "longitude": -5.924024, 
+        "name": "Victoria Square / Victoria Street", 
+        "timestamp": "2017-08-15T04:48:40.559000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "3910", 
+          "slots": 16, 
+          "uid": "318485"
+        }, 
+        "free_bikes": 5, 
+        "id": "11eb59ba73c8bda2eb65b56220966964", 
+        "latitude": 54.594774, 
+        "longitude": -5.933173, 
+        "name": "Europa Bus Station / Blackstaff Square", 
+        "timestamp": "2017-08-15T04:48:40.565000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "3911", 
+          "slots": 18, 
+          "uid": "318488"
+        }, 
+        "free_bikes": 5, 
+        "id": "792c66b455bae9ee057df92be7305ade", 
+        "latitude": 54.593512512185, 
+        "longitude": -5.9343874454498, 
+        "name": "Great Victoria Street / Hope Street", 
+        "timestamp": "2017-08-15T04:48:40.566000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "3913", 
+          "slots": 12, 
+          "uid": "318499"
+        }, 
+        "free_bikes": 0, 
+        "id": "c365839ceea3d7f6194f7a8f982f9143", 
+        "latitude": 54.601928110518, 
+        "longitude": -5.9333252906799, 
+        "name": "Smithfield / Winetavern Street", 
+        "timestamp": "2017-08-15T04:48:40.567000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "number": "3944", 
+          "slots": 16, 
+          "uid": "2198906"
+        }, 
+        "free_bikes": 5, 
+        "id": "ee60cf1d404a40cc0b0c584090bf67e6", 
+        "latitude": 54.598385, 
+        "longitude": -5.89214, 
+        "name": "CS Lewis Square", 
+        "timestamp": "2017-08-15T04:48:40.608000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "3941", 
+          "slots": 8, 
+          "uid": "2999089"
+        }, 
+        "free_bikes": 0, 
+        "id": "39705847ea20709edd91ad65d383843e", 
+        "latitude": 54.599491868009, 
+        "longitude": -5.9461355209351, 
+        "name": "Falls Road/Twin Spire", 
+        "timestamp": "2017-08-15T04:48:40.609000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "number": "3917", 
+          "slots": 16, 
+          "uid": "318523"
+        }, 
+        "free_bikes": 4, 
+        "id": "4019b46f30b5fba0e21a3a1de876529b", 
+        "latitude": 54.600710007485, 
+        "longitude": -5.9282505512238, 
+        "name": "North Street / Waring Street", 
+        "timestamp": "2017-08-15T04:48:40.575000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "3925", 
+          "slots": 12, 
+          "uid": "318546"
+        }, 
+        "free_bikes": 0, 
+        "id": "1a1ae2aadec67d078075cacb6ce64e31", 
+        "latitude": 54.601213411626, 
+        "longitude": -5.931361913681, 
+        "name": "Royal Avenue / Castlecourt", 
+        "timestamp": "2017-08-15T04:48:40.585000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "number": "3931", 
+          "slots": 16, 
+          "uid": "318550"
+        }, 
+        "free_bikes": 5, 
+        "id": "a456df6e6054007c4adeebae3e113679", 
+        "latitude": 54.602654, 
+        "longitude": -5.92972, 
+        "name": "Writer's Square / St Anne's Cathedral", 
+        "timestamp": "2017-08-15T04:48:40.587000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "number": "3928", 
+          "slots": 16, 
+          "uid": "318552"
+        }, 
+        "free_bikes": 1, 
+        "id": "b3ae47218f6e1186a6beb2dfad83e817", 
+        "latitude": 54.595924, 
+        "longitude": -5.929892, 
+        "name": "Linenhall Street / Donegall Square South", 
+        "timestamp": "2017-08-15T04:48:40.588000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "number": "3929", 
+          "slots": 18, 
+          "uid": "318553"
+        }, 
+        "free_bikes": 0, 
+        "id": "781133724b305e67851491da2126af68", 
+        "latitude": 54.597721, 
+        "longitude": -5.927799, 
+        "name": "Arthur Street / Chichester Street", 
+        "timestamp": "2017-08-15T04:48:40.589000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "number": "3912", 
+          "slots": 22, 
+          "uid": "353453"
+        }, 
+        "free_bikes": 0, 
+        "id": "a7bed45e72ccfdc26844e6cc49070d11", 
+        "latitude": 54.599298, 
+        "longitude": -5.93008, 
+        "name": "Castle Place / Royal Avenue", 
+        "timestamp": "2017-08-15T04:48:40.593000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "number": "3918", 
+          "slots": 16, 
+          "uid": "318529"
+        }, 
+        "free_bikes": 1, 
+        "id": "7d35ba14e93a9b15db1a499ff44613a2", 
+        "latitude": 54.592772801121, 
+        "longitude": -5.9316301345825, 
+        "name": "Bankmore Square / Dublin Road", 
+        "timestamp": "2017-08-15T04:48:40.576000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "number": "3909", 
+          "slots": 16, 
+          "uid": "318480"
+        }, 
+        "free_bikes": 5, 
+        "id": "73548595d9e6e16e60a022f3b0fb598b", 
+        "latitude": 54.589166666667, 
+        "longitude": -5.9333333333333, 
+        "name": "Botanic Avenue / Shaftesbury Square", 
+        "timestamp": "2017-08-15T04:48:40.564000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "number": "3905", 
+          "slots": 20, 
+          "uid": "318473"
+        }, 
+        "free_bikes": 2, 
+        "id": "e545851235d98a9e2a3125a81a1b59c4", 
+        "latitude": 54.59533997604, 
+        "longitude": -5.9164381027222, 
+        "name": "Central Station / Mays Meadow", 
+        "timestamp": "2017-08-15T04:48:40.561000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "number": "3904", 
+          "slots": 16, 
+          "uid": "316463"
+        }, 
+        "free_bikes": 2, 
+        "id": "fd368533c870bc1d57e33e5ec16d37e7", 
+        "latitude": 54.601309, 
+        "longitude": -5.92187, 
+        "name": "Donegall Quay", 
+        "timestamp": "2017-08-15T04:48:40.558000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "number": "3907", 
+          "slots": 12, 
+          "uid": "318475"
+        }, 
+        "free_bikes": 0, 
+        "id": "76bc8b7a582bac0118740fd37d64b8f2", 
+        "latitude": 54.592107671299, 
+        "longitude": -5.9257078170776, 
+        "name": "Gasworks (Cromac Street)", 
+        "timestamp": "2017-08-15T04:48:40.563000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "3919", 
+          "slots": 16, 
+          "uid": "318531"
+        }, 
+        "free_bikes": 4, 
+        "id": "1aadbd6af080407b84deedd9e9bd3155", 
+        "latitude": 54.597341389985, 
+        "longitude": -5.9348702430725, 
+        "name": "College Square East", 
+        "timestamp": "2017-08-15T04:48:40.576000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "number": "3920", 
+          "slots": 18, 
+          "uid": "318532"
+        }, 
+        "free_bikes": 2, 
+        "id": "1881fcccee3889142a8ba1d316d0681c", 
+        "latitude": 54.599728040755, 
+        "longitude": -5.9363293647766, 
+        "name": "Millfield / Divis Street", 
+        "timestamp": "2017-08-15T04:48:40.577000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "number": "3921", 
+          "slots": 22, 
+          "uid": "318535"
+        }, 
+        "free_bikes": 2, 
+        "id": "5491e30965a74553d9a3ae41455e4850", 
+        "latitude": 54.603867056497, 
+        "longitude": -5.91712474823, 
+        "name": "Odyssey / Sydenham Road", 
+        "timestamp": "2017-08-15T04:48:40.578000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "number": "3924", 
+          "slots": 16, 
+          "uid": "318545"
+        }, 
+        "free_bikes": 5, 
+        "id": "d3ccf3dacf376ec18c696417c5ea8f88", 
+        "latitude": 54.588357, 
+        "longitude": -5.935156, 
+        "name": "Bradbury Place", 
+        "timestamp": "2017-08-15T04:48:40.585000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "number": "3927", 
+          "slots": 16, 
+          "uid": "344898"
+        }, 
+        "free_bikes": 1, 
+        "id": "dc4ae149d1d8a1ce9d03ba077194534e", 
+        "latitude": 54.591251, 
+        "longitude": -5.922562, 
+        "name": "Gasworks (Lagan Towpath)", 
+        "timestamp": "2017-08-15T04:48:40.591000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "number": "3906", 
+          "slots": 12, 
+          "uid": "316483"
+        }, 
+        "free_bikes": 3, 
+        "id": "bd53a51929ed026fc73a2a5e0aa7cbaa", 
+        "latitude": 54.595158, 
+        "longitude": -5.923503, 
+        "name": "St George's Market / Cromac Square", 
+        "timestamp": "2017-08-15T04:48:40.560000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "number": "3933", 
+          "slots": 16, 
+          "uid": "517255"
+        }, 
+        "free_bikes": 5, 
+        "id": "6956a8c21fdbdce7e19284cb7f61ae61", 
+        "latitude": 54.584283810472, 
+        "longitude": -5.9366565942764, 
+        "name": "Queens University / University Road ", 
+        "timestamp": "2017-08-15T04:48:40.594000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "number": "3915", 
+          "slots": 12, 
+          "uid": "318504"
+        }, 
+        "free_bikes": 5, 
+        "id": "3f087ccec1c1d8bd62144f7722342b72", 
+        "latitude": 54.605103707785, 
+        "longitude": -5.932799577713, 
+        "name": "Carrick Hill/St Patricks Church", 
+        "timestamp": "2017-08-15T04:48:40.570000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "3926", 
+          "slots": 12, 
+          "uid": "318548"
+        }, 
+        "free_bikes": 0, 
+        "id": "345ce8ba6bb5f7c9aa297b724f9f9a3c", 
+        "latitude": 54.601393641225, 
+        "longitude": -5.925954580307, 
+        "name": "Cotton Court / Waring Street", 
+        "timestamp": "2017-08-15T04:48:40.586000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "number": "3902", 
+          "slots": 20, 
+          "uid": "263966"
+        }, 
+        "free_bikes": 2, 
+        "id": "a7156bc45713c11cf996137d1939b5c3", 
+        "latitude": 54.597175, 
+        "longitude": -5.93097, 
+        "name": "City Hall", 
+        "timestamp": "2017-08-15T04:48:40.538000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "number": "3908", 
+          "slots": 24, 
+          "uid": "352517"
+        }, 
+        "free_bikes": 0, 
+        "id": "a76169f645f21e672d2ec92de87e9a0d", 
+        "latitude": 54.597263697179, 
+        "longitude": -5.9210354089737, 
+        "name": "Waterfront", 
+        "timestamp": "2017-08-15T04:48:40.592000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "number": "3935", 
+          "slots": 18, 
+          "uid": "1257794"
+        }, 
+        "free_bikes": 5, 
+        "id": "7fe740e65994955aadc459d57ecfcfd7", 
+        "latitude": 54.587034922101, 
+        "longitude": -5.9391617774963, 
+        "name": "Belfast City Hospital Lisburn Rd", 
+        "timestamp": "2017-08-15T04:48:40.600000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "3937", 
+          "slots": 10, 
+          "uid": "1651423"
+        }, 
+        "free_bikes": 2, 
+        "id": "42f9b556a29d2b0592da93c6d2966ec5", 
+        "latitude": 54.608677791669, 
+        "longitude": -5.9412253614573, 
+        "name": "Mater Hospital/Crumlin Road", 
+        "timestamp": "2017-08-15T04:48:40.601000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "3943", 
+          "slots": 8, 
+          "uid": "1941814"
+        }, 
+        "free_bikes": 2, 
+        "id": "e90416911361e261cbd5380d028c3549", 
+        "latitude": 54.612429630058, 
+        "longitude": -5.9368443489075, 
+        "name": "Antrim Road / Duncairn Centre", 
+        "timestamp": "2017-08-15T04:48:40.607000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "number": "3942", 
+          "slots": 18, 
+          "uid": "1839423"
+        }, 
+        "free_bikes": 0, 
+        "id": "11eba9fc78cc2d576c0a5d1ab3a036e9", 
+        "latitude": 54.612131399427, 
+        "longitude": -5.9424233436584, 
+        "name": "Girdwood Community Hub/ Cliftonville Park Avenue", 
+        "timestamp": "2017-08-15T04:48:40.604000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "3940", 
+          "slots": 12, 
+          "uid": "1728296"
+        }, 
+        "free_bikes": 0, 
+        "id": "a14b25535977edd3ef1468cf1e6c503a", 
+        "latitude": 54.595377270367, 
+        "longitude": -5.9489464759827, 
+        "name": "Grosvenor Road/ Servia Street", 
+        "timestamp": "2017-08-15T04:48:40.602000Z"
+      }
+    ]
+  }
+}

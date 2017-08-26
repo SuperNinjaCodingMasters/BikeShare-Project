@@ -1,0 +1,114 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-soria", 
+    "id": "onroll-soria", 
+    "location": {
+      "city": "Soria", 
+      "country": "ES", 
+      "latitude": 41.763653, 
+      "longitude": -2.467069
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "ce8e0e0c966c8baf0d4a40ecb2ccd9fe", 
+        "latitude": 41.76651, 
+        "longitude": -2.479992, 
+        "name": "Estaci\u00f3n de Autobuses", 
+        "timestamp": "2017-08-15T04:46:31.235000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "d412d8702977fa303ba8a423518a699a", 
+        "latitude": 41.770736, 
+        "longitude": -2.468405, 
+        "name": "Fuente del Rey", 
+        "timestamp": "2017-08-15T04:46:31.237000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "d5b521c96d8059a0c27e709c95434392", 
+        "latitude": 41.754922, 
+        "longitude": -2.470894, 
+        "name": "Los Pajaritos", 
+        "timestamp": "2017-08-15T04:46:31.239000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "a46f3bec6fe8e8904c975cd39cef46b2", 
+        "latitude": 41.764206, 
+        "longitude": -2.469091, 
+        "name": "Plaza de Granados", 
+        "timestamp": "2017-08-15T04:46:31.239000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "3629bdba7b3d184200bb4acd3dd48788", 
+        "latitude": 41.765588, 
+        "longitude": -2.459285, 
+        "name": "Plaza de San Pedro", 
+        "timestamp": "2017-08-15T04:46:31.240000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "e04950da3cd76f41f6b6e18b0760bf4e", 
+        "latitude": 41.759956, 
+        "longitude": -2.454748, 
+        "name": "Plaza de San Pedro Ii", 
+        "timestamp": "2017-08-15T04:46:31.241000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-blanca", 
+    "id": "onroll-blanca", 
+    "location": {
+      "city": "Blanca", 
+      "country": "ES", 
+      "latitude": 38.178195, 
+      "longitude": -1.372402
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "db252f2842515ddc73d173cb00b43b45", 
+        "latitude": 38.176669, 
+        "longitude": -1.365114, 
+        "name": "Alto de Bayna", 
+        "timestamp": "2017-08-15T04:46:33.150000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "1f48f07d5f099df7c2a7ad332f12daf6", 
+        "latitude": 38.17808, 
+        "longitude": -1.376971, 
+        "name": "Avenida del Rio", 
+        "timestamp": "2017-08-15T04:46:33.153000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "113d84675961b7f925412511c15d613f", 
+        "latitude": 38.180139, 
+        "longitude": -1.376594, 
+        "name": "Ayuntamiento", 
+        "timestamp": "2017-08-15T04:46:33.154000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "480a6a0d7b04ddb830ad690ffa2bb218", 
+        "latitude": 38.178953, 
+        "longitude": -1.368853, 
+        "name": "Polideportivo", 
+        "timestamp": "2017-08-15T04:46:33.154000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "6a198d57d0625f2060c01a2a625024b3", 
+        "latitude": 38.177133, 
+        "longitude": -1.374478, 
+        "name": "Turismo", 
+        "timestamp": "2017-08-15T04:46:33.156000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/metropolradruhr-hamm", 
+    "id": "metropolradruhr-hamm", 
+    "location": {
+      "city": "Hamm", 
+      "country": "DE", 
+      "latitude": 51.6775, 
+      "longitude": 7.84836
+    }, 
+    "name": "metropolradruhr", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "00702", 
+            "50266", 
+            "50216", 
+            "50129", 
+            "50573"
+          ], 
+          "number": "7701", 
+          "slots": 12, 
+          "uid": "50458"
+        }, 
+        "free_bikes": 7, 
+        "id": "23fe58ca3e7d3993c132450dddab21ff", 
+        "latitude": 51.678785759962, 
+        "longitude": 7.809122800827, 
+        "name": "Bahnhof", 
+        "timestamp": "2017-08-15T04:49:47.511000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "50989", 
+            "31159", 
+            "50774", 
+            "50001"
+          ], 
+          "number": "7707", 
+          "slots": 6, 
+          "uid": "50464"
+        }, 
+        "free_bikes": 4, 
+        "id": "1e696407c58f2152a3520f0d935a78e1", 
+        "latitude": 51.677451889076, 
+        "longitude": 7.8218257427216, 
+        "name": "Rathaus", 
+        "timestamp": "2017-08-15T04:49:47.530000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "50571", 
+            "50494", 
+            "51089"
+          ], 
+          "number": "7712", 
+          "slots": 6, 
+          "uid": "187621"
+        }, 
+        "free_bikes": 3, 
+        "id": "cd63078543952f026ef4d54fd24843f3", 
+        "latitude": 51.686485518288, 
+        "longitude": 7.8353011608124, 
+        "name": "Maximare", 
+        "timestamp": "2017-08-15T04:49:47.535000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "50089", 
+            "53898"
+          ], 
+          "number": "7702", 
+          "slots": 6, 
+          "uid": "50459"
+        }, 
+        "free_bikes": 2, 
+        "id": "e866ee16052d131dacf48a6c0f3ff6b9", 
+        "latitude": 51.678829002001, 
+        "longitude": 7.8119069337845, 
+        "name": "Heinrich-von-Kleist-Forum", 
+        "timestamp": "2017-08-15T04:49:47.529000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "04833", 
+            "50540", 
+            "50452", 
+            "50621", 
+            "32159"
+          ], 
+          "number": "7708", 
+          "slots": 6, 
+          "uid": "50465"
+        }, 
+        "free_bikes": 5, 
+        "id": "f6f61064d29b8b7466278f1118423a78", 
+        "latitude": 51.679141673982, 
+        "longitude": 7.826589345932, 
+        "name": "Oberlandesgericht", 
+        "timestamp": "2017-08-15T04:49:47.531000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "7706", 
+          "slots": 6, 
+          "uid": "50463"
+        }, 
+        "free_bikes": 0, 
+        "id": "13ccf36592c089c3b1527b6abd3c1a0f", 
+        "latitude": 51.681223881257, 
+        "longitude": 7.8203666210175, 
+        "name": "Widumstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:47.530000Z"
+      }
+    ]
+  }
+}

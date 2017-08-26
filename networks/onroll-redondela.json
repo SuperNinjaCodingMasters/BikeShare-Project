@@ -1,0 +1,50 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-redondela", 
+    "id": "onroll-redondela", 
+    "location": {
+      "city": "Redondela", 
+      "country": "ES", 
+      "latitude": 42.299964, 
+      "longitude": -8.615428
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "6e6882edd82d7928bb88509eb443958d", 
+        "latitude": 42.289405, 
+        "longitude": -8.610783, 
+        "name": "Pabell\u00f3n Municipal", 
+        "timestamp": "2017-08-15T04:46:33.150000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 7, 
+        "id": "0c39353ec4a8482ff612c82908eb1761", 
+        "latitude": 42.310522, 
+        "longitude": -8.620072, 
+        "name": "Playa Cesantes Punta", 
+        "timestamp": "2017-08-15T04:46:33.156000Z"
+      }
+    ]
+  }
+}

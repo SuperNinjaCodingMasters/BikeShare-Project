@@ -1,0 +1,68 @@
+{
+  "network": {
+    "company": [
+      "Trek Bicycle Corporation", 
+      "Humana", 
+      "Crispin Porter + Bogusky"
+    ], 
+    "href": "/v2/networks/battlecreek", 
+    "id": "battlecreek", 
+    "location": {
+      "city": "Battle Creek, MI", 
+      "country": "US", 
+      "latitude": 42.32423, 
+      "longitude": -85.18833
+    }, 
+    "name": "Battle Creek B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "660 Capital Ave SW, Battle Creek, MI 49015"
+        }, 
+        "free_bikes": 1, 
+        "id": "09f2520c8ac34df4cf30d0752096c2ca", 
+        "latitude": 42.30387, 
+        "longitude": -85.19967, 
+        "name": "Old Lakeview Station", 
+        "timestamp": "2017-04-27T02:32:22.571000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "200 West Michigan Avenue, Battle Creek, MI 49017"
+        }, 
+        "free_bikes": 4, 
+        "id": "c7691668d1d5f5ede50e19d09ff9411d", 
+        "latitude": 42.32423, 
+        "longitude": -85.18833, 
+        "name": "Burnham Brook", 
+        "timestamp": "2017-04-27T02:32:22.566000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "34 West Jackson Street, Battle Creek, MI 49017"
+        }, 
+        "free_bikes": 4, 
+        "id": "bafff0429bcb78bac7d69d28286aec50", 
+        "latitude": 42.31993, 
+        "longitude": -85.18427, 
+        "name": "Riverwalk Centre", 
+        "timestamp": "2017-04-27T02:32:22.569000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "450 North Ave, Battle Creek, MI 49017"
+        }, 
+        "free_bikes": 1, 
+        "id": "db171ec43dda7fb143154738b238ff0b", 
+        "latitude": 42.33446, 
+        "longitude": -85.17814, 
+        "name": "Kellogg Community College", 
+        "timestamp": "2017-04-27T02:32:22.570000Z"
+      }
+    ]
+  }
+}

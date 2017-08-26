@@ -1,0 +1,339 @@
+{
+  "network": {
+    "company": [
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "http://ubike.virginia.edu/opendata/gbfs.json", 
+    "href": "/v2/networks/ubike", 
+    "id": "ubike", 
+    "location": {
+      "city": "University of Virginia, VA", 
+      "country": "US", 
+      "latitude": 38.0357625021372, 
+      "longitude": -78.5072994363201
+    }, 
+    "name": "UBike", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Leake Drive, Charlottesville", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2660"
+        }, 
+        "free_bikes": 4, 
+        "id": "93f9ec32acbd9eeb491335704834688e", 
+        "latitude": 38.035897015180495, 
+        "longitude": -78.51627834141254, 
+        "name": "FM", 
+        "timestamp": "2017-08-15T04:49:04.489000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Bikeshare, West Main Street, Vinegar Hill, Charlottesville, Virginia", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_460"
+        }, 
+        "free_bikes": 5, 
+        "id": "105f030aaa0b58fa9848fd4dabd0e0fc", 
+        "latitude": 38.0329898598805, 
+        "longitude": -78.4962426976086, 
+        "name": "West Main", 
+        "timestamp": "2017-08-15T04:49:04.496000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Duffy Boulevard, University of Virginia, Charlottesville", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1409"
+        }, 
+        "free_bikes": 4, 
+        "id": "006172e390dfe2d99544acac984307b3", 
+        "latitude": 38.0513184726643, 
+        "longitude": -78.51277470588684, 
+        "name": "North Grounds Rec", 
+        "timestamp": "2017-08-15T04:49:04.490000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "600-698 Nash Drive, Charlottesville", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1410"
+        }, 
+        "free_bikes": 2, 
+        "id": "e24f9b342e9397966a0ed71c3b2fb21e", 
+        "latitude": 38.05258705955715, 
+        "longitude": -78.51123344153166, 
+        "name": "i.Lab", 
+        "timestamp": "2017-08-15T04:49:04.500000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "194 Newcomb Road South, Brown College at Monroe Hill, Charlottesville", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_449"
+        }, 
+        "free_bikes": 4, 
+        "id": "9893cb32a4b62efe06e59eebb83355b4", 
+        "latitude": 38.0357625021372, 
+        "longitude": -78.5072994363201, 
+        "name": "Newcomb", 
+        "timestamp": "2017-08-15T04:49:04.495000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "James Monroe Hall, McCormick Road, Carr's Hill, Virginia", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_457"
+        }, 
+        "free_bikes": 1, 
+        "id": "de9562444b84e0047a759c73b3200ac4", 
+        "latitude": 38.0344845637197, 
+        "longitude": -78.5062674316095, 
+        "name": "Monroe", 
+        "timestamp": "2017-08-15T04:49:04.498000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Fiske Kimball Fine Arts Library, Bayly Drive, Carr's Hill, Virginia", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_458"
+        }, 
+        "free_bikes": 9, 
+        "id": "3831ecc243b15ceb21a50a59120b5075", 
+        "latitude": 38.0390685493136, 
+        "longitude": -78.5030481832028, 
+        "name": "Arts", 
+        "timestamp": "2017-08-15T04:49:04.493000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "USPS, Hospital Drive, Carr's Hill, Virginia", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_459"
+        }, 
+        "free_bikes": 5, 
+        "id": "82a960797891852c5d123075e7d6bd1d", 
+        "latitude": 38.0343730752369, 
+        "longitude": -78.5006812398122, 
+        "name": "The Corner", 
+        "timestamp": "2017-08-15T04:49:04.494000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1340 Jefferson Park Avenue, University of Virginia, Charlottesville", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_461"
+        }, 
+        "free_bikes": 8, 
+        "id": "18d9440c83bdba34743b12082a38ff13", 
+        "latitude": 38.0325450673676, 
+        "longitude": -78.5003006307518, 
+        "name": "JPA ", 
+        "timestamp": "2017-08-15T04:49:04.496000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "204-208 Jeanette Lancaster Way, University of Virginia, Charlottesville", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_463"
+        }, 
+        "free_bikes": 6, 
+        "id": "a5bc7644274653709d9c0632e2abaabe", 
+        "latitude": 38.0312797969963, 
+        "longitude": -78.5018033762398, 
+        "name": "McLeod", 
+        "timestamp": "2017-08-15T04:49:04.497000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "John Stewart Bryan Hall, Cabell Drive, McCormick Road Houses, Virginia", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_465"
+        }, 
+        "free_bikes": 4, 
+        "id": "da97d239b36887c513a1b7588c6b4dec", 
+        "latitude": 38.0331279040488, 
+        "longitude": -78.5059109153744, 
+        "name": "Bryan", 
+        "timestamp": "2017-08-15T04:49:04.499000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Bike Rack, Cabell Drive, McCormick Road Houses, Virginia", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_466"
+        }, 
+        "free_bikes": 4, 
+        "id": "30ae6948e5c07e9ebb04550039fb0ba7", 
+        "latitude": 38.0336914824361, 
+        "longitude": -78.5063430062728, 
+        "name": "Minor", 
+        "timestamp": "2017-08-15T04:49:04.501000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Engineer's Way, University of Virginia, Charlottesville", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_468"
+        }, 
+        "free_bikes": 6, 
+        "id": "ec0be356098b62a55c06fa5c248b4bd1", 
+        "latitude": 38.0336525753229, 
+        "longitude": -78.5101723632609, 
+        "name": "Thornton", 
+        "timestamp": "2017-08-15T04:49:04.491000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "401-405 McCormick Road, University of Virginia, Charlottesville", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_469"
+        }, 
+        "free_bikes": 5, 
+        "id": "39297ebdd6fac81387e5ff2038b3c75c", 
+        "latitude": 38.0339228109175, 
+        "longitude": -78.5111688995779, 
+        "name": "Chemistry", 
+        "timestamp": "2017-08-15T04:49:04.491000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "UTS 11782 Bus Stop, McCormick Road, McCormick Road Houses, Virginia", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_470"
+        }, 
+        "free_bikes": 6, 
+        "id": "d2c32d5a19b0139e35ee86f5844744c2", 
+        "latitude": 38.0341726553335, 
+        "longitude": -78.5118500230525, 
+        "name": "Gilmer", 
+        "timestamp": "2017-08-15T04:49:04.487000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Aquatic and Fitness Center Parking, Alderman Road, Alderman Road Houses, Virginia", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_471"
+        }, 
+        "free_bikes": 5, 
+        "id": "b3025bd14dd78ebfcf016c8117966eeb", 
+        "latitude": 38.03360307538, 
+        "longitude": -78.5138226483707, 
+        "name": "AFC", 
+        "timestamp": "2017-08-15T04:49:04.488000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "439-443 McCormick Road, University of Virginia, Charlottesville", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_472"
+        }, 
+        "free_bikes": 2, 
+        "id": "3aa10b7c126c52bf5db199e1aee7aac4", 
+        "latitude": 38.0350180746407, 
+        "longitude": -78.5158403996008, 
+        "name": "Lile-Maupin", 
+        "timestamp": "2017-08-15T04:49:04.486000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Student Garden, Edgemont Road, Alderman Road Houses, Virginia", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_473"
+        }, 
+        "free_bikes": 5, 
+        "id": "2b9fb8664d0c736e5cdad95a6cbf76f8", 
+        "latitude": 38.034977160872, 
+        "longitude": -78.5142564060344, 
+        "name": "O-Hill", 
+        "timestamp": "2017-08-15T04:49:04.486000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "120-132 McCormick Road, University of Virginia, Charlottesville", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_474"
+        }, 
+        "free_bikes": 6, 
+        "id": "771a087d81a5a2198db8090c7278acfb", 
+        "latitude": 38.036125337747, 
+        "longitude": -78.5050072195486, 
+        "name": "Alderman", 
+        "timestamp": "2017-08-15T04:49:04.483000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "West Street, Vinegar Hill, Charlottesville, Virginia", 
+          "last_updated": 1502772544, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_970"
+        }, 
+        "free_bikes": 2, 
+        "id": "b4b1d2dcdf778b8b68f466c13b56e60f", 
+        "latitude": 38.03545941377432, 
+        "longitude": -78.48788112401962, 
+        "name": "Preston", 
+        "timestamp": "2017-08-15T04:49:04.492000Z"
+      }
+    ]
+  }
+}

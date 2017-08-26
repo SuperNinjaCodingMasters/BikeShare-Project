@@ -1,0 +1,280 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/vrn-ludwigshafen", 
+    "id": "vrn-ludwigshafen", 
+    "location": {
+      "city": "Ludwigshafen", 
+      "country": "DE", 
+      "latitude": 49.4741, 
+      "longitude": 8.43287
+    }, 
+    "name": "VRN", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "43138", 
+            "43474", 
+            "43415", 
+            "43389", 
+            "43262"
+          ], 
+          "number": "2591", 
+          "slots": 10, 
+          "uid": "344836"
+        }, 
+        "free_bikes": 5, 
+        "id": "c2bd05a2a29b5f859a17d4bf09ddc680", 
+        "latitude": 49.480463588978, 
+        "longitude": 8.4509915113449, 
+        "name": "Berliner Platz", 
+        "timestamp": "2017-08-15T04:50:13.766000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43468", 
+            "43355", 
+            "43342", 
+            "43313", 
+            "43292"
+          ], 
+          "number": "2590", 
+          "slots": 12, 
+          "uid": "344835"
+        }, 
+        "free_bikes": 5, 
+        "id": "5c1ba4a459cd742977f23a224aa888c7", 
+        "latitude": 49.478299168915, 
+        "longitude": 8.4352147579193, 
+        "name": "Hauptbahnhof", 
+        "timestamp": "2017-08-15T04:50:13.762000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "43038", 
+            "43454", 
+            "43453", 
+            "43427", 
+            "43286"
+          ], 
+          "number": "2594", 
+          "slots": 20, 
+          "uid": "344839"
+        }, 
+        "free_bikes": 5, 
+        "id": "0b64f96694e80d64f6b536affb1661b7", 
+        "latitude": 49.473380944199, 
+        "longitude": 8.4235900640488, 
+        "name": "Hochschule Ludwigshafen", 
+        "timestamp": "2017-08-15T04:50:13.769000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43198", 
+            "43078", 
+            "43059", 
+            "43496", 
+            "43329"
+          ], 
+          "number": "2595", 
+          "slots": 8, 
+          "uid": "344840"
+        }, 
+        "free_bikes": 5, 
+        "id": "e95b0321d794f7e24708aa42729f5417", 
+        "latitude": 49.484077713255, 
+        "longitude": 8.4485721588135, 
+        "name": "Rhein-Galerie", 
+        "timestamp": "2017-08-15T04:50:13.769000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43400", 
+            "43386", 
+            "43347", 
+            "43233", 
+            "43227"
+          ], 
+          "number": "2603", 
+          "slots": 4, 
+          "uid": "661034"
+        }, 
+        "free_bikes": 5, 
+        "id": "b6846acd7b12c12872d55239ecd66349", 
+        "latitude": 49.45021577649, 
+        "longitude": 8.4275329113007, 
+        "name": "rnv Betriebshof Ludwigshafen (keine \u00f6ffentliche Station)", 
+        "timestamp": "2017-08-15T04:50:13.775000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "43179", 
+            "43046", 
+            "43408", 
+            "43376", 
+            "43561"
+          ], 
+          "number": "2596", 
+          "slots": 17, 
+          "uid": "660990"
+        }, 
+        "free_bikes": 5, 
+        "id": "0c0643f4f7ca055737ec0e8c63c6222f", 
+        "latitude": 49.495420218273, 
+        "longitude": 8.4311056137085, 
+        "name": "BASF Besucherzentrum", 
+        "timestamp": "2017-08-15T04:50:13.770000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "43430", 
+            "43237", 
+            "43212", 
+            "43641", 
+            "43635"
+          ], 
+          "number": "2602", 
+          "slots": 8, 
+          "uid": "661024"
+        }, 
+        "free_bikes": 5, 
+        "id": "bd9bf455e2091fa1002510f1e2eb7ae6", 
+        "latitude": 49.475339927753, 
+        "longitude": 8.4552025794983, 
+        "name": "LU S\u00fcd - Rheinallee", 
+        "timestamp": "2017-08-15T04:50:13.774000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "43160", 
+            "43022"
+          ], 
+          "number": "2598", 
+          "slots": 8, 
+          "uid": "660999"
+        }, 
+        "free_bikes": 2, 
+        "id": "c1c15fe1860d711d3c7aa0ee969c1869", 
+        "latitude": 49.492409745041, 
+        "longitude": 8.4366846084595, 
+        "name": "Hemshof - BASF S\u00fcd", 
+        "timestamp": "2017-08-15T04:50:13.772000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43189", 
+            "43178", 
+            "43177", 
+            "43061", 
+            "43206"
+          ], 
+          "number": "2601", 
+          "slots": 8, 
+          "uid": "661021"
+        }, 
+        "free_bikes": 5, 
+        "id": "c0473c1e58411c42bee1232b9376e5a9", 
+        "latitude": 49.473875926089, 
+        "longitude": 8.4478425979614, 
+        "name": "LU S\u00fcd - Sch\u00fctzenplatz", 
+        "timestamp": "2017-08-15T04:50:13.773000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "43145", 
+            "43499", 
+            "43345", 
+            "43279"
+          ], 
+          "number": "2597", 
+          "slots": 8, 
+          "uid": "660995"
+        }, 
+        "free_bikes": 4, 
+        "id": "0f76c394c38a62463a54b15816dd4514", 
+        "latitude": 49.489120312613, 
+        "longitude": 8.4321141242981, 
+        "name": "Hemshof - Goerdelerplatz", 
+        "timestamp": "2017-08-15T04:50:13.771000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "2593", 
+          "slots": 10, 
+          "uid": "344838"
+        }, 
+        "free_bikes": 0, 
+        "id": "8d913e0ff381dc31c7f2c384470b8928", 
+        "latitude": 49.480292808907, 
+        "longitude": 8.4463781118393, 
+        "name": "Pfalzbau", 
+        "timestamp": "2017-08-15T04:50:13.768000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "43048", 
+            "43451", 
+            "43442", 
+            "43387", 
+            "43383"
+          ], 
+          "number": "2592", 
+          "slots": 10, 
+          "uid": "344837"
+        }, 
+        "free_bikes": 5, 
+        "id": "8a466053c9ebbb658b97be1b5f616a83", 
+        "latitude": 49.484617892136, 
+        "longitude": 8.4433686733246, 
+        "name": "Rathaus", 
+        "timestamp": "2017-08-15T04:50:13.767000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43041", 
+            "43025", 
+            "43015", 
+            "43318", 
+            "43264"
+          ], 
+          "number": "2604", 
+          "slots": 8, 
+          "uid": "2129321"
+        }, 
+        "free_bikes": 5, 
+        "id": "a220048d969f86573e81ca552cd4f451", 
+        "latitude": 49.48472, 
+        "longitude": 8.4398, 
+        "name": "Kreisverwaltung - Europaplatz", 
+        "timestamp": "2017-08-15T04:50:13.776000Z"
+      }
+    ]
+  }
+}

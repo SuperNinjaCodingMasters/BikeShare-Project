@@ -1,0 +1,239 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/mobike", 
+    "id": "mobike", 
+    "location": {
+      "city": "Genova", 
+      "country": "IT", 
+      "latitude": 44.40430089372731, 
+      "longitude": 8.92908986230462
+    }, 
+    "name": "MoBike", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Piazza Principe", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "83ae16c4ec65c739246db659f585b49e", 
+        "latitude": 44.41570813822366, 
+        "longitude": 8.919395810589549, 
+        "name": "Principe", 
+        "timestamp": "2017-08-15T04:47:00.840000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Palazzo San Giorgio", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "23a976d4d0a1d5b36aaacb8761bdafb9", 
+        "latitude": 44.409008867093995, 
+        "longitude": 8.928389805751749, 
+        "name": "Caricamento", 
+        "timestamp": "2017-08-15T04:47:00.842000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazza De Ferrari", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "1b2636ec0f1a154f304313b44ce6bc9d", 
+        "latitude": 44.40765747891035, 
+        "longitude": 8.934372093917887, 
+        "name": "De Ferrari", 
+        "timestamp": "2017-08-15T04:47:00.844000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "description": "Piazza Verdi", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "79f7b18ad11b004b0fb3c4f62d008331", 
+        "latitude": 44.40629115348983, 
+        "longitude": 8.946496206745906, 
+        "name": "Brignole", 
+        "timestamp": "2017-08-15T04:47:00.852000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "Largo della Zecca", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "66baaa7559d57237e56e0ac8a59b27fc", 
+        "latitude": 44.41329735929789, 
+        "longitude": 8.930001876651772, 
+        "name": "Zecca", 
+        "timestamp": "2017-08-15T04:47:00.854000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Via A. Diaz", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "3b920bce5fb6389ade5adaf88cd050d1", 
+        "latitude": 44.40085750893948, 
+        "longitude": 8.945303354878206, 
+        "name": "Questura", 
+        "timestamp": "2017-08-15T04:47:00.855000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Piazza Vittorio Veneto", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "eeba741379009f6a7002682790bf815f", 
+        "latitude": 44.411939885362706, 
+        "longitude": 8.888470433968337, 
+        "name": "Vittorio Veneto", 
+        "timestamp": "2017-08-15T04:47:00.857000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "via Jean Monnet fr. via Cali`", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "f5e50d585ea1f3a8c5ff92175b139820", 
+        "latitude": 44.414870210305324, 
+        "longitude": 8.951750881579983, 
+        "name": "Stadio", 
+        "timestamp": "2017-08-15T04:47:00.858000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "via della Marina c/o ascensore", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "22384597da2334e37b16c5c0d2293041", 
+        "latitude": 44.40363584520559, 
+        "longitude": 8.931037033103962, 
+        "name": "Marina", 
+        "timestamp": "2017-08-15T04:47:00.864000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Rossetti lato civ. 2", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "b9650b8e8cc1ccd38730edc1e142d21c", 
+        "latitude": 44.396190464147544, 
+        "longitude": 8.945230086981041, 
+        "name": "Rossetti", 
+        "timestamp": "2017-08-15T04:47:00.865000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "piazza Raggi / via Canevari", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "5588ec34bf7d7520d7518abbf06f919f", 
+        "latitude": 44.40757655029936, 
+        "longitude": 8.949355797893759, 
+        "name": "Raggi", 
+        "timestamp": "2017-08-15T04:47:00.866000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "via Colombo / consolazione", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "633299bf07ce2838bbbde09e078ad771", 
+        "latitude": 44.40655245479302, 
+        "longitude": 8.940862357880405, 
+        "name": "San Vincenzo", 
+        "timestamp": "2017-08-15T04:47:00.846000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via di Francia / WTC", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "1ceda5d59589a481b2484f72075fca0d", 
+        "latitude": 44.40974724559271, 
+        "longitude": 8.902841728835938, 
+        "name": "San Benigno", 
+        "timestamp": "2017-08-15T04:47:00.856000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "via Paolo Mantovani/rotonda donne di Teheran", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "7f38049a8832b14853339e49d082a57e", 
+        "latitude": 44.41295820878395, 
+        "longitude": 8.88113470478936, 
+        "name": "Fiumara", 
+        "timestamp": "2017-08-15T04:47:00.860000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Buozzi lato civ. 59/p.za Di Negro", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "484829d030be8b6b5c6e736d4adba735", 
+        "latitude": 44.4138819112404, 
+        "longitude": 8.911719545956657, 
+        "name": "Di Negro", 
+        "timestamp": "2017-08-15T04:47:00.862000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "via Gramsci fr. civ. 31", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "4b028ed303ce8f7f1de7cb4f4c8b56c4", 
+        "latitude": 44.41449838819857, 
+        "longitude": 8.923935670990431, 
+        "name": "Darsena", 
+        "timestamp": "2017-08-15T04:47:00.863000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via di Francia, 1", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "f9f7767e1ac62342b98345912f5c6632", 
+        "latitude": 44.41085836919639, 
+        "longitude": 8.906806090243549, 
+        "name": "Matitone", 
+        "timestamp": "2017-08-15T04:47:00.827000Z"
+      }
+    ]
+  }
+}

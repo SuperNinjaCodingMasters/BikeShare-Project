@@ -1,0 +1,43 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-san-lazzaro-di-savena", 
+    "id": "bicincitta-san-lazzaro-di-savena", 
+    "location": {
+      "city": "San Lazzaro di Savena", 
+      "country": "IT", 
+      "latitude": 44.4702725, 
+      "longitude": 11.409399
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "e6b550065786cb1b2fabe567987ae9b5", 
+        "latitude": 44.47850315389555, 
+        "longitude": 11.417627334594727, 
+        "name": "Stazione Ferroviaria", 
+        "timestamp": "2017-08-15T04:49:45.696000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Piazza Marco Biagi", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "8b1f5f777844b7936ac2a2fbf6080fea", 
+        "latitude": 44.47114954616167, 
+        "longitude": 11.408846472101231, 
+        "name": "Biagi", 
+        "timestamp": "2017-08-15T04:49:45.706000Z"
+      }
+    ]
+  }
+}

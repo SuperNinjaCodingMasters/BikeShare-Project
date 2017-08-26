@@ -1,0 +1,494 @@
+{
+  "network": {
+    "company": [
+      "Baksi Bike Sharing System"
+    ], 
+    "href": "/v2/networks/baksi-kobis", 
+    "id": "baksi-kobis", 
+    "location": {
+      "city": "Kocaeli", 
+      "country": "TR", 
+      "latitude": 40.7674733342, 
+      "longitude": 29.9755885985
+    }, 
+    "name": "Baksi", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1103"
+        }, 
+        "free_bikes": 12, 
+        "id": "0b0d8edbc74b068f19355a10163bcf2d", 
+        "latitude": 40.763336, 
+        "longitude": 29.966969, 
+        "name": "3. Kinali Asker Parki", 
+        "timestamp": "2017-08-15T04:49:05.228000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1105"
+        }, 
+        "free_bikes": 8, 
+        "id": "57a86129153be9d335b46c64c6ee645e", 
+        "latitude": 40.765056, 
+        "longitude": 29.949156, 
+        "name": "5. Dogu Kisla Parki", 
+        "timestamp": "2017-08-15T04:49:05.232000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1114"
+        }, 
+        "free_bikes": 7, 
+        "id": "a649a8b5d1f189463524e74c04dd66ee", 
+        "latitude": 40.759761, 
+        "longitude": 29.892164, 
+        "name": "14. Seka Park 2. Etap", 
+        "timestamp": "2017-08-15T04:49:05.241000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1115"
+        }, 
+        "free_bikes": 3, 
+        "id": "c0e6d29ed43ebf2177fdcd2e0126be03", 
+        "latitude": 40.760531, 
+        "longitude": 29.884008, 
+        "name": "15. Plaj Yolu", 
+        "timestamp": "2017-08-15T04:49:05.242000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1133"
+        }, 
+        "free_bikes": 7, 
+        "id": "97ed9f8a040eec50312bcb3244fbc67c", 
+        "latitude": 40.748194, 
+        "longitude": 30.026922, 
+        "name": "33. K\u00f6sek\u00f6y M.Y.O", 
+        "timestamp": "2017-08-15T04:49:05.259000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1101"
+        }, 
+        "free_bikes": 10, 
+        "id": "27c78655eaf7d9607af3a188a81ab544", 
+        "latitude": 40.767414, 
+        "longitude": 29.975622, 
+        "name": "1.Yahya Kaptan Bisiklet Egitim", 
+        "timestamp": "2017-08-15T04:49:05.225000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1104"
+        }, 
+        "free_bikes": 8, 
+        "id": "eb0f0da71ff4077d938f82d5d591c894", 
+        "latitude": 40.763294, 
+        "longitude": 29.957489, 
+        "name": "4. Demokrasi Kavsagi", 
+        "timestamp": "2017-08-15T04:49:05.229000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 15, 
+          "status": "Active", 
+          "uid": "1108"
+        }, 
+        "free_bikes": 15, 
+        "id": "4b86bddc620d1bb01d6be0d0e9e1f07f", 
+        "latitude": 40.760886, 
+        "longitude": 29.935667, 
+        "name": "8. Kocaeli Fuari", 
+        "timestamp": "2017-08-15T04:49:05.235000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 15, 
+          "status": "Active", 
+          "uid": "1110"
+        }, 
+        "free_bikes": 15, 
+        "id": "65007021835a0b1f665613c99f88e24c", 
+        "latitude": 40.760656, 
+        "longitude": 29.924364, 
+        "name": "10. Marina ", 
+        "timestamp": "2017-08-15T04:49:05.237000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1119"
+        }, 
+        "free_bikes": 8, 
+        "id": "9d751574630a38b72f0c7b915844e7ae", 
+        "latitude": 40.722558, 
+        "longitude": 29.938372, 
+        "name": "19. Naila 1", 
+        "timestamp": "2017-08-15T04:49:05.244000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1120"
+        }, 
+        "free_bikes": 3, 
+        "id": "251e4a7bd15c5387152ed8836c2c7e44", 
+        "latitude": 40.714833, 
+        "longitude": 29.913533, 
+        "name": "20. Naila 2 Karsiyaka Sahil", 
+        "timestamp": "2017-08-15T04:49:05.245000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 15, 
+          "status": "Active", 
+          "uid": "1121"
+        }, 
+        "free_bikes": 15, 
+        "id": "b265e3e9d32ab49c01f9d1c89248758b", 
+        "latitude": 40.755558, 
+        "longitude": 29.946228, 
+        "name": "21.Outlet Center", 
+        "timestamp": "2017-08-15T04:49:05.246000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1122"
+        }, 
+        "free_bikes": 9, 
+        "id": "2393c38e390702b77a16b404d3f48973", 
+        "latitude": 40.746347, 
+        "longitude": 29.945797, 
+        "name": "22.K\u00f6rfez Sanayi", 
+        "timestamp": "2017-08-15T04:49:05.247000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1124"
+        }, 
+        "free_bikes": 3, 
+        "id": "8603ce4f65e56bb6e158f651875f6755", 
+        "latitude": 40.7221, 
+        "longitude": 29.7843, 
+        "name": "24. Degirmendere Sahil", 
+        "timestamp": "2017-08-15T04:49:05.249000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1125"
+        }, 
+        "free_bikes": 3, 
+        "id": "128bf1e564f0ad2dc8f1ac1a7c30d797", 
+        "latitude": 40.694917, 
+        "longitude": 29.617086, 
+        "name": "25. Karam\u00fcrsel Sahil", 
+        "timestamp": "2017-08-15T04:49:05.250000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1128"
+        }, 
+        "free_bikes": 3, 
+        "id": "0dff251c2960ca1176dd6577fa94f6f3", 
+        "latitude": 40.769428, 
+        "longitude": 29.428308, 
+        "name": "28. Eskihisar Sahil", 
+        "timestamp": "2017-08-15T04:49:05.253000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1130"
+        }, 
+        "free_bikes": 1, 
+        "id": "8de338b3ee9f2bf548fdf10ed6f4ad18", 
+        "latitude": 40.748822, 
+        "longitude": 29.808275, 
+        "name": "30. 60 Evler Sahil", 
+        "timestamp": "2017-08-15T04:49:05.254000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1131"
+        }, 
+        "free_bikes": 5, 
+        "id": "8f0d7c6a3c8c766c4c9a4c2949d44b09", 
+        "latitude": 40.745725, 
+        "longitude": 29.789539, 
+        "name": "31. T\u00fct\u00fcn\u00e7iftlik Sahil", 
+        "timestamp": "2017-08-15T04:49:05.257000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1135"
+        }, 
+        "free_bikes": 9, 
+        "id": "983f0531c88a6fdea98f891e0773a8cd", 
+        "latitude": 40.765989, 
+        "longitude": 29.9285, 
+        "name": "35. Cumhuriyet Parki", 
+        "timestamp": "2017-08-15T04:49:05.261000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1102"
+        }, 
+        "free_bikes": 9, 
+        "id": "46d3d282261c24a8e73921d02cd4d19a", 
+        "latitude": 40.760675, 
+        "longitude": 29.975994, 
+        "name": "2. Yahya Kaptan D-100", 
+        "timestamp": "2017-08-15T04:49:05.227000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1106"
+        }, 
+        "free_bikes": 7, 
+        "id": "c9b557ddb89e817473a3a01d0e1a2b54", 
+        "latitude": 40.765847, 
+        "longitude": 29.941025, 
+        "name": "6. Anit Park", 
+        "timestamp": "2017-08-15T04:49:05.233000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1107"
+        }, 
+        "free_bikes": 9, 
+        "id": "6edc8a9aaf55b9b479460d4f7f7de977", 
+        "latitude": 40.764453, 
+        "longitude": 29.929981, 
+        "name": "7. Izmit Belediyesi", 
+        "timestamp": "2017-08-15T04:49:05.234000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 15, 
+          "status": "Active", 
+          "uid": "1109"
+        }, 
+        "free_bikes": 14, 
+        "id": "e2c98f5d9f5a73f61b47fd12534819fb", 
+        "latitude": 40.760833, 
+        "longitude": 29.931008, 
+        "name": "9. Mimar Sinan K\u00f6pr\u00fcs\u00fc", 
+        "timestamp": "2017-08-15T04:49:05.236000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1111"
+        }, 
+        "free_bikes": 11, 
+        "id": "4cd445c87c8af8bdabbd09cdb82fde26", 
+        "latitude": 40.761997, 
+        "longitude": 29.918244, 
+        "name": "11. Tren Gari", 
+        "timestamp": "2017-08-15T04:49:05.238000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 24, 
+          "status": "Active", 
+          "uid": "1112"
+        }, 
+        "free_bikes": 15, 
+        "id": "083151753a8ac598909141224330468e", 
+        "latitude": 40.760436, 
+        "longitude": 29.909422, 
+        "name": "12. Seka Park Palmiye ", 
+        "timestamp": "2017-08-15T04:49:05.239000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1113"
+        }, 
+        "free_bikes": 9, 
+        "id": "7c04da320e55a0c5077a2e7dcd8c6666", 
+        "latitude": 40.760481, 
+        "longitude": 29.899239, 
+        "name": "13. Seka Park U\u00e7urtma Tepesi ", 
+        "timestamp": "2017-08-15T04:49:05.239000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "slots": 11, 
+          "status": "Active", 
+          "uid": "1116"
+        }, 
+        "free_bikes": 3, 
+        "id": "6fd2509f8caf8e733b0f9e6a0eb33d2e", 
+        "latitude": 40.772072, 
+        "longitude": 29.984606, 
+        "name": "16. Yildiz Konutlari", 
+        "timestamp": "2017-08-15T04:49:05.242000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1117"
+        }, 
+        "free_bikes": 9, 
+        "id": "d4a5842d292caf6f444ffdff90369bf6", 
+        "latitude": 40.771008, 
+        "longitude": 30.005575, 
+        "name": "17. Ali Kahya Merkez", 
+        "timestamp": "2017-08-15T04:49:05.243000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1123"
+        }, 
+        "free_bikes": 6, 
+        "id": "ee02088c32c07a5857a2a3009df8f1a5", 
+        "latitude": 40.721381, 
+        "longitude": 29.8286331, 
+        "name": "23. Kongre Sarayi Parki G\u00f6lc\u00fck", 
+        "timestamp": "2017-08-15T04:49:05.248000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1126"
+        }, 
+        "free_bikes": 0, 
+        "id": "2e60193df21e172f51c25d0d6eeb5589", 
+        "latitude": 40.771394, 
+        "longitude": 29.948967, 
+        "name": "26. Bekirdere \u00dc\u00e7yol Zincirliku", 
+        "timestamp": "2017-08-15T04:49:05.251000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1127"
+        }, 
+        "free_bikes": 12, 
+        "id": "d8077e920cc02f6fff63dc10b9a72e6f", 
+        "latitude": 40.768081, 
+        "longitude": 29.967414, 
+        "name": "27. Muhsin Yazicioglu Parki ", 
+        "timestamp": "2017-08-15T04:49:05.252000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1129"
+        }, 
+        "free_bikes": 3, 
+        "id": "7fd6d59edc3a02dcb4a0006217d053cf", 
+        "latitude": 40.756972, 
+        "longitude": 29.377519, 
+        "name": "29. Darica Sahil", 
+        "timestamp": "2017-08-15T04:49:05.254000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1132"
+        }, 
+        "free_bikes": 8, 
+        "id": "3c93c6ee17cec836eee73691b92daf56", 
+        "latitude": 40.774731, 
+        "longitude": 29.975075, 
+        "name": "32. Tramvay Terminal", 
+        "timestamp": "2017-08-15T04:49:05.258000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1134"
+        }, 
+        "free_bikes": 3, 
+        "id": "3b7196c0c6a5375f0991a9e1aa14e326", 
+        "latitude": 40.746047, 
+        "longitude": 30.013619, 
+        "name": "34. Kartepe Belediyesi", 
+        "timestamp": "2017-08-15T04:49:05.260000Z"
+      }
+    ]
+  }
+}

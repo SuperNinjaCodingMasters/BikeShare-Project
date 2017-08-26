@@ -1,0 +1,253 @@
+{
+  "network": {
+    "company": [
+      "Keolis", 
+      "STAP"
+    ], 
+    "href": "/v2/networks/idecycle", 
+    "id": "idecycle", 
+    "location": {
+      "city": "Pau", 
+      "country": "FR", 
+      "latitude": 43.2951, 
+      "longitude": -0.370797
+    }, 
+    "name": "IDECycle", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online", 
+          "uid": 17
+        }, 
+        "free_bikes": 11, 
+        "id": "878fcc17b0f8383ca0c84babb0f6f2ff", 
+        "latitude": 43.305313, 
+        "longitude": -0.351039, 
+        "name": "Allees", 
+        "timestamp": "2017-08-15T04:48:53.741000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online", 
+          "uid": 6
+        }, 
+        "free_bikes": 9, 
+        "id": "4bb1772b803abf30131f8f93077f84be", 
+        "latitude": 43.294804, 
+        "longitude": -0.365615, 
+        "name": "Barthou", 
+        "timestamp": "2017-08-15T04:48:53.743000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline", 
+          "uid": 1
+        }, 
+        "free_bikes": 0, 
+        "id": "74b67adc704c521531a9f20f67dd647c", 
+        "latitude": 43.297707, 
+        "longitude": -0.366069, 
+        "name": "Bosquet", 
+        "timestamp": "2017-08-15T04:48:53.744000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online", 
+          "uid": 8
+        }, 
+        "free_bikes": 8, 
+        "id": "59654c6be471f06605db33c69c1ed634", 
+        "latitude": 43.29474, 
+        "longitude": -0.372936, 
+        "name": "Chateau", 
+        "timestamp": "2017-08-15T04:48:53.745000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "status": "online", 
+          "uid": 7
+        }, 
+        "free_bikes": 7, 
+        "id": "bb6ad82dc9cb75da8e685b3c010767eb", 
+        "latitude": 43.293396, 
+        "longitude": -0.371321, 
+        "name": "Funiculaire", 
+        "timestamp": "2017-08-15T04:48:53.746000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "status": "online", 
+          "uid": 14
+        }, 
+        "free_bikes": 9, 
+        "id": "1a5021bc0822b726bea4a9b971e0a1d1", 
+        "latitude": 43.29245, 
+        "longitude": -0.369824, 
+        "name": "Gare SNCF", 
+        "timestamp": "2017-08-15T04:48:53.747000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": "online", 
+          "uid": 11
+        }, 
+        "free_bikes": 12, 
+        "id": "3b3012e211b2f938c830d074664e888e", 
+        "latitude": 43.30551, 
+        "longitude": -0.377247, 
+        "name": "Parc des expositions", 
+        "timestamp": "2017-08-15T04:48:53.749000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": "online", 
+          "uid": 20
+        }, 
+        "free_bikes": 10, 
+        "id": "d51ebc863341e99e37ab15df04c0cf1f", 
+        "latitude": 43.314774, 
+        "longitude": -0.357013, 
+        "name": "Pierre Masse", 
+        "timestamp": "2017-08-15T04:48:53.750000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": "online", 
+          "uid": 2
+        }, 
+        "free_bikes": 11, 
+        "id": "44b194daae31087514d290b10c5b40ac", 
+        "latitude": 43.29627, 
+        "longitude": -0.368853, 
+        "name": "Place Clemenceau", 
+        "timestamp": "2017-08-15T04:48:53.751000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": "online", 
+          "uid": 9
+        }, 
+        "free_bikes": 9, 
+        "id": "e7415b13e253c37c11d9c5413fa3e12f", 
+        "latitude": 43.2963, 
+        "longitude": -0.374465, 
+        "name": "Place Gramont", 
+        "timestamp": "2017-08-15T04:48:53.752000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": "online", 
+          "uid": 12
+        }, 
+        "free_bikes": 8, 
+        "id": "2c52db0d39f2bff9d4f988876e47360c", 
+        "latitude": 43.304485, 
+        "longitude": -0.366977, 
+        "name": "Place Lyautey", 
+        "timestamp": "2017-08-15T04:48:53.753000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "status": "online", 
+          "uid": 10
+        }, 
+        "free_bikes": 12, 
+        "id": "3b873e653b90f6b9e1d4207a2951d611", 
+        "latitude": 43.29901, 
+        "longitude": -0.375135, 
+        "name": "Place Verdun", 
+        "timestamp": "2017-08-15T04:48:53.754000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online", 
+          "uid": 5
+        }, 
+        "free_bikes": 10, 
+        "id": "5bc410a42581cca182ca586e0c48ab2c", 
+        "latitude": 43.301163, 
+        "longitude": -0.359003, 
+        "name": "Saint CRICQ", 
+        "timestamp": "2017-08-15T04:48:53.754000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online", 
+          "uid": 19
+        }, 
+        "free_bikes": 14, 
+        "id": "df35c9af76426f422fc4c36db91c4bd3", 
+        "latitude": 43.318893, 
+        "longitude": -0.36415, 
+        "name": "Saint John Perse", 
+        "timestamp": "2017-08-15T04:48:53.755000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": "online", 
+          "uid": 13
+        }, 
+        "free_bikes": 13, 
+        "id": "d46c350915fe878919fb108508430fe8", 
+        "latitude": 43.307964, 
+        "longitude": -0.358153, 
+        "name": "Saragosse", 
+        "timestamp": "2017-08-15T04:48:53.757000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": "online", 
+          "uid": 3
+        }, 
+        "free_bikes": 7, 
+        "id": "8cb774a3ec2336e944c232609203ab6c", 
+        "latitude": 43.298397, 
+        "longitude": -0.370582, 
+        "name": "Sept Cantons", 
+        "timestamp": "2017-08-15T04:48:53.758000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline", 
+          "uid": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "58f9eaa5c60c5ae50045a404e1eb4342", 
+        "latitude": 43.31165, 
+        "longitude": -0.365027, 
+        "name": "Universite Sud", 
+        "timestamp": "2017-08-15T04:48:53.759000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline", 
+          "uid": 4
+        }, 
+        "free_bikes": 0, 
+        "id": "a28337dfc21f4d36db8fb2d732500057", 
+        "latitude": 43.299995, 
+        "longitude": -0.368211, 
+        "name": "Mediatheque", 
+        "timestamp": "2017-08-15T04:48:53.748000Z"
+      }
+    ]
+  }
+}

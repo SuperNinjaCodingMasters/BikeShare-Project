@@ -1,0 +1,595 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_heartland/gbfs.json", 
+    "href": "/v2/networks/omaha", 
+    "id": "omaha", 
+    "location": {
+      "city": "Omaha, NE", 
+      "country": "US", 
+      "latitude": 41.25832, 
+      "longitude": -96.00853
+    }, 
+    "name": "Heartland B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2200 River Road", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2882"
+        }, 
+        "free_bikes": 4, 
+        "id": "70aa6554490b078d001e1660533aa619", 
+        "latitude": 41.24346, 
+        "longitude": -95.90946, 
+        "name": "Ameristar", 
+        "timestamp": "2017-08-15T04:47:54.063000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "456 N 10th St", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2899"
+        }, 
+        "free_bikes": 6, 
+        "id": "6e684f1b3f16795e7bca397810a4243f", 
+        "latitude": 41.26398, 
+        "longitude": -95.92947, 
+        "name": "10th & Cass", 
+        "timestamp": "2017-08-15T04:47:54.082000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Iowa West Foundation Trailhead Park", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_3625"
+        }, 
+        "free_bikes": 5, 
+        "id": "0d45543d310431fc8449134f3c5a461d", 
+        "latitude": 41.21888, 
+        "longitude": -95.81736, 
+        "name": "Wabash Trace", 
+        "timestamp": "2017-08-15T04:47:54.072000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1144 N 11th Street ", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_3615"
+        }, 
+        "free_bikes": 0, 
+        "id": "7359b15bf2eeb394c3ce150e68de6ca4", 
+        "latitude": 41.30426, 
+        "longitude": 95.92395, 
+        "name": "Bike Share HQ", 
+        "timestamp": "2017-08-15T04:47:54.112000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "6200 Dodge Street", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_1916"
+        }, 
+        "free_bikes": 3, 
+        "id": "f2fb3fb20262b45f38a9c2feff8abfd0", 
+        "latitude": 41.25832, 
+        "longitude": -96.00853, 
+        "name": "62nd & Dodge", 
+        "timestamp": "2017-08-15T04:47:54.068000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1085 Jackson St.", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2652"
+        }, 
+        "free_bikes": 5, 
+        "id": "932262b4d6df6ce3ff89d8c1ff7ca2a9", 
+        "latitude": 41.25431, 
+        "longitude": -95.93036, 
+        "name": "11th & Jackson", 
+        "timestamp": "2017-08-15T04:47:54.107000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1999 Dodge Street", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2892"
+        }, 
+        "free_bikes": 6, 
+        "id": "dd08b4a1e172417040fae8611e15b938", 
+        "latitude": 41.2596, 
+        "longitude": -95.94211, 
+        "name": "20th & Dodge", 
+        "timestamp": "2017-08-15T04:47:54.094000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2425 N 24th St", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2898"
+        }, 
+        "free_bikes": 4, 
+        "id": "1c5a4009213d57b1efe3398f11e8cc6e", 
+        "latitude": 41.28133, 
+        "longitude": -95.94696, 
+        "name": "24th & Lake", 
+        "timestamp": "2017-08-15T04:47:54.083000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "301 S 10 ST", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2901"
+        }, 
+        "free_bikes": 9, 
+        "id": "f6f1b74d28e1ded9f3cfd43d318844d5", 
+        "latitude": 41.25724, 
+        "longitude": -95.92854, 
+        "name": "10th & Farnam", 
+        "timestamp": "2017-08-15T04:47:54.095000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "801 S 10th St", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2903"
+        }, 
+        "free_bikes": 4, 
+        "id": "3bb3a30aa19d4a3602e71c5e55e76165", 
+        "latitude": 41.2515, 
+        "longitude": -95.92903, 
+        "name": "The Durham Museum", 
+        "timestamp": "2017-08-15T04:47:54.080000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1130 N 11th Strees", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_3647"
+        }, 
+        "free_bikes": 3, 
+        "id": "1e15a88e42ba46d8586378ecf39d1a5b", 
+        "latitude": 41.27113, 
+        "longitude": -95.93069, 
+        "name": "1130 N 11th Street", 
+        "timestamp": "2017-08-15T04:47:54.073000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "102 S Washington Street", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_3679"
+        }, 
+        "free_bikes": 6, 
+        "id": "f0c1339906ae11ae09ca539373c39c9b", 
+        "latitude": 41.15625, 
+        "longitude": -96.04314, 
+        "name": "First Street Plaza 1st & Washington", 
+        "timestamp": "2017-08-15T04:47:54.105000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "920 Dodge Street", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2896"
+        }, 
+        "free_bikes": 5, 
+        "id": "7fe01b176729e68058d5d43f0dbeb3a1", 
+        "latitude": 41.26052, 
+        "longitude": -95.93011, 
+        "name": "10th & Dodge", 
+        "timestamp": "2017-08-15T04:47:54.090000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1625 S 67th St", 
+          "last_updated": 1502772474, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_heartland_1917"
+        }, 
+        "free_bikes": 6, 
+        "id": "b79901057370fd2e6b06d7646024adef", 
+        "latitude": 41.24497, 
+        "longitude": -96.01573, 
+        "name": "67th & Pine", 
+        "timestamp": "2017-08-15T04:47:54.067000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Aksarben Drive", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_1920"
+        }, 
+        "free_bikes": 7, 
+        "id": "a7e6bc2f7afda417009782b4f2cf1e7b", 
+        "latitude": 41.24112, 
+        "longitude": -96.01792, 
+        "name": "Aksarben Drive", 
+        "timestamp": "2017-08-15T04:47:54.103000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "472 S. 13th St.", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2431"
+        }, 
+        "free_bikes": 5, 
+        "id": "124e8a4cc4062107b72dc9da7d5102c7", 
+        "latitude": 41.25575, 
+        "longitude": -95.93341, 
+        "name": "13th & Howard", 
+        "timestamp": "2017-08-15T04:47:54.076000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1819 Farham St.", 
+          "last_updated": 1502772474, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_heartland_2432"
+        }, 
+        "free_bikes": 5, 
+        "id": "59592ad5143239620d7272636adb4aae", 
+        "latitude": 41.25749, 
+        "longitude": -95.94036, 
+        "name": "1819 Farnam", 
+        "timestamp": "2017-08-15T04:47:54.075000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "785 N. 14th St.", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2653"
+        }, 
+        "free_bikes": 5, 
+        "id": "c8aab241b66650c34a93bbf77c49582b", 
+        "latitude": 41.26636, 
+        "longitude": -95.93434, 
+        "name": "14th & Fahey", 
+        "timestamp": "2017-08-15T04:47:54.106000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1516 Cuming St.", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2655"
+        }, 
+        "free_bikes": 7, 
+        "id": "ea4ab768a41e800701610a43ca1659f4", 
+        "latitude": 41.26814, 
+        "longitude": -95.93645, 
+        "name": "1516 Cuming St", 
+        "timestamp": "2017-08-15T04:47:54.108000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "711 S Main St", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2889"
+        }, 
+        "free_bikes": 3, 
+        "id": "3da61b2cc853329b720c34ef1e2c918c", 
+        "latitude": 41.25466, 
+        "longitude": -95.8514, 
+        "name": "711 S Main St", 
+        "timestamp": "2017-08-15T04:47:54.052000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "209 Pearl St", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2890"
+        }, 
+        "free_bikes": 7, 
+        "id": "17b37f2d0ce46aee6640441db0edf9e0", 
+        "latitude": 41.25832, 
+        "longitude": -95.85088, 
+        "name": "Pearl St & Willow Ave", 
+        "timestamp": "2017-08-15T04:47:54.092000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "424 S 15 ST", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2893"
+        }, 
+        "free_bikes": 5, 
+        "id": "d610484d75e4c2ed08f4cc74496008f0", 
+        "latitude": 41.25553, 
+        "longitude": -95.93624, 
+        "name": "15th & Howard", 
+        "timestamp": "2017-08-15T04:47:54.092000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "855 Jones St", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2895"
+        }, 
+        "free_bikes": 7, 
+        "id": "c06637ac56e2c634695e5b1837984177", 
+        "latitude": 41.25345, 
+        "longitude": -95.92824, 
+        "name": "9th & Jones", 
+        "timestamp": "2017-08-15T04:47:54.087000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "666 Jones St", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2904"
+        }, 
+        "free_bikes": 4, 
+        "id": "21dcfae4cbcfc0cb51da29d2650e4cbd", 
+        "latitude": 41.25352, 
+        "longitude": -95.9244, 
+        "name": "7th & Jones", 
+        "timestamp": "2017-08-15T04:47:54.081000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "8901 S 154th Street", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_3678"
+        }, 
+        "free_bikes": 8, 
+        "id": "24f1376afd03457bba562d1569539c6b", 
+        "latitude": 41.17108, 
+        "longitude": -96.15629, 
+        "name": "Chalco Hills", 
+        "timestamp": "2017-08-15T04:47:54.105000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "6600 Center Street", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_1918"
+        }, 
+        "free_bikes": 3, 
+        "id": "3b3a4be1d9e04bfc742de7f36c4f49ad", 
+        "latitude": 41.23805, 
+        "longitude": -96.0135, 
+        "name": "66th & Center", 
+        "timestamp": "2017-08-15T04:47:54.072000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2110 South 67th Street", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_1919"
+        }, 
+        "free_bikes": 4, 
+        "id": "0ee4e6ea4237f71d6d08f6b2d3115797", 
+        "latitude": 41.24009, 
+        "longitude": -96.01512, 
+        "name": "67th & Frances", 
+        "timestamp": "2017-08-15T04:47:54.069000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Bob Kerrey Pedestrian Bridge", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2430"
+        }, 
+        "free_bikes": 14, 
+        "id": "2dbab431b6c7c5240bc5944d1f23a8fd", 
+        "latitude": 41.26568, 
+        "longitude": -95.92402, 
+        "name": "Bob Kerrey Pedestrian Bridge", 
+        "timestamp": "2017-08-15T04:47:54.077000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "4398 Ave B", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2881"
+        }, 
+        "free_bikes": 11, 
+        "id": "b7eeac60e675104fcbe53da4c899026a", 
+        "latitude": 41.26321, 
+        "longitude": -95.91758, 
+        "name": "Tom Hanafan River's Edge Park ", 
+        "timestamp": "2017-08-15T04:47:54.064000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "5002 Underwood Ave", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2891"
+        }, 
+        "free_bikes": 4, 
+        "id": "46897e8e242c212fe2680bfd217049f7", 
+        "latitude": 41.26522, 
+        "longitude": -95.99057, 
+        "name": "50th & Underwood", 
+        "timestamp": "2017-08-15T04:47:54.091000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "1516 Douglas Street", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2894"
+        }, 
+        "free_bikes": 0, 
+        "id": "2da1bc1cce5683d05e3f2b55f62de70f", 
+        "latitude": 41.25885, 
+        "longitude": -95.93703, 
+        "name": "16th & Douglas", 
+        "timestamp": "2017-08-15T04:47:54.088000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "3189 Farnam St", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2897"
+        }, 
+        "free_bikes": 7, 
+        "id": "d2f378a48b7310ca3656fe224b7d20e2", 
+        "latitude": 41.25784, 
+        "longitude": -95.96009, 
+        "name": "Midtown Crossing: 32nd & Farnam", 
+        "timestamp": "2017-08-15T04:47:54.089000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1400 Douglas Street", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2900"
+        }, 
+        "free_bikes": 3, 
+        "id": "f439c78739b165bab5280bd1c2c4b0b7", 
+        "latitude": 41.25892, 
+        "longitude": -95.93458, 
+        "name": "14th & Douglas", 
+        "timestamp": "2017-08-15T04:47:54.104000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "345 Riverfront Drive", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_2902"
+        }, 
+        "free_bikes": 9, 
+        "id": "2a0e988f62b76caa429bf9354e38b8b6", 
+        "latitude": 41.26193, 
+        "longitude": -95.92391, 
+        "name": "Lewis & Clark Landing", 
+        "timestamp": "2017-08-15T04:47:54.102000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "215 S 15th Street", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_3402"
+        }, 
+        "free_bikes": 5, 
+        "id": "690328a47aecc2f52af8bcb6e3f309eb", 
+        "latitude": 41.25789, 
+        "longitude": -95.93572, 
+        "name": "15th & Farnam", 
+        "timestamp": "2017-08-15T04:47:54.111000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "7000 Mercy Road", 
+          "last_updated": 1502772474, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_heartland_3403"
+        }, 
+        "free_bikes": 4, 
+        "id": "23388f185c02e01e51444cc1bf19160f", 
+        "latitude": 41.24011, 
+        "longitude": -96.0221, 
+        "name": "College of Saint Mary", 
+        "timestamp": "2017-08-15T04:47:54.109000Z"
+      }
+    ]
+  }
+}

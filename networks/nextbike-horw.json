@@ -1,0 +1,309 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-horw", 
+    "id": "nextbike-horw", 
+    "location": {
+      "city": "Horw", 
+      "country": "CH", 
+      "latitude": 47.0188, 
+      "longitude": 8.30828
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "9022", 
+          "uid": "3049432"
+        }, 
+        "free_bikes": 0, 
+        "id": "afb8b087b8bb1f5cc9439259ea4fdb38", 
+        "latitude": 47.017498780258, 
+        "longitude": 8.3065750489914, 
+        "name": "Bahnhof West", 
+        "timestamp": "2017-08-15T04:50:10.762000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40147", 
+            "40141"
+          ], 
+          "number": "9024", 
+          "uid": "3052056"
+        }, 
+        "free_bikes": 2, 
+        "id": "40fb0ae54cf3a864bc9bc94ecd236001", 
+        "latitude": 47.019742465837, 
+        "longitude": 8.3095425367355, 
+        "name": "Horwerhalle / Schulhausweg", 
+        "timestamp": "2017-08-15T04:50:10.773000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40138", 
+            "40137", 
+            "40092", 
+            "40058", 
+            "40298"
+          ], 
+          "number": "9028", 
+          "uid": "3921835"
+        }, 
+        "free_bikes": 5, 
+        "id": "faf35cc5f700cb9e1472651d9b4ad0f7", 
+        "latitude": 47.012924403039, 
+        "longitude": 8.3156088337273, 
+        "name": "Parkplatz Winkel / Winkelstrasse 30", 
+        "timestamp": "2017-08-15T04:50:10.775000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40143", 
+            "40242", 
+            "40315", 
+            "40408"
+          ], 
+          "number": "8103", 
+          "uid": "25987"
+        }, 
+        "free_bikes": 4, 
+        "id": "f6b68315804d4a9a775b359029d23069", 
+        "latitude": 47.017284789536, 
+        "longitude": 8.3070588111877, 
+        "name": "Horw, Bahnhof ZB / Gleis 1", 
+        "timestamp": "2017-08-15T04:50:10.754000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40087", 
+            "40321"
+          ], 
+          "number": "8066", 
+          "uid": "38570"
+        }, 
+        "free_bikes": 2, 
+        "id": "b23cb3305eab71b8978e069667f9c5d4", 
+        "latitude": 47.019288974554, 
+        "longitude": 8.3115649223328, 
+        "name": "Horw, Station Zentrum", 
+        "timestamp": "2017-08-15T04:50:10.757000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40462"
+          ], 
+          "number": "8064", 
+          "uid": "42813"
+        }, 
+        "free_bikes": 1, 
+        "id": "135b73a3d24d360d271aea10d57c6777", 
+        "latitude": 47.014263740769, 
+        "longitude": 8.3114361763001, 
+        "name": "Horw, Kantonsstr. / Winkelstr.", 
+        "timestamp": "2017-08-15T04:50:10.757000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40116", 
+            "40099", 
+            "40085", 
+            "40005", 
+            "40540"
+          ], 
+          "number": "8060", 
+          "uid": "42814"
+        }, 
+        "free_bikes": 5, 
+        "id": "01b5ffcedeb540171dcd41ee5fdfb0d5", 
+        "latitude": 47.022967994309, 
+        "longitude": 8.3090329170227, 
+        "name": "Horw, Kantonsstr. / Kastanienbaumstr.", 
+        "timestamp": "2017-08-15T04:50:10.758000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40238", 
+            "40249", 
+            "40069", 
+            "40334", 
+            "40516"
+          ], 
+          "number": "9021", 
+          "uid": "3049317"
+        }, 
+        "free_bikes": 5, 
+        "id": "7d9ec4d194b7f27230aba5b16a61c5ac", 
+        "latitude": 47.01873307676, 
+        "longitude": 8.3098483085632, 
+        "name": "Gemeindehausplatz", 
+        "timestamp": "2017-08-15T04:50:10.762000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40186", 
+            "40082", 
+            "40266", 
+            "40333", 
+            "40593"
+          ], 
+          "number": "9025", 
+          "uid": "3049802"
+        }, 
+        "free_bikes": 8, 
+        "id": "bc49fcf993816f00d6383ce5bed14720", 
+        "latitude": 47.013448101451, 
+        "longitude": 8.3025795221329, 
+        "name": "Schulhaus Spitz / Bodenmattstrasse 8", 
+        "timestamp": "2017-08-15T04:50:10.764000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40175", 
+            "40274", 
+            "40473"
+          ], 
+          "number": "9027", 
+          "uid": "3913455"
+        }, 
+        "free_bikes": 3, 
+        "id": "4354e341fe2355148cb9d889f120e935", 
+        "latitude": 47.008075103869, 
+        "longitude": 8.339896992693, 
+        "name": "Schiffstation Kastanienbaum / St. Niklausenstrasse 104", 
+        "timestamp": "2017-08-15T04:50:10.774000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40168", 
+            "40078", 
+            "40050", 
+            "40030", 
+            "40211"
+          ], 
+          "number": "8111", 
+          "uid": "500627"
+        }, 
+        "free_bikes": 8, 
+        "id": "cb11002510a04dabf6a2790e55ffa5a9", 
+        "latitude": 47.012626, 
+        "longitude": 8.305515, 
+        "name": "HSLU - Technik & Architektur", 
+        "timestamp": "2017-08-15T04:50:10.760000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40560"
+          ], 
+          "number": "9029", 
+          "uid": "3921887"
+        }, 
+        "free_bikes": 1, 
+        "id": "1a351bd39288aeb7245ee79756520fff", 
+        "latitude": 47.008560624906, 
+        "longitude": 8.3046077550898, 
+        "name": "Ennethorw / Bushaltestelle ", 
+        "timestamp": "2017-08-15T04:50:10.776000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40129", 
+            "40100", 
+            "40463"
+          ], 
+          "number": "8135", 
+          "uid": "2821423"
+        }, 
+        "free_bikes": 3, 
+        "id": "d14e3667270a0885b054cbeb79162ee8", 
+        "latitude": 47.018041853667, 
+        "longitude": 8.2998383045197, 
+        "name": "Pilatusmarkt", 
+        "timestamp": "2017-08-15T04:50:10.761000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40135", 
+            "40131", 
+            "40124"
+          ], 
+          "number": "9023", 
+          "uid": "3049799"
+        }, 
+        "free_bikes": 3, 
+        "id": "da304b5e9e783c897b41aa64e45f3788", 
+        "latitude": 47.002175422117, 
+        "longitude": 8.3333230025164, 
+        "name": "eawag / Seestrasse 79", 
+        "timestamp": "2017-08-15T04:50:10.763000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40068", 
+            "40003", 
+            "40309", 
+            "40297", 
+            "40492"
+          ], 
+          "number": "8070", 
+          "uid": "275363"
+        }, 
+        "free_bikes": 6, 
+        "id": "2922f8f603943b6ed9593fb300288f64", 
+        "latitude": 47.012137419685, 
+        "longitude": 8.3087556842656, 
+        "name": "Seefeld", 
+        "timestamp": "2017-08-15T04:50:10.759000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "40117", 
+            "40067", 
+            "40034", 
+            "40450"
+          ], 
+          "number": "9026", 
+          "uid": "3049809"
+        }, 
+        "free_bikes": 4, 
+        "id": "1c1be8d9fd99b51190947a486b9d4344", 
+        "latitude": 47.020915783518, 
+        "longitude": 8.3261177302847, 
+        "name": "Felmis / Kastanienbaumstrasse 90", 
+        "timestamp": "2017-08-15T04:50:10.771000Z"
+      }
+    ]
+  }
+}

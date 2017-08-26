@@ -1,0 +1,326 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-norderstedt", 
+    "id": "nextbike-norderstedt", 
+    "location": {
+      "city": "Norderstedt", 
+      "country": "DE", 
+      "latitude": 53.6969, 
+      "longitude": 10.002
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "10107", 
+            "02448", 
+            "02518"
+          ], 
+          "number": "4728", 
+          "slots": 10, 
+          "uid": "319412"
+        }, 
+        "free_bikes": 3, 
+        "id": "e78398a801dad38b73628295a95deaf6", 
+        "latitude": 53.663421, 
+        "longitude": 9.979427, 
+        "name": "SELGROS Markt / Gutenbergring", 
+        "timestamp": "2017-08-15T04:48:37.652000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "02097", 
+            "02420", 
+            "02413", 
+            "02457", 
+            "02475"
+          ], 
+          "number": "4729", 
+          "slots": 6, 
+          "uid": "319413"
+        }, 
+        "free_bikes": 6, 
+        "id": "7d8cd267cb764c1444c095558bd45ea4", 
+        "latitude": 53.700479459159, 
+        "longitude": 9.9941575527191, 
+        "name": "Ulzburger Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:48:37.653000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "02525", 
+            "02478"
+          ], 
+          "number": "4735", 
+          "slots": 8, 
+          "uid": "2778376"
+        }, 
+        "free_bikes": 2, 
+        "id": "a8d063458762c06c0d322815b11505a4", 
+        "latitude": 53.708733, 
+        "longitude": 10.02052, 
+        "name": "Kaufhaus Hempels", 
+        "timestamp": "2017-08-15T04:48:37.656000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "10041", 
+            "02447", 
+            "02445", 
+            "02433", 
+            "02071"
+          ], 
+          "number": "4727", 
+          "slots": 10, 
+          "uid": "92292"
+        }, 
+        "free_bikes": 8, 
+        "id": "e34e6ef12e709e111dd435696e4a6be5", 
+        "latitude": 53.689677279464, 
+        "longitude": 9.9996185302734, 
+        "name": "Arriba Erlebnisbad", 
+        "timestamp": "2017-08-15T04:48:37.648000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "02432", 
+            "02408", 
+            "02406", 
+            "02204", 
+            "02501"
+          ], 
+          "number": "4726", 
+          "slots": 12, 
+          "uid": "66682"
+        }, 
+        "free_bikes": 5, 
+        "id": "361da455d7e7c8d7d4742fb8eee51e8b", 
+        "latitude": 53.734157719162, 
+        "longitude": 9.9894636869431, 
+        "name": "Quickborner Str.", 
+        "timestamp": "2017-08-15T04:48:37.646000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02287", 
+            "02444", 
+            "02427", 
+            "02411", 
+            "02450"
+          ], 
+          "number": "4724", 
+          "uid": "66684"
+        }, 
+        "free_bikes": 7, 
+        "id": "852e36957d5776cd1b4a373cf49b3040", 
+        "latitude": 53.6845849, 
+        "longitude": 9.9854028, 
+        "name": "Herold Center", 
+        "timestamp": "2017-08-15T04:48:37.647000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "10194", 
+            "02439", 
+            "02421", 
+            "02414", 
+            "02405"
+          ], 
+          "number": "4730", 
+          "slots": 10, 
+          "uid": "238457"
+        }, 
+        "free_bikes": 11, 
+        "id": "347b572747d4f3132db12902c935b6b6", 
+        "latitude": 53.715879125384, 
+        "longitude": 9.9999511241913, 
+        "name": "Ulzburger Str. / Glash\u00fctter Weg", 
+        "timestamp": "2017-08-15T04:48:37.649000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "02063", 
+            "02509", 
+            "02483", 
+            "02494"
+          ], 
+          "number": "4732", 
+          "slots": 10, 
+          "uid": "262106"
+        }, 
+        "free_bikes": 4, 
+        "id": "7a6f6abafbf84115bf32c926459ccd51", 
+        "latitude": 53.69599, 
+        "longitude": 9.98945, 
+        "name": "Richtweg", 
+        "timestamp": "2017-08-15T04:48:37.651000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "02438", 
+            "02430", 
+            "02418", 
+            "02403", 
+            "02401"
+          ], 
+          "number": "4721", 
+          "slots": 12, 
+          "uid": "66552"
+        }, 
+        "free_bikes": 9, 
+        "id": "6db4b1b77ae090b8cb919d40e5076ed5", 
+        "latitude": 53.704585529445, 
+        "longitude": 10.008845329285, 
+        "name": "Harksheider Markt", 
+        "timestamp": "2017-08-15T04:48:37.641000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "10331", 
+            "02354", 
+            "02423", 
+            "02507", 
+            "02510"
+          ], 
+          "number": "4731", 
+          "slots": 10, 
+          "uid": "254785"
+        }, 
+        "free_bikes": 8, 
+        "id": "95d6f99f6fa3d16ce0cbc6b9115d8b9b", 
+        "latitude": 53.68238, 
+        "longitude": 9.99855, 
+        "name": "Schmuggelstieg", 
+        "timestamp": "2017-08-15T04:48:37.650000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "02431", 
+            "02458", 
+            "02476", 
+            "02512", 
+            "02486"
+          ], 
+          "number": "4723", 
+          "slots": 10, 
+          "uid": "66576"
+        }, 
+        "free_bikes": 5, 
+        "id": "002f57a29538d654fc007320d0bca61f", 
+        "latitude": 53.687879293945, 
+        "longitude": 10.03690123558, 
+        "name": "Glash\u00fctte, Markt", 
+        "timestamp": "2017-08-15T04:48:37.644000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "02424", 
+            "02415", 
+            "02407", 
+            "02402", 
+            "02453"
+          ], 
+          "number": "4734", 
+          "slots": 8, 
+          "uid": "492390"
+        }, 
+        "free_bikes": 7, 
+        "id": "fc336644507dc50d1f72d96557af1a32", 
+        "latitude": 53.68164261173, 
+        "longitude": 9.9796789884567, 
+        "name": "Hogenfelde / Ochsenzoller Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:48:37.655000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "02318", 
+            "02446", 
+            "02443", 
+            "02434", 
+            "02425"
+          ], 
+          "number": "4722", 
+          "slots": 12, 
+          "uid": "66574"
+        }, 
+        "free_bikes": 13, 
+        "id": "43609e80e6e97bf5def98035ae95c9e1", 
+        "latitude": 53.707105181638, 
+        "longitude": 9.9920064210892, 
+        "name": "Mitte ZOB", 
+        "timestamp": "2017-08-15T04:48:37.643000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "02309", 
+            "02436", 
+            "02404", 
+            "02093", 
+            "02452"
+          ], 
+          "number": "4725", 
+          "slots": 10, 
+          "uid": "66681"
+        }, 
+        "free_bikes": 9, 
+        "id": "bd400f69a3869a7361203c837feaea5b", 
+        "latitude": 53.71147888875, 
+        "longitude": 10.018544197083, 
+        "name": "Stadtpark", 
+        "timestamp": "2017-08-15T04:48:37.645000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "02449", 
+            "02441", 
+            "02409", 
+            "02474", 
+            "02467"
+          ], 
+          "number": "4733", 
+          "slots": 10, 
+          "uid": "492386"
+        }, 
+        "free_bikes": 5, 
+        "id": "aaace9f32d022555e77d5b7cae9f84f4", 
+        "latitude": 53.65943, 
+        "longitude": 9.98677, 
+        "name": "Gutenbergring / Rudolf Dankwardt", 
+        "timestamp": "2017-08-15T04:48:37.654000Z"
+      }
+    ]
+  }
+}

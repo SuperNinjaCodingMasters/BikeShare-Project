@@ -1,0 +1,378 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/metropolradruhr-oberhausen", 
+    "id": "metropolradruhr-oberhausen", 
+    "location": {
+      "city": "Oberhausen", 
+      "country": "DE", 
+      "latitude": 51.4936, 
+      "longitude": 6.85169
+    }, 
+    "name": "metropolradruhr", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "50277", 
+            "50755", 
+            "52717", 
+            "53514"
+          ], 
+          "number": "7004", 
+          "slots": 12, 
+          "uid": "50489"
+        }, 
+        "free_bikes": 4, 
+        "id": "e6e52ad2b7117985dd5f188fcc3e6b1c", 
+        "latitude": 51.4748074352, 
+        "longitude": 6.84960187612, 
+        "name": "Westausgang Hbf/LVR-Industriemuseum", 
+        "timestamp": "2017-08-15T04:46:39.127000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "53035", 
+            "51251"
+          ], 
+          "number": "7009", 
+          "slots": 8, 
+          "uid": "113402"
+        }, 
+        "free_bikes": 2, 
+        "id": "24410d0a7d303ba865ff10fbdd80e306", 
+        "latitude": 51.47025001629, 
+        "longitude": 6.8519282341003, 
+        "name": "Innenstadt Alt-OB/Bert-Brecht-Haus", 
+        "timestamp": "2017-08-15T04:46:39.148000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "7011", 
+          "slots": 12, 
+          "uid": "113427"
+        }, 
+        "free_bikes": 0, 
+        "id": "c7de7d49d6574944c00728120ae271c2", 
+        "latitude": 51.547402565823, 
+        "longitude": 6.853312253952, 
+        "name": "K\u00f6nigshardt Falkestr.", 
+        "timestamp": "2017-08-15T04:46:39.149000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "52908"
+          ], 
+          "number": "7012", 
+          "slots": 9, 
+          "uid": "110792"
+        }, 
+        "free_bikes": 1, 
+        "id": "2a3076bd7d50a4e496c417e8ce395d06", 
+        "latitude": 51.541250650293, 
+        "longitude": 6.818733215332, 
+        "name": "Schmachtendorf Mitte", 
+        "timestamp": "2017-08-15T04:46:39.138000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "50171", 
+            "52834", 
+            "53075", 
+            "53497", 
+            "50050"
+          ], 
+          "number": "7006", 
+          "slots": 10, 
+          "uid": "50491"
+        }, 
+        "free_bikes": 7, 
+        "id": "736d640cf8001f9e04c1b4a554e852a6", 
+        "latitude": 51.4733664218, 
+        "longitude": 6.85985159142, 
+        "name": "Rathaus Oberhausen", 
+        "timestamp": "2017-08-15T04:46:39.130000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "50324", 
+            "53852", 
+            "52988", 
+            "52827", 
+            "52006"
+          ], 
+          "number": "7001", 
+          "slots": 20, 
+          "uid": "50486"
+        }, 
+        "free_bikes": 11, 
+        "id": "3873e6e9cae8107be687848eb4dcb04b", 
+        "latitude": 51.473701766939, 
+        "longitude": 6.8535321950913, 
+        "name": "Hauptbahnhof Oberhausen", 
+        "timestamp": "2017-08-15T04:46:39.115000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "50033", 
+            "51360", 
+            "51235", 
+            "50903"
+          ], 
+          "number": "7019", 
+          "slots": 12, 
+          "uid": "137826"
+        }, 
+        "free_bikes": 4, 
+        "id": "3b9376af2a297fef6fe34031a92b93f2", 
+        "latitude": 51.493545100205, 
+        "longitude": 6.8808478116989, 
+        "name": "Marina / Sea Life", 
+        "timestamp": "2017-08-15T04:46:39.165000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "53858", 
+            "53526", 
+            "51248"
+          ], 
+          "number": "7002", 
+          "slots": 18, 
+          "uid": "50487"
+        }, 
+        "free_bikes": 3, 
+        "id": "aa7ae5886049f2cf27935d24abf7a746", 
+        "latitude": 51.4896740336, 
+        "longitude": 6.87408146395, 
+        "name": "Neue Mitte / CentrO.", 
+        "timestamp": "2017-08-15T04:46:39.119000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "50473", 
+            "52656"
+          ], 
+          "number": "7015", 
+          "slots": 7, 
+          "uid": "113430"
+        }, 
+        "free_bikes": 2, 
+        "id": "354932dc487c99605a07e3bb323397d1", 
+        "latitude": 51.470567467961, 
+        "longitude": 6.8861263990402, 
+        "name": "Wehrstr. / Mellinghofer Str.", 
+        "timestamp": "2017-08-15T04:46:39.151000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "50780"
+          ], 
+          "number": "7016", 
+          "slots": 6, 
+          "uid": "113431"
+        }, 
+        "free_bikes": 1, 
+        "id": "c45465ea7c8ae3810d2e3332ead184a4", 
+        "latitude": 51.46293799177, 
+        "longitude": 6.834579706192, 
+        "name": "Alstaden Flockenfeld", 
+        "timestamp": "2017-08-15T04:46:39.154000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "53844"
+          ], 
+          "number": "7008", 
+          "slots": 14, 
+          "uid": "50493"
+        }, 
+        "free_bikes": 1, 
+        "id": "2bf8fd84499bd6c7cf354eafce76af19", 
+        "latitude": 51.4686467247, 
+        "longitude": 6.85504242213, 
+        "name": "Marktstr. / W\u00f6rthstr.", 
+        "timestamp": "2017-08-15T04:46:39.135000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "31317"
+          ], 
+          "number": "7010", 
+          "slots": 10, 
+          "uid": "121102"
+        }, 
+        "free_bikes": 1, 
+        "id": "e207feca6ae4260d300d9a0a04b32762", 
+        "latitude": 51.500247790067, 
+        "longitude": 6.8851017951965, 
+        "name": "Osterfeld S\u00fcdbahnhof", 
+        "timestamp": "2017-08-15T04:46:39.155000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "7005", 
+          "slots": 8, 
+          "uid": "50490"
+        }, 
+        "free_bikes": 0, 
+        "id": "77141a8aacbe0f23852b863975538a70", 
+        "latitude": 51.4926729231, 
+        "longitude": 6.86116540274, 
+        "name": "Schloss Oberhausen", 
+        "timestamp": "2017-08-15T04:46:39.129000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "53403", 
+            "53590", 
+            "53664", 
+            "53884", 
+            "53846"
+          ], 
+          "number": "7007", 
+          "slots": 11, 
+          "uid": "50492"
+        }, 
+        "free_bikes": 5, 
+        "id": "fdf0d89fae250a1d61e8cdf0a8a0c7f7", 
+        "latitude": 51.5153917414, 
+        "longitude": 6.84937773713, 
+        "name": "Innenstadt Sterkrade", 
+        "timestamp": "2017-08-15T04:46:39.132000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "53391", 
+            "53677", 
+            "53258"
+          ], 
+          "number": "7003", 
+          "slots": 10, 
+          "uid": "50488"
+        }, 
+        "free_bikes": 3, 
+        "id": "31ff199a340e019503567c1a5e886136", 
+        "latitude": 51.5125689977, 
+        "longitude": 6.84445623286, 
+        "name": "Sterkrade Bahnhof", 
+        "timestamp": "2017-08-15T04:46:39.125000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "7018", 
+          "slots": 10, 
+          "uid": "137822"
+        }, 
+        "free_bikes": 0, 
+        "id": "11387f57830997ec74a7e88446ef1a30", 
+        "latitude": 51.50297266764, 
+        "longitude": 6.8325304985046, 
+        "name": "Buschhausen Mitte", 
+        "timestamp": "2017-08-15T04:46:39.161000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "53547", 
+            "53546"
+          ], 
+          "number": "7020", 
+          "slots": 9, 
+          "uid": "137827"
+        }, 
+        "free_bikes": 2, 
+        "id": "b9851dbfb2047f8463d3e8e45da415cd", 
+        "latitude": 51.461474109356, 
+        "longitude": 6.851863861084, 
+        "name": "Styrum Josefstr.", 
+        "timestamp": "2017-08-15T04:46:39.166000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "50691", 
+            "53831", 
+            "53837"
+          ], 
+          "number": "7013", 
+          "slots": 10, 
+          "uid": "112102"
+        }, 
+        "free_bikes": 3, 
+        "id": "b653e960ea128d5904189caf40e9df89", 
+        "latitude": 51.533736445247, 
+        "longitude": 6.8104076385498, 
+        "name": "Holten Bahnhof", 
+        "timestamp": "2017-08-15T04:46:39.146000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "50616", 
+            "51113", 
+            "52454"
+          ], 
+          "number": "7017", 
+          "slots": 10, 
+          "uid": "137814"
+        }, 
+        "free_bikes": 3, 
+        "id": "d4cea3715075c11dbd91772ea33471e7", 
+        "latitude": 51.481336124979, 
+        "longitude": 6.8346869945526, 
+        "name": "Lirich Wickstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:39.156000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "20020"
+          ], 
+          "number": "7021", 
+          "slots": 10, 
+          "uid": "137828"
+        }, 
+        "free_bikes": 1, 
+        "id": "92974eec0dd997d1284c31443b0c3853", 
+        "latitude": 51.528183411475, 
+        "longitude": 6.8323588371277, 
+        "name": "Alsfeld J\u00e4gerstr.", 
+        "timestamp": "2017-08-15T04:46:39.167000Z"
+      }
+    ]
+  }
+}

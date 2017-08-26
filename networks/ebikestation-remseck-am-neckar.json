@@ -1,0 +1,37 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-remseck-am-neckar", 
+    "id": "ebikestation-remseck-am-neckar", 
+    "location": {
+      "city": "Remseck am Neckar", 
+      "country": "DE", 
+      "latitude": 48.8767, 
+      "longitude": 9.26179
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "91704", 
+            "91703", 
+            "91640"
+          ], 
+          "number": "5814", 
+          "slots": 10, 
+          "uid": "529161"
+        }, 
+        "free_bikes": 8, 
+        "id": "ccee6c269570da5eb6d3cc24676b9f43", 
+        "latitude": 48.873617446202, 
+        "longitude": 9.2712754011154, 
+        "name": "E-Bike-Station Remseck am Neckar", 
+        "timestamp": "2017-08-15T04:46:06.751000Z"
+      }
+    ]
+  }
+}

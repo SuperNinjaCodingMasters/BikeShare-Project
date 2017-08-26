@@ -1,0 +1,69 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/sondrio", 
+    "id": "sondrio", 
+    "location": {
+      "city": "Sondrio", 
+      "country": "IT", 
+      "latitude": 46.1698583, 
+      "longitude": 9.8787674
+    }, 
+    "name": "Sondrio", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Don Bosco", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "b8206f10056a800606793e148a0ab411", 
+        "latitude": 46.17188511103739, 
+        "longitude": 9.884421168231256, 
+        "name": "Cimitero", 
+        "timestamp": "2017-08-15T04:48:39.121000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "4e300b76f62d9e6343477a62da680159", 
+        "latitude": 46.169893889646374, 
+        "longitude": 9.857329115621951, 
+        "name": "Parco Ovest", 
+        "timestamp": "2017-08-15T04:48:39.129000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazzale Bertacchi", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "ef597df1612cf2758bceecc8ad0b74a6", 
+        "latitude": 46.168447925810916, 
+        "longitude": 9.872371495106563, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:48:39.130000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Largo Sindelfinger", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "7cd97c919efb05a6dd6a15762c92c370", 
+        "latitude": 46.163319597336105, 
+        "longitude": 9.860848000000033, 
+        "name": "Piastra", 
+        "timestamp": "2017-08-15T04:48:39.132000Z"
+      }
+    ]
+  }
+}

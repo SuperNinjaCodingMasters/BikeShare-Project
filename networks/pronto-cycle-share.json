@@ -1,0 +1,667 @@
+{
+  "network": {
+    "company": [
+      "Pronto!", 
+      "Alta Bicycle Share, Inc"
+    ], 
+    "href": "/v2/networks/pronto-cycle-share", 
+    "id": "pronto-cycle-share", 
+    "location": {
+      "city": "Seattle, WA", 
+      "country": "US", 
+      "latitude": 47.606209, 
+      "longitude": -122.332071
+    }, 
+    "name": "Pronto Cycle Share", 
+    "stations": [
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "UW-12"
+        }, 
+        "free_bikes": 0, 
+        "id": "3b9bd42cec806baa1df40931bad4f3d1", 
+        "latitude": 47.649077005649, 
+        "longitude": -122.30411767959593, 
+        "name": "Husky Stadium U-Link/ Montlake Blvd NE & Walla Walla Rd NE", 
+        "timestamp": "2017-04-28T21:05:20.430000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "BT-06"
+        }, 
+        "free_bikes": 0, 
+        "id": "ad30724c374801327a18977993dd5414", 
+        "latitude": 47.6165394443116, 
+        "longitude": -122.34962461530813, 
+        "name": "Cedar St & 2nd Ave", 
+        "timestamp": "2017-04-28T21:05:20.432000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "WF-03"
+        }, 
+        "free_bikes": 0, 
+        "id": "4f03b4bbd8705040505dd61d59ff5587", 
+        "latitude": 47.6113702774959, 
+        "longitude": -122.34870150223287, 
+        "name": "Pier 66 / Alaskan Way & Bell St", 
+        "timestamp": "2017-04-28T21:05:20.428000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "DPD-01"
+        }, 
+        "free_bikes": 0, 
+        "id": "639340e25c94d492b54d2b6170ef1a33", 
+        "latitude": 47.62429822003364, 
+        "longitude": -122.33961671590805, 
+        "name": "9th Ave N & Mercer St", 
+        "timestamp": "2017-04-28T21:05:20.339000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "DPD-03"
+        }, 
+        "free_bikes": 0, 
+        "id": "7b976359c78289d04eb466286313de2d", 
+        "latitude": 47.663509, 
+        "longitude": -122.284119, 
+        "name": "Children's Hospital / Sandpoint Way NE & 40th Ave NE", 
+        "timestamp": "2017-04-28T21:05:20.340000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "uid": "EL-01"
+        }, 
+        "free_bikes": 0, 
+        "id": "08f911e3fbf215b45d95a62bcf7b5a47", 
+        "latitude": 47.62764250568059, 
+        "longitude": -122.33257591724396, 
+        "name": "Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St", 
+        "timestamp": "2017-04-28T21:05:20.347000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "EL-03"
+        }, 
+        "free_bikes": 0, 
+        "id": "e2f9ad5d64aeb4e0c95cb3895d07423d", 
+        "latitude": 47.634830639717386, 
+        "longitude": -122.32663415372372, 
+        "name": "E Blaine St & Fairview Ave E", 
+        "timestamp": "2017-04-28T21:05:20.354000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "EL-05"
+        }, 
+        "free_bikes": 0, 
+        "id": "0d9579b365ee9f38f545e4f0171d260c", 
+        "latitude": 47.64909, 
+        "longitude": -122.322983, 
+        "name": "Eastlake Ave E & E Allison St", 
+        "timestamp": "2017-04-28T21:05:20.356000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "FH-04"
+        }, 
+        "free_bikes": 0, 
+        "id": "dd0e7ed6a3a45f723971360f37564ed5", 
+        "latitude": 47.6092385, 
+        "longitude": -122.3166509, 
+        "name": "Seattle University / E Columbia St & 12th Ave", 
+        "timestamp": "2017-04-28T21:05:20.357000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "ID-04"
+        }, 
+        "free_bikes": 0, 
+        "id": "7679eeb642f341c5822be62cd919c5b3", 
+        "latitude": 47.598488, 
+        "longitude": -122.326412, 
+        "name": "6th Ave S & S King St", 
+        "timestamp": "2017-04-28T21:05:20.359000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "PS-05"
+        }, 
+        "free_bikes": 0, 
+        "id": "053bc0b4f3cb0460567ec8ddbd5f28e8", 
+        "latitude": 47.598994, 
+        "longitude": -122.329684, 
+        "name": "King Street Station Plaza / 2nd Ave Extension S & S Jackson St", 
+        "timestamp": "2017-04-28T21:05:20.360000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": "PS-04"
+        }, 
+        "free_bikes": 0, 
+        "id": "0857a490e7b2bbed550be59e88c6336a", 
+        "latitude": 47.600757436417986, 
+        "longitude": -122.33294606208801, 
+        "name": "Occidental Park / Occidental Ave S & S Washington St", 
+        "timestamp": "2017-04-28T21:05:20.361000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": "SLU-01"
+        }, 
+        "free_bikes": 0, 
+        "id": "d05367a30ce3818212d3f46c745a214e", 
+        "latitude": 47.619859, 
+        "longitude": -122.3303036, 
+        "name": "REI / Yale Ave N & John St", 
+        "timestamp": "2017-04-28T21:05:20.363000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "uid": "SLU-02"
+        }, 
+        "free_bikes": 0, 
+        "id": "26dc94230e0fd4e6532f429c9dc47144", 
+        "latitude": 47.627735, 
+        "longitude": -122.342232, 
+        "name": "Dexter Ave N & Aloha St", 
+        "timestamp": "2017-04-28T21:05:20.365000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "SLU-04"
+        }, 
+        "free_bikes": 0, 
+        "id": "fefdd674d686332466a6ae5695c2e2bd", 
+        "latitude": 47.623165, 
+        "longitude": -122.338203, 
+        "name": "Republican St & Westlake Ave N", 
+        "timestamp": "2017-04-28T21:05:20.366000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "SLU-07"
+        }, 
+        "free_bikes": 0, 
+        "id": "967717ecc6f29e04a171a408e3bb9326", 
+        "latitude": 47.61832, 
+        "longitude": -122.338913, 
+        "name": "PATH / 9th Ave & Westlake Ave", 
+        "timestamp": "2017-04-28T21:05:20.367000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "SLU-15"
+        }, 
+        "free_bikes": 0, 
+        "id": "3e5ce252a5cb535878d5b5da5a24b05c", 
+        "latitude": 47.613628, 
+        "longitude": -122.337341, 
+        "name": "Westlake Ave & 6th Ave", 
+        "timestamp": "2017-04-28T21:05:20.370000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "SLU-23"
+        }, 
+        "free_bikes": 0, 
+        "id": "5177a0d3bed9825cabae8bbd59d1f108", 
+        "latitude": 47.627208664485956, 
+        "longitude": -122.33963012695312, 
+        "name": "Lake Union Park / Westlake Ave & Aloha St", 
+        "timestamp": "2017-04-28T21:05:20.380000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "SLU-19"
+        }, 
+        "free_bikes": 0, 
+        "id": "1c0ea7883504c20ba0d00e41b16059ee", 
+        "latitude": 47.622277, 
+        "longitude": -122.35523, 
+        "name": "Key Arena / 1st Ave N & Harrison St", 
+        "timestamp": "2017-04-28T21:05:20.381000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "UD-01"
+        }, 
+        "free_bikes": 0, 
+        "id": "05398970f232135297e7a277f0b76302", 
+        "latitude": 47.666145, 
+        "longitude": -122.301491, 
+        "name": "Burke-Gilman Trail / NE Blakeley St & 24th Ave NE", 
+        "timestamp": "2017-04-28T21:05:20.382000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": "UD-02"
+        }, 
+        "free_bikes": 0, 
+        "id": "cacef7bfe8afb3b0c55c0804f545b9c4", 
+        "latitude": 47.65828788527071, 
+        "longitude": -122.3133337497711, 
+        "name": "NE 42nd St & University Way NE", 
+        "timestamp": "2017-04-28T21:05:20.386000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "UD-04"
+        }, 
+        "free_bikes": 0, 
+        "id": "3695856c5df49094bab8884c88894ada", 
+        "latitude": 47.656395, 
+        "longitude": -122.31562, 
+        "name": "12th Ave & NE Campus Pkwy", 
+        "timestamp": "2017-04-28T21:05:20.387000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "UD-07"
+        }, 
+        "free_bikes": 0, 
+        "id": "932a5675dbf0585784799ff48532ef5d", 
+        "latitude": 47.663143, 
+        "longitude": -122.315086, 
+        "name": "NE 47th St & 12th Ave NE", 
+        "timestamp": "2017-04-28T21:05:20.388000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": "UW-02"
+        }, 
+        "free_bikes": 0, 
+        "id": "9021bed86ea1c5bd8ca226f41220ec37", 
+        "latitude": 47.659756, 
+        "longitude": -122.310402, 
+        "name": "Burke Museum / E Stevens Way NE & Memorial Way NE", 
+        "timestamp": "2017-04-28T21:05:20.393000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "UW-04"
+        }, 
+        "free_bikes": 0, 
+        "id": "9903248f0be135457f1270d1fce70c53", 
+        "latitude": 47.65559, 
+        "longitude": -122.31189, 
+        "name": "15th Ave NE & NE 40th St", 
+        "timestamp": "2017-04-28T21:05:20.395000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": "UW-06"
+        }, 
+        "free_bikes": 0, 
+        "id": "932fa94c7a202620bf41d59d9f7d8010", 
+        "latitude": 47.654613, 
+        "longitude": -122.304863, 
+        "name": "UW Engineering Library / E Stevens Way NE & Jefferson Rd", 
+        "timestamp": "2017-04-28T21:05:20.400000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "UW-07"
+        }, 
+        "free_bikes": 0, 
+        "id": "f8224e516f954d69ca59968e244e09c0", 
+        "latitude": 47.653713, 
+        "longitude": -122.302162, 
+        "name": "UW Intramural Activities Building", 
+        "timestamp": "2017-04-28T21:05:20.404000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "uid": "WF-01"
+        }, 
+        "free_bikes": 0, 
+        "id": "795d64f22fb039fcb4c14b4d3eac49bb", 
+        "latitude": 47.6143147067937, 
+        "longitude": -122.35409259796143, 
+        "name": "Pier 69 / Alaskan Way & Clay St", 
+        "timestamp": "2017-04-28T21:05:20.406000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "WF-04"
+        }, 
+        "free_bikes": 0, 
+        "id": "37404b1c2ef58e72ed052bcd6ce40453", 
+        "latitude": 47.607701975483025, 
+        "longitude": -122.34164983034134, 
+        "name": "Seattle Aquarium / Alaskan Way S & Elliott Bay Trail", 
+        "timestamp": "2017-04-28T21:05:20.407000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "CBD-05"
+        }, 
+        "free_bikes": 0, 
+        "id": "62fe15e4c3e634b631710de1d548844e", 
+        "latitude": 47.604058, 
+        "longitude": -122.3358, 
+        "name": "1st Ave & Marion St", 
+        "timestamp": "2017-04-28T21:05:20.409000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "SLU-20"
+        }, 
+        "free_bikes": 0, 
+        "id": "37efb37da7edc9921e6737a34df9de0a", 
+        "latitude": 47.61626021313671, 
+        "longitude": -122.33381509780884, 
+        "name": "Terry Ave & Stewart St", 
+        "timestamp": "2017-04-28T21:05:20.411000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "CBD-04"
+        }, 
+        "free_bikes": 0, 
+        "id": "fd3b2ebecc39ad188b07cbe6a2a85cf4", 
+        "latitude": 47.609221196547736, 
+        "longitude": -122.33559608459473, 
+        "name": "Union St & 4th Ave", 
+        "timestamp": "2017-04-28T21:05:20.418000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "SLU-21"
+        }, 
+        "free_bikes": 0, 
+        "id": "38f514b7a52fa703ad45c17c3077baea", 
+        "latitude": 47.62476901904197, 
+        "longitude": -122.33940815582173, 
+        "name": "Mercer St & 9th Ave N", 
+        "timestamp": "2017-04-28T21:05:20.420000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "UW-11"
+        }, 
+        "free_bikes": 0, 
+        "id": "92a931cff37b279adf2fcdb5376d71db", 
+        "latitude": 47.64995154891738, 
+        "longitude": -122.30626344680786, 
+        "name": "NE Pacific St/UW Medical Center", 
+        "timestamp": "2017-04-28T21:05:20.421000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "CH-16"
+        }, 
+        "free_bikes": 0, 
+        "id": "1d493001416979bd0e24e848b27fb163", 
+        "latitude": 47.61863956301253, 
+        "longitude": -122.32077687978745, 
+        "name": "Broadway and E Denny Way", 
+        "timestamp": "2017-04-28T21:05:20.422000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "SLU-22"
+        }, 
+        "free_bikes": 0, 
+        "id": "d964b13b92210a538703b2a057b72d8f", 
+        "latitude": 47.62087852950126, 
+        "longitude": -122.34737692415365, 
+        "name": "Thomas St & 5th Ave N", 
+        "timestamp": "2017-04-28T21:05:20.425000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "BT-01"
+        }, 
+        "free_bikes": 0, 
+        "id": "3dd4529b533cdde2e048787df3c5741d", 
+        "latitude": 47.618418, 
+        "longitude": -122.350964, 
+        "name": "3rd Ave & Broad St", 
+        "timestamp": "2017-04-28T21:05:20.271000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "BT-04"
+        }, 
+        "free_bikes": 0, 
+        "id": "e060e71fc100968527fe2dd88cafabea", 
+        "latitude": 47.616094, 
+        "longitude": -122.341102, 
+        "name": "6th Ave & Blanchard St", 
+        "timestamp": "2017-04-28T21:05:20.284000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "BT-05"
+        }, 
+        "free_bikes": 0, 
+        "id": "68a4faf4c58680b7a5a4f6f401410b99", 
+        "latitude": 47.61311, 
+        "longitude": -122.344208, 
+        "name": "2nd Ave & Blanchard St", 
+        "timestamp": "2017-04-28T21:05:20.287000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "CBD-13"
+        }, 
+        "free_bikes": 0, 
+        "id": "91c4e890adefb4dbfc2293bca9e15b95", 
+        "latitude": 47.61018478614445, 
+        "longitude": -122.33964085578917, 
+        "name": "2nd Ave & Pine St", 
+        "timestamp": "2017-04-28T21:05:20.290000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "CBD-03"
+        }, 
+        "free_bikes": 0, 
+        "id": "68d078e3c816b392f7b42bef61ccb88b", 
+        "latitude": 47.6107308801781, 
+        "longitude": -122.33244717121124, 
+        "name": "7th Ave & Union St", 
+        "timestamp": "2017-04-28T21:05:20.293000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "CBD-07"
+        }, 
+        "free_bikes": 0, 
+        "id": "ed0411387de982880df8721af63ba3f3", 
+        "latitude": 47.6035087, 
+        "longitude": -122.3304088, 
+        "name": "City Hall / 4th Ave & James St", 
+        "timestamp": "2017-04-28T21:05:20.295000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "SLU-16"
+        }, 
+        "free_bikes": 0, 
+        "id": "af93537cd06e695f4fe78489969e9316", 
+        "latitude": 47.61371466, 
+        "longitude": -122.3317774, 
+        "name": "Pine St & 9th Ave", 
+        "timestamp": "2017-04-28T21:05:20.298000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "CBD-06"
+        }, 
+        "free_bikes": 0, 
+        "id": "e9183777390ff970d70d11b7d893d6b8", 
+        "latitude": 47.605949651421795, 
+        "longitude": -122.33576774597168, 
+        "name": "2nd Ave & Spring St", 
+        "timestamp": "2017-04-28T21:05:20.300000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "CH-01"
+        }, 
+        "free_bikes": 0, 
+        "id": "30d0b464e36d708e35a6033c3e574b92", 
+        "latitude": 47.618633, 
+        "longitude": -122.325249, 
+        "name": "Summit Ave & E Denny Way", 
+        "timestamp": "2017-04-28T21:05:20.303000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "CH-02"
+        }, 
+        "free_bikes": 0, 
+        "id": "84c966cf0dfccf9faab17985e5eaed28", 
+        "latitude": 47.622063, 
+        "longitude": -122.321251, 
+        "name": "E Harrison St & Broadway Ave E", 
+        "timestamp": "2017-04-28T21:05:20.306000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "CH-03"
+        }, 
+        "free_bikes": 0, 
+        "id": "1bc7e0dfac4de80384bb67bf176604e9", 
+        "latitude": 47.623367, 
+        "longitude": -122.325279, 
+        "name": "Summit Ave E & E Republican St", 
+        "timestamp": "2017-04-28T21:05:20.307000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "CH-05"
+        }, 
+        "free_bikes": 0, 
+        "id": "6d2bb10f8c2bd59af7fc94b6ae6092c4", 
+        "latitude": 47.620712, 
+        "longitude": -122.312805, 
+        "name": "15th Ave E & E Thomas St", 
+        "timestamp": "2017-04-28T21:05:20.309000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "CH-06"
+        }, 
+        "free_bikes": 0, 
+        "id": "c46343d3858ae9c4ea6aa80eab6ba34a", 
+        "latitude": 47.618549, 
+        "longitude": -122.317017, 
+        "name": "12th Ave & E Denny Way", 
+        "timestamp": "2017-04-28T21:05:20.311000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "CH-07"
+        }, 
+        "free_bikes": 0, 
+        "id": "52a201ab555049aef9925290c3792b01", 
+        "latitude": 47.61533, 
+        "longitude": -122.311752, 
+        "name": "E Pine St & 16th Ave", 
+        "timestamp": "2017-04-28T21:05:20.316000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "CH-08"
+        }, 
+        "free_bikes": 0, 
+        "id": "00111e44e2d5b9b4d288506053ee124a", 
+        "latitude": 47.615486, 
+        "longitude": -122.318245, 
+        "name": "Cal Anderson Park / 11th Ave & Pine St", 
+        "timestamp": "2017-04-28T21:05:20.317000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "CH-09"
+        }, 
+        "free_bikes": 0, 
+        "id": "714058b3e0227be5a9c1698ca8a1fa01", 
+        "latitude": 47.615517, 
+        "longitude": -122.322083, 
+        "name": "Harvard Ave & E Pine St", 
+        "timestamp": "2017-04-28T21:05:20.324000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "CH-12"
+        }, 
+        "free_bikes": 0, 
+        "id": "c2cf84e8edd07d31657a662a473464bb", 
+        "latitude": 47.615456, 
+        "longitude": -122.326729, 
+        "name": "Bellevue Ave & E Pine St", 
+        "timestamp": "2017-04-28T21:05:20.330000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "CH-15"
+        }, 
+        "free_bikes": 0, 
+        "id": "234e8f57d9c4c14390709fcc6773e6cb", 
+        "latitude": 47.624142, 
+        "longitude": -122.316811, 
+        "name": "12th Ave & E Mercer St", 
+        "timestamp": "2017-04-28T21:05:20.334000Z"
+      }
+    ]
+  }
+}

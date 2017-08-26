@@ -1,0 +1,2596 @@
+{
+  "network": {
+    "company": [
+      "ClearChannel"
+    ], 
+    "href": "/v2/networks/bizi", 
+    "id": "bizi", 
+    "location": {
+      "city": "Zaragoza", 
+      "country": "ES", 
+      "latitude": 41.6487908, 
+      "longitude": -0.8895811
+    }, 
+    "name": "Bizi", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            52, 
+            54, 
+            125, 
+            126, 
+            129
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 128
+        }, 
+        "free_bikes": 12, 
+        "id": "f520fabba43a08beaeb1807a4787a146", 
+        "latitude": 41.650561, 
+        "longitude": -0.90325, 
+        "name": "128 - C/ Bolivia - P\u00ba Calanda", 
+        "timestamp": "2017-08-15T04:46:14.203000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            43, 
+            44, 
+            47, 
+            91, 
+            106
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 92
+        }, 
+        "free_bikes": 11, 
+        "id": "5c31affc8aef4a3c5fc29461db69b460", 
+        "latitude": 41.640736, 
+        "longitude": -0.890143, 
+        "name": "92 - C/ San Juan de la Cruz - C/ Manuel Lasala", 
+        "timestamp": "2017-08-15T04:46:14.124000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            2, 
+            3, 
+            69
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 1
+        }, 
+        "free_bikes": 6, 
+        "id": "179a203e4850dffbbd759d97bb6c6a01", 
+        "latitude": 41.670464, 
+        "longitude": -0.904667, 
+        "name": "1 - Avda. Pablo Ruiz Picasso - Torre del Agua", 
+        "timestamp": "2017-08-15T04:46:13.909000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            1, 
+            3, 
+            69
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 2
+        }, 
+        "free_bikes": 10, 
+        "id": "2c37f9feb67c561fb174a82db893456e", 
+        "latitude": 41.672356, 
+        "longitude": -0.897986, 
+        "name": "2 - Avda. Ranillas - Avda. Pablo Ruiz Picasso", 
+        "timestamp": "2017-08-15T04:46:13.918000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            2, 
+            12, 
+            65, 
+            67
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 3
+        }, 
+        "free_bikes": 12, 
+        "id": "ecd1ebb6d6db3a1bb06bf9cdf968dab8", 
+        "latitude": 41.667017, 
+        "longitude": -0.893514, 
+        "name": "3 - Pasarela del Voluntariado - Avda. Ranillas", 
+        "timestamp": "2017-08-15T04:46:13.919000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            5, 
+            11, 
+            65, 
+            94
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 4
+        }, 
+        "free_bikes": 14, 
+        "id": "1f069defb30a81b025d0b47769729963", 
+        "latitude": 41.662183, 
+        "longitude": -0.888647, 
+        "name": "4 - Avda. Ranillas - Puente de La Almozara", 
+        "timestamp": "2017-08-15T04:46:13.920000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            4, 
+            10, 
+            57, 
+            94
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 5
+        }, 
+        "free_bikes": 7, 
+        "id": "d686f360b74d0512cdbd9415ae6173c6", 
+        "latitude": 41.660311, 
+        "longitude": -0.8811, 
+        "name": "5 - P\u00ba de la Ribera - Puente de Santiago", 
+        "timestamp": "2017-08-15T04:46:13.922000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            7, 
+            8, 
+            9, 
+            57
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 6
+        }, 
+        "free_bikes": 8, 
+        "id": "eaaaf1ace09ad8cb09f0015c65b67f26", 
+        "latitude": 41.656556, 
+        "longitude": -0.869969, 
+        "name": "6 - P\u00ba de la Ribera - Puente del Pilar", 
+        "timestamp": "2017-08-15T04:46:13.923000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            8, 
+            18, 
+            35, 
+            101
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 7
+        }, 
+        "free_bikes": 11, 
+        "id": "37d3cb39eb7c897b08eb666f62ce0b27", 
+        "latitude": 41.652764, 
+        "longitude": -0.866356, 
+        "name": "7 - P\u00ba Echegaray y Caballero - Pasarela del Huerva", 
+        "timestamp": "2017-08-15T04:46:13.931000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "NearbyStationList": [
+            6, 
+            7, 
+            9, 
+            34
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 8
+        }, 
+        "free_bikes": 15, 
+        "id": "d3e0a5be6112799adc1e4a8b537a1f7b", 
+        "latitude": 41.654153, 
+        "longitude": -0.870714, 
+        "name": "8 - P\u00ba Echegaray y Caballero - Puente del Pilar", 
+        "timestamp": "2017-08-15T04:46:13.932000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            8, 
+            10, 
+            33, 
+            57
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 9
+        }, 
+        "free_bikes": 19, 
+        "id": "1a5f66e6c4b9d16bc724926cf128253a", 
+        "latitude": 41.656, 
+        "longitude": -0.875708, 
+        "name": "9 - P\u00ba Echegaray y Caballero - Puente de Piedra", 
+        "timestamp": "2017-08-15T04:46:13.933000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            5, 
+            21, 
+            33, 
+            89
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 10
+        }, 
+        "free_bikes": 0, 
+        "id": "e7066a18b896aedbe6779fa56cbd1aec", 
+        "latitude": 41.6579, 
+        "longitude": -0.881386, 
+        "name": "10 - P\u00ba Echegaray y Caballero - Puente de Santiago", 
+        "timestamp": "2017-08-15T04:46:13.934000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            4, 
+            31, 
+            87, 
+            89
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 11
+        }, 
+        "free_bikes": 7, 
+        "id": "11e606e04014186d6550f1ba1b984ce2", 
+        "latitude": 41.659314, 
+        "longitude": -0.891683, 
+        "name": "11 - P\u00ba Echegaray y Caballero - Puente de La Almozara", 
+        "timestamp": "2017-08-15T04:46:13.936000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            3, 
+            30, 
+            31, 
+            86
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 12
+        }, 
+        "free_bikes": 14, 
+        "id": "bd7c72690b56cc9ab9220936de2c9213", 
+        "latitude": 41.663519, 
+        "longitude": -0.896167, 
+        "name": "12 - Pasarela del Voluntariado - Avda. Almozara", 
+        "timestamp": "2017-08-15T04:46:13.937000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            14, 
+            22, 
+            30, 
+            85
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 13
+        }, 
+        "free_bikes": 10, 
+        "id": "92ab39451fabbf56ae5fa543abffbff5", 
+        "latitude": 41.661713, 
+        "longitude": -0.907089, 
+        "name": "13 - C/ Francia - Pabell\u00f3n Puente", 
+        "timestamp": "2017-08-15T04:46:13.939000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            13, 
+            22, 
+            88, 
+            127
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 14
+        }, 
+        "free_bikes": 12, 
+        "id": "90ae87056e444504ad51a7cc2e44f972", 
+        "latitude": 41.658256, 
+        "longitude": -0.908719, 
+        "name": "14 - Estaci\u00f3n Intermodal Delicias (Salidas)", 
+        "timestamp": "2017-08-15T04:46:13.941000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "NearbyStationList": [
+            27, 
+            28, 
+            29, 
+            51
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 15
+        }, 
+        "free_bikes": 15, 
+        "id": "9a7559b85ac0f3c45b5e51c037ad7d0b", 
+        "latitude": 41.651307, 
+        "longitude": -0.895703, 
+        "name": "15 - Estaci\u00f3n de Cercan\u00edas El Portillo ", 
+        "timestamp": "2017-08-15T04:46:13.945000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            20, 
+            24, 
+            99, 
+            102
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 16
+        }, 
+        "free_bikes": 10, 
+        "id": "ab9811b6c4719dfb1e162756f0e3f06c", 
+        "latitude": 41.651889, 
+        "longitude": -0.880647, 
+        "name": "16 - Plaza Espa\u00f1a", 
+        "timestamp": "2017-08-15T04:46:13.947000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            25, 
+            45, 
+            98, 
+            99
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 17
+        }, 
+        "free_bikes": 12, 
+        "id": "44b2bf621142dfdfd7dbb92ceb33bf44", 
+        "latitude": 41.647736, 
+        "longitude": -0.88425, 
+        "name": "17 - P\u00ba Constituci\u00f3n - Plaza Arag\u00f3n ", 
+        "timestamp": "2017-08-15T04:46:13.948000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            7, 
+            8, 
+            19, 
+            34
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 18
+        }, 
+        "free_bikes": 4, 
+        "id": "a6f31c1cfbc495f34dd581c0c7a76d42", 
+        "latitude": 41.650822, 
+        "longitude": -0.869839, 
+        "name": "18 - C/ Asalto - Edificio Trovador", 
+        "timestamp": "2017-08-15T04:46:13.949000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            25, 
+            34, 
+            96, 
+            102
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 19
+        }, 
+        "free_bikes": 3, 
+        "id": "9962612d8be67afcb575fcd80e1ecd26", 
+        "latitude": 41.648947, 
+        "longitude": -0.875617, 
+        "name": "19 - C/ Asalto - C/ Miguel Servet ", 
+        "timestamp": "2017-08-15T04:46:13.951000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            16, 
+            21, 
+            32, 
+            100
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 20
+        }, 
+        "free_bikes": 8, 
+        "id": "0ca44f925fa87b106ea69f91dd06ae58", 
+        "latitude": 41.652392, 
+        "longitude": -0.884256, 
+        "name": "20 - Plaza Salamero, 14", 
+        "timestamp": "2017-08-15T04:46:13.954000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            10, 
+            20, 
+            33, 
+            89
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 21
+        }, 
+        "free_bikes": 10, 
+        "id": "5c7def2bb8e53faa565785d0688d7ae9", 
+        "latitude": 41.654387, 
+        "longitude": -0.884251, 
+        "name": "21 - Avda. C\u00e9sar Augusto - Avda. Conde Aranda", 
+        "timestamp": "2017-08-15T04:46:13.963000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            13, 
+            14, 
+            88
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 22
+        }, 
+        "free_bikes": 13, 
+        "id": "fd84b37c2092093d9d22bb4e7abff6f4", 
+        "latitude": 41.659367, 
+        "longitude": -0.914292, 
+        "name": "22 - Estaci\u00f3n Intermodal Delicias (Llegadas)", 
+        "timestamp": "2017-08-15T04:46:13.964000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            35, 
+            55, 
+            56
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 23
+        }, 
+        "free_bikes": 11, 
+        "id": "bf3c01bc41244ca46cb837e894507648", 
+        "latitude": 41.652817, 
+        "longitude": -0.858058, 
+        "name": "23 - P\u00ba de La Ribera - Pasarela Azud", 
+        "timestamp": "2017-08-15T04:46:13.975000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            16, 
+            19, 
+            34, 
+            102
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 24
+        }, 
+        "free_bikes": 7, 
+        "id": "67be10467e2a142999f6cbe560595c53", 
+        "latitude": 41.652586, 
+        "longitude": -0.8771, 
+        "name": "24 - Plaza San Pedro Nolasco", 
+        "timestamp": "2017-08-15T04:46:13.978000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            16, 
+            17, 
+            19, 
+            24
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 25
+        }, 
+        "free_bikes": 9, 
+        "id": "342b712235c24e719ad23230a439fdd2", 
+        "latitude": 41.648389, 
+        "longitude": -0.879964, 
+        "name": "25 - Plaza de los Sitios ", 
+        "timestamp": "2017-08-15T04:46:13.979000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            32, 
+            48, 
+            100
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 26
+        }, 
+        "free_bikes": 8, 
+        "id": "b7e7c4aa571324917045e85e89f4e3d4", 
+        "latitude": 41.649364, 
+        "longitude": -0.887122, 
+        "name": "26 - P\u00ba Pamplona - Puerta del Carmen", 
+        "timestamp": "2017-08-15T04:46:13.980000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            15, 
+            26, 
+            28, 
+            104
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 27
+        }, 
+        "free_bikes": 11, 
+        "id": "9f3b65cda042e7d4053b37362b1a956c", 
+        "latitude": 41.651894, 
+        "longitude": -0.891453, 
+        "name": "27 - P\u00ba M\u00aa Agust\u00edn - Colegio Joaqu\u00edn Costa", 
+        "timestamp": "2017-08-15T04:46:13.981000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            15, 
+            27, 
+            87, 
+            104
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 28
+        }, 
+        "free_bikes": 8, 
+        "id": "26865893963b7927b84b124f3fad1f6b", 
+        "latitude": 41.655108, 
+        "longitude": -0.892086, 
+        "name": "28 - Plaza del Portillo - Plaza de Toros", 
+        "timestamp": "2017-08-15T04:46:13.983000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            28, 
+            31, 
+            53, 
+            87
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 29
+        }, 
+        "free_bikes": 13, 
+        "id": "879d3a3482c1f9fb865df86d3f2a58d0", 
+        "latitude": 41.655681, 
+        "longitude": -0.896614, 
+        "name": "29 - Avda. Madrid - Aljafer\u00eda", 
+        "timestamp": "2017-08-15T04:46:13.984000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            13, 
+            31, 
+            85, 
+            86
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 30
+        }, 
+        "free_bikes": 11, 
+        "id": "afd62f269f16db0918a381570724acb8", 
+        "latitude": 41.661219, 
+        "longitude": -0.901408, 
+        "name": "30 - Avda. Pablo Gargallo - Avda. Puerta Sancho", 
+        "timestamp": "2017-08-15T04:46:13.991000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            11, 
+            12, 
+            30, 
+            87
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 31
+        }, 
+        "free_bikes": 4, 
+        "id": "cb4d0a93d4bdeb2e48d3bb6d1185ff57", 
+        "latitude": 41.659908, 
+        "longitude": -0.895772, 
+        "name": "31 - Avda. Pablo Gargallo - C/ Ignacio Menaya", 
+        "timestamp": "2017-08-15T04:46:13.999000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            20, 
+            26, 
+            100, 
+            104
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 32
+        }, 
+        "free_bikes": 11, 
+        "id": "5c1a456414587b3ed24b1d7cc371f59f", 
+        "latitude": 41.65175, 
+        "longitude": -0.886503, 
+        "name": "32 - C/ Ram\u00f3n y Cajal - C/ Madre Rafols", 
+        "timestamp": "2017-08-15T04:46:14Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            9, 
+            10, 
+            20, 
+            21, 
+            24
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 33
+        }, 
+        "free_bikes": 12, 
+        "id": "5e539cbd90fab3ceb3422d11b51aa438", 
+        "latitude": 41.655553, 
+        "longitude": -0.878056, 
+        "name": "33 - Plaza del Pilar - Edificio Turismo ", 
+        "timestamp": "2017-08-15T04:46:14.001000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            8, 
+            18, 
+            19, 
+            24
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 34
+        }, 
+        "free_bikes": 8, 
+        "id": "4903efff1f7a3c5c2d05f6e07d05b19e", 
+        "latitude": 41.652117, 
+        "longitude": -0.873278, 
+        "name": "34 - Plaza Magdalena", 
+        "timestamp": "2017-08-15T04:46:14.001000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            7, 
+            56, 
+            101
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 35
+        }, 
+        "free_bikes": 9, 
+        "id": "5e0c311d17e3aab6e8283cfe61c5119b", 
+        "latitude": 41.651308, 
+        "longitude": -0.860592, 
+        "name": "35 - P\u00ba Echegaray y Caballero - C/ Salvador Minguij\u00f3n", 
+        "timestamp": "2017-08-15T04:46:14.002000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            18, 
+            37, 
+            38, 
+            101
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 36
+        }, 
+        "free_bikes": 8, 
+        "id": "b7b8ba6282f40598938670da3b164dd2", 
+        "latitude": 41.648447, 
+        "longitude": -0.866867, 
+        "name": "36 - Cno. de las Torres - C/ Silvestre P\u00e9rez", 
+        "timestamp": "2017-08-15T04:46:14.003000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            36, 
+            38, 
+            93
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 37
+        }, 
+        "free_bikes": 8, 
+        "id": "fa1358e86e26b6495cbb661861b64834", 
+        "latitude": 41.645003, 
+        "longitude": -0.868625, 
+        "name": "37 - C/ Florentino Ballesteros - C/ Matadero", 
+        "timestamp": "2017-08-15T04:46:14.004000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            19, 
+            36, 
+            37, 
+            93
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 38
+        }, 
+        "free_bikes": 12, 
+        "id": "4a2bcb0335c91551ce1d5f3905f72248", 
+        "latitude": 41.647044, 
+        "longitude": -0.872269, 
+        "name": "38 - Cno. de las Torres - C/ Roger de Tur", 
+        "timestamp": "2017-08-15T04:46:14.005000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            38, 
+            40, 
+            97, 
+            103
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 39
+        }, 
+        "free_bikes": 4, 
+        "id": "b6d78dad1dc5b84b60381247e8ddabe7", 
+        "latitude": 41.645286, 
+        "longitude": -0.877589, 
+        "name": "39 - Cno. de las Torres - Avda. Ces\u00e1reo Alierta", 
+        "timestamp": "2017-08-15T04:46:14.007000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            39, 
+            41, 
+            42, 
+            93
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 40
+        }, 
+        "free_bikes": 13, 
+        "id": "215e18d83c5a0cbf38ab28de3541d2af", 
+        "latitude": 41.642342, 
+        "longitude": -0.875236, 
+        "name": "40 - Avda. Ces\u00e1reo Alierta - C/ F\u00e9lix Burriel", 
+        "timestamp": "2017-08-15T04:46:14.011000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            42, 
+            44, 
+            98, 
+            103
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 41
+        }, 
+        "free_bikes": 4, 
+        "id": "8608402bdcbc03c572c13697e88b5a3b", 
+        "latitude": 41.642383, 
+        "longitude": -0.88235, 
+        "name": "41 - Plaza Schweitzer", 
+        "timestamp": "2017-08-15T04:46:14.013000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            40, 
+            41, 
+            43, 
+            44
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 42
+        }, 
+        "free_bikes": 11, 
+        "id": "624675cf0a947b59c78f510cac3f2e88", 
+        "latitude": 41.639786, 
+        "longitude": -0.881072, 
+        "name": "42 - Avda. Tenor Fleta - C/ Uncastillo", 
+        "timestamp": "2017-08-15T04:46:14.019000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            41, 
+            45, 
+            92, 
+            98
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 43
+        }, 
+        "free_bikes": 9, 
+        "id": "b226cc7421dc358bbeb7f39ad8bbf312", 
+        "latitude": 41.642956, 
+        "longitude": -0.887961, 
+        "name": "43 - Avda. Goya - C/ Arzobispo Domenech", 
+        "timestamp": "2017-08-15T04:46:14.020000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            41, 
+            42, 
+            43, 
+            92, 
+            106
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 44
+        }, 
+        "free_bikes": 5, 
+        "id": "1c914ff506ccd8bb1481adb8d00b5db1", 
+        "latitude": 41.640019, 
+        "longitude": -0.886489, 
+        "name": "44 - P\u00ba Sagasta - Cno. de las Torres", 
+        "timestamp": "2017-08-15T04:46:14.022000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            46, 
+            48, 
+            98
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 45
+        }, 
+        "free_bikes": 2, 
+        "id": "8b868ac9e35d4c28ffedbc19e9454b61", 
+        "latitude": 41.646481, 
+        "longitude": -0.887681, 
+        "name": "45 - C/ Gran V\u00eda - Facultad Econ\u00f3micas", 
+        "timestamp": "2017-08-15T04:46:14.023000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            43, 
+            45, 
+            49, 
+            90
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 46
+        }, 
+        "free_bikes": 1, 
+        "id": "b33c473eab7c4fd25b917322cdbbc9e0", 
+        "latitude": 41.644489, 
+        "longitude": -0.892669, 
+        "name": "46 - Avda. Goya - C/ Baltasar Graci\u00e1n ", 
+        "timestamp": "2017-08-15T04:46:14.023000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            90, 
+            91, 
+            92, 
+            130
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 47
+        }, 
+        "free_bikes": 10, 
+        "id": "72efb649c723f36cd96dcbeb8b47630e", 
+        "latitude": 41.641436, 
+        "longitude": -0.894883, 
+        "name": "47 - Plaza San Francisco - Universidad", 
+        "timestamp": "2017-08-15T04:46:14.024000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            26, 
+            45, 
+            46, 
+            105
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 48
+        }, 
+        "free_bikes": 12, 
+        "id": "acba8d3463524d221904a286590e5b29", 
+        "latitude": 41.647839, 
+        "longitude": -0.890431, 
+        "name": "48 - Plaza Mariano Arregui", 
+        "timestamp": "2017-08-15T04:46:14.025000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            27, 
+            51, 
+            90, 
+            105
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 49
+        }, 
+        "free_bikes": 12, 
+        "id": "c987fee9b5ee05290664147c71384d72", 
+        "latitude": 41.648047, 
+        "longitude": -0.893725, 
+        "name": "49 - Avda. Goya - Avda. Anselmo Clav\u00e9", 
+        "timestamp": "2017-08-15T04:46:14.026000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            52, 
+            90, 
+            123, 
+            130
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 50
+        }, 
+        "free_bikes": 11, 
+        "id": "194381e03cb06a47812cca09bf439793", 
+        "latitude": 41.644614, 
+        "longitude": -0.900369, 
+        "name": "50 - Avda. San Juan Bosco - C/ Men\u00e9ndez Pelayo", 
+        "timestamp": "2017-08-15T04:46:14.029000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            15, 
+            49, 
+            52, 
+            129
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 51
+        }, 
+        "free_bikes": 10, 
+        "id": "7fbf2ca75e8b8f12572662c2205e7ee7", 
+        "latitude": 41.649797, 
+        "longitude": -0.898647, 
+        "name": "51 - Plaza Roma", 
+        "timestamp": "2017-08-15T04:46:14.030000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            50, 
+            51, 
+            124, 
+            128
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 52
+        }, 
+        "free_bikes": 10, 
+        "id": "ef8fc57bd2f9c9e08a380408443e83c4", 
+        "latitude": 41.648061, 
+        "longitude": -0.902233, 
+        "name": "52 - Avda. Duquesa Villahermosa - C/ Franco y L\u00f3pez", 
+        "timestamp": "2017-08-15T04:46:14.031000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "NearbyStationList": [
+            53, 
+            88, 
+            128, 
+            129
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 54
+        }, 
+        "free_bikes": 15, 
+        "id": "58bb8f29b417eab6590ea29717d22586", 
+        "latitude": 41.653572, 
+        "longitude": -0.904572, 
+        "name": "54 - Avda. Madrid - P\u00ba Calanda", 
+        "timestamp": "2017-08-15T04:46:14.035000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            56, 
+            59, 
+            95
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 55
+        }, 
+        "free_bikes": 7, 
+        "id": "a91b74a9266379e7da0779344d368208", 
+        "latitude": 41.658842, 
+        "longitude": -0.861786, 
+        "name": "55 - Avda. Marqu\u00e9s de la Cadena - C/ Miguel Asso", 
+        "timestamp": "2017-08-15T04:46:14.036000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            23, 
+            55
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 56
+        }, 
+        "free_bikes": 10, 
+        "id": "be30212b3a7d7d312ed7c5dd9a8608a8", 
+        "latitude": 41.655497, 
+        "longitude": -0.858964, 
+        "name": "56 - C/ Balbino Orensanz - C/ Carmelo Betor\u00e9 Bergua", 
+        "timestamp": "2017-08-15T04:46:14.038000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            5, 
+            6, 
+            9, 
+            58
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 57
+        }, 
+        "free_bikes": 2, 
+        "id": "54c67140e05662916ad21bcccb4bcec5", 
+        "latitude": 41.658822, 
+        "longitude": -0.874214, 
+        "name": "57 - P\u00ba de la Ribera - C/ Sobrarbe", 
+        "timestamp": "2017-08-15T04:46:14.039000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            57, 
+            59, 
+            60, 
+            95
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 58
+        }, 
+        "free_bikes": 7, 
+        "id": "03bbd03760f36b8825be2bf3a14bed34", 
+        "latitude": 41.660361, 
+        "longitude": -0.869653, 
+        "name": "58 - Avda. Valle de Zuriza - Avda. Catalu\u00f1a", 
+        "timestamp": "2017-08-15T04:46:14.041000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            55, 
+            58, 
+            60, 
+            95
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 59
+        }, 
+        "free_bikes": 8, 
+        "id": "674c3c0fbcd7ed1410dbfc78e48dce1d", 
+        "latitude": 41.661683, 
+        "longitude": -0.865542, 
+        "name": "59 - Plaza Mozart", 
+        "timestamp": "2017-08-15T04:46:14.042000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            58, 
+            59, 
+            61, 
+            62
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 60
+        }, 
+        "free_bikes": 8, 
+        "id": "331afaf54d228591b03cda128a992b63", 
+        "latitude": 41.662975, 
+        "longitude": -0.871203, 
+        "name": "60 - C/ Sang\u00fcesa Casta\u00f1osa - C/ F. Oliv\u00e1n Bayle", 
+        "timestamp": "2017-08-15T04:46:14.043000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            57, 
+            60, 
+            62, 
+            63
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 61
+        }, 
+        "free_bikes": 13, 
+        "id": "185976cfc3e596837decc021e8bab434", 
+        "latitude": 41.663811, 
+        "longitude": -0.875483, 
+        "name": "61 - C/ Sixto Celorrio - C/ Pe\u00f1a Oroel", 
+        "timestamp": "2017-08-15T04:46:14.045000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            60, 
+            63, 
+            75, 
+            76
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 62
+        }, 
+        "free_bikes": 13, 
+        "id": "dc7bc2394e9026241ec73a2c050cbfd4", 
+        "latitude": 41.666725, 
+        "longitude": -0.871678, 
+        "name": "62 - Avda. Marqu\u00e9s de la Cadena - Avda. San Juan de la ", 
+        "timestamp": "2017-08-15T04:46:14.051000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            61, 
+            62, 
+            64, 
+            75
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 63
+        }, 
+        "free_bikes": 10, 
+        "id": "b3659edfc3d209b59231132ab52f8fd3", 
+        "latitude": 41.666336, 
+        "longitude": -0.876347, 
+        "name": "63 - Avda. Valle de Broto - Parque T\u00edo Jorge", 
+        "timestamp": "2017-08-15T04:46:14.058000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            61, 
+            63, 
+            65, 
+            94
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 64
+        }, 
+        "free_bikes": 10, 
+        "id": "fd5b949e4bdf57629e7b88e4bb1d012b", 
+        "latitude": 41.665996, 
+        "longitude": -0.881093, 
+        "name": "64 - Avda. Valle de Broto - Avda. Pirineos", 
+        "timestamp": "2017-08-15T04:46:14.059000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "NearbyStationList": [
+            64, 
+            66, 
+            67, 
+            94
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 65
+        }, 
+        "free_bikes": 15, 
+        "id": "f36f43515e717af08cca2fb2a86dcf10", 
+        "latitude": 41.666417, 
+        "longitude": -0.886822, 
+        "name": "65 - Avda. G. G\u00f3mez de Avellaneda - Intercambiador", 
+        "timestamp": "2017-08-15T04:46:14.060000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            65, 
+            67, 
+            70, 
+            74
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 66
+        }, 
+        "free_bikes": 4, 
+        "id": "e665100e1060746eacc907b4bfb8f7c0", 
+        "latitude": 41.670306, 
+        "longitude": -0.886053, 
+        "name": "66 - C/ Pablo Neruda - C/ Averroes", 
+        "timestamp": "2017-08-15T04:46:14.061000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            3, 
+            65, 
+            66, 
+            70
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 67
+        }, 
+        "free_bikes": 7, 
+        "id": "3be0a766bc5e2c6a2d04ddcbe656b967", 
+        "latitude": 41.668592, 
+        "longitude": -0.890077, 
+        "name": "67 - Avda. G. G\u00f3mez de Avellaneda - C/ Clara Campoamor", 
+        "timestamp": "2017-08-15T04:46:14.063000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            66, 
+            70, 
+            72, 
+            74
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 68
+        }, 
+        "free_bikes": 6, 
+        "id": "e96b9edc1ba4864b498249b5850d750d", 
+        "latitude": 41.675102, 
+        "longitude": -0.889035, 
+        "name": "68 - Avda. M\u00aa Zambrano - C/ Julio Garc\u00eda Condoy", 
+        "timestamp": "2017-08-15T04:46:14.067000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            2, 
+            68, 
+            70, 
+            71
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 69
+        }, 
+        "free_bikes": 6, 
+        "id": "946472b5784da0621d17ab77570acc03", 
+        "latitude": 41.672849, 
+        "longitude": -0.893333, 
+        "name": "69 - Avda. Pablo Ruiz Picasso - C/ M\u00fajica Lainez ", 
+        "timestamp": "2017-08-15T04:46:14.069000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            66, 
+            67, 
+            68, 
+            69
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 70
+        }, 
+        "free_bikes": 2, 
+        "id": "f942f7e1fb92b7960e9c316dc3f426ce", 
+        "latitude": 41.671495, 
+        "longitude": -0.889105, 
+        "name": "70 - Avda. M\u00aa Zambrano - C/ Ildefonso Manuel Gil", 
+        "timestamp": "2017-08-15T04:46:14.069000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            68, 
+            69, 
+            72, 
+            73
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 71
+        }, 
+        "free_bikes": 10, 
+        "id": "f4bc4d6d2cf633d7b3460be6b8974d61", 
+        "latitude": 41.675963, 
+        "longitude": -0.893507, 
+        "name": "71 - C/ Luis Legaz Lacambra - C/ Octavio Paz", 
+        "timestamp": "2017-08-15T04:46:14.075000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "NearbyStationList": [
+            68, 
+            69, 
+            71, 
+            73
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 72
+        }, 
+        "free_bikes": 15, 
+        "id": "aad58781e3154e2987c51c85a6d6bf36", 
+        "latitude": 41.677364, 
+        "longitude": -0.889051, 
+        "name": "72 - Avda. M\u00aa Zambrano - C/ Pablo Iglesias", 
+        "timestamp": "2017-08-15T04:46:14.076000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            68, 
+            69, 
+            71, 
+            72
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 73
+        }, 
+        "free_bikes": 12, 
+        "id": "f3fc5bcda572ec8889e886e4bcc969d5", 
+        "latitude": 41.678076, 
+        "longitude": -0.890918, 
+        "name": "73 - C/ Margarita Xirgu - Avda. G. G\u00f3mez de Avellaneda", 
+        "timestamp": "2017-08-15T04:46:14.077000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            66, 
+            68, 
+            70, 
+            77
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 74
+        }, 
+        "free_bikes": 10, 
+        "id": "1529e819bb4ad2e2ea80bfbf4b1c4517", 
+        "latitude": 41.673375, 
+        "longitude": -0.884095, 
+        "name": "74 - Avda. Pablo Ruiz Picasso - C/ Pintor Luis Cernuda", 
+        "timestamp": "2017-08-15T04:46:14.079000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "NearbyStationList": [
+            63, 
+            76, 
+            77
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 75
+        }, 
+        "free_bikes": 16, 
+        "id": "91b38549493051f1008a4a9863e8d239", 
+        "latitude": 41.669397, 
+        "longitude": -0.876508, 
+        "name": "75 - Avda. Salvador Allende - C/ Rubio de Francia", 
+        "timestamp": "2017-08-15T04:46:14.080000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            62, 
+            75, 
+            78
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 76
+        }, 
+        "free_bikes": 12, 
+        "id": "93838f2d48ff48dc7b09bf0ecb94f972", 
+        "latitude": 41.670139, 
+        "longitude": -0.871258, 
+        "name": "76 - Avda. San Juan de la Pe\u00f1a - C/ Juslibol", 
+        "timestamp": "2017-08-15T04:46:14.083000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            74, 
+            75, 
+            78, 
+            79
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 77
+        }, 
+        "free_bikes": 12, 
+        "id": "04d480d6112f0e2fd90b9d35ebd7c333", 
+        "latitude": 41.673453, 
+        "longitude": -0.877338, 
+        "name": "77 - Avda. Salvador Allende - Avda. Pablo Ruiz Picasso", 
+        "timestamp": "2017-08-15T04:46:14.084000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            76, 
+            77, 
+            79, 
+            80
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 78
+        }, 
+        "free_bikes": 13, 
+        "id": "6bab66481595cd152ac2ed6c9e83c5c5", 
+        "latitude": 41.673989, 
+        "longitude": -0.871385, 
+        "name": "78 - Avda. San Juan de la Pe\u00f1a - C/ Somport", 
+        "timestamp": "2017-08-15T04:46:14.091000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            77, 
+            78, 
+            80
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 79
+        }, 
+        "free_bikes": 13, 
+        "id": "62f5aa65cf38f3e86c377c9bae445a66", 
+        "latitude": 41.675771, 
+        "longitude": -0.876397, 
+        "name": "79 - Avda. Salvador Allende - C/ Mat\u00edas Pastor Sancho", 
+        "timestamp": "2017-08-15T04:46:14.094000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            78, 
+            79, 
+            81
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 80
+        }, 
+        "free_bikes": 13, 
+        "id": "95fd97236545afc1d1c207f8ffd3aba2", 
+        "latitude": 41.677918, 
+        "longitude": -0.871296, 
+        "name": "80 - Avda. Academia Gral. Militar - Avda. Salvador Alle", 
+        "timestamp": "2017-08-15T04:46:14.095000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            80, 
+            82
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 81
+        }, 
+        "free_bikes": 12, 
+        "id": "968b27e873a2809b93d12a1c17dbed75", 
+        "latitude": 41.682421, 
+        "longitude": -0.871205, 
+        "name": "81 - Plaza Tauromaquia - Avda. Academia Gral. Militar", 
+        "timestamp": "2017-08-15T04:46:14.096000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            81, 
+            83, 
+            84
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 82
+        }, 
+        "free_bikes": 6, 
+        "id": "174237dd2a45ac2cd1397d6ba53b03f4", 
+        "latitude": 41.685403, 
+        "longitude": -0.871197, 
+        "name": "82 - C/ Los Le\u00f1adores - Avda. Academia Gral. Militar", 
+        "timestamp": "2017-08-15T04:46:14.098000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            82, 
+            84
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 83
+        }, 
+        "free_bikes": 10, 
+        "id": "b2c712c8aa3f17256c983d5a6ce05a7b", 
+        "latitude": 41.68658, 
+        "longitude": -0.874311, 
+        "name": "83 - Avda. Majas de Goya - Eroski", 
+        "timestamp": "2017-08-15T04:46:14.100000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            82, 
+            83
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 84
+        }, 
+        "free_bikes": 10, 
+        "id": "f5fb6aae71e4442afded27c596acd52b", 
+        "latitude": 41.686625, 
+        "longitude": -0.877467, 
+        "name": "84 - Avda. Majas de Goya - C/ La Fragua", 
+        "timestamp": "2017-08-15T04:46:14.101000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            12, 
+            13, 
+            30, 
+            86
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 85
+        }, 
+        "free_bikes": 7, 
+        "id": "56bf3fa030fa9d15b2d4249bf6df16ae", 
+        "latitude": 41.662096, 
+        "longitude": -0.90397, 
+        "name": "85 - C/ Pablo Gargallo - C/ Jardines de Atenas", 
+        "timestamp": "2017-08-15T04:46:14.105000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            12, 
+            13, 
+            30, 
+            85
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 86
+        }, 
+        "free_bikes": 8, 
+        "id": "b2557ac258901b8b08514c8cdbd17660", 
+        "latitude": 41.663293, 
+        "longitude": -0.898998, 
+        "name": "86 - Avda. Almozara - CDM Almozara", 
+        "timestamp": "2017-08-15T04:46:14.106000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            11, 
+            28, 
+            29, 
+            31
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 87
+        }, 
+        "free_bikes": 14, 
+        "id": "113553ecba0db688056dcbc14797b0bd", 
+        "latitude": 41.657123, 
+        "longitude": -0.8937, 
+        "name": "87 - P\u00ba M\u00aa Agust\u00edn - C/ de la Aljafer\u00eda", 
+        "timestamp": "2017-08-15T04:46:14.107000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            14, 
+            53, 
+            54, 
+            127
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 88
+        }, 
+        "free_bikes": 9, 
+        "id": "327de15d62a7544a73184bba5ff90e45", 
+        "latitude": 41.655448, 
+        "longitude": -0.906046, 
+        "name": "88 - Avda. Navarra - C/ Alag\u00f3n", 
+        "timestamp": "2017-08-15T04:46:14.111000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            10, 
+            11, 
+            21, 
+            33
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 89
+        }, 
+        "free_bikes": 7, 
+        "id": "9d169b823b8d06ce72058ad0305a7d99", 
+        "latitude": 41.658283, 
+        "longitude": -0.885805, 
+        "name": "89 - P\u00ba Echegaray y Caballero - C/ Postigo del Ebro", 
+        "timestamp": "2017-08-15T04:46:14.113000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "NearbyStationList": [
+            46, 
+            49, 
+            50, 
+            130
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 90
+        }, 
+        "free_bikes": 19, 
+        "id": "450229880c16d2cef677d9000d851153", 
+        "latitude": 41.64429, 
+        "longitude": -0.895222, 
+        "name": "90 - C/ Bret\u00f3n - C/ San Antonio M\u00aa Claret", 
+        "timestamp": "2017-08-15T04:46:14.115000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            46, 
+            47, 
+            92, 
+            107
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 91
+        }, 
+        "free_bikes": 13, 
+        "id": "7a6eda9bf1092587caec51ac9dee7705", 
+        "latitude": 41.640994, 
+        "longitude": -0.894419, 
+        "name": "91 - Plaza San Francisco - La Salle", 
+        "timestamp": "2017-08-15T04:46:14.116000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            37, 
+            38, 
+            39, 
+            40
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 93
+        }, 
+        "free_bikes": 13, 
+        "id": "0b803b138c6429d28e23d4096e6d1f97", 
+        "latitude": 41.644273, 
+        "longitude": -0.871687, 
+        "name": "93 - C/ Monasterio de Samos - C/ Monasterio de Poblet", 
+        "timestamp": "2017-08-15T04:46:14.125000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            4, 
+            5, 
+            64, 
+            65
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 94
+        }, 
+        "free_bikes": 10, 
+        "id": "647b1a86e2e14fbdc4486f08f6e2a640", 
+        "latitude": 41.664207, 
+        "longitude": -0.883606, 
+        "name": "94 - Avda. M\u00aa Zambrano - C/ Padre Marcell\u00e1n Mayayo", 
+        "timestamp": "2017-08-15T04:46:14.126000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "NearbyStationList": [
+            6, 
+            55, 
+            58, 
+            59
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 95
+        }, 
+        "free_bikes": 15, 
+        "id": "56d973519e3a15d9f7e14681c92d5a8d", 
+        "latitude": 41.65897, 
+        "longitude": -0.865316, 
+        "name": "95 - P\u00ba Longares - C/ Fuendejal\u00f3n", 
+        "timestamp": "2017-08-15T04:46:14.128000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            19, 
+            25, 
+            39, 
+            97
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 96
+        }, 
+        "free_bikes": 13, 
+        "id": "1bebe0e35c1a6614358d23f70455ecc0", 
+        "latitude": 41.648023, 
+        "longitude": -0.877275, 
+        "name": "96 - P\u00ba de la Mina - C/ Pomar\u00f3n", 
+        "timestamp": "2017-08-15T04:46:14.131000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            25, 
+            39, 
+            96
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 97
+        }, 
+        "free_bikes": 1, 
+        "id": "80cd85c71bacdac7435316f681ce88e8", 
+        "latitude": 41.647542, 
+        "longitude": -0.880319, 
+        "name": "97 - P\u00ba Constituci\u00f3n - C/ Mefisto", 
+        "timestamp": "2017-08-15T04:46:14.132000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            41, 
+            43, 
+            45
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 98
+        }, 
+        "free_bikes": 8, 
+        "id": "ec836af6bc82af501049ee69bab39736", 
+        "latitude": 41.64597, 
+        "longitude": -0.885128, 
+        "name": "98 - Glorieta Sasera - P\u00ba Damas", 
+        "timestamp": "2017-08-15T04:46:14.134000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            26, 
+            97, 
+            100
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 99
+        }, 
+        "free_bikes": 12, 
+        "id": "39ae3def97993dc5384bc6c95aec8cca", 
+        "latitude": 41.649192, 
+        "longitude": -0.883175, 
+        "name": "99 - Plaza de Santa Engracia", 
+        "timestamp": "2017-08-15T04:46:14.136000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            20, 
+            26, 
+            32, 
+            99
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 100
+        }, 
+        "free_bikes": 9, 
+        "id": "d545bb85c52d685d296710d2c5fc3ec6", 
+        "latitude": 41.650953, 
+        "longitude": -0.884647, 
+        "name": "100 - PLAZA DEL CARMEN", 
+        "timestamp": "2017-08-15T04:46:14.139000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            7, 
+            35, 
+            36
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 101
+        }, 
+        "free_bikes": 8, 
+        "id": "d69b9c2a048b1b2739c35ab228110b6f", 
+        "latitude": 41.649912, 
+        "longitude": -0.863471, 
+        "name": "101 - C/ Doctor Iranzo -  C/ Escultor Benlliure", 
+        "timestamp": "2017-08-15T04:46:14.140000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            16, 
+            19, 
+            24, 
+            25
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 102
+        }, 
+        "free_bikes": 7, 
+        "id": "a10d13045afdb5ddac414658b13c71e4", 
+        "latitude": 41.651242, 
+        "longitude": -0.87778, 
+        "name": "102 - C/ Pedro Joaqu\u00edn Soler - Coso", 
+        "timestamp": "2017-08-15T04:46:14.144000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            39, 
+            41, 
+            97, 
+            98
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 103
+        }, 
+        "free_bikes": 2, 
+        "id": "f3425b1211e47eb49c09a30d2210433a", 
+        "latitude": 41.644714, 
+        "longitude": -0.881661, 
+        "name": "103 - C/ Lacarra de Miguel - C/ San Vicente Martir", 
+        "timestamp": "2017-08-15T04:46:14.146000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "NearbyStationList": [
+            21, 
+            27, 
+            28, 
+            32
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 104
+        }, 
+        "free_bikes": 15, 
+        "id": "92610ae224095ab8c8b8f431230a5f52", 
+        "latitude": 41.653496, 
+        "longitude": -0.889492, 
+        "name": "104 - C/ Madre Rafols - Esquina D.G.A.", 
+        "timestamp": "2017-08-15T04:46:14.148000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            26, 
+            27, 
+            48, 
+            49
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 105
+        }, 
+        "free_bikes": 7, 
+        "id": "6e27b5ea7278efa96908de8577ceea2c", 
+        "latitude": 41.649436, 
+        "longitude": -0.890963, 
+        "name": "105 - C/ Doctor Horno - C/ Madre Sacramento", 
+        "timestamp": "2017-08-15T04:46:14.152000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            44, 
+            92, 
+            107
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 106
+        }, 
+        "free_bikes": 10, 
+        "id": "d50ca535c79c0612da04e680081e39fd", 
+        "latitude": 41.637663, 
+        "longitude": -0.890508, 
+        "name": "106 - C/ Arzobispo Morcillo - C/ Fernando de Antequera", 
+        "timestamp": "2017-08-15T04:46:14.153000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            47, 
+            91, 
+            106, 
+            108
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 107
+        }, 
+        "free_bikes": 14, 
+        "id": "649467f4827feee522accd7cf0350b8c", 
+        "latitude": 41.637911, 
+        "longitude": -0.895265, 
+        "name": "107 - C/ Luis Vives - C/ Manuel Lasala", 
+        "timestamp": "2017-08-15T04:46:14.157000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            91, 
+            107, 
+            109, 
+            121
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 108
+        }, 
+        "free_bikes": 5, 
+        "id": "3628cc70b1d1099f6b04794608694dd6", 
+        "latitude": 41.637785, 
+        "longitude": -0.898417, 
+        "name": "108 - Plaza Emperador Carlos V", 
+        "timestamp": "2017-08-15T04:46:14.159000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            108, 
+            110, 
+            120
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 109
+        }, 
+        "free_bikes": 1, 
+        "id": "a37d7966a30eea5ee44d648763a02c8e", 
+        "latitude": 41.634696, 
+        "longitude": -0.901569, 
+        "name": "109 - P\u00ba Isabel la Cat\u00f3lica - C/ Gonzalo Calamita", 
+        "timestamp": "2017-08-15T04:46:14.161000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            111, 
+            120
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 110
+        }, 
+        "free_bikes": 8, 
+        "id": "8211366557a061f5ae082d7f0fdb6711", 
+        "latitude": 41.633064, 
+        "longitude": -0.904942, 
+        "name": "110 - P\u00ba Isabel la Cat\u00f3lica - V\u00eda Hispanidad", 
+        "timestamp": "2017-08-15T04:46:14.162000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "NearbyStationList": [
+            110, 
+            112, 
+            119, 
+            120
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 111
+        }, 
+        "free_bikes": 16, 
+        "id": "e1f805bc7724572ba1be40f2af1b3513", 
+        "latitude": 41.634394, 
+        "longitude": -0.909121, 
+        "name": "111 - C/ Condes de Arag\u00f3n - V\u00eda Hispanidad", 
+        "timestamp": "2017-08-15T04:46:14.166000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            111, 
+            113, 
+            118, 
+            119
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 112
+        }, 
+        "free_bikes": 12, 
+        "id": "ed1c80d0a63b72235b9f94a5fb892742", 
+        "latitude": 41.636477, 
+        "longitude": -0.912422, 
+        "name": "112 - V\u00eda Hispanidad - Avda. Sainz de Varanda", 
+        "timestamp": "2017-08-15T04:46:14.168000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            112, 
+            114, 
+            118
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 113
+        }, 
+        "free_bikes": 11, 
+        "id": "a3e48e9dca4db2f52c7408904b8470fc", 
+        "latitude": 41.640701, 
+        "longitude": -0.914197, 
+        "name": "113 - V\u00eda Hispanidad - Avda. G\u00f3mez Laguna", 
+        "timestamp": "2017-08-15T04:46:14.170000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            113, 
+            115, 
+            117, 
+            118
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 114
+        }, 
+        "free_bikes": 9, 
+        "id": "a9e3f7bfb784b8d39d9fbd920f38f17e", 
+        "latitude": 41.643889, 
+        "longitude": -0.915656, 
+        "name": "114 - V\u00eda Hispanidad - Avda. Duquesa Villahermosa", 
+        "timestamp": "2017-08-15T04:46:14.173000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            114, 
+            116, 
+            117
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 115
+        }, 
+        "free_bikes": 10, 
+        "id": "2448d7fb01acc778fdb79a28df1c608b", 
+        "latitude": 41.646723, 
+        "longitude": -0.917404, 
+        "name": "115 - V\u00eda Hispanidad - C/ Oc\u00e9ano Atl\u00e1ntico", 
+        "timestamp": "2017-08-15T04:46:14.175000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "NearbyStationList": [
+            115, 
+            125, 
+            126
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 116
+        }, 
+        "free_bikes": 20, 
+        "id": "2f0ce55069b0659e70eb6245384a60c1", 
+        "latitude": 41.648234, 
+        "longitude": -0.913375, 
+        "name": "116 - C/ Ciudadela - C/ Andr\u00e9s Vicente", 
+        "timestamp": "2017-08-15T04:46:14.178000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            114, 
+            115, 
+            118, 
+            124
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 117
+        }, 
+        "free_bikes": 8, 
+        "id": "07b4d9540245d5e84fe99d91618c2f30", 
+        "latitude": 41.645052, 
+        "longitude": -0.911539, 
+        "name": "117 - Avda. Duquesa Villahermosa - Avda. Juan Carlos I", 
+        "timestamp": "2017-08-15T04:46:14.181000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            113, 
+            117, 
+            119, 
+            122
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 118
+        }, 
+        "free_bikes": 11, 
+        "id": "195bafdd57579843711b89e15e20c4d1", 
+        "latitude": 41.641464, 
+        "longitude": -0.910469, 
+        "name": "118 - Avda. Juan Pablo II - Avda. G\u00f3mez Laguna", 
+        "timestamp": "2017-08-15T04:46:14.183000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "NearbyStationList": [
+            112, 
+            118, 
+            120, 
+            122
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 119
+        }, 
+        "free_bikes": 14, 
+        "id": "a7573b254c4ed66fa73d3d411461ffa7", 
+        "latitude": 41.638651, 
+        "longitude": -0.907843, 
+        "name": "119 - Avda. Juan Carlos I - C/ Ram\u00f3n Sainz de Varanda", 
+        "timestamp": "2017-08-15T04:46:14.185000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            109, 
+            110, 
+            111, 
+            119, 
+            121
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 120
+        }, 
+        "free_bikes": 7, 
+        "id": "343cbdc4a34498505f2c31efb6705ae5", 
+        "latitude": 41.634817, 
+        "longitude": -0.906755, 
+        "name": "120 - C/ As\u00edn y Palacios - C/ Pedro IV El Ceremonioso", 
+        "timestamp": "2017-08-15T04:46:14.188000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            108, 
+            119, 
+            122, 
+            123
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 121
+        }, 
+        "free_bikes": 13, 
+        "id": "5f6674c8d0a94be2fc57b29207fdaa0f", 
+        "latitude": 41.639109, 
+        "longitude": -0.901864, 
+        "name": "121 - C/ Eduardo Ibarra - C/ Violante de Hungr\u00eda", 
+        "timestamp": "2017-08-15T04:46:14.192000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            117, 
+            118, 
+            119, 
+            123
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 122
+        }, 
+        "free_bikes": 9, 
+        "id": "46c630847f4f831e63761340ff728dda", 
+        "latitude": 41.642759, 
+        "longitude": -0.907403, 
+        "name": "122 - Avda. G\u00f3mez Laguna n\u00ba 6", 
+        "timestamp": "2017-08-15T04:46:14.193000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            52, 
+            117, 
+            123, 
+            125
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 124
+        }, 
+        "free_bikes": 5, 
+        "id": "bc345d0f30a6caa1407dffb7e28208a8", 
+        "latitude": 41.646399, 
+        "longitude": -0.907964, 
+        "name": "124 - Via Univ\u00e9rsitas - Avda. Duquesa Villahermosa", 
+        "timestamp": "2017-08-15T04:46:14.196000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            116, 
+            124, 
+            126, 
+            128
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 125
+        }, 
+        "free_bikes": 13, 
+        "id": "877c712e13fefb4cb3c1d880509f6fd2", 
+        "latitude": 41.649131, 
+        "longitude": -0.909233, 
+        "name": "125 - Via Univ\u00e9rsitas - C/ Hermanos Gambra", 
+        "timestamp": "2017-08-15T04:46:14.198000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            54, 
+            116, 
+            125, 
+            127
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 126
+        }, 
+        "free_bikes": 12, 
+        "id": "8b1685615b49d313c4d9e0c5704357fc", 
+        "latitude": 41.652719, 
+        "longitude": -0.910864, 
+        "name": "126 - C/ Juli\u00e1n S\u00e1nz Ib\u00e1\u00f1ez - C/ Rioja", 
+        "timestamp": "2017-08-15T04:46:14.200000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            14, 
+            54, 
+            88, 
+            126
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 127
+        }, 
+        "free_bikes": 10, 
+        "id": "622cad8e5e0fb4667bf7099b2c663c92", 
+        "latitude": 41.655517, 
+        "longitude": -0.908582, 
+        "name": "127 - Avda. Navarra - C/ Rioja", 
+        "timestamp": "2017-08-15T04:46:14.201000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            51, 
+            53, 
+            54, 
+            128
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 129
+        }, 
+        "free_bikes": 10, 
+        "id": "554ea5c7a8ca640b8b5544c5554a057e", 
+        "latitude": 41.652585, 
+        "longitude": -0.902306, 
+        "name": "129 - C/ Graus - C/ Unceta", 
+        "timestamp": "2017-08-15T04:46:14.204000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "NearbyStationList": [
+            47, 
+            50, 
+            90, 
+            91
+          ], 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 130
+        }, 
+        "free_bikes": 15, 
+        "id": "4d72a60f518f9ff10ded62feb4fd7c06", 
+        "latitude": 41.644029, 
+        "longitude": -0.897865, 
+        "name": "130 - C/ Corona de Arag\u00f3n - C/ Lorente", 
+        "timestamp": "2017-08-15T04:46:14.206000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            50, 
+            52, 
+            122, 
+            124
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 123
+        }, 
+        "free_bikes": 6, 
+        "id": "423c8cfb73e42296471bed7456d6e04c", 
+        "latitude": 41.64372, 
+        "longitude": -0.904354, 
+        "name": "123 - Avda. San Juan Bosco - C/ La Milagrosa", 
+        "timestamp": "2017-08-15T04:46:14.195000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            15, 
+            29, 
+            54, 
+            88, 
+            129
+          ], 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 53
+        }, 
+        "free_bikes": 10, 
+        "id": "edbcbd408face5abbb7bb88c5e4d3bba", 
+        "latitude": 41.654756, 
+        "longitude": -0.900894, 
+        "name": "53 - Avda. Madrid - Avda. Navarra ", 
+        "timestamp": "2017-08-15T04:46:14.033000Z"
+      }
+    ]
+  }
+}

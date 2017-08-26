@@ -1,0 +1,547 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_greenbikeslc/gbfs.json", 
+    "href": "/v2/networks/greenbikeslc", 
+    "id": "greenbikeslc", 
+    "location": {
+      "city": "Salt Lake City", 
+      "country": "US", 
+      "latitude": 40.76745, 
+      "longitude": -111.88736
+    }, 
+    "name": "GREENbike", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "450 South 150 East", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2735"
+        }, 
+        "free_bikes": 12, 
+        "id": "544aa87a0165d06d761fb99e809f825c", 
+        "latitude": 40.75943, 
+        "longitude": -111.88521, 
+        "name": "UCAIR Station @ City & County Building", 
+        "timestamp": "2017-08-15T04:47:48.257000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "250S 200W ", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3425"
+        }, 
+        "free_bikes": 8, 
+        "id": "5b571448a2f15e9e77f2b182a138ed0a", 
+        "latitude": 40.76377, 
+        "longitude": -111.89659, 
+        "name": "Blyncsy Station", 
+        "timestamp": "2017-08-15T04:47:48.248000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "510S 700E", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3427"
+        }, 
+        "free_bikes": 7, 
+        "id": "c4807edddc1acbad3e3f788badb00b1f", 
+        "latitude": 40.75791, 
+        "longitude": -111.87152, 
+        "name": "Google Fiber Station @ Trolley Square ", 
+        "timestamp": "2017-08-15T04:47:48.244000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "200 South West Temple", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2741"
+        }, 
+        "free_bikes": 3, 
+        "id": "5ee8ad090fe75fcc2439f9091b578981", 
+        "latitude": 40.76518, 
+        "longitude": -111.89427, 
+        "name": "Life Elevated Station @ The Salt Palace", 
+        "timestamp": "2017-08-15T04:47:48.267000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "500W N. Temple", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3428"
+        }, 
+        "free_bikes": 10, 
+        "id": "78c01dd8af50f90bed656b84b4482450", 
+        "latitude": 40.77187, 
+        "longitude": -111.905, 
+        "name": "UTA North Temple FrontRunner Station", 
+        "timestamp": "2017-08-15T04:47:48.254000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "200S State St ", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3424"
+        }, 
+        "free_bikes": 3, 
+        "id": "2ed323bc4e9a8056feef1ce5841a6e39", 
+        "latitude": 40.76517, 
+        "longitude": -111.88849, 
+        "name": "200S State Street Station", 
+        "timestamp": "2017-08-15T04:47:48.249000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "90 S West Temple", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2254"
+        }, 
+        "free_bikes": 11, 
+        "id": "2fb58c748e615939bbce7e58c798b3d3", 
+        "latitude": 40.76812, 
+        "longitude": -111.89419, 
+        "name": "20 S. West Temple", 
+        "timestamp": "2017-08-15T04:47:48.242000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "100S Main St ", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3423"
+        }, 
+        "free_bikes": 6, 
+        "id": "fe8e1c1c3f10ca05ae57bd6061f00a78", 
+        "latitude": 40.76732, 
+        "longitude": -111.89085, 
+        "name": "Backcountry.com @ 100S Main Street ", 
+        "timestamp": "2017-08-15T04:47:48.250000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "123 E 100 S", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2248"
+        }, 
+        "free_bikes": 3, 
+        "id": "b7c3303be5d7d77f05baea5deef7aa16", 
+        "latitude": 40.76735, 
+        "longitude": -111.88772, 
+        "name": "Harmons Station", 
+        "timestamp": "2017-08-15T04:47:48.262000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "6 S. Main St.", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2251"
+        }, 
+        "free_bikes": 6, 
+        "id": "853ffac4b04e419d71ad1e716a216f60", 
+        "latitude": 40.76903, 
+        "longitude": -111.89126, 
+        "name": "Key Bank Station", 
+        "timestamp": "2017-08-15T04:47:48.235000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "353 S. Main St.", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2255"
+        }, 
+        "free_bikes": 12, 
+        "id": "0b8fecfdc7edf284b4c3aad5f21ef044", 
+        "latitude": 40.76142, 
+        "longitude": -111.89091, 
+        "name": "City Weekly Station", 
+        "timestamp": "2017-08-15T04:47:48.238000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "225 S. Main St.", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2257"
+        }, 
+        "free_bikes": 0, 
+        "id": "684bbcb616ddc47ef94a73923a805c30", 
+        "latitude": 40.7643, 
+        "longitude": -111.89095, 
+        "name": "Rocky Mountain Power Station ", 
+        "timestamp": "2017-08-15T04:47:48.236000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "215 West South Temple", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2400"
+        }, 
+        "free_bikes": 8, 
+        "id": "b716ca5e80d73ce87c77df3c831376c6", 
+        "latitude": 40.76906, 
+        "longitude": -111.89707, 
+        "name": "Radisson Station", 
+        "timestamp": "2017-08-15T04:47:48.275000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "150 West 500 South", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2738"
+        }, 
+        "free_bikes": 14, 
+        "id": "d305e5a7a2df525f8b3b5bfa1b0203eb", 
+        "latitude": 40.75861, 
+        "longitude": -111.89593, 
+        "name": "Sheraton Station", 
+        "timestamp": "2017-08-15T04:47:48.255000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "200S 200E ", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3182"
+        }, 
+        "free_bikes": 10, 
+        "id": "d0156e9ed242a271c08c79275e32a454", 
+        "latitude": 40.76524, 
+        "longitude": -111.88515, 
+        "name": "SLUG Mag Station", 
+        "timestamp": "2017-08-15T04:47:48.265000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "147 W. Broadway", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2252"
+        }, 
+        "free_bikes": 11, 
+        "id": "e96a46ff26739ef8013dfa00c96d5bca", 
+        "latitude": 40.76266, 
+        "longitude": -111.89544, 
+        "name": "Squatters Station @ The Rose ", 
+        "timestamp": "2017-08-15T04:47:48.234000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "300 South 160 East", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2402"
+        }, 
+        "free_bikes": 3, 
+        "id": "27dd267674883d9202f2adfb347ae813", 
+        "latitude": 40.76253, 
+        "longitude": -111.88648, 
+        "name": "TravelWise Station", 
+        "timestamp": "2017-08-15T04:47:48.270000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "300S 300W", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3181"
+        }, 
+        "free_bikes": 13, 
+        "id": "21aac8c843f129752fd784e3149e26c7", 
+        "latitude": 40.76285, 
+        "longitude": -111.90006, 
+        "name": "UCAIR Station @ Pioneer Park", 
+        "timestamp": "2017-08-15T04:47:48.263000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "340 W 200 S", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2253"
+        }, 
+        "free_bikes": 10, 
+        "id": "601f120f27e7f92c4f06e79ee3556a89", 
+        "latitude": 40.76511, 
+        "longitude": -111.90149, 
+        "name": "Union Pacific Station", 
+        "timestamp": "2017-08-15T04:47:48.233000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "290 S 600 W", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2259"
+        }, 
+        "free_bikes": 23, 
+        "id": "32c238875e8b8fa206693be7f7722fdd", 
+        "latitude": 40.76257, 
+        "longitude": -111.9085, 
+        "name": "UTA Salt Lake Central Station", 
+        "timestamp": "2017-08-15T04:47:48.243000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "669W 200S", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3430"
+        }, 
+        "free_bikes": 12, 
+        "id": "7c13509b19ee8aace7bba9b8fa41649c", 
+        "latitude": 40.76464, 
+        "longitude": -111.91133, 
+        "name": "UTA FrontLines Station", 
+        "timestamp": "2017-08-15T04:47:48.272000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": " 100S 500E ", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3184"
+        }, 
+        "free_bikes": 6, 
+        "id": "a90283c727853428f1a413cfb973f3de", 
+        "latitude": 40.76746, 
+        "longitude": -111.87664, 
+        "name": " 100S 500E Station ", 
+        "timestamp": "2017-08-15T04:47:48.223000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "300 South 300 East", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2740"
+        }, 
+        "free_bikes": 1, 
+        "id": "7d7b713f4e486e672122fd3211e3c1b3", 
+        "latitude": 40.76297, 
+        "longitude": -111.88286, 
+        "name": "3 & 3 Uncommons Station ", 
+        "timestamp": "2017-08-15T04:47:48.269000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "300S 500E", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3185"
+        }, 
+        "free_bikes": 12, 
+        "id": "9d26c63ea960ca25148af78bc5acca44", 
+        "latitude": 40.76307, 
+        "longitude": -111.87697, 
+        "name": "JF Capital Station", 
+        "timestamp": "2017-08-15T04:47:48.232000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "349 S 200 E", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2258"
+        }, 
+        "free_bikes": 9, 
+        "id": "a6d60a660704ea1f2fc6a1924aa6e0d2", 
+        "latitude": 40.7616, 
+        "longitude": -111.88512, 
+        "name": "349 S. 200 E. Station", 
+        "timestamp": "2017-08-15T04:47:48.243000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "400 W South Temple", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2256"
+        }, 
+        "free_bikes": 9, 
+        "id": "3c53159e2ac43e9622f18a0eec7b0304", 
+        "latitude": 40.76972, 
+        "longitude": -111.90274, 
+        "name": "400 W. South Temple @ Gateway", 
+        "timestamp": "2017-08-15T04:47:48.237000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "40E 300S ", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3422"
+        }, 
+        "free_bikes": 4, 
+        "id": "b93c8fb3c83cab28479ea125b5819f4f", 
+        "latitude": 40.76266, 
+        "longitude": -111.88959, 
+        "name": "40E 300S Station", 
+        "timestamp": "2017-08-15T04:47:48.251000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "450W 100S ", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3183"
+        }, 
+        "free_bikes": 19, 
+        "id": "08fb5af1ca10fffaa2dfe4c80945ffef", 
+        "latitude": 40.76708, 
+        "longitude": -111.90369, 
+        "name": "450W 100S Station @ Gateway", 
+        "timestamp": "2017-08-15T04:47:48.266000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "640 West North Temple", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2736"
+        }, 
+        "free_bikes": 7, 
+        "id": "1e0c01b311b1199d54764e0a2ef352e6", 
+        "latitude": 40.77132, 
+        "longitude": -111.90874, 
+        "name": "640W  North Temple Station", 
+        "timestamp": "2017-08-15T04:47:48.260000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "50 W 300 S", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2742"
+        }, 
+        "free_bikes": 4, 
+        "id": "9c0dcf078b074b53c9a62d24a045a1c3", 
+        "latitude": 40.76283, 
+        "longitude": -111.89248, 
+        "name": "Twilight Concert Series Station @ 50 West 300 South", 
+        "timestamp": "2017-08-15T04:47:48.270000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "190 South 400 East", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2739"
+        }, 
+        "free_bikes": 13, 
+        "id": "4e6d0791bf75c9188f73eed61af7d037", 
+        "latitude": 40.76539, 
+        "longitude": -111.87982, 
+        "name": "CityScape Station", 
+        "timestamp": "2017-08-15T04:47:48.255000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "136 South Main Street ", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_2737"
+        }, 
+        "free_bikes": 6, 
+        "id": "05c8e0daae43d4192d0500a9712f000b", 
+        "latitude": 40.76624, 
+        "longitude": -111.89124, 
+        "name": "Energy Development Station", 
+        "timestamp": "2017-08-15T04:47:48.261000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "100 South 300 West", 
+          "last_updated": 1502772450, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_greenbikeslc_3426"
+        }, 
+        "free_bikes": 9, 
+        "id": "4665ef587a175399bf21d3594d6582a7", 
+        "latitude": 40.76738, 
+        "longitude": -111.90025, 
+        "name": "100 S. 300 W. Station", 
+        "timestamp": "2017-08-15T04:47:48.245000Z"
+      }
+    ]
+  }
+}

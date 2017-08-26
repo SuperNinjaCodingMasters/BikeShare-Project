@@ -1,0 +1,66 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-puerto-lumbreras", 
+    "id": "onroll-puerto-lumbreras", 
+    "location": {
+      "city": "Puerto Lumbreras", 
+      "country": "ES", 
+      "latitude": 37.556652, 
+      "longitude": -1.811508
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": {
+            "code": 16, 
+            "message": "No Power", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "463b4b615bb0b4dfea18067cb5102515", 
+        "latitude": 37.561408, 
+        "longitude": -1.808719, 
+        "name": "Ayuntamiento", 
+        "timestamp": "2017-08-15T04:46:38.674000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 16, 
+            "message": "No Power", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "32eaedd06cd5450c242a3e8de496d7d7", 
+        "latitude": 37.546264, 
+        "longitude": -1.814533, 
+        "name": "Complejo Deportivo", 
+        "timestamp": "2017-08-15T04:46:38.683000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": {
+            "code": 16, 
+            "message": "No Power", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "e182cbd7b1ef95b2b92f283e58a2a458", 
+        "latitude": 37.562283, 
+        "longitude": -1.811272, 
+        "name": "Espacio J?ven", 
+        "timestamp": "2017-08-15T04:46:38.685000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-san-giovanni-in-persiceto", 
+    "id": "bicincitta-san-giovanni-in-persiceto", 
+    "location": {
+      "city": "San Giovanni in Persiceto", 
+      "country": "IT", 
+      "latitude": 44.6405433, 
+      "longitude": 11.1893053
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "6c85a6d32d88c91dc9c24c5edf8b8660", 
+        "latitude": 44.643193006957375, 
+        "longitude": 11.188802719116211, 
+        "name": "Stazione FFSS", 
+        "timestamp": "2017-08-15T04:49:46.461000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "b426ca61133a0bde71ab00f58dd9a7ec", 
+        "latitude": 44.637879827142356, 
+        "longitude": 11.188116073608398, 
+        "name": "Biblioteca Comunale", 
+        "timestamp": "2017-08-15T04:49:46.476000Z"
+      }
+    ]
+  }
+}

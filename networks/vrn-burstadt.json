@@ -1,0 +1,99 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/vrn-burstadt", 
+    "id": "vrn-burstadt", 
+    "location": {
+      "city": "B\u00fcrstadt", 
+      "country": "DE", 
+      "latitude": 49.6461, 
+      "longitude": 8.44917
+    }, 
+    "name": "VRN", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "44061", 
+            "44057", 
+            "44053"
+          ], 
+          "number": "2701", 
+          "slots": 8, 
+          "uid": "2846042"
+        }, 
+        "free_bikes": 3, 
+        "id": "da4a77838fd36923a86f11653207a597", 
+        "latitude": 49.641754830291, 
+        "longitude": 8.4510505199432, 
+        "name": "Rathaus", 
+        "timestamp": "2017-08-15T04:49:06.306000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "44064", 
+            "44060", 
+            "44058", 
+            "44056", 
+            "44052"
+          ], 
+          "number": "2702", 
+          "slots": 10, 
+          "uid": "2846056"
+        }, 
+        "free_bikes": 5, 
+        "id": "51ed69233a116e35cf3cb2899ed6e70f", 
+        "latitude": 49.645530713197, 
+        "longitude": 8.4583622217178, 
+        "name": "Bahnhof", 
+        "timestamp": "2017-08-15T04:49:06.308000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "44067", 
+            "44063", 
+            "44059", 
+            "44055", 
+            "44051"
+          ], 
+          "number": "2703", 
+          "slots": 8, 
+          "uid": "2846079"
+        }, 
+        "free_bikes": 5, 
+        "id": "e273ed77f4ef539c1281bdf46c696701", 
+        "latitude": 49.641011429698, 
+        "longitude": 8.4567475318909, 
+        "name": "Marktplatz", 
+        "timestamp": "2017-08-15T04:49:06.309000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43320", 
+            "43613", 
+            "44066", 
+            "44062"
+          ], 
+          "number": "2704", 
+          "slots": 6, 
+          "uid": "2846092"
+        }, 
+        "free_bikes": 4, 
+        "id": "4fa03b74bc793030a83499cf6b34683c", 
+        "latitude": 49.643373597921, 
+        "longitude": 8.4739995002747, 
+        "name": "Waldschwimmbad", 
+        "timestamp": "2017-08-15T04:49:06.310000Z"
+      }
+    ]
+  }
+}

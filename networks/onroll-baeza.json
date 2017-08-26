@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-baeza", 
+    "id": "onroll-baeza", 
+    "location": {
+      "city": "Baeza", 
+      "country": "ES", 
+      "latitude": 37.99537, 
+      "longitude": -3.468248
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "f2a501d76f720a5d227d92d17d1d411f", 
+        "latitude": 37.998848, 
+        "longitude": -3.475702, 
+        "name": "Barrio de Andalucia", 
+        "timestamp": "2017-08-15T04:46:30.485000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "e33edee91564a623de35160395ba83ef", 
+        "latitude": 37.996399, 
+        "longitude": -3.464341, 
+        "name": "Parque Leocadio Mar\u00edn", 
+        "timestamp": "2017-08-15T04:46:30.494000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "05b13b352cd965380c52ff6c38ec748c", 
+        "latitude": 37.991457, 
+        "longitude": -3.474895, 
+        "name": "Patrimonio Humanidad", 
+        "timestamp": "2017-08-15T04:46:30.495000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "2b1e43d1e05c4c27643b2e96c796784f", 
+        "latitude": 37.991225, 
+        "longitude": -3.467817, 
+        "name": "Patronato", 
+        "timestamp": "2017-08-15T04:46:30.496000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "772c02bec221eb2a229ba62264556927", 
+        "latitude": 37.998919, 
+        "longitude": -3.458483, 
+        "name": "Polideportivo Municipal", 
+        "timestamp": "2017-08-15T04:46:30.497000Z"
+      }
+    ]
+  }
+}

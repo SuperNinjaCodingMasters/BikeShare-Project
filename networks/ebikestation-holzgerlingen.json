@@ -1,0 +1,39 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-holzgerlingen", 
+    "id": "ebikestation-holzgerlingen", 
+    "location": {
+      "city": "Holzgerlingen", 
+      "country": "DE", 
+      "latitude": 48.6388, 
+      "longitude": 9.0096
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "91756", 
+            "91607", 
+            "91605", 
+            "91601", 
+            "91646"
+          ], 
+          "number": "5807", 
+          "slots": 12, 
+          "uid": "479242"
+        }, 
+        "free_bikes": 10, 
+        "id": "74c2448a6c2b20508c24f7959a2ca0ea", 
+        "latitude": 48.637432111283, 
+        "longitude": 9.0069222450256, 
+        "name": "E-Bike-Station Holzgerlingen", 
+        "timestamp": "2017-08-15T04:47:52.456000Z"
+      }
+    ]
+  }
+}

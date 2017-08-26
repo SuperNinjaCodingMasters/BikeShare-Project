@@ -1,0 +1,152 @@
+{
+  "network": {
+    "company": [
+      "Groundwork", 
+      "Slough Borough Council", 
+      "ITS"
+    ], 
+    "href": "/v2/networks/cycle-hire-slough", 
+    "id": "cycle-hire-slough", 
+    "location": {
+      "city": "Slough", 
+      "country": "GB", 
+      "latitude": 51.51135, 
+      "longitude": -0.591562
+    }, 
+    "name": "Cycle Hire", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uuid": "011"
+        }, 
+        "free_bikes": 3, 
+        "id": "a2336b58be90695c588b5c90819758a5", 
+        "latitude": 51.531906, 
+        "longitude": -0.631026, 
+        "name": "011-Britwell", 
+        "timestamp": "2017-08-15T04:48:40.832000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "uuid": "001"
+        }, 
+        "free_bikes": 9, 
+        "id": "385008809ffde32da5a79f1ec871679d", 
+        "latitude": 51.51135, 
+        "longitude": -0.591562, 
+        "name": "001-Slough Train Station", 
+        "timestamp": "2017-08-15T04:48:40.798000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uuid": "002"
+        }, 
+        "free_bikes": 9, 
+        "id": "2914225075c11a6f0a3cb301b7d27f17", 
+        "latitude": 51.523823, 
+        "longitude": -0.645294, 
+        "name": "002-Burnham Train Station", 
+        "timestamp": "2017-08-15T04:48:40.811000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uuid": "004"
+        }, 
+        "free_bikes": 6, 
+        "id": "687218e5f6560edec295433a2676f19f", 
+        "latitude": 51.510629, 
+        "longitude": -0.607722, 
+        "name": "004\u2013Montem Leisure Centre", 
+        "timestamp": "2017-08-15T04:48:40.817000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uuid": "005"
+        }, 
+        "free_bikes": 4, 
+        "id": "6ca6bab3debfc6751ced6377a90e4032", 
+        "latitude": 51.501937, 
+        "longitude": -0.554815, 
+        "name": "005-Trelawney Avenue", 
+        "timestamp": "2017-08-15T04:48:40.819000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uuid": "008"
+        }, 
+        "free_bikes": 1, 
+        "id": "55e63b2ad5ea52056d4f4127899746b9", 
+        "latitude": 51.519919, 
+        "longitude": -0.616663, 
+        "name": "008\u2013Yarmouth Road / Buckingham Avenue", 
+        "timestamp": "2017-08-15T04:48:40.826000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "uuid": "003"
+        }, 
+        "free_bikes": 7, 
+        "id": "75b2458e09c22d02122e93523c72871f", 
+        "latitude": 51.516508, 
+        "longitude": -0.625637, 
+        "name": "003\u2013Leigh Road / Bath Road", 
+        "timestamp": "2017-08-15T04:48:40.815000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uuid": "006"
+        }, 
+        "free_bikes": 1, 
+        "id": "61e2ed7d83595f2a08b8c43455521fba", 
+        "latitude": 51.504835, 
+        "longitude": -0.543953, 
+        "name": "006\u2013Harrow Market / East Berkshire College", 
+        "timestamp": "2017-08-15T04:48:40.820000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uuid": "007"
+        }, 
+        "free_bikes": 1, 
+        "id": "50c2acab5d7489ca57419d042b993873", 
+        "latitude": 51.489517, 
+        "longitude": -0.534806, 
+        "name": "007\u2013Sutton Lane / London Road", 
+        "timestamp": "2017-08-15T04:48:40.824000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uuid": "009"
+        }, 
+        "free_bikes": 2, 
+        "id": "98d0661dbe1c4d0139e0f0c1f78d81da", 
+        "latitude": 51.520432, 
+        "longitude": -0.635472, 
+        "name": "009-Bath Road Shopping Centre", 
+        "timestamp": "2017-08-15T04:48:40.829000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uuid": "010"
+        }, 
+        "free_bikes": 1, 
+        "id": "a4bddbe98db3bc24cc4ab27ec15e9a4a", 
+        "latitude": 51.506562, 
+        "longitude": -0.60677, 
+        "name": "010-Chalvey High Street", 
+        "timestamp": "2017-08-15T04:48:40.831000Z"
+      }
+    ]
+  }
+}

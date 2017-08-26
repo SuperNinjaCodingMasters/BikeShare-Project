@@ -1,0 +1,211 @@
+{
+  "network": {
+    "company": [
+      "PBSC", 
+      "Alta Bicycle Share, Inc"
+    ], 
+    "href": "/v2/networks/wowcycle-reykjavik", 
+    "id": "wowcycle-reykjavik", 
+    "location": {
+      "city": "Reykjav\u00edk", 
+      "country": "IS", 
+      "latitude": 64.128288, 
+      "longitude": -21.827774
+    }, 
+    "name": "WOW Citybike", 
+    "stations": [
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "altitude": "", 
+          "city": "Reykjavik", 
+          "landMark": "", 
+          "lastCommunicationTime": "2017-08-15 04:44:17", 
+          "location": "", 
+          "postalCode": "", 
+          "stAddress1": "L\u00e6kjartorg Square", 
+          "stAddress2": "", 
+          "statusKey": 1, 
+          "statusValue": "In Service", 
+          "testStation": false, 
+          "totalDocks": 23, 
+          "uid": 1
+        }, 
+        "free_bikes": 10, 
+        "id": "3b90e40a339f03152cc412f6c4758a7a", 
+        "latitude": 64.1477, 
+        "longitude": -21.9362, 
+        "name": "1 - L\u00e6kjartorg Square", 
+        "timestamp": "2017-08-15T04:48:35.513000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "altitude": "", 
+          "city": "Reykjavik", 
+          "landMark": "", 
+          "lastCommunicationTime": "2017-08-15 04:46:19", 
+          "location": "", 
+          "postalCode": "", 
+          "stAddress1": "Hallgr\u00edmskirkja Church", 
+          "stAddress2": "", 
+          "statusKey": 1, 
+          "statusValue": "In Service", 
+          "testStation": false, 
+          "totalDocks": 11, 
+          "uid": 3
+        }, 
+        "free_bikes": 10, 
+        "id": "a92cca2da960c7698ee7fdf62248fbd3", 
+        "latitude": 64.1424, 
+        "longitude": -21.9284, 
+        "name": "3 - Hallgr\u00edmskirkja Church", 
+        "timestamp": "2017-08-15T04:48:35.518000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "altitude": "", 
+          "city": "Reykjavik", 
+          "landMark": "", 
+          "lastCommunicationTime": "2017-08-15 04:46:44", 
+          "location": "", 
+          "postalCode": "", 
+          "stAddress1": "Hlemmur Square", 
+          "stAddress2": "", 
+          "statusKey": 1, 
+          "statusValue": "In Service", 
+          "testStation": false, 
+          "totalDocks": 15, 
+          "uid": 4
+        }, 
+        "free_bikes": 15, 
+        "id": "95f2ef1196287b362ed578a5242e14b5", 
+        "latitude": 64.1431, 
+        "longitude": -21.9133, 
+        "name": "4 - Hlemmur Square", 
+        "timestamp": "2017-08-15T04:48:35.521000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "altitude": "", 
+          "city": "Reykjavik", 
+          "landMark": "", 
+          "lastCommunicationTime": "2017-08-15 04:46:45", 
+          "location": "", 
+          "postalCode": "", 
+          "stAddress1": "H\u00fasd\u00fdragar\u00f0urinn Park and Zoo", 
+          "stAddress2": "", 
+          "statusKey": 1, 
+          "statusValue": "In Service", 
+          "testStation": false, 
+          "totalDocks": 11, 
+          "uid": 5
+        }, 
+        "free_bikes": 9, 
+        "id": "b324d8a836d69d0aa649fec6f7f9d2b8", 
+        "latitude": 64.1403, 
+        "longitude": -21.8715, 
+        "name": "5 - H\u00fasd\u00fdragar\u00f0urinn Park and Zoo", 
+        "timestamp": "2017-08-15T04:48:35.523000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "altitude": "", 
+          "city": "Reykjavik", 
+          "landMark": "", 
+          "lastCommunicationTime": "2017-08-15 04:44:47", 
+          "location": "", 
+          "postalCode": "", 
+          "stAddress1": "Klambrat\u00fan Park", 
+          "stAddress2": "", 
+          "statusKey": 1, 
+          "statusValue": "In Service", 
+          "testStation": false, 
+          "totalDocks": 19, 
+          "uid": 6
+        }, 
+        "free_bikes": 9, 
+        "id": "8b245980235945ceabf2ca492dd35d61", 
+        "latitude": 64.1386, 
+        "longitude": -21.915, 
+        "name": "6 - Klambrat\u00fan Park", 
+        "timestamp": "2017-08-15T04:48:35.524000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "altitude": "", 
+          "city": "Reykjavik", 
+          "landMark": "", 
+          "lastCommunicationTime": "2017-08-15 04:47:32", 
+          "location": "", 
+          "postalCode": "", 
+          "stAddress1": "Laugardalslaug Pool", 
+          "stAddress2": "", 
+          "statusKey": 1, 
+          "statusValue": "In Service", 
+          "testStation": false, 
+          "totalDocks": 19, 
+          "uid": 7
+        }, 
+        "free_bikes": 17, 
+        "id": "c852bcc828ce8a6e9e5cb9ea9adb8ed7", 
+        "latitude": 64.1462, 
+        "longitude": -21.8819, 
+        "name": "7 - Laugardalslaug Pool", 
+        "timestamp": "2017-08-15T04:48:35.525000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "altitude": "", 
+          "city": "Reykjavik", 
+          "landMark": "", 
+          "lastCommunicationTime": "2017-08-15 04:44:54", 
+          "location": "", 
+          "postalCode": "", 
+          "stAddress1": "Reykjav\u00edk's Old Harbor", 
+          "stAddress2": "", 
+          "statusKey": 1, 
+          "statusValue": "In Service", 
+          "testStation": false, 
+          "totalDocks": 19, 
+          "uid": 2
+        }, 
+        "free_bikes": 10, 
+        "id": "7985bffc5fb1ca71e3e2786058989d10", 
+        "latitude": 64.1521, 
+        "longitude": -21.9475, 
+        "name": "2 - Reykjav\u00edk's Old Harbor", 
+        "timestamp": "2017-08-15T04:48:35.516000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "altitude": "", 
+          "city": "Reykjavik", 
+          "landMark": "", 
+          "lastCommunicationTime": "2017-08-15 04:48:03", 
+          "location": "", 
+          "postalCode": "", 
+          "stAddress1": "Nauth\u00f3lsv\u00edk Beach", 
+          "stAddress2": "", 
+          "statusKey": 1, 
+          "statusValue": "In Service", 
+          "testStation": false, 
+          "totalDocks": 19, 
+          "uid": 8
+        }, 
+        "free_bikes": 8, 
+        "id": "95c9a03a5b2c19e9ef2909cd98f3d4a9", 
+        "latitude": 64.1221, 
+        "longitude": -21.9285, 
+        "name": "8 - Nauth\u00f3lsv\u00edk Beach", 
+        "timestamp": "2017-08-15T04:48:35.525000Z"
+      }
+    ]
+  }
+}

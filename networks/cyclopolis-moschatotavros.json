@@ -1,0 +1,79 @@
+{
+  "network": {
+    "company": [
+      "Cyclopolis Systems"
+    ], 
+    "href": "/v2/networks/cyclopolis-moschatotavros", 
+    "id": "cyclopolis-moschatotavros", 
+    "location": {
+      "city": "\u039coschato-Tavros", 
+      "country": "GR", 
+      "latitude": 37.9538991434, 
+      "longitude": 23.6824746661
+    }, 
+    "name": "Cyclopolis", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 22
+        }, 
+        "free_bikes": 0, 
+        "id": "ad12f868fa3cb879e2c1e09fa72baa8b", 
+        "latitude": 37.9538991433749, 
+        "longitude": 23.6824746661008, 
+        "name": "IROON POLYTECHNIOU SQUARE ", 
+        "timestamp": "2017-08-15T04:49:34.454000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 4, 
+        "id": "80b7ba9afbb15855f6e8783ddd790543", 
+        "latitude": 37.9627801259914, 
+        "longitude": 23.7038638562375, 
+        "name": "ISAP TAVROS", 
+        "timestamp": "2017-08-15T04:49:34.460000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 4, 
+        "id": "aa57ef65f5eeff7b851801021ca05cf3", 
+        "latitude": 37.95531228097318, 
+        "longitude": 23.68129403669527, 
+        "name": "ISAP MOSCHATO", 
+        "timestamp": "2017-08-15T04:49:34.458000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 4, 
+        "id": "91742a4cce86c552f234fe85be0bc596", 
+        "latitude": 37.945618912722054, 
+        "longitude": 23.67753267288208, 
+        "name": "BLOCK 16 SQUARE", 
+        "timestamp": "2017-08-15T04:49:34.459000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 8
+        }, 
+        "free_bikes": 4, 
+        "id": "dc73bfca7382009b1c82d2ce495ddc50", 
+        "latitude": 37.9677556, 
+        "longitude": 23.6975235, 
+        "name": "PEIRAIOS", 
+        "timestamp": "2017-08-15T04:49:34.461000Z"
+      }
+    ]
+  }
+}

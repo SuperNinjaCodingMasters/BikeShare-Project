@@ -1,0 +1,612 @@
+{
+  "network": {
+    "company": [
+      "Motivate International, Inc", 
+      "PBSC"
+    ], 
+    "gbfs_href": "https://gbfs.bikechattanooga.com/gbfs/gbfs.json", 
+    "href": "/v2/networks/bike-chattanooga", 
+    "id": "bike-chattanooga", 
+    "location": {
+      "city": "Chattanooga, TN", 
+      "country": "US", 
+      "latitude": 35.0456297, 
+      "longitude": -85.3096801
+    }, 
+    "name": "Bike Chattanooga", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "100 Manufacturers Rd", 
+          "last_updated": 1502772532, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1297"
+        }, 
+        "free_bikes": 13, 
+        "id": "00ec57c6b91588d4d21853409ba46cc7", 
+        "latitude": 35.063014, 
+        "longitude": -85.310469, 
+        "name": "100 Manufacturers Rd", 
+        "timestamp": "2017-08-15T04:49:17.071000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "200 River St", 
+          "last_updated": 1502772463, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1299"
+        }, 
+        "free_bikes": 16, 
+        "id": "7dc6b871a143c00c86514d6451364598", 
+        "latitude": 35.06141, 
+        "longitude": -85.306574, 
+        "name": "200 River St Outdoor Chattanooga", 
+        "timestamp": "2017-08-15T04:49:17.070000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "301 Manufacturers Rd", 
+          "last_updated": 1502772346, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1301"
+        }, 
+        "free_bikes": 7, 
+        "id": "76111f8db619ea7a558ef6077dc0218a", 
+        "latitude": 35.063304, 
+        "longitude": -85.315211, 
+        "name": "301 Manufacturers Rd", 
+        "timestamp": "2017-08-15T04:49:17.055000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "215 Broad St", 
+          "last_updated": 1502772465, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1303"
+        }, 
+        "free_bikes": 12, 
+        "id": "b7f7bfa2923f6fd1f77a8213389da897", 
+        "latitude": 35.053928, 
+        "longitude": -85.310925, 
+        "name": "215 Broad St", 
+        "timestamp": "2017-08-15T04:49:17.055000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Market St & E 14th St", 
+          "last_updated": 1502772368, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1305"
+        }, 
+        "free_bikes": 14, 
+        "id": "e65bdef1bff9341419d09d91e745d23b", 
+        "latitude": 35.036904, 
+        "longitude": -85.307269, 
+        "name": "Market St & E 14th St", 
+        "timestamp": "2017-08-15T04:49:17.052000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Market and E 4th", 
+          "last_updated": 1502772377, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1307"
+        }, 
+        "free_bikes": 10, 
+        "id": "78cb424f97aceeb60c819813a5ad30fa", 
+        "latitude": 35.052701, 
+        "longitude": -85.309483, 
+        "name": "Market & E 4th Street", 
+        "timestamp": "2017-08-15T04:49:17.054000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Market St & W 12th St", 
+          "last_updated": 1502772352, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1309"
+        }, 
+        "free_bikes": 5, 
+        "id": "d84ae9cde74d6579bcd4340b4aad689f", 
+        "latitude": 35.042774, 
+        "longitude": -85.309331, 
+        "name": "Market St & W 12th St", 
+        "timestamp": "2017-08-15T04:49:17.058000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Market St & Cowart St", 
+          "last_updated": 1502772372, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1311"
+        }, 
+        "free_bikes": 8, 
+        "id": "9f0fd89b79b0de32c9812b63f2fc6f60", 
+        "latitude": 35.040771, 
+        "longitude": -85.308394, 
+        "name": "Market St & Cowart St", 
+        "timestamp": "2017-08-15T04:49:17.076000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "100 Riverfront Parkway", 
+          "last_updated": 1502772328, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1313"
+        }, 
+        "free_bikes": 9, 
+        "id": "55d20aa4124f037a701bf99930c97ef4", 
+        "latitude": 35.056655, 
+        "longitude": -85.310487, 
+        "name": "Chestnut St & Riverfront Pkwy", 
+        "timestamp": "2017-08-15T04:49:17.075000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Carter St & W 12th St", 
+          "last_updated": 1502772283, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1315"
+        }, 
+        "free_bikes": 7, 
+        "id": "95ccfc9d1c190d7cdb7949753f64d9d4", 
+        "latitude": 35.043367, 
+        "longitude": -85.312762, 
+        "name": "Carter St & W 12th St", 
+        "timestamp": "2017-08-15T04:49:17.073000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Broad St & W 6th St", 
+          "last_updated": 1502772453, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1317"
+        }, 
+        "free_bikes": 5, 
+        "id": "e20bbc2057fbe6dd2e34abfb20cc4493", 
+        "latitude": 35.049429, 
+        "longitude": -85.310399, 
+        "name": "Broad St & W 6th St", 
+        "timestamp": "2017-08-15T04:49:17.072000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "100 Walnut St", 
+          "last_updated": 1502772447, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1319"
+        }, 
+        "free_bikes": 12, 
+        "id": "11cd446a4133fe5c762a062487740726", 
+        "latitude": 35.055687, 
+        "longitude": -85.307813, 
+        "name": "100 Walnut St", 
+        "timestamp": "2017-08-15T04:49:17.079000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "High St & E 2nd St", 
+          "last_updated": 1502772433, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1321"
+        }, 
+        "free_bikes": 3, 
+        "id": "bb4afe89277c6c880d8f66cdba5eada3", 
+        "latitude": 35.054161, 
+        "longitude": -85.305448, 
+        "name": "High St & E 2nd St", 
+        "timestamp": "2017-08-15T04:49:17.060000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Power Alley & Riverfront Pkwy", 
+          "last_updated": 1502772353, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1323"
+        }, 
+        "free_bikes": 11, 
+        "id": "744be9c34649dccd604463c0ff7d787c", 
+        "latitude": 35.055582, 
+        "longitude": -85.312797, 
+        "name": "Power Alley & Riverfront Pkwy", 
+        "timestamp": "2017-08-15T04:49:17.082000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "M.L. King Blvd & Lindsay St", 
+          "last_updated": 1502772480, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1327"
+        }, 
+        "free_bikes": 12, 
+        "id": "306710b848c05c35a2f1b2b7984c37d9", 
+        "latitude": 35.044973, 
+        "longitude": -85.307015, 
+        "name": "ML King Blvd & Lindsay St", 
+        "timestamp": "2017-08-15T04:49:17.062000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "McCallie Ave & Lindsay St", 
+          "last_updated": 1502772442, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1329"
+        }, 
+        "free_bikes": 7, 
+        "id": "f122bb78eb95db5ab5ab79f491628171", 
+        "latitude": 35.047319, 
+        "longitude": -85.305834, 
+        "name": "McCallie Ave & Lindsay St", 
+        "timestamp": "2017-08-15T04:49:17.057000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "E 5th St & Collins St", 
+          "last_updated": 1502772339, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1331"
+        }, 
+        "free_bikes": 8, 
+        "id": "cc34e0a421c8547a883071cc2e980795", 
+        "latitude": 35.047862, 
+        "longitude": -85.297186, 
+        "name": "E 5th St & Collins St", 
+        "timestamp": "2017-08-15T04:49:17.079000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "800 E 8th St", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1333"
+        }, 
+        "free_bikes": 7, 
+        "id": "eea39edac468dd1601c0646474b02747", 
+        "latitude": 35.043639, 
+        "longitude": -85.297988, 
+        "name": "800 E 8th St", 
+        "timestamp": "2017-08-15T04:49:17.081000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Oak St & University Greenway", 
+          "last_updated": 1502772297, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1335"
+        }, 
+        "free_bikes": 7, 
+        "id": "4caf14a94366ebb3b270dbac4e61ab61", 
+        "latitude": 35.045057, 
+        "longitude": -85.296087, 
+        "name": "Oak St & University Greenway", 
+        "timestamp": "2017-08-15T04:49:17.077000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Oak St & Houston St", 
+          "last_updated": 1502772385, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1337"
+        }, 
+        "free_bikes": 6, 
+        "id": "cf78565a7d4c71c1953183c9a95497e2", 
+        "latitude": 35.047574, 
+        "longitude": -85.302739, 
+        "name": "Oak St & Houston St", 
+        "timestamp": "2017-08-15T04:49:17.078000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "218 E Main St", 
+          "last_updated": 1502772452, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1341"
+        }, 
+        "free_bikes": 7, 
+        "id": "b4c6b3e9bf5b62153bff4e41e352eaed", 
+        "latitude": 35.035217, 
+        "longitude": -85.305187, 
+        "name": "E Main St & Rossville Ave", 
+        "timestamp": "2017-08-15T04:49:17.056000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "401 Broad St", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1343"
+        }, 
+        "free_bikes": 6, 
+        "id": "b55d5cede29e4caf82a7ecd3c1f53afe", 
+        "latitude": 35.05251, 
+        "longitude": -85.310874, 
+        "name": "Broad St & W 4th St", 
+        "timestamp": "2017-08-15T04:49:17.074000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "735 Broad St", 
+          "last_updated": 1502772365, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1345"
+        }, 
+        "free_bikes": 4, 
+        "id": "1c36cb38122e363ae24c5dc09d10f527", 
+        "latitude": 35.047205, 
+        "longitude": -85.310675, 
+        "name": "Broad St & W 8th St", 
+        "timestamp": "2017-08-15T04:49:17.080000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "343 W Main St", 
+          "last_updated": 1502772380, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1347"
+        }, 
+        "free_bikes": 6, 
+        "id": "9e44b9ef875e5c59684eafe912e70720", 
+        "latitude": 35.037381, 
+        "longitude": -85.310411, 
+        "name": "W Main St & Cowart St", 
+        "timestamp": "2017-08-15T04:49:17.059000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1216 Broad St", 
+          "last_updated": 1502772284, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1349"
+        }, 
+        "free_bikes": 5, 
+        "id": "b96d2baf4969de1c85eba3ed62bcf454", 
+        "latitude": 35.040549, 
+        "longitude": -85.309554, 
+        "name": "1216 Broad St", 
+        "timestamp": "2017-08-15T04:49:17.087000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1826 Carter St", 
+          "last_updated": 1502772549, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1351"
+        }, 
+        "free_bikes": 9, 
+        "id": "4eb2eb0ce36b31d4bdb6160cfd775a36", 
+        "latitude": 35.037433, 
+        "longitude": -85.315093, 
+        "name": "1826 Carter St", 
+        "timestamp": "2017-08-15T04:49:17.061000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "500 Georgia Ave", 
+          "last_updated": 1502772407, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1353"
+        }, 
+        "free_bikes": 9, 
+        "id": "3a86c3bbf0fe6d39946c02afd60d617f", 
+        "latitude": 35.050771, 
+        "longitude": -85.305346, 
+        "name": "500 Georgia Ave", 
+        "timestamp": "2017-08-15T04:49:17.068000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Broad St & W 10th St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1363"
+        }, 
+        "free_bikes": 8, 
+        "id": "d0006be1bb555ffb7bbd887bfaaf852e", 
+        "latitude": 35.044458, 
+        "longitude": -85.310458, 
+        "name": "Broad St & W 10th St", 
+        "timestamp": "2017-08-15T04:49:17.086000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Douglas St & Vine St", 
+          "last_updated": 1502772451, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1369"
+        }, 
+        "free_bikes": 12, 
+        "id": "6fbefe75be2a43611ce1d4d1284d68fd", 
+        "latitude": 35.048285, 
+        "longitude": -85.300237, 
+        "name": "Douglas St", 
+        "timestamp": "2017-08-15T04:49:17.087000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "4310 Amnicola Hwy", 
+          "last_updated": 1502772498, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1373"
+        }, 
+        "free_bikes": 14, 
+        "id": "b4ea75dafda88097ed144a684e7275e9", 
+        "latitude": 35.096003, 
+        "longitude": -85.254503, 
+        "name": "Hubert Fry Center Tennessee Riverpark", 
+        "timestamp": "2017-08-15T04:49:17.069000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "495 Riverfront Pkwy", 
+          "last_updated": 1502772478, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1420"
+        }, 
+        "free_bikes": 9, 
+        "id": "617d301d4c9ee5672a2f7d7161b81d81", 
+        "latitude": 35.053801, 
+        "longitude": -85.32021, 
+        "name": "SpringHill Suites", 
+        "timestamp": "2017-08-15T04:49:17.066000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Pine St. & W. 6th St.", 
+          "last_updated": 1502772433, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1421"
+        }, 
+        "free_bikes": 2, 
+        "id": "ab9c52b311cf60ea44511f89b0008a98", 
+        "latitude": 35.049271, 
+        "longitude": -85.312617, 
+        "name": "Pine St. & W. 6th St.", 
+        "timestamp": "2017-08-15T04:49:17.063000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "526 E MLK Blvd", 
+          "last_updated": 1502772408, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1431"
+        }, 
+        "free_bikes": 6, 
+        "id": "1bcb78dc6c8c45d5110a2a362ca5ba40", 
+        "latitude": 35.043238, 
+        "longitude": -85.301804, 
+        "name": "MLK and University St", 
+        "timestamp": "2017-08-15T04:49:17.085000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "17 Patten Parkway", 
+          "last_updated": 1502772317, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1325"
+        }, 
+        "free_bikes": 7, 
+        "id": "f233efaf8007eaa850ebf8bb05e1165f", 
+        "latitude": 35.0462019, 
+        "longitude": -85.307395, 
+        "name": "Patten Parkway", 
+        "timestamp": "2017-08-15T04:49:17.067000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Blue Goose Hollow River Park Entrance", 
+          "last_updated": 1502772319, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1429"
+        }, 
+        "free_bikes": 8, 
+        "id": "f306eb8454ae391284c2de2bd5ea4aa0", 
+        "latitude": 35.050405, 
+        "longitude": -85.323739, 
+        "name": "Blue Goose Hollow", 
+        "timestamp": "2017-08-15T04:49:17.066000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Curtain Pole River Park Entrance", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1430"
+        }, 
+        "free_bikes": 12, 
+        "id": "4b23a2191137ffce5813551ccd195758", 
+        "latitude": 35.065416, 
+        "longitude": -85.274031, 
+        "name": "Curtain Pole", 
+        "timestamp": "2017-08-15T04:49:17.084000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Middle st", 
+          "last_updated": 1502772477, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "1432"
+        }, 
+        "free_bikes": 7, 
+        "id": "d8137f9a00b4a9cec42c963bd6846a85", 
+        "latitude": 35.019621, 
+        "longitude": -85.324018, 
+        "name": "Middle St", 
+        "timestamp": "2017-08-15T04:49:17.083000Z"
+      }
+    ]
+  }
+}

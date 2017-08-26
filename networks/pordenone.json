@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/pordenone", 
+    "id": "pordenone", 
+    "location": {
+      "city": "Pordenone", 
+      "country": "IT", 
+      "latitude": 45.94790101663391, 
+      "longitude": 12.674491020251475
+    }, 
+    "name": "Pordenone", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Centro Intermodale Via Pola", 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "55d2eedbfb3bf76fdfc404b7e59a1a6d", 
+        "latitude": 45.95528581611089, 
+        "longitude": 12.655715557147232, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:47:55.001000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via Andrea Mantegna, 15", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "198166c9da5edde90a3e519aa8bdaf68", 
+        "latitude": 45.95254087423589, 
+        "longitude": 12.675274225283829, 
+        "name": "Universita`", 
+        "timestamp": "2017-08-15T04:47:55.004000Z"
+      }
+    ]
+  }
+}

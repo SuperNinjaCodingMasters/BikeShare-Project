@@ -1,0 +1,570 @@
+{
+  "network": {
+    "company": [
+      "Veolia"
+    ], 
+    "href": "/v2/networks/dkvelo", 
+    "id": "dkvelo", 
+    "location": {
+      "city": "Dunkerque", 
+      "country": "FR", 
+      "latitude": 51.0383, 
+      "longitude": 2.3775
+    }, 
+    "name": "DK'V\u00e9lo", 
+    "stations": [
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": "01"
+        }, 
+        "free_bikes": 11, 
+        "id": "d56de0f95eafe1266b11d95da47e8771", 
+        "latitude": 51.0307612190156, 
+        "longitude": 2.3694634437561, 
+        "name": "Gare SNCF", 
+        "timestamp": "2017-08-15T04:47:07.448000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "02"
+        }, 
+        "free_bikes": 2, 
+        "id": "93aec225cd006582e9030682d415d91b", 
+        "latitude": 51.0343304550351, 
+        "longitude": 2.37655520439148, 
+        "name": "Jean Bart", 
+        "timestamp": "2017-08-15T04:47:07.467000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "03"
+        }, 
+        "free_bikes": 12, 
+        "id": "a49352c4f3de6a597bcde58355670986", 
+        "latitude": 51.0341710037587, 
+        "longitude": 2.37193036096869, 
+        "name": "Pole Marine", 
+        "timestamp": "2017-08-15T04:47:07.469000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "04"
+        }, 
+        "free_bikes": 6, 
+        "id": "ea500d3ecdf9558bffb845ed9d0ed452", 
+        "latitude": 51.0354798841504, 
+        "longitude": 2.36536431330023, 
+        "name": "Mole 1", 
+        "timestamp": "2017-08-15T04:47:07.471000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "uid": "05"
+        }, 
+        "free_bikes": 8, 
+        "id": "8cd88b1b4ed1de6365592e507c625db2", 
+        "latitude": 51.036447127722, 
+        "longitude": 2.37047052418347, 
+        "name": "Universite", 
+        "timestamp": "2017-08-15T04:47:07.474000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "06"
+        }, 
+        "free_bikes": 9, 
+        "id": "0333d2ee9cce9ba4d246162663a098a4", 
+        "latitude": 51.0406610684039, 
+        "longitude": 2.37478423136054, 
+        "name": "Trois Ponts", 
+        "timestamp": "2017-08-15T04:47:07.476000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "07"
+        }, 
+        "free_bikes": 3, 
+        "id": "55a25920865057f53830d37ebf97aea6", 
+        "latitude": 51.0374094032827, 
+        "longitude": 2.37667250650702, 
+        "name": "Mairie de Dunkerque", 
+        "timestamp": "2017-08-15T04:47:07.477000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "08"
+        }, 
+        "free_bikes": 10, 
+        "id": "b657163a54b58e9ecfeb36f3bb649129", 
+        "latitude": 51.0357902318107, 
+        "longitude": 2.38070654886542, 
+        "name": "Theatre", 
+        "timestamp": "2017-08-15T04:47:07.480000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "09"
+        }, 
+        "free_bikes": 4, 
+        "id": "8ba8ba02d131e8b4e81362d8b73b5995", 
+        "latitude": 51.0409147154052, 
+        "longitude": 2.3781534434238, 
+        "name": "Neptune", 
+        "timestamp": "2017-08-15T04:47:07.482000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": "10"
+        }, 
+        "free_bikes": 8, 
+        "id": "516072b7d7a057f9e0cad3ceb30136e9", 
+        "latitude": 51.0439934510486, 
+        "longitude": 2.3818008901435, 
+        "name": "Grand Large", 
+        "timestamp": "2017-08-15T04:47:07.486000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "11"
+        }, 
+        "free_bikes": 7, 
+        "id": "2b96779bab2e0f450401eba3a96b20c6", 
+        "latitude": 51.0478382100943, 
+        "longitude": 2.37587857263861, 
+        "name": "Escale / FRAC", 
+        "timestamp": "2017-08-15T04:47:07.488000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "uid": "12"
+        }, 
+        "free_bikes": 0, 
+        "id": "da2a52d8fdc4ac34970fc6af5fa9b62a", 
+        "latitude": 51.0487420194006, 
+        "longitude": 2.3860709668952, 
+        "name": "Kursaal", 
+        "timestamp": "2017-08-15T04:47:07.495000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "13"
+        }, 
+        "free_bikes": 3, 
+        "id": "d8643074199dbf4b27c5d7035ab54154", 
+        "latitude": 51.050127151845, 
+        "longitude": 2.39643430744763, 
+        "name": "Plage", 
+        "timestamp": "2017-08-15T04:47:07.497000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "14"
+        }, 
+        "free_bikes": 7, 
+        "id": "7ab9ea1c839d322de74776bb2f77be90", 
+        "latitude": 51.0458956348835, 
+        "longitude": 2.3955981733161, 
+        "name": "Turenne", 
+        "timestamp": "2017-08-15T04:47:07.501000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "15"
+        }, 
+        "free_bikes": 4, 
+        "id": "e43f6ebfba1b6d15d88b32aa93f47df7", 
+        "latitude": 51.043210969776, 
+        "longitude": 2.38868880289374, 
+        "name": "Glacis", 
+        "timestamp": "2017-08-15T04:47:07.504000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "16"
+        }, 
+        "free_bikes": 6, 
+        "id": "5838c8208d6ccae2737be3bb678c6f0c", 
+        "latitude": 51.0326731674359, 
+        "longitude": 2.37534213083563, 
+        "name": "R\u00e9publique", 
+        "timestamp": "2017-08-15T04:47:07.506000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "17"
+        }, 
+        "free_bikes": 3, 
+        "id": "46f5509d876d04b2000fcf844dc31d19", 
+        "latitude": 51.0291510372233, 
+        "longitude": 2.37682271021185, 
+        "name": "Vauban", 
+        "timestamp": "2017-08-15T04:47:07.507000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "18"
+        }, 
+        "free_bikes": 9, 
+        "id": "aad943c0a3d731896c92f54d3dd56b30", 
+        "latitude": 51.0341802243309, 
+        "longitude": 2.38759374653455, 
+        "name": "Tribut", 
+        "timestamp": "2017-08-15T04:47:07.509000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "19"
+        }, 
+        "free_bikes": 6, 
+        "id": "5410aceeba2566771c8fbeeae9750d6d", 
+        "latitude": 51.0370678080079, 
+        "longitude": 2.39630556141492, 
+        "name": "Hopital", 
+        "timestamp": "2017-08-15T04:47:07.510000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "20"
+        }, 
+        "free_bikes": 15, 
+        "id": "9641f9bde7ac82bceee3ce501e6b445b", 
+        "latitude": 51.0413044035389, 
+        "longitude": 2.40574693714734, 
+        "name": "Mairie de Rosendael", 
+        "timestamp": "2017-08-15T04:47:07.512000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "21"
+        }, 
+        "free_bikes": 13, 
+        "id": "5437693d377debe8c796b2a9fcbcaa94", 
+        "latitude": 51.025704, 
+        "longitude": 2.369936, 
+        "name": "Maison des services", 
+        "timestamp": "2017-08-15T04:47:07.514000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "22"
+        }, 
+        "free_bikes": 7, 
+        "id": "96ef918423af995b4e9f1e6caf5a9a99", 
+        "latitude": 51.01937696095, 
+        "longitude": 2.38103985786438, 
+        "name": "Hotel de Ville / Coudekerque-Branche", 
+        "timestamp": "2017-08-15T04:47:07.526000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": "23"
+        }, 
+        "free_bikes": 8, 
+        "id": "6ae8280de065f97ec1399a3b5ab812cc", 
+        "latitude": 51.024043697686, 
+        "longitude": 2.38794922828674, 
+        "name": "Sainte Germaine", 
+        "timestamp": "2017-08-15T04:47:07.531000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": "24"
+        }, 
+        "free_bikes": 11, 
+        "id": "5075e6009979c16b62afd5a78bb7c110", 
+        "latitude": 51.0285716366908, 
+        "longitude": 2.35258162021637, 
+        "name": "Beffroi", 
+        "timestamp": "2017-08-15T04:47:07.536000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": "25"
+        }, 
+        "free_bikes": 14, 
+        "id": "addd559abc139391394ec1b060ee8ef3", 
+        "latitude": 51.027276056992, 
+        "longitude": 2.34172940254211, 
+        "name": "Mairie St-Pol-sur-Mer", 
+        "timestamp": "2017-08-15T04:47:07.539000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "26"
+        }, 
+        "free_bikes": 6, 
+        "id": "7570e97ace40205dbe6b7ef1719508e3", 
+        "latitude": 51.0229099566896, 
+        "longitude": 2.3511815071106, 
+        "name": "Louis XIV", 
+        "timestamp": "2017-08-15T04:47:07.541000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": "27"
+        }, 
+        "free_bikes": 6, 
+        "id": "e8423bb28183003152863cc9178868b9", 
+        "latitude": 51.0208752269779, 
+        "longitude": 2.33911156654358, 
+        "name": "Concorde", 
+        "timestamp": "2017-08-15T04:47:07.543000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "28"
+        }, 
+        "free_bikes": 6, 
+        "id": "ec392ab236e67dbfdf3f53daee4dcd57", 
+        "latitude": 51.0184287090093, 
+        "longitude": 2.32410728931427, 
+        "name": "St Nicolas", 
+        "timestamp": "2017-08-15T04:47:07.544000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "29"
+        }, 
+        "free_bikes": 6, 
+        "id": "804d262f760e856390fe48286a90b4b9", 
+        "latitude": 51.0189483939693, 
+        "longitude": 2.31043606996536, 
+        "name": "Atrium", 
+        "timestamp": "2017-08-15T04:47:07.546000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "30"
+        }, 
+        "free_bikes": 12, 
+        "id": "fa721e59e68802c150f48271b2b2d645", 
+        "latitude": 51.0147198790517, 
+        "longitude": 2.30308145284653, 
+        "name": "Maison Communale", 
+        "timestamp": "2017-08-15T04:47:07.548000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "31"
+        }, 
+        "free_bikes": 6, 
+        "id": "4e57afbe4d11676904689e2f646394ee", 
+        "latitude": 51.0075443577991, 
+        "longitude": 2.29538083076477, 
+        "name": "Abb\u00e9 Pierre", 
+        "timestamp": "2017-08-15T04:47:07.549000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "32"
+        }, 
+        "free_bikes": 4, 
+        "id": "64d6def3c07e79c6960abfd39f51f3b7", 
+        "latitude": 51.0428984674663, 
+        "longitude": 2.39767105595092, 
+        "name": "Europe", 
+        "timestamp": "2017-08-15T04:47:07.553000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "34"
+        }, 
+        "free_bikes": 6, 
+        "id": "7b3c49b81fc365190ab40fe4d0699705", 
+        "latitude": 51.0564604616955, 
+        "longitude": 2.42878087166901, 
+        "name": "Nicolas II", 
+        "timestamp": "2017-08-15T04:47:07.556000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": "35"
+        }, 
+        "free_bikes": 14, 
+        "id": "d352c95b0f8830d32af8ca5d93c669e6", 
+        "latitude": 51.0503560392223, 
+        "longitude": 2.43224628571625, 
+        "name": "Terminus", 
+        "timestamp": "2017-08-15T04:47:07.562000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "37"
+        }, 
+        "free_bikes": 6, 
+        "id": "5edb6fe7092d4426c4cfdc54641270da", 
+        "latitude": 51.0337931305433, 
+        "longitude": 2.41061695222015, 
+        "name": "Claudel", 
+        "timestamp": "2017-08-15T04:47:07.566000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "44"
+        }, 
+        "free_bikes": 7, 
+        "id": "fe1bfb35aa13da340393d64a741e5765", 
+        "latitude": 51.026771, 
+        "longitude": 2.305335, 
+        "name": "Paul Emile Victor", 
+        "timestamp": "2017-08-15T04:47:07.585000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "36"
+        }, 
+        "free_bikes": 9, 
+        "id": "9cd4bf59ce50b60eb234daa747b65a34", 
+        "latitude": 51.047154, 
+        "longitude": 2.417518, 
+        "name": "Angelier", 
+        "timestamp": "2017-08-15T04:47:07.563000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "33"
+        }, 
+        "free_bikes": 4, 
+        "id": "33045dcb06a668fd7395691192429051", 
+        "latitude": 51.0504790596945, 
+        "longitude": 2.40894708933411, 
+        "name": "M\u00e9ridien", 
+        "timestamp": "2017-08-15T04:47:07.554000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "uid": "38"
+        }, 
+        "free_bikes": 13, 
+        "id": "eccfee65ba939e57e258da9a5b6f651c", 
+        "latitude": 51.0262656146114, 
+        "longitude": 2.39518352154846, 
+        "name": "Petit Steendam", 
+        "timestamp": "2017-08-15T04:47:07.569000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "39"
+        }, 
+        "free_bikes": 2, 
+        "id": "063ad61ecdc23672fd564ab5d21965e6", 
+        "latitude": 51.0249074817397, 
+        "longitude": 2.37745181329956, 
+        "name": "Fort Louis", 
+        "timestamp": "2017-08-15T04:47:07.570000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "40"
+        }, 
+        "free_bikes": 3, 
+        "id": "ff34730de9501114a5f02d856f90b933", 
+        "latitude": 51.0208080079522, 
+        "longitude": 2.37121374622802, 
+        "name": "Place Leclerc", 
+        "timestamp": "2017-08-15T04:47:07.573000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "41"
+        }, 
+        "free_bikes": 7, 
+        "id": "a0105ff97ead984feb260742530d81ed", 
+        "latitude": 51.0206660800419, 
+        "longitude": 2.35924728516693, 
+        "name": "Villette", 
+        "timestamp": "2017-08-15T04:47:07.576000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "43"
+        }, 
+        "free_bikes": 1, 
+        "id": "b8e6b2c86a6f2a19a501796ee1c5b2fb", 
+        "latitude": 51.0330413110349, 
+        "longitude": 2.32999090256271, 
+        "name": "Libert\u00e9", 
+        "timestamp": "2017-08-15T04:47:07.581000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": "45"
+        }, 
+        "free_bikes": 6, 
+        "id": "bec84df60600ba7cef6aa1e5f026ccca", 
+        "latitude": 51.0138019399578, 
+        "longitude": 2.29409758152542, 
+        "name": "St Jacques", 
+        "timestamp": "2017-08-15T04:47:07.586000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "46"
+        }, 
+        "free_bikes": 6, 
+        "id": "9407c9315b7d454c4d594cb0bd1f382e", 
+        "latitude": 51.0113384095371, 
+        "longitude": 2.30850640851713, 
+        "name": "Westhoek", 
+        "timestamp": "2017-08-15T04:47:07.587000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "42"
+        }, 
+        "free_bikes": 1, 
+        "id": "f9f2b92c928b2e2701c77fcb8154e312", 
+        "latitude": 51.02886, 
+        "longitude": 2.365375, 
+        "name": "S\u00e9curit\u00e9 Sociale", 
+        "timestamp": "2017-08-15T04:47:07.579000Z"
+      }
+    ]
+  }
+}

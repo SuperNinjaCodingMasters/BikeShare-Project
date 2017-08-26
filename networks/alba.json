@@ -1,0 +1,127 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/alba", 
+    "id": "alba", 
+    "location": {
+      "city": "Alba", 
+      "country": "IT", 
+      "latitude": 44.716667, 
+      "longitude": 8.083333
+    }, 
+    "name": "Alba", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "ff2fe52fe221d610ccaf2d6766ae9d87", 
+        "latitude": 44.700782275127956, 
+        "longitude": 8.035662174224854, 
+        "name": "04. Municipio", 
+        "timestamp": "2017-08-15T04:46:38.688000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "33a8e2165d8c7db9c7c553842dd819c5", 
+        "latitude": 44.701300837268974, 
+        "longitude": 8.031177520751953, 
+        "name": "05. Medford", 
+        "timestamp": "2017-08-15T04:46:38.689000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "8ec47d937c1aecb894885e9baa022dae", 
+        "latitude": 44.693491409848015, 
+        "longitude": 8.023238182067871, 
+        "name": "06. Piave", 
+        "timestamp": "2017-08-15T04:46:38.691000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "59be529b3eabc7ff00d5ab5e92807fb2", 
+        "latitude": 44.69767080474566, 
+        "longitude": 8.030855655670166, 
+        "name": "01. Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:46:38.676000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "19b2b7b9f58d3ab865a06f5d0a19da3d", 
+        "latitude": 44.696648863781725, 
+        "longitude": 8.034138679504395, 
+        "name": "02. Savona", 
+        "timestamp": "2017-08-15T04:46:38.684000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "b5b453133decc306e1777cc685b7be3d", 
+        "latitude": 44.696633610794926, 
+        "longitude": 8.034063577651978, 
+        "name": "03. Savona 2", 
+        "timestamp": "2017-08-15T04:46:38.686000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "10f1d352d29c6eaa8206fab251fa1e36", 
+        "latitude": 44.68775569083886, 
+        "longitude": 8.034524917602539, 
+        "name": "07. Langhe", 
+        "timestamp": "2017-08-15T04:46:38.707000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "a91173184ffa212995927044245ea732", 
+        "latitude": 44.69373547039753, 
+        "longitude": 8.034889698028564, 
+        "name": "08. S. Barbara", 
+        "timestamp": "2017-08-15T04:46:38.708000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Via Ognissanti", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "c7a2d968c745a9b14c6ebb432d2a778b", 
+        "latitude": 44.696485258437384, 
+        "longitude": 8.025896319604499, 
+        "name": "09. Ferrero", 
+        "timestamp": "2017-08-15T04:46:38.712000Z"
+      }
+    ]
+  }
+}

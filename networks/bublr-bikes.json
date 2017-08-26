@@ -1,0 +1,963 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_bublr/gbfs.json", 
+    "href": "/v2/networks/bublr-bikes", 
+    "id": "bublr-bikes", 
+    "location": {
+      "city": "Milwaukee, WI", 
+      "country": "US", 
+      "latitude": 43.0369, 
+      "longitude": -87.89667
+    }, 
+    "name": "Bublr Bikes", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1805 E. Bradford Ave", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3491"
+        }, 
+        "free_bikes": 7, 
+        "id": "114879037059eafefa9c3ed56a108f2d", 
+        "latitude": 43.06369, 
+        "longitude": -87.8878, 
+        "name": "Oakland/Bradford", 
+        "timestamp": "2017-08-15T04:46:05.453000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "200 E. Pleasant Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3487"
+        }, 
+        "free_bikes": 8, 
+        "id": "45e8da87d17e1ed9383baf2ae9f0edfc", 
+        "latitude": 43.05237, 
+        "longitude": -87.90967, 
+        "name": "Pleasant/Commerce", 
+        "timestamp": "2017-08-15T04:46:05.375000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1200 N. Astor Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3488"
+        }, 
+        "free_bikes": 8, 
+        "id": "df8664e4bd3f2f120d09b56dae3ec3ff", 
+        "latitude": 43.04571, 
+        "longitude": -87.89976, 
+        "name": "Astor/Juneau", 
+        "timestamp": "2017-08-15T04:46:05.419000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1201 W. Kilbourn Ave.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3632"
+        }, 
+        "free_bikes": 9, 
+        "id": "af313ce4750ac9968c27f0a6b24a8a6e", 
+        "latitude": 43.04157, 
+        "longitude": -87.9272, 
+        "name": "Aurora", 
+        "timestamp": "2017-08-15T04:46:05.388000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "123 W Cherry St", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_2775"
+        }, 
+        "free_bikes": 5, 
+        "id": "fce397376f14206f8e89b9e8083b402c", 
+        "latitude": 43.04923, 
+        "longitude": -87.91194, 
+        "name": "Schlitz Park", 
+        "timestamp": "2017-08-15T04:46:05.470000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "57 Watson Ave", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3479"
+        }, 
+        "free_bikes": 4, 
+        "id": "a536c1313fa7cc719b7f955c01b61d1b", 
+        "latitude": 43.05955, 
+        "longitude": -88.00884, 
+        "name": "City Hall", 
+        "timestamp": "2017-08-15T04:46:05.473000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1700 E. Kenwood Blvd", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3492"
+        }, 
+        "free_bikes": 7, 
+        "id": "a1b52a8e2eb01e5c5c116872a886eb10", 
+        "latitude": 43.07472, 
+        "longitude": -87.8882, 
+        "name": "Oakland/Kenwood", 
+        "timestamp": "2017-08-15T04:46:05.454000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "235 W. North Ave", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3446"
+        }, 
+        "free_bikes": 6, 
+        "id": "56be8a38591cea4529155b260da6d6d2", 
+        "latitude": 43.0602, 
+        "longitude": -87.91383, 
+        "name": "MLK/North", 
+        "timestamp": "2017-08-15T04:46:05.391000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2780 N. Oakland Ave", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3493"
+        }, 
+        "free_bikes": 6, 
+        "id": "c0c2d672a70e4cf9def04ce421c33535", 
+        "latitude": 43.069, 
+        "longitude": -87.88806, 
+        "name": "Riverside Park", 
+        "timestamp": "2017-08-15T04:46:05.417000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2021 N. Lincoln Memorial Drive", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3526"
+        }, 
+        "free_bikes": 15, 
+        "id": "1c1104e1c503bb1cc174770f8b237cca", 
+        "latitude": 43.05801, 
+        "longitude": -87.8773, 
+        "name": "Bradford Beach", 
+        "timestamp": "2017-08-15T04:46:05.460000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "800 W. Wells Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3440"
+        }, 
+        "free_bikes": 7, 
+        "id": "44c457710ba2e9934829d7a1d86d7ccc", 
+        "latitude": 43.04032, 
+        "longitude": -87.92061, 
+        "name": "Public Museum ", 
+        "timestamp": "2017-08-15T04:46:05.410000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "275 West Wisconsin Ave.  Milwaukee, WI", 
+          "last_updated": 1502772329, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_bublr_2776"
+        }, 
+        "free_bikes": 3, 
+        "id": "57d839b27d46addc982c74ef5fe09b81", 
+        "latitude": 43.03818, 
+        "longitude": -87.91483, 
+        "name": "Bublr HQ", 
+        "timestamp": "2017-08-15T04:46:05.465000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "500 N Harbor Drive", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_2383"
+        }, 
+        "free_bikes": 9, 
+        "id": "8bc2d03cdb297d2b650f7ed201ddd7df", 
+        "latitude": 43.0369, 
+        "longitude": -87.89667, 
+        "name": "Discovery World", 
+        "timestamp": "2017-08-15T04:46:05.459000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Kilbourn and Water St", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_2772"
+        }, 
+        "free_bikes": 7, 
+        "id": "0cf0e11b73292d8e8ba5b95c4e20a6c7", 
+        "latitude": 43.04249, 
+        "longitude": -87.90996, 
+        "name": "Red Arrow Park", 
+        "timestamp": "2017-08-15T04:46:05.470000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Wisconsin and 4th", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_2777"
+        }, 
+        "free_bikes": 6, 
+        "id": "d40b6524d982e3b8341fd04331d22be5", 
+        "latitude": 43.03913, 
+        "longitude": -87.91615, 
+        "name": "Wisconsin Center", 
+        "timestamp": "2017-08-15T04:46:05.466000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "W St Paul and N 5th St", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_2778"
+        }, 
+        "free_bikes": 7, 
+        "id": "c73cb22a79f81e59aede3564ca969087", 
+        "latitude": 43.03462, 
+        "longitude": -87.9175, 
+        "name": "Intermodal Station", 
+        "timestamp": "2017-08-15T04:46:05.474000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "E St Paul and N Broadway", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_2779"
+        }, 
+        "free_bikes": 11, 
+        "id": "0fd5298f52e5d793241a413c39744859", 
+        "latitude": 43.03519, 
+        "longitude": -87.90739, 
+        "name": "Broadway/St Paul", 
+        "timestamp": "2017-08-15T04:46:05.480000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Wisconsin and Van Buren", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_2780"
+        }, 
+        "free_bikes": 9, 
+        "id": "00f9db40592374ede906b8e588e1b8f8", 
+        "latitude": 43.03886, 
+        "longitude": -87.90272, 
+        "name": "US Bank Center", 
+        "timestamp": "2017-08-15T04:46:05.446000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Wisconsin and Riverwalk", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_2781"
+        }, 
+        "free_bikes": 6, 
+        "id": "be85957917d19c788548513432c35f60", 
+        "latitude": 43.03858, 
+        "longitude": -87.90934, 
+        "name": "Water/Wisconsin", 
+        "timestamp": "2017-08-15T04:46:05.444000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "411 East Wisconsin ", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_2782"
+        }, 
+        "free_bikes": 8, 
+        "id": "f037f3f6f38ebcd73da723e480e0c557", 
+        "latitude": 43.03872, 
+        "longitude": -87.90534, 
+        "name": "411 East Wisconsin ", 
+        "timestamp": "2017-08-15T04:46:05.443000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1114 East Brady Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3009"
+        }, 
+        "free_bikes": 7, 
+        "id": "ec8f286fc21ac64600cd9e04069c13f1", 
+        "latitude": 43.05304, 
+        "longitude": -87.89766, 
+        "name": "Brady/Humboldt", 
+        "timestamp": "2017-08-15T04:46:05.428000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1245 N. Broadway", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3319"
+        }, 
+        "free_bikes": 10, 
+        "id": "8fef9ef6c4b602ec039aeda9ab17bae6", 
+        "latitude": 43.04657, 
+        "longitude": -87.90872, 
+        "name": "Broadway/Knapp", 
+        "timestamp": "2017-08-15T04:46:05.434000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1100 S. 2nd St.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3320"
+        }, 
+        "free_bikes": 7, 
+        "id": "79fc8749e1f03285c20cbc1a8ab224f6", 
+        "latitude": 43.02002, 
+        "longitude": -87.91254, 
+        "name": "S. 2nd/Washington", 
+        "timestamp": "2017-08-15T04:46:05.348000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "200 W. Freshwater Way", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3321"
+        }, 
+        "free_bikes": 5, 
+        "id": "d533d1785d6113b63d324f13a6c6a257", 
+        "latitude": 43.02948, 
+        "longitude": -87.91282, 
+        "name": "S. 2nd/Freshwater ", 
+        "timestamp": "2017-08-15T04:46:05.349000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "144 N. Jefferson St.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3322"
+        }, 
+        "free_bikes": 8, 
+        "id": "b188d953c49186c90f2baf2cc949303c", 
+        "latitude": 43.03132, 
+        "longitude": -87.90426, 
+        "name": "Jefferson/Menomonee", 
+        "timestamp": "2017-08-15T04:46:05.346000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1880 N. Commerce St.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3323"
+        }, 
+        "free_bikes": 7, 
+        "id": "7d928fe27f0159698528ce7245ca14a7", 
+        "latitude": 43.05536, 
+        "longitude": -87.90504, 
+        "name": "Lakefront Brewery", 
+        "timestamp": "2017-08-15T04:46:05.347000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1555 N. 6th St.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3324"
+        }, 
+        "free_bikes": 6, 
+        "id": "4fd3333910bd3c6317eb5b996e86c74f", 
+        "latitude": 43.05112, 
+        "longitude": -87.91882, 
+        "name": "Hillside Terrace", 
+        "timestamp": "2017-08-15T04:46:05.344000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "544 E. Ogden Ave.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3325"
+        }, 
+        "free_bikes": 8, 
+        "id": "3307366344ab05bc189479bf01163dbb", 
+        "latitude": 43.04824, 
+        "longitude": -87.90497, 
+        "name": "Ogden/Jackson", 
+        "timestamp": "2017-08-15T04:46:05.345000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1420 N. Marshall St.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3326"
+        }, 
+        "free_bikes": 6, 
+        "id": "4b562f25ad06507ac8ab4b8a118b0f24", 
+        "latitude": 43.0482, 
+        "longitude": -87.90086, 
+        "name": "Ogden/Marshall", 
+        "timestamp": "2017-08-15T04:46:05.343000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "686 N. 8th St.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3327"
+        }, 
+        "free_bikes": 8, 
+        "id": "05f41a87020da478a66df49c4d8ca954", 
+        "latitude": 43.03865, 
+        "longitude": -87.92193, 
+        "name": "Central Library", 
+        "timestamp": "2017-08-15T04:46:05.344000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1440 E. North Ave.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3328"
+        }, 
+        "free_bikes": 8, 
+        "id": "ff6491e9f045f28bb47f4256d4fbccba", 
+        "latitude": 43.06025, 
+        "longitude": -87.89217, 
+        "name": "North/Cambridge", 
+        "timestamp": "2017-08-15T04:46:05.386000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "2160 N. Humboldt Ave.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3329"
+        }, 
+        "free_bikes": 4, 
+        "id": "5ac0c652c891407d0e5a1a73105e45cc", 
+        "latitude": 43.05839, 
+        "longitude": -87.89787, 
+        "name": "Humboldt/Commerce", 
+        "timestamp": "2017-08-15T04:46:05.387000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "252 E. Menomonee St.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3330"
+        }, 
+        "free_bikes": 6, 
+        "id": "c646d5fb97c037c4917e38f5a2ba4e5c", 
+        "latitude": 43.03148, 
+        "longitude": -87.90817, 
+        "name": "Erie/Menomonee", 
+        "timestamp": "2017-08-15T04:46:05.472000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2165 N. Prospect Ave. ", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3331"
+        }, 
+        "free_bikes": 9, 
+        "id": "e4e4e926798d2ef2ac40c4dfbd956f1f", 
+        "latitude": 43.05862, 
+        "longitude": -87.88532, 
+        "name": "Kenilworth Square", 
+        "timestamp": "2017-08-15T04:46:05.441000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "2340 N. Commerce St.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3332"
+        }, 
+        "free_bikes": 7, 
+        "id": "3df70b7016406c489a8a6bd7981a6b4d", 
+        "latitude": 43.06033, 
+        "longitude": -87.89546, 
+        "name": "Riverview", 
+        "timestamp": "2017-08-15T04:46:05.342000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "3100 N. Maryland Ave.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3333"
+        }, 
+        "free_bikes": 10, 
+        "id": "32dbc08e26173bd9f9bbe5cfd26006a1", 
+        "latitude": 43.07489, 
+        "longitude": -87.88281, 
+        "name": "UWM Student Union ", 
+        "timestamp": "2017-08-15T04:46:05.327000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3400 N. Maryland Ave. ", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3334"
+        }, 
+        "free_bikes": 13, 
+        "id": "00a45df3bc1580b8bd568e6a4b58cd81", 
+        "latitude": 43.07853, 
+        "longitude": -87.88262, 
+        "name": "Sandburg Hall", 
+        "timestamp": "2017-08-15T04:46:05.433000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2311 E. Hartford Ave.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3335"
+        }, 
+        "free_bikes": 8, 
+        "id": "1659433549b3b4ea191f9aa18bd85fd5", 
+        "latitude": 43.07753, 
+        "longitude": -87.88002, 
+        "name": "Golda Meir Library", 
+        "timestamp": "2017-08-15T04:46:05.430000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "530 W. Virginia Ave.", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3336"
+        }, 
+        "free_bikes": 6, 
+        "id": "56139b1be27c1da913dccba4657e0008", 
+        "latitude": 43.02647, 
+        "longitude": -87.91804, 
+        "name": "6th/Virginia", 
+        "timestamp": "2017-08-15T04:46:05.437000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1706 N. Prospect Ave. ", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3348"
+        }, 
+        "free_bikes": 8, 
+        "id": "855929324df7e830f514cc9682960428", 
+        "latitude": 43.05246, 
+        "longitude": -87.891, 
+        "name": "Brady/Prospect ", 
+        "timestamp": "2017-08-15T04:46:05.349000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2168 S. Kinnickinnic Avenue", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3417"
+        }, 
+        "free_bikes": 12, 
+        "id": "a75275231e165e98be44948e258ecf17", 
+        "latitude": 43.00475, 
+        "longitude": -87.9054, 
+        "name": "Zillman Park", 
+        "timestamp": "2017-08-15T04:46:05.421000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "1501 W. Wells St", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3418"
+        }, 
+        "free_bikes": 6, 
+        "id": "a6244fde91f1f0d12a4c21755f2097bc", 
+        "latitude": 43.04015, 
+        "longitude": -87.93211, 
+        "name": "Marquette University Student Union", 
+        "timestamp": "2017-08-15T04:46:05.423000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2305 N. Prospect Ave", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3439"
+        }, 
+        "free_bikes": 10, 
+        "id": "db3136d054dc206d624575f94d057785", 
+        "latitude": 43.06029, 
+        "longitude": -87.88368, 
+        "name": "Prospect/North ", 
+        "timestamp": "2017-08-15T04:46:05.471000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "N. Water St. & E Pleasant Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3441"
+        }, 
+        "free_bikes": 6, 
+        "id": "fa80c5db65825797749b71cf17b52463", 
+        "latitude": 43.05126, 
+        "longitude": -87.90616, 
+        "name": "Water/Pleasant ", 
+        "timestamp": "2017-08-15T04:46:05.407000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2605 W. Park Place", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3442"
+        }, 
+        "free_bikes": 8, 
+        "id": "875f567f192a43a78327ef55662426d0", 
+        "latitude": 43.06727, 
+        "longitude": -87.87774, 
+        "name": "Downer/Park Place", 
+        "timestamp": "2017-08-15T04:46:05.400000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "205 W. Virginia Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3443"
+        }, 
+        "free_bikes": 6, 
+        "id": "3e10b7c3bb8ffa5d0aba49265042ee93", 
+        "latitude": 43.02628, 
+        "longitude": -87.91268, 
+        "name": "S. 2nd/Virginia", 
+        "timestamp": "2017-08-15T04:46:05.397000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "314 W. Brown Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3444"
+        }, 
+        "free_bikes": 4, 
+        "id": "b9eda3871d98a5be7da8a125711fbc9a", 
+        "latitude": 43.05658, 
+        "longitude": -87.91448, 
+        "name": "MLK/Brown", 
+        "timestamp": "2017-08-15T04:46:05.394000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1901 N. 6th Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3445"
+        }, 
+        "free_bikes": 6, 
+        "id": "5ff8f5a3128d24e4eafbe4a8735c813e", 
+        "latitude": 43.05478, 
+        "longitude": -87.91874, 
+        "name": "6th/Reservoir ", 
+        "timestamp": "2017-08-15T04:46:05.393000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1036 S. Caesar E. Chavez Dr", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3447"
+        }, 
+        "free_bikes": 7, 
+        "id": "67f872a89078c225b7204eaba6859d4f", 
+        "latitude": 43.02023, 
+        "longitude": -87.93278, 
+        "name": "Cesar Chavez Drive", 
+        "timestamp": "2017-08-15T04:46:05.390000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2286 N Swan Blvd", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3480"
+        }, 
+        "free_bikes": 5, 
+        "id": "86d6d1e957be7db84bfc8182248ca114", 
+        "latitude": 43.06008, 
+        "longitude": -88.02735, 
+        "name": "W. North Ave/Swan Boulevard", 
+        "timestamp": "2017-08-15T04:46:05.370000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2299 N 83rd Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3481"
+        }, 
+        "free_bikes": 2, 
+        "id": "347de15cb07e4f0267488802ced124bc", 
+        "latitude": 43.06044, 
+        "longitude": -88.01624, 
+        "name": "W. North Ave/N. 83rd Street", 
+        "timestamp": "2017-08-15T04:46:05.368000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "7172 North Ave", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3482"
+        }, 
+        "free_bikes": 6, 
+        "id": "997257942d82964d29075029f5129790", 
+        "latitude": 43.06084, 
+        "longitude": -88.00194, 
+        "name": "W. North Ave/N. 72nd Street", 
+        "timestamp": "2017-08-15T04:46:05.360000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2276 N 69th Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3483"
+        }, 
+        "free_bikes": 9, 
+        "id": "f90ab4c91dcbbeac1f1decfb72ec2bca", 
+        "latitude": 43.06058, 
+        "longitude": -87.99859, 
+        "name": "W. North Ave/N. 69th Street", 
+        "timestamp": "2017-08-15T04:46:05.458000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "7751 Harwood Ave", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3485"
+        }, 
+        "free_bikes": 9, 
+        "id": "9adf00bbc03b432afd4067642131c794", 
+        "latitude": 43.04861, 
+        "longitude": -88.00848, 
+        "name": "Village South", 
+        "timestamp": "2017-08-15T04:46:05.336000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1717 Ludington Ave", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3486"
+        }, 
+        "free_bikes": 6, 
+        "id": "e878cae166eb850c3d03a81adcd7b4ce", 
+        "latitude": 43.05263, 
+        "longitude": -88.01632, 
+        "name": "Ludington Triangle", 
+        "timestamp": "2017-08-15T04:46:05.382000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "425 W. National Avenue", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3494"
+        }, 
+        "free_bikes": 6, 
+        "id": "597795b23931025e03c07ea1aad9d76b", 
+        "latitude": 43.02313, 
+        "longitude": -87.91662, 
+        "name": "5th/National", 
+        "timestamp": "2017-08-15T04:46:05.447000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2380 E. North Ave", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3490"
+        }, 
+        "free_bikes": 8, 
+        "id": "2917dbae17a095cedb947b441cf8c12b", 
+        "latitude": 43.0602, 
+        "longitude": -87.88064, 
+        "name": "North/Lake", 
+        "timestamp": "2017-08-15T04:46:05.449000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1301 N. Prospect Street", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3489"
+        }, 
+        "free_bikes": 3, 
+        "id": "0caf7f4dbbee769e742d2ab86105f7b9", 
+        "latitude": 43.04782, 
+        "longitude": -87.89565, 
+        "name": "Burns Commons", 
+        "timestamp": "2017-08-15T04:46:05.463000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "161 W. Wisconsin Ave", 
+          "last_updated": 1502772329, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_bublr_3726"
+        }, 
+        "free_bikes": 3, 
+        "id": "13737bc0426deb918ebe8b03ec445886", 
+        "latitude": 43.0386, 
+        "longitude": -87.9121, 
+        "name": "W. Wisconsin Ave / N. Plankinton Ave.", 
+        "timestamp": "2017-08-15T04:46:05.414000Z"
+      }
+    ]
+  }
+}

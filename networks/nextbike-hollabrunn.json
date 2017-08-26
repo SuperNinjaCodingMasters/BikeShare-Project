@@ -1,0 +1,76 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-hollabrunn", 
+    "id": "nextbike-hollabrunn", 
+    "location": {
+      "city": "Hollabrunn", 
+      "country": "AT", 
+      "latitude": 48.562, 
+      "longitude": 16.0785
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09783", 
+            "09794", 
+            "08887", 
+            "08651", 
+            "08339"
+          ], 
+          "number": "3561", 
+          "uid": "187131"
+        }, 
+        "free_bikes": 5, 
+        "id": "2de6fd67c6442c9ca98417b197439065", 
+        "latitude": 48.568872842494, 
+        "longitude": 16.079649925232, 
+        "name": "Hollabrunn / KAUF ein- Fachzentrum", 
+        "timestamp": "2017-08-15T04:48:45.775000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09291", 
+            "08692", 
+            "08677", 
+            "08284"
+          ], 
+          "number": "3228", 
+          "uid": "65810"
+        }, 
+        "free_bikes": 4, 
+        "id": "035c33288e03cd67c2d337be0ba3bb08", 
+        "latitude": 48.563014, 
+        "longitude": 16.073055, 
+        "name": "Hollabrunn / Bahnhof", 
+        "timestamp": "2017-08-15T04:48:45.761000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09639", 
+            "09262", 
+            "08959", 
+            "08306"
+          ], 
+          "number": "3562", 
+          "uid": "691315"
+        }, 
+        "free_bikes": 4, 
+        "id": "a8288381d426fe8ea2e3d7cdff638147", 
+        "latitude": 48.602236474176, 
+        "longitude": 16.064457893372, 
+        "name": "Sch\u00f6ngrabern/ Kirche", 
+        "timestamp": "2017-08-15T04:48:45.782000Z"
+      }
+    ]
+  }
+}

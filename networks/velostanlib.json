@@ -1,0 +1,544 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/velostanlib", 
+    "id": "velostanlib", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Nancy", 
+      "country": "FR", 
+      "latitude": 48.692054, 
+      "longitude": 6.184417
+    }, 
+    "name": "v\u00e9lOstan'lib", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Angle rue Pierre CHALNOT et rue de la Commanderie", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772248000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 14, 
+        "id": "726ef4c09e7d2137f9dda4dc0d707857", 
+        "latitude": 48.6869197241039, 
+        "longitude": 6.17234789239391, 
+        "name": "00019 - COMMANDERIE - CHALNOT", 
+        "timestamp": "2017-08-15T04:48:35.272000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Place du V\u00e9lodr\u00f4me", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772058000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 23, 
+        "id": "99c80bacb965d235c4edbca5fcee930f", 
+        "latitude": 48.666721193896, 
+        "longitude": 6.16661978303466, 
+        "name": "00029 - V\u00c9LODR\u00d4ME (CB)", 
+        "timestamp": "2017-08-15T04:48:35.276000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Angle rue Pierre FOURRIER et rue des Dominicains", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772462000, 
+          "slots": 28, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 11, 
+        "id": "6a5ee24122c78bdbd0b18e710de66012", 
+        "latitude": 48.6924654452072, 
+        "longitude": 6.18340055389445, 
+        "name": "00001 - DOMINICAINS - FOURRIER (CB)", 
+        "timestamp": "2017-08-15T04:48:35.277000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "2 rue Emilie du Ch\u00e2telet", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772283000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 4, 
+        "id": "34746e69b4b089019c6d95e041134fd4", 
+        "latitude": 48.695420147586, 
+        "longitude": 6.19522861327582, 
+        "name": "00006 - LES 2 RIVES (CB)", 
+        "timestamp": "2017-08-15T04:48:35.278000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "77 rue Saint-Nicolas", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772157000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 8, 
+        "id": "18528a8fcb0fd547eb7c929c15eeac40", 
+        "latitude": 48.6878319691091, 
+        "longitude": 6.18780151507824, 
+        "name": "00013 - SAINT NICOLAS - CHARLES III", 
+        "timestamp": "2017-08-15T04:48:35.278000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Angle rue Saint-Thiebaut et rue du Grand Rabbin HAGUENAUER", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772061000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 9, 
+        "id": "de0bce341b81c9ea19fbc7d60eacfec8", 
+        "latitude": 48.6886141256403, 
+        "longitude": 6.17950010441818, 
+        "name": "00012 - ST SEBASTIEN - ST THIEBAUT (CB)", 
+        "timestamp": "2017-08-15T04:48:35.279000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Angle rue Henri BAZIN et quai Sainte-Catherine", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772220000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 7, 
+        "id": "18706dcba496e8c7c7416cdd27fa7a37", 
+        "latitude": 48.6954870039528, 
+        "longitude": 6.1906794896667, 
+        "name": "00015 - PORT STE CATHERINE", 
+        "timestamp": "2017-08-15T04:48:35.280000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Boulevard d'Haussonville", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772394000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 28
+        }, 
+        "free_bikes": 7, 
+        "id": "f40c9fbafe43def3ec1899aafc3c8588", 
+        "latitude": 48.67227619793021, 
+        "longitude": 6.165710709115886, 
+        "name": "00028 - MARCH\u00c9 D'HAUSSONVILLE", 
+        "timestamp": "2017-08-15T04:48:35.281000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Angle rue Saint-Dizier - Rue du Dr SCHMITT", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772343000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 3, 
+        "id": "a09205bd630b4d1a23d2bd50428b13b0", 
+        "latitude": 48.6891733257851, 
+        "longitude": 6.18390463043762, 
+        "name": "00004 - MARCHE CENTRAL (CB)", 
+        "timestamp": "2017-08-15T04:48:35.290000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Angle rue Saint-L\u00e9on - Esplanade Saint-L\u00e9on", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772070000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 7, 
+        "id": "a6ccf4c7e55dfb1288606f3b10cbb69e", 
+        "latitude": 48.689560111075, 
+        "longitude": 6.17251545229862, 
+        "name": "00018 - GARE SAINT LEON (CB)", 
+        "timestamp": "2017-08-15T04:48:35.294000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Place Godefroy de Bouillon", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772190000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 4, 
+        "id": "94bfafc292252438f023bb79938dc795", 
+        "latitude": 48.6928180794454, 
+        "longitude": 6.16860978784457, 
+        "name": "00014 - FAC DE LETTRES (CB)", 
+        "timestamp": "2017-08-15T04:48:35.297000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rue des 3 Epis Baudricourt", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772205000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 7, 
+        "id": "dfbc1a6beddebf43ff4bd15728148d75", 
+        "latitude": 48.675248491826174, 
+        "longitude": 6.162844844269929, 
+        "name": "00026 - BAUDRICOURT HAUSSONVILLE", 
+        "timestamp": "2017-08-15T04:48:35.300000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Angle rue Pierre Gringoire et place Saint-Epvre", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772132000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 4, 
+        "id": "91e114170a5f8b6d3d7f75a762368ac7", 
+        "latitude": 48.6963138587075, 
+        "longitude": 6.17989241728983, 
+        "name": "00007 - PLACE SAINT EPVRE (CB)", 
+        "timestamp": "2017-08-15T04:48:35.301000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Angle rue Molitor et rue Foller", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772194000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 3, 
+        "id": "e439a3cb38c6ab7d21ea80b833d41ea2", 
+        "latitude": 48.6858574026886, 
+        "longitude": 6.19290171469907, 
+        "name": "00022 - HOPITAL ST JULIEN", 
+        "timestamp": "2017-08-15T04:48:35.302000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "45 avenue du Mar\u00e9chal de Lattre de Tassigny", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772260000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 7, 
+        "id": "9d3f49929f6d5a8731b523c524505dc6", 
+        "latitude": 48.6833502130976, 
+        "longitude": 6.19029660801914, 
+        "name": "00021 - HOPITAL CENTRAL (CB)", 
+        "timestamp": "2017-08-15T04:48:35.302000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Rue Drouin - Face au n\u00b02", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771973000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 3, 
+        "id": "d39d77ba479c42dd67f0eb3661f840ed", 
+        "latitude": 48.6924632065328, 
+        "longitude": 6.18818527637749, 
+        "name": "00005 - PLACE COLONEL DRIANT (CB)", 
+        "timestamp": "2017-08-15T04:48:35.303000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Boulevard Foch", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772401000, 
+          "slots": 28, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 12, 
+        "id": "de3cd1e32c9110db3372feaa85d52e57", 
+        "latitude": 48.6894760345252, 
+        "longitude": 6.17650546239553, 
+        "name": "00011 - MAZAGRAN - FOCH (CB)", 
+        "timestamp": "2017-08-15T04:48:35.305000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Angle rue du Haut Bourgeois et place des Bourgets", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772362000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 12, 
+        "id": "bf951da92ffe051752f657de2f2487d4", 
+        "latitude": 48.6984724451821, 
+        "longitude": 6.17798553705909, 
+        "name": "00016 - PORTE DE LA CRAFFE (CB)", 
+        "timestamp": "2017-08-15T04:48:35.306000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Place Barrois", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772437000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 10, 
+        "id": "2b6a62371b1b45a936468c9cf16a3528", 
+        "latitude": 48.69950232851108, 
+        "longitude": 6.204735639873545, 
+        "name": "00009 - PLACE BARROIS (CB)", 
+        "timestamp": "2017-08-15T04:48:35.307000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Rue Stanislas - Face au n\u00b068", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772397000, 
+          "slots": 28, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 10, 
+        "id": "95eeed3ddbdbd13c0212312a029772ea", 
+        "latitude": 48.6919579483934, 
+        "longitude": 6.17851021950761, 
+        "name": "00003 - PLACE DE DOMBASLE (CB)", 
+        "timestamp": "2017-08-15T04:48:35.308000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "15 rue du faubourg des 3 Maisons - Angle boulevard Charles", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772408000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 12, 
+        "id": "67a2688328c4cd17cc3ab69321edc42e", 
+        "latitude": 48.7008781485017, 
+        "longitude": 6.17706203367071, 
+        "name": "00024 - 3 MAISONS - CHARLES V (CB)", 
+        "timestamp": "2017-08-15T04:48:35.312000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Promenade des Canaux", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772344000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 4, 
+        "id": "7bd334f83d16f15e923e21e53beca572", 
+        "latitude": 48.6927939742599, 
+        "longitude": 6.19628435757015, 
+        "name": "00023 - PROMENADE DES CANAUX", 
+        "timestamp": "2017-08-15T04:48:35.315000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Angle avenue du G\u00e9n\u00e9ral Leclerc et rue du Mar\u00e9chal De Lattre de Tassigny", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772186000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 7, 
+        "id": "2c96e9ec111a7ac31507a2d7932f7191", 
+        "latitude": 48.684781, 
+        "longitude": 6.187631, 
+        "name": "00020 - PLACE DES VOSGES", 
+        "timestamp": "2017-08-15T04:48:35.316000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Angle rue Saint-Michel et cours L\u00e9opold", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772183000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 2, 
+        "id": "19c3949daf1136d9b593f87c3ed67277", 
+        "latitude": 48.6956140662607, 
+        "longitude": 6.17676840786255, 
+        "name": "00008 - COURS LEOPOLD - SAINT MICHEL (CB)", 
+        "timestamp": "2017-08-15T04:48:35.317000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Rue du Sergent Blandan", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772045000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 27
+        }, 
+        "free_bikes": 11, 
+        "id": "a5587c8197681bdb17ca04d359769ca6", 
+        "latitude": 48.67899967679407, 
+        "longitude": 6.167632567397485, 
+        "name": "00027 - NANCY THERMAL (CB)", 
+        "timestamp": "2017-08-15T04:48:35.321000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Angle Place de la Carri\u00e8re et rue des Mar\u00e9chaux", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772048000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 1, 
+        "id": "ab4126483d8e61e7d6d8b4e85aab7f3f", 
+        "latitude": 48.6945981637388, 
+        "longitude": 6.18229408637817, 
+        "name": "00002 - PLACE DE LA CARRIERE (CB)", 
+        "timestamp": "2017-08-15T04:48:35.322000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Place de la Commanderie - Face au n\u00b013", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772293000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 18, 
+        "id": "10cd7436fee13bc82f9a1de82d55ae2f", 
+        "latitude": 48.6859179816784, 
+        "longitude": 6.1674218161464, 
+        "name": "00025 - PLACE COMMANDERIE", 
+        "timestamp": "2017-08-15T04:48:35.323000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Rue Pirou Crampel", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772028000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 12, 
+        "id": "63129120dfe828b8568df56e7f7accc6", 
+        "latitude": 48.6901882593177, 
+        "longitude": 6.17451913850729, 
+        "name": "00010 - GARE THIERS (CB)", 
+        "timestamp": "2017-08-15T04:48:35.318000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "27 rue Baron Louis - Angle quai Claude le Lorrain", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772002000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 4, 
+        "id": "e40523f1637e10e585d511b2033aed56", 
+        "latitude": 48.6957176856775, 
+        "longitude": 6.17133838702303, 
+        "name": "00017 - CONSERVATOIRE - MANUFACTURE", 
+        "timestamp": "2017-08-15T04:48:35.320000Z"
+      }
+    ]
+  }
+}

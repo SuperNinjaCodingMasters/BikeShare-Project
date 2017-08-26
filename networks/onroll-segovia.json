@@ -1,0 +1,114 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-segovia", 
+    "id": "onroll-segovia", 
+    "location": {
+      "city": "Segovia", 
+      "country": "ES", 
+      "latitude": 40.941941, 
+      "longitude": -4.112397
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "ad9d7d59255cc79f03028ca678f6c171", 
+        "latitude": 40.947617, 
+        "longitude": -4.117813, 
+        "name": "Acueducto", 
+        "timestamp": "2017-08-15T04:49:15.666000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "5b3be9c73da3385767adf9f1f69166f7", 
+        "latitude": 40.952292, 
+        "longitude": -4.130157, 
+        "name": "Alc\u00fdzar", 
+        "timestamp": "2017-08-15T04:49:15.673000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "178991061f9edc8cccde1f7793ddd09b", 
+        "latitude": 40.94533, 
+        "longitude": -4.104166, 
+        "name": "La Albuera", 
+        "timestamp": "2017-08-15T04:49:15.674000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "5d1d7b0bb6afcc9dd4d774d6b338c8bf", 
+        "latitude": 40.931055, 
+        "longitude": -4.097278, 
+        "name": "Nueva Segovia", 
+        "timestamp": "2017-08-15T04:49:15.674000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "0399353a0ef13f5ba6ee0b2f146457c4", 
+        "latitude": 40.950081, 
+        "longitude": -4.124631, 
+        "name": "Plaza Mayor", 
+        "timestamp": "2017-08-15T04:49:15.676000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "b8b6905b5b73b87507c86b8d30617d54", 
+        "latitude": 40.954391, 
+        "longitude": -4.109096, 
+        "name": "San Lorenzo", 
+        "timestamp": "2017-08-15T04:49:15.677000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-goppingen", 
+    "id": "ebikestation-goppingen", 
+    "location": {
+      "city": "G\u00f6ppingen", 
+      "country": "DE", 
+      "latitude": 48.7054, 
+      "longitude": 9.65125
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "91525", 
+            "91709", 
+            "91606", 
+            "91604"
+          ], 
+          "number": "5805", 
+          "slots": 10, 
+          "uid": "671023"
+        }, 
+        "free_bikes": 4, 
+        "id": "100edac92ee2b3414bcb777dc2d304a2", 
+        "latitude": 48.700545, 
+        "longitude": 9.651946, 
+        "name": "E-Bike-Station G\u00f6ppingen", 
+        "timestamp": "2017-08-15T04:50:52.865000Z"
+      }
+    ]
+  }
+}

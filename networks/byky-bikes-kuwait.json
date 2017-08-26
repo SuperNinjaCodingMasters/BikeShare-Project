@@ -1,0 +1,81 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/byky-bikes-kuwait", 
+    "id": "byky-bikes-kuwait", 
+    "location": {
+      "city": "Kuwait", 
+      "country": "KW", 
+      "latitude": 29.3632, 
+      "longitude": 47.487
+    }, 
+    "name": "BYKY Bikes", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "66195", 
+            "66178", 
+            "66138", 
+            "66124", 
+            "66117"
+          ], 
+          "number": "6592", 
+          "slots": 16, 
+          "uid": "2527980"
+        }, 
+        "free_bikes": 9, 
+        "id": "c2da2775659a0630ec7f1eb23504a652", 
+        "latitude": 29.343041, 
+        "longitude": 48.070882, 
+        "name": "KW MARINA SALWA", 
+        "timestamp": "2017-08-15T04:50:37.131000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "66219", 
+            "66212", 
+            "66149", 
+            "66278", 
+            "66269"
+          ], 
+          "number": "6590", 
+          "slots": 16, 
+          "uid": "2528073"
+        }, 
+        "free_bikes": 7, 
+        "id": "42965385ec62b785f7846f4f10e0f4fc", 
+        "latitude": 29.348742, 
+        "longitude": 48.087182, 
+        "name": "KW Marina", 
+        "timestamp": "2017-08-15T04:50:37.145000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "66190", 
+            "66146", 
+            "66125", 
+            "66282", 
+            "66270"
+          ], 
+          "number": "6591", 
+          "slots": 16, 
+          "uid": "2528076"
+        }, 
+        "free_bikes": 8, 
+        "id": "66ae26f046e4078780f73f57d23f9568", 
+        "latitude": 29.345448, 
+        "longitude": 48.077804, 
+        "name": "KW Prime Marina", 
+        "timestamp": "2017-08-15T04:50:37.148000Z"
+      }
+    ]
+  }
+}

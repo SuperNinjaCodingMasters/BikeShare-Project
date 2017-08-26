@@ -1,0 +1,43 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-elmas", 
+    "id": "bicincitta-elmas", 
+    "location": {
+      "city": "Elmas", 
+      "country": "IT", 
+      "latitude": 39.2634329, 
+      "longitude": 9.0515805
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "ca74a1db629e6e8c460a24b433167b41", 
+        "latitude": 39.26493422419381, 
+        "longitude": 9.045764458335839, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:49:14.566000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via del Pino Solitario/Via del Municipio", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "df03fa1097373929bb0f530b048655e2", 
+        "latitude": 39.271089969461826, 
+        "longitude": 9.052051934670999, 
+        "name": "Municipio", 
+        "timestamp": "2017-08-15T04:49:14.557000Z"
+      }
+    ]
+  }
+}

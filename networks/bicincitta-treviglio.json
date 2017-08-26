@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-treviglio", 
+    "id": "bicincitta-treviglio", 
+    "location": {
+      "city": "Treviglio", 
+      "country": "IT", 
+      "latitude": 45.5293372, 
+      "longitude": 9.591435899999999
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazzale Verdi", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "b70c33ebc709fed187fcebd0d7baff9e", 
+        "latitude": 45.515474791740445, 
+        "longitude": 9.58810224121703, 
+        "name": "Stazione Centrale", 
+        "timestamp": "2017-08-15T04:49:30.102000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Viale Battisti", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "c4585806fb9a4d1ec784154b07fde4f3", 
+        "latitude": 45.52259090059022, 
+        "longitude": 9.595542012828105, 
+        "name": "Centro Culturale", 
+        "timestamp": "2017-08-15T04:49:30.109000Z"
+      }
+    ]
+  }
+}

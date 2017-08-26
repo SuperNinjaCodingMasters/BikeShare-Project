@@ -1,0 +1,70 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/monopoli-bike", 
+    "id": "monopoli-bike", 
+    "location": {
+      "city": "Monopoli", 
+      "country": "IT", 
+      "latitude": 40.94519109440738, 
+      "longitude": 17.311687995336918
+    }, 
+    "name": "Monopoli BIKE", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Vittorio Emanuele", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "c37af4f71f2a80143aff6b975333fa22", 
+        "latitude": 40.95245120413473, 
+        "longitude": 17.30063457626568, 
+        "name": "Vittorio Emanuele", 
+        "timestamp": "2017-08-15T04:46:24.519000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Procaccia", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "2b9c1ce6b6464ed0b73082047faa509e", 
+        "latitude": 40.944973390230004, 
+        "longitude": 17.309728367459115, 
+        "name": "Area Fitness", 
+        "timestamp": "2017-08-15T04:46:24.529000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Stazione ferroviaria", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "f1eb2a4d930ef072f66bb2b2ef7da677", 
+        "latitude": 40.95235263000838, 
+        "longitude": 17.292939096264718, 
+        "name": "Stazione Ferroviaria", 
+        "timestamp": "2017-08-15T04:46:24.530000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Localita` Capitolo", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "12a8dff833109180c6cff0b5af762452", 
+        "latitude": 40.90586044165235, 
+        "longitude": 17.348641855847177, 
+        "name": "Capitolo", 
+        "timestamp": "2017-08-15T04:46:24.531000Z"
+      }
+    ]
+  }
+}

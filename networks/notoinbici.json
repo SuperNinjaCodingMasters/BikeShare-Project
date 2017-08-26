@@ -1,0 +1,70 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/notoinbici", 
+    "id": "notoinbici", 
+    "location": {
+      "city": "Noto", 
+      "country": "IT", 
+      "latitude": 36.889437754839854, 
+      "longitude": 15.074658393859863
+    }, 
+    "name": "NotoinBici", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Piazza XVI Maggio", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "687c940a4ac76d746cdf7563c49ad4db", 
+        "latitude": 36.89164300734176, 
+        "longitude": 15.068199634552002, 
+        "name": "XVI Maggio", 
+        "timestamp": "2017-08-15T04:47:31.499000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazzale Pantheon", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "948af195f4e05da07579d4da7af5ffb5", 
+        "latitude": 36.88904303366248, 
+        "longitude": 15.074889063835144, 
+        "name": "Pantheon", 
+        "timestamp": "2017-08-15T04:47:31.503000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Porta Nazionale", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "5f97e5c83c16253163963ec1e322b5fe", 
+        "latitude": 36.88987537810728, 
+        "longitude": 15.074073672294617, 
+        "name": "Nazionale", 
+        "timestamp": "2017-08-15T04:47:31.506000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Lido di Noto", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "33baf5732bafac7214ecc82481e0ad92", 
+        "latitude": 36.853784487782335, 
+        "longitude": 15.11367917060852, 
+        "name": "Lido di Noto", 
+        "timestamp": "2017-08-15T04:47:31.508000Z"
+      }
+    ]
+  }
+}

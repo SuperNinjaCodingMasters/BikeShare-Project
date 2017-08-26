@@ -1,0 +1,83 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-cesena", 
+    "id": "bicincitta-cesena", 
+    "location": {
+      "city": "Cesena", 
+      "country": "IT", 
+      "latitude": 44.1396438, 
+      "longitude": 12.2464292
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "P.le Sanguinetti", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "65da779c218578b8ebc29feaa2d0f8c6", 
+        "latitude": 44.14511328111016, 
+        "longitude": 12.248680293560028, 
+        "name": "1. Stazione FS", 
+        "timestamp": "2017-08-15T04:50:31.610000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "P.le Karl Marx", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "ec93fcd20640e14e1a6de2c7862be957", 
+        "latitude": 44.14443001059742, 
+        "longitude": 12.249042391777039, 
+        "name": "2. Karl Marx", 
+        "timestamp": "2017-08-15T04:50:31.612000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "P.zza M. Bufalini", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "8d33928b95d11483434f4e30aeb19634", 
+        "latitude": 44.13862767296992, 
+        "longitude": 12.243695588534138, 
+        "name": "3. Bufalini", 
+        "timestamp": "2017-08-15T04:50:31.613000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "V. IX Febbraio, 58", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "ffba00674dc449774af830cacab8afe4", 
+        "latitude": 44.13843412619119, 
+        "longitude": 12.235786326775383, 
+        "name": "4. IX Febbraio", 
+        "timestamp": "2017-08-15T04:50:31.614000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Piazza Sanguinetti", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "7b9b27e0a10d0dd51a8b9d05f07dca4d", 
+        "latitude": 44.14488799054911, 
+        "longitude": 12.249168251976016, 
+        "name": "5. Sanguinetti", 
+        "timestamp": "2017-08-15T04:50:31.615000Z"
+      }
+    ]
+  }
+}

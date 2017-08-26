@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-tortoli", 
+    "id": "bicincitta-tortoli", 
+    "location": {
+      "city": "Tortol\u00ec", 
+      "country": "IT", 
+      "latitude": 39.92664489852196, 
+      "longitude": 9.654953570777934
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Pirastu", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "2c30bdc944e4b63a9c3c3182f59195af", 
+        "latitude": 39.92664489852196, 
+        "longitude": 9.654953570777934, 
+        "name": "Fra Locci", 
+        "timestamp": "2017-08-15T04:48:42.352000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "spiaggia di Porto Frailis", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "2f3513e5b802a731974190da48ed51b8", 
+        "latitude": 39.9244401, 
+        "longitude": 9.703889, 
+        "name": "Porto Frailis", 
+        "timestamp": "2017-08-15T04:48:42.354000Z"
+      }
+    ]
+  }
+}

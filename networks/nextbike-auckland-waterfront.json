@@ -1,0 +1,74 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-auckland-waterfront", 
+    "id": "nextbike-auckland-waterfront", 
+    "location": {
+      "city": "Auckland Waterfront", 
+      "country": "NZ", 
+      "latitude": -36.841, 
+      "longitude": 174.763
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "64024", 
+            "64113", 
+            "64107", 
+            "64105", 
+            "64119"
+          ], 
+          "number": "7774", 
+          "slots": 8, 
+          "uid": "213691"
+        }, 
+        "free_bikes": 6, 
+        "id": "845defe02829dbcc011b25469ac8b924", 
+        "latitude": -36.843241529599, 
+        "longitude": 174.7677397728, 
+        "name": "Queens wharf", 
+        "timestamp": "2017-08-15T04:49:47.591000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "64088", 
+            "64114", 
+            "64106", 
+            "64116", 
+            "64112"
+          ], 
+          "number": "7775", 
+          "slots": 6, 
+          "uid": "213692"
+        }, 
+        "free_bikes": 5, 
+        "id": "f56b579c35f07ea01efd3ec27c4dcc51", 
+        "latitude": -36.841155087878, 
+        "longitude": 174.75858807564, 
+        "name": "North wharf", 
+        "timestamp": "2017-08-15T04:49:47.593000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "7779", 
+          "slots": 8, 
+          "uid": "2962616"
+        }, 
+        "free_bikes": 0, 
+        "id": "89459a89eb23ce245f8791904074007c", 
+        "latitude": -36.845096096672, 
+        "longitude": 174.75586295128, 
+        "name": "VXV plaza", 
+        "timestamp": "2017-08-15T04:49:47.595000Z"
+      }
+    ]
+  }
+}

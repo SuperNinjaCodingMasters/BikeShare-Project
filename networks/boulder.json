@@ -1,0 +1,707 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_boulder/gbfs.json", 
+    "href": "/v2/networks/boulder", 
+    "id": "boulder", 
+    "location": {
+      "city": "Boulder, CO", 
+      "country": "US", 
+      "latitude": 40.00811, 
+      "longitude": -105.26385
+    }, 
+    "name": "Boulder B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1015 Arapahoe", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1866"
+        }, 
+        "free_bikes": 4, 
+        "id": "f4727015fa5d1af8a1798934d3f91a1d", 
+        "latitude": 40.01377, 
+        "longitude": -105.28087, 
+        "name": "Library @ Arapahoe", 
+        "timestamp": "2017-08-15T04:46:45.269000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1777 Broadway", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1869"
+        }, 
+        "free_bikes": 3, 
+        "id": "57489936fffdd896188a3e3f21f3afe3", 
+        "latitude": 40.01508, 
+        "longitude": -105.27959, 
+        "name": "Municipal Building", 
+        "timestamp": "2017-08-15T04:46:45.258000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1613 38th St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2761"
+        }, 
+        "free_bikes": 6, 
+        "id": "e4ed55e03a5cf7dcc0f2c8408a343b14", 
+        "latitude": 40.01508, 
+        "longitude": -105.24697, 
+        "name": "38th & Arapahoe", 
+        "timestamp": "2017-08-15T04:46:45.299000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "630 30th St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2771"
+        }, 
+        "free_bikes": 14, 
+        "id": "970187f9e2b599c73e00ec7fdd8ee172", 
+        "latitude": 39.99915, 
+        "longitude": -105.25264, 
+        "name": "Williams Village", 
+        "timestamp": "2017-08-15T04:46:45.275000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "28th & Mapleton", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_3379"
+        }, 
+        "free_bikes": 6, 
+        "id": "57b33c6f8f029f524867fd56697e28db", 
+        "latitude": 40.0262, 
+        "longitude": -105.25856, 
+        "name": "28th & Mapleton", 
+        "timestamp": "2017-08-15T04:46:45.262000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "301 27th St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2767"
+        }, 
+        "free_bikes": 7, 
+        "id": "4204731e2a2ab13e278ae21b7ec6ae1f", 
+        "latitude": 39.98657, 
+        "longitude": -105.23269, 
+        "name": "Table Mesa Park-n-Ride", 
+        "timestamp": "2017-08-15T04:46:45.361000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_3675"
+        }, 
+        "free_bikes": 9, 
+        "id": "21f700fa059fa5754393ec5c7e02d2fb", 
+        "latitude": 40.02455, 
+        "longitude": -105.25143, 
+        "name": "Boulder Junction", 
+        "timestamp": "2017-08-15T04:46:45.320000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2930 Pearl Street", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_3676"
+        }, 
+        "free_bikes": 8, 
+        "id": "08b274e5dbc11353f55a2581838565c3", 
+        "latitude": 40.02185, 
+        "longitude": -105.2539, 
+        "name": "Pearl Place", 
+        "timestamp": "2017-08-15T04:46:45.321000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2600 Pearl Street", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1867"
+        }, 
+        "free_bikes": 5, 
+        "id": "4a94f0a9a6b9bc2c8a44a40e6ee64c60", 
+        "latitude": 40.0216, 
+        "longitude": -105.25984, 
+        "name": "26th @ Pearl", 
+        "timestamp": "2017-08-15T04:46:45.268000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "The Village", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1943"
+        }, 
+        "free_bikes": 6, 
+        "id": "876897ae30f0b74995d7d27c31d58f6f", 
+        "latitude": 40.01491, 
+        "longitude": -105.26061, 
+        "name": "The Village", 
+        "timestamp": "2017-08-15T04:46:45.374000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "601 Canyon Blvd.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2021"
+        }, 
+        "free_bikes": 2, 
+        "id": "85469c78a509de9174b8a1773d8909e2", 
+        "latitude": 40.01506, 
+        "longitude": -105.28729, 
+        "name": "6th & Canyon", 
+        "timestamp": "2017-08-15T04:46:45.251000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1400 Walnut St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2022"
+        }, 
+        "free_bikes": 10, 
+        "id": "cbec3c5dc43b623219016241a3077316", 
+        "latitude": 40.01663, 
+        "longitude": -105.27646, 
+        "name": "14th & Canyon", 
+        "timestamp": "2017-08-15T04:46:45.286000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "30th Street", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2132"
+        }, 
+        "free_bikes": 6, 
+        "id": "f8163275894d12856a6a3ac11b355645", 
+        "latitude": 40.03751, 
+        "longitude": -105.25351, 
+        "name": "30th & Diagonal Highway", 
+        "timestamp": "2017-08-15T04:46:45.353000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1271 Iris St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2161"
+        }, 
+        "free_bikes": 3, 
+        "id": "974444d749237ed7552167e388dd2210", 
+        "latitude": 40.03652, 
+        "longitude": -105.28128, 
+        "name": "Broadway & Iris", 
+        "timestamp": "2017-08-15T04:46:45.234000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "9th Street", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2182"
+        }, 
+        "free_bikes": 4, 
+        "id": "956ed2ad043431d1d7016890a5d82245", 
+        "latitude": 40.01688, 
+        "longitude": -105.28396, 
+        "name": "9th & Pearl", 
+        "timestamp": "2017-08-15T04:46:45.252000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2835 Pearl St. ", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2757"
+        }, 
+        "free_bikes": 11, 
+        "id": "e4190d13e218feabde00176508cc0fa9", 
+        "latitude": 40.02288, 
+        "longitude": -105.25647, 
+        "name": "29th & Pearl", 
+        "timestamp": "2017-08-15T04:46:45.260000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "3285 30th St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2762"
+        }, 
+        "free_bikes": 4, 
+        "id": "da63ac39cd74f71c92013d620ab674d1", 
+        "latitude": 40.03387, 
+        "longitude": -105.25393, 
+        "name": "30th & Glenwood", 
+        "timestamp": "2017-08-15T04:46:45.318000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1986 20th St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2763"
+        }, 
+        "free_bikes": 6, 
+        "id": "ade1e33edbdb77f997f4aa08dba20c83", 
+        "latitude": 40.01988, 
+        "longitude": -105.26952, 
+        "name": "20th & Pearl", 
+        "timestamp": "2017-08-15T04:46:45.350000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2479 Pearl St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2764"
+        }, 
+        "free_bikes": 7, 
+        "id": "e1775d74e2ad08afa1649e94ccf89fbc", 
+        "latitude": 40.02144, 
+        "longitude": -105.26364, 
+        "name": "Folsom & Pearl", 
+        "timestamp": "2017-08-15T04:46:45.357000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2789 Taft Dr.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2765"
+        }, 
+        "free_bikes": 8, 
+        "id": "70cde608c2ad685647299af1e13eb696", 
+        "latitude": 40.01067, 
+        "longitude": -105.25894, 
+        "name": "28th & Boulder Creek", 
+        "timestamp": "2017-08-15T04:46:45.355000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1973 31st St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2769"
+        }, 
+        "free_bikes": 8, 
+        "id": "90ae8e30750185f22a7bad32cd5517f4", 
+        "latitude": 40.02308, 
+        "longitude": -105.25175, 
+        "name": "31st & Pearl", 
+        "timestamp": "2017-08-15T04:46:45.349000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "220 Pearl St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2770"
+        }, 
+        "free_bikes": 8, 
+        "id": "f23496f2bda428981986c35e2ea8d0e5", 
+        "latitude": 40.01436, 
+        "longitude": -105.29497, 
+        "name": "Settlers' Park", 
+        "timestamp": "2017-08-15T04:46:45.271000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "5510 Spine Rd.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_3318"
+        }, 
+        "free_bikes": 2, 
+        "id": "36cd82e8a685065845ac595283e5d8bb", 
+        "latitude": 40.07488, 
+        "longitude": -105.20226, 
+        "name": "Gunbarrel North", 
+        "timestamp": "2017-08-15T04:46:45.303000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1570 30th St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_3589"
+        }, 
+        "free_bikes": 5, 
+        "id": "f53a0f3c30a515f5b888e1ea81c6e712", 
+        "latitude": 40.01356, 
+        "longitude": -105.25354, 
+        "name": "30th & Marine", 
+        "timestamp": "2017-08-15T04:46:45.301000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "SE corner of Folsom & Colorado", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1855"
+        }, 
+        "free_bikes": 4, 
+        "id": "03bd2c9784defabd1c2ab9a8cfbc3b4d", 
+        "latitude": 40.00811, 
+        "longitude": -105.26385, 
+        "name": "Folsom & Colorado", 
+        "timestamp": "2017-08-15T04:46:45.280000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "15th Street & Pearl Street", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1858"
+        }, 
+        "free_bikes": 11, 
+        "id": "960f8ae1760cec9d1ad64e2bfb8bab96", 
+        "latitude": 40.01872, 
+        "longitude": -105.27584, 
+        "name": "15th & Pearl", 
+        "timestamp": "2017-08-15T04:46:45.289000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "11th Street & Pearl Street ", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1859"
+        }, 
+        "free_bikes": 2, 
+        "id": "ce6966dba8ec621674180b6b7459e91c", 
+        "latitude": 40.01747, 
+        "longitude": -105.28116, 
+        "name": "11th & Pearl", 
+        "timestamp": "2017-08-15T04:46:45.292000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "13th Street & Spruce Street", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1860"
+        }, 
+        "free_bikes": 4, 
+        "id": "24e197f1fedc8412a9da39f470c784d1", 
+        "latitude": 40.01909, 
+        "longitude": -105.2789, 
+        "name": "13th & Spruce", 
+        "timestamp": "2017-08-15T04:46:45.266000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "3080 Center Green Drive", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1861"
+        }, 
+        "free_bikes": 6, 
+        "id": "378bc5195b4c0219ac4799fdf924a278", 
+        "latitude": 40.03154, 
+        "longitude": -105.24611, 
+        "name": "UCAR Center Green", 
+        "timestamp": "2017-08-15T04:46:45.264000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "3375 Mitchell Lane", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1870"
+        }, 
+        "free_bikes": 2, 
+        "id": "1dd0d1031c29335afe8c4b83930cbd7e", 
+        "latitude": 40.03643, 
+        "longitude": -105.24226, 
+        "name": "UCAR Mitchell Lane", 
+        "timestamp": "2017-08-15T04:46:45.351000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1290 Alpine Avenue", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1871"
+        }, 
+        "free_bikes": 4, 
+        "id": "8694d5cfacc46a7b0ae00ba3f6619782", 
+        "latitude": 40.02543, 
+        "longitude": -105.28144, 
+        "name": "Broadway & Alpine", 
+        "timestamp": "2017-08-15T04:46:45.352000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Boulder Creek Path", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1872"
+        }, 
+        "free_bikes": 7, 
+        "id": "1901ef1a1a45eff512228269effe2049", 
+        "latitude": 40.01177, 
+        "longitude": -105.27006, 
+        "name": "19th @ Boulder Creek", 
+        "timestamp": "2017-08-15T04:46:45.315000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1600 28th Street", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_1873"
+        }, 
+        "free_bikes": 6, 
+        "id": "30eace3197df9b9f24838ba6889f42de", 
+        "latitude": 40.0161, 
+        "longitude": -105.25807, 
+        "name": "Twenty Ninth Street South", 
+        "timestamp": "2017-08-15T04:46:45.354000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "3170 Broadway", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2141"
+        }, 
+        "free_bikes": 2, 
+        "id": "17ac20244e1784e586101151ee86a5ac", 
+        "latitude": 40.03206, 
+        "longitude": -105.28038, 
+        "name": "North Boulder Recreation Center", 
+        "timestamp": "2017-08-15T04:46:45.247000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "950 Regent Drive", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2144"
+        }, 
+        "free_bikes": 5, 
+        "id": "b95e674b985fb67b48cf8b5625c2a076", 
+        "latitude": 40.00638, 
+        "longitude": -105.2724, 
+        "name": "Broadway & Euclid", 
+        "timestamp": "2017-08-15T04:46:45.249000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1402 Broadway", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2145"
+        }, 
+        "free_bikes": 4, 
+        "id": "3c575178d9109b44b4f681e02f2a735d", 
+        "latitude": 40.01062, 
+        "longitude": -105.27669, 
+        "name": "Broadway & University", 
+        "timestamp": "2017-08-15T04:46:45.248000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1737 29th St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2198"
+        }, 
+        "free_bikes": 9, 
+        "id": "cbc3c01adf66d6a9f4f1b0e32173f5ad", 
+        "latitude": 40.01881, 
+        "longitude": -105.25596, 
+        "name": "Twenty Ninth Street North", 
+        "timestamp": "2017-08-15T04:46:45.316000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "2616 Baseline Road", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2756"
+        }, 
+        "free_bikes": 3, 
+        "id": "40e4456dd75c3b48b162db5fac752b5c", 
+        "latitude": 40.0001, 
+        "longitude": -105.2625, 
+        "name": "Broadway & Baseline", 
+        "timestamp": "2017-08-15T04:46:45.254000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2130 Arapahoe Ave. ", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2759"
+        }, 
+        "free_bikes": 10, 
+        "id": "dd9b34b5898f1418876dbbf37decdeeb", 
+        "latitude": 40.01453, 
+        "longitude": -105.26732, 
+        "name": "21st & Arapahoe", 
+        "timestamp": "2017-08-15T04:46:45.345000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1275 E. College Ave.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2760"
+        }, 
+        "free_bikes": 5, 
+        "id": "72eec6b869e422ae15395cc07eb942d2", 
+        "latitude": 40.00739, 
+        "longitude": -105.27668, 
+        "name": "13th & College", 
+        "timestamp": "2017-08-15T04:46:45.302000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Boulder Creek Path", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2766"
+        }, 
+        "free_bikes": 6, 
+        "id": "71363f1ddf00926fb90a93d0195adf37", 
+        "latitude": 40.0146, 
+        "longitude": -105.27778, 
+        "name": "13th & Arapahoe", 
+        "timestamp": "2017-08-15T04:46:45.246000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "4791 Arapahoe Ave.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2768"
+        }, 
+        "free_bikes": 9, 
+        "id": "dedbe74b9538cf3d30fb232f0e4f7498", 
+        "latitude": 40.0149, 
+        "longitude": -105.23558, 
+        "name": "48th & Arapahoe", 
+        "timestamp": "2017-08-15T04:46:45.255000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "35th & Colorado Streets", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_boulder_2875"
+        }, 
+        "free_bikes": 10, 
+        "id": "590c3c50f378868945fd6537378ba95d", 
+        "latitude": 40.00767, 
+        "longitude": -105.24793, 
+        "name": "35th & Colorado", 
+        "timestamp": "2017-08-15T04:46:45.297000Z"
+      }
+    ]
+  }
+}

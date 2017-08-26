@@ -1,0 +1,59 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/grad-gospic-gospic", 
+    "id": "grad-gospic-gospic", 
+    "location": {
+      "city": "Gospi\u0107", 
+      "country": "HR", 
+      "latitude": 44.5469, 
+      "longitude": 15.375
+    }, 
+    "name": "Grad Gospi\u0107", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "80355", 
+            "80356", 
+            "80350", 
+            "80357"
+          ], 
+          "number": "2331", 
+          "slots": 4, 
+          "uid": "377741"
+        }, 
+        "free_bikes": 4, 
+        "id": "0031cc5403674af76966d6f07eacd255", 
+        "latitude": 44.552925105258, 
+        "longitude": 15.378241539001, 
+        "name": "Gradska uprava", 
+        "timestamp": "2017-08-15T04:48:46.277000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "80352", 
+            "80353", 
+            "80359", 
+            "80358", 
+            "80354"
+          ], 
+          "number": "2330", 
+          "slots": 6, 
+          "uid": "377734"
+        }, 
+        "free_bikes": 5, 
+        "id": "1261e5f27e78a74d8185dcbb50950cbb", 
+        "latitude": 44.546816111996, 
+        "longitude": 15.372034907341, 
+        "name": "Trg Stjepana Radi\u0107a", 
+        "timestamp": "2017-08-15T04:48:46.261000Z"
+      }
+    ]
+  }
+}

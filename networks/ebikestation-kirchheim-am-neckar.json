@@ -1,0 +1,37 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-kirchheim-am-neckar", 
+    "id": "ebikestation-kirchheim-am-neckar", 
+    "location": {
+      "city": "Kirchheim am Neckar", 
+      "country": "DE", 
+      "latitude": 49.04, 
+      "longitude": 9.14441
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "91580", 
+            "91706", 
+            "91654"
+          ], 
+          "number": "5811", 
+          "slots": 10, 
+          "uid": "671020"
+        }, 
+        "free_bikes": 8, 
+        "id": "4a1231e6dca05e221e78cb6d230b10f0", 
+        "latitude": 49.037456, 
+        "longitude": 9.150513, 
+        "name": "E-Bike-Station Kirchheim am Neckar", 
+        "timestamp": "2017-08-15T04:50:37.553000Z"
+      }
+    ]
+  }
+}

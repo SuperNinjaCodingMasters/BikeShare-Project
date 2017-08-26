@@ -1,0 +1,1578 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-leipzig", 
+    "id": "nextbike-leipzig", 
+    "location": {
+      "city": "Leipzig", 
+      "country": "DE", 
+      "latitude": 51.3415, 
+      "longitude": 12.3625
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4033", 
+          "uid": "19780"
+        }, 
+        "free_bikes": 0, 
+        "id": "65551d0362f4e70d2dc0654362dede3d", 
+        "latitude": 51.332414884483, 
+        "longitude": 12.395158410072, 
+        "name": "Ostplatz (LVB Mobilit\u00e4tsstation 11) ", 
+        "timestamp": "2017-08-15T04:50:15.596000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10836", 
+            "10121", 
+            "05656", 
+            "07072", 
+            "10186"
+          ], 
+          "number": "4005", 
+          "uid": "1727"
+        }, 
+        "free_bikes": 6, 
+        "id": "4b619e04db624d6e49dbfc691ba11d0b", 
+        "latitude": 51.324537727221, 
+        "longitude": 12.373394966125, 
+        "name": "S\u00fcdplatz (LVB Mobilit\u00e4tsstation 10) ", 
+        "timestamp": "2017-08-15T04:50:15.574000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05553", 
+            "10418", 
+            "10845", 
+            "05752", 
+            "20433"
+          ], 
+          "number": "4045", 
+          "uid": "52804"
+        }, 
+        "free_bikes": 5, 
+        "id": "82794c281e50a76a55a68f4f359eb43f", 
+        "latitude": 51.33994217103, 
+        "longitude": 12.37419962883, 
+        "name": "Marktplatz / Breuninger", 
+        "timestamp": "2017-08-15T04:50:15.674000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05723", 
+            "05719", 
+            "10661", 
+            "10260"
+          ], 
+          "number": "4089", 
+          "uid": "2261490"
+        }, 
+        "free_bikes": 4, 
+        "id": "f4e7424a41f6f827439a48e97f24061d", 
+        "latitude": 51.325268516198, 
+        "longitude": 12.34438419342, 
+        "name": "Leipzig International School (K\u00f6nneritzstr. / Alfred-Frank-Str.)", 
+        "timestamp": "2017-08-15T04:50:15.767000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05534"
+          ], 
+          "number": "4004", 
+          "uid": "683555"
+        }, 
+        "free_bikes": 1, 
+        "id": "a28ac925187cf7dc1d1350aadad3baac", 
+        "latitude": 51.334955398081, 
+        "longitude": 12.388383150101, 
+        "name": "Hotel Mercure / Stephanstr.", 
+        "timestamp": "2017-08-15T04:50:15.735000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10746", 
+            "05556"
+          ], 
+          "number": "4053", 
+          "uid": "66512"
+        }, 
+        "free_bikes": 2, 
+        "id": "7ffdeb89958fadb070e1f642f80b3df3", 
+        "latitude": 51.342281209596, 
+        "longitude": 12.375224232674, 
+        "name": "Katharinenstr. / Tourist-Information", 
+        "timestamp": "2017-08-15T04:50:15.678000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10070", 
+            "05766", 
+            "02053"
+          ], 
+          "number": "4076", 
+          "uid": "415559"
+        }, 
+        "free_bikes": 3, 
+        "id": "70d3fc7e9d043d2bf4cc1fc94200c15d", 
+        "latitude": 51.363, 
+        "longitude": 12.373595, 
+        "name": "S-Bhf. Gohlis (LVB Mobilit\u00e4tsstation 13) ", 
+        "timestamp": "2017-08-15T04:50:15.715000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10719", 
+            "05526"
+          ], 
+          "number": "4048", 
+          "uid": "15091"
+        }, 
+        "free_bikes": 2, 
+        "id": "ea21b04256d7f27906d31e11f0fa67fe", 
+        "latitude": 51.327692104543, 
+        "longitude": 12.388458251953, 
+        "name": "Philipp-Rosenthal-Str. / Johannisallee", 
+        "timestamp": "2017-08-15T04:50:15.590000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4073", 
+          "uid": "415518"
+        }, 
+        "free_bikes": 0, 
+        "id": "42f52f88aee9c4cb9c5e23cae1d09fa9", 
+        "latitude": 51.33038, 
+        "longitude": 12.379928, 
+        "name": "Riemannstr. (LVB Mobilit\u00e4tsstation 7) ", 
+        "timestamp": "2017-08-15T04:50:15.706000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4017", 
+          "uid": "26721"
+        }, 
+        "free_bikes": 0, 
+        "id": "18f06821f8de382955c3d6dfc53c2906", 
+        "latitude": 51.346134666098, 
+        "longitude": 12.375433444977, 
+        "name": "WestIn Hotel / Taxistand", 
+        "timestamp": "2017-08-15T04:50:15.616000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4008", 
+          "uid": "10882"
+        }, 
+        "free_bikes": 0, 
+        "id": "3cdf84ae6be34285625809c83bdaf986", 
+        "latitude": 51.326143436307, 
+        "longitude": 12.340414524078, 
+        "name": "Industriestr. / Karlbr\u00fccke", 
+        "timestamp": "2017-08-15T04:50:15.588000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10214", 
+            "05662", 
+            "10213"
+          ], 
+          "number": "4050", 
+          "uid": "72048"
+        }, 
+        "free_bikes": 3, 
+        "id": "dc369b64cb1ee3edffaa1b8f44b2c413", 
+        "latitude": 51.339848338913, 
+        "longitude": 12.376720905304, 
+        "name": "Reichsstr. / Grimmaische Str.", 
+        "timestamp": "2017-08-15T04:50:15.680000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05666", 
+            "10426"
+          ], 
+          "number": "4070", 
+          "uid": "683564"
+        }, 
+        "free_bikes": 2, 
+        "id": "f60aaf83f8cb859fe405e2f62426f44a", 
+        "latitude": 51.339617108946, 
+        "longitude": 12.378045916557, 
+        "name": "Lehmanns Buchhandlung", 
+        "timestamp": "2017-08-15T04:50:15.740000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10175", 
+            "05643", 
+            "10027", 
+            "20571", 
+            "05799"
+          ], 
+          "number": "4059", 
+          "uid": "3382207"
+        }, 
+        "free_bikes": 5, 
+        "id": "97416aadc7d78a8f8beaced3468b6999", 
+        "latitude": 51.345658865525, 
+        "longitude": 12.40161716938, 
+        "name": "Eisenbahnstr. / Stadtteilpark Rabet", 
+        "timestamp": "2017-08-15T04:50:15.786000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10588", 
+            "02342", 
+            "10853", 
+            "10585", 
+            "20447"
+          ], 
+          "number": "4072", 
+          "uid": "3382243"
+        }, 
+        "free_bikes": 6, 
+        "id": "9eef68e88e6beca2feb2e78bab28c61a", 
+        "latitude": 51.337978358801, 
+        "longitude": 12.406209111214, 
+        "name": "Dresdner Str. / Wurzner Str.", 
+        "timestamp": "2017-08-15T04:50:15.788000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10615", 
+            "10622"
+          ], 
+          "number": "4025", 
+          "uid": "3833425"
+        }, 
+        "free_bikes": 2, 
+        "id": "0d6d115cb80d856107be0dc7bc0025b9", 
+        "latitude": 51.345384105197, 
+        "longitude": 12.414566874504, 
+        "name": "Torgauer Platz", 
+        "timestamp": "2017-08-15T04:50:15.797000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05785"
+          ], 
+          "number": "4042", 
+          "uid": "32021"
+        }, 
+        "free_bikes": 1, 
+        "id": "c2899b7b8720a506fa743c1befe817d8", 
+        "latitude": 51.343812578497, 
+        "longitude": 12.38149523735, 
+        "name": "Hauptbahnhof / Osthalle", 
+        "timestamp": "2017-08-15T04:50:15.625000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10607", 
+            "10754", 
+            "10309"
+          ], 
+          "number": "4055", 
+          "uid": "32663"
+        }, 
+        "free_bikes": 3, 
+        "id": "1848bb36f6315f3ded7bebb13e5bc2b2", 
+        "latitude": 51.345638761166, 
+        "longitude": 12.379167079926, 
+        "name": "Hauptbahnhof / Westseite (LVB Mobilit\u00e4tsstation 4)", 
+        "timestamp": "2017-08-15T04:50:15.661000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10354", 
+            "10189", 
+            "10239", 
+            "20437"
+          ], 
+          "number": "4026", 
+          "uid": "26928"
+        }, 
+        "free_bikes": 4, 
+        "id": "088adce17b0ef6285d88c657dc013dc7", 
+        "latitude": 51.31945, 
+        "longitude": 12.341541, 
+        "name": "K\u00f6nneritzstr. / Oeserstr. (LVB Mobilit\u00e4tsstation 39) ", 
+        "timestamp": "2017-08-15T04:50:15.621000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "03224"
+          ], 
+          "number": "4029", 
+          "uid": "11373"
+        }, 
+        "free_bikes": 1, 
+        "id": "5e4134106d56d2078685ffe3dbc44ddc", 
+        "latitude": 51.338842982743, 
+        "longitude": 12.363170385361, 
+        "name": "Westplatz ", 
+        "timestamp": "2017-08-15T04:50:15.589000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05640", 
+            "05892", 
+            "10884"
+          ], 
+          "number": "4068", 
+          "uid": "377116"
+        }, 
+        "free_bikes": 3, 
+        "id": "d7bcdbbe25fbb2916c5f932ccaf03e3a", 
+        "latitude": 51.337227664322, 
+        "longitude": 12.378115653992, 
+        "name": "Schillerstr. / Universit\u00e4tsstr. / Mensa", 
+        "timestamp": "2017-08-15T04:50:15.701000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10116", 
+            "20505"
+          ], 
+          "number": "4024", 
+          "uid": "16337"
+        }, 
+        "free_bikes": 2, 
+        "id": "38328325ed409ad3aa15f5f2ca5c6bb5", 
+        "latitude": 51.343658438648, 
+        "longitude": 12.378786206245, 
+        "name": "Hauptbahnhof / Mobilit\u00e4tszentrale LVB", 
+        "timestamp": "2017-08-15T04:50:15.591000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05531", 
+            "05890"
+          ], 
+          "number": "4037", 
+          "uid": "683562"
+        }, 
+        "free_bikes": 2, 
+        "id": "3218ad669940d2b2240e64e72f4119f7", 
+        "latitude": 51.332113231039, 
+        "longitude": 12.341465950012, 
+        "name": "Karl-Heine-Str. / Erich-Zeigner-Allee", 
+        "timestamp": "2017-08-15T04:50:15.738000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10439", 
+            "10716"
+          ], 
+          "number": "4002", 
+          "uid": "1120472"
+        }, 
+        "free_bikes": 2, 
+        "id": "7c537606ff115ce281b6af436492ab37", 
+        "latitude": 51.315069940448, 
+        "longitude": 12.372987270355, 
+        "name": "Karl-Liebknecht-Str. / Richard-Lehmann-Str.", 
+        "timestamp": "2017-08-15T04:50:15.745000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4109", 
+          "uid": "1547734"
+        }, 
+        "free_bikes": 0, 
+        "id": "3a9e9fa5cc047c298b306c352bf45025", 
+        "latitude": 51.331778058217, 
+        "longitude": 12.382192611694, 
+        "name": "Liebigstr. 16 / Uni-Klinikum", 
+        "timestamp": "2017-08-15T04:50:15.764000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05855", 
+            "10231"
+          ], 
+          "number": "4087", 
+          "uid": "1016537"
+        }, 
+        "free_bikes": 2, 
+        "id": "ec2fd12ec9ac9866aad76fe66e30eaf4", 
+        "latitude": 51.327252, 
+        "longitude": 12.32248, 
+        "name": "S-Bhf. Plagwitz ", 
+        "timestamp": "2017-08-15T04:50:15.741000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05636", 
+            "20504", 
+            "10856"
+          ], 
+          "number": "4078", 
+          "uid": "3813180"
+        }, 
+        "free_bikes": 3, 
+        "id": "b5d6ee140fca87779bfcd41ee843e97d", 
+        "latitude": 51.336279224704, 
+        "longitude": 12.362810969353, 
+        "name": "Lutherkirche / Ferdinand-Lassalle-Str. / Schreberstr.", 
+        "timestamp": "2017-08-15T04:50:15.794000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10045", 
+            "10306", 
+            "10685", 
+            "31440"
+          ], 
+          "number": "4020", 
+          "uid": "439266"
+        }, 
+        "free_bikes": 4, 
+        "id": "f3e29a3ef6066a760e0ac158a105b59d", 
+        "latitude": 51.307961110927, 
+        "longitude": 12.437092065811, 
+        "name": "Herzzentrum / Helios Park-Klinikum", 
+        "timestamp": "2017-08-15T04:50:15.732000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "03339", 
+            "05727", 
+            "10782", 
+            "05885"
+          ], 
+          "number": "4014", 
+          "uid": "801"
+        }, 
+        "free_bikes": 4, 
+        "id": "89fa89b27e1dbd394f7aca1de89b4901", 
+        "latitude": 51.320789736538, 
+        "longitude": 12.373319864273, 
+        "name": "Karl-Liebknecht-Str. / Kurt-Eisner-Str. / B\u00e4cker", 
+        "timestamp": "2017-08-15T04:50:15.572000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4067", 
+          "uid": "32710"
+        }, 
+        "free_bikes": 0, 
+        "id": "05e27feb07f42a38e25995f00b9c8867", 
+        "latitude": 51.343970068677, 
+        "longitude": 12.383174300194, 
+        "name": "Hauptbahnhof / Ostseite", 
+        "timestamp": "2017-08-15T04:50:15.662000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05533", 
+            "05524", 
+            "10318", 
+            "05621", 
+            "30510"
+          ], 
+          "number": "4041", 
+          "uid": "42446"
+        }, 
+        "free_bikes": 5, 
+        "id": "fd121d7a9ffdb91867625eb211e2465a", 
+        "latitude": 51.331610470888, 
+        "longitude": 12.334336638451, 
+        "name": "Schaub\u00fchne Lindenfels ", 
+        "timestamp": "2017-08-15T04:50:15.672000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05570", 
+            "05690", 
+            "05894"
+          ], 
+          "number": "4010", 
+          "uid": "9520"
+        }, 
+        "free_bikes": 3, 
+        "id": "eeb234b7463611c5fc157f189141e836", 
+        "latitude": 51.3289859734, 
+        "longitude": 12.346637248993, 
+        "name": "K\u00f6nneritzstr. / Anton-Bruckner-Allee", 
+        "timestamp": "2017-08-15T04:50:15.582000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10366"
+          ], 
+          "number": "4047", 
+          "uid": "9889"
+        }, 
+        "free_bikes": 1, 
+        "id": "3dc3d442cdf538313cd99394368f8bf1", 
+        "latitude": 51.336611013233, 
+        "longitude": 12.374773621559, 
+        "name": "Markgrafenstr. / LVB Servicecenter (LVB Mobilit\u00e4tsstation 1) ", 
+        "timestamp": "2017-08-15T04:50:15.584000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10243", 
+            "02268", 
+            "20527", 
+            "05787", 
+            "05775"
+          ], 
+          "number": "4021", 
+          "uid": "2031"
+        }, 
+        "free_bikes": 9, 
+        "id": "8ab2330aea7b6fbeb6ba212e8f153a08", 
+        "latitude": 51.332032789785, 
+        "longitude": 12.367199063301, 
+        "name": "Grassistr. / Beethovenstr.", 
+        "timestamp": "2017-08-15T04:50:15.577000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10570", 
+            "10441"
+          ], 
+          "number": "4018", 
+          "uid": "8678"
+        }, 
+        "free_bikes": 2, 
+        "id": "887aaf9f81f7421608e3956e2bb4ee7a", 
+        "latitude": 51.341316119323, 
+        "longitude": 12.365198135376, 
+        "name": "Gottschedstr. / Thomasiusstr.", 
+        "timestamp": "2017-08-15T04:50:15.581000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05650", 
+            "05576", 
+            "05803"
+          ], 
+          "number": "4006", 
+          "uid": "125"
+        }, 
+        "free_bikes": 3, 
+        "id": "da8f66017ba2a261306d0cd8ccd227fa", 
+        "latitude": 51.339637215946, 
+        "longitude": 12.373212575912, 
+        "name": "Thomaskirchhof / Taxistand", 
+        "timestamp": "2017-08-15T04:50:15.570000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "31544", 
+            "10680", 
+            "05778"
+          ], 
+          "number": "4023", 
+          "uid": "10780"
+        }, 
+        "free_bikes": 3, 
+        "id": "1181636859640b02eb73f5aa957e95a9", 
+        "latitude": 51.33287406425, 
+        "longitude": 12.373260855675, 
+        "name": "M\u00fcnzgasse / Peterssteinweg / Mensa", 
+        "timestamp": "2017-08-15T04:50:15.587000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10605", 
+            "05808"
+          ], 
+          "number": "4044", 
+          "uid": "41763"
+        }, 
+        "free_bikes": 2, 
+        "id": "b5dd2e05fa1714cf4148c23cc02941b8", 
+        "latitude": 51.339245127857, 
+        "longitude": 12.395523190498, 
+        "name": "Gerichtsweg / Dresdner Str. / Uhr", 
+        "timestamp": "2017-08-15T04:50:15.671000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05548", 
+            "10875"
+          ], 
+          "number": "4046", 
+          "uid": "32097"
+        }, 
+        "free_bikes": 2, 
+        "id": "53fe96a02977abe7a995b64a511758ee", 
+        "latitude": 51.344576568357, 
+        "longitude": 12.379628419876, 
+        "name": "Hauptbahnhof / Westhalle", 
+        "timestamp": "2017-08-15T04:50:15.649000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10325", 
+            "10244", 
+            "05769"
+          ], 
+          "number": "4071", 
+          "uid": "415491"
+        }, 
+        "free_bikes": 3, 
+        "id": "77ce8ebe72e0b6953c45303c6d942dd0", 
+        "latitude": 51.337733, 
+        "longitude": 12.381646, 
+        "name": "Augustusplatz (LVB Mobilit\u00e4tsstation 3) ", 
+        "timestamp": "2017-08-15T04:50:15.706000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4030", 
+          "uid": "126405"
+        }, 
+        "free_bikes": 0, 
+        "id": "a27149c98bbfdc49c66559683490c757", 
+        "latitude": 51.31187110346, 
+        "longitude": 12.368942499161, 
+        "name": "Hotel Leonardo", 
+        "timestamp": "2017-08-15T04:50:15.692000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10392"
+          ], 
+          "number": "4063", 
+          "uid": "104022"
+        }, 
+        "free_bikes": 1, 
+        "id": "01ed50180fa50798a342de3762ad3a43", 
+        "latitude": 51.335954136644, 
+        "longitude": 12.375251054764, 
+        "name": "Wilhelm-Leuschner-Platz / S-Bahnausgang Nord (R\u00fcckseite)", 
+        "timestamp": "2017-08-15T04:50:15.681000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05704", 
+            "10310"
+          ], 
+          "number": "4077", 
+          "uid": "415568"
+        }, 
+        "free_bikes": 2, 
+        "id": "b5677658e34969c3e210fafe81f7a5d2", 
+        "latitude": 51.311662, 
+        "longitude": 12.372993, 
+        "name": "Scheffelstr. / Karl-Liebknecht-Str. (LVB Mobilit\u00e4tsstation 16) ", 
+        "timestamp": "2017-08-15T04:50:15.717000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10139"
+          ], 
+          "number": "4086", 
+          "uid": "676203"
+        }, 
+        "free_bikes": 1, 
+        "id": "5f97350b104eea5ec94eea7d2239e2e2", 
+        "latitude": 51.343380315434, 
+        "longitude": 12.321011424065, 
+        "name": "Ev. Diakonissenkrankenhaus Leipzig", 
+        "timestamp": "2017-08-15T04:50:15.733000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4022", 
+          "uid": "196461"
+        }, 
+        "free_bikes": 0, 
+        "id": "095bdbb1ecf5fb90153da64c66f3699d", 
+        "latitude": 51.343192665084, 
+        "longitude": 12.372681498528, 
+        "name": "Richard-Wagner-Platz / Gro\u00dfe Fleischergasse", 
+        "timestamp": "2017-08-15T04:50:15.697000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05512", 
+            "20501", 
+            "10652"
+          ], 
+          "number": "4031", 
+          "uid": "122685"
+        }, 
+        "free_bikes": 3, 
+        "id": "5982f2610e16d7bab0dbce0561cc5de7", 
+        "latitude": 51.340790002526, 
+        "longitude": 12.376468777657, 
+        "name": "Hotel Steigenberger / Salzg\u00e4sschen", 
+        "timestamp": "2017-08-15T04:50:15.682000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "31536"
+          ], 
+          "number": "4001", 
+          "uid": "43753"
+        }, 
+        "free_bikes": 1, 
+        "id": "20aa168f42274c0ee2da2d2aeb59f0f0", 
+        "latitude": 51.337696849812, 
+        "longitude": 12.339931726456, 
+        "name": "Stra\u00dfenbhf. Angerbr\u00fccke (LVB Mobilit\u00e4tsstation 14) ", 
+        "timestamp": "2017-08-15T04:50:15.673000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4049", 
+          "uid": "70158"
+        }, 
+        "free_bikes": 0, 
+        "id": "eb88334331b3c3888f84d5f88a7b6253", 
+        "latitude": 51.402083818804, 
+        "longitude": 12.389788627624, 
+        "name": "NH Hotel", 
+        "timestamp": "2017-08-15T04:50:15.679000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10751", 
+            "05530", 
+            "05821"
+          ], 
+          "number": "4051", 
+          "uid": "18268"
+        }, 
+        "free_bikes": 3, 
+        "id": "fb3b8aa632f2508841f662607e02a205", 
+        "latitude": 51.349679559923, 
+        "longitude": 12.376093268394, 
+        "name": "Hotel Mercure art / Eutritzscher Str. / Ernst-Pinkert-Str.", 
+        "timestamp": "2017-08-15T04:50:15.592000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10616"
+          ], 
+          "number": "4028", 
+          "uid": "190246"
+        }, 
+        "free_bikes": 1, 
+        "id": "a226dbaf77f27ac57f5e31a73eca260e", 
+        "latitude": 51.343078734139, 
+        "longitude": 12.376565337181, 
+        "name": "Am Hallischen Tor / Br\u00fchl", 
+        "timestamp": "2017-08-15T04:50:15.694000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10011", 
+            "10463", 
+            "10475"
+          ], 
+          "number": "4054", 
+          "uid": "40712"
+        }, 
+        "free_bikes": 3, 
+        "id": "82940c544399803366d30704621a3419", 
+        "latitude": 51.356132036956, 
+        "longitude": 12.364232540131, 
+        "name": "Poetenweg / Gohliser Schl\u00f6sschen ", 
+        "timestamp": "2017-08-15T04:50:15.665000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "07087", 
+            "03117", 
+            "05856", 
+            "10206"
+          ], 
+          "number": "4038", 
+          "uid": "411699"
+        }, 
+        "free_bikes": 4, 
+        "id": "9dc7340afbaa03e0d1b2f84e9ca14b39", 
+        "latitude": 51.337415, 
+        "longitude": 12.333697, 
+        "name": "Lindenauer Markt (LVB Mobilit\u00e4tsstation 21) ", 
+        "timestamp": "2017-08-15T04:50:15.705000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10247", 
+            "31519"
+          ], 
+          "number": "4040", 
+          "uid": "10054"
+        }, 
+        "free_bikes": 2, 
+        "id": "9e2a5e86d4f2aefa7db09cf5f09e5450", 
+        "latitude": 51.339664025266, 
+        "longitude": 12.370948791504, 
+        "name": "Dittrichring / Gottschedstr.", 
+        "timestamp": "2017-08-15T04:50:15.586000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05667", 
+            "05862"
+          ], 
+          "number": "4013", 
+          "uid": "28"
+        }, 
+        "free_bikes": 2, 
+        "id": "6222e8130e78b2e350875a4275630502", 
+        "latitude": 51.340505159701, 
+        "longitude": 12.368813753128, 
+        "name": "Gottschedstr. / Bosestr.", 
+        "timestamp": "2017-08-15T04:50:15.559000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05590", 
+            "05750", 
+            "05776", 
+            "20438"
+          ], 
+          "number": "4007", 
+          "uid": "1615"
+        }, 
+        "free_bikes": 4, 
+        "id": "2f3bc00051945ae08ea1e6dd1034975a", 
+        "latitude": 51.343068681395, 
+        "longitude": 12.365182042122, 
+        "name": "Jahnallee / Thomasiusstr. / Denkmal", 
+        "timestamp": "2017-08-15T04:50:15.573000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05820"
+          ], 
+          "number": "4035", 
+          "uid": "8407"
+        }, 
+        "free_bikes": 1, 
+        "id": "ef73a071be1b9f969a9d136e4d3e7aba", 
+        "latitude": 51.348004313463, 
+        "longitude": 12.37136721611, 
+        "name": "Zoo / Br\u00fccke", 
+        "timestamp": "2017-08-15T04:50:15.580000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "07088", 
+            "10837", 
+            "10634", 
+            "10435", 
+            "10348"
+          ], 
+          "number": "4003", 
+          "uid": "72"
+        }, 
+        "free_bikes": 6, 
+        "id": "1d1b97690a86ce3bb9cf20912a579ee6", 
+        "latitude": 51.339077567821, 
+        "longitude": 12.381554245949, 
+        "name": "Augustusplatz / Oper", 
+        "timestamp": "2017-08-15T04:50:15.570000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05617", 
+            "10599", 
+            "05743", 
+            "07036", 
+            "20439"
+          ], 
+          "number": "4065", 
+          "uid": "142940"
+        }, 
+        "free_bikes": 5, 
+        "id": "b8ed459a09d2a6facc52dc3860ae320d", 
+        "latitude": 51.345122746283, 
+        "longitude": 12.357349991798, 
+        "name": "Waldstr. / Arena City Hotel", 
+        "timestamp": "2017-08-15T04:50:15.693000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4081", 
+          "uid": "415587"
+        }, 
+        "free_bikes": 0, 
+        "id": "a49512dbf5bfcfca0a032f7009de9754", 
+        "latitude": 51.3515, 
+        "longitude": 12.40706, 
+        "name": "Stannebeinplatz (LVB Mobilit\u00e4tsstation 18) ", 
+        "timestamp": "2017-08-15T04:50:15.722000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05575"
+          ], 
+          "number": "4056", 
+          "uid": "1120513"
+        }, 
+        "free_bikes": 1, 
+        "id": "0d2c5607ed3358f88aa6a6a7e6ee42d6", 
+        "latitude": 51.340116430167, 
+        "longitude": 12.351508140564, 
+        "name": "Jahnallee / Festwiese", 
+        "timestamp": "2017-08-15T04:50:15.746000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4069", 
+          "uid": "1218734"
+        }, 
+        "free_bikes": 0, 
+        "id": "443343342c0ad19b8bc2012bb2ae90a1", 
+        "latitude": 51.332348, 
+        "longitude": 12.373923, 
+        "name": "M\u00fcnzgasse / LVZ (LVB Mobilit\u00e4tsstation 26)", 
+        "timestamp": "2017-08-15T04:50:15.755000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10823"
+          ], 
+          "number": "4036", 
+          "uid": "251219"
+        }, 
+        "free_bikes": 1, 
+        "id": "fbc915a93e6cf5e9610c81cff5250b86", 
+        "latitude": 51.339963, 
+        "longitude": 12.382677, 
+        "name": "Hauptsitz LVB / Georgiring (LVB Mobilit\u00e4tsstation 2) ", 
+        "timestamp": "2017-08-15T04:50:15.699000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05528", 
+            "31122"
+          ], 
+          "number": "4062", 
+          "uid": "415622"
+        }, 
+        "free_bikes": 2, 
+        "id": "1a5c35bd92315c05560a8d4680d1771c", 
+        "latitude": 51.347631, 
+        "longitude": 12.313274, 
+        "name": "Rathaus Leutzsch (LVB Mobilit\u00e4tsstation 24) ", 
+        "timestamp": "2017-08-15T04:50:15.727000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10447", 
+            "31514", 
+            "05676", 
+            "10632", 
+            "10878"
+          ], 
+          "number": "4088", 
+          "uid": "1200717"
+        }, 
+        "free_bikes": 5, 
+        "id": "0d533cf564a9c14822d19806c331702e", 
+        "latitude": 51.351415050663, 
+        "longitude": 12.432006597519, 
+        "name": "UFZ Leipzig / Permoserstr.", 
+        "timestamp": "2017-08-15T04:50:15.753000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "03332", 
+            "10650", 
+            "10683"
+          ], 
+          "number": "4085", 
+          "uid": "415600"
+        }, 
+        "free_bikes": 3, 
+        "id": "4b0f3c3e19c337795c4c3838c2a3ae63", 
+        "latitude": 51.366441, 
+        "longitude": 12.349743, 
+        "name": "Huygensstr. / Georg-Schumann-Str. (LVB Mobilit\u00e4tsstation 20)", 
+        "timestamp": "2017-08-15T04:50:15.723000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10742", 
+            "05731", 
+            "10227"
+          ], 
+          "number": "4052", 
+          "uid": "415612"
+        }, 
+        "free_bikes": 3, 
+        "id": "2ddc9af3ba608485cbc937ad6f3a5022", 
+        "latitude": 51.301198, 
+        "longitude": 12.384442, 
+        "name": "Bornaische Str. / Klemmstr. (LVB Mobilit\u00e4tsstation 22) ", 
+        "timestamp": "2017-08-15T04:50:15.723000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05634"
+          ], 
+          "number": "4075", 
+          "uid": "415556"
+        }, 
+        "free_bikes": 1, 
+        "id": "7acba69a7da205b357cc21e7a68f6643", 
+        "latitude": 51.357471, 
+        "longitude": 12.377097, 
+        "name": "Delitzscher Str. / G.-Schumann-Str. (LVB Mobilit\u00e4tsstation 12) ", 
+        "timestamp": "2017-08-15T04:50:15.708000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10556", 
+            "10464"
+          ], 
+          "number": "4079", 
+          "uid": "415578"
+        }, 
+        "free_bikes": 2, 
+        "id": "1a6bcddf727f4325aae0d8ae919b3fa5", 
+        "latitude": 51.324111, 
+        "longitude": 12.400456, 
+        "name": "Karl-Siegismund-Str. (LVB Mobilit\u00e4tsstation 17)", 
+        "timestamp": "2017-08-15T04:50:15.718000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "31535", 
+            "10877"
+          ], 
+          "number": "4015", 
+          "uid": "8371"
+        }, 
+        "free_bikes": 2, 
+        "id": "1819b9e24ef7ffe2314b006598928bbc", 
+        "latitude": 51.344515, 
+        "longitude": 12.370848, 
+        "name": "Goerdelerring (LVB Mobilit\u00e4tsstation 5) ", 
+        "timestamp": "2017-08-15T04:50:15.579000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4066", 
+          "uid": "415630"
+        }, 
+        "free_bikes": 0, 
+        "id": "c7a66e82a77839d5506c35378c02f0cb", 
+        "latitude": 51.322889, 
+        "longitude": 12.28723, 
+        "name": "Sch\u00f6nauer Str. / L\u00fctzner Str. (LVB Mobilit\u00e4tsstation 25)  ", 
+        "timestamp": "2017-08-15T04:50:15.731000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10832", 
+            "10115"
+          ], 
+          "number": "4083", 
+          "uid": "426322"
+        }, 
+        "free_bikes": 2, 
+        "id": "d2b1ed88fe3a9f6e4e86be2855f4b555", 
+        "latitude": 51.368511815409, 
+        "longitude": 12.38609790802, 
+        "name": "Eutritzscher Markt (LVB Mobilit\u00e4tsstation 19) ", 
+        "timestamp": "2017-08-15T04:50:15.732000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4074", 
+          "uid": "415534"
+        }, 
+        "free_bikes": 0, 
+        "id": "a1a80462e65ec44d7eaa348986fa04cd", 
+        "latitude": 51.341708, 
+        "longitude": 12.357817, 
+        "name": "Willmar-Schwabe-Str. / Jahnallee (LVB Mobilit\u00e4tsstation 9) ", 
+        "timestamp": "2017-08-15T04:50:15.707000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4104", 
+          "uid": "1532219"
+        }, 
+        "free_bikes": 0, 
+        "id": "caad80c4cb1ce1c5f9b01cff7ebdad41", 
+        "latitude": 51.340049407501, 
+        "longitude": 12.36987054348, 
+        "name": "Gottschedstr. / Zentralstr.", 
+        "timestamp": "2017-08-15T04:50:15.763000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4060", 
+          "uid": "415617"
+        }, 
+        "free_bikes": 0, 
+        "id": "c8b3089dfd591e99755a8658b68c794c", 
+        "latitude": 51.37549, 
+        "longitude": 12.378652, 
+        "name": "Virchowstr. (LVB Mobilit\u00e4tsstation 23) ", 
+        "timestamp": "2017-08-15T04:50:15.725000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10495", 
+            "10655", 
+            "05629", 
+            "05711"
+          ], 
+          "number": "4080", 
+          "uid": "2261478"
+        }, 
+        "free_bikes": 4, 
+        "id": "bda27519a323cdac0a024b512af109f0", 
+        "latitude": 51.324470681778, 
+        "longitude": 12.344292998314, 
+        "name": "Leipzig International School (Eingang K\u00f6nneritzstr. 47)", 
+        "timestamp": "2017-08-15T04:50:15.766000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10311", 
+            "05780"
+          ], 
+          "number": "4032", 
+          "uid": "52806"
+        }, 
+        "free_bikes": 2, 
+        "id": "0afed5bc7142a1bd457929bfcc9047a2", 
+        "latitude": 51.339422740826, 
+        "longitude": 12.379826903343, 
+        "name": "Augustusplatz / Vapiano", 
+        "timestamp": "2017-08-15T04:50:15.677000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10022"
+          ], 
+          "number": "4012", 
+          "uid": "266933"
+        }, 
+        "free_bikes": 1, 
+        "id": "77181deae04d4b8f5e3645b61ba21946", 
+        "latitude": 51.341014524445, 
+        "longitude": 12.374382019043, 
+        "name": "Marktplatz / S-Bahn-Rolltreppe / Hainstr.", 
+        "timestamp": "2017-08-15T04:50:15.700000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10485"
+          ], 
+          "number": "4061", 
+          "uid": "2679897"
+        }, 
+        "free_bikes": 1, 
+        "id": "1c19deaaeb86755be863e6431bb53a3d", 
+        "latitude": 51.345427664871, 
+        "longitude": 12.392079234123, 
+        "name": "Friedrich-List-Platz", 
+        "timestamp": "2017-08-15T04:50:15.767000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10374", 
+            "05865"
+          ], 
+          "number": "4105", 
+          "uid": "2777225"
+        }, 
+        "free_bikes": 2, 
+        "id": "26fde1f90ef66aea7789cba787cc1d79", 
+        "latitude": 51.32482937376, 
+        "longitude": 12.334105968475, 
+        "name": "Zschochersche Str. / Markranst\u00e4dter Str.", 
+        "timestamp": "2017-08-15T04:50:15.771000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05804"
+          ], 
+          "number": "4043", 
+          "uid": "41466"
+        }, 
+        "free_bikes": 1, 
+        "id": "8fcb4449bee2d1dfa1ab18fc7ee787d5", 
+        "latitude": 51.340438137603, 
+        "longitude": 12.366764545441, 
+        "name": "K\u00e4the-Kollwitz-Str. / Thomasiusstr.", 
+        "timestamp": "2017-08-15T04:50:15.667000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4034", 
+          "uid": "8308"
+        }, 
+        "free_bikes": 0, 
+        "id": "a63cdd9d4fcc362ab9d26603738a0e05", 
+        "latitude": 51.326334508593, 
+        "longitude": 12.357473373413, 
+        "name": "Galopprennbahn Eingang", 
+        "timestamp": "2017-08-15T04:50:15.578000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "31525", 
+            "05691", 
+            "10512"
+          ], 
+          "number": "4103", 
+          "uid": "1407891"
+        }, 
+        "free_bikes": 3, 
+        "id": "590744372572c4ab94cc2fd85c0fe2de", 
+        "latitude": 51.351662972546, 
+        "longitude": 12.373234033585, 
+        "name": "Nordplatz (LVB Mobilit\u00e4tsstation 8)", 
+        "timestamp": "2017-08-15T04:50:15.761000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10035", 
+            "10494", 
+            "10496", 
+            "05611", 
+            "10376"
+          ], 
+          "number": "4039", 
+          "uid": "2261448"
+        }, 
+        "free_bikes": 7, 
+        "id": "697b3e97a8bdc466381095648670e34a", 
+        "latitude": 51.330293213148, 
+        "longitude": 12.329878807068, 
+        "name": "Leipzig International School (K\u00f6nig-Albert-Br\u00fccke)", 
+        "timestamp": "2017-08-15T04:50:15.764000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10654", 
+            "10551"
+          ], 
+          "number": "4016", 
+          "uid": "683557"
+        }, 
+        "free_bikes": 2, 
+        "id": "7edba652f9c20373c2e1c4cb9163c04b", 
+        "latitude": 51.342167276386, 
+        "longitude": 12.359104156494, 
+        "name": "Waldplatz / Brunnen", 
+        "timestamp": "2017-08-15T04:50:15.736000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05784", 
+            "10829", 
+            "10870"
+          ], 
+          "number": "4094", 
+          "uid": "3382063"
+        }, 
+        "free_bikes": 3, 
+        "id": "2fc90a31c027a3f313cbe32c1aa2efe9", 
+        "latitude": 51.332864009268, 
+        "longitude": 12.404331564903, 
+        "name": "Lene-Voigt-Park / Albert-Schweitzer-Str.", 
+        "timestamp": "2017-08-15T04:50:15.778000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10219", 
+            "20431"
+          ], 
+          "number": "4096", 
+          "uid": "3382136"
+        }, 
+        "free_bikes": 2, 
+        "id": "0128740cf0d8c394f14d32d53d091896", 
+        "latitude": 51.328848543467, 
+        "longitude": 12.409556508064, 
+        "name": "Holsteinstr. / Kurt-G\u00fcnther-Str.", 
+        "timestamp": "2017-08-15T04:50:15.785000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10368", 
+            "05707", 
+            "10362"
+          ], 
+          "number": "4093", 
+          "uid": "3382620"
+        }, 
+        "free_bikes": 3, 
+        "id": "ab2202833ea0e3574cd0d74db72ce881", 
+        "latitude": 51.367751573731, 
+        "longitude": 12.366823554039, 
+        "name": "Coppiplatz", 
+        "timestamp": "2017-08-15T04:50:15.793000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10187"
+          ], 
+          "number": "4027", 
+          "uid": "1047912"
+        }, 
+        "free_bikes": 1, 
+        "id": "bc3976940371a646016539925a330934", 
+        "latitude": 51.331342329886, 
+        "longitude": 12.358438968658, 
+        "name": "Musikpavillion", 
+        "timestamp": "2017-08-15T04:50:15.744000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05639"
+          ], 
+          "number": "4058", 
+          "uid": "3381980"
+        }, 
+        "free_bikes": 1, 
+        "id": "d13790c3a6b74cf3eff2537793b861a9", 
+        "latitude": 51.3379146843, 
+        "longitude": 12.3871332407, 
+        "name": "Johannisplatz / Grassi-Museum", 
+        "timestamp": "2017-08-15T04:50:15.774000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4082", 
+          "uid": "1167216"
+        }, 
+        "free_bikes": 0, 
+        "id": "4ebec40ae60dc9974c7a7327f9d2fe21", 
+        "latitude": 51.320595288593, 
+        "longitude": 12.385990619659, 
+        "name": "S-Bhf. MDR", 
+        "timestamp": "2017-08-15T04:50:15.748000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05661", 
+            "10268", 
+            "10879"
+          ], 
+          "number": "4009", 
+          "uid": "8408"
+        }, 
+        "free_bikes": 3, 
+        "id": "644de1184c20751d32087488e1fb48c2", 
+        "latitude": 51.340712927583, 
+        "longitude": 12.378051280975, 
+        "name": "Nikolaikirche / Alte Nikolaischule", 
+        "timestamp": "2017-08-15T04:50:15.580000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05564"
+          ], 
+          "number": "4011", 
+          "uid": "128"
+        }, 
+        "free_bikes": 1, 
+        "id": "f52f1219e466dbf457ab68813dedc2fa", 
+        "latitude": 51.337076853681, 
+        "longitude": 12.372853159904, 
+        "name": "Burgplatz / Stadthaus", 
+        "timestamp": "2017-08-15T04:50:15.571000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "05547", 
+            "05565", 
+            "20515", 
+            "31548", 
+            "05738"
+          ], 
+          "number": "4092", 
+          "uid": "3382460"
+        }, 
+        "free_bikes": 6, 
+        "id": "58a491931b67c3619dacd2149091bc56", 
+        "latitude": 51.324480738601, 
+        "longitude": 12.412716150284, 
+        "name": "S-Bhf. St\u00f6tteritz", 
+        "timestamp": "2017-08-15T04:50:15.791000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "network": {
+    "company": [
+      "Cyclopolis Systems"
+    ], 
+    "href": "/v2/networks/cyclopolis-neasmyrni", 
+    "id": "cyclopolis-neasmyrni", 
+    "location": {
+      "city": "\u039dea Smyrni", 
+      "country": "GR", 
+      "latitude": 37.9381, 
+      "longitude": 23.7126
+    }, 
+    "name": "Cyclopolis", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "2701133b0d4213f13f7b2e95622c602d", 
+        "latitude": 37.9381, 
+        "longitude": 23.7126, 
+        "name": "AGHIA PARASKEVI", 
+        "timestamp": "2017-08-15T04:50:38.326000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 20
+        }, 
+        "free_bikes": 0, 
+        "id": "8dc5ca07f580a4d26123a13a223695a4", 
+        "latitude": 37.9459301816856, 
+        "longitude": 23.7217567451213, 
+        "name": "ARTAKIS", 
+        "timestamp": "2017-08-15T04:50:38.329000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "e1ec928de48cf33d538b608a691689d5", 
+        "latitude": 37.9473475534345, 
+        "longitude": 23.7140590922396, 
+        "name": "NEA SMYRNI SQUARE", 
+        "timestamp": "2017-08-15T04:50:38.328000Z"
+      }
+    ]
+  }
+}

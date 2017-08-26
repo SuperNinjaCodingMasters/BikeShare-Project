@@ -1,0 +1,83 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-scandiano", 
+    "id": "bicincitta-scandiano", 
+    "location": {
+      "city": "Scandiano", 
+      "country": "IT", 
+      "latitude": 44.5982342, 
+      "longitude": 10.6909273
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Statale", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "4679c206a57ef644581483030ad0979b", 
+        "latitude": 44.60025952097155, 
+        "longitude": 10.69429725408554, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:49:05.343000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Viale XXV Aprile", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "419975aad18f56b75a76da744a8bab94", 
+        "latitude": 44.60030181603452, 
+        "longitude": 10.688010370430788, 
+        "name": "Cinema", 
+        "timestamp": "2017-08-15T04:49:05.346000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Via Repubblica", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "5db08e0aedf3180540ec22be99b60d54", 
+        "latitude": 44.595415619935636, 
+        "longitude": 10.699969025408905, 
+        "name": "Istituto Gobetti", 
+        "timestamp": "2017-08-15T04:49:05.346000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via delle scuole", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "6f6c7fc76a020b43a6e22b7c293e301b", 
+        "latitude": 44.603262370017305, 
+        "longitude": 10.675806844527415, 
+        "name": "Pratissolo", 
+        "timestamp": "2017-08-15T04:49:05.347000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Pagliani", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "d16531593bddaa81d679efae5d9aac98", 
+        "latitude": 44.618986081425184, 
+        "longitude": 10.724952510311823, 
+        "name": "Arceto", 
+        "timestamp": "2017-08-15T04:49:05.348000Z"
+      }
+    ]
+  }
+}

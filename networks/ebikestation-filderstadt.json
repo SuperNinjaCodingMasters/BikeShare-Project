@@ -1,0 +1,37 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-filderstadt", 
+    "id": "ebikestation-filderstadt", 
+    "location": {
+      "city": "Filderstadt", 
+      "country": "DE", 
+      "latitude": 48.6588, 
+      "longitude": 9.22585
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "91540", 
+            "91686", 
+            "91662"
+          ], 
+          "number": "5810", 
+          "slots": 10, 
+          "uid": "520145"
+        }, 
+        "free_bikes": 8, 
+        "id": "e44d71287f75db3467e2f156a25082ba", 
+        "latitude": 48.676823, 
+        "longitude": 9.217004, 
+        "name": "E-Bike-Station Filderstadt", 
+        "timestamp": "2017-08-15T04:46:06.385000Z"
+      }
+    ]
+  }
+}

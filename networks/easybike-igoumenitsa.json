@@ -1,0 +1,43 @@
+{
+  "network": {
+    "company": [
+      "Brainbox Technology", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/easybike-igoumenitsa", 
+    "id": "easybike-igoumenitsa", 
+    "location": {
+      "city": "Igoumenitsa", 
+      "country": "GR", 
+      "latitude": 39.5005770633, 
+      "longitude": 20.2635206985
+    }, 
+    "name": "EasyBike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 2
+        }, 
+        "free_bikes": 0, 
+        "id": "572d4cc157f6e3e9096d958fa8940c31", 
+        "latitude": 39.5004487454, 
+        "longitude": 20.2635850716, 
+        "name": "Perifereia", 
+        "timestamp": "2017-08-15T04:49:36.643000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 4
+        }, 
+        "free_bikes": 2, 
+        "id": "abdc892d33c878594ceb770b173b7afc", 
+        "latitude": 39.4893876823, 
+        "longitude": 20.2587570953, 
+        "name": "Limani", 
+        "timestamp": "2017-08-15T04:49:36.660000Z"
+      }
+    ]
+  }
+}

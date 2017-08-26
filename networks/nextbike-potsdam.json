@@ -1,0 +1,755 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-potsdam", 
+    "id": "nextbike-potsdam", 
+    "location": {
+      "city": "Potsdam", 
+      "country": "DE", 
+      "latitude": 52.3997, 
+      "longitude": 13.0676
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "33132", 
+            "33118", 
+            "33062"
+          ], 
+          "number": "5243", 
+          "slots": 6, 
+          "uid": "2038671"
+        }, 
+        "free_bikes": 3, 
+        "id": "8b1b10dd0acde11c6266e545e3b65462", 
+        "latitude": 52.381999, 
+        "longitude": 13.14136, 
+        "name": "Steinstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:47.923000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "33125", 
+            "33098", 
+            "33069", 
+            "33014", 
+            "33187"
+          ], 
+          "number": "5225", 
+          "uid": "3120944"
+        }, 
+        "free_bikes": 5, 
+        "id": "b46c39411b4ec692e376c1a31c5a04dc", 
+        "latitude": 52.394316, 
+        "longitude": 13.015333, 
+        "name": "Bahnhof Sanssouci", 
+        "timestamp": "2017-08-15T04:49:47.927000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "33108", 
+            "33082", 
+            "33047", 
+            "33241", 
+            "33230"
+          ], 
+          "number": "5242", 
+          "slots": 6, 
+          "uid": "1832709"
+        }, 
+        "free_bikes": 5, 
+        "id": "2ed510d8ae13d24658632aa3e262f218", 
+        "latitude": 52.382583950651, 
+        "longitude": 13.121457695961, 
+        "name": "Bahnhof Medienstadt", 
+        "timestamp": "2017-08-15T04:49:47.922000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "32143", 
+            "33053", 
+            "33038", 
+            "33163", 
+            "33156"
+          ], 
+          "number": "5226", 
+          "uid": "3121421"
+        }, 
+        "free_bikes": 5, 
+        "id": "233b527bbc3167e676ba9d8f943b4614", 
+        "latitude": 52.37391, 
+        "longitude": 13.011222, 
+        "name": "Bahnhof Pirschheide", 
+        "timestamp": "2017-08-15T04:49:47.928000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "33148", 
+            "33128", 
+            "33060", 
+            "33167", 
+            "33209"
+          ], 
+          "number": "5256", 
+          "uid": "3121458"
+        }, 
+        "free_bikes": 6, 
+        "id": "244130c8249d1ef7ca3f6663d71f6cdb", 
+        "latitude": 52.388498, 
+        "longitude": 13.028688, 
+        "name": "Zeppelinstra\u00dfe/Kastanienallee", 
+        "timestamp": "2017-08-15T04:49:47.929000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "33122", 
+            "33066", 
+            "33046", 
+            "33040", 
+            "33189"
+          ], 
+          "number": "5202", 
+          "slots": 10, 
+          "uid": "57731"
+        }, 
+        "free_bikes": 9, 
+        "id": "0d9e8ad79b0abf8abc57ecaefd4a0a4a", 
+        "latitude": 52.401819930254, 
+        "longitude": 13.010939955711, 
+        "name": "Neues Palais / Universit\u00e4t", 
+        "timestamp": "2017-08-15T04:49:47.885000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "32033", 
+            "33056", 
+            "33027", 
+            "33183", 
+            "33151"
+          ], 
+          "number": "5203", 
+          "slots": 6, 
+          "uid": "57733"
+        }, 
+        "free_bikes": 5, 
+        "id": "73523d04ac9fe8adf281d79dc7bbadaf", 
+        "latitude": 52.392887176391, 
+        "longitude": 13.036608695984, 
+        "name": "Bahnhof Charlottenhof", 
+        "timestamp": "2017-08-15T04:49:47.886000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "07042", 
+            "33107", 
+            "33091", 
+            "33088", 
+            "33065"
+          ], 
+          "number": "5204", 
+          "slots": 12, 
+          "uid": "57734"
+        }, 
+        "free_bikes": 7, 
+        "id": "341c1be71d2c9cc7427969d8458ea9e3", 
+        "latitude": 52.413843068523, 
+        "longitude": 13.032569289207, 
+        "name": "Kirschallee / Pappelallee", 
+        "timestamp": "2017-08-15T04:49:47.887000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "33142", 
+            "33127", 
+            "33097", 
+            "33049"
+          ], 
+          "number": "5206", 
+          "slots": 14, 
+          "uid": "57743"
+        }, 
+        "free_bikes": 4, 
+        "id": "8e77305c51955911727ea91649ff17e3", 
+        "latitude": 52.39689388252, 
+        "longitude": 13.043625354767, 
+        "name": "Zeppelinstra\u00dfe / Feuerbachstr. / Breite Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:47.889000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "33139", 
+            "33135", 
+            "33089", 
+            "33033", 
+            "33017"
+          ], 
+          "number": "5207", 
+          "slots": 10, 
+          "uid": "57744"
+        }, 
+        "free_bikes": 6, 
+        "id": "d3946667afcfaa689ec1adff56273556", 
+        "latitude": 52.39888400655, 
+        "longitude": 13.047584295273, 
+        "name": "Luisenplatz S\u00fcd / Sparkasse", 
+        "timestamp": "2017-08-15T04:49:47.890000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "5208", 
+          "slots": 6, 
+          "uid": "57747"
+        }, 
+        "free_bikes": 0, 
+        "id": "c68a81f708fdbc965fb1f2bd5c81dc0d", 
+        "latitude": 52.402117766672, 
+        "longitude": 13.052423000336, 
+        "name": "J\u00e4gertor / Lindenstr.", 
+        "timestamp": "2017-08-15T04:49:47.891000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "33100", 
+            "33210"
+          ], 
+          "number": "5210", 
+          "slots": 6, 
+          "uid": "57749"
+        }, 
+        "free_bikes": 2, 
+        "id": "f1d5127a5b3b0978c8ba47069db50c0a", 
+        "latitude": 52.399204774721, 
+        "longitude": 13.052948713303, 
+        "name": "Dortusstra\u00dfe / Charlottenstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:47.892000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "33137", 
+            "33116", 
+            "33112", 
+            "33086", 
+            "33059"
+          ], 
+          "number": "5213", 
+          "slots": 12, 
+          "uid": "57752"
+        }, 
+        "free_bikes": 6, 
+        "id": "c4701d770d28563dab960d01f94eda2c", 
+        "latitude": 52.36602237923, 
+        "longitude": 13.093589544296, 
+        "name": "Waldstadt / Heinrich-Mann-Allee", 
+        "timestamp": "2017-08-15T04:49:47.895000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "33109", 
+            "33076", 
+            "33004", 
+            "33199", 
+            "33170"
+          ], 
+          "number": "5217", 
+          "slots": 12, 
+          "uid": "57756"
+        }, 
+        "free_bikes": 8, 
+        "id": "5ee78b6b9d07a0d710ae90c43a1e70dd", 
+        "latitude": 52.390931974697, 
+        "longitude": 13.067122846842, 
+        "name": "Hauptbahnhof S\u00fcd / Taxistand", 
+        "timestamp": "2017-08-15T04:49:47.899000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "33138", 
+            "33123", 
+            "33119", 
+            "33092", 
+            "33080"
+          ], 
+          "number": "5224", 
+          "slots": 10, 
+          "uid": "98430"
+        }, 
+        "free_bikes": 7, 
+        "id": "0b8f2e05399909334cd4fffcc0beacec", 
+        "latitude": 52.394864387297, 
+        "longitude": 13.076442182064, 
+        "name": "Humboldtring / Zentrum Ost", 
+        "timestamp": "2017-08-15T04:49:47.904000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "32044", 
+            "33171", 
+            "33165"
+          ], 
+          "number": "5222", 
+          "slots": 10, 
+          "uid": "120873"
+        }, 
+        "free_bikes": 3, 
+        "id": "8b418d9e76c7ddfc09daa8b4e3ff42a6", 
+        "latitude": 52.402654521733, 
+        "longitude": 13.058066368103, 
+        "name": "Friedrich-Ebert-Stra\u00dfe / Mittelstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:47.905000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "33058", 
+            "33206", 
+            "33252"
+          ], 
+          "number": "5223", 
+          "slots": 12, 
+          "uid": "98428"
+        }, 
+        "free_bikes": 3, 
+        "id": "21667acfde02a7808c5dd12bf1cc1c2c", 
+        "latitude": 52.388333362048, 
+        "longitude": 13.117611408234, 
+        "name": "Filmuniversit\u00e4t Babelsberg", 
+        "timestamp": "2017-08-15T04:49:47.903000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "33149", 
+            "33131", 
+            "33129", 
+            "33051", 
+            "33042"
+          ], 
+          "number": "5228", 
+          "slots": 12, 
+          "uid": "400126"
+        }, 
+        "free_bikes": 6, 
+        "id": "08245bafaf1e204293c7be2d8ed33625", 
+        "latitude": 52.412186, 
+        "longitude": 13.050658, 
+        "name": "Fachhochschule Potsdam", 
+        "timestamp": "2017-08-15T04:49:47.906000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "32045", 
+            "33130", 
+            "33126", 
+            "33193", 
+            "33166"
+          ], 
+          "number": "5201", 
+          "slots": 8, 
+          "uid": "57730"
+        }, 
+        "free_bikes": 6, 
+        "id": "22b6a88c47f0aae1a10626e769206c63", 
+        "latitude": 52.409009990671, 
+        "longitude": 12.972434163094, 
+        "name": "Bahnhof Golm", 
+        "timestamp": "2017-08-15T04:49:47.882000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "33050", 
+            "33208", 
+            "33228", 
+            "33215"
+          ], 
+          "number": "5205", 
+          "slots": 8, 
+          "uid": "57741"
+        }, 
+        "free_bikes": 4, 
+        "id": "281fd17850864589fd1be03c0d5d20fd", 
+        "latitude": 52.41586187516, 
+        "longitude": 13.041211366653, 
+        "name": "Volkspark S\u00fcd", 
+        "timestamp": "2017-08-15T04:49:47.888000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "32073", 
+            "33071", 
+            "33030", 
+            "33192", 
+            "33188"
+          ], 
+          "number": "5211", 
+          "slots": 14, 
+          "uid": "57750"
+        }, 
+        "free_bikes": 8, 
+        "id": "3e0a73537517be69f08dd25ad783285c", 
+        "latitude": 52.392880629188, 
+        "longitude": 13.066005706787, 
+        "name": "Hauptbahnhof Nord", 
+        "timestamp": "2017-08-15T04:49:47.893000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "33145", 
+            "33101", 
+            "33041", 
+            "33198", 
+            "33220"
+          ], 
+          "number": "5212", 
+          "slots": 8, 
+          "uid": "57751"
+        }, 
+        "free_bikes": 6, 
+        "id": "fa82717ef99d104d8e4285ef47e76433", 
+        "latitude": 52.405747281904, 
+        "longitude": 13.058125376701, 
+        "name": "Stadthaus Potsdam", 
+        "timestamp": "2017-08-15T04:49:47.894000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "33077", 
+            "33061", 
+            "33020", 
+            "33010", 
+            "33176"
+          ], 
+          "number": "5214", 
+          "slots": 10, 
+          "uid": "57753"
+        }, 
+        "free_bikes": 7, 
+        "id": "31db08f3c763cc88a47bf0a557b0c1c2", 
+        "latitude": 52.399201501588, 
+        "longitude": 13.057975172996, 
+        "name": "Platz der Einheit", 
+        "timestamp": "2017-08-15T04:49:47.896000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "33190", 
+            "33150"
+          ], 
+          "number": "5215", 
+          "slots": 10, 
+          "uid": "57754"
+        }, 
+        "free_bikes": 2, 
+        "id": "1b8a406ffa535cc3c7fb6ad3ed82fb23", 
+        "latitude": 52.395237559551, 
+        "longitude": 13.058441877365, 
+        "name": "Filmmuseum", 
+        "timestamp": "2017-08-15T04:49:47.897000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "33136", 
+            "33043", 
+            "33001", 
+            "33239"
+          ], 
+          "number": "5216", 
+          "slots": 14, 
+          "uid": "57755"
+        }, 
+        "free_bikes": 4, 
+        "id": "6356d40243f0d5ca15d37eeb9d720eb5", 
+        "latitude": 52.403806559326, 
+        "longitude": 13.07514667511, 
+        "name": "Schiffbauergasse", 
+        "timestamp": "2017-08-15T04:49:47.898000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "33133", 
+            "33099", 
+            "33094", 
+            "33081", 
+            "33054"
+          ], 
+          "number": "5219", 
+          "slots": 8, 
+          "uid": "57759"
+        }, 
+        "free_bikes": 5, 
+        "id": "02eda3aab81728ee016381ef235c691e", 
+        "latitude": 52.389168208618, 
+        "longitude": 13.09995174408, 
+        "name": "Kopernikusstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:47.900000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "33087", 
+            "33085", 
+            "33200", 
+            "33233"
+          ], 
+          "number": "5220", 
+          "slots": 8, 
+          "uid": "57762"
+        }, 
+        "free_bikes": 4, 
+        "id": "5366f2c11d6bd3825a09dbbf59b7d3c0", 
+        "latitude": 52.394288255516, 
+        "longitude": 13.102462291718, 
+        "name": "Plantagenplatz", 
+        "timestamp": "2017-08-15T04:49:47.901000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "33143", 
+            "33095", 
+            "33070", 
+            "33227"
+          ], 
+          "number": "5221", 
+          "slots": 8, 
+          "uid": "57763"
+        }, 
+        "free_bikes": 4, 
+        "id": "f10a30d4bb8614ce2c7971592e681eb7", 
+        "latitude": 52.393980545688, 
+        "longitude": 13.129005432129, 
+        "name": "Bahnhof Griebnitzsee", 
+        "timestamp": "2017-08-15T04:49:47.902000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "33074", 
+            "33023", 
+            "33175", 
+            "33231"
+          ], 
+          "number": "5245", 
+          "slots": 6, 
+          "uid": "775389"
+        }, 
+        "free_bikes": 4, 
+        "id": "0d2fa9cbf5445e4322fa3117a4ca3c22", 
+        "latitude": 52.369246, 
+        "longitude": 13.140434, 
+        "name": "Gartenstadt Drewitz", 
+        "timestamp": "2017-08-15T04:49:47.907000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "33144", 
+            "33115", 
+            "33159", 
+            "33226"
+          ], 
+          "number": "5246", 
+          "slots": 5, 
+          "uid": "775411"
+        }, 
+        "free_bikes": 4, 
+        "id": "be1231c9438141c74a3e2e928f5f91ba", 
+        "latitude": 52.311671, 
+        "longitude": 12.929674, 
+        "name": "Ferch, Rathaus", 
+        "timestamp": "2017-08-15T04:49:47.908000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "33032", 
+            "33022", 
+            "33009", 
+            "33182"
+          ], 
+          "number": "5248", 
+          "slots": 5, 
+          "uid": "775416"
+        }, 
+        "free_bikes": 4, 
+        "id": "bcaf6ce766dd81c6e958e437fff221eb", 
+        "latitude": 52.362954, 
+        "longitude": 12.97374, 
+        "name": "Geltow, Wimmerplatz", 
+        "timestamp": "2017-08-15T04:49:47.915000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "33104", 
+            "33090", 
+            "33052", 
+            "33036", 
+            "33181"
+          ], 
+          "number": "5247", 
+          "slots": 5, 
+          "uid": "776855"
+        }, 
+        "free_bikes": 5, 
+        "id": "22b0ea150e72dc267651c9b01b9dfa5c", 
+        "latitude": 52.348165, 
+        "longitude": 13.000507, 
+        "name": "Caputh, Schloss", 
+        "timestamp": "2017-08-15T04:49:47.921000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "5218", 
+          "slots": 8, 
+          "uid": "57758"
+        }, 
+        "free_bikes": 0, 
+        "id": "3645cbe950147aa95094922fbbf62d8b", 
+        "latitude": 52.392245545868, 
+        "longitude": 13.091722726822, 
+        "name": "Rathaus Babelsberg", 
+        "timestamp": "2017-08-15T04:49:47.900000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "33124", 
+            "33113", 
+            "33021", 
+            "33011", 
+            "33196"
+          ], 
+          "number": "5244", 
+          "slots": 6, 
+          "uid": "1832456"
+        }, 
+        "free_bikes": 5, 
+        "id": "3a8de2db8d1607f1f42baf7d68d5d4e3", 
+        "latitude": 52.375618825955, 
+        "longitude": 13.128393888474, 
+        "name": "Johannes-Kepler-Platz", 
+        "timestamp": "2017-08-15T04:49:47.922000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "33079", 
+            "33063", 
+            "33057", 
+            "33245", 
+            "33253"
+          ], 
+          "number": "5249", 
+          "slots": 4, 
+          "uid": "2432655"
+        }, 
+        "free_bikes": 5, 
+        "id": "f593a2cf22ea69e633fbf07bb48a59ef", 
+        "latitude": 52.316098, 
+        "longitude": 13.031467, 
+        "name": "Bahnhof Michendorf", 
+        "timestamp": "2017-08-15T04:49:47.924000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "33103", 
+            "33072", 
+            "33243"
+          ], 
+          "number": "5250", 
+          "slots": 5, 
+          "uid": "2432674"
+        }, 
+        "free_bikes": 3, 
+        "id": "44ff6ebd9657887f2d6f42aa84506b1d", 
+        "latitude": 52.331204, 
+        "longitude": 13.067151, 
+        "name": "Bahnhof Wilhelmshorst", 
+        "timestamp": "2017-08-15T04:49:47.925000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "33105", 
+            "33248", 
+            "33249", 
+            "33251"
+          ], 
+          "number": "5251", 
+          "slots": 4, 
+          "uid": "2432681"
+        }, 
+        "free_bikes": 4, 
+        "id": "e8e0a17301131e99e575c8c806e7f215", 
+        "latitude": 52.285108, 
+        "longitude": 13.0622, 
+        "name": "Parkplatz Wildenbruch", 
+        "timestamp": "2017-08-15T04:49:47.926000Z"
+      }
+    ]
+  }
+}

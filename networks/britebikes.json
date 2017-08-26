@@ -1,0 +1,292 @@
+{
+  "network": {
+    "company": [
+      "CycleHop, LLC", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "http://britebikes.socialbicycles.com/opendata/gbfs.json", 
+    "href": "/v2/networks/britebikes", 
+    "id": "britebikes", 
+    "location": {
+      "city": "San Ramon, CA", 
+      "country": "US", 
+      "latitude": 37.759444753878, 
+      "longitude": -121.955134881881
+    }, 
+    "name": "BRiteBikes", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "2600 Bishop Drive, San Ramon", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2103"
+        }, 
+        "free_bikes": 1, 
+        "id": "e2e0b2eea36a34a831a3d0523b2d0abf", 
+        "latitude": 37.76314841454804, 
+        "longitude": -121.96503549814224, 
+        "name": "San Ramon Marriot", 
+        "timestamp": "2017-08-15T04:48:33.170000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "San Ramon Valley Iron Horse Trail, San Ramon, California", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2011"
+        }, 
+        "free_bikes": 2, 
+        "id": "7c4a5f7dabd0ce2ec1839ced5719906a", 
+        "latitude": 37.7701984677794, 
+        "longitude": -121.96021154522894, 
+        "name": "Transit Hub", 
+        "timestamp": "2017-08-15T04:48:33.226000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Executive Parkway, Bishop Ranch Business Park, San Ramon, California", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2010"
+        }, 
+        "free_bikes": 9, 
+        "id": "d28ce3bd5a526cf427c856fdd9309733", 
+        "latitude": 37.76863691244044, 
+        "longitude": -121.96746289730072, 
+        "name": "BR 8", 
+        "timestamp": "2017-08-15T04:48:33.223000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2600 Camino Ramon, San Ramon", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1461"
+        }, 
+        "free_bikes": 3, 
+        "id": "f1c7718c57e0584fb72824c062e8f191", 
+        "latitude": 37.766851630534205, 
+        "longitude": -121.96319282054901, 
+        "name": "BR 2600 Visitor Lot", 
+        "timestamp": "2017-08-15T04:48:33.167000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2613 Camino Ramon, San Ramon", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1732"
+        }, 
+        "free_bikes": 2, 
+        "id": "ce242aae12dcfbfd9534034883795b69", 
+        "latitude": 37.76856481823885, 
+        "longitude": -121.95952892303467, 
+        "name": "BR 3 North", 
+        "timestamp": "2017-08-15T04:48:33.213000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2623 Camino Ramon, San Ramon", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1733"
+        }, 
+        "free_bikes": 4, 
+        "id": "2f5ccad5334424d21829817ebc53e211", 
+        "latitude": 37.76695339964549, 
+        "longitude": -121.95842921733856, 
+        "name": "BR 3 South", 
+        "timestamp": "2017-08-15T04:48:33.206000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Annabel Lane, Bishop Ranch Business Park, San Ramon, California", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1985"
+        }, 
+        "free_bikes": 2, 
+        "id": "dd3d76f0cfd3ea0de91be014ee32961d", 
+        "latitude": 37.773450277034094, 
+        "longitude": -121.9721420109272, 
+        "name": "BR 12 North", 
+        "timestamp": "2017-08-15T04:48:33.228000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Camino Ramon, Bishop Ranch Business Park, San Ramon, California", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2007"
+        }, 
+        "free_bikes": 5, 
+        "id": "6fc00d540cbb12aa2ca08faf166a48b0", 
+        "latitude": 37.77424584757111, 
+        "longitude": -121.96375474333762, 
+        "name": "BR 9", 
+        "timestamp": "2017-08-15T04:48:33.200000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2400-2440 Camino Ramon, San Ramon", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2009"
+        }, 
+        "free_bikes": 6, 
+        "id": "4f6bd4b40bed5d5453936c4505574d79", 
+        "latitude": 37.77163700493346, 
+        "longitude": -121.96497917175292, 
+        "name": "BR 6", 
+        "timestamp": "2017-08-15T04:48:33.178000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2401 Crow Canyon Road, San Ramon", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_662"
+        }, 
+        "free_bikes": 2, 
+        "id": "b18d049a401952b0ac0e7bb8be61efde", 
+        "latitude": 37.7714624826912, 
+        "longitude": -121.992872431289, 
+        "name": "San Ramon Permit Center / Police Station ", 
+        "timestamp": "2017-08-15T04:48:33.224000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "2684 Bishop Drive, San Ramon", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2102"
+        }, 
+        "free_bikes": 5, 
+        "id": "48fc0a5edb165795b9087c4ae28e712a", 
+        "latitude": 37.76487653487407, 
+        "longitude": -121.96177661418915, 
+        "name": "3001 Bishop Drive", 
+        "timestamp": "2017-08-15T04:48:33.172000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Iron Horse Regional Trail, San Ramon", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1458"
+        }, 
+        "free_bikes": 0, 
+        "id": "a9606ba86a2e195e962810a4c6533ed6", 
+        "latitude": 37.76444079795254, 
+        "longitude": -121.95507645606993, 
+        "name": "San Ramon City Hall", 
+        "timestamp": "2017-08-15T04:48:33.162000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "2303 Camino Ramon, San Ramon", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2008"
+        }, 
+        "free_bikes": 3, 
+        "id": "60ad0ca042086aca4ed443f13a4dea67", 
+        "latitude": 37.776129533267145, 
+        "longitude": -121.96482360363005, 
+        "name": "BR 11", 
+        "timestamp": "2017-08-15T04:48:33.174000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "USPS, San Ramon Valley Iron Horse Trail, San Ramon, California", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_516"
+        }, 
+        "free_bikes": 4, 
+        "id": "3bfa9e17731195d57c7cb010ffce5dd2", 
+        "latitude": 37.771557513543236, 
+        "longitude": -121.96133270859717, 
+        "name": "BR 7", 
+        "timestamp": "2017-08-15T04:48:33.202000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "San Ramon, California", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2108"
+        }, 
+        "free_bikes": 10, 
+        "id": "e3d06430a7b32588de14838e51402564", 
+        "latitude": 37.75971006952753, 
+        "longitude": -121.95513278245926, 
+        "name": "BR1", 
+        "timestamp": "2017-08-15T04:48:33.204000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "12657 Alcosta Boulevard, San Ramon", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2006"
+        }, 
+        "free_bikes": 8, 
+        "id": "609040b81b1a540810a09dd70971e5a3", 
+        "latitude": 37.77319109165642, 
+        "longitude": -121.95986688137053, 
+        "name": "BR 15 South", 
+        "timestamp": "2017-08-15T04:48:33.180000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "USPS, San Ramon Valley Iron Horse Trail, San Ramon, California", 
+          "last_updated": 1502772508, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2005"
+        }, 
+        "free_bikes": 4, 
+        "id": "eb69eab2b534642b34880843e3aec4cf", 
+        "latitude": 37.77477693179412, 
+        "longitude": -121.96133136749268, 
+        "name": "BR 15 North", 
+        "timestamp": "2017-08-15T04:48:33.169000Z"
+      }
+    ]
+  }
+}

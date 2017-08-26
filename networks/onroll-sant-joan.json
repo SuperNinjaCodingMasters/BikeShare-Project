@@ -1,0 +1,114 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-sant-joan", 
+    "id": "onroll-sant-joan", 
+    "location": {
+      "city": "Sant Joan d'Alacant", 
+      "country": "ES", 
+      "latitude": 38.399839, 
+      "longitude": -0.434522
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "e3108e01d554046578521fb8fc07eb86", 
+        "latitude": 38.401664, 
+        "longitude": -0.435681, 
+        "name": "1_ayuntamiento", 
+        "timestamp": "2017-08-15T04:49:34.833000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "bd80e4b4eacdae90d880ee97227770af", 
+        "latitude": 38.389008, 
+        "longitude": -0.435455, 
+        "name": "6_hospital", 
+        "timestamp": "2017-08-15T04:49:34.843000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "126972e1f15584a31c3cd10e1a928c1c", 
+        "latitude": 38.409811, 
+        "longitude": -0.434908, 
+        "name": "5_instituto Garc\u00eda Berlanga", 
+        "timestamp": "2017-08-15T04:49:34.844000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "0ebf000a05b30b0ee3b32a2234ae6bdf", 
+        "latitude": 38.392814, 
+        "longitude": -0.441542, 
+        "name": "3_instituto Lloixa", 
+        "timestamp": "2017-08-15T04:49:34.845000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "452d3604b9d8c8e6f46facf034e11798", 
+        "latitude": 38.396131, 
+        "longitude": -0.433519, 
+        "name": "2_plaza de la Constituci\u00f3n", 
+        "timestamp": "2017-08-15T04:49:34.846000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "fec09d0c30ff06ffb7a75338046f5fef", 
+        "latitude": 38.409606, 
+        "longitude": -0.426028, 
+        "name": "4_polideportivo", 
+        "timestamp": "2017-08-15T04:49:34.846000Z"
+      }
+    ]
+  }
+}

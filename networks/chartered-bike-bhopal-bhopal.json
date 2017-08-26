@@ -1,0 +1,823 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/chartered-bike-bhopal-bhopal", 
+    "id": "chartered-bike-bhopal-bhopal", 
+    "location": {
+      "city": "Bhopal", 
+      "country": "IN", 
+      "latitude": 23.2467, 
+      "longitude": 77.411
+    }, 
+    "name": "Chartered Bike", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "79536", 
+            "79458", 
+            "79449", 
+            "79345"
+          ], 
+          "number": "9823", 
+          "slots": 6, 
+          "uid": "2943522"
+        }, 
+        "free_bikes": 4, 
+        "id": "3f79e885a50fe01beaf4e02f462d69ce", 
+        "latitude": 23.249586, 
+        "longitude": 77.395599, 
+        "name": "Vardhmaan Park", 
+        "timestamp": "2017-08-15T04:49:57.248000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "79531", 
+            "79480", 
+            "79451", 
+            "79429", 
+            "79330"
+          ], 
+          "number": "9829", 
+          "slots": 6, 
+          "uid": "3328064"
+        }, 
+        "free_bikes": 5, 
+        "id": "14ed5c206755518fd7c340db942f39f5", 
+        "latitude": 23.216004, 
+        "longitude": 77.395599, 
+        "name": "KAMLA NAGAR THANA", 
+        "timestamp": "2017-08-15T04:49:57.316000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79426", 
+            "79269", 
+            "79253"
+          ], 
+          "number": "9838", 
+          "slots": 6, 
+          "uid": "2943595"
+        }, 
+        "free_bikes": 3, 
+        "id": "b371ef2499d92f6f39aecd14aa834f73", 
+        "latitude": 23.222624, 
+        "longitude": 77.424051, 
+        "name": "Nandan kanan Park (Charimli)", 
+        "timestamp": "2017-08-15T04:49:57.259000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79528", 
+            "79444", 
+            "79324", 
+            "79238"
+          ], 
+          "number": "9803", 
+          "slots": 6, 
+          "uid": "2943819"
+        }, 
+        "free_bikes": 4, 
+        "id": "3fade2587dd5a43322deb4a5aa00ff1c", 
+        "latitude": 23.192864, 
+        "longitude": 77.450197, 
+        "name": "Hoshangabad Road 3", 
+        "timestamp": "2017-08-15T04:49:57.260000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79491", 
+            "79266"
+          ], 
+          "number": "9801", 
+          "slots": 6, 
+          "uid": "3091236"
+        }, 
+        "free_bikes": 2, 
+        "id": "dd5845c02e5e9cb700fcc70cb944b115", 
+        "latitude": 23.203445, 
+        "longitude": 77.446469, 
+        "name": "Hoshangabad Road 1", 
+        "timestamp": "2017-08-15T04:49:57.261000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "79547", 
+            "79423", 
+            "79421", 
+            "79419", 
+            "79343"
+          ], 
+          "number": "9802", 
+          "slots": 6, 
+          "uid": "3091256"
+        }, 
+        "free_bikes": 5, 
+        "id": "cee2256601776e39b6f71550b706d21b", 
+        "latitude": 23.200714, 
+        "longitude": 77.447472, 
+        "name": "Hoshangabad Road 2", 
+        "timestamp": "2017-08-15T04:49:57.262000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79509", 
+            "79425", 
+            "79405", 
+            "79334"
+          ], 
+          "number": "9804", 
+          "slots": 6, 
+          "uid": "3091278"
+        }, 
+        "free_bikes": 4, 
+        "id": "0eca236df5962b877730fac486a4b756", 
+        "latitude": 23.187359, 
+        "longitude": 77.452427, 
+        "name": "Hoshangabad Road 4", 
+        "timestamp": "2017-08-15T04:49:57.263000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "79518", 
+            "79431", 
+            "79393", 
+            "79336", 
+            "79289"
+          ], 
+          "number": "9805", 
+          "slots": 6, 
+          "uid": "3091287"
+        }, 
+        "free_bikes": 5, 
+        "id": "e0ae0ac8b1f8409db93ebeba565fa4c2", 
+        "latitude": 23.182398, 
+        "longitude": 77.455573, 
+        "name": "Hoshangabad Road 5", 
+        "timestamp": "2017-08-15T04:49:57.264000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79442", 
+            "79331", 
+            "79258"
+          ], 
+          "number": "9806", 
+          "slots": 6, 
+          "uid": "3091293"
+        }, 
+        "free_bikes": 3, 
+        "id": "6dc074a8b58a4b4f3771d1f77d318f21", 
+        "latitude": 23.229068, 
+        "longitude": 77.442164, 
+        "name": "ISBT", 
+        "timestamp": "2017-08-15T04:49:57.266000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "79546", 
+            "79452", 
+            "79347", 
+            "79327", 
+            "79287"
+          ], 
+          "number": "9810", 
+          "slots": 6, 
+          "uid": "3091310"
+        }, 
+        "free_bikes": 5, 
+        "id": "2f1c86b63cf7400c5c5bbfbc1269ebdc", 
+        "latitude": 23.231825, 
+        "longitude": 77.432404, 
+        "name": "BOARD OFFICE SQUARE", 
+        "timestamp": "2017-08-15T04:49:57.267000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79494", 
+            "79428", 
+            "79320"
+          ], 
+          "number": "9811", 
+          "slots": 6, 
+          "uid": "3091320"
+        }, 
+        "free_bikes": 3, 
+        "id": "c930f095ab36b579e6f9d9791e0a2663", 
+        "latitude": 23.231759, 
+        "longitude": 77.433323, 
+        "name": "ZONE - 2 M.P. NAGAR (TIBBAT MARKET)", 
+        "timestamp": "2017-08-15T04:49:57.269000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79514", 
+            "79471", 
+            "79424", 
+            "79272"
+          ], 
+          "number": "9812", 
+          "slots": 6, 
+          "uid": "3091333"
+        }, 
+        "free_bikes": 4, 
+        "id": "6f45247101209f55c2b5e0bfb065a1b8", 
+        "latitude": 23.227035, 
+        "longitude": 77.435616, 
+        "name": "SHIVNEER WATER PLANT ZONE 2", 
+        "timestamp": "2017-08-15T04:49:57.272000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "79472", 
+            "79454", 
+            "79410", 
+            "79259"
+          ], 
+          "number": "9813", 
+          "slots": 6, 
+          "uid": "3091345"
+        }, 
+        "free_bikes": 4, 
+        "id": "d95902020acc4b3b87322340da878882", 
+        "latitude": 23.22874, 
+        "longitude": 77.428269, 
+        "name": "6 NO. MARKET", 
+        "timestamp": "2017-08-15T04:49:57.273000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "number": "9814", 
+          "slots": 6, 
+          "uid": "3091351"
+        }, 
+        "free_bikes": 0, 
+        "id": "57384fa269b7e58f8dc2c78a9ac27094", 
+        "latitude": 23.225072, 
+        "longitude": 77.42874, 
+        "name": "NUTAN COLLEGE", 
+        "timestamp": "2017-08-15T04:49:57.276000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "9815", 
+          "slots": 6, 
+          "uid": "3091356"
+        }, 
+        "free_bikes": 0, 
+        "id": "4649d40494f76b68f2b7385a5a6e5c69", 
+        "latitude": 23.231593, 
+        "longitude": 77.418433, 
+        "name": "JHARNESHWAR MANDIR", 
+        "timestamp": "2017-08-15T04:49:57.277000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "79457"
+          ], 
+          "number": "9816", 
+          "slots": 6, 
+          "uid": "3091373"
+        }, 
+        "free_bikes": 1, 
+        "id": "fe3b8f18c4c54c5b4538da60b2d9f616", 
+        "latitude": 23.22866, 
+        "longitude": 77.415382, 
+        "name": "TULSI NAGAR", 
+        "timestamp": "2017-08-15T04:49:57.278000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "79515", 
+            "79507", 
+            "79498", 
+            "79489", 
+            "79461"
+          ], 
+          "number": "9817", 
+          "slots": 6, 
+          "uid": "3091405"
+        }, 
+        "free_bikes": 5, 
+        "id": "52160696e52399f26aee0e76577b0f4a", 
+        "latitude": 23.231905, 
+        "longitude": 77.411919, 
+        "name": "MAYUR PARK LINK ROAD NO.1", 
+        "timestamp": "2017-08-15T04:49:57.278000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "79243"
+          ], 
+          "number": "9818", 
+          "slots": 6, 
+          "uid": "3091414"
+        }, 
+        "free_bikes": 1, 
+        "id": "5759c2998c6735949fb0198f29ab47c1", 
+        "latitude": 23.23295, 
+        "longitude": 77.401322, 
+        "name": "kamla nehru girls school T.T. Nagar ", 
+        "timestamp": "2017-08-15T04:49:57.280000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79482", 
+            "79438", 
+            "79430"
+          ], 
+          "number": "9819", 
+          "slots": 6, 
+          "uid": "3091421"
+        }, 
+        "free_bikes": 3, 
+        "id": "f1bddd8117647c5aa5aeedbf6c6d3c4b", 
+        "latitude": 23.237019, 
+        "longitude": 77.40025, 
+        "name": "Roshanpura Square", 
+        "timestamp": "2017-08-15T04:49:57.282000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79544", 
+            "79511", 
+            "79401"
+          ], 
+          "number": "9820", 
+          "slots": 6, 
+          "uid": "3091449"
+        }, 
+        "free_bikes": 3, 
+        "id": "810ed5606d0a76dfca389e97629028f0", 
+        "latitude": 23.243884, 
+        "longitude": 77.397579, 
+        "name": "POLYTECHNIC SQUARE", 
+        "timestamp": "2017-08-15T04:49:57.284000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79462"
+          ], 
+          "number": "9821", 
+          "slots": 6, 
+          "uid": "3091457"
+        }, 
+        "free_bikes": 1, 
+        "id": "0d355d98a3df97a921255dcc6962865b", 
+        "latitude": 23.244284, 
+        "longitude": 77.387085, 
+        "name": "BOAT CLUB 1", 
+        "timestamp": "2017-08-15T04:49:57.286000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "79353", 
+            "79339", 
+            "79337", 
+            "79261"
+          ], 
+          "number": "9822", 
+          "slots": 6, 
+          "uid": "3091466"
+        }, 
+        "free_bikes": 4, 
+        "id": "4d41afc86e8032eac39be5b983a8d0b1", 
+        "latitude": 23.242482, 
+        "longitude": 77.381173, 
+        "name": "BOAT CLUB 2", 
+        "timestamp": "2017-08-15T04:49:57.288000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "79479", 
+            "79440", 
+            "79439", 
+            "79265", 
+            "79245"
+          ], 
+          "number": "9835", 
+          "slots": 6, 
+          "uid": "3097188"
+        }, 
+        "free_bikes": 5, 
+        "id": "0721613c6c3db55b4b1b5cb5c83906b7", 
+        "latitude": 23.214601, 
+        "longitude": 77.435593, 
+        "name": "10.No Market, BMC Parking", 
+        "timestamp": "2017-08-15T04:49:57.291000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79549", 
+            "79464", 
+            "79402", 
+            "79268"
+          ], 
+          "number": "9839", 
+          "slots": 6, 
+          "uid": "3125534"
+        }, 
+        "free_bikes": 4, 
+        "id": "f724389651392c750199500952f05138", 
+        "latitude": 23.237441, 
+        "longitude": 77.421214, 
+        "name": "VINDHYACHAL BHAWAN", 
+        "timestamp": "2017-08-15T04:49:57.294000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79537", 
+            "79404", 
+            "79271"
+          ], 
+          "number": "9825", 
+          "slots": 6, 
+          "uid": "3125544"
+        }, 
+        "free_bikes": 3, 
+        "id": "9cdbe2a85d8eed4fcc3f63520869a58e", 
+        "latitude": 23.226139, 
+        "longitude": 77.386867, 
+        "name": "DEPOT SQUARE", 
+        "timestamp": "2017-08-15T04:49:57.296000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79475", 
+            "79474", 
+            "79315", 
+            "79236"
+          ], 
+          "number": "9827", 
+          "slots": 6, 
+          "uid": "3125556"
+        }, 
+        "free_bikes": 4, 
+        "id": "1963bb2716298c99b134c17283d62834", 
+        "latitude": 23.216699, 
+        "longitude": 77.376212, 
+        "name": "SAIR SAPATA", 
+        "timestamp": "2017-08-15T04:49:57.298000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79397", 
+            "79323", 
+            "79277"
+          ], 
+          "number": "9833", 
+          "slots": 6, 
+          "uid": "3125573"
+        }, 
+        "free_bikes": 3, 
+        "id": "4359ff4048ca2d24336b025f89d57d73", 
+        "latitude": 23.202557, 
+        "longitude": 77.425174, 
+        "name": "SHAHPURA LAKE", 
+        "timestamp": "2017-08-15T04:49:57.302000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79470", 
+            "79395", 
+            "79340", 
+            "79246"
+          ], 
+          "number": "9831", 
+          "slots": 6, 
+          "uid": "3125643"
+        }, 
+        "free_bikes": 4, 
+        "id": "1dbe162b10748466d2df5bf0a546dc22", 
+        "latitude": 23.217803, 
+        "longitude": 77.419776, 
+        "name": "EKANT PARK", 
+        "timestamp": "2017-08-15T04:49:57.303000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79506", 
+            "79500", 
+            "79267"
+          ], 
+          "number": "9832", 
+          "slots": 6, 
+          "uid": "3125659"
+        }, 
+        "free_bikes": 3, 
+        "id": "f7ff67ee78f014ce547c5de411b1177b", 
+        "latitude": 23.215321, 
+        "longitude": 77.426918, 
+        "name": "RAJIV GANDHI CHOWK", 
+        "timestamp": "2017-08-15T04:49:57.305000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79535", 
+            "79519", 
+            "79283"
+          ], 
+          "number": "9836", 
+          "slots": 6, 
+          "uid": "3125675"
+        }, 
+        "free_bikes": 3, 
+        "id": "f0044ca74a66d13f30856f95f1ba0aab", 
+        "latitude": 23.217316, 
+        "longitude": 77.430646, 
+        "name": "BITTAN SQUARE", 
+        "timestamp": "2017-08-15T04:49:57.307000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79497", 
+            "79492", 
+            "79469", 
+            "79418"
+          ], 
+          "number": "9807", 
+          "slots": 6, 
+          "uid": "3125801"
+        }, 
+        "free_bikes": 4, 
+        "id": "37ec2dd142730066a35f2f3048f0312d", 
+        "latitude": 23.236955, 
+        "longitude": 77.433214, 
+        "name": "RM MARG 2", 
+        "timestamp": "2017-08-15T04:49:57.309000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79538", 
+            "79459", 
+            "79396"
+          ], 
+          "number": "9808", 
+          "slots": 6, 
+          "uid": "3125815"
+        }, 
+        "free_bikes": 3, 
+        "id": "5c197a3a67828471aea3b1d9605a2309", 
+        "latitude": 23.233658, 
+        "longitude": 77.434393, 
+        "name": "RM MARG 1", 
+        "timestamp": "2017-08-15T04:49:57.311000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "79453"
+          ], 
+          "number": "9828", 
+          "slots": 6, 
+          "uid": "3328056"
+        }, 
+        "free_bikes": 1, 
+        "id": "0fdca81fc82ffaff8355c0babe4f4ad6", 
+        "latitude": 23.220998, 
+        "longitude": 77.403485, 
+        "name": "MANIT SQUARE", 
+        "timestamp": "2017-08-15T04:49:57.312000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "79478", 
+            "79476", 
+            "79351", 
+            "79280"
+          ], 
+          "number": "9854", 
+          "slots": 8, 
+          "uid": "3338518"
+        }, 
+        "free_bikes": 4, 
+        "id": "a014528869c501ad81155d328c7785da", 
+        "latitude": 23.232933, 
+        "longitude": 77.430657, 
+        "name": "DB Mall ", 
+        "timestamp": "2017-08-15T04:49:57.323000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79502", 
+            "79456"
+          ], 
+          "number": "9824", 
+          "slots": 6, 
+          "uid": "3873453"
+        }, 
+        "free_bikes": 2, 
+        "id": "130c75b28839d4717ac1e243cd746575", 
+        "latitude": 23.259188, 
+        "longitude": 77.382371, 
+        "name": "VIP Road (Karbala) ", 
+        "timestamp": "2017-08-15T04:49:57.325000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "79534", 
+            "79260"
+          ], 
+          "number": "9842", 
+          "slots": 6, 
+          "uid": "3999205"
+        }, 
+        "free_bikes": 2, 
+        "id": "e43453eda189bd89ed2ffbff6d71f1d0", 
+        "latitude": 23.178502, 
+        "longitude": 77.45811, 
+        "name": "Hoshangabad Road 6", 
+        "timestamp": "2017-08-15T04:49:57.329000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "79276"
+          ], 
+          "number": "9843", 
+          "slots": 6, 
+          "uid": "3999279"
+        }, 
+        "free_bikes": 1, 
+        "id": "b659a44c268d7fe9a738d04b6ae0a4c8", 
+        "latitude": 23.183357, 
+        "longitude": 77.454548, 
+        "name": "Hoshangabad 7", 
+        "timestamp": "2017-08-15T04:49:57.332000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "79411", 
+            "79348"
+          ], 
+          "number": "9834", 
+          "slots": 6, 
+          "uid": "4149575"
+        }, 
+        "free_bikes": 2, 
+        "id": "38a6c50bef2b6ee7d23682a86c87aba3", 
+        "latitude": 23.210056, 
+        "longitude": 77.431175, 
+        "name": "1100 quaters", 
+        "timestamp": "2017-08-15T04:49:57.349000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "number": "9841", 
+          "slots": 6, 
+          "uid": "4114479"
+        }, 
+        "free_bikes": 0, 
+        "id": "6e69a0b3762f1448e5491ab53699357d", 
+        "latitude": 23.231342, 
+        "longitude": 77.436114, 
+        "name": "BMC Parking Zone II", 
+        "timestamp": "2017-08-15T04:49:57.345000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "79486", 
+            "79467", 
+            "79455"
+          ], 
+          "number": "9826", 
+          "slots": 6, 
+          "uid": "3125527"
+        }, 
+        "free_bikes": 3, 
+        "id": "bbf4674f9e718e3118bae2a7daaf4a71", 
+        "latitude": 23.226349, 
+        "longitude": 77.392242, 
+        "name": "P&T SQUARE", 
+        "timestamp": "2017-08-15T04:49:57.293000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "79290"
+          ], 
+          "number": "9844", 
+          "slots": 6, 
+          "uid": "4124527"
+        }, 
+        "free_bikes": 1, 
+        "id": "a8ae9bfe92d2328267e7621928c7ea23", 
+        "latitude": 23.231783, 
+        "longitude": 77.457842, 
+        "name": "Smart City ", 
+        "timestamp": "2017-08-15T04:49:57.347000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "79493", 
+            "79403", 
+            "79358", 
+            "79293"
+          ], 
+          "number": "9845", 
+          "slots": 6, 
+          "uid": "4258112"
+        }, 
+        "free_bikes": 4, 
+        "id": "8b1ecf2eba99bc6b9c854caa31ba5067", 
+        "latitude": 23.212206, 
+        "longitude": 77.437242, 
+        "name": "10.5 no.", 
+        "timestamp": "2017-08-15T04:49:57.351000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "9830", 
+          "slots": 6, 
+          "uid": "3125567"
+        }, 
+        "free_bikes": 0, 
+        "id": "d21183e0e8aeaa4ddec235bd521120de", 
+        "latitude": 23.219139, 
+        "longitude": 77.413739, 
+        "name": "PATRAKAAR COLONY", 
+        "timestamp": "2017-08-15T04:49:57.300000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/carbonia", 
+    "id": "carbonia", 
+    "location": {
+      "city": "Carbonia", 
+      "country": "IT", 
+      "latitude": 39.167222, 
+      "longitude": 8.522222
+    }, 
+    "name": "Carbonia", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Via Manno", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "730a0f467081983b460de23a84ec1f1f", 
+        "latitude": 39.16509758303728, 
+        "longitude": 8.526152478048743, 
+        "name": "Manno", 
+        "timestamp": "2017-08-15T04:47:01.333000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Rinascita", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "0a2d9b5237b7f8e814156f16b945e290", 
+        "latitude": 39.16797999303464, 
+        "longitude": 8.525900102932724, 
+        "name": "Rinascita", 
+        "timestamp": "2017-08-15T04:47:01.344000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Gramsci", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "47ec6e8b7439f32fa0f9313e01d8d566", 
+        "latitude": 39.16940538980473, 
+        "longitude": 8.5223692502625, 
+        "name": "Gramsci", 
+        "timestamp": "2017-08-15T04:47:01.345000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Piazza I Maggio", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "1c8b9d5bd8150a45834dc7b4dd944c2e", 
+        "latitude": 39.17888405198532, 
+        "longitude": 8.523006160604837, 
+        "name": "Primo Maggio", 
+        "timestamp": "2017-08-15T04:47:01.346000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "Piazza Repubblica", 
+          "status": "offline"
+        }, 
+        "free_bikes": 1, 
+        "id": "13fb68878d54196d06334df5d2f1b9cc", 
+        "latitude": 39.17018016878484, 
+        "longitude": 8.517600537542762, 
+        "name": "Repubblica", 
+        "timestamp": "2017-08-15T04:47:01.346000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via dei Minatori", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "2de75415af468c4a3b3afe0bc9504f2b", 
+        "latitude": 39.170012752989834, 
+        "longitude": 8.510059248657171, 
+        "name": "Minatori", 
+        "timestamp": "2017-08-15T04:47:01.347000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Centro intermodale", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "492185f9c2eb97bbda260ad676f786a5", 
+        "latitude": 39.165445721141474, 
+        "longitude": 8.512376865051237, 
+        "name": "Centro Intermodale", 
+        "timestamp": "2017-08-15T04:47:01.348000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Grande Miniera di  Serbariu", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "a92f57729954aba9c7caf798fbc0e647", 
+        "latitude": 39.16214880484219, 
+        "longitude": 8.510203815777572, 
+        "name": "Grande Miniera di  Serbariu", 
+        "timestamp": "2017-08-15T04:47:01.349000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Caterina Cittadini", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "e7f6e0ec31bba01a617a120d3a5333c2", 
+        "latitude": 39.15877131928994, 
+        "longitude": 8.524558998425164, 
+        "name": "Cittadini", 
+        "timestamp": "2017-08-15T04:47:01.350000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Santa Caterina", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "7354d168bb039d8b63d62b8a2b554a4d", 
+        "latitude": 39.15975296973707, 
+        "longitude": 8.533635593731674, 
+        "name": "Caterina", 
+        "timestamp": "2017-08-15T04:47:01.351000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "network": {
+    "company": [
+      "Sistema de Transporte Metropolitano", 
+      "Intendencia de Montevideo"
+    ], 
+    "href": "/v2/networks/movete", 
+    "id": "movete", 
+    "location": {
+      "city": "Montevideo", 
+      "country": "UY", 
+      "latitude": -34.9011127, 
+      "longitude": -56.164531399
+    }, 
+    "name": "Movete", 
+    "stations": [
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "number": "05", 
+          "slots": 18, 
+          "uid": 7
+        }, 
+        "free_bikes": 5, 
+        "id": "04df3747472c7a4460d602ba1e88bef0", 
+        "latitude": -34.906021, 
+        "longitude": -56.211327, 
+        "name": "05 - Mercado del Puerto - Piedras y P\u00e9rez Castellanos", 
+        "timestamp": "2017-08-15T04:48:08.329000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "02", 
+          "slots": 20, 
+          "uid": 4
+        }, 
+        "free_bikes": 8, 
+        "id": "4733e7b55ac13b99831424fdc599d30a", 
+        "latitude": -34.909481, 
+        "longitude": -56.204361, 
+        "name": "02 - Templo Ingl\u00e9s - Reconquista y Treinta Tres", 
+        "timestamp": "2017-08-15T04:48:08.326000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "number": "01", 
+          "slots": 20, 
+          "uid": 3
+        }, 
+        "free_bikes": 8, 
+        "id": "936597d1ade96171def42306bdfeca14", 
+        "latitude": -34.907822, 
+        "longitude": -56.200436, 
+        "name": "01 - Teatro Sol\u00eds - Liniers y Reconquista", 
+        "timestamp": "2017-08-15T04:48:08.324000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "03", 
+          "slots": 20, 
+          "uid": 5
+        }, 
+        "free_bikes": 14, 
+        "id": "58a23b576bff86beac725e942910fe3f", 
+        "latitude": -34.910782, 
+        "longitude": -56.209106, 
+        "name": "03 - Reconquista y P\u00e9rez Castellanos", 
+        "timestamp": "2017-08-15T04:48:08.327000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "number": "04", 
+          "slots": 16, 
+          "uid": 6
+        }, 
+        "free_bikes": 5, 
+        "id": "9b1abd14e98f38ead1b2df8055767820", 
+        "latitude": -34.908863, 
+        "longitude": -56.212181, 
+        "name": "04 - Hospital Maciel - Guaran\u00ed y Washington", 
+        "timestamp": "2017-08-15T04:48:08.328000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "08", 
+          "slots": 19, 
+          "uid": 8
+        }, 
+        "free_bikes": 9, 
+        "id": "82851b5d557e827cc74cd7b0fafe6cf4", 
+        "latitude": -34.906101, 
+        "longitude": -56.203266, 
+        "name": "08 - Plaza Matriz - Juan Carlos G\u00f3mez y Rinc\u00f3n", 
+        "timestamp": "2017-08-15T04:48:08.330000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "07", 
+          "slots": 20, 
+          "uid": 9
+        }, 
+        "free_bikes": 12, 
+        "id": "21d0e951aa64a5bc797e85b9e924e6cd", 
+        "latitude": -34.902901, 
+        "longitude": -56.202896, 
+        "name": "07 - Terminal Ciudadela Norte - Piedras y Juncal", 
+        "timestamp": "2017-08-15T04:48:08.331000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "number": "06", 
+          "slots": 16, 
+          "uid": 10
+        }, 
+        "free_bikes": 7, 
+        "id": "aa46576e1c40644f9f860e24f0032d0a", 
+        "latitude": -34.905022, 
+        "longitude": -56.208302, 
+        "name": "06 - Banco de la Rep\u00fablica - Zabala y Piedras", 
+        "timestamp": "2017-08-15T04:48:08.332000Z"
+      }
+    ]
+  }
+}

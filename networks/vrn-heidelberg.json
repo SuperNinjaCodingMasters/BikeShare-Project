@@ -1,0 +1,477 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/vrn-heidelberg", 
+    "id": "vrn-heidelberg", 
+    "location": {
+      "city": "Heidelberg", 
+      "country": "DE", 
+      "latitude": 49.4023, 
+      "longitude": 8.67577
+    }, 
+    "name": "VRN", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43119", 
+            "43105", 
+            "43095", 
+            "43334", 
+            "43249"
+          ], 
+          "number": "2558", 
+          "slots": 8, 
+          "uid": "1250591"
+        }, 
+        "free_bikes": 5, 
+        "id": "eb46b5c42f9f8ecf4eeb8dc89ab2121d", 
+        "latitude": 49.41597, 
+        "longitude": 8.67167, 
+        "name": "Neuenheimer Feld \u2013 Zentralmensa", 
+        "timestamp": "2017-08-15T04:50:36.820000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43063", 
+            "43473", 
+            "43413", 
+            "43348", 
+            "43241"
+          ], 
+          "number": "2556", 
+          "slots": 6, 
+          "uid": "344831"
+        }, 
+        "free_bikes": 5, 
+        "id": "2687d0f9455397a1db73757323ad8ea8", 
+        "latitude": 49.42819802516, 
+        "longitude": 8.6835980415344, 
+        "name": "Handschuhsheim \u2013 Hans-Thoma-Platz", 
+        "timestamp": "2017-08-15T04:50:36.813000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "43193", 
+            "43058", 
+            "43466", 
+            "43377", 
+            "43643"
+          ], 
+          "number": "2567", 
+          "slots": 8, 
+          "uid": "1250605"
+        }, 
+        "free_bikes": 5, 
+        "id": "f484deb4a6691fcb167f65a60b552aa2", 
+        "latitude": 49.41979, 
+        "longitude": 8.67488, 
+        "name": "Neuenheimer Feld \u2013 Mathematikon", 
+        "timestamp": "2017-08-15T04:50:36.821000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "2570", 
+          "slots": 10, 
+          "uid": "661043"
+        }, 
+        "free_bikes": 0, 
+        "id": "f6092cb90a9b85327a9378096f2f1d5e", 
+        "latitude": 49.408170453101, 
+        "longitude": 8.6879914999008, 
+        "name": "Bergheim - Altes Hallenbad", 
+        "timestamp": "2017-08-15T04:50:36.818000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "43124", 
+            "43487", 
+            "43379", 
+            "43512"
+          ], 
+          "number": "2562", 
+          "slots": 10, 
+          "uid": "121361"
+        }, 
+        "free_bikes": 4, 
+        "id": "7901f6263f06510efcb4621fbb3befce", 
+        "latitude": 49.409935, 
+        "longitude": 8.706374, 
+        "name": "Altstadt \u2013 Universit\u00e4tsplatz", 
+        "timestamp": "2017-08-15T04:50:36.797000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "43300"
+          ], 
+          "number": "2561", 
+          "slots": 10, 
+          "uid": "121363"
+        }, 
+        "free_bikes": 1, 
+        "id": "5e477a69ea8a98cba5f6d09f066c7576", 
+        "latitude": 49.411989, 
+        "longitude": 8.699137, 
+        "name": "Altstadt \u2013 Stadthalle", 
+        "timestamp": "2017-08-15T04:50:36.799000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "43518"
+          ], 
+          "number": "2550", 
+          "slots": 16, 
+          "uid": "121377"
+        }, 
+        "free_bikes": 1, 
+        "id": "af311d46233640d975d7fb7e3512bfb9", 
+        "latitude": 49.40476017079, 
+        "longitude": 8.67560505867, 
+        "name": "Hauptbahnhof Nord", 
+        "timestamp": "2017-08-15T04:50:36.801000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "43153", 
+            "43486"
+          ], 
+          "number": "2563", 
+          "slots": 9, 
+          "uid": "121360"
+        }, 
+        "free_bikes": 2, 
+        "id": "cdbf098cd6bf7a1fc9483827226009bf", 
+        "latitude": 49.40867, 
+        "longitude": 8.693788, 
+        "name": "Altstadt \u2013 Bismarckplatz", 
+        "timestamp": "2017-08-15T04:50:36.795000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "43309", 
+            "43529", 
+            "43611"
+          ], 
+          "number": "2554", 
+          "slots": 10, 
+          "uid": "121355"
+        }, 
+        "free_bikes": 3, 
+        "id": "370d9a5f41409f95cae7c6f2d52c673b", 
+        "latitude": 49.414965, 
+        "longitude": 8.664772, 
+        "name": "Neuenheimer Feld \u2013 Zoo", 
+        "timestamp": "2017-08-15T04:50:36.787000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "2553", 
+          "slots": 8, 
+          "uid": "121357"
+        }, 
+        "free_bikes": 0, 
+        "id": "e9c53197f4db9070500f176c426a6bfd", 
+        "latitude": 49.412994, 
+        "longitude": 8.676321, 
+        "name": "Neuenheimer Feld \u2013 Jahnstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:36.790000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "43163", 
+            "43225", 
+            "43520", 
+            "43653", 
+            "43651"
+          ], 
+          "number": "2565", 
+          "slots": 10, 
+          "uid": "339517"
+        }, 
+        "free_bikes": 5, 
+        "id": "3a28ca1b3ed63b2e0e207bfd15ee8e27", 
+        "latitude": 49.380368178628, 
+        "longitude": 8.6875462532043, 
+        "name": "Rohrbach \u2013 Markt", 
+        "timestamp": "2017-08-15T04:50:36.803000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "43108", 
+            "43085", 
+            "43462", 
+            "43284", 
+            "43527"
+          ], 
+          "number": "2555", 
+          "slots": 8, 
+          "uid": "121354"
+        }, 
+        "free_bikes": 6, 
+        "id": "e01f903521f70e2765409091adce28b6", 
+        "latitude": 49.399001, 
+        "longitude": 8.689129, 
+        "name": "S-Bahnhof Weststadt/S\u00fcdstadt", 
+        "timestamp": "2017-08-15T04:50:36.774000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43190", 
+            "43129", 
+            "43121", 
+            "43099", 
+            "43091"
+          ], 
+          "number": "2552", 
+          "slots": 10, 
+          "uid": "495832"
+        }, 
+        "free_bikes": 5, 
+        "id": "a59dc480f58f8e080d0b383ea2f72216", 
+        "latitude": 49.401751106793, 
+        "longitude": 8.6723434925079, 
+        "name": "Bahnstadt Halle 02", 
+        "timestamp": "2017-08-15T04:50:36.814000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "43460", 
+            "43381", 
+            "43333", 
+            "43277", 
+            "43623"
+          ], 
+          "number": "2557", 
+          "slots": 6, 
+          "uid": "121359"
+        }, 
+        "free_bikes": 5, 
+        "id": "2ff6d85881b2c063740e0180348cd9cb", 
+        "latitude": 49.418566, 
+        "longitude": 8.690573, 
+        "name": "Neuenheim \u2013 Ku\u00dfmaulstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:36.792000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "43357"
+          ], 
+          "number": "2568", 
+          "slots": 6, 
+          "uid": "339522"
+        }, 
+        "free_bikes": 1, 
+        "id": "a3049068659e1dd4d58088b7427758e1", 
+        "latitude": 49.377528758876, 
+        "longitude": 8.6661154031754, 
+        "name": "Kirchheim \u2013 Rathaus", 
+        "timestamp": "2017-08-15T04:50:36.806000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "43166", 
+            "43488", 
+            "43469", 
+            "43331", 
+            "43315"
+          ], 
+          "number": "2560", 
+          "slots": 6, 
+          "uid": "509947"
+        }, 
+        "free_bikes": 5, 
+        "id": "346079d99e1e9e9546c2def58d52b605", 
+        "latitude": 49.415018226768, 
+        "longitude": 8.7205106019974, 
+        "name": "Altstadt - Karlstorbahnhof", 
+        "timestamp": "2017-08-15T04:50:36.816000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "43098", 
+            "43072", 
+            "43036", 
+            "43391", 
+            "43332"
+          ], 
+          "number": "2566", 
+          "slots": 6, 
+          "uid": "339519"
+        }, 
+        "free_bikes": 5, 
+        "id": "02750f89a0ba5dc0835ab0174c2f3589", 
+        "latitude": 49.415281, 
+        "longitude": 8.761061, 
+        "name": "S-Bahnhof Schlierbach/Ziegelhausen", 
+        "timestamp": "2017-08-15T04:50:36.805000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "43112"
+          ], 
+          "number": "2571", 
+          "slots": 8, 
+          "uid": "661047"
+        }, 
+        "free_bikes": 1, 
+        "id": "14bb2235a29c1608f785a24b1434e879", 
+        "latitude": 49.407699240888, 
+        "longitude": 8.6746662855148, 
+        "name": "Bergheim - rnv Betriebshof Bergheimerstr.", 
+        "timestamp": "2017-08-15T04:50:36.819000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "43351", 
+            "43338", 
+            "43203", 
+            "43541", 
+            "43612"
+          ], 
+          "number": "2569", 
+          "slots": 8, 
+          "uid": "339523"
+        }, 
+        "free_bikes": 5, 
+        "id": "e0237b89f33648d1cdc02b48b646686b", 
+        "latitude": 49.419178079466, 
+        "longitude": 8.7565863132477, 
+        "name": "Ziegelhausen \u2013 Neckarschule", 
+        "timestamp": "2017-08-15T04:50:36.809000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "43299"
+          ], 
+          "number": "2577", 
+          "slots": 10, 
+          "uid": "1814955"
+        }, 
+        "free_bikes": 1, 
+        "id": "e958b0b07a123bca50bc6d1938883aaf", 
+        "latitude": 49.38945, 
+        "longitude": 8.66667, 
+        "name": "Sportzentrum S\u00fcd", 
+        "timestamp": "2017-08-15T04:50:36.822000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "43032", 
+            "43326", 
+            "43317", 
+            "43263"
+          ], 
+          "number": "2564", 
+          "slots": 8, 
+          "uid": "497198"
+        }, 
+        "free_bikes": 4, 
+        "id": "67d4f7193f09d1aa927322a63c7e64ae", 
+        "latitude": 49.42343, 
+        "longitude": 8.645995, 
+        "name": "Wieblingen Mitte", 
+        "timestamp": "2017-08-15T04:50:36.815000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "43134", 
+            "43017", 
+            "43495", 
+            "43276", 
+            "43214"
+          ], 
+          "number": "2559", 
+          "slots": 14, 
+          "uid": "121368"
+        }, 
+        "free_bikes": 5, 
+        "id": "a7321bd7afcd635d531c07ab0187820f", 
+        "latitude": 49.413266236982, 
+        "longitude": 8.6918807029724, 
+        "name": "Neuenheim \u2013 Neckarwiese", 
+        "timestamp": "2017-08-15T04:50:36.800000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "43289"
+          ], 
+          "number": "2572", 
+          "slots": 8, 
+          "uid": "661038"
+        }, 
+        "free_bikes": 1, 
+        "id": "4c3423136157729dc20611b75cef5e04", 
+        "latitude": 49.407126799227, 
+        "longitude": 8.6906468868256, 
+        "name": "Bergheim - Kurf\u00fcrstenanlage", 
+        "timestamp": "2017-08-15T04:50:36.817000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "43490", 
+            "43421", 
+            "43374", 
+            "43636", 
+            "43662"
+          ], 
+          "number": "2549", 
+          "slots": 10, 
+          "uid": "4287542"
+        }, 
+        "free_bikes": 5, 
+        "id": "32b25340496fa3f7a56d65b03f3e3059", 
+        "latitude": 49.405831799864, 
+        "longitude": 8.683876991272, 
+        "name": "Rhein-Neckar-Kreis / Kurf\u00fcrstenanlage", 
+        "timestamp": "2017-08-15T04:50:36.823000Z"
+      }
+    ]
+  }
+}

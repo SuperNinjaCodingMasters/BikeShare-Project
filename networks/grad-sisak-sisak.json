@@ -1,0 +1,56 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/grad-sisak-sisak", 
+    "id": "grad-sisak-sisak", 
+    "location": {
+      "city": "Sisak", 
+      "country": "HR", 
+      "latitude": 45.4875, 
+      "longitude": 16.3753
+    }, 
+    "name": "Grad Sisak", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "80373", 
+            "80371"
+          ], 
+          "number": "2360", 
+          "slots": 2, 
+          "uid": "3322068"
+        }, 
+        "free_bikes": 2, 
+        "id": "dfb154656f1378946cff5ba76f1a4900", 
+        "latitude": 45.4913731, 
+        "longitude": 16.3719511, 
+        "name": "Frankopanska", 
+        "timestamp": "2017-08-15T04:49:58.227000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "80369", 
+            "80368", 
+            "80372", 
+            "80370"
+          ], 
+          "number": "2361", 
+          "slots": 2, 
+          "uid": "3322045"
+        }, 
+        "free_bikes": 4, 
+        "id": "2cf2f4074a473eafc13b21be3e57d76f", 
+        "latitude": 45.4848644, 
+        "longitude": 16.3713074, 
+        "name": "Trg bana Josipa Jela\u010di\u0107a", 
+        "timestamp": "2017-08-15T04:49:58.224000Z"
+      }
+    ]
+  }
+}

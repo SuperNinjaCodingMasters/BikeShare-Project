@@ -1,0 +1,2552 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/to-bike", 
+    "id": "to-bike", 
+    "location": {
+      "city": "Torino", 
+      "country": "IT", 
+      "latitude": 45.07098200000001, 
+      "longitude": 7.685676
+    }, 
+    "name": "[TO]BIKE", 
+    "stations": [
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "Corso Re Umberto ang. v. Pastrengo", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "b43271bb186d10877c29e96d86e7aff3", 
+        "latitude": 45.05943, 
+        "longitude": 7.670561, 
+        "name": "Re Umberto", 
+        "timestamp": "2017-08-15T04:45:09.032000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "via della consolata 10 / via san domenico", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "8e8de5efc9bbc722629d8956c897bdea", 
+        "latitude": 45.075794, 
+        "longitude": 7.677993, 
+        "name": "Consolata", 
+        "timestamp": "2017-08-15T04:45:08.971000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Via Corte d`Appello 11", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "daa3408cf489d582d20393c4394e2444", 
+        "latitude": 45.074394, 
+        "longitude": 7.678886, 
+        "name": "Corte d`Appello", 
+        "timestamp": "2017-08-15T04:45:08.973000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "p.za De Amicis 125", 
+          "status": "online"
+        }, 
+        "free_bikes": 12, 
+        "id": "48ed2e628860d3c692cfff62d3b3c23f", 
+        "latitude": 45.046793, 
+        "longitude": 7.673014, 
+        "name": "De Amicis", 
+        "timestamp": "2017-08-15T04:45:09.010000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "via Saccarelli 19 / via Miglietti", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "0eafc96c0edfdd4edde572db75373afe", 
+        "latitude": 45.08046772115924, 
+        "longitude": 7.666537769311503, 
+        "name": "Saccarelli", 
+        "timestamp": "2017-08-15T04:45:09.088000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Corso Vittorio Emanuele II ang. V. Sacchi", 
+          "status": "online"
+        }, 
+        "free_bikes": 15, 
+        "id": "d7f5ecd55ceed0185b735902d69c98ec", 
+        "latitude": 45.063029, 
+        "longitude": 7.678823, 
+        "name": "Porta Nuova 1", 
+        "timestamp": "2017-08-15T04:45:08.982000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Corso Inghilterra 21", 
+          "status": "online"
+        }, 
+        "free_bikes": 12, 
+        "id": "a5b4759d61ccf764cfaef64a35827403", 
+        "latitude": 45.072944, 
+        "longitude": 7.665808, 
+        "name": "Inghilterra 1", 
+        "timestamp": "2017-08-15T04:45:08.983000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "c50124e7cca913343a6cbeba5e4b6cdb", 
+        "latitude": 45.07373275368509, 
+        "longitude": 7.601809501647949, 
+        "name": "04. Metro Paradiso", 
+        "timestamp": "2017-08-15T04:45:09.114000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Carlo Emanuele lato v. de Ambrois", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "e1e0e964fa1d00f99c5d57542fcde36a", 
+        "latitude": 45.06678642519523, 
+        "longitude": 7.68892228603363, 
+        "name": "Piazza Carlina", 
+        "timestamp": "2017-08-15T04:45:09.014000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Via Cavalli ang. via Falcone", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "8d905cb233d02886d288c0185f870832", 
+        "latitude": 45.07084597193492, 
+        "longitude": 7.6612794399261475, 
+        "name": "Tribunale", 
+        "timestamp": "2017-08-15T04:45:09.037000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "b1011cb9791056b04eb1b7b117e959fe", 
+        "latitude": 45.039230737232025, 
+        "longitude": 7.668394944180363, 
+        "name": "stazione test - non operativa", 
+        "timestamp": "2017-08-15T04:45:09.102000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Corso Principe Eugenio ang. c.so Beccaria", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "11c6ccc569e1b91fe1e9d238f97f4a32", 
+        "latitude": 45.077589, 
+        "longitude": 7.670385, 
+        "name": "Paravia", 
+        "timestamp": "2017-08-15T04:45:08.963000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "c.so Bolzano ang. via Ruffini", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "9f705b5e090de99e976f4ac6c6911571", 
+        "latitude": 45.072882, 
+        "longitude": 7.667951, 
+        "name": "Porta Susa 1", 
+        "timestamp": "2017-08-15T04:45:08.966000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Corso Vinzaglio ang. Via Cernaia", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "53a856e2cd42e9bfbc022f6cdc6d2e1c", 
+        "latitude": 45.072642, 
+        "longitude": 7.670337, 
+        "name": "Cernaia", 
+        "timestamp": "2017-08-15T04:45:08.967000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Via Sacchi ang. C.so Sommeiller", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "7bca8a3ba888cc51fa918a67b59ec761", 
+        "latitude": 45.055337, 
+        "longitude": 7.671875, 
+        "name": "Sommeiller", 
+        "timestamp": "2017-08-15T04:45:08.969000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Via Giulio ang. C.so valdocco", 
+          "status": "online"
+        }, 
+        "free_bikes": 13, 
+        "id": "62e1229a487243fb01fa03af26e69b01", 
+        "latitude": 45.078044, 
+        "longitude": 7.675665, 
+        "name": "Valdocco", 
+        "timestamp": "2017-08-15T04:45:08.970000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "c.so Vittorio Emanuele II 64 ang. via Arsenale", 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "0904053b19a69a368ca1b25448ac6aa6", 
+        "latitude": 45.063835, 
+        "longitude": 7.676327, 
+        "name": "Vittorio Emanuele II 6", 
+        "timestamp": "2017-08-15T04:45:08.971000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "via Bava ang. via Cesare Balbo", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "74d171b578136bcb9a95bc25ebe654ee", 
+        "latitude": 45.0691, 
+        "longitude": 7.701921, 
+        "name": "Bava", 
+        "timestamp": "2017-08-15T04:45:08.983000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "c.so Tortona 18/a", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "9e58b009669cc416db675858c8f06e95", 
+        "latitude": 45.071713, 
+        "longitude": 7.707736, 
+        "name": "Tortona", 
+        "timestamp": "2017-08-15T04:45:08.984000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "Via Meucci fr. civ. 2 ang. V. Confienza", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "cfe425768bb13389901d90f416fac748", 
+        "latitude": 45.069258, 
+        "longitude": 7.675946, 
+        "name": "Meucci", 
+        "timestamp": "2017-08-15T04:45:08.986000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Corso Matteotti 12a ang. c.so Re Umberto", 
+          "status": "online"
+        }, 
+        "free_bikes": 12, 
+        "id": "35696172dd6ffaea0ea9cb0fc5d80ec8", 
+        "latitude": 45.066323, 
+        "longitude": 7.674766, 
+        "name": "Matteotti 1", 
+        "timestamp": "2017-08-15T04:45:08.987000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "c.so Matteotti ang. via Avogadro", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "f5b3628e27aa72a5831298af6f04a0fe", 
+        "latitude": 45.068058, 
+        "longitude": 7.670345, 
+        "name": "Matteotti 2", 
+        "timestamp": "2017-08-15T04:45:08.988000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "C.so Matteotti ang. c.so Vinzaglio", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "4e8b78ae051b1ec0ae1e3461890f189d", 
+        "latitude": 45.068813, 
+        "longitude": 7.667955, 
+        "name": "Matteotti 3", 
+        "timestamp": "2017-08-15T04:45:08.989000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "Via Grattoni ang. c.so Bolzano", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "ab72fb0727dabf331ac0796cfb7ff70f", 
+        "latitude": 45.071389, 
+        "longitude": 7.666648, 
+        "name": "Bolzano", 
+        "timestamp": "2017-08-15T04:45:08.991000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Corso Vittorio Emanuele II 100 ang. c.so Vinzaglio", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "ea60ce76df79dded12926aceb21f64ff", 
+        "latitude": 45.067595, 
+        "longitude": 7.66577, 
+        "name": "Vittorio Emanuele II 2", 
+        "timestamp": "2017-08-15T04:45:08.992000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "via Nizza ang. c.so Sommelier", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "583e2a7684d746923ce519089b6e9447", 
+        "latitude": 45.054361, 
+        "longitude": 7.675643, 
+        "name": "Nizza 2", 
+        "timestamp": "2017-08-15T04:45:08.992000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "via Giolitti ang. via Lagrange", 
+          "status": "online"
+        }, 
+        "free_bikes": 12, 
+        "id": "29429131a6fe32729fb1e4dc5e582c70", 
+        "latitude": 45.066514, 
+        "longitude": 7.683693, 
+        "name": "Giolitti 1", 
+        "timestamp": "2017-08-15T04:45:09Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "Via Verdi ang. v. Rossini", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "8a3a53282bb598dd7af17e701d9800ff", 
+        "latitude": 45.068872, 
+        "longitude": 7.691291, 
+        "name": "RAI", 
+        "timestamp": "2017-08-15T04:45:09.008000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Via Sant`Ottavio", 
+          "status": "online"
+        }, 
+        "free_bikes": 17, 
+        "id": "7dcf829c0482125b211b89eb5844b675", 
+        "latitude": 45.068576, 
+        "longitude": 7.69437, 
+        "name": "Universita` 1", 
+        "timestamp": "2017-08-15T04:45:09.009000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "Via San Francesco da Paola 28", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "5fec3710584f4dd43dec9aa89b24087a", 
+        "latitude": 45.064756, 
+        "longitude": 7.68635, 
+        "name": "Valdo Fusi", 
+        "timestamp": "2017-08-15T04:45:09.015000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Corso Vittorio Emanuele II ang. v. P. Tommaso", 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "4f7e6afbdf3affdc419a293342ebb1ab", 
+        "latitude": 45.060394, 
+        "longitude": 7.685138, 
+        "name": "Vittorio Emanuele II 5", 
+        "timestamp": "2017-08-15T04:45:09.018000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Largo Orbassano ang. c.so Rosselli", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "4867e03cce4df98f29ce107d36a7d946", 
+        "latitude": 45.053175, 
+        "longitude": 7.655603, 
+        "name": "Orbassano", 
+        "timestamp": "2017-08-15T04:45:09.018000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "c.so Re Umberto ang. via Giambattista Vico", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "ebaf3909a7b4d4db160e393e6f8621fd", 
+        "latitude": 45.056012, 
+        "longitude": 7.668118, 
+        "name": "Re Umberto 2", 
+        "timestamp": "2017-08-15T04:45:09.033000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Corso Duca degli Abruzzi / C.so Peschiesca area Car Sharing", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "e83007cd520a046bfa032cfe75d5889b", 
+        "latitude": 45.060759, 
+        "longitude": 7.661325, 
+        "name": "Politecnico 3", 
+        "timestamp": "2017-08-15T04:45:09.035000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Corso Castelfidardo 39", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "d5d84b0de5b967198d467baeb5b02c65", 
+        "latitude": 45.064101, 
+        "longitude": 7.659946, 
+        "name": "Politecnico 4", 
+        "timestamp": "2017-08-15T04:45:09.036000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Lungo Dora Firenze ang. Ponte Bologna", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "f55ebcb31d285be22a769cf9654d3fa9", 
+        "latitude": 45.079481, 
+        "longitude": 7.689259, 
+        "name": "Dora Firenze", 
+        "timestamp": "2017-08-15T04:45:09.042000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "Lungo Po Cadorna ang. c.so San Maurizio", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "c37dddd62e523094fe99c8ec2ed3c5f1", 
+        "latitude": 45.065482, 
+        "longitude": 7.698692, 
+        "name": "Lungo Po Cadorna", 
+        "timestamp": "2017-08-15T04:45:09.045000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Corso Casale ang. Ponte Regina Margherita", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "abb21913f56f0169dcd6c8102d6b2337", 
+        "latitude": 45.06714, 
+        "longitude": 7.708391, 
+        "name": "Borromini", 
+        "timestamp": "2017-08-15T04:45:09.049000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "c.so Galileo Ferraris ang. via Valeggio", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "f005ea61d3e30081be3ef5a02d696ac2", 
+        "latitude": 45.059594, 
+        "longitude": 7.666946, 
+        "name": "Galileo Ferraris 3", 
+        "timestamp": "2017-08-15T04:45:09.059000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "c.so Castelfidardo ang. c.so Vittorio Emanuele II", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "5d14bc0345ad76855d580fa56d27127f", 
+        "latitude": 45.068205, 
+        "longitude": 7.662287, 
+        "name": "Castelfidardo", 
+        "timestamp": "2017-08-15T04:45:09.060000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "via Livorno - Parco Dora", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "94fb494abcb6323bee9726f8b2950ff4", 
+        "latitude": 45.08707, 
+        "longitude": 7.669196, 
+        "name": "Livorno 2", 
+        "timestamp": "2017-08-15T04:45:09.063000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "p.za Polonia ang. c.so Spezia", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "d4d0c078bb1f6d6b5d190917b4860e02", 
+        "latitude": 45.036401, 
+        "longitude": 7.675255, 
+        "name": "Spezia 1", 
+        "timestamp": "2017-08-15T04:45:09.064000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "via Nizza fr. civico 218", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "80985a9063347ab86abae8211ae7fadf", 
+        "latitude": 45.035578, 
+        "longitude": 7.668657, 
+        "name": "Nizza 3", 
+        "timestamp": "2017-08-15T04:45:09.065000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "a9d8fee05ef8bd2da4139f349f971fb5", 
+        "latitude": 45.051941, 
+        "longitude": 7.674535, 
+        "name": "Piazza Nizza", 
+        "timestamp": "2017-08-15T04:45:09.102000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "via Filadelfia ang. via Giordano Bruno", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "fa3a203d12bd0b79688ce01260011e2b", 
+        "latitude": 45.03725463016705, 
+        "longitude": 7.65893386001585, 
+        "name": "Filadelfia", 
+        "timestamp": "2017-08-15T04:45:09.069000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Piazza Solferino 20", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "f87af570c508e46496985c4149f16b49", 
+        "latitude": 45.06833588690814, 
+        "longitude": 7.676250219345093, 
+        "name": "Solferino 2", 
+        "timestamp": "2017-08-15T04:45:08.985000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 12, 
+        "id": "302872d843ea52f1ba7ff4d5c4268b97", 
+        "latitude": 45.076115564718755, 
+        "longitude": 7.648957371711731, 
+        "name": "Svizzera", 
+        "timestamp": "2017-08-15T04:45:09.085000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "986c0bdf4fc323565f464bb237b71601", 
+        "latitude": 45.077852416035995, 
+        "longitude": 7.665994763374329, 
+        "name": "Cibrario", 
+        "timestamp": "2017-08-15T04:45:09.088000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "e241572aea5e721bfc4db927da09ad98", 
+        "latitude": 45.08291871994802, 
+        "longitude": 7.664605379104614, 
+        "name": "Regina Margherita 5", 
+        "timestamp": "2017-08-15T04:45:09.089000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Traiano 3", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "30771c011546168c3187fd9d85e556c8", 
+        "latitude": 45.02597794268938, 
+        "longitude": 7.639414072036743, 
+        "name": "Traiano 1", 
+        "timestamp": "2017-08-15T04:45:09.076000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Agnelli / via Filadelfia", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "73999771d24f0e82a65e405deba6ea2f", 
+        "latitude": 45.04083346610872, 
+        "longitude": 7.647547870874405, 
+        "name": "Olimpico", 
+        "timestamp": "2017-08-15T04:45:09.077000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "p.za Santa Rita lato civ. 9", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "dcf9a53a6a783a1e75ae6376dd162604", 
+        "latitude": 45.04716763451317, 
+        "longitude": 7.646727898182235, 
+        "name": "Santa Rita", 
+        "timestamp": "2017-08-15T04:45:09.079000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Umbria - ponte Dora", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "8a0ecb66c89870da4628f3748e6ed1e8", 
+        "latitude": 45.091531803933634, 
+        "longitude": 7.663036841126086, 
+        "name": "Ponte Dora", 
+        "timestamp": "2017-08-15T04:45:09.091000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "p.za Pasini lato civ. 7", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "9a3684098e30e4a3f17120dc6acb9e07", 
+        "latitude": 45.07556073583748, 
+        "longitude": 7.730172569923184, 
+        "name": "Pasini", 
+        "timestamp": "2017-08-15T04:45:09.097000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "8c12fcd7311c98e9a948af38caa4d051", 
+        "latitude": 45.084126990755045, 
+        "longitude": 7.575631141662598, 
+        "name": "01. Certosa / P.le Avis", 
+        "timestamp": "2017-08-15T04:45:09.111000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "26a6631b10b148b217942bd7d50e0e13", 
+        "latitude": 45.07764217839048, 
+        "longitude": 7.58082389831543, 
+        "name": "02. Dalla Chiesa / Pastrengo", 
+        "timestamp": "2017-08-15T04:45:09.112000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "f721695d488b071d3df077eb4a9d50bf", 
+        "latitude": 45.07270231814184, 
+        "longitude": 7.58030891418457, 
+        "name": "08. Gramsci", 
+        "timestamp": "2017-08-15T04:45:09.117000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "8d5cc1c49d81c66760c500a922d80b5c", 
+        "latitude": 45.09064418309555, 
+        "longitude": 7.570132452917505, 
+        "name": "10. Europa Unita", 
+        "timestamp": "2017-08-15T04:45:09.119000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "d38e65d832c8d32a5e9d6547144e35f5", 
+        "latitude": 45.063139596328625, 
+        "longitude": 7.5768327713012695, 
+        "name": "06. Le Serre", 
+        "timestamp": "2017-08-15T04:45:09.108000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "a5013cd73813eb8542cbb384895ef483", 
+        "latitude": 45.058637457278984, 
+        "longitude": 7.620371770777865, 
+        "name": "09. Lesna", 
+        "timestamp": "2017-08-15T04:45:09.110000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "8bca5f91b24693d216f576525e7c1647", 
+        "latitude": 45.136100086850355, 
+        "longitude": 7.576360702514648, 
+        "name": "01. Largo Oropa", 
+        "timestamp": "2017-08-15T04:45:09.145000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Agnelli 83", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "c372b40fcfc49bc076e3771dfae34ece", 
+        "latitude": 45.03725062953273, 
+        "longitude": 7.645311901852438, 
+        "name": "Agnelli", 
+        "timestamp": "2017-08-15T04:45:09.076000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Via Bologna ang. via Padova", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "15af4cdd63c01ecaf5851e36c8faf608", 
+        "latitude": 45.082462, 
+        "longitude": 7.695677, 
+        "name": "Bologna", 
+        "timestamp": "2017-08-15T04:45:08.965000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza XVIII Dicembre ang. via cernaia", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "248d4542158dc35ace927f698f059a14", 
+        "latitude": 45.073442, 
+        "longitude": 7.668313, 
+        "name": "Porta Susa 2", 
+        "timestamp": "2017-08-15T04:45:08.966000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "via Garibaldi ang. c.so Valdocco", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "2bf7fcbcdd03427d49d057a3f4d4b378", 
+        "latitude": 45.075438, 
+        "longitude": 7.673785, 
+        "name": "Valdocco 2", 
+        "timestamp": "2017-08-15T04:45:08.968000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "via Monte di Pieta' ang. via XX Settembre", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "3c1c5c0914a37de93c7f62ffedfcfa93", 
+        "latitude": 45.070527, 
+        "longitude": 7.682217, 
+        "name": "Pietro Micca", 
+        "timestamp": "2017-08-15T04:45:08.972000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "Corso Vittorio Emanuele II 107 ang. c.so Duca degli Abruzzi", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "00f2c0f0fac1e5e723bc87d0fd6b90f3", 
+        "latitude": 45.067018, 
+        "longitude": 7.666677, 
+        "name": "Vittorio Emanuele II 1", 
+        "timestamp": "2017-08-15T04:45:08.974000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "Piazza Statuto ang. Via Garibaldi", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "77e77de1eeff89cff817a0616b6c76b6", 
+        "latitude": 45.076228, 
+        "longitude": 7.671769, 
+        "name": "Statuto 2", 
+        "timestamp": "2017-08-15T04:45:08.975000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "C.so XI Febbraio ang. via Bazzi", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "05bada8db0039c68d352ad6871e5ef50", 
+        "latitude": 45.076807, 
+        "longitude": 7.687295, 
+        "name": "XI Febbraio", 
+        "timestamp": "2017-08-15T04:45:08.976000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "c.so Novara fr. via Catania", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "39ca8cd6625f0bfc3b1befb8578e27c3", 
+        "latitude": 45.078825, 
+        "longitude": 7.701405, 
+        "name": "Cimitero Monumentale", 
+        "timestamp": "2017-08-15T04:45:08.976000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Via Conte Verde 7 - p.zza IV Marzo", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "7c3aec60b271b1e9ad200b335f499255", 
+        "latitude": 45.073368, 
+        "longitude": 7.682284, 
+        "name": "IV Marzo", 
+        "timestamp": "2017-08-15T04:45:08.978000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "c.so Vittorio Emanuele II 2 ang. c.so Cairoli", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "b5bad95a1b0a65fd05427bb1ba2f550e", 
+        "latitude": 45.058787, 
+        "longitude": 7.690584, 
+        "name": "Cairoli", 
+        "timestamp": "2017-08-15T04:45:08.979000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "P.zza Arbarello", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "c46028ebd266fe2c7b53d1f1cce524fc", 
+        "latitude": 45.073561, 
+        "longitude": 7.676598, 
+        "name": "Arbarello", 
+        "timestamp": "2017-08-15T04:45:08.980000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Galileo Ferraris ang. via Vespucci", 
+          "status": "online"
+        }, 
+        "free_bikes": 13, 
+        "id": "e06cf96c3ac62ab24e57101e1bcfbb2d", 
+        "latitude": 45.055278, 
+        "longitude": 7.663961, 
+        "name": "Galileo Ferraris 1", 
+        "timestamp": "2017-08-15T04:45:08.981000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "p.za Paleocapa", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "667249c62f287db7e329d77771d9cf41", 
+        "latitude": 45.064211, 
+        "longitude": 7.678759, 
+        "name": "Paleocapa", 
+        "timestamp": "2017-08-15T04:45:08.988000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Corso Galileo Ferraris ang. Via San Quintino", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "f07451d923582c3ed9d7d698107aa4c4", 
+        "latitude": 45.066871, 
+        "longitude": 7.671472, 
+        "name": "Galileo Ferraris 5", 
+        "timestamp": "2017-08-15T04:45:08.990000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "c.so Vittorio Emanuele II 75 ang. c.so Re Umberto", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "98429a4e5f54ed15e8f8a58093f55227", 
+        "latitude": 45.064639, 
+        "longitude": 7.673306, 
+        "name": "Vittorio Emanuele II 3", 
+        "timestamp": "2017-08-15T04:45:08.993000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Corso Vittorio Emanuele II  lato p.zza Carlo Felice", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "521c60f663967bf1ccd6570da04b715f", 
+        "latitude": 45.062814, 
+        "longitude": 7.679367, 
+        "name": "Porta Nuova 2", 
+        "timestamp": "2017-08-15T04:45:08.994000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "via Padova ang. c.so Regio Parco", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "303a69d345b44b6f299bbd46c7f28b47", 
+        "latitude": 45.07917, 
+        "longitude": 7.69827, 
+        "name": "Padova", 
+        "timestamp": "2017-08-15T04:45:08.995000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Piazza Lagrange", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "33714b6419767c5e680c7e4d26166ce3", 
+        "latitude": 45.063477, 
+        "longitude": 7.68087, 
+        "name": "Lagrange", 
+        "timestamp": "2017-08-15T04:45:08.996000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "via Giordano Bruno fr. via Ardigo`", 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "4857953654e96658febd72bc5af8bc5d", 
+        "latitude": 45.044426, 
+        "longitude": 7.664214, 
+        "name": "Giordano Bruno", 
+        "timestamp": "2017-08-15T04:45:08.997000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Via Gobetti, 1 ang. Via Teofilo Rossi", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "d59181aba3646ad37cab8ae54cbecebc", 
+        "latitude": 45.066101, 
+        "longitude": 7.682206, 
+        "name": "CLN", 
+        "timestamp": "2017-08-15T04:45:08.998000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "via Arcivescovado ang. via Arsenale", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "12cfe32e7bb1c6f0d1b3d84ee82d39c8", 
+        "latitude": 45.067115, 
+        "longitude": 7.678052, 
+        "name": "Arcivescovado", 
+        "timestamp": "2017-08-15T04:45:08.999000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Corso Dante ang. v. Madama Cristina", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "ed1e88644cb201816e9de923274a341f", 
+        "latitude": 45.047312, 
+        "longitude": 7.67572, 
+        "name": "Madama Cristina", 
+        "timestamp": "2017-08-15T04:45:09.001000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "via XX Settembre 60 ang. via Bertola", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "7448dbc6ff21976efad0893651c90a85", 
+        "latitude": 45.069936, 
+        "longitude": 7.682373, 
+        "name": "Bertola", 
+        "timestamp": "2017-08-15T04:45:09.002000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Corso Lione ang. c.so Ferrucci", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "8d0923df4f487be62b1d41b9229714b1", 
+        "latitude": 45.060042, 
+        "longitude": 7.65628, 
+        "name": "Lione", 
+        "timestamp": "2017-08-15T04:45:09.003000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "via I Maggio ang. via Luzio", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "6f7549bea746384a7a9868d1f8785f1c", 
+        "latitude": 45.071445, 
+        "longitude": 7.68806, 
+        "name": "Castello 1", 
+        "timestamp": "2017-08-15T04:45:09.004000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "corso Duca degli Abruzzi angolo corso Stati Uniti", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "8445975fcb2fd864e381ddf09407057b", 
+        "latitude": 45.064764, 
+        "longitude": 7.664944, 
+        "name": "Stati Uniti 1", 
+        "timestamp": "2017-08-15T04:45:09.005000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Piazza Castello area taxi", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "44f0d7cd1a80641e5efcb16e15870c9f", 
+        "latitude": 45.070049, 
+        "longitude": 7.68645, 
+        "name": "Castello 2", 
+        "timestamp": "2017-08-15T04:45:09.005000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "description": "Corso Regina Margherita ang. c.so Regio Parco", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "75f7e1a9926635ef44f5e6a80bfdc09f", 
+        "latitude": 45.074594, 
+        "longitude": 7.690499, 
+        "name": "Regina Margherita 4", 
+        "timestamp": "2017-08-15T04:45:09.006000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "c.so San Maurizio 23 ang. via Rossini", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "13e6512cfbf9d0437198b6dcd9025752", 
+        "latitude": 45.071931, 
+        "longitude": 7.69262, 
+        "name": "San Maurizio", 
+        "timestamp": "2017-08-15T04:45:09.007000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "C.so Marconi ang. via Nizza", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "b9fd9c3f44f3344f9134a954498d5225", 
+        "latitude": 45.056855, 
+        "longitude": 7.676632, 
+        "name": "Nizza 1", 
+        "timestamp": "2017-08-15T04:45:09.009000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "Via Montebello 1 bis ang. v. Po", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "f416d5b5054eeb6ba66b5d3cfa1a6576", 
+        "latitude": 45.067696, 
+        "longitude": 7.691789, 
+        "name": "Universita`3", 
+        "timestamp": "2017-08-15T04:45:09.011000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "Via San Francesco da Paola ang. v. Po", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "bfa12cb895ac0d7392dde60b6b433cdf", 
+        "latitude": 45.068617, 
+        "longitude": 7.689097, 
+        "name": "San Francesco da Paola", 
+        "timestamp": "2017-08-15T04:45:09.012000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Piazza Carlo Alberto", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "fa542128c27969894f2d17b1e2e20217", 
+        "latitude": 45.06806, 
+        "longitude": 7.686688, 
+        "name": "Carlo Alberto", 
+        "timestamp": "2017-08-15T04:45:09.013000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Corso Raffaello ang. c.so M. d`Azeglio", 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "3cbdf6324a23e8291ff87f7e38e5dfb0", 
+        "latitude": 45.050532, 
+        "longitude": 7.681107, 
+        "name": "Torino Esposizioni", 
+        "timestamp": "2017-08-15T04:45:09.013000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Via Cavour ang. v. S. Massimo", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "e86f7c19019772dd952f2f36d0387fb7", 
+        "latitude": 45.063166, 
+        "longitude": 7.688984, 
+        "name": "Giardini Cavour", 
+        "timestamp": "2017-08-15T04:45:09.016000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "Piazza Bodoni", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "1e13062df679b8d771bf2647b0fedf9b", 
+        "latitude": 45.063371, 
+        "longitude": 7.684235, 
+        "name": "Bodoni", 
+        "timestamp": "2017-08-15T04:45:09.017000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "via Giolitti ang. via delle Rosine", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "df5fcc9ba6234a6732ad0a73dcf0d560", 
+        "latitude": 45.064114, 
+        "longitude": 7.690438, 
+        "name": "Giolitti 2", 
+        "timestamp": "2017-08-15T04:45:09.019000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Maria Vittoria 40", 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "2703d498858c74efb1028a04355e954d", 
+        "latitude": 45.06513, 
+        "longitude": 7.692299, 
+        "name": "Maria Vittoria", 
+        "timestamp": "2017-08-15T04:45:09.020000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via Plana ang. p.zza Vittorio Veneto", 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "03bc5daeb184427e46b2f9a75c26175f", 
+        "latitude": 45.065162, 
+        "longitude": 7.693616, 
+        "name": "Vittorio Veneto 2", 
+        "timestamp": "2017-08-15T04:45:09.021000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Corso Cairoli ang. lungo Po Diaz", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "c162505446e5b624d0bc6c90fd405b3d", 
+        "latitude": 45.061696, 
+        "longitude": 7.693865, 
+        "name": "Murazzi", 
+        "timestamp": "2017-08-15T04:45:09.022000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Corso Massimo d`Azeglio ang. c.so Vittorio Emanuele II", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "bfe48db999dd185c21872054e49f5252", 
+        "latitude": 45.059109, 
+        "longitude": 7.688169, 
+        "name": "Valentino 1", 
+        "timestamp": "2017-08-15T04:45:09.022000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "C.so Castelfidardo fr. O.G.R.", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "75be188ad8a1e26e09b945659599c2c1", 
+        "latitude": 45.066582, 
+        "longitude": 7.661789, 
+        "name": "O.G.R.", 
+        "timestamp": "2017-08-15T04:45:09.023000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Corso Moncalieri ang. Ponte Umberto I", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "bc0d271171ddcc3207f46cf00c738975", 
+        "latitude": 45.058046, 
+        "longitude": 7.6935, 
+        "name": "Fiume", 
+        "timestamp": "2017-08-15T04:45:09.024000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Piazza Gran Madre lato c.so Casale", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "d42095306bf3c7c5c97f24724959315a", 
+        "latitude": 45.063058, 
+        "longitude": 7.698453, 
+        "name": "Gran Madre", 
+        "timestamp": "2017-08-15T04:45:09.025000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Via Sant`Anselmo ang. via Berthollet", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "5028f6c6a2c3ab5c46807a66e821e802", 
+        "latitude": 45.059332, 
+        "longitude": 7.681139, 
+        "name": "Sant\u00c2\u00b4Anselmo", 
+        "timestamp": "2017-08-15T04:45:09.026000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "C.so Marconi ang. via Ormea", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "32bd47d7da06d008cb1e06a8a6116b11", 
+        "latitude": 45.05554, 
+        "longitude": 7.682658, 
+        "name": "Marconi 1", 
+        "timestamp": "2017-08-15T04:45:09.027000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "Via Belfiore ang. v. Morgari", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "808f2aa41bc2dc947db6bfe6585fc133", 
+        "latitude": 45.054267, 
+        "longitude": 7.678409, 
+        "name": "Belfiore", 
+        "timestamp": "2017-08-15T04:45:09.028000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Via Principe Tommaso ang. via Baretti", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "f73a37cf5d9755c0fddf02c0ffe1727d", 
+        "latitude": 45.057631, 
+        "longitude": 7.681271, 
+        "name": "Baretti", 
+        "timestamp": "2017-08-15T04:45:09.029000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Piazza Carrara", 
+          "status": "online"
+        }, 
+        "free_bikes": 16, 
+        "id": "8fe5434fe7ec6c7e1c1fa865ce2d3444", 
+        "latitude": 45.069123, 
+        "longitude": 7.720369, 
+        "name": "Carrara", 
+        "timestamp": "2017-08-15T04:45:09.029000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Belgio int. 86", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "56ac4933540413aa2cd3c7869d11bd18", 
+        "latitude": 45.073547, 
+        "longitude": 7.717059, 
+        "name": "Belgio 2", 
+        "timestamp": "2017-08-15T04:45:09.030000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "description": "c.so Galileo Ferrais 32 ang. c.so Stati Uniti", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "efae041ff574cf0f3378eb1a076cb64a", 
+        "latitude": 45.063806, 
+        "longitude": 7.66945, 
+        "name": "Galileo Ferraris 4", 
+        "timestamp": "2017-08-15T04:45:09.031000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "C.so Galileo Ferraris ang. via Colombo", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "668cab06a032838852f2c985a2cedc3b", 
+        "latitude": 45.05674, 
+        "longitude": 7.66461, 
+        "name": "Galileo Ferraris 2", 
+        "timestamp": "2017-08-15T04:45:09.034000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "Corso Duca degli Abruzzi ang. C.so Duca d`Aosta", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "4e8a8ea53e1bdcb4c9d92999c66a77e9", 
+        "latitude": 45.062132, 
+        "longitude": 7.663007, 
+        "name": "Politecnico 2", 
+        "timestamp": "2017-08-15T04:45:09.034000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via Principi d`Acaja fr. civ. 47", 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "7aacdceecb6143183185e9d182821fe3", 
+        "latitude": 45.073304, 
+        "longitude": 7.662401, 
+        "name": "Principi d`Acaja 1", 
+        "timestamp": "2017-08-15T04:45:09.038000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Corso Francia ang. v. Principi d`Acaja", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "d21b21a3780ccd3198e2b72afb3b0a82", 
+        "latitude": 45.075859, 
+        "longitude": 7.664055, 
+        "name": "Principi d`Acaja 2", 
+        "timestamp": "2017-08-15T04:45:09.038000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazza Bernini", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "e2b1ee06b8991ce41ab05a1dc2645c41", 
+        "latitude": 45.07617, 
+        "longitude": 7.655561, 
+        "name": "Bernini", 
+        "timestamp": "2017-08-15T04:45:09.039000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Corso Vittorio Emanuele II ang. c.so Ferrucci", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "ae8eae4419e7c094b6365228f6eac681", 
+        "latitude": 45.070719, 
+        "longitude": 7.655975, 
+        "name": "Adriano", 
+        "timestamp": "2017-08-15T04:45:09.040000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "c.so De Gasperi fr. civ. 24", 
+          "status": "online"
+        }, 
+        "free_bikes": 13, 
+        "id": "92b1ecbf2a2372db24c7c9b1c907965a", 
+        "latitude": 45.057097, 
+        "longitude": 7.661246, 
+        "name": "De Gasperi", 
+        "timestamp": "2017-08-15T04:45:09.041000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "c.so Regina Margherita fr. via Tarino", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "c91f8184077b22c31dff9c0ea96184dd", 
+        "latitude": 45.07235, 
+        "longitude": 7.697286, 
+        "name": "Regina Margherita 2", 
+        "timestamp": "2017-08-15T04:45:09.042000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "c.so Raffaello 19 ang. via Madama Cristina", 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "9a0aead1dddf67ea97dfaa6e3c34e567", 
+        "latitude": 45.051622, 
+        "longitude": 7.678291, 
+        "name": "Raffaello", 
+        "timestamp": "2017-08-15T04:45:09.043000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "description": "c.so Regio Parco ang. via Parma", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "38d1439b1df809b01429cd75224c1581", 
+        "latitude": 45.076832, 
+        "longitude": 7.694134, 
+        "name": "Regio Parco", 
+        "timestamp": "2017-08-15T04:45:09.044000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "C.so San Maurizio ang. v. Giulia di Barolo", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "93d1d41761adc26f853a3d82987f0d57", 
+        "latitude": 45.067323, 
+        "longitude": 7.696805, 
+        "name": "Giulia di Barolo", 
+        "timestamp": "2017-08-15T04:45:09.045000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "C.so Regina Margherita fr. Osp. Gradenigo", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "f8e8e458ac9f1f04ad3c774effe5ae54", 
+        "latitude": 45.069556, 
+        "longitude": 7.705674, 
+        "name": "Regina Margherita 1", 
+        "timestamp": "2017-08-15T04:45:09.046000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "C.o Regina Margherita ang. via Denina", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "1916e772eb3e6c88b37a0f584da1e333", 
+        "latitude": 45.073583, 
+        "longitude": 7.692797, 
+        "name": "Regina Margherita 3", 
+        "timestamp": "2017-08-15T04:45:09.047000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Lungo Dora Siena 104", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "a094649e150f7b7636259ca8a183848d", 
+        "latitude": 45.074874, 
+        "longitude": 7.70223, 
+        "name": "Dora Siena 1", 
+        "timestamp": "2017-08-15T04:45:09.048000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Corso Dante 53 ang. V. Nizza", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "3ebabf483764faba24fdb48b7171f9b3", 
+        "latitude": 45.047665, 
+        "longitude": 7.672648, 
+        "name": "Dante", 
+        "timestamp": "2017-08-15T04:45:09.050000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Corso Rosselli ang. c.so Turati", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "2995688bbd23361bb4bc786f627f7dcc", 
+        "latitude": 45.050111, 
+        "longitude": 7.666065, 
+        "name": "Mauriziano 1", 
+        "timestamp": "2017-08-15T04:45:09.050000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Corso Re Umberto ang. c.so Rosselli", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "140c9dad0e1a4b3b2a953c532fc33051", 
+        "latitude": 45.051634, 
+        "longitude": 7.663628, 
+        "name": "Mauriziano 2", 
+        "timestamp": "2017-08-15T04:45:09.051000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Corso Montelungo ang. c.so Galileo Ferraris", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "f6c626899532fa6274a90cabd8e22638", 
+        "latitude": 45.048123, 
+        "longitude": 7.658281, 
+        "name": "Piazza d`Armi", 
+        "timestamp": "2017-08-15T04:45:09.052000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "C.so Vittorio Emanuele II ang. via Carlo Alberto", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "9a1ff6add93143ae371db6244ac33e9d", 
+        "latitude": 45.061593, 
+        "longitude": 7.682342, 
+        "name": "Vittorio Emanuele II 4", 
+        "timestamp": "2017-08-15T04:45:09.053000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Corso Duca degli Abruzzi 29", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "fa9a021c19bb407a271ea6a9bb34bd39", 
+        "latitude": 45.062387, 
+        "longitude": 7.662494, 
+        "name": "Politecnico 1", 
+        "timestamp": "2017-08-15T04:45:09.054000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "viale Mattioli  - Valentino", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "0445f90ecfe8259f2d8763fa03c73c14", 
+        "latitude": 45.054859, 
+        "longitude": 7.685605, 
+        "name": "Valentino 2", 
+        "timestamp": "2017-08-15T04:45:09.055000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Corso Ferrucci ang. v. Boggio", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "163be8fb0f20f48da88c5200c1d141b5", 
+        "latitude": 45.063828, 
+        "longitude": 7.65582, 
+        "name": "Ferrucci", 
+        "timestamp": "2017-08-15T04:45:09.055000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "c.so Turati ang. via Camogli", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "5ce4d449d03c24bd7a1d2baea2630228", 
+        "latitude": 45.048042, 
+        "longitude": 7.66374, 
+        "name": "Turati", 
+        "timestamp": "2017-08-15T04:45:09.056000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Piazza Carducci 76", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "b5a8b6b959f78754cb9be3da9ac79def", 
+        "latitude": 45.042579, 
+        "longitude": 7.670913, 
+        "name": "Carducci", 
+        "timestamp": "2017-08-15T04:45:09.057000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "description": "Corso Bramante 73 ang. p.zza Carducci", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "b76c89db641fe1598a58fb8db0fc5ce5", 
+        "latitude": 45.042244, 
+        "longitude": 7.673145, 
+        "name": "Molinette 1", 
+        "timestamp": "2017-08-15T04:45:09.058000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "C.so Massimo ang. via Cellini", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "fb7703a90978c8c7761a2c993cf8c0bb", 
+        "latitude": 45.042809, 
+        "longitude": 7.677524, 
+        "name": "Molinette 2", 
+        "timestamp": "2017-08-15T04:45:09.059000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "via Livorno 48", 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "3bae7415d8eb21cd1144b69dc45f7f3b", 
+        "latitude": 45.087202, 
+        "longitude": 7.66976, 
+        "name": "Livorno", 
+        "timestamp": "2017-08-15T04:45:09.061000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "c.so Umbria 16 ang. via Macerata", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "41e2bbbe98e07770f0fef01e3f8cb91f", 
+        "latitude": 45.082828, 
+        "longitude": 7.6698, 
+        "name": "Umbria", 
+        "timestamp": "2017-08-15T04:45:09.062000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "via Richelmy ang. via Ventimiglia", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "b91ce9da90d7f92af93809aa5052a606", 
+        "latitude": 45.032835, 
+        "longitude": 7.671633, 
+        "name": "Ventimiglia", 
+        "timestamp": "2017-08-15T04:45:09.063000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "description": "via Nizza 274 - Uscita Metro Lingotto", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "d57f77196851a248f892519c64cd3738", 
+        "latitude": 45.031282, 
+        "longitude": 7.666638, 
+        "name": "Lingotto Fiere", 
+        "timestamp": "2017-08-15T04:45:09.066000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "via Pio VII 78 ang. via Passo Buole", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "655dc87138178b562f01d842b89e974a", 
+        "latitude": 45.024841, 
+        "longitude": 7.652074, 
+        "name": "Pio VII", 
+        "timestamp": "2017-08-15T04:45:09.067000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "via Pio VII 9", 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "e1058ddf49b615f0155992fd0a3c2eae", 
+        "latitude": 45.02926, 
+        "longitude": 7.654741, 
+        "name": "Pio VII 2", 
+        "timestamp": "2017-08-15T04:45:09.067000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "description": "p.za Galimberti ang. via Giordano Bruno", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "30b9864f41b620e36792a23b67b4f25b", 
+        "latitude": 45.033058, 
+        "longitude": 7.656484, 
+        "name": "Galimberti", 
+        "timestamp": "2017-08-15T04:45:09.068000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "c.so Sebastopoli ang. via Giordano Bruno", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "f3ab85e088afadb5b9bfab34a76a5cff", 
+        "latitude": 45.039771, 
+        "longitude": 7.660973, 
+        "name": "Sebastopoli", 
+        "timestamp": "2017-08-15T04:45:09.070000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "c.so Unione Sovietica ang. c.so Giambone", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "948f10ebf65727d04a046fb92ba6ca82", 
+        "latitude": 45.032958, 
+        "longitude": 7.64699, 
+        "name": "Giambone", 
+        "timestamp": "2017-08-15T04:45:09.071000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "c.so Galileo Ferraris ang. parco Cavalieri Vittorio Veneto", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "d9dedede707c18828663426aa3fae4d3", 
+        "latitude": 45.043099, 
+        "longitude": 7.655127, 
+        "name": "Galileo Ferraris 6", 
+        "timestamp": "2017-08-15T04:45:09.071000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "c.so Unione Sovietica ang. via Montevideo", 
+          "status": "online"
+        }, 
+        "free_bikes": 12, 
+        "id": "059b848bf0487496d890cb92930f7e61", 
+        "latitude": 45.036989, 
+        "longitude": 7.651926, 
+        "name": "Montevideo", 
+        "timestamp": "2017-08-15T04:45:09.072000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Via Porta Palatina", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "7bab9c15c77104412b391ebe188346af", 
+        "latitude": 45.07396293061647, 
+        "longitude": 7.684050574676576, 
+        "name": "Porta Palatina", 
+        "timestamp": "2017-08-15T04:45:08.977000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 15, 
+        "id": "cdc0d3585fb54d26f556e5d3957ce0af", 
+        "latitude": 45.079653472984305, 
+        "longitude": 7.6521774704654035, 
+        "name": "Risorgimento", 
+        "timestamp": "2017-08-15T04:45:09.086000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "c.so Montelungo ang. c.so IV Novembre", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "727e3cb4f59b890bc24337472b9ffd0a", 
+        "latitude": 45.04959141529801, 
+        "longitude": 7.6540403497680245, 
+        "name": "Piazza d'Armi 2", 
+        "timestamp": "2017-08-15T04:45:09.078000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Piazza Marmolada / c.so Rosselli", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "0eaa2b9c08a119a205b5653427fdd48f", 
+        "latitude": 45.05463236625801, 
+        "longitude": 7.648691634254419, 
+        "name": "Marmolada", 
+        "timestamp": "2017-08-15T04:45:09.080000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "c.so Peschiera 191 / c.so Racconigi", 
+          "status": "offline"
+        }, 
+        "free_bikes": 10, 
+        "id": "b963a768b7bf0d83fbdc79ca5120f883", 
+        "latitude": 45.066087867947004, 
+        "longitude": 7.645260159524469, 
+        "name": "Peschiera", 
+        "timestamp": "2017-08-15T04:45:09.082000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "c.so Principe Oddone / via Cirie`", 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "58f7143ae8989f692b5556dd80cbe3b0", 
+        "latitude": 45.0842724340985, 
+        "longitude": 7.6739259744522315, 
+        "name": "Oddone", 
+        "timestamp": "2017-08-15T04:45:09.094000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "06e1f29b786534198448d2caf7ddd6ac", 
+        "latitude": 45.07358879689483, 
+        "longitude": 7.648082971572876, 
+        "name": "Vittorio Emanuele II 7", 
+        "timestamp": "2017-08-15T04:45:09.084000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "4d318f002c20fb1ca2c8c7ddb46ef805", 
+        "latitude": 45.081130886796466, 
+        "longitude": 7.670999765396118, 
+        "name": "Regina Margherita 6", 
+        "timestamp": "2017-08-15T04:45:09.090000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Tazzoli 13", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "e0da31c3ad41d3d7518aa582b3ad182a", 
+        "latitude": 45.02958259437356, 
+        "longitude": 7.642005048605711, 
+        "name": "Tazzoli", 
+        "timestamp": "2017-08-15T04:45:09.074000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Unione / c.so Onorato Vigliani", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "32f9e7bc39fd1048bf91327552c8e80b", 
+        "latitude": 45.02228490634045, 
+        "longitude": 7.635597288608551, 
+        "name": "Caio Mario", 
+        "timestamp": "2017-08-15T04:45:09.075000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "p.za Robilant 4", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "d998a308cf88b664d1ee27224c39b480", 
+        "latitude": 45.06113273031591, 
+        "longitude": 7.644819559472467, 
+        "name": "Robilant", 
+        "timestamp": "2017-08-15T04:45:09.081000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "via Moretta / c.so Racconigi", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "f774b352bfa54c8031388c9d35a3e3e7", 
+        "latitude": 45.07048048014438, 
+        "longitude": 7.647057488959149, 
+        "name": "Moretta", 
+        "timestamp": "2017-08-15T04:45:09.083000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Peschiera 178 / p.za Sabotino", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "aa5d4ac2a68a82af44bca6d2bb27fb40", 
+        "latitude": 45.065321577059734, 
+        "longitude": 7.648423593744269, 
+        "name": "Sabotino", 
+        "timestamp": "2017-08-15T04:45:09.083000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Tassoni / via Cibrario", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "2d28a5314b2f461921e9643050d96b5a", 
+        "latitude": 45.08098666056683, 
+        "longitude": 7.656147229534554, 
+        "name": "Tassoni", 
+        "timestamp": "2017-08-15T04:45:09.087000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "via Cigna / via Robassomero", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "6b796f7fc028beb55a83479590dedd5c", 
+        "latitude": 45.0819664295941, 
+        "longitude": 7.6783523550170685, 
+        "name": "Cigna", 
+        "timestamp": "2017-08-15T04:45:09.092000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "via Orvieto 28", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "dcb2f0fb0f4cde51c1d5cc0de5750fb3", 
+        "latitude": 45.09318172721264, 
+        "longitude": 7.671069413491864, 
+        "name": "Orvieto", 
+        "timestamp": "2017-08-15T04:45:09.093000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Chieri / Kossuth", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "6b8d29e07224df9def5b3d30cee5764d", 
+        "latitude": 45.070062243622175, 
+        "longitude": 7.728140866352533, 
+        "name": "Chieri", 
+        "timestamp": "2017-08-15T04:45:09.093000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Principe Oddone / p.za Baldissera", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "7ba85e893350432b85955e9013bc53ca", 
+        "latitude": 45.08930640782924, 
+        "longitude": 7.6774734440934935, 
+        "name": "Baldissera", 
+        "timestamp": "2017-08-15T04:45:09.095000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Novara 4", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "551d0f61d7ca2c6a4dddacc24ba119cc", 
+        "latitude": 45.08861960031744, 
+        "longitude": 7.688551369381003, 
+        "name": "Crispi", 
+        "timestamp": "2017-08-15T04:45:09.096000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "via Clementi / p.za Bottesini", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "aacef5508dac9f89f9bbb33a0ea699a4", 
+        "latitude": 45.08852992011252, 
+        "longitude": 7.6971250827685935, 
+        "name": "Bottesini", 
+        "timestamp": "2017-08-15T04:45:09.098000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Novara / c.so Palermo", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "e36dc6e5925110548ffc660b33b9dab1", 
+        "latitude": 45.086440550164724, 
+        "longitude": 7.692694937698889, 
+        "name": "Novara", 
+        "timestamp": "2017-08-15T04:45:09.099000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "p.za Zara 1 / c.so Moncalieri", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "317f0882eccdb60928bdd1d07d979379", 
+        "latitude": 45.038779833875665, 
+        "longitude": 7.681816938657789, 
+        "name": "Zara", 
+        "timestamp": "2017-08-15T04:45:09.100000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "c.so Belgio / c.so Cadore", 
+          "status": "under construction"
+        }, 
+        "free_bikes": 0, 
+        "id": "c87bae7ba944a8aa0b47206485e3376a", 
+        "latitude": 45.074487858750786, 
+        "longitude": 7.72372788773157, 
+        "name": "Belgio 3", 
+        "timestamp": "2017-08-15T04:45:09.101000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "d1bc8033c40ee5264cce8f47d5187fba", 
+        "latitude": 45.072338630573036, 
+        "longitude": 7.561769485473633, 
+        "name": "03. Leumann", 
+        "timestamp": "2017-08-15T04:45:09.113000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "8fa4807880ed26b205517a071dca0c21", 
+        "latitude": 45.115722339702245, 
+        "longitude": 7.613739967346191, 
+        "name": "05. Savonera", 
+        "timestamp": "2017-08-15T04:45:09.115000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "6dfacb8f11c7d84f6a4de5a6c4843a45", 
+        "latitude": 45.076036013012384, 
+        "longitude": 7.591123580932617, 
+        "name": "06. Fermi", 
+        "timestamp": "2017-08-15T04:45:09.116000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "f1d7621c4f2b581dc95871181eaddf7f", 
+        "latitude": 45.07894526052452, 
+        "longitude": 7.5743865966796875, 
+        "name": "07. Stazione F.S.", 
+        "timestamp": "2017-08-15T04:45:09.116000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "89133cb9d5cfa00e1733665ec0ec7dbc", 
+        "latitude": 45.07746928803631, 
+        "longitude": 7.569552136909465, 
+        "name": "09. Municipio", 
+        "timestamp": "2017-08-15T04:45:09.118000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "f01c3eb11d001cdeb048c5153d2312ae", 
+        "latitude": 45.04440354326403, 
+        "longitude": 7.617623805999756, 
+        "name": "01. Gerbido", 
+        "timestamp": "2017-08-15T04:45:09.103000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "bc312c77398b36b68dcc11a936231be8", 
+        "latitude": 45.067519551794994, 
+        "longitude": 7.563056945800781, 
+        "name": "02. Fabbrichetta", 
+        "timestamp": "2017-08-15T04:45:09.104000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "d5b824f8f0b24055820952cae13d8eb6", 
+        "latitude": 45.056364402185814, 
+        "longitude": 7.580995559692383, 
+        "name": "03. Borgo", 
+        "timestamp": "2017-08-15T04:45:09.105000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "efb9906681ca572faa6c528c55856187", 
+        "latitude": 45.06171490180712, 
+        "longitude": 7.581188678741455, 
+        "name": "04. Villa Claretta", 
+        "timestamp": "2017-08-15T04:45:09.106000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "6ada4564cfb797b8829b59ec7742e2ed", 
+        "latitude": 45.06479159126726, 
+        "longitude": 7.588076591491699, 
+        "name": "05. Universita`", 
+        "timestamp": "2017-08-15T04:45:09.107000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "ffd596ecd472bfa10fd38a9685f17c8c", 
+        "latitude": 45.06829245027643, 
+        "longitude": 7.599577903747559, 
+        "name": "07. Stazione Ferroviaria Paradiso", 
+        "timestamp": "2017-08-15T04:45:09.109000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "22743c60546a6b5713094662d6940f4e", 
+        "latitude": 45.06566411992803, 
+        "longitude": 7.579057797622681, 
+        "name": "08. Lupo", 
+        "timestamp": "2017-08-15T04:45:09.109000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "e8242fb035991ef3d83e93fb3b6fa97b", 
+        "latitude": 45.116903418249365, 
+        "longitude": 7.62300968170166, 
+        "name": "01. Concordia", 
+        "timestamp": "2017-08-15T04:45:09.120000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "bc2f3dac64e76a022c2869659614a6f5", 
+        "latitude": 45.129893668868284, 
+        "longitude": 7.631292343139648, 
+        "name": "02. Pettiti", 
+        "timestamp": "2017-08-15T04:45:09.121000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "aeb1bf0a60459898301e9f798dbc17b7", 
+        "latitude": 45.12418619577999, 
+        "longitude": 7.632043361663818, 
+        "name": "03. C. Commerciale I Portici", 
+        "timestamp": "2017-08-15T04:45:09.122000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "7e5a6293440ed4d665c26462cd114ff4", 
+        "latitude": 45.13532810578641, 
+        "longitude": 7.625691890716553, 
+        "name": "04. Reggia", 
+        "timestamp": "2017-08-15T04:45:09.123000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "0c7ddac244be98e27b3249521685e480", 
+        "latitude": 45.127804527473224, 
+        "longitude": 7.635798454284668, 
+        "name": "05. Corso Garibaldi", 
+        "timestamp": "2017-08-15T04:45:09.123000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "2aad166492e099938af239a535d770e3", 
+        "latitude": 45.133102925422556, 
+        "longitude": 7.632536888122559, 
+        "name": "06. Municipio", 
+        "timestamp": "2017-08-15T04:45:09.124000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "a4792b55af4c2ed4730f24207b924ead", 
+        "latitude": 45.125836425730945, 
+        "longitude": 7.642192840576172, 
+        "name": "07. Buozzi", 
+        "timestamp": "2017-08-15T04:45:09.125000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "99d05089c79ad0acfd5d3acecaf2cd83", 
+        "latitude": 45.12489776867726, 
+        "longitude": 7.6529645919799805, 
+        "name": "08. San Marchese", 
+        "timestamp": "2017-08-15T04:45:09.126000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "655591c1d8a7c1c33bc8060028aadc2a", 
+        "latitude": 45.12031023863353, 
+        "longitude": 7.648565769195557, 
+        "name": "09. Rigola", 
+        "timestamp": "2017-08-15T04:45:09.127000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "f16cba9c6dc917e833eab7bf3e0168b7", 
+        "latitude": 45.114828943536864, 
+        "longitude": 7.641313076019287, 
+        "name": "10. Gallo Praile", 
+        "timestamp": "2017-08-15T04:45:09.128000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "0df8838da4cf2ffe0eaf28629b902dd7", 
+        "latitude": 45.094383006473215, 
+        "longitude": 7.524325847625732, 
+        "name": "01. Municipio", 
+        "timestamp": "2017-08-15T04:45:09.138000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "d6806ba5784a0d60f24f380a9b09a1cb", 
+        "latitude": 45.099654215224064, 
+        "longitude": 7.531235218048096, 
+        "name": "02. Berlinguer", 
+        "timestamp": "2017-08-15T04:45:09.144000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Rivoli 4", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "5b6291a3e07d71724308661df3510846", 
+        "latitude": 45.07584019356755, 
+        "longitude": 7.6439435276126915, 
+        "name": "Rivoli", 
+        "timestamp": "2017-08-15T04:45:09.073000Z"
+      }
+    ]
+  }
+}

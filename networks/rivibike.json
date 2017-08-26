@@ -1,0 +1,178 @@
+{
+  "network": {
+    "company": [
+      "Associa\u00e7\u00e3o dos Amigos da Riviera de S\u00e3o Louren\u00e7o", 
+      "Sobloco"
+    ], 
+    "href": "/v2/networks/rivibike", 
+    "id": "rivibike", 
+    "location": {
+      "city": "S\u00e3o Louren\u00e7o", 
+      "country": "BR", 
+      "latitude": -22.1124, 
+      "longitude": -45.028
+    }, 
+    "name": "RiviBike", 
+    "stations": [
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            115
+          ], 
+          "number": 4, 
+          "open": true, 
+          "uid": 8
+        }, 
+        "free_bikes": 1, 
+        "id": "4f67c7ffb2c196276495ff75f8e67dd5", 
+        "latitude": -23.800345, 
+        "longitude": -46.016247, 
+        "name": "Madrep\u00e9rola", 
+        "timestamp": "2017-05-16T04:14:57.603000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            138, 
+            113
+          ], 
+          "number": 6, 
+          "open": true, 
+          "uid": 10
+        }, 
+        "free_bikes": 1, 
+        "id": "9115555435d6b599e9e5e49fb34b69b6", 
+        "latitude": -23.788901, 
+        "longitude": -46.012084, 
+        "name": "S\u00e3o Louren\u00e7o", 
+        "timestamp": "2017-05-16T04:14:57.606000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            116, 
+            118, 
+            151, 
+            112, 
+            129, 
+            104
+          ], 
+          "number": 5, 
+          "open": true, 
+          "uid": 9
+        }, 
+        "free_bikes": 6, 
+        "id": "447862fea82dd41e7f6b7aefaaf1f571", 
+        "latitude": -23.798406, 
+        "longitude": -46.011419, 
+        "name": "Jatob\u00e1", 
+        "timestamp": "2017-05-16T04:14:57.605000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            117, 
+            15, 
+            119, 
+            72, 
+            96, 
+            44, 
+            128, 
+            110, 
+            21, 
+            108, 
+            136, 
+            120, 
+            111, 
+            124, 
+            150, 
+            105, 
+            106, 
+            97
+          ], 
+          "number": 3, 
+          "open": true, 
+          "uid": 7
+        }, 
+        "free_bikes": 13, 
+        "id": "1c17a22b20bb4b1c1a9db8ca50a0d103", 
+        "latitude": -23.798055, 
+        "longitude": -46.023357, 
+        "name": "Shopping", 
+        "timestamp": "2017-05-16T04:14:57.602000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            92, 
+            143, 
+            137, 
+            135, 
+            20, 
+            131, 
+            126, 
+            153
+          ], 
+          "number": 7, 
+          "open": true, 
+          "uid": 12
+        }, 
+        "free_bikes": 7, 
+        "id": "1fa1053c2bef3e3e5f09806e78b07d38", 
+        "latitude": -23.797047, 
+        "longitude": -46.0062, 
+        "name": "Maraca\u00ed", 
+        "timestamp": "2017-05-16T04:14:57.608000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            139, 
+            29, 
+            91, 
+            103, 
+            142, 
+            140, 
+            127
+          ], 
+          "number": 2, 
+          "open": true, 
+          "uid": 6
+        }, 
+        "free_bikes": 7, 
+        "id": "1ae599bfff8aa4ed9e2ec28ffffda751", 
+        "latitude": -23.803923, 
+        "longitude": -46.026294, 
+        "name": "Pousada", 
+        "timestamp": "2017-05-16T04:14:57.600000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            68, 
+            147, 
+            155, 
+            122, 
+            125
+          ], 
+          "number": 1, 
+          "open": true, 
+          "uid": 5
+        }, 
+        "free_bikes": 3, 
+        "id": "00626581570c720a72127a7e8de50741", 
+        "latitude": -23.806677, 
+        "longitude": -46.031235, 
+        "name": "Nautilus", 
+        "timestamp": "2017-05-16T04:14:57.596000Z"
+      }
+    ]
+  }
+}

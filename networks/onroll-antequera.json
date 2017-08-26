@@ -1,0 +1,130 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-antequera", 
+    "id": "onroll-antequera", 
+    "location": {
+      "city": "Antequera", 
+      "country": "ES", 
+      "latitude": 37.018427, 
+      "longitude": -4.563775
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "e3c5951de9ee8beb0379024816500a97", 
+        "latitude": 37.019413, 
+        "longitude": -4.562674, 
+        "name": "Calle Infante", 
+        "timestamp": "2017-08-15T04:47:51.142000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 7, 
+        "id": "4fa9de1dbcaf79457587ce9cacf4cd3a", 
+        "latitude": 37.021608, 
+        "longitude": -4.56216, 
+        "name": "Paseo Garc\u00eda del Olmo", 
+        "timestamp": "2017-08-15T04:47:51.149000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "596b4e9524d8b8f2d33fbd59fb45c5ae", 
+        "latitude": 37.021742, 
+        "longitude": -4.566053, 
+        "name": "Paseo Real", 
+        "timestamp": "2017-08-15T04:47:51.150000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "7b14518278b3fd49beb56ca66e6d4761", 
+        "latitude": 37.016523, 
+        "longitude": -4.55822, 
+        "name": "Plaza del Coso Viejo", 
+        "timestamp": "2017-08-15T04:47:51.151000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "98ab5bb0fe174c7c011331f231ffab6e", 
+        "latitude": 37.014532, 
+        "longitude": -4.557108, 
+        "name": "Plaza San Francisco", 
+        "timestamp": "2017-08-15T04:47:51.153000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "eaafa9ec6fb91dc326a4c94d89512f85", 
+        "latitude": 37.020227, 
+        "longitude": -4.572987, 
+        "name": "Polideportivo Mauli", 
+        "timestamp": "2017-08-15T04:47:51.154000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "6cd86cdf68b3aae489c3e4e07c52aff9", 
+        "latitude": 37.014947, 
+        "longitude": -4.567222, 
+        "name": "Parque Atalaya Gandia", 
+        "timestamp": "2017-08-15T04:47:51.155000Z"
+      }
+    ]
+  }
+}

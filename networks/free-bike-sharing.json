@@ -1,0 +1,90 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/free-bike-sharing", 
+    "id": "free-bike-sharing", 
+    "location": {
+      "city": "Frosinone", 
+      "country": "IT", 
+      "latitude": 41.645081, 
+      "longitude": 13.342123
+    }, 
+    "name": "FRee Bike sharing", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "e6f369e58c1e41a5239b0f72bc1f904d", 
+        "latitude": 41.6252891, 
+        "longitude": 13.3296275, 
+        "name": "Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:46:14.936000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "8703bee4955cbd7ef8612fe4d8aa56b3", 
+        "latitude": 41.63478627518508, 
+        "longitude": 13.337445259094238, 
+        "name": "Campo CONI", 
+        "timestamp": "2017-08-15T04:46:14.938000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "406cff0a8b3ce24542978d6732a662de", 
+        "latitude": 41.6431026, 
+        "longitude": 13.3456679, 
+        "name": "Via Aldo Moro", 
+        "timestamp": "2017-08-15T04:46:14.939000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "b010faa9244d17c9f998fa7f9d6f86e5", 
+        "latitude": 41.6478426, 
+        "longitude": 13.3435074, 
+        "name": "Villa Comunale", 
+        "timestamp": "2017-08-15T04:46:14.940000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "dc85e490160008f5811ea33c8e84fe69", 
+        "latitude": 41.63342610791405, 
+        "longitude": 13.325778080503824, 
+        "name": "Conservatorio Refice", 
+        "timestamp": "2017-08-15T04:46:14.940000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "b1328cffe8d64839485424018b5c494e", 
+        "latitude": 41.64747859081539, 
+        "longitude": 13.33266019821167, 
+        "name": "Cavoni", 
+        "timestamp": "2017-08-15T04:46:14.941000Z"
+      }
+    ]
+  }
+}

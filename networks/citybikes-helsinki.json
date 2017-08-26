@@ -1,0 +1,1799 @@
+{
+  "network": {
+    "company": [
+      "Helsinki City Transport", 
+      "Helsinki Regional Transport", 
+      "CityBikeFinland", 
+      "Smoove SAS", 
+      "Moventia", 
+      "Alepa"
+    ], 
+    "href": "/v2/networks/citybikes-helsinki", 
+    "id": "citybikes-helsinki", 
+    "location": {
+      "city": "Helsinki", 
+      "country": "FI", 
+      "latitude": 60.16985569999999, 
+      "longitude": 24.938379
+    }, 
+    "name": "City bikes", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "002"
+        }, 
+        "free_bikes": 4, 
+        "id": "cf95a914bb5d1f9e7bb71efc14800243", 
+        "latitude": 60.159715, 
+        "longitude": 24.955212, 
+        "name": "Laivasillankatu", 
+        "timestamp": "2017-08-15T04:49:34.111000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "uid": "096"
+        }, 
+        "free_bikes": 14, 
+        "id": "5bbb013ad1523e256277123609612c72", 
+        "latitude": 60.1996653, 
+        "longitude": 24.8836209, 
+        "name": "Huopalahdentie", 
+        "timestamp": "2017-08-15T04:49:34.129000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "uid": "053"
+        }, 
+        "free_bikes": 16, 
+        "id": "8d3c28d2071974a4568ce0018613acc8", 
+        "latitude": 60.156817, 
+        "longitude": 24.8850653, 
+        "name": "Heikkil\u00e4ntie", 
+        "timestamp": "2017-08-15T04:49:34.203000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": "068"
+        }, 
+        "free_bikes": 18, 
+        "id": "38ab3e0717c39fec18d491929bc645c2", 
+        "latitude": 60.1618359, 
+        "longitude": 24.9368179, 
+        "name": "Albertinkatu", 
+        "timestamp": "2017-08-15T04:49:34.219000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "uid": "158"
+        }, 
+        "free_bikes": 8, 
+        "id": "00b4a9e6d6ea1ef4ae4abacf190a3e8f", 
+        "latitude": 60.152343, 
+        "longitude": 24.741234, 
+        "name": "Sepetlahdentie", 
+        "timestamp": "2017-08-15T04:49:34.178000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "044"
+        }, 
+        "free_bikes": 4, 
+        "id": "9a129e60f204059e7033224e79ba4816", 
+        "latitude": 60.187704, 
+        "longitude": 24.960505, 
+        "name": "S\u00f6rn\u00e4isten metroasema", 
+        "timestamp": "2017-08-15T04:49:34.192000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": "029"
+        }, 
+        "free_bikes": 13, 
+        "id": "881dd76f5c2498c1081cad13e18be927", 
+        "latitude": 60.164159, 
+        "longitude": 24.922583, 
+        "name": "Baana", 
+        "timestamp": "2017-08-15T04:49:34.165000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": "022"
+        }, 
+        "free_bikes": 3, 
+        "id": "b16b52e6887ac68b440b6dee587d1a15", 
+        "latitude": 60.1706, 
+        "longitude": 24.939671, 
+        "name": "Rautatientori / l\u00e4nsi", 
+        "timestamp": "2017-08-15T04:49:34.154000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "003"
+        }, 
+        "free_bikes": 10, 
+        "id": "e8027c6aea5dcf7f20b844cb2ccac358", 
+        "latitude": 60.158172, 
+        "longitude": 24.944808, 
+        "name": "Kapteeninpuistikko", 
+        "timestamp": "2017-08-15T04:49:34.115000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "uid": "030"
+        }, 
+        "free_bikes": 5, 
+        "id": "eb73ab31cfdb1c60199e3bbaff82b1db", 
+        "latitude": 60.163535, 
+        "longitude": 24.914765, 
+        "name": "It\u00e4merentori", 
+        "timestamp": "2017-08-15T04:49:34.166000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "027"
+        }, 
+        "free_bikes": 3, 
+        "id": "dc9a26b43e1d78a226bdc0b12c0c7d78", 
+        "latitude": 60.16739, 
+        "longitude": 24.935913, 
+        "name": "Eerikinkatu", 
+        "timestamp": "2017-08-15T04:49:34.161000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "026"
+        }, 
+        "free_bikes": 9, 
+        "id": "cfa241b3c8fe3a3384d61ee20ff315dc", 
+        "latitude": 60.168644, 
+        "longitude": 24.930435, 
+        "name": "Kampin metroasema", 
+        "timestamp": "2017-08-15T04:49:34.160000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": "034"
+        }, 
+        "free_bikes": 4, 
+        "id": "8adcd117e712e01bdc3d24ed2ee7f9d0", 
+        "latitude": 60.173944, 
+        "longitude": 24.932879, 
+        "name": "Kansallismuseo", 
+        "timestamp": "2017-08-15T04:49:34.173000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "012"
+        }, 
+        "free_bikes": 10, 
+        "id": "69667c659e679f2361db8ee429d5ec19", 
+        "latitude": 60.168488, 
+        "longitude": 24.958478, 
+        "name": "Kanavaranta", 
+        "timestamp": "2017-08-15T04:49:34.135000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": "013"
+        }, 
+        "free_bikes": 8, 
+        "id": "033080b28b100f742e361f30e553085e", 
+        "latitude": 60.167891, 
+        "longitude": 24.975561, 
+        "name": "Merisotilaantori", 
+        "timestamp": "2017-08-15T04:49:34.137000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": "006"
+        }, 
+        "free_bikes": 6, 
+        "id": "ca527b35a8907cb96e8fb3275c43258b", 
+        "latitude": 60.162287, 
+        "longitude": 24.929542, 
+        "name": "Hietalahdentori", 
+        "timestamp": "2017-08-15T04:49:34.119000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": "018"
+        }, 
+        "free_bikes": 3, 
+        "id": "e99258e4079f02993ec575c97c686943", 
+        "latitude": 60.169873, 
+        "longitude": 24.948153, 
+        "name": "Porthania", 
+        "timestamp": "2017-08-15T04:49:34.148000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "015"
+        }, 
+        "free_bikes": 2, 
+        "id": "6fc5132955e07b845f6a2e62470292bd", 
+        "latitude": 60.171025, 
+        "longitude": 24.955571, 
+        "name": "Ritarikatu", 
+        "timestamp": "2017-08-15T04:49:34.140000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": "072"
+        }, 
+        "free_bikes": 14, 
+        "id": "fc81af323c7fbfa9a1393bfea0ac3d33", 
+        "latitude": 60.1756332, 
+        "longitude": 24.9160216, 
+        "name": "Etel\u00e4inen Hesperiankatu", 
+        "timestamp": "2017-08-15T04:49:34.058000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "073"
+        }, 
+        "free_bikes": 10, 
+        "id": "d0d4bd4953d008f6d0c4c2149a968932", 
+        "latitude": 60.1792967, 
+        "longitude": 24.9132504, 
+        "name": "Kes\u00e4katu", 
+        "timestamp": "2017-08-15T04:49:34.061000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "074"
+        }, 
+        "free_bikes": 8, 
+        "id": "0d14c42343eadfe93085f7649b7e726e", 
+        "latitude": 60.183137, 
+        "longitude": 24.911127, 
+        "name": "Rajasaarentie", 
+        "timestamp": "2017-08-15T04:49:34.062000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "110"
+        }, 
+        "free_bikes": 11, 
+        "id": "79e6a073c80d2667b629db194629b403", 
+        "latitude": 60.198898, 
+        "longitude": 24.924867, 
+        "name": "Maistraatintori", 
+        "timestamp": "2017-08-15T04:49:34.066000Z"
+      }, 
+      {
+        "empty_slots": 37, 
+        "extra": {
+          "uid": "113"
+        }, 
+        "free_bikes": 3, 
+        "id": "74689515429fa60a03634dba53ae4ba6", 
+        "latitude": 60.199715, 
+        "longitude": 24.935198, 
+        "name": "Veturitori", 
+        "timestamp": "2017-08-15T04:49:34.073000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "114"
+        }, 
+        "free_bikes": 11, 
+        "id": "402bc3d971c6acd66dc58601fc2442cf", 
+        "latitude": 60.197016, 
+        "longitude": 24.935891, 
+        "name": "Ratapihantie", 
+        "timestamp": "2017-08-15T04:49:34.075000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "117"
+        }, 
+        "free_bikes": 2, 
+        "id": "82efe13c9fdd8418a541315f60755563", 
+        "latitude": 60.1896706, 
+        "longitude": 24.9481024, 
+        "name": "Brahen puistikko", 
+        "timestamp": "2017-08-15T04:49:34.079000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "080"
+        }, 
+        "free_bikes": 20, 
+        "id": "7f50d65a850ae788b68347c9e77441d5", 
+        "latitude": 60.1894025, 
+        "longitude": 24.9205978, 
+        "name": "J\u00e4\u00e4halli", 
+        "timestamp": "2017-08-15T04:49:34.085000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "081"
+        }, 
+        "free_bikes": 3, 
+        "id": "17190f3b04f3ae527db345e42b24fe52", 
+        "latitude": 60.1883091, 
+        "longitude": 24.9123717, 
+        "name": "Stenb\u00e4ckinkatu", 
+        "timestamp": "2017-08-15T04:49:34.086000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "082"
+        }, 
+        "free_bikes": 0, 
+        "id": "ba6568de82131b64fb86566c1734d178", 
+        "latitude": 60.190663, 
+        "longitude": 24.914096, 
+        "name": "T\u00f6\u00f6l\u00f6ntulli", 
+        "timestamp": "2017-08-15T04:49:34.087000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "083"
+        }, 
+        "free_bikes": 6, 
+        "id": "05e5bb3302a4ea9401838cc1f1c19fb9", 
+        "latitude": 60.1902195, 
+        "longitude": 24.9083351, 
+        "name": "Meilahden sairaala", 
+        "timestamp": "2017-08-15T04:49:34.088000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": "086"
+        }, 
+        "free_bikes": 12, 
+        "id": "327fe48bf10ae9f64e732d7498b21682", 
+        "latitude": 60.1952452, 
+        "longitude": 24.9018997, 
+        "name": "Kuusitie", 
+        "timestamp": "2017-08-15T04:49:34.089000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "123"
+        }, 
+        "free_bikes": 11, 
+        "id": "106a1787c556832314460b739ff97c03", 
+        "latitude": 60.179765, 
+        "longitude": 24.9554618, 
+        "name": "N\u00e4kinsilta", 
+        "timestamp": "2017-08-15T04:49:34.111000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "127"
+        }, 
+        "free_bikes": 6, 
+        "id": "248c9f45e435fe0af09dfd5402ec2be3", 
+        "latitude": 60.1896994, 
+        "longitude": 24.9711926, 
+        "name": "Teurastamo", 
+        "timestamp": "2017-08-15T04:49:34.120000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": "128"
+        }, 
+        "free_bikes": 2, 
+        "id": "688c4566b4403571801f4268df799fd4", 
+        "latitude": 60.1920576, 
+        "longitude": 24.9642238, 
+        "name": "P\u00e4ij\u00e4nteentie", 
+        "timestamp": "2017-08-15T04:49:34.122000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "129"
+        }, 
+        "free_bikes": 15, 
+        "id": "62edff31efd28b8c423ba2c115f8808b", 
+        "latitude": 60.1942342, 
+        "longitude": 24.9579931, 
+        "name": "Pernajantie", 
+        "timestamp": "2017-08-15T04:49:34.123000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": "093"
+        }, 
+        "free_bikes": 9, 
+        "id": "98d7d11533d2865b25badf276f52329c", 
+        "latitude": 60.1948358, 
+        "longitude": 24.8713963, 
+        "name": "Torpanranta", 
+        "timestamp": "2017-08-15T04:49:34.127000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": "094"
+        }, 
+        "free_bikes": 18, 
+        "id": "424f1943272a4c9a8d707aed7b97b6cd", 
+        "latitude": 60.1983016, 
+        "longitude": 24.8759851, 
+        "name": "Laajalahden aukio", 
+        "timestamp": "2017-08-15T04:49:34.127000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "131"
+        }, 
+        "free_bikes": 9, 
+        "id": "73502a450f73707bddffc092ee502c67", 
+        "latitude": 60.1962627, 
+        "longitude": 24.9476186, 
+        "name": "Elim\u00e4enkatu", 
+        "timestamp": "2017-08-15T04:49:34.133000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "uid": "139"
+        }, 
+        "free_bikes": 25, 
+        "id": "79f028565adb45119ae7ca4d0a9c157b", 
+        "latitude": 60.2100255, 
+        "longitude": 24.9765801, 
+        "name": "Kaironkatu", 
+        "timestamp": "2017-08-15T04:49:34.149000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "144"
+        }, 
+        "free_bikes": 10, 
+        "id": "870960bc2f0a4dd4741a0db9d31ee813", 
+        "latitude": 60.2139043, 
+        "longitude": 24.9588108, 
+        "name": "K\u00e4pyl\u00e4ntie", 
+        "timestamp": "2017-08-15T04:49:34.156000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "148"
+        }, 
+        "free_bikes": 11, 
+        "id": "54c3fd84fc4a00667e64fd83ffdbae27", 
+        "latitude": 60.2184427, 
+        "longitude": 24.9664619, 
+        "name": "Juhana Herttuan tie", 
+        "timestamp": "2017-08-15T04:49:34.162000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "149"
+        }, 
+        "free_bikes": 2, 
+        "id": "d028263f19948ef504fea15209f07e3e", 
+        "latitude": 60.183164, 
+        "longitude": 24.9441949, 
+        "name": "Toinen linja", 
+        "timestamp": "2017-08-15T04:49:34.164000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": "157"
+        }, 
+        "free_bikes": 8, 
+        "id": "000c307acc41df3a1343bdf8a5d8caa7", 
+        "latitude": 60.153737, 
+        "longitude": 24.729112, 
+        "name": "Kalastajantie", 
+        "timestamp": "2017-08-15T04:49:34.176000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "159"
+        }, 
+        "free_bikes": 14, 
+        "id": "f9717127300205c055cf2c3c211aa735", 
+        "latitude": 60.158083, 
+        "longitude": 24.750928, 
+        "name": "Matinkartanontie", 
+        "timestamp": "2017-08-15T04:49:34.180000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": "039"
+        }, 
+        "free_bikes": 1, 
+        "id": "df83a13673a5c3139cab51286bc13003", 
+        "latitude": 60.182578, 
+        "longitude": 24.926764, 
+        "name": "Ooppera", 
+        "timestamp": "2017-08-15T04:49:34.181000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "040"
+        }, 
+        "free_bikes": 12, 
+        "id": "38319ecf8cadc7b3c9a0c009bad1d142", 
+        "latitude": 60.178102, 
+        "longitude": 24.952391, 
+        "name": "Hakaniemen metroasema", 
+        "timestamp": "2017-08-15T04:49:34.183000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "045"
+        }, 
+        "free_bikes": 0, 
+        "id": "73722e0b258b73cf26140c86b7599254", 
+        "latitude": 60.186742, 
+        "longitude": 24.950833, 
+        "name": "Brahen kentt\u00e4", 
+        "timestamp": "2017-08-15T04:49:34.193000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "046"
+        }, 
+        "free_bikes": 1, 
+        "id": "d56195217181091bdf8fd251ec7548dd", 
+        "latitude": 60.186281, 
+        "longitude": 24.941812, 
+        "name": "Diakoniapuisto", 
+        "timestamp": "2017-08-15T04:49:34.194000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "048"
+        }, 
+        "free_bikes": 12, 
+        "id": "8fdacf2df8f36bf8d3cf7f3129ae8704", 
+        "latitude": 60.1648, 
+        "longitude": 24.968021, 
+        "name": "Mastokatu", 
+        "timestamp": "2017-08-15T04:49:34.199000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "uid": "052"
+        }, 
+        "free_bikes": 24, 
+        "id": "f36e109143c3a5667c72fa3e53f3743f", 
+        "latitude": 60.1540763, 
+        "longitude": 24.8793159, 
+        "name": "Heikkil\u00e4naukio", 
+        "timestamp": "2017-08-15T04:49:34.202000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "uid": "054"
+        }, 
+        "free_bikes": 23, 
+        "id": "50cb68a0f279cb9cfccaeb7b21457769", 
+        "latitude": 60.1583842, 
+        "longitude": 24.8766658, 
+        "name": "Gyldenintie", 
+        "timestamp": "2017-08-15T04:49:34.204000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": "057"
+        }, 
+        "free_bikes": 29, 
+        "id": "acd9f4d55b49c8b2d98a03ab6f4f0855", 
+        "latitude": 60.1603306, 
+        "longitude": 24.8815441, 
+        "name": "Lauttasaaren ostoskeskus", 
+        "timestamp": "2017-08-15T04:49:34.206000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "uid": "058"
+        }, 
+        "free_bikes": 32, 
+        "id": "8135dfaeae2bf577ebdea42e52b8910d", 
+        "latitude": 60.1615512, 
+        "longitude": 24.8926386, 
+        "name": "Lauttasaarensilta", 
+        "timestamp": "2017-08-15T04:49:34.207000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "061"
+        }, 
+        "free_bikes": 7, 
+        "id": "14c4cd52c417ef49d43810448e1c0313", 
+        "latitude": 60.1589276, 
+        "longitude": 24.909692, 
+        "name": "L\u00e4nsisatamankatu", 
+        "timestamp": "2017-08-15T04:49:34.209000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "uid": "063"
+        }, 
+        "free_bikes": 0, 
+        "id": "c967a0258bf9a45f5067964e6172fc52", 
+        "latitude": 60.1619311, 
+        "longitude": 24.9214896, 
+        "name": "J\u00e4tk\u00e4saarenlaituri", 
+        "timestamp": "2017-08-15T04:49:34.211000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "uid": "100"
+        }, 
+        "free_bikes": 9, 
+        "id": "5cae3d61ff2af7baa52de9b216b6293e", 
+        "latitude": 60.2066706, 
+        "longitude": 24.871352, 
+        "name": "Ulvilanpuisto", 
+        "timestamp": "2017-08-15T04:49:34.214000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "069"
+        }, 
+        "free_bikes": 2, 
+        "id": "cb6a7f2323230164c254c5c909d80ecb", 
+        "latitude": 60.1656962, 
+        "longitude": 24.9314323, 
+        "name": "Kalevankatu", 
+        "timestamp": "2017-08-15T04:49:34.224000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "uid": "102"
+        }, 
+        "free_bikes": 5, 
+        "id": "3e5a58f3a9141934066370ef9e9c4e35", 
+        "latitude": 60.2039914, 
+        "longitude": 24.8857767, 
+        "name": "Niemenm\u00e4enkuja", 
+        "timestamp": "2017-08-15T04:49:34.225000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "uid": "105"
+        }, 
+        "free_bikes": 16, 
+        "id": "fc1f6699a6f7f547f7aa68148c34b728", 
+        "latitude": 60.2028392, 
+        "longitude": 24.8934761, 
+        "name": "Tilkantori", 
+        "timestamp": "2017-08-15T04:49:34.228000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "108"
+        }, 
+        "free_bikes": 3, 
+        "id": "c6eb367cc022da48ca1487a4e7733ec9", 
+        "latitude": 60.204447, 
+        "longitude": 24.917931, 
+        "name": "Radiokatu", 
+        "timestamp": "2017-08-15T04:49:34.230000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "uid": "017"
+        }, 
+        "free_bikes": 0, 
+        "id": "9d57ab84bdcde15d64a1664c01ea8fb9", 
+        "latitude": 60.173099, 
+        "longitude": 24.949636, 
+        "name": "Varsapuistikko", 
+        "timestamp": "2017-08-15T04:49:34.146000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "uid": "020"
+        }, 
+        "free_bikes": 0, 
+        "id": "2fcdb6228d6d3549873464dc8793d683", 
+        "latitude": 60.172958, 
+        "longitude": 24.94292, 
+        "name": "Kaisaniemenpuisto", 
+        "timestamp": "2017-08-15T04:49:34.151000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "uid": "001"
+        }, 
+        "free_bikes": 7, 
+        "id": "5e93e63aec510843146b0b691a747c8e", 
+        "latitude": 60.155411, 
+        "longitude": 24.950391, 
+        "name": "Kaivopuisto", 
+        "timestamp": "2017-08-15T04:49:34.108000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "019"
+        }, 
+        "free_bikes": 14, 
+        "id": "f81b15ece01d35aa2697db52df9c7ba8", 
+        "latitude": 60.17076, 
+        "longitude": 24.942522, 
+        "name": "Rautatientori / it\u00e4", 
+        "timestamp": "2017-08-15T04:49:34.149000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "038"
+        }, 
+        "free_bikes": 0, 
+        "id": "10388240daa03dce0726db54a627d4f4", 
+        "latitude": 60.179141, 
+        "longitude": 24.924981, 
+        "name": "T\u00f6\u00f6l\u00f6ntori", 
+        "timestamp": "2017-08-15T04:49:34.179000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "uid": "023"
+        }, 
+        "free_bikes": 3, 
+        "id": "584e77525465ab5217822e6f6a9f7c39", 
+        "latitude": 60.171413, 
+        "longitude": 24.937402, 
+        "name": "Kiasma", 
+        "timestamp": "2017-08-15T04:49:34.155000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "uid": "005"
+        }, 
+        "free_bikes": 3, 
+        "id": "118ebe0843074bb908d57983d57f3739", 
+        "latitude": 60.157935, 
+        "longitude": 24.936083, 
+        "name": "Sep\u00e4nkatu", 
+        "timestamp": "2017-08-15T04:49:34.118000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": "024"
+        }, 
+        "free_bikes": 3, 
+        "id": "1fa8b979d04d33c09c629de53e9bcac5", 
+        "latitude": 60.169045, 
+        "longitude": 24.939429, 
+        "name": "Mannerheimintie", 
+        "timestamp": "2017-08-15T04:49:34.157000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "004"
+        }, 
+        "free_bikes": 0, 
+        "id": "e7d6364475a29671947f060bdedaef92", 
+        "latitude": 60.160944, 
+        "longitude": 24.941859, 
+        "name": "Viiskulma", 
+        "timestamp": "2017-08-15T04:49:34.116000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": "007"
+        }, 
+        "free_bikes": 2, 
+        "id": "7817d1776d063ee0d2411fb555f7b937", 
+        "latitude": 60.163084, 
+        "longitude": 24.945894, 
+        "name": "Designmuseo", 
+        "timestamp": "2017-08-15T04:49:34.121000Z"
+      }, 
+      {
+        "empty_slots": 34, 
+        "extra": {
+          "uid": "025"
+        }, 
+        "free_bikes": 6, 
+        "id": "f641387c0d3fbf200a901340d632b949", 
+        "latitude": 60.170015, 
+        "longitude": 24.935259, 
+        "name": "Narinkka", 
+        "timestamp": "2017-08-15T04:49:34.158000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "008"
+        }, 
+        "free_bikes": 5, 
+        "id": "8cb372926bf2dee960672f51daa19194", 
+        "latitude": 60.165311, 
+        "longitude": 24.939186, 
+        "name": "Vanha kirkkopuisto", 
+        "timestamp": "2017-08-15T04:49:34.123000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "032"
+        }, 
+        "free_bikes": 0, 
+        "id": "37edaaaed3d70f61d09ada463150023e", 
+        "latitude": 60.171346, 
+        "longitude": 24.931874, 
+        "name": "El\u00e4inmuseo", 
+        "timestamp": "2017-08-15T04:49:34.169000Z"
+      }, 
+      {
+        "empty_slots": 38, 
+        "extra": {
+          "uid": "009"
+        }, 
+        "free_bikes": 4, 
+        "id": "391c07d76d3c0edffdca7cb3d22307fd", 
+        "latitude": 60.167092, 
+        "longitude": 24.944345, 
+        "name": "Erottaja", 
+        "timestamp": "2017-08-15T04:49:34.124000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "uid": "010"
+        }, 
+        "free_bikes": 7, 
+        "id": "2f666e8b73ec941b12a5c48dafc7e068", 
+        "latitude": 60.165018, 
+        "longitude": 24.949497, 
+        "name": "Kasarmitori", 
+        "timestamp": "2017-08-15T04:49:34.131000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": "037"
+        }, 
+        "free_bikes": 6, 
+        "id": "b91b0dc7dfe785f59ecdbbe187ea9fe2", 
+        "latitude": 60.1774947, 
+        "longitude": 24.928409278, 
+        "name": "T\u00f6\u00f6l\u00f6nkatu", 
+        "timestamp": "2017-08-15T04:49:34.177000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "011"
+        }, 
+        "free_bikes": 7, 
+        "id": "90e5d4e341d40be9f561a750886b55ac", 
+        "latitude": 60.167562, 
+        "longitude": 24.951004, 
+        "name": "Unioninkatu", 
+        "timestamp": "2017-08-15T04:49:34.134000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "uid": "036"
+        }, 
+        "free_bikes": 16, 
+        "id": "2c1c0df24c5fd9b98999de2d6ef0f2a6", 
+        "latitude": 60.176076, 
+        "longitude": 24.922503, 
+        "name": "Apollonkatu", 
+        "timestamp": "2017-08-15T04:49:34.176000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "033"
+        }, 
+        "free_bikes": 5, 
+        "id": "087aed9505e2f06b74fbd6b96486c4d8", 
+        "latitude": 60.171155, 
+        "longitude": 24.92506, 
+        "name": "Kauppakorkeakoulu", 
+        "timestamp": "2017-08-15T04:49:34.171000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "016"
+        }, 
+        "free_bikes": 7, 
+        "id": "5d07a8fc3ba2ba51625e9993e61a491b", 
+        "latitude": 60.174175, 
+        "longitude": 24.96148, 
+        "name": "Liisanpuistikko", 
+        "timestamp": "2017-08-15T04:49:34.142000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "uid": "014"
+        }, 
+        "free_bikes": 5, 
+        "id": "e5b5f6a2608231021917b7cda1d9ca29", 
+        "latitude": 60.169106, 
+        "longitude": 24.952527, 
+        "name": "Senaatintori", 
+        "timestamp": "2017-08-15T04:49:34.139000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "028"
+        }, 
+        "free_bikes": 1, 
+        "id": "54ecd4e4ef4da2ae30bd87b782e0ea8f", 
+        "latitude": 60.165754, 
+        "longitude": 24.92705, 
+        "name": "Lastenlehto", 
+        "timestamp": "2017-08-15T04:49:34.163000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "031"
+        }, 
+        "free_bikes": 8, 
+        "id": "99d08d7a43ca40292e4ac763fabf2fa8", 
+        "latitude": 60.168335, 
+        "longitude": 24.92277, 
+        "name": "Marian Sairaala", 
+        "timestamp": "2017-08-15T04:49:34.168000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "021"
+        }, 
+        "free_bikes": 18, 
+        "id": "f65b68cc5f19045a8b07f59f47b5b010", 
+        "latitude": 60.17291, 
+        "longitude": 24.93913, 
+        "name": "T\u00f6\u00f6l\u00f6nlahdenkatu", 
+        "timestamp": "2017-08-15T04:49:34.153000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "070"
+        }, 
+        "free_bikes": 3, 
+        "id": "e0ce4d52ad45f20a47b59a9cab66c435", 
+        "latitude": 60.1731473, 
+        "longitude": 24.9224112, 
+        "name": "Sammonpuistikko", 
+        "timestamp": "2017-08-15T04:49:34.053000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "071"
+        }, 
+        "free_bikes": 10, 
+        "id": "0b70d631055f2edc1978581e2b2a20c7", 
+        "latitude": 60.17263, 
+        "longitude": 24.911406, 
+        "name": "Hietaniemenkatu", 
+        "timestamp": "2017-08-15T04:49:34.055000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "075"
+        }, 
+        "free_bikes": 0, 
+        "id": "18ec8a3291783f4d54976e6fcd5a859b", 
+        "latitude": 60.1838677, 
+        "longitude": 24.9198371, 
+        "name": "Korjaamo", 
+        "timestamp": "2017-08-15T04:49:34.063000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": "076"
+        }, 
+        "free_bikes": 1, 
+        "id": "ab0741899ad5f591a56875982727bfe8", 
+        "latitude": 60.1845055, 
+        "longitude": 24.9249741, 
+        "name": "Olympiastadion", 
+        "timestamp": "2017-08-15T04:49:34.065000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "uid": "078"
+        }, 
+        "free_bikes": 1, 
+        "id": "d2e450bc32529e8d797be1d29cef3e4a", 
+        "latitude": 60.1878352, 
+        "longitude": 24.9180102, 
+        "name": "Messeniuksenkatu", 
+        "timestamp": "2017-08-15T04:49:34.067000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": "111"
+        }, 
+        "free_bikes": 13, 
+        "id": "3edda9b7dea10d5ecc603ea2fbf82073", 
+        "latitude": 60.1975724, 
+        "longitude": 24.9267808, 
+        "name": "Esterinportti", 
+        "timestamp": "2017-08-15T04:49:34.069000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "079"
+        }, 
+        "free_bikes": 8, 
+        "id": "b959f9946b9807f91152628cad187349", 
+        "latitude": 60.1892172, 
+        "longitude": 24.9292286, 
+        "name": "Uimastadion", 
+        "timestamp": "2017-08-15T04:49:34.070000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "112"
+        }, 
+        "free_bikes": 6, 
+        "id": "4d0d7dfbf120055a9638e81369e90474", 
+        "latitude": 60.2014382, 
+        "longitude": 24.9332721, 
+        "name": "Rautatiel\u00e4isenkatu", 
+        "timestamp": "2017-08-15T04:49:34.071000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "115"
+        }, 
+        "free_bikes": 1, 
+        "id": "ad22db44a62ee3fb4fa7fbf881b14115", 
+        "latitude": 60.1942095, 
+        "longitude": 24.941578, 
+        "name": "Venttiilikuja", 
+        "timestamp": "2017-08-15T04:49:34.077000Z"
+      }, 
+      {
+        "empty_slots": 32, 
+        "extra": {
+          "uid": "116"
+        }, 
+        "free_bikes": 0, 
+        "id": "0fd93d7fd95050ed1a84744a555a9120", 
+        "latitude": 60.1911411, 
+        "longitude": 24.9401593, 
+        "name": "Linnanm\u00e4ki", 
+        "timestamp": "2017-08-15T04:49:34.078000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "118"
+        }, 
+        "free_bikes": 2, 
+        "id": "b19f98e13950232a03ac0253fda13373", 
+        "latitude": 60.1895417, 
+        "longitude": 24.9521601, 
+        "name": "Fleminginkatu", 
+        "timestamp": "2017-08-15T04:49:34.080000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "119"
+        }, 
+        "free_bikes": 6, 
+        "id": "61d758ff14f7359e05c12bc59b73a705", 
+        "latitude": 60.1907096, 
+        "longitude": 24.9568729, 
+        "name": "Gebhardinaukio", 
+        "timestamp": "2017-08-15T04:49:34.084000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": "085"
+        }, 
+        "free_bikes": 4, 
+        "id": "abc2f81e5410f0a036bf9b58d8941814", 
+        "latitude": 60.1934696, 
+        "longitude": 24.905889, 
+        "name": "Jalavatie", 
+        "timestamp": "2017-08-15T04:49:34.089000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "uid": "120"
+        }, 
+        "free_bikes": 3, 
+        "id": "9db5162539e3be369da826838065e176", 
+        "latitude": 60.1896352, 
+        "longitude": 24.9635596, 
+        "name": "M\u00e4kel\u00e4nkatu", 
+        "timestamp": "2017-08-15T04:49:34.095000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": "089"
+        }, 
+        "free_bikes": 3, 
+        "id": "03cd48db7343b62ceeb8c62cefd71334", 
+        "latitude": 60.1975329, 
+        "longitude": 24.899261, 
+        "name": "Tilkanvierto", 
+        "timestamp": "2017-08-15T04:49:34.109000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "122"
+        }, 
+        "free_bikes": 11, 
+        "id": "d6e1c2b7cab65e4b0cf39be6af30cc6a", 
+        "latitude": 60.1837182, 
+        "longitude": 24.9621936, 
+        "name": "Lintulahdenkatu", 
+        "timestamp": "2017-08-15T04:49:34.110000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "125"
+        }, 
+        "free_bikes": 24, 
+        "id": "c266d627b510c4ab43632d3bbbccb32c", 
+        "latitude": 60.1847821, 
+        "longitude": 24.9786428, 
+        "name": "Arielinkatu", 
+        "timestamp": "2017-08-15T04:49:34.117000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "126"
+        }, 
+        "free_bikes": 6, 
+        "id": "1099ea376c74cd14567299d4477044a0", 
+        "latitude": 60.188399, 
+        "longitude": 24.975852, 
+        "name": "Kalasataman metroasema", 
+        "timestamp": "2017-08-15T04:49:34.118000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "uid": "091"
+        }, 
+        "free_bikes": 0, 
+        "id": "1e9ee9fdafb05635eb445e3fa8c7b505", 
+        "latitude": 60.188399, 
+        "longitude": 24.8847362, 
+        "name": "Seurasaari", 
+        "timestamp": "2017-08-15T04:49:34.125000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "092"
+        }, 
+        "free_bikes": 4, 
+        "id": "4ce422d54d0a35e80bc7242dc87f2095", 
+        "latitude": 60.1928927, 
+        "longitude": 24.878452, 
+        "name": "Saunalahdentie", 
+        "timestamp": "2017-08-15T04:49:34.126000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "095"
+        }, 
+        "free_bikes": 9, 
+        "id": "a8d1b533809b86657099a0e9bbc5eef3", 
+        "latitude": 60.1967196, 
+        "longitude": 24.8840917, 
+        "name": "Munkkiniemen aukio", 
+        "timestamp": "2017-08-15T04:49:34.128000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "uid": "097"
+        }, 
+        "free_bikes": 7, 
+        "id": "889afa75b5700476e51f2bf740318f0b", 
+        "latitude": 60.2006837, 
+        "longitude": 24.8766846, 
+        "name": "Professorintie", 
+        "timestamp": "2017-08-15T04:49:34.130000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "130"
+        }, 
+        "free_bikes": 5, 
+        "id": "84f7d5429014d4a44e4b8e0c96274158", 
+        "latitude": 60.193486, 
+        "longitude": 24.9487524, 
+        "name": "Teollisuuskatu", 
+        "timestamp": "2017-08-15T04:49:34.130000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "098"
+        }, 
+        "free_bikes": 3, 
+        "id": "8b67b4057b47472655af37e1ed8c765f", 
+        "latitude": 60.2038803, 
+        "longitude": 24.8708833, 
+        "name": "Ulvilantie", 
+        "timestamp": "2017-08-15T04:49:34.132000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "099"
+        }, 
+        "free_bikes": 0, 
+        "id": "b4bda3b32ca053af8b3f70f033b95304", 
+        "latitude": 60.2071193, 
+        "longitude": 24.8559544, 
+        "name": "Muusantori", 
+        "timestamp": "2017-08-15T04:49:34.135000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "133"
+        }, 
+        "free_bikes": 6, 
+        "id": "d278884008c1f89b6785192d7bdb1713", 
+        "latitude": 60.1974886, 
+        "longitude": 24.9614385, 
+        "name": "Paavalinpuisto", 
+        "timestamp": "2017-08-15T04:49:34.136000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "134"
+        }, 
+        "free_bikes": 13, 
+        "id": "f260a25d7217bc4ca4946c156f6b2615", 
+        "latitude": 60.1985314, 
+        "longitude": 24.9676708, 
+        "name": "Haukilahdenkatu", 
+        "timestamp": "2017-08-15T04:49:34.138000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "135"
+        }, 
+        "free_bikes": 4, 
+        "id": "d92c230dcbd433738707ee4b1d7f150b", 
+        "latitude": 60.2010614, 
+        "longitude": 24.9440506, 
+        "name": "Velodrominrinne", 
+        "timestamp": "2017-08-15T04:49:34.140000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "136"
+        }, 
+        "free_bikes": 6, 
+        "id": "98e39df220af06356d756b7d1e1327d0", 
+        "latitude": 60.2032721, 
+        "longitude": 24.9513636, 
+        "name": "Sofianlehdonkatu", 
+        "timestamp": "2017-08-15T04:49:34.141000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "137"
+        }, 
+        "free_bikes": 24, 
+        "id": "f3c98bb707d9ca0381aa8b29a0e23007", 
+        "latitude": 60.2027912, 
+        "longitude": 24.9666128, 
+        "name": "Arabian kauppakeskus", 
+        "timestamp": "2017-08-15T04:49:34.145000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "uid": "138"
+        }, 
+        "free_bikes": 16, 
+        "id": "6367d946b1d63268c7f1119d65a706f2", 
+        "latitude": 60.2064085, 
+        "longitude": 24.9765672, 
+        "name": "Arabiankatu", 
+        "timestamp": "2017-08-15T04:49:34.147000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "140"
+        }, 
+        "free_bikes": 10, 
+        "id": "8e9b0e43014cdad95d7055c6573b0249", 
+        "latitude": 60.2137007, 
+        "longitude": 24.9797283, 
+        "name": "Verkatehtaanpuisto", 
+        "timestamp": "2017-08-15T04:49:34.150000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "141"
+        }, 
+        "free_bikes": 14, 
+        "id": "ae76a2c579c72d213727950b6ba7e1f1", 
+        "latitude": 60.2078582, 
+        "longitude": 24.9676383, 
+        "name": "Intiankatu", 
+        "timestamp": "2017-08-15T04:49:34.152000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "uid": "142"
+        }, 
+        "free_bikes": 11, 
+        "id": "6dd67e79ee1426fe22478b3e664b7319", 
+        "latitude": 60.208749, 
+        "longitude": 24.9465139, 
+        "name": "Koskelantie", 
+        "timestamp": "2017-08-15T04:49:34.153000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "145"
+        }, 
+        "free_bikes": 8, 
+        "id": "70f4fcc090581b1a8aec61bdb1cfd3ee", 
+        "latitude": 60.213421, 
+        "longitude": 24.9437964, 
+        "name": "Pohjolankatu", 
+        "timestamp": "2017-08-15T04:49:34.158000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "146"
+        }, 
+        "free_bikes": 14, 
+        "id": "0b47370a4249132f08f9226065237576", 
+        "latitude": 60.2172043, 
+        "longitude": 24.9544112, 
+        "name": "Pohjolanaukio", 
+        "timestamp": "2017-08-15T04:49:34.159000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": "147"
+        }, 
+        "free_bikes": 6, 
+        "id": "579d0d078aaa4e979b4da2794fae2f6c", 
+        "latitude": 60.220227, 
+        "longitude": 24.948694, 
+        "name": "K\u00e4pyl\u00e4n asema", 
+        "timestamp": "2017-08-15T04:49:34.161000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "uid": "150"
+        }, 
+        "free_bikes": 2, 
+        "id": "c0af3fa79ff889dcab400b84b2572e1f", 
+        "latitude": 60.1766793, 
+        "longitude": 24.9338701, 
+        "name": "T\u00f6\u00f6l\u00f6nlahden puisto", 
+        "timestamp": "2017-08-15T04:49:34.165000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": "151"
+        }, 
+        "free_bikes": 7, 
+        "id": "1d8abf1a2198e76d4b2bdae269689531", 
+        "latitude": 60.174524, 
+        "longitude": 24.729314, 
+        "name": "Ruomelantie", 
+        "timestamp": "2017-08-15T04:49:34.167000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": "152"
+        }, 
+        "free_bikes": 10, 
+        "id": "10b34f7afa7ad26d9763ffbc149e985a", 
+        "latitude": 60.168971, 
+        "longitude": 24.724908, 
+        "name": "Friisinkalliontie", 
+        "timestamp": "2017-08-15T04:49:34.169000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": "153"
+        }, 
+        "free_bikes": 15, 
+        "id": "1d8b2f8bd7fbfe89c618bf2a7a5f8b05", 
+        "latitude": 60.172673, 
+        "longitude": 24.726025, 
+        "name": "Kuunkatu", 
+        "timestamp": "2017-08-15T04:49:34.171000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "154"
+        }, 
+        "free_bikes": 8, 
+        "id": "8450c43cac731999d69fa16e46c2fa80", 
+        "latitude": 60.167216, 
+        "longitude": 24.735969, 
+        "name": "Olarinkatu", 
+        "timestamp": "2017-08-15T04:49:34.172000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "uid": "155"
+        }, 
+        "free_bikes": 11, 
+        "id": "d64b9cd517aacae8a7c911af6a4e3237", 
+        "latitude": 60.162403, 
+        "longitude": 24.738416, 
+        "name": "Piispansilta", 
+        "timestamp": "2017-08-15T04:49:34.174000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "156"
+        }, 
+        "free_bikes": 18, 
+        "id": "43df2c97bcb9e77b2b293cd1b095c7f1", 
+        "latitude": 60.159537, 
+        "longitude": 24.7383, 
+        "name": "Suomenlahdentie", 
+        "timestamp": "2017-08-15T04:49:34.175000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "160"
+        }, 
+        "free_bikes": 7, 
+        "id": "bd8b5ebf8c56970a9d8b5ea125400a1e", 
+        "latitude": 60.147974, 
+        "longitude": 24.754344, 
+        "name": "Nokkala", 
+        "timestamp": "2017-08-15T04:49:34.182000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "041"
+        }, 
+        "free_bikes": 26, 
+        "id": "5d71dc7c702527c1cafcd88674750fe5", 
+        "latitude": 60.180808, 
+        "longitude": 24.949272, 
+        "name": "Ympyr\u00e4talo", 
+        "timestamp": "2017-08-15T04:49:34.186000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "042"
+        }, 
+        "free_bikes": 4, 
+        "id": "21588724e5a9b1c5bd70af9eabc00fe5", 
+        "latitude": 60.181907, 
+        "longitude": 24.95688, 
+        "name": "Haapaniemenkatu", 
+        "timestamp": "2017-08-15T04:49:34.190000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": "043"
+        }, 
+        "free_bikes": 0, 
+        "id": "d03a5f077dd43c3979cac9bf1cff04f7", 
+        "latitude": 60.184283, 
+        "longitude": 24.952703, 
+        "name": "Karhupuisto", 
+        "timestamp": "2017-08-15T04:49:34.191000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "uid": "047"
+        }, 
+        "free_bikes": 1, 
+        "id": "fec75e528ae791012977771a95347a1e", 
+        "latitude": 60.167626, 
+        "longitude": 24.95643, 
+        "name": "Kauppatori", 
+        "timestamp": "2017-08-15T04:49:34.198000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": "050"
+        }, 
+        "free_bikes": 9, 
+        "id": "c1d0a54a993645c5727c5ceeee027d31", 
+        "latitude": 60.1498127, 
+        "longitude": 24.8861094, 
+        "name": "Melkonkuja", 
+        "timestamp": "2017-08-15T04:49:34.200000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "uid": "051"
+        }, 
+        "free_bikes": 20, 
+        "id": "b45fb7c532fef6f4e281ac4fefdaede9", 
+        "latitude": 60.15066, 
+        "longitude": 24.8812502, 
+        "name": "It\u00e4lahdenkatu", 
+        "timestamp": "2017-08-15T04:49:34.201000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "055"
+        }, 
+        "free_bikes": 5, 
+        "id": "4b98e3eb5358d1dbe8af810c12c6c538", 
+        "latitude": 60.1617736, 
+        "longitude": 24.8679212, 
+        "name": "Lahnalahdentie", 
+        "timestamp": "2017-08-15T04:49:34.205000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": "056"
+        }, 
+        "free_bikes": 4, 
+        "id": "61b7df21d32a35c1373ea63c4464a23d", 
+        "latitude": 60.1654485, 
+        "longitude": 24.8601992, 
+        "name": "Luoteisv\u00e4yl\u00e4", 
+        "timestamp": "2017-08-15T04:49:34.205000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": "060"
+        }, 
+        "free_bikes": 18, 
+        "id": "4032a835517e64cadf3a6629d9f3dd2b", 
+        "latitude": 60.1632493, 
+        "longitude": 24.905336, 
+        "name": "Porkkalankatu", 
+        "timestamp": "2017-08-15T04:49:34.208000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": "062"
+        }, 
+        "free_bikes": 7, 
+        "id": "209b27e71a4adee70b94456585ff49fc", 
+        "latitude": 60.1610901, 
+        "longitude": 24.9158734, 
+        "name": "Messityt\u00f6nkatu", 
+        "timestamp": "2017-08-15T04:49:34.210000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "064"
+        }, 
+        "free_bikes": 13, 
+        "id": "59015ea86581ea03ecc8d8c096655e1c", 
+        "latitude": 60.1565255, 
+        "longitude": 24.9217464, 
+        "name": "Tyynenmerenkatu", 
+        "timestamp": "2017-08-15T04:49:34.212000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "uid": "065"
+        }, 
+        "free_bikes": 13, 
+        "id": "13908ca465c319b5e810faf120a68634", 
+        "latitude": 60.1546505, 
+        "longitude": 24.9314755, 
+        "name": "Hylkeenpyyt\u00e4j\u00e4nkatu", 
+        "timestamp": "2017-08-15T04:49:34.213000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": "066"
+        }, 
+        "free_bikes": 16, 
+        "id": "642d4b50171940e4fe703afb7d802128", 
+        "latitude": 60.155309, 
+        "longitude": 24.9591271, 
+        "name": "Ehrenstr\u00f6mintie", 
+        "timestamp": "2017-08-15T04:49:34.213000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "uid": "101"
+        }, 
+        "free_bikes": 24, 
+        "id": "6ee3e23da86fc75c6f11a707fb805747", 
+        "latitude": 60.2059946, 
+        "longitude": 24.8798291, 
+        "name": "Munkkivuoren ostoskeskus", 
+        "timestamp": "2017-08-15T04:49:34.220000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": "103"
+        }, 
+        "free_bikes": 1, 
+        "id": "0c46b7b4b12b2b285c83817331c19b8e", 
+        "latitude": 60.208925, 
+        "longitude": 24.8895209, 
+        "name": "Vihdintie", 
+        "timestamp": "2017-08-15T04:49:34.226000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": "104"
+        }, 
+        "free_bikes": 5, 
+        "id": "ad9e0a5db64eaef1d584fc06c209273e", 
+        "latitude": 60.2056785, 
+        "longitude": 24.8916817, 
+        "name": "Kriikunakuja", 
+        "timestamp": "2017-08-15T04:49:34.227000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": "106"
+        }, 
+        "free_bikes": 12, 
+        "id": "040440dad1795e9052e88b2e0088ea12", 
+        "latitude": 60.2034735, 
+        "longitude": 24.8989297, 
+        "name": "Korppaanm\u00e4entie", 
+        "timestamp": "2017-08-15T04:49:34.229000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "uid": "107"
+        }, 
+        "free_bikes": 15, 
+        "id": "a9743cfde075f5757333ab97c1ad33e8", 
+        "latitude": 60.2024393, 
+        "longitude": 24.9054609, 
+        "name": "Tenholantie", 
+        "timestamp": "2017-08-15T04:49:34.229000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": "109"
+        }, 
+        "free_bikes": 5, 
+        "id": "1ae9a58b957f24307b033b0dca85a1d4", 
+        "latitude": 60.202336, 
+        "longitude": 24.922654, 
+        "name": "Hertanm\u00e4enkatu", 
+        "timestamp": "2017-08-15T04:49:34.231000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": "121"
+        }, 
+        "free_bikes": 4, 
+        "id": "4f9d39370f89c01556e6198029d28dbc", 
+        "latitude": 60.1864633, 
+        "longitude": 24.9678718, 
+        "name": "Vilhonvuorenkatu", 
+        "timestamp": "2017-08-15T04:49:34.107000Z"
+      }
+    ]
+  }
+}

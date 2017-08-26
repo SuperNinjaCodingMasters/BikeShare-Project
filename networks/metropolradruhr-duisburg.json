@@ -1,0 +1,621 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/metropolradruhr-duisburg", 
+    "id": "metropolradruhr-duisburg", 
+    "location": {
+      "city": "Duisburg", 
+      "country": "DE", 
+      "latitude": 51.4487, 
+      "longitude": 6.77513
+    }, 
+    "name": "metropolradruhr", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "7420", 
+          "slots": 10, 
+          "uid": "137834"
+        }, 
+        "free_bikes": 0, 
+        "id": "d2104be49028108098e255c7a5b6bfda", 
+        "latitude": 51.43326013768, 
+        "longitude": 6.8063575029373, 
+        "name": "Zoo", 
+        "timestamp": "2017-08-15T04:46:06.960000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "50109", 
+            "51090"
+          ], 
+          "number": "7406", 
+          "slots": 8, 
+          "uid": "50416"
+        }, 
+        "free_bikes": 2, 
+        "id": "84defcfc7b79b666a65a8a1b6dfd4dd6", 
+        "latitude": 51.467703639813, 
+        "longitude": 6.7801094055176, 
+        "name": "Meiderich S\u00fcdbahnhof", 
+        "timestamp": "2017-08-15T04:46:06.952000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "53447", 
+            "52938"
+          ], 
+          "number": "7417", 
+          "slots": 8, 
+          "uid": "50417"
+        }, 
+        "free_bikes": 2, 
+        "id": "c3ce5c2a59b90b0a5b9e573ede05773e", 
+        "latitude": 51.480494236586, 
+        "longitude": 6.7836928367615, 
+        "name": "H\u00fcttenwerk / Eingang Landschaftspark", 
+        "timestamp": "2017-08-15T04:46:06.955000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "number": "7411", 
+          "slots": 6, 
+          "uid": "50402"
+        }, 
+        "free_bikes": 0, 
+        "id": "fbd21ed6c1039af29f5e29191864d062", 
+        "latitude": 51.433333712588, 
+        "longitude": 6.7684203386307, 
+        "name": "Forum", 
+        "timestamp": "2017-08-15T04:46:06.937000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "31085", 
+            "50862", 
+            "53842", 
+            "53318", 
+            "53696"
+          ], 
+          "number": "7410", 
+          "slots": 10, 
+          "uid": "50403"
+        }, 
+        "free_bikes": 6, 
+        "id": "92cc6a3c0a08b613986d7ccae5709f4e", 
+        "latitude": 51.430631429122, 
+        "longitude": 6.7734736204147, 
+        "name": "Hauptbahnhof Haupteingang ", 
+        "timestamp": "2017-08-15T04:46:06.939000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "50733", 
+            "51288", 
+            "52640", 
+            "50773", 
+            "51372"
+          ], 
+          "number": "7404", 
+          "slots": 13, 
+          "uid": "50404"
+        }, 
+        "free_bikes": 7, 
+        "id": "d3e571ab24764d18720589ad5316c235", 
+        "latitude": 51.42942404537, 
+        "longitude": 6.7771697044373, 
+        "name": "Hauptbahnhof Osteingang", 
+        "timestamp": "2017-08-15T04:46:06.940000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "53112", 
+            "53281", 
+            "53467", 
+            "51323"
+          ], 
+          "number": "7407", 
+          "slots": 12, 
+          "uid": "50406"
+        }, 
+        "free_bikes": 4, 
+        "id": "1c5102f62714fdfa678668d6b42471a5", 
+        "latitude": 51.440553510154, 
+        "longitude": 6.7702066898346, 
+        "name": "Explorado", 
+        "timestamp": "2017-08-15T04:46:06.945000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "50727", 
+            "50377", 
+            "50995", 
+            "53516"
+          ], 
+          "number": "7401", 
+          "slots": 12, 
+          "uid": "50407"
+        }, 
+        "free_bikes": 4, 
+        "id": "b87d8534e47c4ea2fa747ea3e6dfe41f", 
+        "latitude": 51.4309485516, 
+        "longitude": 6.76545826151, 
+        "name": "Lehmbruckmuseum", 
+        "timestamp": "2017-08-15T04:46:06.946000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "52042", 
+            "51110", 
+            "53897"
+          ], 
+          "number": "7412", 
+          "slots": 12, 
+          "uid": "50410"
+        }, 
+        "free_bikes": 3, 
+        "id": "2b2a2da361506247bab61b7ddef5fea5", 
+        "latitude": 51.435851909606, 
+        "longitude": 6.7581582069397, 
+        "name": "Schwanentor", 
+        "timestamp": "2017-08-15T04:46:06.946000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "50813", 
+            "51374", 
+            "53649", 
+            "52953", 
+            "50696"
+          ], 
+          "number": "7403", 
+          "slots": 6, 
+          "uid": "50411"
+        }, 
+        "free_bikes": 5, 
+        "id": "6c749f591b6606cf3ea87fac271fa209", 
+        "latitude": 51.434676500801, 
+        "longitude": 6.7697766255151, 
+        "name": "Stadttheater", 
+        "timestamp": "2017-08-15T04:46:06.947000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "50015", 
+            "50358", 
+            "51338", 
+            "52309", 
+            "53028"
+          ], 
+          "number": "7413", 
+          "slots": 20, 
+          "uid": "50414"
+        }, 
+        "free_bikes": 13, 
+        "id": "848cf8f95a7808ae73d1bb06f7f48f4d", 
+        "latitude": 51.4315503636, 
+        "longitude": 6.77508831737, 
+        "name": "Hauptbahnhof Verkn\u00fcpfungshalle West", 
+        "timestamp": "2017-08-15T04:46:06.949000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "50055", 
+            "53901", 
+            "53886"
+          ], 
+          "number": "7408", 
+          "slots": 6, 
+          "uid": "106222"
+        }, 
+        "free_bikes": 3, 
+        "id": "656ccb0411724cbd06d9c5c1d9b9aa24", 
+        "latitude": 51.435213176889, 
+        "longitude": 6.7617040872574, 
+        "name": "Rathaus / Burgplatz", 
+        "timestamp": "2017-08-15T04:46:06.955000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "50355", 
+            "50206", 
+            "50725", 
+            "53877", 
+            "52886"
+          ], 
+          "number": "7418", 
+          "slots": 12, 
+          "uid": "137831"
+        }, 
+        "free_bikes": 13, 
+        "id": "5b18637cd96dc21bbc86871d019eecc3", 
+        "latitude": 51.431878914, 
+        "longitude": 6.7784357070923, 
+        "name": "Hauptbahnhof Verkn\u00fcpfungshalle Ost", 
+        "timestamp": "2017-08-15T04:46:06.958000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "50101", 
+            "51314", 
+            "53261"
+          ], 
+          "number": "7419", 
+          "slots": 10, 
+          "uid": "137832"
+        }, 
+        "free_bikes": 3, 
+        "id": "4f122fe1e9fb424c9627d33a5f89f562", 
+        "latitude": 51.424547361955, 
+        "longitude": 6.7815256118774, 
+        "name": "Neudorfer Markt", 
+        "timestamp": "2017-08-15T04:46:06.959000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "50332", 
+            "50453", 
+            "53232"
+          ], 
+          "number": "7424", 
+          "slots": 8, 
+          "uid": "137836"
+        }, 
+        "free_bikes": 3, 
+        "id": "357de434db5e58afd90c880044501672", 
+        "latitude": 51.455838726456, 
+        "longitude": 6.7350161075592, 
+        "name": "Friedrichsplatz", 
+        "timestamp": "2017-08-15T04:46:06.963000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "50811", 
+            "50977", 
+            "53229"
+          ], 
+          "number": "7425", 
+          "slots": 8, 
+          "uid": "137837"
+        }, 
+        "free_bikes": 3, 
+        "id": "9b1fc251dd14b6927138683ebe5a64fc", 
+        "latitude": 51.428250076558, 
+        "longitude": 6.7856186628342, 
+        "name": "Oststr.", 
+        "timestamp": "2017-08-15T04:46:06.964000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "50563", 
+            "52653", 
+            "52961", 
+            "52852"
+          ], 
+          "number": "7427", 
+          "slots": 8, 
+          "uid": "137844"
+        }, 
+        "free_bikes": 4, 
+        "id": "107a14e31569826454c495d1ae2c34b9", 
+        "latitude": 51.404459842002, 
+        "longitude": 6.7811930179596, 
+        "name": "Sportschule Wedau", 
+        "timestamp": "2017-08-15T04:46:06.965000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "50353", 
+            "53518", 
+            "53570"
+          ], 
+          "number": "7422", 
+          "slots": 10, 
+          "uid": "159858"
+        }, 
+        "free_bikes": 3, 
+        "id": "cc77a52c67b02ee3d744d11b03500453", 
+        "latitude": 51.427296831829, 
+        "longitude": 6.7978119850159, 
+        "name": "Uni Lotharstr. / Walramsweg", 
+        "timestamp": "2017-08-15T04:46:06.968000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "50209", 
+            "52686"
+          ], 
+          "number": "7423", 
+          "slots": 8, 
+          "uid": "191057"
+        }, 
+        "free_bikes": 2, 
+        "id": "13872c2e4ec3e894aa810ad271d2ea24", 
+        "latitude": 51.451359337495, 
+        "longitude": 6.7380523681641, 
+        "name": "Tausendfensterhaus", 
+        "timestamp": "2017-08-15T04:46:06.969000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "52812", 
+            "53625", 
+            "53750"
+          ], 
+          "number": "7430", 
+          "slots": 8, 
+          "uid": "191058"
+        }, 
+        "free_bikes": 3, 
+        "id": "79d9bd4286bd89addbb9337693657157", 
+        "latitude": 51.439262791767, 
+        "longitude": 6.78288012743, 
+        "name": "Duissern ", 
+        "timestamp": "2017-08-15T04:46:06.971000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "number": "7432", 
+          "slots": 10, 
+          "uid": "191059"
+        }, 
+        "free_bikes": 0, 
+        "id": "a55d48179ee11aa575db20f942207dec", 
+        "latitude": 51.431444137615, 
+        "longitude": 6.75911039114, 
+        "name": "Sonnenwall BZA Mitte", 
+        "timestamp": "2017-08-15T04:46:06.975000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "52394", 
+            "52973"
+          ], 
+          "number": "7426", 
+          "slots": 14, 
+          "uid": "200830"
+        }, 
+        "free_bikes": 2, 
+        "id": "bee7773d719a72259ca8609719f4b28d", 
+        "latitude": 51.410604803294, 
+        "longitude": 6.7777190206471, 
+        "name": "Jugendherberge / MSV Stadion", 
+        "timestamp": "2017-08-15T04:46:06.979000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "50885", 
+            "53528", 
+            "52874"
+          ], 
+          "number": "7436", 
+          "slots": 8, 
+          "uid": "319645"
+        }, 
+        "free_bikes": 3, 
+        "id": "924dbbface688ae7135c02bb3a08c41d", 
+        "latitude": 51.398445921583, 
+        "longitude": 6.7840039730072, 
+        "name": "Klinikum Duisburg", 
+        "timestamp": "2017-08-15T04:46:06.982000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "50197", 
+            "50176", 
+            "51286", 
+            "53061", 
+            "51252"
+          ], 
+          "number": "7405", 
+          "slots": 10, 
+          "uid": "803752"
+        }, 
+        "free_bikes": 8, 
+        "id": "ea8a41c8bf7b36f721cc15cbbf1ffd8c", 
+        "latitude": 51.42228, 
+        "longitude": 6.791842, 
+        "name": "Kammerstra\u00dfe/Wohnheim", 
+        "timestamp": "2017-08-15T04:46:06.988000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "50030", 
+            "50110", 
+            "00888", 
+            "51036", 
+            "51281"
+          ], 
+          "number": "7409", 
+          "slots": 6, 
+          "uid": "803768"
+        }, 
+        "free_bikes": 12, 
+        "id": "c36664727f03c242c5cebfdbd46366fb", 
+        "latitude": 51.441347, 
+        "longitude": 6.751981, 
+        "name": "Ruhrorter Stra\u00dfe/Wohnheim", 
+        "timestamp": "2017-08-15T04:46:06.989000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "50901", 
+            "51377", 
+            "51207", 
+            "52828", 
+            "52130"
+          ], 
+          "number": "7415", 
+          "slots": 12, 
+          "uid": "50401"
+        }, 
+        "free_bikes": 8, 
+        "id": "de853cc41d91fad52f7a9fd511435546", 
+        "latitude": 51.430189951783, 
+        "longitude": 6.7620098590851, 
+        "name": "Dellplatz", 
+        "timestamp": "2017-08-15T04:46:06.928000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "04702", 
+            "50086", 
+            "51318", 
+            "52925", 
+            "53534"
+          ], 
+          "number": "7402", 
+          "slots": 12, 
+          "uid": "50412"
+        }, 
+        "free_bikes": 6, 
+        "id": "1f840e5d890ed2fb6972d819bd41a267", 
+        "latitude": 51.434099553462, 
+        "longitude": 6.7629539966583, 
+        "name": "Rathaus / Kuhstr.", 
+        "timestamp": "2017-08-15T04:46:06.948000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "7414", 
+          "slots": 6, 
+          "uid": "50415"
+        }, 
+        "free_bikes": 0, 
+        "id": "6d936d98063fcd2a1726deb5ceddcf29", 
+        "latitude": 51.438450222364, 
+        "longitude": 6.7646545171738, 
+        "name": "Yitzhak-Rabin-Platz", 
+        "timestamp": "2017-08-15T04:46:06.951000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "51274"
+          ], 
+          "number": "7433", 
+          "slots": 10, 
+          "uid": "191060"
+        }, 
+        "free_bikes": 1, 
+        "id": "9a110dbc93955f27d0ecbee71eb80e01", 
+        "latitude": 51.442713542742, 
+        "longitude": 6.7701798677445, 
+        "name": "Innenhafen Nord", 
+        "timestamp": "2017-08-15T04:46:06.978000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "51117", 
+            "50495"
+          ], 
+          "number": "7421", 
+          "slots": 10, 
+          "uid": "137835"
+        }, 
+        "free_bikes": 2, 
+        "id": "c7b3fb2dbc5b0e88fa487291a8176dc6", 
+        "latitude": 51.43313974212, 
+        "longitude": 6.7997646331787, 
+        "name": "Uni-Nord Lotharstr.", 
+        "timestamp": "2017-08-15T04:46:06.962000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "53602", 
+            "53559", 
+            "51243"
+          ], 
+          "number": "7437", 
+          "uid": "338464"
+        }, 
+        "free_bikes": 3, 
+        "id": "205abc17827224b1cc42869a9d6cb2bf", 
+        "latitude": 51.42598576, 
+        "longitude": 6.76493443, 
+        "name": "Bocksbarttrasse", 
+        "timestamp": "2017-08-15T04:46:06.987000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "51354", 
+            "50761", 
+            "50790", 
+            "53355", 
+            "50162"
+          ], 
+          "number": "7435", 
+          "slots": 8, 
+          "uid": "319644"
+        }, 
+        "free_bikes": 5, 
+        "id": "cc3fd41df8cbb8669e556bb24d9c20af", 
+        "latitude": 51.400999508043, 
+        "longitude": 6.7721110582352, 
+        "name": "Bahnhof Schlenk", 
+        "timestamp": "2017-08-15T04:46:06.981000Z"
+      }
+    ]
+  }
+}

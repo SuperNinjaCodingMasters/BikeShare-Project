@@ -1,0 +1,755 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_fortworth/gbfs.json", 
+    "href": "/v2/networks/fortworth", 
+    "id": "fortworth", 
+    "location": {
+      "city": "Fort Worth, TX", 
+      "country": "US", 
+      "latitude": 32.7516, 
+      "longitude": -97.32888
+    }, 
+    "name": "Fort Worth Bike Sharing", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1001 Jones St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2227"
+        }, 
+        "free_bikes": 7, 
+        "id": "4e2f79e34bba50239119cfd6b8f11b6a", 
+        "latitude": 32.75235, 
+        "longitude": -97.32626, 
+        "name": "ITC North", 
+        "timestamp": "2017-08-15T04:48:36.712000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1185 Jones St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2228"
+        }, 
+        "free_bikes": 4, 
+        "id": "d5d9d06a43e0c33c55d0f1815d6b8a65", 
+        "latitude": 32.75099, 
+        "longitude": -97.32539, 
+        "name": "ITC South", 
+        "timestamp": "2017-08-15T04:48:36.705000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1701 River Run ", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3527"
+        }, 
+        "free_bikes": 4, 
+        "id": "e11d4cfba625a435320746c2f45f1c58", 
+        "latitude": 32.72658, 
+        "longitude": -97.35961, 
+        "name": "WestBend", 
+        "timestamp": "2017-08-15T04:48:36.679000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "603 Penn St.", 
+          "last_updated": 1502772516, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_fortworth_2222"
+        }, 
+        "free_bikes": 6, 
+        "id": "23e768096e63f84cc1ea1a61d87a8306", 
+        "latitude": 32.75158, 
+        "longitude": -97.34255, 
+        "name": "5th & Penn", 
+        "timestamp": "2017-08-15T04:48:36.717000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "137 E. Ninth St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2221"
+        }, 
+        "free_bikes": 10, 
+        "id": "053f37fd7083a1e0675b7a74ee70d474", 
+        "latitude": 32.75159, 
+        "longitude": -97.32879, 
+        "name": "Convention Center", 
+        "timestamp": "2017-08-15T04:48:36.714000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "269 West 10th Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2262"
+        }, 
+        "free_bikes": 0, 
+        "id": "7f249debd298226e052b3c98e43c1ff0", 
+        "latitude": 32.75005, 
+        "longitude": -97.33076, 
+        "name": "City Hall", 
+        "timestamp": "2017-08-15T04:48:36.720000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1062 Evans Ave.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3667"
+        }, 
+        "free_bikes": 5, 
+        "id": "a757005b4588a2670f04de4283a8d1a3", 
+        "latitude": 32.7334, 
+        "longitude": -97.31854, 
+        "name": "Shamblee Library", 
+        "timestamp": "2017-08-15T04:48:36.693000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "280 W. Vickery Blvd.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2223"
+        }, 
+        "free_bikes": 9, 
+        "id": "fedb92c1442f9075f4ab106925b285ef", 
+        "latitude": 32.74381, 
+        "longitude": -97.32741, 
+        "name": "T&P South", 
+        "timestamp": "2017-08-15T04:48:36.718000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "907 W. Magnolia Ave.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2224"
+        }, 
+        "free_bikes": 5, 
+        "id": "f4e79a6828409516eb778ea8199de4fe", 
+        "latitude": 32.73055, 
+        "longitude": -97.33349, 
+        "name": "Magnolia & Lipscomb", 
+        "timestamp": "2017-08-15T04:48:36.708000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1302 S. Henderson St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2225"
+        }, 
+        "free_bikes": 8, 
+        "id": "ed8568a9573c9b799dcaa01017ab423d", 
+        "latitude": 32.73048, 
+        "longitude": -97.33773, 
+        "name": "Magnolia & Henderson", 
+        "timestamp": "2017-08-15T04:48:36.709000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "120 E. Daggett Ave.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2231"
+        }, 
+        "free_bikes": 4, 
+        "id": "d5464410ec52931616fa816e882a18f3", 
+        "latitude": 32.74245, 
+        "longitude": -97.32567, 
+        "name": "S. Main & Daggett", 
+        "timestamp": "2017-08-15T04:48:36.678000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "237 West 4th St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2232"
+        }, 
+        "free_bikes": 3, 
+        "id": "dfcee0201d9c4435ab98fc216cfc6a74", 
+        "latitude": 32.75395, 
+        "longitude": -97.33212, 
+        "name": "Sundance Square South", 
+        "timestamp": "2017-08-15T04:48:36.677000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "228 East 2nd St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2233"
+        }, 
+        "free_bikes": 9, 
+        "id": "ff9e763164d2fbb66942a865e2a91764", 
+        "latitude": 32.75621, 
+        "longitude": -97.33079, 
+        "name": "Sundance Square North", 
+        "timestamp": "2017-08-15T04:48:36.670000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2597 West 7th St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2234"
+        }, 
+        "free_bikes": 7, 
+        "id": "8cb1cd8bc76a8b5776744a57b46b6c26", 
+        "latitude": 32.75121, 
+        "longitude": -97.35377, 
+        "name": "Montgomery Plaza", 
+        "timestamp": "2017-08-15T04:48:36.682000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "264 Throckmorton St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2236"
+        }, 
+        "free_bikes": 6, 
+        "id": "fd6389425e16d32bd41455df8b209bc2", 
+        "latitude": 32.75558, 
+        "longitude": -97.33389, 
+        "name": "City Place", 
+        "timestamp": "2017-08-15T04:48:36.681000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "201 South Calhoun St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2237"
+        }, 
+        "free_bikes": 4, 
+        "id": "6b0b3d1922f7577499ef10ba4578c6b1", 
+        "latitude": 32.74226, 
+        "longitude": -97.32377, 
+        "name": "Fort Worth Bike Sharing", 
+        "timestamp": "2017-08-15T04:48:36.680000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1400 Gendy St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2238"
+        }, 
+        "free_bikes": 12, 
+        "id": "0935f480c15263f4ce663d715d87cbd1", 
+        "latitude": 32.74558, 
+        "longitude": -97.36866, 
+        "name": "Gendy & Lansford", 
+        "timestamp": "2017-08-15T04:48:36.684000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1430 Houston St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2239"
+        }, 
+        "free_bikes": 4, 
+        "id": "7bf0f4c747c366ca33c518531dfe26f1", 
+        "latitude": 32.7483, 
+        "longitude": -97.32788, 
+        "name": "Omni Hotel Fort Worth", 
+        "timestamp": "2017-08-15T04:48:36.683000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "2352 W. 7th St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2240"
+        }, 
+        "free_bikes": 9, 
+        "id": "d77900d1c9ae12bddd84f3a1c8bff08c", 
+        "latitude": 32.75092, 
+        "longitude": -97.35076, 
+        "name": "W. 7th St. & Stayton", 
+        "timestamp": "2017-08-15T04:48:36.699000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1561 W. Magnolia Ave.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2241"
+        }, 
+        "free_bikes": 6, 
+        "id": "b7a7e0a6b105f6c67f0a24500556cbe6", 
+        "latitude": 32.73072, 
+        "longitude": -97.34309, 
+        "name": "Magnolia & Hurley", 
+        "timestamp": "2017-08-15T04:48:36.704000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1000 Van Cliburn Way", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2245"
+        }, 
+        "free_bikes": 7, 
+        "id": "7f82f15d5b9a36fcd99fc90f0bc82076", 
+        "latitude": 32.74983, 
+        "longitude": -97.36433, 
+        "name": "Art Museums", 
+        "timestamp": "2017-08-15T04:48:36.725000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "220 West Lancaster Ave.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2261"
+        }, 
+        "free_bikes": 12, 
+        "id": "68a1c234d5bac0cfc754e9f5946359ca", 
+        "latitude": 32.74681, 
+        "longitude": -97.32732, 
+        "name": "T&P North", 
+        "timestamp": "2017-08-15T04:48:36.719000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "822 South Lake Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2264"
+        }, 
+        "free_bikes": 8, 
+        "id": "3e2285b735ddd4a2743f5b72979413ab", 
+        "latitude": 32.73598, 
+        "longitude": -97.33963, 
+        "name": "Texas Health Harris Methodist Hospital Fort Worth", 
+        "timestamp": "2017-08-15T04:48:36.722000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "3055 West Cantey Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2265"
+        }, 
+        "free_bikes": 2, 
+        "id": "62acf4079df605e47bf068580117b792", 
+        "latitude": 32.71164, 
+        "longitude": -97.36115, 
+        "name": "TCU", 
+        "timestamp": "2017-08-15T04:48:36.723000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "500 West 3rd Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2266"
+        }, 
+        "free_bikes": 6, 
+        "id": "1a660f129798dbfb1eb9a5657ab5e1ba", 
+        "latitude": 32.75356, 
+        "longitude": -97.33503, 
+        "name": "Central Library", 
+        "timestamp": "2017-08-15T04:48:36.724000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "420 West Belknap Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2292"
+        }, 
+        "free_bikes": 8, 
+        "id": "9b91cfccb7b32ac5103360f770e9d04d", 
+        "latitude": 32.7566, 
+        "longitude": -97.33598, 
+        "name": "Belknap & Taylor", 
+        "timestamp": "2017-08-15T04:48:36.692000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2945 West Berry St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2446"
+        }, 
+        "free_bikes": 7, 
+        "id": "afacea73e346631214247b0b6a045e4a", 
+        "latitude": 32.70601, 
+        "longitude": -97.35943, 
+        "name": "W. Berry & University", 
+        "timestamp": "2017-08-15T04:48:36.713000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Clearfork Main St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2447"
+        }, 
+        "free_bikes": 11, 
+        "id": "2aec771e49785484f19a82375f8ab3a3", 
+        "latitude": 32.70692, 
+        "longitude": -97.39426, 
+        "name": "The Trailhead at Clearfork", 
+        "timestamp": "2017-08-15T04:48:36.691000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "642 East Exchange Avenue", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3118"
+        }, 
+        "free_bikes": 10, 
+        "id": "8a09ce2c56051a8869122685ec212781", 
+        "latitude": 32.78868, 
+        "longitude": -97.34596, 
+        "name": "Stockyards Station", 
+        "timestamp": "2017-08-15T04:48:36.694000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "307 West Magnolia Avenue", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3119"
+        }, 
+        "free_bikes": 7, 
+        "id": "7e7e63d7a55ba96a74da544dc1b30505", 
+        "latitude": 32.73091, 
+        "longitude": -97.32819, 
+        "name": "Moncrief Cancer Institute", 
+        "timestamp": "2017-08-15T04:48:36.695000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "290 North Elm Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3120"
+        }, 
+        "free_bikes": 11, 
+        "id": "f2f24a73bcc9192dd80ebb3e2e396728", 
+        "latitude": 32.76068, 
+        "longitude": -97.32829, 
+        "name": "Trinity Uptown", 
+        "timestamp": "2017-08-15T04:48:36.701000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "910 Texas Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3122"
+        }, 
+        "free_bikes": 9, 
+        "id": "dd32f4e9edde58af28a66e0b648207d6", 
+        "latitude": 32.74903, 
+        "longitude": -97.33675, 
+        "name": "Texas & Florence", 
+        "timestamp": "2017-08-15T04:48:36.703000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "643 Commerce Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3124"
+        }, 
+        "free_bikes": 7, 
+        "id": "842962764e0505fda88e890cb6f09123", 
+        "latitude": 32.75406, 
+        "longitude": -97.32967, 
+        "name": "FTS International at 777 Main", 
+        "timestamp": "2017-08-15T04:48:36.690000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2407 Park Hill Drive", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3125"
+        }, 
+        "free_bikes": 6, 
+        "id": "5ce7c13d230a34515190cb6d75d3aefc", 
+        "latitude": 32.71589, 
+        "longitude": -97.35247, 
+        "name": "Forest Park & Park Hill", 
+        "timestamp": "2017-08-15T04:48:36.725000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1700 Park Place Ave.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2235"
+        }, 
+        "free_bikes": 5, 
+        "id": "2acb1b4011e46cbdb1d181af14b5c1b4", 
+        "latitude": 32.72579, 
+        "longitude": -97.34539, 
+        "name": "Park Place and Enderly", 
+        "timestamp": "2017-08-15T04:48:36.682000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1600 East Lancaster", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2229"
+        }, 
+        "free_bikes": 7, 
+        "id": "35b29680f68e635cb6684eca10668c80", 
+        "latitude": 32.74577, 
+        "longitude": -97.31137, 
+        "name": "The T Offices", 
+        "timestamp": "2017-08-15T04:48:36.707000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "100 East Weatherford St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2444"
+        }, 
+        "free_bikes": 6, 
+        "id": "c44bc8345583856f848ec8977f7db865", 
+        "latitude": 32.75711, 
+        "longitude": -97.33272, 
+        "name": "Weatherford & Main", 
+        "timestamp": "2017-08-15T04:48:36.696000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2949 Crockett Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2387"
+        }, 
+        "free_bikes": 8, 
+        "id": "53255ca9b757616938be6c2321b43b71", 
+        "latitude": 32.75094, 
+        "longitude": -97.3593, 
+        "name": "West 7th", 
+        "timestamp": "2017-08-15T04:48:36.686000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2500 River Drive", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2263"
+        }, 
+        "free_bikes": 14, 
+        "id": "76e941b838c2e285b375dd5cc69cefa2", 
+        "latitude": 32.74511, 
+        "longitude": -97.35175, 
+        "name": "Trinity Park North", 
+        "timestamp": "2017-08-15T04:48:36.721000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "398 North Taylor Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3117"
+        }, 
+        "free_bikes": 8, 
+        "id": "0168c642d8d80434ba3818144dbabc28", 
+        "latitude": 32.75862, 
+        "longitude": -97.33745, 
+        "name": "Panther Island Pavilion", 
+        "timestamp": "2017-08-15T04:48:36.700000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "3187 Riverfront Drive", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3123"
+        }, 
+        "free_bikes": 15, 
+        "id": "83a137e73d5cca45f1af9354bfd6f679", 
+        "latitude": 32.72445, 
+        "longitude": -97.3637, 
+        "name": "Riverfront Drive", 
+        "timestamp": "2017-08-15T04:48:36.697000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Trinity Park and Old University", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_3121"
+        }, 
+        "free_bikes": 11, 
+        "id": "e6a547609703d08f9853abdca1f82a75", 
+        "latitude": 32.7368, 
+        "longitude": -97.3596, 
+        "name": "Trinity Park South", 
+        "timestamp": "2017-08-15T04:48:36.702000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "955 Montgomery St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2226"
+        }, 
+        "free_bikes": 2, 
+        "id": "32a593d54ec1f6b22dc59b0928387858", 
+        "latitude": 32.74979, 
+        "longitude": -97.36943, 
+        "name": "UNT Health Science Center", 
+        "timestamp": "2017-08-15T04:48:36.710000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "770 Barden St.", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2445"
+        }, 
+        "free_bikes": 8, 
+        "id": "d4c1f6bae17d3569dedf56ebcb0d0098", 
+        "latitude": 32.75163, 
+        "longitude": -97.36319, 
+        "name": "Museum Place", 
+        "timestamp": "2017-08-15T04:48:36.698000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1146 Lamar Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2385"
+        }, 
+        "free_bikes": 7, 
+        "id": "e0d6f3a2486fe24131f0d94d0d857cbe", 
+        "latitude": 32.74732, 
+        "longitude": -97.33305, 
+        "name": "Higginbotham ", 
+        "timestamp": "2017-08-15T04:48:36.685000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "501 W. 7th Street", 
+          "last_updated": 1502772516, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_fortworth_2443"
+        }, 
+        "free_bikes": 8, 
+        "id": "25fcbd8c5961637e1724ff80964d6c91", 
+        "latitude": 32.7512, 
+        "longitude": -97.33407, 
+        "name": "Burnett Park", 
+        "timestamp": "2017-08-15T04:48:36.687000Z"
+      }
+    ]
+  }
+}

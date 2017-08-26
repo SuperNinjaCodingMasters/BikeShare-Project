@@ -1,0 +1,78 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/longanoinbici", 
+    "id": "longanoinbici", 
+    "location": {
+      "city": "Barcellona Pozzo di Gotto", 
+      "country": "IT", 
+      "latitude": 38.149812517944284, 
+      "longitude": 15.212116241455078
+    }, 
+    "name": "LonganoinBici", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "c838f1c10a36ca5dac7f0edd2a143b2f", 
+        "latitude": 38.13911344216544, 
+        "longitude": 15.219755172729492, 
+        "name": "Tribunale", 
+        "timestamp": "2017-08-15T04:48:37.958000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "a156a264e9703c85fbff347cfc160325", 
+        "latitude": 38.172083161686736, 
+        "longitude": 15.19683837890625, 
+        "name": "Caldera`", 
+        "timestamp": "2017-08-15T04:48:37.968000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "812e90840bb94d743330befc149374b4", 
+        "latitude": 38.153457270582535, 
+        "longitude": 15.200271606445312, 
+        "name": "Stazione Nuova", 
+        "timestamp": "2017-08-15T04:48:37.970000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "f063699e4c819287890ade09291cab27", 
+        "latitude": 38.145838517600616, 
+        "longitude": 15.215088129043579, 
+        "name": "Villa Oasi", 
+        "timestamp": "2017-08-15T04:48:37.971000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "2c5167a61f07ae6987cad4a50103d722", 
+        "latitude": 38.149475031635326, 
+        "longitude": 15.214186906814575, 
+        "name": "Stazione Vecchia", 
+        "timestamp": "2017-08-15T04:48:37.972000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "network": {
+    "company": [
+      "Brainbox Technology", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/easybike-komotini", 
+    "id": "easybike-komotini", 
+    "location": {
+      "city": "Komotini", 
+      "country": "GR", 
+      "latitude": 41.117833, 
+      "longitude": 25.4041307
+    }, 
+    "name": "EasyBike", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 24
+        }, 
+        "free_bikes": 2, 
+        "id": "86330e040d77ff7ca9d00ad37c9a5f8c", 
+        "latitude": 41.1277816891, 
+        "longitude": 25.4120209026, 
+        "name": "Agia Varvara", 
+        "timestamp": "2017-08-15T04:48:34.466000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 22
+        }, 
+        "free_bikes": 2, 
+        "id": "0632aa65066092b07e550b9471caa991", 
+        "latitude": 41.1254905617, 
+        "longitude": 25.3931166935, 
+        "name": "Kosmopolis", 
+        "timestamp": "2017-08-15T04:48:34.468000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 12
+        }, 
+        "free_bikes": 2, 
+        "id": "67870584418f6953c55ea623ed7ba88c", 
+        "latitude": 41.1143691734, 
+        "longitude": 25.4026492643, 
+        "name": "KTEL", 
+        "timestamp": "2017-08-15T04:48:34.480000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 12
+        }, 
+        "free_bikes": 0, 
+        "id": "3ded6b2d966ec48dfd6e5a9c692758a7", 
+        "latitude": 40.9609106504, 
+        "longitude": 25.128758173, 
+        "name": "Fanari - ProinAstynomiko Tmima", 
+        "timestamp": "2017-08-15T04:48:34.445000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 20
+        }, 
+        "free_bikes": 2, 
+        "id": "dee5477f64e27b887b1f1f1cd2d715dd", 
+        "latitude": 41.1153997591, 
+        "longitude": 25.3982021618, 
+        "name": "Perifereia", 
+        "timestamp": "2017-08-15T04:48:34.471000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 18
+        }, 
+        "free_bikes": 2, 
+        "id": "3831936d4a3994bf301827b3ce82a91a", 
+        "latitude": 41.1118067841, 
+        "longitude": 25.4064419079, 
+        "name": "Zimvrakaki", 
+        "timestamp": "2017-08-15T04:48:34.478000Z"
+      }
+    ]
+  }
+}

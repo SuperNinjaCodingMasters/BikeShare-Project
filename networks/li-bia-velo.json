@@ -1,0 +1,490 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/li-bia-velo", 
+    "id": "li-bia-velo", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Namur", 
+      "country": "BE", 
+      "latitude": 50.465328, 
+      "longitude": 4.867665
+    }, 
+    "name": "Li bia velo", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "018 - CPAS - RUE DE DAVE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771991000, 
+          "slots": 10, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 5, 
+        "id": "f317598ca7c55cc6188efaa6e10d6b25", 
+        "latitude": 50.451892, 
+        "longitude": 4.868837, 
+        "name": "018 - CPAS", 
+        "timestamp": "2017-08-15T04:49:14.044000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "30-PLACE LOUISE GODIN- LOUISE GODIN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771979000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 30
+        }, 
+        "free_bikes": 6, 
+        "id": "db58677bbca00fd3a6ae5c881552c6bc", 
+        "latitude": 50.460596, 
+        "longitude": 4.842836, 
+        "name": "30-PLACE LOUISE GODIN", 
+        "timestamp": "2017-08-15T04:49:14.013000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "028 - EXPO - AV SGT VRITHOFF FACE PALAIS DES EXPO", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771953000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 28
+        }, 
+        "free_bikes": 4, 
+        "id": "5d072303e8b5976063a3851431d8074c", 
+        "latitude": 50.46675, 
+        "longitude": 4.84834, 
+        "name": "028 - EXPO", 
+        "timestamp": "2017-08-15T04:49:14.014000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "017 - GARE DE JAMBES - RUE DE LA GARE FLEURIE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772432000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 11, 
+        "id": "bbd8c720670d202fd792bb7442821bc3", 
+        "latitude": 50.455072, 
+        "longitude": 4.8755827, 
+        "name": "017 - GARE DE JAMBES", 
+        "timestamp": "2017-08-15T04:49:14.014000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "001 - OCTAVE HENRY - RUE DE GEMBLOUX / HALL OMNISPORT", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772313000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 6, 
+        "id": "c3f121197df9114ab6c9d1106f9e3407", 
+        "latitude": 50.47536, 
+        "longitude": 4.84661, 
+        "name": "001 - OCTAVE HENRY", 
+        "timestamp": "2017-08-15T04:49:14.017000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "012 - PLACE SAINT-NICOLAS - AVENUE ALBERT 1ER / PARKING P + R", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772182000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 9, 
+        "id": "b831a9eeb29c7917be7edd537d704047", 
+        "latitude": 50.46687, 
+        "longitude": 4.88484, 
+        "name": "012 - PLACE SAINT-NICOLAS", 
+        "timestamp": "2017-08-15T04:49:14.020000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "011 - CITE ADMINISTRATIVE - BD CAUCHY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772097000, 
+          "slots": 10, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 7, 
+        "id": "0dea1d9b90629869c6d9495f355dad18", 
+        "latitude": 50.46786, 
+        "longitude": 4.87352, 
+        "name": "011 - CITE ADMINISTRATIVE", 
+        "timestamp": "2017-08-15T04:49:14.021000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "013 - PONT DES ARDENNES - PONT DES ARDENNES", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772252000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 5, 
+        "id": "9b098e2451b9515940b853c7648832d6", 
+        "latitude": 50.46155, 
+        "longitude": 4.87609, 
+        "name": "013 - PONT DES ARDENNES", 
+        "timestamp": "2017-08-15T04:49:14.022000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "025-AUBERGE DE JEUNESSE -AVENUE FELICIEN ROPS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772310000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 6, 
+        "id": "967d27b0f14d8ddb43b848f2188d936c", 
+        "latitude": 50.448224, 
+        "longitude": 4.859506, 
+        "name": "25-AUBERGE DE JEUNESSE", 
+        "timestamp": "2017-08-15T04:49:14.023000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "029 - WIERTZ - PLACE WIERTZ FACE 8", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771990000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 2, 
+        "id": "3b05f52a5257ae7b1187685c3c6ba302", 
+        "latitude": 50.464476, 
+        "longitude": 4.849289, 
+        "name": "029 - WIERTZ", 
+        "timestamp": "2017-08-15T04:49:14.025000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "026 - ARSENAL - BOULEVARD FRERE ORBAN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772449000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 5, 
+        "id": "5cdf31bc60dd4280e9a3b8789ba83736", 
+        "latitude": 50.464457, 
+        "longitude": 4.85644, 
+        "name": "026 - ARSENAL", 
+        "timestamp": "2017-08-15T04:49:14.036000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "010 - ARTHUR MASSON - SQUARE ARTHUR MASSON N 5", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772060000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 1, 
+        "id": "07f6c917ee34045f52c04af9e206d73d", 
+        "latitude": 50.46364, 
+        "longitude": 4.87353, 
+        "name": "010 - ARTHUR MASSON", 
+        "timestamp": "2017-08-15T04:49:14.038000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "034 - ROGIER - RUE ROGIER / RUE NAMECHE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772205000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 34
+        }, 
+        "free_bikes": 12, 
+        "id": "6ca98b0bef3141526962637595bb8540", 
+        "latitude": 50.46735, 
+        "longitude": 4.86872, 
+        "name": "034 - ROGIER", 
+        "timestamp": "2017-08-15T04:49:14.039000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "002 - CROIX DE FEUX - AV DES CROIX DE FEUX / RUE MUZET FACE N\u00c2\u00b07", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772339000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 6, 
+        "id": "436918edeb1fd0e1c2240853bdafec59", 
+        "latitude": 50.470692, 
+        "longitude": 4.852803, 
+        "name": "002 - CROIX DE FEUX", 
+        "timestamp": "2017-08-15T04:49:14.042000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "027 - OMALIUS - REMPART DE LA VIERGE / PLACE D'OMALIUS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772470000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 27
+        }, 
+        "free_bikes": 8, 
+        "id": "4faabd5a4ec12ce00f77ccc775a1ca37", 
+        "latitude": 50.4674, 
+        "longitude": 4.8581, 
+        "name": "027 - OMALIUS", 
+        "timestamp": "2017-08-15T04:49:14.045000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "003 - GARE DU NORD - BD DU NORD FACE 5", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772405000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 14, 
+        "id": "1758459168686ada1e2dbc7047609947", 
+        "latitude": 50.47001, 
+        "longitude": 4.86199, 
+        "name": "003 - GARE DU NORD", 
+        "timestamp": "2017-08-15T04:49:14.047000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "016 - PLACE DE WALLONIE - PLACE DE LA WALLONIE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772366000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 6, 
+        "id": "6807f0a03cbf72c5614a2f9757612f5b", 
+        "latitude": 50.45602, 
+        "longitude": 4.87266, 
+        "name": "016 - PLACE DE WALLONIE", 
+        "timestamp": "2017-08-15T04:49:14.048000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "004 - GARE DE NAMUR - PLACE DE LA STATION / GARE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772485000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 16, 
+        "id": "19e8c07d2006acc5b37879735ebd09f9", 
+        "latitude": 50.4683, 
+        "longitude": 4.86266, 
+        "name": "004 - GARE DE NAMUR", 
+        "timestamp": "2017-08-15T04:49:14.052000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "021 - CASINO - AVENUE BARON DE MOREAU / CASINO", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771951000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 6, 
+        "id": "f153fdb378000e0c231a2a3b8b871a4e", 
+        "latitude": 50.45617, 
+        "longitude": 4.86269, 
+        "name": "021 - CASINO", 
+        "timestamp": "2017-08-15T04:49:14.052000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "015 - PONT DE JAMBES - PONT DE JAMBES", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772300000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 12, 
+        "id": "07fd8718d3cadda1eadb480713b3b33a", 
+        "latitude": 50.457858, 
+        "longitude": 4.86697, 
+        "name": "015 - PONT DE JAMBES", 
+        "timestamp": "2017-08-15T04:49:14.015000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "007 - ANGE - PLACE DE L ANGE FACE 95", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772034000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 12, 
+        "id": "60d0e283d3d5873a2f76c72799613046", 
+        "latitude": 50.46424, 
+        "longitude": 4.8652, 
+        "name": "007 - ANGE", 
+        "timestamp": "2017-08-15T04:49:14.010000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "006 - HOTEL DE VILLE - RUE DE FER DVT 101", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771952000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 13, 
+        "id": "7241ea3b57988ce479a622801bb0d0f2", 
+        "latitude": 50.46697, 
+        "longitude": 4.86546, 
+        "name": "006 - HOTEL DE VILLE", 
+        "timestamp": "2017-08-15T04:49:14.043000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "024 - SAINT-AUBAIN - RUE DU COLLEGE / PLACE SAINT-AUBIN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772372000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 11, 
+        "id": "9e866ebd5832baf68dcf361ae085ff17", 
+        "latitude": 50.46387, 
+        "longitude": 4.861142, 
+        "name": "024 - SAINT-AUBAIN", 
+        "timestamp": "2017-08-15T04:49:14.018000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "023 - MAURICE SERVAIS - PLACE MAURICE SERVAIS DVT 92", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772320000, 
+          "slots": 10, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 8, 
+        "id": "bd6050ab88c6681b13252a9ddd1fc9af", 
+        "latitude": 50.46204, 
+        "longitude": 4.86499, 
+        "name": "023 - MAURICE SERVAIS", 
+        "timestamp": "2017-08-15T04:49:14.037000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "022 - GROGNON - AV F.GOLENVAUX / GROGNON", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502712270000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 6, 
+        "id": "d9ac7a423786fe1e4a9f8daac84120d0", 
+        "latitude": 50.462537, 
+        "longitude": 4.869596, 
+        "name": "022 - GROGNON", 
+        "timestamp": "2017-08-15T04:49:14.016000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "032- ECOLE DES CADETS - PLACE DE L'ECOLE DES CADETS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772048000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 32
+        }, 
+        "free_bikes": 14, 
+        "id": "f599c3a8b82fd0224ca6d576fb0b25bb", 
+        "latitude": 50.46603, 
+        "longitude": 4.87735, 
+        "name": "032- ECOLE DES CADETS", 
+        "timestamp": "2017-08-15T04:49:14.054000Z"
+      }
+    ]
+  }
+}

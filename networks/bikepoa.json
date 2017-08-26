@@ -1,0 +1,619 @@
+{
+  "network": {
+    "company": [
+      "Mobilicidade Tecnologia LTD", 
+      "Grupo Serttel LTDA"
+    ], 
+    "href": "/v2/networks/bikepoa", 
+    "id": "bikepoa", 
+    "location": {
+      "city": "Porto Alegre", 
+      "country": "BR", 
+      "latitude": -30.033079, 
+      "longitude": -51.23654
+    }, 
+    "name": "BikePOA", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "R\u00f3tula entre as Avenidas Edvaldo Pereira Paiva e Loureiro da Silva", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": 5
+        }, 
+        "free_bikes": 4, 
+        "id": "c30090ddd9f1b76ee09429f9907c4778", 
+        "latitude": -30.036736, 
+        "longitude": -51.240981, 
+        "name": "Usina do Gas\u00f4metro II", 
+        "timestamp": "2017-06-23T01:47:06.528000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rua Barbedo", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 7
+        }, 
+        "free_bikes": 2, 
+        "id": "79b233602d79f7d7c9f27b6c5061a119", 
+        "latitude": -30.05749, 
+        "longitude": -51.22568, 
+        "name": "Barbedo", 
+        "timestamp": "2017-06-23T01:47:06.529000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenida Ven\u00e2ncio aires 399/415 esquina com a Avenida Jo\u00e3o Pessoa", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 15
+        }, 
+        "free_bikes": 2, 
+        "id": "439a57c7375d51c126053034187da564", 
+        "latitude": -30.040833, 
+        "longitude": -51.215901, 
+        "name": "Ven\u00e2ncio Aires", 
+        "timestamp": "2017-06-23T01:47:06.536000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rua Largo Jornalista Gl\u00eanio P\u00e9res", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 1
+        }, 
+        "free_bikes": 2, 
+        "id": "a910ce752ab5615af56f90f7cd0dde50", 
+        "latitude": -30.028235, 
+        "longitude": -51.227907, 
+        "name": "Mercado", 
+        "timestamp": "2017-06-23T01:47:06.523000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rua Capit\u00e3o Montanha", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 2
+        }, 
+        "free_bikes": 2, 
+        "id": "76f524e60cac9a3c3ec1452cc9615412", 
+        "latitude": -30.029194, 
+        "longitude": -51.232038, 
+        "name": "Pra\u00e7a da Alf\u00e2ndega", 
+        "timestamp": "2017-06-23T01:47:06.525000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rua Ibanor Jos\u00e9 Tartarotti", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 4
+        }, 
+        "free_bikes": 6, 
+        "id": "9b34fc1326f53310301d31f4a31448b8", 
+        "latitude": -30.037743, 
+        "longitude": -51.237498, 
+        "name": "C\u00e2mara dos Vereadores", 
+        "timestamp": "2017-06-23T01:47:06.527000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Largo Doutor Jos\u00e9 Faibes Lubianca", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 10
+        }, 
+        "free_bikes": 1, 
+        "id": "e6e64bc3dfc47b10b007ae5ac609c39d", 
+        "latitude": -30.036095, 
+        "longitude": -51.211035, 
+        "name": "Reden\u00e7\u00e3o Mercadinho", 
+        "timestamp": "2017-06-23T01:47:06.532000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenida Padre Cacique", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 16
+        }, 
+        "free_bikes": 2, 
+        "id": "2014ead3d41aac540c166bbd10fe90c9", 
+        "latitude": -30.065403, 
+        "longitude": -51.234124, 
+        "name": "Beira-Rio", 
+        "timestamp": "2017-06-23T01:47:06.537000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Avenida Jo\u00e3o Pessoa", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 18
+        }, 
+        "free_bikes": 1, 
+        "id": "aa22d7907e4ad68fb531d621a38b0a7a", 
+        "latitude": -30.047269, 
+        "longitude": -51.211122, 
+        "name": "Pal\u00e1cio da Pol\u00edcia", 
+        "timestamp": "2017-06-23T01:47:06.539000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Avenida Padre Cacique", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 19
+        }, 
+        "free_bikes": 8, 
+        "id": "2e1220cbeb8671ca23b87478fd7df4fc", 
+        "latitude": -30.077197, 
+        "longitude": -51.244973, 
+        "name": "Iber\u00ea", 
+        "timestamp": "2017-06-23T01:47:06.540000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenida Di\u00e1rio de Not\u00edcias", 
+          "slots": 11, 
+          "status": "open", 
+          "uid": 20
+        }, 
+        "free_bikes": 3, 
+        "id": "bef153be8083f4e8afbc3b2f25219787", 
+        "latitude": -30.097305, 
+        "longitude": -51.248523, 
+        "name": "Di\u00e1rio de Not\u00edcias", 
+        "timestamp": "2017-06-23T01:47:06.541000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Estacionamento do Shop. Total", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 21
+        }, 
+        "free_bikes": 1, 
+        "id": "1a196f5072d21fe3fb7e948c0c32b868", 
+        "latitude": -30.027777, 
+        "longitude": -51.213679, 
+        "name": "Shopping Total", 
+        "timestamp": "2017-06-23T01:47:06.543000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenida Get\u00falio Vargas", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 22
+        }, 
+        "free_bikes": 2, 
+        "id": "eb58c71b270b7cf551f55400903d34bc", 
+        "latitude": -30.056292, 
+        "longitude": -51.222874, 
+        "name": "Get\u00falio Vargas", 
+        "timestamp": "2017-06-23T01:47:06.544000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rua 24 de Outubro", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 29
+        }, 
+        "free_bikes": 2, 
+        "id": "4f92fa8fe6873f73c872be694e6193fa", 
+        "latitude": -30.024694, 
+        "longitude": -51.200921, 
+        "name": "Parc\u00e3o", 
+        "timestamp": "2017-06-23T01:47:06.550000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rua R\u00f4mulo Teiles Pessoa", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 32
+        }, 
+        "free_bikes": 1, 
+        "id": "5d109bad9d3d74f756fd0af5826a6880", 
+        "latitude": -30.039067, 
+        "longitude": -51.193047, 
+        "name": "Nil\u00f3polis", 
+        "timestamp": "2017-06-23T01:47:06.552000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Av. Di\u00e1rio de Not\u00edcias 300", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 34
+        }, 
+        "free_bikes": 2, 
+        "id": "6e1b1d8b2a99a4eb55aacde45ee0f09e", 
+        "latitude": -30.084693, 
+        "longitude": -51.247194, 
+        "name": "ShoppingBarraSul", 
+        "timestamp": "2017-06-23T01:47:06.554000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenida Aureliano de Figueiredo Pinto", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 36
+        }, 
+        "free_bikes": 2, 
+        "id": "30f8ac06bc761adc7cf8c8ab69b4ea2f", 
+        "latitude": -30.042858, 
+        "longitude": -51.229126, 
+        "name": "Regi\u00e3o dos Tribunais", 
+        "timestamp": "2017-06-23T01:47:06.556000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenida Di\u00e1rio de Not\u00edcias", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 41
+        }, 
+        "free_bikes": 4, 
+        "id": "c749aeaed13947c9923ef252446f2b03", 
+        "latitude": -30.096443, 
+        "longitude": -51.249305, 
+        "name": "Jockey Club", 
+        "timestamp": "2017-06-23T01:47:06.563000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Rua 7 de Setembro", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 3
+        }, 
+        "free_bikes": 10, 
+        "id": "2a36abb8f3407562694d6e01c1d2e614", 
+        "latitude": -30.030772, 
+        "longitude": -51.234886, 
+        "name": "Casa de Cultura Mario Quintana", 
+        "timestamp": "2017-06-23T01:47:06.526000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Av Aureliano de Figueiredo Pinto", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 6
+        }, 
+        "free_bikes": 2, 
+        "id": "8e82f4ea2c8fb5c4d708eee58ba7e166", 
+        "latitude": -30.042216, 
+        "longitude": -51.231568, 
+        "name": "Minist\u00e9rio P\u00fablico", 
+        "timestamp": "2017-06-23T01:47:06.529000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Avenida Sarmento Leite", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 8
+        }, 
+        "free_bikes": 3, 
+        "id": "20b588c0ae8628401ce4725c621802b1", 
+        "latitude": -30.032653, 
+        "longitude": -51.220699, 
+        "name": "UFRGS", 
+        "timestamp": "2017-06-23T01:47:06.530000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rua General Lima e Siva", 
+          "slots": 11, 
+          "status": "open", 
+          "uid": 9
+        }, 
+        "free_bikes": 5, 
+        "id": "48a6894c520bbe525a3b98454933b137", 
+        "latitude": -30.038388, 
+        "longitude": -51.221405, 
+        "name": "Lima e Silva", 
+        "timestamp": "2017-06-23T01:47:06.531000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Avenida \u00c9rico Ver\u00edssimo", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 11
+        }, 
+        "free_bikes": 5, 
+        "id": "0df0384fd8ea59a4c3c8b56ca5f496e1", 
+        "latitude": -30.045358, 
+        "longitude": -51.219549, 
+        "name": "Gin\u00e1sio Tesourinha", 
+        "timestamp": "2017-06-23T01:47:06.533000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Avenida Praia de Belas frente ao numero 993", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 12
+        }, 
+        "free_bikes": 6, 
+        "id": "1f49874d773d7eefc5d6793f462116e8", 
+        "latitude": -30.046893, 
+        "longitude": -51.227409, 
+        "name": "Shopping Praia de Belas", 
+        "timestamp": "2017-06-23T01:47:06.534000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Avenida Jer\u00f4nimo de Ornelas", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": 13
+        }, 
+        "free_bikes": 3, 
+        "id": "d0399fbc9072bd26d8134aebbbb61641", 
+        "latitude": -30.039505, 
+        "longitude": -51.207995, 
+        "name": "Hospital de Cl\u00ednicas", 
+        "timestamp": "2017-06-23T01:47:06.535000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenida Ipiranga", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 14
+        }, 
+        "free_bikes": 4, 
+        "id": "3ef42fe928ef974aa690a0aff8942521", 
+        "latitude": -30.044002, 
+        "longitude": -51.207693, 
+        "name": "Planet\u00e1rio", 
+        "timestamp": "2017-06-23T01:47:06.536000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rua Jos\u00e9 de Alencar", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 17
+        }, 
+        "free_bikes": 3, 
+        "id": "36ab4c395b64abc72be53cbe8874b231", 
+        "latitude": -30.059783, 
+        "longitude": -51.228392, 
+        "name": "M\u00e3e de Deus", 
+        "timestamp": "2017-06-23T01:47:06.538000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rua Ot\u00e1vio Francisco Caruso da Rocha", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 23
+        }, 
+        "free_bikes": 3, 
+        "id": "08d4ada5d0dcd73831df21545fcd1584", 
+        "latitude": -30.039919, 
+        "longitude": -51.236869, 
+        "name": "Harmonia", 
+        "timestamp": "2017-06-23T01:47:06.545000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rua Cabral", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 24
+        }, 
+        "free_bikes": 3, 
+        "id": "d190adde1651f7e94d798db9309743db", 
+        "latitude": -30.033737, 
+        "longitude": -51.20479, 
+        "name": "Cabral", 
+        "timestamp": "2017-06-23T01:47:06.546000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rua Fernandes Vieira", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 25
+        }, 
+        "free_bikes": 3, 
+        "id": "214edc4944ee5273a1e3808cc8bb9f8b", 
+        "latitude": -30.03193, 
+        "longitude": -51.210852, 
+        "name": "Fernandes Vieira", 
+        "timestamp": "2017-06-23T01:47:06.547000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenida Borges de Medeiros", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 27
+        }, 
+        "free_bikes": 2, 
+        "id": "cb2c24391e14e530a0a83e83363724e0", 
+        "latitude": -30.040822, 
+        "longitude": -51.228887, 
+        "name": "Centro Administrativo", 
+        "timestamp": "2017-06-23T01:47:06.548000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Avenida Ipiranga", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 28
+        }, 
+        "free_bikes": 7, 
+        "id": "595ba413d321f93fa8cffe5e90ff2298", 
+        "latitude": -30.043444, 
+        "longitude": -51.199856, 
+        "name": "Zaffari Ipiranga", 
+        "timestamp": "2017-06-23T01:47:06.549000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Rua Carazinho", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 30
+        }, 
+        "free_bikes": 0, 
+        "id": "918c579b9ed197bda6a550cbbe227244", 
+        "latitude": -30.035704, 
+        "longitude": -51.1856, 
+        "name": "Encol", 
+        "timestamp": "2017-06-23T01:47:06.551000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Avenida Ven\u00e2ncio Aires", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 31
+        }, 
+        "free_bikes": 0, 
+        "id": "f28bbcee97139fbae3ac81d9e56083ac", 
+        "latitude": -30.039837, 
+        "longitude": -51.21425, 
+        "name": "Santana", 
+        "timestamp": "2017-06-23T01:47:06.552000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Avenida Jo\u00e3o Pessoa", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 33
+        }, 
+        "free_bikes": 6, 
+        "id": "ced0bca4aaac3d0621b6d6ac4ec3424f", 
+        "latitude": -30.045635, 
+        "longitude": -51.213093, 
+        "name": "Julinho", 
+        "timestamp": "2017-06-23T01:47:06.553000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Rua Coronel Fernando Machado", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 35
+        }, 
+        "free_bikes": 5, 
+        "id": "32351904e78cd8d0c0a134fd6df382ab", 
+        "latitude": -30.035149, 
+        "longitude": -51.231399, 
+        "name": "Fernando Machado", 
+        "timestamp": "2017-06-23T01:47:06.555000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenida Jo\u00e3o Pessoa 41", 
+          "slots": 11, 
+          "status": "open", 
+          "uid": 37
+        }, 
+        "free_bikes": 3, 
+        "id": "2bd49e62c0ce240931f4bc82642eefa1", 
+        "latitude": -30.032597, 
+        "longitude": -51.223433, 
+        "name": "Casa do Estudante", 
+        "timestamp": "2017-06-23T01:47:06.559000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Rua Botafogo", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 38
+        }, 
+        "free_bikes": 5, 
+        "id": "44118d9f43746fad3e2b27d94ff7e3de", 
+        "latitude": -30.054411, 
+        "longitude": -51.221874, 
+        "name": "Botafogo", 
+        "timestamp": "2017-06-23T01:47:06.560000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rua Jos\u00e9 de Patroc\u00ednio", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 39
+        }, 
+        "free_bikes": 6, 
+        "id": "d9f29ce76b11f159992c9172f5a9ad3e", 
+        "latitude": -30.036054, 
+        "longitude": -51.227272, 
+        "name": "Caminho dos Antiqu\u00e1rios", 
+        "timestamp": "2017-06-23T01:47:06.561000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenida \u00c9rico Ver\u00edssimo", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 40
+        }, 
+        "free_bikes": 4, 
+        "id": "879a9adcde903f23164ffba128b42ef2", 
+        "latitude": -30.048582, 
+        "longitude": -51.21843, 
+        "name": "Cascatinha", 
+        "timestamp": "2017-06-23T01:47:06.562000Z"
+      }
+    ]
+  }
+}

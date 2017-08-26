@@ -1,0 +1,57 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-borgarello", 
+    "id": "bicincitta-borgarello", 
+    "location": {
+      "city": "Borgarello", 
+      "country": "IT", 
+      "latitude": 45.23963753440171, 
+      "longitude": 9.136150475640875
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Stazione Certosa", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "ffc5dfb13550e9b2c88e8ea95b3c43c5", 
+        "latitude": 45.2562669151511, 
+        "longitude": 9.153877324050882, 
+        "name": "Giussago", 
+        "timestamp": "2017-08-15T04:49:39.013000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Via Pavia", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "54b945a0d40012595143878ba8d135a8", 
+        "latitude": 45.23963753440171, 
+        "longitude": 9.136150475640875, 
+        "name": "Borgarello", 
+        "timestamp": "2017-08-15T04:49:39.007000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Via del Monumento", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "7d4795df9f9b7b019e5369e7ee8f833a", 
+        "latitude": 45.256269797123046, 
+        "longitude": 9.144452102099649, 
+        "name": "Monumento Certosa", 
+        "timestamp": "2017-08-15T04:49:39.014000Z"
+      }
+    ]
+  }
+}

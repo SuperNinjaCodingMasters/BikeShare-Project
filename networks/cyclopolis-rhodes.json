@@ -1,0 +1,79 @@
+{
+  "network": {
+    "company": [
+      "Cyclopolis Systems"
+    ], 
+    "href": "/v2/networks/cyclopolis-rhodes", 
+    "id": "cyclopolis-rhodes", 
+    "location": {
+      "city": "Rhodes", 
+      "country": "GR", 
+      "latitude": 36.4509118, 
+      "longitude": 28.2246966
+    }, 
+    "name": "Cyclopolis", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 9, 
+        "id": "2da78e636700445ed93dd376294e72b2", 
+        "latitude": 36.4509118, 
+        "longitude": 28.2246966, 
+        "name": "ELEFTHERIAS SQUARE", 
+        "timestamp": "2017-08-15T04:50:01.823000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "d45aaf24ef2890aa17881535dba10f46", 
+        "latitude": 36.4493326, 
+        "longitude": 28.2228213, 
+        "name": "DIMITRIS THEMELIS WALK", 
+        "timestamp": "2017-08-15T04:50:01.826000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 10, 
+        "id": "d98be4be2dc887c335367cd502d1e1b9", 
+        "latitude": 36.4463278, 
+        "longitude": 28.2271944, 
+        "name": "SYMI SQUARE", 
+        "timestamp": "2017-08-15T04:50:01.828000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 4, 
+        "id": "372a8953451261c8d334e547b7a6e287", 
+        "latitude": 36.4393557, 
+        "longitude": 28.2244925, 
+        "name": "SAINT ATHANASIUS GATE-ST.FRANCIS", 
+        "timestamp": "2017-08-15T04:50:01.829000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 9, 
+        "id": "fbd0530613c6be2dd6be09c74462f89a", 
+        "latitude": 36.4352489, 
+        "longitude": 28.2334135, 
+        "name": "SAINT NICHOLAS SQUARE", 
+        "timestamp": "2017-08-15T04:50:01.831000Z"
+      }
+    ]
+  }
+}

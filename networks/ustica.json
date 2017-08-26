@@ -1,0 +1,66 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/ustica", 
+    "id": "ustica", 
+    "location": {
+      "city": "Ustica", 
+      "country": "IT", 
+      "latitude": 38.7031179, 
+      "longitude": 13.1682675
+    }, 
+    "name": "Ustica", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "8cb101a387db39683dc2bc2275ee8a10", 
+        "latitude": 38.713308713874085, 
+        "longitude": 13.190546035766602, 
+        "name": "Urbana", 
+        "timestamp": "2017-08-15T04:47:53.160000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "3b6e6651ed375f8309a513dac943fd0e", 
+        "latitude": 38.70748187656837, 
+        "longitude": 13.162264823913574, 
+        "name": "Cala Sidoti", 
+        "timestamp": "2017-08-15T04:47:53.169000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "1abc2c5302b1710b337a8890f85e210e", 
+        "latitude": 38.69843929226562, 
+        "longitude": 13.160419464111328, 
+        "name": "Faro", 
+        "timestamp": "2017-08-15T04:47:53.169000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "5867dbd76173cc374a20b8493e756bb0", 
+        "latitude": 38.71039535458604, 
+        "longitude": 13.19307804107666, 
+        "name": "Piazza Longo", 
+        "timestamp": "2017-08-15T04:47:53.170000Z"
+      }
+    ]
+  }
+}

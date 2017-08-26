@@ -1,0 +1,102 @@
+{
+  "network": {
+    "company": [
+      "Baksi Bike Sharing System"
+    ], 
+    "href": "/v2/networks/baksi-antalya", 
+    "id": "baksi-antalya", 
+    "location": {
+      "city": "Antalya", 
+      "country": "TR", 
+      "latitude": 36.862048, 
+      "longitude": 30.638866
+    }, 
+    "name": "Baksi", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 6, 
+          "status": "Active", 
+          "uid": "1103"
+        }, 
+        "free_bikes": 6, 
+        "id": "717c38aaf46b96112e0a28c17086cf1b", 
+        "latitude": 36.89127, 
+        "longitude": 30.703168, 
+        "name": "Kapal\u0131 Yol", 
+        "timestamp": "2017-08-15T04:49:17.347000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 10, 
+          "status": "Active", 
+          "uid": "1104"
+        }, 
+        "free_bikes": 4, 
+        "id": "2936e2eefed23f433283d98f138225e3", 
+        "latitude": 36.881258, 
+        "longitude": 30.707725, 
+        "name": "B\u00fcy\u00fck\u015fehir Belediye", 
+        "timestamp": "2017-08-15T04:49:17.348000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 6, 
+          "status": "Active", 
+          "uid": "1105"
+        }, 
+        "free_bikes": 0, 
+        "id": "ba44ef5f7cc626392f06015b86081365", 
+        "latitude": 36.872875, 
+        "longitude": 30.718592, 
+        "name": "Sampi Kav\u015fa\u011f\u0131", 
+        "timestamp": "2017-08-15T04:49:17.349000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 8, 
+          "status": "Active", 
+          "uid": "1106"
+        }, 
+        "free_bikes": 7, 
+        "id": "7c65879b05c91c9726c1ee4b9ccace4a", 
+        "latitude": 36.855451, 
+        "longitude": 30.780953, 
+        "name": "D\u00fcden Park", 
+        "timestamp": "2017-08-15T04:49:17.350000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 8, 
+          "status": "Active", 
+          "uid": "1102"
+        }, 
+        "free_bikes": 4, 
+        "id": "d42e16fc520cf013fe1add36fc49990b", 
+        "latitude": 36.884869, 
+        "longitude": 30.687061, 
+        "name": "Atat\u00fcrk Park\u0131", 
+        "timestamp": "2017-08-15T04:49:17.345000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 6, 
+          "status": "Active", 
+          "uid": "1101"
+        }, 
+        "free_bikes": 3, 
+        "id": "28ce79e14f2a345a42d8f50710a63c6b", 
+        "latitude": 36.862048, 
+        "longitude": 30.638866, 
+        "name": "Konyaalt\u0131 Kent Meydan\u0131", 
+        "timestamp": "2017-08-15T04:49:17.343000Z"
+      }
+    ]
+  }
+}

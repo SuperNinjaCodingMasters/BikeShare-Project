@@ -1,0 +1,59 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/grad-metkovic-metkovic", 
+    "id": "grad-metkovic-metkovic", 
+    "location": {
+      "city": "Metkovi\u0107", 
+      "country": "HR", 
+      "latitude": 43.0654, 
+      "longitude": 17.642
+    }, 
+    "name": "Grad Metkovi\u0107", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "80181", 
+            "80177", 
+            "80175", 
+            "80174", 
+            "80173"
+          ], 
+          "number": "2455", 
+          "slots": 10, 
+          "uid": "3456295"
+        }, 
+        "free_bikes": 5, 
+        "id": "85f9d46efd1ec7a1901f8d7018eca7eb", 
+        "latitude": 43.053676692852, 
+        "longitude": 17.650276422501, 
+        "name": "Trg kralja Tomislava, Metkovi\u0107", 
+        "timestamp": "2017-08-15T04:49:57.961000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "80180", 
+            "80185", 
+            "80184", 
+            "80182"
+          ], 
+          "number": "2456", 
+          "slots": 4, 
+          "uid": "3456326"
+        }, 
+        "free_bikes": 4, 
+        "id": "3600955de50e9368f2c8319adf57f7f2", 
+        "latitude": 43.080282833602, 
+        "longitude": 17.628464698792, 
+        "name": "Muzej Narona, Vid", 
+        "timestamp": "2017-08-15T04:49:57.969000Z"
+      }
+    ]
+  }
+}

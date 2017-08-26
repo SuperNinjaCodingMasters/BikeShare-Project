@@ -1,0 +1,43 @@
+{
+  "network": {
+    "company": [
+      "Brainbox Technology", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/easybike-kinouria", 
+    "id": "easybike-kinouria", 
+    "location": {
+      "city": "Kinouria", 
+      "country": "GR", 
+      "latitude": 37.1476704305, 
+      "longitude": 22.8933729935
+    }, 
+    "name": "EasyBike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 4
+        }, 
+        "free_bikes": 2, 
+        "id": "f403c4f072139044ce07fe998bd7b29c", 
+        "latitude": 37.1476704305, 
+        "longitude": 22.8933729935, 
+        "name": "Plaka", 
+        "timestamp": "2017-08-15T04:50:15.047000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 6
+        }, 
+        "free_bikes": 4, 
+        "id": "396aa42e6ee8e07f75dbb4082ac94bed", 
+        "latitude": 37.1669863883, 
+        "longitude": 22.8584399033, 
+        "name": "Leonidio", 
+        "timestamp": "2017-08-15T04:50:15.049000Z"
+      }
+    ]
+  }
+}

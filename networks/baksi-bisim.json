@@ -1,0 +1,480 @@
+{
+  "network": {
+    "company": [
+      "Baksi Bike Sharing System"
+    ], 
+    "href": "/v2/networks/baksi-bisim", 
+    "id": "baksi-bisim", 
+    "location": {
+      "city": "Izmir", 
+      "country": "TR", 
+      "latitude": 38.4134047464, 
+      "longitude": 27.0325753524
+    }, 
+    "name": "Baksi", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "slots": 20, 
+          "status": "Active", 
+          "uid": "1103"
+        }, 
+        "free_bikes": 8, 
+        "id": "609f9c4238891bc09936cd7a098af35c", 
+        "latitude": 38.4047512791, 
+        "longitude": 27.0701936867, 
+        "name": "\u00dc\u00e7kuyular \u0130skelesi", 
+        "timestamp": "2017-08-15T04:49:06.062000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": 20, 
+          "status": "Active", 
+          "uid": "1104"
+        }, 
+        "free_bikes": 7, 
+        "id": "aa2935c1ec78fc31e5c1c567efbd0594", 
+        "latitude": 38.4006949388, 
+        "longitude": 27.0781865266, 
+        "name": "A.A Saygun", 
+        "timestamp": "2017-08-15T04:49:06.062000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "slots": 31, 
+          "status": "Active", 
+          "uid": "1105"
+        }, 
+        "free_bikes": 8, 
+        "id": "183d94471151914258dea18731ff7da3", 
+        "latitude": 38.3992000613, 
+        "longitude": 27.0837509082, 
+        "name": "G\u00f6ztepe K\u00f6pr\u00fc", 
+        "timestamp": "2017-08-15T04:49:06.063000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 15, 
+          "status": "Active", 
+          "uid": "1109"
+        }, 
+        "free_bikes": 13, 
+        "id": "61b2982a8e496e2909e55e4f382fd11e", 
+        "latitude": 38.4116478229, 
+        "longitude": 27.1201230494, 
+        "name": "Karata\u015f", 
+        "timestamp": "2017-08-15T04:49:06.067000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "slots": 38, 
+          "status": "Active", 
+          "uid": "1110"
+        }, 
+        "free_bikes": 8, 
+        "id": "b1eb2f80735902baf93de87d3474a351", 
+        "latitude": 38.4187847458, 
+        "longitude": 27.1264456215, 
+        "name": "Konak \u0130skele", 
+        "timestamp": "2017-08-15T04:49:06.068000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 20, 
+          "status": "Active", 
+          "uid": "111001"
+        }, 
+        "free_bikes": 20, 
+        "id": "c4cd8015779e1633d8dd8e8792abb1c3", 
+        "latitude": 38.416539, 
+        "longitude": 27.127547, 
+        "name": "Konak Metro (1130)", 
+        "timestamp": "2017-08-15T04:49:06.068000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 20, 
+          "status": "Active", 
+          "uid": "1111"
+        }, 
+        "free_bikes": 13, 
+        "id": "11d0c49d801d6f4bffd986c8e759e3c4", 
+        "latitude": 38.4275173482, 
+        "longitude": 27.1325844103, 
+        "name": "Pasaport \u0130skele", 
+        "timestamp": "2017-08-15T04:49:06.069000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 20, 
+          "status": "Active", 
+          "uid": "1112"
+        }, 
+        "free_bikes": 11, 
+        "id": "147af47ab155d7630fa0d6318794c886", 
+        "latitude": 38.4303211039, 
+        "longitude": 27.1342384751, 
+        "name": "Vas\u0131f \u00c7\u0131nar", 
+        "timestamp": "2017-08-15T04:49:06.070000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1115"
+        }, 
+        "free_bikes": 7, 
+        "id": "d3b95b4926f1c641cc3e726555cdea6c", 
+        "latitude": 38.4421949873, 
+        "longitude": 27.1432792183, 
+        "name": "Liman", 
+        "timestamp": "2017-08-15T04:49:06.073000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 15, 
+          "status": "Active", 
+          "uid": "1116"
+        }, 
+        "free_bikes": 9, 
+        "id": "8ea919ee44cc8a8b9c21c78241b6f90b", 
+        "latitude": 38.439948857, 
+        "longitude": 27.1478470394, 
+        "name": "Alsancak Gar\u0131", 
+        "timestamp": "2017-08-15T04:49:06.073000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 22, 
+          "status": "Active", 
+          "uid": "1117"
+        }, 
+        "free_bikes": 15, 
+        "id": "678444256ec651a9ec27796473f4dbc7", 
+        "latitude": 38.4451831829, 
+        "longitude": 27.1707578568, 
+        "name": "Meles Rekreasyon Alan\u0131", 
+        "timestamp": "2017-08-15T04:49:06.074000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 13, 
+          "status": "Active", 
+          "uid": "1118"
+        }, 
+        "free_bikes": 13, 
+        "id": "36e009dd4f4a2e174c9ad794cccb0304", 
+        "latitude": 38.4635758915, 
+        "longitude": 27.1627288532, 
+        "name": "Bayrakl\u0131 \u0130skele", 
+        "timestamp": "2017-08-15T04:49:06.075000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "slots": 24, 
+          "status": "Active", 
+          "uid": "1126"
+        }, 
+        "free_bikes": 8, 
+        "id": "d6353dd7ab8c3ca0f4e4d002c437e382", 
+        "latitude": 38.456065695, 
+        "longitude": 27.0926334293, 
+        "name": "Bostanl\u0131 Oda\u011f\u0131", 
+        "timestamp": "2017-08-15T04:49:06.082000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1128"
+        }, 
+        "free_bikes": 8, 
+        "id": "914e4271e4747ad8a12539cd320a3f5f", 
+        "latitude": 38.4654353848, 
+        "longitude": 27.0817107325, 
+        "name": "Mavi\u015fehir Bal\u0131k\u00e7\u0131 Bar\u0131na\u011f\u0131", 
+        "timestamp": "2017-08-15T04:49:06.084000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 24, 
+          "status": "Active", 
+          "uid": "1132"
+        }, 
+        "free_bikes": 18, 
+        "id": "fb7ea8f96edb19733d2807294a470662", 
+        "latitude": 38.487952, 
+        "longitude": 26.958984, 
+        "name": "Do\u011fal Ya\u015fam Park\u0131", 
+        "timestamp": "2017-08-15T04:49:06.086000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "slots": 40, 
+          "status": "Active", 
+          "uid": "1101"
+        }, 
+        "free_bikes": 21, 
+        "id": "81a2def326cc97187e41666320e38dbe", 
+        "latitude": 38.4134047464, 
+        "longitude": 27.0325753524, 
+        "name": "\u0130nciralt\u0131 Rekreasyon Alan\u0131", 
+        "timestamp": "2017-08-15T04:49:06.057000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "slots": 40, 
+          "status": "Active", 
+          "uid": "1102"
+        }, 
+        "free_bikes": 15, 
+        "id": "89c5c6d0e1c035629d129ed1f4acf5bc", 
+        "latitude": 38.4066894063, 
+        "longitude": 27.0618320135, 
+        "name": "\u0130nciralt\u0131 Kent Orman\u0131", 
+        "timestamp": "2017-08-15T04:49:06.061000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 15, 
+          "status": "Active", 
+          "uid": "1106"
+        }, 
+        "free_bikes": 6, 
+        "id": "1e7f533e09a98c0b7b84a370aa4ecaa6", 
+        "latitude": 38.4021639086, 
+        "longitude": 27.0930261205, 
+        "name": "Susuzdede", 
+        "timestamp": "2017-08-15T04:49:06.064000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "slots": 40, 
+          "status": "Active", 
+          "uid": "110101"
+        }, 
+        "free_bikes": 15, 
+        "id": "b8568b58ad34aeee55764593d36bbb71", 
+        "latitude": 38.411389, 
+        "longitude": 27.013472, 
+        "name": "SahilEvleri", 
+        "timestamp": "2017-08-15T04:49:06.060000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": 15, 
+          "status": "Active", 
+          "uid": "1107"
+        }, 
+        "free_bikes": 5, 
+        "id": "44d388d823270744179416a6ac073663", 
+        "latitude": 38.4062155783, 
+        "longitude": 27.0987910553, 
+        "name": "K\u00f6pr\u00fc", 
+        "timestamp": "2017-08-15T04:49:06.065000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1108"
+        }, 
+        "free_bikes": 12, 
+        "id": "9cda37d23a942db3cde2af205a399fd3", 
+        "latitude": 38.4090090197, 
+        "longitude": 27.1089924616, 
+        "name": "Karantina", 
+        "timestamp": "2017-08-15T04:49:06.066000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1113"
+        }, 
+        "free_bikes": 6, 
+        "id": "99ba54bf2aa81d0fad7fea5a3e1dc7e7", 
+        "latitude": 38.4340526994, 
+        "longitude": 27.1380971058, 
+        "name": "Ali \u00c7etinkaya Bulvar\u0131", 
+        "timestamp": "2017-08-15T04:49:06.071000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "slots": 20, 
+          "status": "Active", 
+          "uid": "1114"
+        }, 
+        "free_bikes": 12, 
+        "id": "a282e085c85c42f5dc6d37cd2a41e239", 
+        "latitude": 38.4384639223, 
+        "longitude": 27.1414140426, 
+        "name": "Alsancak \u0130skele", 
+        "timestamp": "2017-08-15T04:49:06.072000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1119"
+        }, 
+        "free_bikes": 5, 
+        "id": "73df94d74b8e9010f7326b1a3e40eb75", 
+        "latitude": 38.4667637722, 
+        "longitude": 27.158891294, 
+        "name": "Bayrakl\u0131 Nikah Salonu", 
+        "timestamp": "2017-08-15T04:49:06.076000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1120"
+        }, 
+        "free_bikes": 8, 
+        "id": "570ff88190f008480dc00eeab22b7581", 
+        "latitude": 38.4671289884, 
+        "longitude": 27.1495805948, 
+        "name": "\u0130zban Turan \u0130stasyonu", 
+        "timestamp": "2017-08-15T04:49:06.077000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1121"
+        }, 
+        "free_bikes": 6, 
+        "id": "5236048170f9db9acd9b0201562a8de8", 
+        "latitude": 38.460132081, 
+        "longitude": 27.1275717356, 
+        "name": "Alaybey Tersane Cafe", 
+        "timestamp": "2017-08-15T04:49:06.078000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1122"
+        }, 
+        "free_bikes": 8, 
+        "id": "36da158bb8190f739ba73da40eab4b95", 
+        "latitude": 38.4552765126, 
+        "longitude": 27.120318845, 
+        "name": "Kar\u015f\u0131yaka iskele", 
+        "timestamp": "2017-08-15T04:49:06.079000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1123"
+        }, 
+        "free_bikes": 5, 
+        "id": "3aa1d333fb31ec7ba88526aee7f899f9", 
+        "latitude": 38.4494793514, 
+        "longitude": 27.1105867977, 
+        "name": "Kar\u015f\u0131yaka Evlendirme Dairesi", 
+        "timestamp": "2017-08-15T04:49:06.080000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1124"
+        }, 
+        "free_bikes": 6, 
+        "id": "11d48f2f7823aa3f21c8f36b78c7fe20", 
+        "latitude": 38.4511789658, 
+        "longitude": 27.1041118947, 
+        "name": "Yunuslar", 
+        "timestamp": "2017-08-15T04:49:06.080000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1125"
+        }, 
+        "free_bikes": 6, 
+        "id": "ad4e0f95996a8a20fd68cbafe8db408b", 
+        "latitude": 38.45471, 
+        "longitude": 27.096761, 
+        "name": "Bostanl\u0131 iskele ", 
+        "timestamp": "2017-08-15T04:49:06.081000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "slots": 40, 
+          "status": "Active", 
+          "uid": "1127"
+        }, 
+        "free_bikes": 18, 
+        "id": "3c6f736309838b74754c0625ca2ce3d7", 
+        "latitude": 38.4622502557, 
+        "longitude": 27.0849728096, 
+        "name": "Bostanl\u0131 Spor Tesisleri", 
+        "timestamp": "2017-08-15T04:49:06.083000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 12, 
+          "status": "Active", 
+          "uid": "1129"
+        }, 
+        "free_bikes": 6, 
+        "id": "eaf112af663ad0ad37c3863fa703594f", 
+        "latitude": 38.4674834, 
+        "longitude": 27.0793412, 
+        "name": "Mavi\u015eehir", 
+        "timestamp": "2017-08-15T04:49:06.085000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 30, 
+          "status": "Active", 
+          "uid": "1131"
+        }, 
+        "free_bikes": 21, 
+        "id": "415ca0c2cf9cf73b30db66b7a25990ef", 
+        "latitude": 38.533134, 
+        "longitude": 26.898589, 
+        "name": "Ku\u015f Cenneti", 
+        "timestamp": "2017-08-15T04:49:06.085000Z"
+      }
+    ]
+  }
+}

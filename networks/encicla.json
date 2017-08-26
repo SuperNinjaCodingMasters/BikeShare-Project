@@ -1,0 +1,898 @@
+{
+  "network": {
+    "company": [
+      "Sistema de Bicicletas P\u00fablicas del Valle de Aburr\u00e1"
+    ], 
+    "href": "/v2/networks/encicla", 
+    "id": "encicla", 
+    "location": {
+      "city": "Medellin", 
+      "country": "CO", 
+      "latitude": 6.254942, 
+      "longitude": -75.567982
+    }, 
+    "name": "EnCicla", 
+    "stations": [
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "CALLE 59A # 64E-44", 
+          "closed": false, 
+          "description": "Porter\u00eda de la Iguan\u00e1 con Carrera 65 de la Universidad Nacional", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/universidad-nacional.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 1, 
+        "id": "2ffffd0ffe27d2c03c0530c4c1a2d019", 
+        "latitude": 6.260703, 
+        "longitude": -75.57858, 
+        "name": "Campus Nacional", 
+        "timestamp": "2017-08-15T04:49:09.330000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "CARRERA 52 # 52-36", 
+          "closed": false, 
+          "description": "Plazoleta de Botero frente a la entrada principal del Museo de Antioquia", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/museo-de-antioquia.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 12, 
+        "id": "516965ba8596bcfad0b0537feaaf5c16", 
+        "latitude": 6.1699743, 
+        "longitude": -75.5873537, 
+        "name": "Envigado Parque", 
+        "timestamp": "2017-08-15T04:49:09.512000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "CARRERA 64 # 65-59", 
+          "closed": false, 
+          "description": "Intercambio vial de Punto Cero al lado de la estaci\u00f3n de polic\u00eda", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/punto-cero.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 7, 
+        "id": "4b63300daece58c40042282c07225a09", 
+        "latitude": 6.265161, 
+        "longitude": -75.575066, 
+        "name": "Punto Cero", 
+        "timestamp": "2017-08-15T04:49:09.327000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "CALLE 59A # 64E-44", 
+          "closed": false, 
+          "description": "Porter\u00eda de la Iguan\u00e1 con Carrera 65 de la Universidad Nacional", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/universidad-nacional.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 0, 
+        "id": "a8b1c09740e1a013cb0facb56641a3c6", 
+        "latitude": 6.259663, 
+        "longitude": -75.578812, 
+        "name": "Universidad Nacional", 
+        "timestamp": "2017-08-15T04:49:09.329000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "CARRERA 77B # 60-22", 
+          "closed": false, 
+          "description": "Diagonal al Colegio Mayor de Antioquia", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-robledo.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 5, 
+        "id": "1dbcc6a63e624cb946613a46c77dc1cc", 
+        "latitude": 6.271922, 
+        "longitude": -75.591324, 
+        "name": "Robledo", 
+        "timestamp": "2017-08-15T04:49:09.331000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "CARRERA 52 # 61-21", 
+          "closed": false, 
+          "description": "Costado oriental de la SIU sobre la ciclorruta de Carabobo", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/siu-udea.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "e7a43cea5dec792642d4aab8c63c5e79", 
+        "latitude": 6.260481, 
+        "longitude": -75.567179, 
+        "name": "SIU-UdeA", 
+        "timestamp": "2017-08-15T04:49:09.332000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "CARRERA 52 # 52-36", 
+          "closed": false, 
+          "description": "Plazoleta de Botero frente a la entrada principal del Museo de Antioquia", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/museo-de-antioquia.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 0, 
+        "id": "d0b006662c61b54483864303bd118724", 
+        "latitude": 6.251826, 
+        "longitude": -75.568796, 
+        "name": "Museo de Antioquia", 
+        "timestamp": "2017-08-15T04:49:09.333000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "CALLE 44 # 52A-14", 
+          "closed": false, 
+          "description": "Plaza de Cisneros frente a los edificios Carr\u00e9 y V\u00e1squez", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-cisneros.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 3, 
+        "id": "71e4124c56cf3a4f697415ecd0feadac", 
+        "latitude": 6.246078, 
+        "longitude": -75.571561, 
+        "name": "Parque de Las Luces I", 
+        "timestamp": "2017-08-15T04:49:09.336000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "CALLE 44 # 52A-14", 
+          "closed": false, 
+          "description": "Plaza de Cisneros frente a los edificios Carr\u00e9 y V\u00e1squez", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-cisneros.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 2, 
+        "id": "d72df65e609c973322facc796db2bc4c", 
+        "latitude": 6.245594, 
+        "longitude": -75.571763, 
+        "name": "Parque de Las Luces II", 
+        "timestamp": "2017-08-15T04:49:09.338000Z"
+      }, 
+      {
+        "empty_slots": 34, 
+        "extra": {
+          "address": "CALLE 42C # 53A-24", 
+          "closed": false, 
+          "description": "Costado sur de la Plaza de la Libertad al lado de La Alpujarra", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-alpujarra.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 4, 
+        "id": "b5828fb96a75ed543feb666f9d4dde8b", 
+        "latitude": 6.2434627, 
+        "longitude": -75.5746534, 
+        "name": "Plaza de La Libertad", 
+        "timestamp": "2017-08-15T04:49:09.340000Z"
+      }, 
+      {
+        "empty_slots": 34, 
+        "extra": {
+          "address": "CALLE 41 CON CARRERA 53", 
+          "closed": false, 
+          "description": "Al frente del edificio del \u00c1rea Metropolitana sobre el costado norte de la Calle Los Huesos", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-idea-area-metropolitana.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 23, 
+        "id": "1e652020f3073c5686183fb4eb95a58e", 
+        "latitude": 6.242481, 
+        "longitude": -75.573872, 
+        "name": "\u00c1rea Metropolitana", 
+        "timestamp": "2017-08-15T04:49:09.342000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "CALLE 41 # 55-80", 
+          "closed": false, 
+          "description": "Costado sur de Plaza Mayor sobre la Avenida Ferrocarril,  salida puente peatonal de Metropl\u00fas", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-plaza-mayor.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 1, 
+        "id": "46175fdda2aa3f1706ff1231d063b49c", 
+        "latitude": 6.2426281, 
+        "longitude": -75.5756351, 
+        "name": "Plaza Mayor", 
+        "timestamp": "2017-08-15T04:49:09.348000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "CARRERA 57A CON CALLE 42A", 
+          "closed": false, 
+          "description": "En el t\u00fanel verde EPM al costado norte de Pies Descalzos", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-pies-descalzos.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "200c15a8bfaa785fd8e5b34f0b97b48d", 
+        "latitude": 6.245512, 
+        "longitude": -75.577011, 
+        "name": "Pies Descalzos I", 
+        "timestamp": "2017-08-15T04:49:09.350000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "CARRERA 57A CON CALLE 42A", 
+          "closed": false, 
+          "description": "En el t\u00fanel verde EPM al costado norte de Pies Descalzos", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-pies-descalzos.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 1, 
+        "id": "e65f7a0c9102e44ccc9dd1d286f34ee1", 
+        "latitude": 6.245322, 
+        "longitude": -75.576857, 
+        "name": "Pies Descalzos II", 
+        "timestamp": "2017-08-15T04:49:09.351000Z"
+      }, 
+      {
+        "empty_slots": 34, 
+        "extra": {
+          "address": "CARRERA 50 CON CALLE 35", 
+          "closed": false, 
+          "description": "Plazuela al frente de la Iglesia del Perpetuo Socorro", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/palace.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "4a8ad914346d8a4139b7c944a5717f48", 
+        "latitude": 6.236338, 
+        "longitude": -75.573291, 
+        "name": "Palac\u00e9", 
+        "timestamp": "2017-08-15T04:49:09.353000Z"
+      }, 
+      {
+        "empty_slots": 40, 
+        "extra": {
+          "address": "CARRERA 64A CON CALLE 50", 
+          "closed": false, 
+          "description": "Parque Carlos E. Restrepo en el costado Norte de la Calle 50 Av. Colombia", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/otra-banda.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "0033610bf17636049be56842e565e224", 
+        "latitude": 6.255589, 
+        "longitude": -75.579259, 
+        "name": "Otra Banda", 
+        "timestamp": "2017-08-15T04:49:09.355000Z"
+      }, 
+      {
+        "empty_slots": 40, 
+        "extra": {
+          "address": "CARRERA 65 # 50-29", 
+          "closed": false, 
+          "description": "Esquina occidental de la Carrera 65 con Calle 51", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/colombia-1.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 0, 
+        "id": "966f967943f226f66943028084ccc351", 
+        "latitude": 6.25649, 
+        "longitude": -75.581024, 
+        "name": "Colombia", 
+        "timestamp": "2017-08-15T04:49:09.358000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "CARRERA 70 # TRANSVERSAL 51A", 
+          "closed": false, 
+          "description": "Al frente de la entrada principal de la Instituci\u00f3n Universitaria Salazar y Herrera", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/los-colores.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 2, 
+        "id": "22cd199105f21e5fde0218b82289f185", 
+        "latitude": 6.260004, 
+        "longitude": -75.585136, 
+        "name": "Los Colores", 
+        "timestamp": "2017-08-15T04:49:09.390000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "CALLE 53 # 73-81", 
+          "closed": false, 
+          "description": "Esquina del supermercado Consumo y la unidad Camino de Los Colores", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/orquideas.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 32, 
+        "id": "399eb6d8baeca6f318d8e359ebf2327c", 
+        "latitude": 6.262605, 
+        "longitude": -75.58895, 
+        "name": "Orqu\u00eddeas", 
+        "timestamp": "2017-08-15T04:49:09.394000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "CALLE 49B #78A-2", 
+          "closed": false, 
+          "description": "V\u00eda paralela a la Calle 50 Av. Colombia,  al costado sur de la zona verde", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/batallon-1.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 11, 
+        "id": "dcea5855d61df55566881f1ed67e610d", 
+        "latitude": 6.262189, 
+        "longitude": -75.595039, 
+        "name": "Batall\u00f3n", 
+        "timestamp": "2017-08-15T04:49:09.402000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "CALLE 48 # 79-46", 
+          "closed": false, 
+          "description": "Bajo el viaducto de la estaci\u00f3n Floresta del Metro en el parqueadero de bicicletas", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-floresta.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 34, 
+        "id": "84d8c8447f9b959ab505f4bb268e68fe", 
+        "latitude": 6.258628, 
+        "longitude": -75.597366, 
+        "name": "Floresta", 
+        "timestamp": "2017-08-15T04:49:09.415000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "CALLE 47 # 72-21", 
+          "closed": false, 
+          "description": "V\u00eda paralela a la Calle 47D Av. Antonio Rold\u00e1n y el Parque Florida Nueva", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/florida-nueva.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 2, 
+        "id": "098ce99bb02b421c79d091a21f79be8a", 
+        "latitude": 6.252601, 
+        "longitude": -75.590333, 
+        "name": "Florida Nueva", 
+        "timestamp": "2017-08-15T04:49:09.416000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "CALLE 47D # 70-82", 
+          "closed": false, 
+          "description": "Bajo el viaducto de la estaci\u00f3n Estadio del Metro en el parqueadero de bicicletas", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-estadio.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 4, 
+        "id": "e3430ce478e2c20f2c547490b39c17a7", 
+        "latitude": 6.253349, 
+        "longitude": -75.587692, 
+        "name": "Estadio", 
+        "timestamp": "2017-08-15T04:49:09.417000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "CALLE 47D # 65-92", 
+          "closed": false, 
+          "description": "Bajo el viaducto de la estaci\u00f3n Suramericana del Metro", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-suramericana.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 28, 
+        "id": "47bdee9d2e7e02d0c451d6a84b979843", 
+        "latitude": 6.253003, 
+        "longitude": -75.582687, 
+        "name": "Suramericana", 
+        "timestamp": "2017-08-15T04:49:09.419000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "CARRERA 65 # 44-41", 
+          "closed": false, 
+          "description": "Esquina de la Calle 44 San Juan con Carrera 65 en Homecenter", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/la65.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 1, 
+        "id": "48440490e8752f409750f1edc5091f8a", 
+        "latitude": 6.248949, 
+        "longitude": -75.583459, 
+        "name": "La 65", 
+        "timestamp": "2017-08-15T04:49:09.419000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "CARRERA 66B # 40-51", 
+          "closed": false, 
+          "description": "Esquina de la Av. Bolivariana con Carrera 65,  costado norte parque de Los Mangos", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-los-mangos.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 5, 
+        "id": "ec136e5dfaed4a039358ef15624a336f", 
+        "latitude": 6.245383, 
+        "longitude": -75.584008, 
+        "name": "Parque de Los Mangos", 
+        "timestamp": "2017-08-15T04:49:09.420000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "CARRERA 66B CON CIRCULAR 2-1", 
+          "closed": false, 
+          "description": "Esquina de la Av. Bolivariana con Circular 2da en el costado sur del parque de Los Mangos", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/san-loaquin.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 4, 
+        "id": "d73254e2195b447512613cf74ad3ab6c", 
+        "latitude": 6.243337, 
+        "longitude": -75.58609, 
+        "name": "San Joaqu\u00edn", 
+        "timestamp": "2017-08-15T04:49:09.421000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "CARRERA 67A CON CIRCULAR 3", 
+          "closed": false, 
+          "description": "Parque de San Joaqu\u00edn con la Circular 3", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/parque-san-loaquin.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "cf1d1a54d84d8e84609f27ee754c1337", 
+        "latitude": 6.245576, 
+        "longitude": -75.586801, 
+        "name": "Parque San Joaqu\u00edn", 
+        "timestamp": "2017-08-15T04:49:09.425000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "CARRERA 70 # CIRCULAR 1-50", 
+          "closed": false, 
+          "description": "Sobre la ciclorruta de la Carrera 70 frente a la entrada de la UPB", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-upb.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 0, 
+        "id": "beab4b1a60dfce4b53ea39e13a0f43f8", 
+        "latitude": 6.244998, 
+        "longitude": -75.589188, 
+        "name": "UPB", 
+        "timestamp": "2017-08-15T04:49:09.438000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "CALLE 44 # 69-133", 
+          "closed": false, 
+          "description": "Costado norte de la Calle 44 San Juan con Carrera 70", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/san-juan.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 2, 
+        "id": "18e98f34d8914088039e5f1d5b469812", 
+        "latitude": 6.249014, 
+        "longitude": -75.588585, 
+        "name": "San Juan", 
+        "timestamp": "2017-08-15T04:49:09.440000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "CALLE 44A # 75-34", 
+          "closed": false, 
+          "description": "Parque monumento a La Virgen en la Cll 44A con Cra 75,  v\u00eda paralela a la Cll San Juan", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/maria-mulata.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 5, 
+        "id": "46a7fc0c186de8c96ffa4902979aa729", 
+        "latitude": 6.250549, 
+        "longitude": -75.594719, 
+        "name": "Mar\u00eda Mulata", 
+        "timestamp": "2017-08-15T04:49:09.441000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "CARRERA 39D # 73-95", 
+          "closed": false, 
+          "description": "Costado norte del 1er Parque de Laureles,  al borde de la ciclorruta", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/primer-parque.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 3, 
+        "id": "7d83559e196972e277ff2568a5bd0df2", 
+        "latitude": 6.24597, 
+        "longitude": -75.593812, 
+        "name": "Primer Parque de Laureles", 
+        "timestamp": "2017-08-15T04:49:09.442000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "CARRERA 76 # 39B-13", 
+          "closed": false, 
+          "description": "Av. Nutibara en las esquina de las instalaciones de UNE", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/pedro-nel-gomez.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 2, 
+        "id": "a9685b6c541a0f74208c8241631f4dcc", 
+        "latitude": 6.246906, 
+        "longitude": -75.596625, 
+        "name": "Pedro Nel G\u00f3mez", 
+        "timestamp": "2017-08-15T04:49:09.445000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Carrera 75 # 38-10", 
+          "closed": false, 
+          "description": "Costado oriental del 2do Parque de Laureles con Av. Jard\u00edn", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/segundo-parque.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 4, 
+        "id": "024eff891bd4f2fb9d335f430f0a6aac", 
+        "latitude": 6.245062, 
+        "longitude": -75.597297, 
+        "name": "Segundo Parque de Laureles", 
+        "timestamp": "2017-08-15T04:49:09.451000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "CIRCULAR 73B # 39-4", 
+          "closed": false, 
+          "description": "Esquina edificio Torre Molinos sobre la Cirq. 73b entre la Av. Nutibara y la Transv. 39", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/cacique-candela.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 3, 
+        "id": "486b1096ebee2c26010560baaa80734c", 
+        "latitude": 6.243788, 
+        "longitude": -75.595409, 
+        "name": "Cacique Candela", 
+        "timestamp": "2017-08-15T04:49:09.452000Z"
+      }, 
+      {
+        "empty_slots": 37, 
+        "extra": {
+          "address": "CARRERA 76 # 34A-32", 
+          "closed": false, 
+          "description": "Portada de la parroquia de Santa Teresita del Ni\u00f1o Jes\u00fas sobre la Carrera 76", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/santa-teresita.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 3, 
+        "id": "93c973c131eaf2c54212ef71f9e5ed56", 
+        "latitude": 6.242021, 
+        "longitude": -75.596746, 
+        "name": "Santa Teresita", 
+        "timestamp": "2017-08-15T04:49:09.453000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "TRANSVERSAL 39B # CIRCULAR 1-2 ", 
+          "closed": false, 
+          "description": "Porter\u00eda de la Circular 1era con Av. Nuribara de la UPB al frente del peri\u00f3dico El Tiempo", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/circular-1.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 4, 
+        "id": "aca95731013113c59cdba2cfc6ecb00b", 
+        "latitude": 6.241859, 
+        "longitude": -75.591929, 
+        "name": "Circular Primera", 
+        "timestamp": "2017-08-15T04:49:09.458000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "CARRERA 48 # 27-86", 
+          "closed": false, 
+          "description": "Plazoleta del Centro Comercial Punto Clave sobre la ciclorruta de la Av. Las Vegas", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/industriales-metro.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 1, 
+        "id": "9e306b51c5daf2642fdddfa76bf5e717", 
+        "latitude": 6.23055, 
+        "longitude": -75.574373, 
+        "name": "Industriales Metro", 
+        "timestamp": "2017-08-15T04:49:09.471000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "CARRERA 48 # 27-4", 
+          "closed": false, 
+          "description": "Al frente del edificio de Bancolombia sobre la ciclorruta de la Av. Las Vegas ", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/rio-aburra.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "6f23438cd04025142325cbca8ad912e9", 
+        "latitude": 6.22851, 
+        "longitude": -75.574658, 
+        "name": "R\u00edo Aburr\u00e1", 
+        "timestamp": "2017-08-15T04:49:09.472000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "Calle 24 con Carrera 43F", 
+          "closed": false, 
+          "description": "Barrio Colombia sobre la Cll. 24 con Cra. 43F", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/primavera.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 0, 
+        "id": "15678b6d7cefae03864a535ca554e75a", 
+        "latitude": 6.2253, 
+        "longitude": -75.572449, 
+        "name": "Primavera", 
+        "timestamp": "2017-08-15T04:49:09.476000Z"
+      }, 
+      {
+        "empty_slots": 38, 
+        "extra": {
+          "address": "CARRERA 48 # 19A-108", 
+          "closed": false, 
+          "description": "Ciudad del Rio en la Plaza Talleres Robledo sobre la ciclorruta de la Av. Las Vegas", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/mamm.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "a0fcfb18409c58df6d29525d721cc345", 
+        "latitude": 6.22378, 
+        "longitude": -75.574966, 
+        "name": "MAMM", 
+        "timestamp": "2017-08-15T04:49:09.477000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "CALLE 19A - CARRERA 43G", 
+          "closed": false, 
+          "description": "Parque lineal de Ciudad del Rio sobre la Carrera 43G", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/ciudad-del-rio.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "4379d80289cd8486d8acd6b5879ce5c2", 
+        "latitude": 6.222324, 
+        "longitude": -75.572961, 
+        "name": "Ciudad del R\u00edo", 
+        "timestamp": "2017-08-15T04:49:09.478000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "CARRERA 48 # 18-100", 
+          "closed": false, 
+          "description": "Esquina sur del complejo residencial Ciudad del Rio y Holasa sobre la ciclorruta de la Av. Las Vegas", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/villa-carlota.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "6253fbcf36e4414f82270f3067821e73", 
+        "latitude": 6.220012, 
+        "longitude": -75.575431, 
+        "name": "Villa Carlota", 
+        "timestamp": "2017-08-15T04:49:09.480000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "CARRERA 52 # 29B-138", 
+          "closed": false, 
+          "description": "Costado occidental de la Estaci\u00f3n Industriales de Metropl\u00fas", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/industriales-metroplus.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 23, 
+        "id": "234df20561c46b130e76a0e645bd66ea", 
+        "latitude": 6.231406, 
+        "longitude": -75.577222, 
+        "name": "Industriales Metropl\u00fas", 
+        "timestamp": "2017-08-15T04:49:09.481000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "address": "CARRERA 65 # 30-1", 
+          "closed": false, 
+          "description": "Costado Occidental de la estaci\u00f3n Nutibara de Metropl\u00fas sobre la Carrera 65 con Calle 30", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/nutibara.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "99010642c1f24fe41ac4f67b9ffcfbec", 
+        "latitude": 6.231811, 
+        "longitude": -75.582953, 
+        "name": "Nutibara", 
+        "timestamp": "2017-08-15T04:49:09.484000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "address": "CARRERA 65 # 32F-12", 
+          "closed": false, 
+          "description": "Costado sur bajo el puente de la Carrera 65 con sobre la Calle 33", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-la33.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 0, 
+        "id": "295578a6bf82f49897d79d92a1426ec3", 
+        "latitude": 6.239151, 
+        "longitude": -75.583073, 
+        "name": "La 33", 
+        "timestamp": "2017-08-15T04:49:09.485000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "CALLE 30A # 66B-18", 
+          "closed": false, 
+          "description": "Porter\u00eda de la Circular 1era con Av. Nutibara de la UPB al frente del peri\u00f3dico El Tiempo", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/unidad-deportiva-belen.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 0, 
+        "id": "eca42e610efdc16abf9601fe7720156a", 
+        "latitude": 6.232526, 
+        "longitude": -75.587564, 
+        "name": "Unidad Deportiva de Bel\u00e9n", 
+        "timestamp": "2017-08-15T04:49:09.495000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "CARRERA 70 # 29-73", 
+          "closed": false, 
+          "description": "Esquina de la Cll. 30 con Cra. 70, diagonal a la estaci\u00f3n Rosales de Metropl\u00fas", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-rosales.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 8, 
+        "id": "a27f3491daec9b0a85a07b24047d0fda", 
+        "latitude": 6.231326, 
+        "longitude": -75.591538, 
+        "name": "Rosales", 
+        "timestamp": "2017-08-15T04:49:09.504000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "CARRERA 70 # 16-18", 
+          "closed": false, 
+          "description": "Costado norte de la plazoleta del Aeroparque Juan Pablo II sobre la Av. 70", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/juan-pablo-II.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 1, 
+        "id": "df9a9e8c79b8c60e5c1ea80ff4686aa9", 
+        "latitude": 6.222392, 
+        "longitude": -75.592235, 
+        "name": "Juan Pablo II", 
+        "timestamp": "2017-08-15T04:49:09.506000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "CARRERA 70 # 3-138", 
+          "closed": false, 
+          "description": "Entrada principal de la Unidad Deportiva Maria Luisa Calle ", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-maria-luisa.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 21, 
+        "id": "c5a8e42fb625c0bf98524cf9d90b4366", 
+        "latitude": 6.21553, 
+        "longitude": -75.593096, 
+        "name": "Maria Luisa Calle", 
+        "timestamp": "2017-08-15T04:49:09.511000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "CALLE 48 CON CARRERA 77A", 
+          "closed": false, 
+          "description": "Esquina de la calle 48 con carrera 77A, barrio Estadio.", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/san-pedro-y-san-pablo.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 13, 
+        "id": "5993e6a66384b09a6f8ec3eb482c29fd", 
+        "latitude": 6.258327, 
+        "longitude": -75.594235, 
+        "name": "San Pedro y San Pablo", 
+        "timestamp": "2017-08-15T04:49:09.395000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Carrera 57 con Calle 48", 
+          "closed": false, 
+          "description": "Frente a la estaci\u00f3n Cisneros del Metropl\u00fas", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estacion-cisneros-autonoma.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 1, 
+        "id": "b97d6b5b8a1ce0da1d3f365cbdda941c", 
+        "latitude": 6.250576, 
+        "longitude": -75.574814, 
+        "name": "Cisneros - Unaula", 
+        "timestamp": "2017-08-15T04:49:09.335000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "CARRERA 52 # 67A-13", 
+          "closed": false, 
+          "description": "Frente a la fachada principal de Ruta N sobre la ciclorruta de la Avenida Carabobo.", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-ruta-n.jpg", 
+          "type": "automatica"
+        }, 
+        "free_bikes": 23, 
+        "id": "43ec15354b7cd8f3f71f95781c577aa6", 
+        "latitude": 6.265182, 
+        "longitude": -75.566348, 
+        "name": "Ruta N", 
+        "timestamp": "2017-08-15T04:49:09.325000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "CALLE 82A # 52-29", 
+          "closed": false, 
+          "description": "Frente a la entrada principal del Centro de Desarrollo Cultural de Moravia", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-moravia.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 9, 
+        "id": "53b20b5cf1db06fddc08e5238f19f755", 
+        "latitude": 6.276585, 
+        "longitude": -75.564804, 
+        "name": "Moravia", 
+        "timestamp": "2017-08-15T04:49:09.309000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "CALLE 73 # 52-2", 
+          "closed": false, 
+          "description": "Bajo el viaducto de la estaci\u00f3n Universidad del Metro", 
+          "picture": "http://www.encicla.gov.co/wp-content/uploads/estaciones-360-universidad.jpg", 
+          "type": "manual"
+        }, 
+        "free_bikes": 52, 
+        "id": "f64c3d5668a0dcfd67957e2ad6b4e10e", 
+        "latitude": 6.269267, 
+        "longitude": -75.5653, 
+        "name": "Universidad", 
+        "timestamp": "2017-08-15T04:49:09.324000Z"
+      }
+    ]
+  }
+}

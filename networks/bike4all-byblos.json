@@ -1,0 +1,133 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/bike4all-byblos", 
+    "id": "bike4all-byblos", 
+    "location": {
+      "city": "Byblos", 
+      "country": "LB", 
+      "latitude": 34.1236, 
+      "longitude": 35.6511
+    }, 
+    "name": "bike4all", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "48054", 
+            "48052", 
+            "48046", 
+            "48045", 
+            "48041"
+          ], 
+          "number": "2221", 
+          "slots": 14, 
+          "uid": "2037825"
+        }, 
+        "free_bikes": 5, 
+        "id": "639572b2f2c1080792d3c1480b0c62c6", 
+        "latitude": 34.123361, 
+        "longitude": 35.645916, 
+        "name": "Public Garden", 
+        "timestamp": "2017-08-15T04:50:06.311000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "48063", 
+            "48059", 
+            "48058", 
+            "48057", 
+            "48055"
+          ], 
+          "number": "2222", 
+          "slots": 20, 
+          "uid": "2037827"
+        }, 
+        "free_bikes": 5, 
+        "id": "0d5ced62908d7db5c052af1215832717", 
+        "latitude": 34.123063545902, 
+        "longitude": 35.642951363116, 
+        "name": "Fishing Port", 
+        "timestamp": "2017-08-15T04:50:06.314000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "48061", 
+            "48051", 
+            "48048", 
+            "48042", 
+            "48040"
+          ], 
+          "number": "2223", 
+          "slots": 16, 
+          "uid": "2037831"
+        }, 
+        "free_bikes": 5, 
+        "id": "79296106a2153912f61151b8a8cad534", 
+        "latitude": 34.121828473566, 
+        "longitude": 35.645461234963, 
+        "name": "Wax Museum", 
+        "timestamp": "2017-08-15T04:50:06.315000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "48062", 
+            "48056", 
+            "48049", 
+            "48044", 
+            "48043"
+          ], 
+          "number": "2224", 
+          "slots": 16, 
+          "uid": "2037833"
+        }, 
+        "free_bikes": 6, 
+        "id": "25a139d195accf90b9653e48db5b509d", 
+        "latitude": 34.122075157344, 
+        "longitude": 35.649231723437, 
+        "name": "Byblos Exit", 
+        "timestamp": "2017-08-15T04:50:06.316000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "bike_uids": [
+            "48012"
+          ], 
+          "number": "2225", 
+          "slots": 18, 
+          "uid": "2037835"
+        }, 
+        "free_bikes": 1, 
+        "id": "b5c233bdb4b00e207f72e5bb63809b51", 
+        "latitude": 34.122564, 
+        "longitude": 35.649005, 
+        "name": "IBL Bank", 
+        "timestamp": "2017-08-15T04:50:06.317000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "2226", 
+          "slots": 10, 
+          "uid": "2037837"
+        }, 
+        "free_bikes": 0, 
+        "id": "e8235e16ee223b00bc03c1a2640f5923", 
+        "latitude": 34.115215514298, 
+        "longitude": 35.65149307251, 
+        "name": "Edde Sands", 
+        "timestamp": "2017-08-15T04:50:06.317000Z"
+      }
+    ]
+  }
+}

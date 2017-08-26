@@ -1,0 +1,2115 @@
+{
+  "network": {
+    "company": [
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "https://hamilton.socialbicycles.com/opendata/gbfs.json", 
+    "href": "/v2/networks/sobi-hamilton", 
+    "id": "sobi-hamilton", 
+    "location": {
+      "city": "Hamilton, ON", 
+      "country": "CA", 
+      "latitude": 43.25643601915583, 
+      "longitude": -79.86929655075073
+    }, 
+    "name": "SoBi", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "237-243 Cumberland Avenue, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1252"
+        }, 
+        "free_bikes": 1, 
+        "id": "188b072a8eb403dc6a462878fc7211c4", 
+        "latitude": 43.24333095563425, 
+        "longitude": -79.84050840139389, 
+        "name": "Cumberland at Blake ", 
+        "timestamp": "2017-08-15T04:48:35.697000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "64, Locke Street North, Hess Village, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_564"
+        }, 
+        "free_bikes": 10, 
+        "id": "91fa730ae5a6c44945e897d27119a5f2", 
+        "latitude": 43.2628018805713, 
+        "longitude": -79.8827367298478, 
+        "name": "Locke at Napier - 46", 
+        "timestamp": "2017-08-15T04:48:35.569000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Harbour Front Drive, North End, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_579"
+        }, 
+        "free_bikes": 3, 
+        "id": "1d6e11c4c4038963b70803c0cb267e96", 
+        "latitude": 43.26926679295707, 
+        "longitude": -79.87134844064711, 
+        "name": "Bayfront Park - 64", 
+        "timestamp": "2017-08-15T04:48:35.548000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1182-1188 Cannon Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1287"
+        }, 
+        "free_bikes": 0, 
+        "id": "bc184bae79ba5aec60f516aecd25bdde", 
+        "latitude": 43.2475653052787, 
+        "longitude": -79.8180502653122, 
+        "name": "Cannon at Ottawa", 
+        "timestamp": "2017-08-15T04:48:35.676000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "80, Queen Street North, Hess Village, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_570"
+        }, 
+        "free_bikes": 5, 
+        "id": "8bd4d92cf10d53a1b69805e875ca2001", 
+        "latitude": 43.2618861338306, 
+        "longitude": -79.877606006297, 
+        "name": "Queen at Peter - 53", 
+        "timestamp": "2017-08-15T04:48:35.559000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "65 Ainslie Avenue, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_580"
+        }, 
+        "free_bikes": 8, 
+        "id": "2c203c07422c6b0dfe9e68116024c731", 
+        "latitude": 43.2495181157076, 
+        "longitude": -79.9234422627427, 
+        "name": "Ainslie at Emerson - 25", 
+        "timestamp": "2017-08-15T04:48:35.720000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "151-163 Hamilton Regional Road 8, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1397"
+        }, 
+        "free_bikes": 4, 
+        "id": "151be2bf06833b79e5c91f2f3b11cc30", 
+        "latitude": 43.25519606248058, 
+        "longitude": -79.86437804996967, 
+        "name": "King at Mary", 
+        "timestamp": "2017-08-15T04:48:35.690000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "955 King Street West, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_544"
+        }, 
+        "free_bikes": 0, 
+        "id": "6f17e8701f57d4460774045411bcec7e", 
+        "latitude": 43.262715994377196, 
+        "longitude": -79.90359663963316, 
+        "name": "Westdale Library -21", 
+        "timestamp": "2017-08-15T04:48:35.612000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "460 York Boulevard, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_565"
+        }, 
+        "free_bikes": 3, 
+        "id": "5abbf86662e318c18e2e8eb448f2e5c8", 
+        "latitude": 43.2659146108256, 
+        "longitude": -79.8819495909127, 
+        "name": "York at Inchbury - 47", 
+        "timestamp": "2017-08-15T04:48:35.571000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "232 James Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_573"
+        }, 
+        "free_bikes": 0, 
+        "id": "3527ca2c4e22a011c0615126afce23d5", 
+        "latitude": 43.2496354495324, 
+        "longitude": -79.8720555723035, 
+        "name": "James S at Charlton - 56", 
+        "timestamp": "2017-08-15T04:48:35.556000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "111, Burlington Street East, North End, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_585"
+        }, 
+        "free_bikes": 5, 
+        "id": "1afd7103a60b1e2bb5e0379e8f800b1d", 
+        "latitude": 43.271621271914, 
+        "longitude": -79.856711442486, 
+        "name": "Eastwood Arena - 70", 
+        "timestamp": "2017-08-15T04:48:35.732000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "174, Ferguson Avenue South, Corktown, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_599"
+        }, 
+        "free_bikes": 3, 
+        "id": "5e74f539b1fb571988571329de31f701", 
+        "latitude": 43.2492552510953, 
+        "longitude": -79.8641461491451, 
+        "name": "Corktown Park - 89", 
+        "timestamp": "2017-08-15T04:48:35.714000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "72 Harvey Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_610"
+        }, 
+        "free_bikes": 9, 
+        "id": "7b70b7a710103141733a20c8576088a7", 
+        "latitude": 43.25504613306136, 
+        "longitude": -79.84128892421722, 
+        "name": "Cannon at Birch (Powell Park) - 103", 
+        "timestamp": "2017-08-15T04:48:35.685000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "4 Cootes Drive, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_530"
+        }, 
+        "free_bikes": 4, 
+        "id": "7b3d74b0070207aba1f0e6595dd7e08b", 
+        "latitude": 43.26567898015789, 
+        "longitude": -79.95041996240616, 
+        "name": "Cootes at York and King", 
+        "timestamp": "2017-08-15T04:48:35.631000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "779-781 Barton Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2917"
+        }, 
+        "free_bikes": 4, 
+        "id": "bae67560f54ae320890f86793feab2d8", 
+        "latitude": 43.2552894386678, 
+        "longitude": -79.83144521713257, 
+        "name": "Barton at Lottridge - ERI03", 
+        "timestamp": "2017-08-15T04:48:35.713000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "954 Barton Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2918"
+        }, 
+        "free_bikes": 2, 
+        "id": "daa810a9a7ab64f657cbaa10b53791f9", 
+        "latitude": 43.252910500996364, 
+        "longitude": -79.82217215001583, 
+        "name": "Barton and Belview - ERI05", 
+        "timestamp": "2017-08-15T04:48:35.689000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "75-77 Gage Avenue North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2924"
+        }, 
+        "free_bikes": 3, 
+        "id": "1846562b60f9d9469c055fed1d84898e", 
+        "latitude": 43.25112644429895, 
+        "longitude": -79.82740849256516, 
+        "name": "Gage at Cannon - ERI11", 
+        "timestamp": "2017-08-15T04:48:35.561000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "44 Dunsmure Road, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2923"
+        }, 
+        "free_bikes": 1, 
+        "id": "39c08c3439e8b49ff26c7d7d9dfe6ed1", 
+        "latitude": 43.24943274108067, 
+        "longitude": -79.8388883471489, 
+        "name": "Dunsmure at Sherman - ERI10", 
+        "timestamp": "2017-08-15T04:48:35.566000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "304 Dunsmure Road, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2922"
+        }, 
+        "free_bikes": 2, 
+        "id": "18ed716ef5002294aaa2ff40b3fd8921", 
+        "latitude": 43.24634382646498, 
+        "longitude": -79.82685998082161, 
+        "name": "King at Dunsmure - ERI09", 
+        "timestamp": "2017-08-15T04:48:35.569000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "52 Ottawa Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2920"
+        }, 
+        "free_bikes": 4, 
+        "id": "5cba09bf4e23ccf57f2ee907ead220d8", 
+        "latitude": 43.24398549430999, 
+        "longitude": -79.81907218694687, 
+        "name": "Ottawa at Dunsmure - ERI07", 
+        "timestamp": "2017-08-15T04:48:35.751000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "286-300 Victoria Avenue North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_593"
+        }, 
+        "free_bikes": 1, 
+        "id": "93546ca33ce7f41d06721fc2dac2781c", 
+        "latitude": 43.26124519046125, 
+        "longitude": -79.853318631649, 
+        "name": "Victoria at Barton - 83", 
+        "timestamp": "2017-08-15T04:48:35.703000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Matthews Hall, Scholars Road, Westdale, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_625"
+        }, 
+        "free_bikes": 5, 
+        "id": "5fd1db2bc0ce16dcc7c983c80fb8ff34", 
+        "latitude": 43.262460120020584, 
+        "longitude": -79.92224670946598, 
+        "name": "McMaster Mary Keyes - 16", 
+        "timestamp": "2017-08-15T04:48:35.586000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "25 York Boulevard, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_708"
+        }, 
+        "free_bikes": 0, 
+        "id": "23a3650f250f263f047262bad48f9644", 
+        "latitude": 43.25901059433612, 
+        "longitude": -79.86919194459914, 
+        "name": "York at Macnab - 61", 
+        "timestamp": "2017-08-15T04:48:35.687000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Waterfront Trail, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1042"
+        }, 
+        "free_bikes": 4, 
+        "id": "b745b74c5f9f41debda6ab80a7d9d2ac", 
+        "latitude": 43.26000777328068, 
+        "longitude": -79.7663875669241, 
+        "name": "Van Wagners", 
+        "timestamp": "2017-08-15T04:48:35.675000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Stearn Drive, McMaster University, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_626"
+        }, 
+        "free_bikes": 1, 
+        "id": "55023df10513c605bcdf984062941364", 
+        "latitude": 43.26458130547259, 
+        "longitude": -79.91868138313293, 
+        "name": "McMaster Stadium - 11", 
+        "timestamp": "2017-08-15T04:48:35.688000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "11 Court Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2869"
+        }, 
+        "free_bikes": 1, 
+        "id": "6690c346b37fcd1b741875064926638a", 
+        "latitude": 43.26547419149645, 
+        "longitude": -79.94765996932983, 
+        "name": "Cootes Drive Dundas", 
+        "timestamp": "2017-08-15T04:48:35.603000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "250 Main Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1063"
+        }, 
+        "free_bikes": 0, 
+        "id": "68f2383d1d34f444f2ef3316e45a5213", 
+        "latitude": 43.25281814686537, 
+        "longitude": -79.86008584499359, 
+        "name": "Main and Wellington", 
+        "timestamp": "2017-08-15T04:48:35.716000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "700 Main Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1253"
+        }, 
+        "free_bikes": 3, 
+        "id": "dfaa61d3929e4c18b049cce2086faa26", 
+        "latitude": 43.24814116192469, 
+        "longitude": -79.84201848506926, 
+        "name": "Main  at Eastbourne", 
+        "timestamp": "2017-08-15T04:48:35.698000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "272 Sherman Avenue North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1468"
+        }, 
+        "free_bikes": 1, 
+        "id": "19ec04bf167c174f4b5cb42630063ef7", 
+        "latitude": 43.26031346760522, 
+        "longitude": -79.83439028263092, 
+        "name": "270 Sherman", 
+        "timestamp": "2017-08-15T04:48:35.643000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "126 Catharine Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_527"
+        }, 
+        "free_bikes": 5, 
+        "id": "fe1507c344d73062f43e013bdd6139a3", 
+        "latitude": 43.25911119199103, 
+        "longitude": -79.86361294984816, 
+        "name": "Seedworks - 81B", 
+        "timestamp": "2017-08-15T04:48:35.677000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "89-101 Osler Drive, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_535"
+        }, 
+        "free_bikes": 5, 
+        "id": "972059c18777939b2148f40fab59bb18", 
+        "latitude": 43.2595496051254, 
+        "longitude": -79.9426434441838, 
+        "name": "Osler at Grant - 6", 
+        "timestamp": "2017-08-15T04:48:35.634000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1850, Main Street West, University Gardens, Ancaster, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_536"
+        }, 
+        "free_bikes": 5, 
+        "id": "cda78e5631d14cf607d59cc92cc6d424", 
+        "latitude": 43.25205234935895, 
+        "longitude": -79.93979036808014, 
+        "name": "Main at Whitney - 7", 
+        "timestamp": "2017-08-15T04:48:35.633000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1686 Main Street West, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_537"
+        }, 
+        "free_bikes": 10, 
+        "id": "43cf0e9fa1672920ce236fc613eee2e3", 
+        "latitude": 43.2572539435115, 
+        "longitude": -79.9342255404988, 
+        "name": "Osler at Main - 8", 
+        "timestamp": "2017-08-15T04:48:35.632000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "377, Whitney Avenue, University Gardens, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_538"
+        }, 
+        "free_bikes": 5, 
+        "id": "0688d3f9058eef55341330755b661c61", 
+        "latitude": 43.2518522355378, 
+        "longitude": -79.9354198942367, 
+        "name": "Whitney at Lower Horning - 9", 
+        "timestamp": "2017-08-15T04:48:35.653000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "58, Sanders Boulevard, University Gardens, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_539"
+        }, 
+        "free_bikes": 4, 
+        "id": "50abdb177272576170d43b46892d2761", 
+        "latitude": 43.25875372772543, 
+        "longitude": -79.92979913949966, 
+        "name": "Sanders at Binkley - 12", 
+        "timestamp": "2017-08-15T04:48:35.651000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "26, Sanders Boulevard, University Gardens, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_540"
+        }, 
+        "free_bikes": 6, 
+        "id": "a7f3ee3b05806c3e979202c0590d5179", 
+        "latitude": 43.2599031676959, 
+        "longitude": -79.9264810904732, 
+        "name": "Sanders at Hollywood - 13", 
+        "timestamp": "2017-08-15T04:48:35.617000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1108 King Street West, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_541"
+        }, 
+        "free_bikes": 7, 
+        "id": "df7262645c8624531b1a34cf39c89771", 
+        "latitude": 43.2605367847852, 
+        "longitude": -79.9092948353051, 
+        "name": "King at Cline - 18", 
+        "timestamp": "2017-08-15T04:48:35.619000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "139, Sterling Street, Westdale, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_542"
+        }, 
+        "free_bikes": 0, 
+        "id": "133e6840636162eef8f7c0e877071607", 
+        "latitude": 43.2622271626907, 
+        "longitude": -79.9133658840373, 
+        "name": "Sterling at Whitton - 19", 
+        "timestamp": "2017-08-15T04:48:35.615000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "71 Sterling Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_543"
+        }, 
+        "free_bikes": 0, 
+        "id": "3736ced2decabcac22ddf364fe1d5407", 
+        "latitude": 43.26202552179778, 
+        "longitude": -79.91026729345322, 
+        "name": "Sterling at Haddon - 20", 
+        "timestamp": "2017-08-15T04:48:35.616000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "202, Emerson Street, University Gardens, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_545"
+        }, 
+        "free_bikes": 6, 
+        "id": "77030d658ee4dd5f9ad7a741fe3cdd79", 
+        "latitude": 43.2521423210113, 
+        "longitude": -79.9222158171462, 
+        "name": "Emerson at Whitney -22", 
+        "timestamp": "2017-08-15T04:48:35.614000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Hamilton Brantford Rail Trail, Emerson Street, Westdale, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_546"
+        }, 
+        "free_bikes": 3, 
+        "id": "8d388d807755c747375a2b7c4b18eada", 
+        "latitude": 43.2546745875963, 
+        "longitude": -79.9208028150996, 
+        "name": "Rail Trail at Emerson - 23", 
+        "timestamp": "2017-08-15T04:48:35.609000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "25 Marion Avenue South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_547"
+        }, 
+        "free_bikes": 12, 
+        "id": "da7a560ed681555928a1d108bc3caab8", 
+        "latitude": 43.26201477888108, 
+        "longitude": -79.90508794784544, 
+        "name": "Westdale Village - 24", 
+        "timestamp": "2017-08-15T04:48:35.610000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Hamilton Brantford Rail Trail, Emerson Street, Westdale, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_548"
+        }, 
+        "free_bikes": 3, 
+        "id": "b23eb87ed716fb2e4f127b9b893f29bc", 
+        "latitude": 43.2535916384655, 
+        "longitude": -79.9166152756283, 
+        "name": "Rail Trail at Stroud - 27", 
+        "timestamp": "2017-08-15T04:48:35.620000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "881, King Street West, Westdale, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_550"
+        }, 
+        "free_bikes": 13, 
+        "id": "ef31eb281843d11149a891269f438331", 
+        "latitude": 43.2630174571678, 
+        "longitude": -79.9009418422827, 
+        "name": "Longwood at King - 30", 
+        "timestamp": "2017-08-15T04:48:35.591000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "78, Longwood Road North, Westdale, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_551"
+        }, 
+        "free_bikes": 13, 
+        "id": "dd521d8e002ed058f01ea5c1d6a899d7", 
+        "latitude": 43.2662112220324, 
+        "longitude": -79.8993094512, 
+        "name": "Longwood at Edgevale - 31", 
+        "timestamp": "2017-08-15T04:48:35.590000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Chedoke Park, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_552"
+        }, 
+        "free_bikes": 8, 
+        "id": "4f4fb284d16149957dda0b5ea3fb8a61", 
+        "latitude": 43.2460802627748, 
+        "longitude": -79.90823779724, 
+        "name": "Chedoke Stairs - 32", 
+        "timestamp": "2017-08-15T04:48:35.598000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "925, Main Street West, McMaster Innovation Park, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_553"
+        }, 
+        "free_bikes": 1, 
+        "id": "0328689b024019a99bbf286907835c21", 
+        "latitude": 43.2588992373017, 
+        "longitude": -79.9024303171158, 
+        "name": "Main at Longwood - 33", 
+        "timestamp": "2017-08-15T04:48:35.598000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "768, King Street West, McMaster Innovation Park, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_554"
+        }, 
+        "free_bikes": 9, 
+        "id": "7c7c2a29076e490b95bc735fbcaed460", 
+        "latitude": 43.2621672804245, 
+        "longitude": -79.8964982026467, 
+        "name": "Macklin at King - 34", 
+        "timestamp": "2017-08-15T04:48:35.600000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "175 Longwood Road South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_555"
+        }, 
+        "free_bikes": 0, 
+        "id": "4d236ee471a909503025f55177bf9fc8", 
+        "latitude": 43.25656885270854, 
+        "longitude": -79.90117862820625, 
+        "name": "McMaster Innovation Park - 35", 
+        "timestamp": "2017-08-15T04:48:35.599000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "534, Dundurn Street South, Chedoke Park, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_556"
+        }, 
+        "free_bikes": 8, 
+        "id": "1fcd421afe5b8dcde4553554201a7ed2", 
+        "latitude": 43.2465214141618, 
+        "longitude": -79.8947787566411, 
+        "name": "Dundurn Stairs - 36", 
+        "timestamp": "2017-08-15T04:48:35.602000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "330-346 Dundurn Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_557"
+        }, 
+        "free_bikes": 4, 
+        "id": "99ec29f3c8fe3433ed45611988e8ca4d", 
+        "latitude": 43.251458458948996, 
+        "longitude": -79.89265590906143, 
+        "name": "Dundurn at Aberdeen - 38", 
+        "timestamp": "2017-08-15T04:48:35.601000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "229-233 Dundurn Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_558"
+        }, 
+        "free_bikes": 6, 
+        "id": "d6c7c14e47cd30a743d379e7e544f2f2", 
+        "latitude": 43.2548127612063, 
+        "longitude": -79.8909067737901, 
+        "name": "Dundurn St S - 39", 
+        "timestamp": "2017-08-15T04:48:35.586000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "91 Dundurn Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_559"
+        }, 
+        "free_bikes": 8, 
+        "id": "34e98e408d0478448d774f24fbb9105a", 
+        "latitude": 43.25966301112219, 
+        "longitude": -79.8892092704773, 
+        "name": "Main at Dundurn - 40", 
+        "timestamp": "2017-08-15T04:48:35.585000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "La Jardinere Flowers, 246, Locke Street South, Hess Village, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_562"
+        }, 
+        "free_bikes": 9, 
+        "id": "afb675baffd27831a14d96fb032f0ccc", 
+        "latitude": 43.2533465230541, 
+        "longitude": -79.886746253805, 
+        "name": "Charlton at Locke - 44", 
+        "timestamp": "2017-08-15T04:48:35.577000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "137, Locke Street South, Hess Village, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_563"
+        }, 
+        "free_bikes": 4, 
+        "id": "0a044af8a55dabe96d0c48f86d744b2c", 
+        "latitude": 43.256556155396176, 
+        "longitude": -79.88510146737099, 
+        "name": "Locke at Hunter - 45", 
+        "timestamp": "2017-08-15T04:48:35.578000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "ABERDEEN at SPRUCESIDE, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_566"
+        }, 
+        "free_bikes": 9, 
+        "id": "17dcbb977faa236652d5f039ee54eab5", 
+        "latitude": 43.2488085584277, 
+        "longitude": -79.8836993988543, 
+        "name": "Aberdeen at Queen - 48", 
+        "timestamp": "2017-08-15T04:48:35.572000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "178, Herkimer Street, Hess Village, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_567"
+        }, 
+        "free_bikes": 8, 
+        "id": "07811ba23e274402a48f7e3a11586b30", 
+        "latitude": 43.251408642220426, 
+        "longitude": -79.88208532333374, 
+        "name": "Herkimer at Queen - 49", 
+        "timestamp": "2017-08-15T04:48:35.575000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "251 Duke Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_568"
+        }, 
+        "free_bikes": 7, 
+        "id": "630c0983a0b38edfc8772e7b45c8dab1", 
+        "latitude": 43.2540651616154, 
+        "longitude": -79.8819466027797, 
+        "name": "Ryerson Recreation Centre - 50", 
+        "timestamp": "2017-08-15T04:48:35.564000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "131-133 Hess Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_569"
+        }, 
+        "free_bikes": 11, 
+        "id": "f5019394e945492c7644ad38a0db33ce", 
+        "latitude": 43.255383107655966, 
+        "longitude": -79.87889617681503, 
+        "name": "Hunter at Hess - 51", 
+        "timestamp": "2017-08-15T04:48:35.565000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "40-48 Oxford Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_571"
+        }, 
+        "free_bikes": 6, 
+        "id": "337f37f6d8b9db34372c0cfe1a7d2595", 
+        "latitude": 43.26456372689135, 
+        "longitude": -79.8777937889099, 
+        "name": "40 Oxford - 54", 
+        "timestamp": "2017-08-15T04:48:35.558000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Durand Park, Park Street South, Corktown, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_572"
+        }, 
+        "free_bikes": 9, 
+        "id": "a900cf5040f1ba45658d5e20ae1e90dc", 
+        "latitude": 43.2498930603697, 
+        "longitude": -79.8765896596649, 
+        "name": "Durand Park - 55", 
+        "timestamp": "2017-08-15T04:48:35.557000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "100 Bold Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_574"
+        }, 
+        "free_bikes": 3, 
+        "id": "a386509756e2c2e15483eaaf344fb412", 
+        "latitude": 43.2538302267771, 
+        "longitude": -79.8753935613187, 
+        "name": "Bay at Bold - 57", 
+        "timestamp": "2017-08-15T04:48:35.556000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "58 Bay Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_575"
+        }, 
+        "free_bikes": 2, 
+        "id": "20dc109608315db09a8332d6e6940c75", 
+        "latitude": 43.2561324863605, 
+        "longitude": -79.8744987564414, 
+        "name": "City Hall - 59", 
+        "timestamp": "2017-08-15T04:48:35.555000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "55, Bay Street North, Hess Village, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_576"
+        }, 
+        "free_bikes": 3, 
+        "id": "3db33cbd603f889fa3a86359fb32826d", 
+        "latitude": 43.2597759765548, 
+        "longitude": -79.8729990705895, 
+        "name": "Bay at York - 60", 
+        "timestamp": "2017-08-15T04:48:35.554000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "177, Bay Street North, Hess Village, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_577"
+        }, 
+        "free_bikes": 1, 
+        "id": "b933317ff2861c45aacbea4cbf4b541f", 
+        "latitude": 43.263198441574474, 
+        "longitude": -79.87180307507515, 
+        "name": "Bay at Mulberry - 62", 
+        "timestamp": "2017-08-15T04:48:35.550000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "325 Bay Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_578"
+        }, 
+        "free_bikes": 2, 
+        "id": "10ef85d0e93facd5091cf3f195b7ab48", 
+        "latitude": 43.267932395204, 
+        "longitude": -79.8678305692086, 
+        "name": "Bay at Strachan - 63", 
+        "timestamp": "2017-08-15T04:48:35.549000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "127, Strachan Street East, North End, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_581"
+        }, 
+        "free_bikes": 6, 
+        "id": "358e7e338757f611235ec88eeb3e552b", 
+        "latitude": 43.2656936955384, 
+        "longitude": -79.8594326469212, 
+        "name": "Strachan at Mary - 66", 
+        "timestamp": "2017-08-15T04:48:35.725000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "448, Hughson Street North, North End, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_582"
+        }, 
+        "free_bikes": 5, 
+        "id": "c824ff91faa08b19bccf9c3b319d72b4", 
+        "latitude": 43.2701169222876, 
+        "longitude": -79.861626657542, 
+        "name": "Hughson at Picton - 67", 
+        "timestamp": "2017-08-15T04:48:35.718000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Waterfront Trail, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_583"
+        }, 
+        "free_bikes": 0, 
+        "id": "5088fc5d00df487772ad583eb8e624e3", 
+        "latitude": 43.27606684636728, 
+        "longitude": -79.86029773950577, 
+        "name": "Discovery Drive - 68", 
+        "timestamp": "2017-08-15T04:48:35.719000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "175 Catharine Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_586"
+        }, 
+        "free_bikes": 5, 
+        "id": "65872d259b31afa6bb291e400fc341ed", 
+        "latitude": 43.2496648107707, 
+        "longitude": -79.8677950761702, 
+        "name": "Catherine at Young - 71", 
+        "timestamp": "2017-08-15T04:48:35.726000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "50 Main Street West, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_587"
+        }, 
+        "free_bikes": 2, 
+        "id": "2228951df269e1d040aa50f80fa9273a", 
+        "latitude": 43.25586951986928, 
+        "longitude": -79.87145036458969, 
+        "name": "Main at Macnab -75", 
+        "timestamp": "2017-08-15T04:48:35.727000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "186, Ferguson Avenue North, Beasley, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_588"
+        }, 
+        "free_bikes": 0, 
+        "id": "e9ee34d7278cd4fa2d45075b69e268e6", 
+        "latitude": 43.262056982995, 
+        "longitude": -79.8582423171631, 
+        "name": "Ferguson at Barton - 77", 
+        "timestamp": "2017-08-15T04:48:35.738000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "206, Ferrie Street East, North End, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_589"
+        }, 
+        "free_bikes": 2, 
+        "id": "1776c0041555f53313a211a978b2d3a9", 
+        "latitude": 43.266617945064255, 
+        "longitude": -79.85489845275879, 
+        "name": "Ferrie at Furguson -78", 
+        "timestamp": "2017-08-15T04:48:35.739000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "156, Cannon Street East, Beasley, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_590"
+        }, 
+        "free_bikes": 3, 
+        "id": "bd95d2facb7bec4fd6c7c8928c941fb0", 
+        "latitude": 43.2587508364231, 
+        "longitude": -79.8598228455297, 
+        "name": "Ferguson at Cannon - 79", 
+        "timestamp": "2017-08-15T04:48:35.702000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "4-12 Ferguson Avenue North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_591"
+        }, 
+        "free_bikes": 5, 
+        "id": "13e403b7b912d5c16f24a962a0dbf8f5", 
+        "latitude": 43.2551792486624, 
+        "longitude": -79.8614431097373, 
+        "name": "Ferguson at King William - 80", 
+        "timestamp": "2017-08-15T04:48:35.701000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "32-36 John Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_592"
+        }, 
+        "free_bikes": 1, 
+        "id": "9195d7afbfb32cba62c70a831ad82b49", 
+        "latitude": 43.257359011015176, 
+        "longitude": -79.86580431461334, 
+        "name": "King William at John - 82", 
+        "timestamp": "2017-08-15T04:48:35.704000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "362 Cannon Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_594"
+        }, 
+        "free_bikes": 5, 
+        "id": "2a64a93ae25a3c6ecbcd1e8a80bc5a7b", 
+        "latitude": 43.2567834448025, 
+        "longitude": -79.8513960078799, 
+        "name": "Cannon at Oak - 85", 
+        "timestamp": "2017-08-15T04:48:35.699000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "203 Wentworth Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_596"
+        }, 
+        "free_bikes": 5, 
+        "id": "54ebd23b9e946b9644567796823f84ce", 
+        "latitude": 43.24487936776345, 
+        "longitude": -79.85186353325844, 
+        "name": "Wentworth Steps - 86", 
+        "timestamp": "2017-08-15T04:48:35.701000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "12-38 Blythe Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_597"
+        }, 
+        "free_bikes": 6, 
+        "id": "25e0a23ac089f5c5d951f4b5f26cf224", 
+        "latitude": 43.2480282225403, 
+        "longitude": -79.8550984051804, 
+        "name": "Stinson at Blythe - 87", 
+        "timestamp": "2017-08-15T04:48:35.700000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "175, Hunter Street East, Corktown, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_598"
+        }, 
+        "free_bikes": 3, 
+        "id": "f144a0bfeea43251601ea8efa4b701d2", 
+        "latitude": 43.251798383773966, 
+        "longitude": -79.86318781971931, 
+        "name": "Hunter at Furguson - 88", 
+        "timestamp": "2017-08-15T04:48:35.715000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "93, West Avenue South, Corktown, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_601"
+        }, 
+        "free_bikes": 2, 
+        "id": "ae7ac15e55165e3cb5978b0bf082e779", 
+        "latitude": 43.2494985579078, 
+        "longitude": -79.859726111821, 
+        "name": "Stinson at West - 92", 
+        "timestamp": "2017-08-15T04:48:35.657000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "338, King William Street, Beasley, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_602"
+        }, 
+        "free_bikes": 5, 
+        "id": "6f4ab4aa1f8204cfd599a3d3c49b73fd", 
+        "latitude": 43.254154362311304, 
+        "longitude": -79.85582381486893, 
+        "name": "King William at Victoria - 94", 
+        "timestamp": "2017-08-15T04:48:35.661000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Fire Station No.8, Barton Street East, Beasley, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_603"
+        }, 
+        "free_bikes": 3, 
+        "id": "4af2ad8e9d74ddd8d63a5d3b0a86810f", 
+        "latitude": 43.2590802780708, 
+        "longitude": -79.8455311859786, 
+        "name": "Barton at Wentworth - 95", 
+        "timestamp": "2017-08-15T04:48:35.659000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "451, Cannon Street East, Beasley, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_604"
+        }, 
+        "free_bikes": 4, 
+        "id": "5ea66dfb7598a1a4659227f1a4698ba5", 
+        "latitude": 43.2559617394464, 
+        "longitude": -79.8475054418754, 
+        "name": "Cannon at Wentworth - 96", 
+        "timestamp": "2017-08-15T04:48:35.665000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "492 Bay Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_606"
+        }, 
+        "free_bikes": 2, 
+        "id": "768268c35a08c86dc7a819108035253f", 
+        "latitude": 43.272362258983364, 
+        "longitude": -79.86627101898192, 
+        "name": "Bay at Macaulay - 99", 
+        "timestamp": "2017-08-15T04:48:35.667000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "22 Haymarket Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_607"
+        }, 
+        "free_bikes": 4, 
+        "id": "352176e326772dbde256ff59c7e12df3", 
+        "latitude": 43.2523698048509, 
+        "longitude": -79.86883386969566, 
+        "name": "Haymarket at Hughson - 100", 
+        "timestamp": "2017-08-15T04:48:35.666000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "295 James Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_608"
+        }, 
+        "free_bikes": 6, 
+        "id": "88b4283638e2beb669e4fe1bee89c2f6", 
+        "latitude": 43.2637774120007, 
+        "longitude": -79.8660421593136, 
+        "name": "James at Colbourne - 101", 
+        "timestamp": "2017-08-15T04:48:35.670000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "4523 Ferguson Avenue South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_609"
+        }, 
+        "free_bikes": 2, 
+        "id": "89702be3edbe08f156bd7b3036f464d4", 
+        "latitude": 43.25400491861888, 
+        "longitude": -79.86223563551903, 
+        "name": "Ferguson at King - 102", 
+        "timestamp": "2017-08-15T04:48:35.669000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "61-65 Sherman Avenue North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_611"
+        }, 
+        "free_bikes": 5, 
+        "id": "dcef5763f35983322b325eff54e9b11c", 
+        "latitude": 43.2533992835566, 
+        "longitude": -79.8374917817979, 
+        "name": "Cannon at Sherman - 104", 
+        "timestamp": "2017-08-15T04:48:35.686000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "17, Delaware Avenue, Inch Park, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_612"
+        }, 
+        "free_bikes": 7, 
+        "id": "c080ee1bfa65cf18eb5b5d75c07f3b8e", 
+        "latitude": 43.2480454302898, 
+        "longitude": -79.8495236914621, 
+        "name": "Delaware at Myrtle - 106", 
+        "timestamp": "2017-08-15T04:48:35.684000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "71, Maplewood Avenue, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_613"
+        }, 
+        "free_bikes": 8, 
+        "id": "24293855f2bcc6f090accfa582724fb9", 
+        "latitude": 43.245150946389735, 
+        "longitude": -79.83708053827286, 
+        "name": "Maplewood at Springer - 108", 
+        "timestamp": "2017-08-15T04:48:35.685000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Main Street West, Emerson at Main, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_622"
+        }, 
+        "free_bikes": 0, 
+        "id": "4bc9ff88b1ceaa64a384fa9731ae8d01", 
+        "latitude": 43.258038792898375, 
+        "longitude": -79.91978779435158, 
+        "name": "McMaster Emerson - 15", 
+        "timestamp": "2017-08-15T04:48:35.589000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2000 College Court, McMaster University, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_623"
+        }, 
+        "free_bikes": 0, 
+        "id": "d933c4e54010753b1c85727ba6e203a2", 
+        "latitude": 43.2599690032886, 
+        "longitude": -79.922358671032, 
+        "name": "McMaster Arthur Bourns - 14", 
+        "timestamp": "2017-08-15T04:48:35.588000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "University Avenue, McMaster University, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_624"
+        }, 
+        "free_bikes": 4, 
+        "id": "b8a4851984d526365510606044fd7d13", 
+        "latitude": 43.2605776303108, 
+        "longitude": -79.9181025906397, 
+        "name": "McMaster Health Sciences - 10", 
+        "timestamp": "2017-08-15T04:48:35.587000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "36 Hunter Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_631"
+        }, 
+        "free_bikes": 4, 
+        "id": "dd00194c26112252a0123c2889671ae0", 
+        "latitude": 43.25343546641674, 
+        "longitude": -79.86948698759079, 
+        "name": "Hunter GO Centre - 72", 
+        "timestamp": "2017-08-15T04:48:35.626000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Sterling Street, McMaster University, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_707"
+        }, 
+        "free_bikes": 0, 
+        "id": "c512b0e491d052fc9310f9c8be815f64", 
+        "latitude": 43.26274333966465, 
+        "longitude": -79.91714715957642, 
+        "name": "McMaster Student Centre - 17", 
+        "timestamp": "2017-08-15T04:48:35.717000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "50 Leander Drive, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_960"
+        }, 
+        "free_bikes": 3, 
+        "id": "367f5ac4d324e57f25a59c0b3de3bd25", 
+        "latitude": 43.27260051521549, 
+        "longitude": -79.86689731478691, 
+        "name": "Pier 4", 
+        "timestamp": "2017-08-15T04:48:35.584000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "190 Gage Avenue South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_614"
+        }, 
+        "free_bikes": 2, 
+        "id": "e322c48bdbc2e5ad2e49c7296e26c237", 
+        "latitude": 43.24344818701565, 
+        "longitude": -79.83040988445282, 
+        "name": "Gage Park - Maplewood - 109", 
+        "timestamp": "2017-08-15T04:48:35.678000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "20 King Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_435"
+        }, 
+        "free_bikes": 1, 
+        "id": "a6ddd4ae5ba3af0edfa38b589f9d884c", 
+        "latitude": 43.256316859398744, 
+        "longitude": -79.86866354942322, 
+        "name": "Gore Park - 74", 
+        "timestamp": "2017-08-15T04:48:35.656000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "200 James Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_436"
+        }, 
+        "free_bikes": 1, 
+        "id": "0bf21f162a6d07a198f581d9993b28bf", 
+        "latitude": 43.26181945279216, 
+        "longitude": -79.86674308776855, 
+        "name": "James North at Mulberry - 76", 
+        "timestamp": "2017-08-15T04:48:35.654000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "9-11 Dundurn Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_560"
+        }, 
+        "free_bikes": 4, 
+        "id": "dff4dd3a682e5fd806a7004a34f166e4", 
+        "latitude": 43.26240933566922, 
+        "longitude": -79.88798081874847, 
+        "name": "King at Dundurn - 42", 
+        "timestamp": "2017-08-15T04:48:35.576000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "16 Wentworth Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_605"
+        }, 
+        "free_bikes": 8, 
+        "id": "3d77891b65e6ced980cc683365a7b4cf", 
+        "latitude": 43.25199038416551, 
+        "longitude": -79.84910354018211, 
+        "name": "Wentworth at King - 97", 
+        "timestamp": "2017-08-15T04:48:35.662000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Stearn Drive, McMaster University, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2570"
+        }, 
+        "free_bikes": 0, 
+        "id": "3ab949422c920dc79e8d0ea8285b4a37", 
+        "latitude": 43.26471509784132, 
+        "longitude": -79.91574570536613, 
+        "name": "Athletic Centre Bike Racks ", 
+        "timestamp": "2017-08-15T04:48:35.716000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "6-8 Main Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2868"
+        }, 
+        "free_bikes": 4, 
+        "id": "3a13a5c31c7483e54a8c71af5a9b0668", 
+        "latitude": 43.26595632543361, 
+        "longitude": -79.95375394821166, 
+        "name": "King Street Dundas", 
+        "timestamp": "2017-08-15T04:48:35.625000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "141-147 Sherman Avenue North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2916"
+        }, 
+        "free_bikes": 4, 
+        "id": "1b7d928b25e0a571420596e4c5c2aadd", 
+        "latitude": 43.2563506050538, 
+        "longitude": -79.83624435961246, 
+        "name": "Sherman at Barton - ERI02", 
+        "timestamp": "2017-08-15T04:48:35.712000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "437-443 Ottawa Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2919"
+        }, 
+        "free_bikes": 1, 
+        "id": "75d70510a6ba5e0d9559620b06d7619f", 
+        "latitude": 43.25147804372769, 
+        "longitude": -79.81602117419243, 
+        "name": "Barton at Ottawa - ERI06", 
+        "timestamp": "2017-08-15T04:48:35.689000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1065 Cannon Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2925"
+        }, 
+        "free_bikes": 2, 
+        "id": "696ab18067b721e64c19bdb6b88f3616", 
+        "latitude": 43.248928499066146, 
+        "longitude": -79.82342541217804, 
+        "name": "Belview at Cannon - ERI12", 
+        "timestamp": "2017-08-15T04:48:35.740000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "80-92 Robinson Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_709"
+        }, 
+        "free_bikes": 2, 
+        "id": "e3f950c764985f5663487f33c961e47d", 
+        "latitude": 43.2515957745917, 
+        "longitude": -79.8749090863127, 
+        "name": "Park at Robinson - 58", 
+        "timestamp": "2017-08-15T04:48:35.627000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "144 West Avenue North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_712"
+        }, 
+        "free_bikes": 3, 
+        "id": "95c24984959b304fdb8bb3ab251810e9", 
+        "latitude": 43.257877862291, 
+        "longitude": -79.8561337635964, 
+        "name": "West at Cannon - 84", 
+        "timestamp": "2017-08-15T04:48:35.560000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "11-15 Melbourne Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_732"
+        }, 
+        "free_bikes": 4, 
+        "id": "8724c8a8947b2d00a296ea6992ca8ff5", 
+        "latitude": 43.2552015794511, 
+        "longitude": -79.8859572264425, 
+        "name": "Melbourne at Locke", 
+        "timestamp": "2017-08-15T04:48:35.605000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "809 Desjardins Recreation Trail, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_765"
+        }, 
+        "free_bikes": 2, 
+        "id": "8601b4c3dfc470daf8d5e63b28b20e7f", 
+        "latitude": 43.2729912871819, 
+        "longitude": -79.8945270389426, 
+        "name": "Princess Point - 29", 
+        "timestamp": "2017-08-15T04:48:35.604000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "34 Studholme Road, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_778"
+        }, 
+        "free_bikes": 7, 
+        "id": "f21694c5cfd4706f5de302501e25eff7", 
+        "latitude": 43.2526283084979, 
+        "longitude": -79.899692892407, 
+        "name": "Aberdeen at Studholme - 37", 
+        "timestamp": "2017-08-15T04:48:35.737000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "61 Hurst Place, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_779"
+        }, 
+        "free_bikes": 2, 
+        "id": "653bff9f015f88cae68325be472e66ed", 
+        "latitude": 43.2543192007999, 
+        "longitude": -79.8733946157064, 
+        "name": "Hunter at Park", 
+        "timestamp": "2017-08-15T04:48:35.734000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "15 Hess Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_802"
+        }, 
+        "free_bikes": 3, 
+        "id": "45dbb0009135e465f49f054517cbe74d", 
+        "latitude": 43.259125842121065, 
+        "longitude": -79.87721174955368, 
+        "name": "Hess at king", 
+        "timestamp": "2017-08-15T04:48:35.540000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "64 Rifle Range Road, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_830"
+        }, 
+        "free_bikes": 4, 
+        "id": "eb652fc9347b78dbffc1e843889d9617", 
+        "latitude": 43.2554850097816, 
+        "longitude": -79.9298771288198, 
+        "name": "Rifle Range at Rail Trail", 
+        "timestamp": "2017-08-15T04:48:35.672000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "62-64 Augusta Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_866"
+        }, 
+        "free_bikes": 2, 
+        "id": "0265404843dccbf9378ce9d56a570914", 
+        "latitude": 43.251632328780424, 
+        "longitude": -79.86898005008698, 
+        "name": "Augusta at John", 
+        "timestamp": "2017-08-15T04:48:35.750000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "134-136 Cannon Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_869"
+        }, 
+        "free_bikes": 2, 
+        "id": "20e4ae493a0c0523cac3c0a4567a4356", 
+        "latitude": 43.25943154069734, 
+        "longitude": -79.86189499497414, 
+        "name": "Mary at Cannon - 00", 
+        "timestamp": "2017-08-15T04:48:35.745000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "96, Forsyth Avenue North, Westdale, Hamilton, Ontario", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_894"
+        }, 
+        "free_bikes": 1, 
+        "id": "07eb6212b2d07abdb5082c0258142734", 
+        "latitude": 43.26305976281214, 
+        "longitude": -79.91578191518784, 
+        "name": "Forsyth at Sterling", 
+        "timestamp": "2017-08-15T04:48:35.561000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1-27 Duke Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_903"
+        }, 
+        "free_bikes": 0, 
+        "id": "7447291d0f94ebcce9b1beb4d452d3f1", 
+        "latitude": 43.251734892170504, 
+        "longitude": -79.8713980615139, 
+        "name": "Duke at James", 
+        "timestamp": "2017-08-15T04:48:35.746000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "41 King William Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_904"
+        }, 
+        "free_bikes": 0, 
+        "id": "d522172c2d50a8abf9e79ad57ab40770", 
+        "latitude": 43.25717148364292, 
+        "longitude": -79.86726745963097, 
+        "name": "King William at Hughson", 
+        "timestamp": "2017-08-15T04:48:35.740000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "9-23 Tisdale Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_905"
+        }, 
+        "free_bikes": 3, 
+        "id": "896848902df81ae7fbfae1ae9d5d7731", 
+        "latitude": 43.25191559879094, 
+        "longitude": -79.85307991504669, 
+        "name": "Tisdale at Main No Frills", 
+        "timestamp": "2017-08-15T04:48:35.742000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "44 Frid Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_921"
+        }, 
+        "free_bikes": 2, 
+        "id": "0941a8cf2073bf2c25c874ee9caf762f", 
+        "latitude": 43.25940517059312, 
+        "longitude": -79.89262372255325, 
+        "name": "Frid at Main", 
+        "timestamp": "2017-08-15T04:48:35.655000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2-30 Guise Street, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_924"
+        }, 
+        "free_bikes": 2, 
+        "id": "278e956d6deb08366ad11ee148182b8a", 
+        "latitude": 43.273843535067726, 
+        "longitude": -79.86148595809937, 
+        "name": "James at Guise", 
+        "timestamp": "2017-08-15T04:48:35.635000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "17A Cannon Street East, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_945"
+        }, 
+        "free_bikes": 4, 
+        "id": "01ca67983c2fd8c0d13138eecf0ae25b", 
+        "latitude": 43.25152292759607, 
+        "longitude": -79.8312360048294, 
+        "name": "Stadium", 
+        "timestamp": "2017-08-15T04:48:35.629000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "380 James Street North, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_959"
+        }, 
+        "free_bikes": 7, 
+        "id": "c3d988cea08f2ba4f54f80f208f431e0", 
+        "latitude": 43.266030544377564, 
+        "longitude": -79.86539393663406, 
+        "name": "West Harbour GO Station", 
+        "timestamp": "2017-08-15T04:48:35.608000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "82 Newton Avenue, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_549"
+        }, 
+        "free_bikes": 10, 
+        "id": "2b42c682f103d65f546555b599e8cf52", 
+        "latitude": 43.2585671813327, 
+        "longitude": -79.90785866975784, 
+        "name": "Main at Columbia College - 28", 
+        "timestamp": "2017-08-15T04:48:35.621000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "57 John Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_780"
+        }, 
+        "free_bikes": 3, 
+        "id": "ad7d9eea49ccec4ac431465d5b6bc8a4", 
+        "latitude": 43.254529435061336, 
+        "longitude": -79.86718028783798, 
+        "name": "Main at John", 
+        "timestamp": "2017-08-15T04:48:35.628000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "34-54 Queen Street South, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_867"
+        }, 
+        "free_bikes": 3, 
+        "id": "89615b03ddf5b1a269058219ae2a8096", 
+        "latitude": 43.25826050172766, 
+        "longitude": -79.87927436828613, 
+        "name": "Queen at George", 
+        "timestamp": "2017-08-15T04:48:35.748000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "9 Westinghouse Avenue, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2926"
+        }, 
+        "free_bikes": 9, 
+        "id": "4b4ce0df11a6f9cf3fc6e04e94c78828", 
+        "latitude": 43.25831920066756, 
+        "longitude": -79.84240606427193, 
+        "name": "Westinghouse at Barton - ERI13", 
+        "timestamp": "2017-08-15T04:48:35.562000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "394 Maple Avenue, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2921"
+        }, 
+        "free_bikes": 6, 
+        "id": "05fffdca01b4d886a823b025b6a04080", 
+        "latitude": 43.24216273334376, 
+        "longitude": -79.8250025510788, 
+        "name": "Maple at Rothsay - ERI08", 
+        "timestamp": "2017-08-15T04:48:35.747000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "100 Mars Avenue, Hamilton", 
+          "last_updated": 1502772509, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2915"
+        }, 
+        "free_bikes": 4, 
+        "id": "4ec1cb16631106bd6374b5e61f694997", 
+        "latitude": 43.26534015820083, 
+        "longitude": -79.84364993870258, 
+        "name": "Mars at Wentworth - ERI01", 
+        "timestamp": "2017-08-15T04:48:35.711000Z"
+      }
+    ]
+  }
+}

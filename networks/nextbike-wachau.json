@@ -1,0 +1,512 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-wachau", 
+    "id": "nextbike-wachau", 
+    "location": {
+      "city": "Wachau", 
+      "country": "AT", 
+      "latitude": 48.3188, 
+      "longitude": 15.4166
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08993", 
+            "08893", 
+            "08621"
+          ], 
+          "number": "3023", 
+          "uid": "42863"
+        }, 
+        "free_bikes": 3, 
+        "id": "b067113173d6dbb55228de60bde6df9e", 
+        "latitude": 48.373246, 
+        "longitude": 15.34493, 
+        "name": "M\u00fchldorf / Feuerwehr ", 
+        "timestamp": "2017-08-15T04:50:17.227000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09699", 
+            "09579", 
+            "09593", 
+            "09848", 
+            "09730"
+          ], 
+          "number": "3000", 
+          "uid": "42835"
+        }, 
+        "free_bikes": 13, 
+        "id": "d625481e6596b073eb3641a85731b892", 
+        "latitude": 48.409263262079, 
+        "longitude": 15.604308843613, 
+        "name": "Krems / Bahnhof ", 
+        "timestamp": "2017-08-15T04:50:17.181000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08824", 
+            "08609", 
+            "08383", 
+            "08382"
+          ], 
+          "number": "3002", 
+          "uid": "42839"
+        }, 
+        "free_bikes": 4, 
+        "id": "b3055f6661679041d760616e22315ceb", 
+        "latitude": 48.409238, 
+        "longitude": 15.595916, 
+        "name": "Krems / S\u00fcdtiroler Platz", 
+        "timestamp": "2017-08-15T04:50:17.207000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09543", 
+            "09653", 
+            "09548", 
+            "09541", 
+            "09663"
+          ], 
+          "number": "3005", 
+          "uid": "42842"
+        }, 
+        "free_bikes": 9, 
+        "id": "92494ff3d35ad7100f4b00795bbcdfec", 
+        "latitude": 48.402746, 
+        "longitude": 15.588165, 
+        "name": "Krems / Donaustation 24 ", 
+        "timestamp": "2017-08-15T04:50:17.208000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09590", 
+            "09708", 
+            "09714", 
+            "08672", 
+            "08556"
+          ], 
+          "number": "3010", 
+          "uid": "42847"
+        }, 
+        "free_bikes": 6, 
+        "id": "2117971225404e656303200678a06b04", 
+        "latitude": 48.395208, 
+        "longitude": 15.575838, 
+        "name": "Mautern a. d. Donau R\u00f6merhalle / Tourismus Information", 
+        "timestamp": "2017-08-15T04:50:17.210000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08636", 
+            "08345"
+          ], 
+          "number": "3011", 
+          "uid": "42851"
+        }, 
+        "free_bikes": 2, 
+        "id": "f40fce981e03290b693d8223ebd7fc40", 
+        "latitude": 48.388762, 
+        "longitude": 15.523692, 
+        "name": "D\u00fcrnstein / Donaustation 21 - Busparkplatz", 
+        "timestamp": "2017-08-15T04:50:17.211000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09618", 
+            "08593", 
+            "08482"
+          ], 
+          "number": "3014", 
+          "uid": "42854"
+        }, 
+        "free_bikes": 3, 
+        "id": "d7945dd33c4e6fe192b6b40dd77267d2", 
+        "latitude": 48.393016, 
+        "longitude": 15.524965, 
+        "name": "D\u00fcrnstein / P2 BHF ", 
+        "timestamp": "2017-08-15T04:50:17.213000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09655", 
+            "09666", 
+            "09567", 
+            "09573", 
+            "09860"
+          ], 
+          "number": "3018", 
+          "uid": "42858"
+        }, 
+        "free_bikes": 15, 
+        "id": "7a4dd48fc3502f041f6db1f8dc6dbe40", 
+        "latitude": 48.395205, 
+        "longitude": 15.4717, 
+        "name": "Wei\u00dfenkirchen / Rollf\u00e4hrestra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:17.216000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09635", 
+            "09551", 
+            "09690", 
+            "09983", 
+            "08978"
+          ], 
+          "number": "3019", 
+          "uid": "42859"
+        }, 
+        "free_bikes": 5, 
+        "id": "7892042771a886c9f18a199cf3128c08", 
+        "latitude": 48.398861, 
+        "longitude": 15.473336, 
+        "name": "Wei\u00dfenkirchen / Bahnhof", 
+        "timestamp": "2017-08-15T04:50:17.223000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09588", 
+            "09677", 
+            "09611", 
+            "09591", 
+            "08938"
+          ], 
+          "number": "3024", 
+          "uid": "42864"
+        }, 
+        "free_bikes": 6, 
+        "id": "ff34667ca2c2ce781f37b23861818a86", 
+        "latitude": 48.297484168532, 
+        "longitude": 15.404398441315, 
+        "name": "Aggsbach Markt/ Freizeitzentrum ", 
+        "timestamp": "2017-08-15T04:50:17.228000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "3030", 
+          "uid": "42870"
+        }, 
+        "free_bikes": 0, 
+        "id": "1ffdeafdc1dc022c9fcd6e854ff6714a", 
+        "latitude": 48.226777595923, 
+        "longitude": 15.333920717239, 
+        "name": "Melk / Sparkassengasse", 
+        "timestamp": "2017-08-15T04:50:17.238000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09564", 
+            "08857", 
+            "08769", 
+            "08415"
+          ], 
+          "number": "3032", 
+          "uid": "42872"
+        }, 
+        "free_bikes": 4, 
+        "id": "faae4e94c7a0030a6d518d6788400561", 
+        "latitude": 48.228055, 
+        "longitude": 15.327437, 
+        "name": "Melk / Hubbr\u00fccke Wachauarena", 
+        "timestamp": "2017-08-15T04:50:17.242000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09659", 
+            "08407"
+          ], 
+          "number": "3034", 
+          "uid": "42874"
+        }, 
+        "free_bikes": 2, 
+        "id": "fd6fe2f4a23bfbebcb225cf25d8aa754", 
+        "latitude": 48.230747810875, 
+        "longitude": 15.331673026085, 
+        "name": "Melk / BRANDNER Schiffahrt Melk/ Altarm", 
+        "timestamp": "2017-08-15T04:50:17.249000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09294"
+          ], 
+          "number": "3035", 
+          "uid": "42875"
+        }, 
+        "free_bikes": 1, 
+        "id": "7dc5c2f555aeebec60a5e2a44103dc09", 
+        "latitude": 48.22738333, 
+        "longitude": 15.32904714, 
+        "name": "Melk / Konditorei Mistlbacher / Fu\u00dfg\u00e4ngerzone", 
+        "timestamp": "2017-08-15T04:50:17.258000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09654", 
+            "09605", 
+            "08957", 
+            "08811", 
+            "08610"
+          ], 
+          "number": "3096", 
+          "uid": "121178"
+        }, 
+        "free_bikes": 6, 
+        "id": "1152a5dacebac6ba45c5fac638184965", 
+        "latitude": 48.3990352452, 
+        "longitude": 15.484253168106, 
+        "name": "Rossatz - Arnsdorf / Winzerst\u00fcberl Essl R\u00fchrsdorf", 
+        "timestamp": "2017-08-15T04:50:17.260000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09530", 
+            "08869", 
+            "08480", 
+            "08333"
+          ], 
+          "number": "3008", 
+          "uid": "42845"
+        }, 
+        "free_bikes": 4, 
+        "id": "97f0e5fa5a6edb7c994fa90d34da2b6b", 
+        "latitude": 48.40729, 
+        "longitude": 15.585197, 
+        "name": "Krems / Campus Donau Uni Krems", 
+        "timestamp": "2017-08-15T04:50:17.209000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09586", 
+            "09721", 
+            "08390", 
+            "08351"
+          ], 
+          "number": "3012", 
+          "uid": "42853"
+        }, 
+        "free_bikes": 4, 
+        "id": "4205f7eab1e36fcc27b7b7c8e6077a99", 
+        "latitude": 48.395048, 
+        "longitude": 15.518728, 
+        "name": "D\u00fcrnstein / BRANDNER Schiffahrt", 
+        "timestamp": "2017-08-15T04:50:17.212000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "3021", 
+          "uid": "42861"
+        }, 
+        "free_bikes": 0, 
+        "id": "8cff74bb6e2e1f7caaa88a3a3def2933", 
+        "latitude": 48.365186, 
+        "longitude": 15.417432, 
+        "name": "Spitz / Bahnhof", 
+        "timestamp": "2017-08-15T04:50:17.226000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09587", 
+            "09643", 
+            "08948", 
+            "08920", 
+            "08810"
+          ], 
+          "number": "3003", 
+          "uid": "42840"
+        }, 
+        "free_bikes": 7, 
+        "id": "7d94b4018eb589b7bc3593d6324cfebe", 
+        "latitude": 48.410571, 
+        "longitude": 15.598589, 
+        "name": "Krems / Landstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:17.208000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08682"
+          ], 
+          "number": "3029", 
+          "uid": "42869"
+        }, 
+        "free_bikes": 1, 
+        "id": "660b6540e235e64816543ba6e88175a2", 
+        "latitude": 48.224612, 
+        "longitude": 15.332422, 
+        "name": "Melk / Bahnhof", 
+        "timestamp": "2017-08-15T04:50:17.233000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08796"
+          ], 
+          "number": "3027", 
+          "uid": "42867"
+        }, 
+        "free_bikes": 1, 
+        "id": "6e262322c0b86165495e52e7b410f75b", 
+        "latitude": 48.24416, 
+        "longitude": 15.341316, 
+        "name": "Emmersdorf / Tourismusinfo ", 
+        "timestamp": "2017-08-15T04:50:17.231000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09705", 
+            "08963"
+          ], 
+          "number": "3020", 
+          "uid": "42860"
+        }, 
+        "free_bikes": 2, 
+        "id": "b8cd0f6078d5f745c44ec3dca940bd99", 
+        "latitude": 48.362572, 
+        "longitude": 15.41777, 
+        "name": "Spitz / Donaustation 15 - Tourismusinfo", 
+        "timestamp": "2017-08-15T04:50:17.224000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09716", 
+            "09577", 
+            "08650"
+          ], 
+          "number": "3016", 
+          "uid": "42856"
+        }, 
+        "free_bikes": 3, 
+        "id": "209eacdaee0baef3c7c92d1d416aff01", 
+        "latitude": 48.364047864618, 
+        "longitude": 15.429031848907, 
+        "name": "Rossatz -Arnsdorf / Feuerwehr Hofarnsdorf", 
+        "timestamp": "2017-08-15T04:50:17.214000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09843", 
+            "08994", 
+            "08643", 
+            "08343"
+          ], 
+          "number": "3017", 
+          "uid": "42857"
+        }, 
+        "free_bikes": 4, 
+        "id": "276984248cb922de22148fa220b7a3fd", 
+        "latitude": 48.391783218544, 
+        "longitude": 15.515511631966, 
+        "name": "Rossatz-Arnsdorf/ Camping - F\u00e4hre Rossatzbach", 
+        "timestamp": "2017-08-15T04:50:17.215000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08940"
+          ], 
+          "number": "3025", 
+          "uid": "42865"
+        }, 
+        "free_bikes": 1, 
+        "id": "ac0c96da881bbbb238020702dd9ae9bd", 
+        "latitude": 48.291535, 
+        "longitude": 15.407051, 
+        "name": "Aggsbach Dorf/ Parkplatz - Info ", 
+        "timestamp": "2017-08-15T04:50:17.229000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09670", 
+            "09857", 
+            "08831", 
+            "08326"
+          ], 
+          "number": "3001", 
+          "uid": "42837"
+        }, 
+        "free_bikes": 4, 
+        "id": "c66038a314c44d6bf6925960194c1693", 
+        "latitude": 48.412799, 
+        "longitude": 15.605642, 
+        "name": "Krems / Nachtw\u00e4chter Kreisverkehr", 
+        "timestamp": "2017-08-15T04:50:17.206000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "uid": "628526"
+        }, 
+        "free_bikes": 0, 
+        "id": "11d7cac018a40249a15ff8b1bb9406af", 
+        "latitude": 48.3188, 
+        "longitude": 15.4166, 
+        "name": "Lager Melk Wachaubad", 
+        "timestamp": "2017-08-15T04:50:17.261000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "3037", 
+          "uid": "44630"
+        }, 
+        "free_bikes": 0, 
+        "id": "a23c414ab5315ab586137020c40c65d4", 
+        "latitude": 48.225716199157, 
+        "longitude": 15.334242582321, 
+        "name": "Melk / BH, Abt Karlstra\u00dfe ", 
+        "timestamp": "2017-08-15T04:50:17.259000Z"
+      }
+    ]
+  }
+}

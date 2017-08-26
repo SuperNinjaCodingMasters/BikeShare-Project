@@ -1,0 +1,36 @@
+{
+  "network": {
+    "company": [
+      "Duke Energy Brasil", 
+      "Governo de Ipaussu"
+    ], 
+    "href": "/v2/networks/dukebike", 
+    "id": "dukebike", 
+    "location": {
+      "city": "Ipa\u00fassu", 
+      "country": "BR", 
+      "latitude": -23.0553, 
+      "longitude": -49.6237
+    }, 
+    "name": "DukeBike", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            23
+          ], 
+          "number": 1, 
+          "open": true, 
+          "uid": 7
+        }, 
+        "free_bikes": 0, 
+        "id": "2fa695a70b2ac61d3a4039e656e9e3dc", 
+        "latitude": -23.052386, 
+        "longitude": -49.630102, 
+        "name": "Lago", 
+        "timestamp": "2017-08-15T04:45:41.466000Z"
+      }
+    ]
+  }
+}

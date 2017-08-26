@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-san-michele-alladige", 
+    "id": "bicincitta-san-michele-alladige", 
+    "location": {
+      "city": "San Michele All'adige", 
+      "country": "IT", 
+      "latitude": 46.1878653, 
+      "longitude": 11.1330423
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Via S.F. Biasi", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "ebc3df2b40d69b30b0aa26cf62f9c2b0", 
+        "latitude": 46.19211611459747, 
+        "longitude": 11.132833099405616, 
+        "name": "Municipio", 
+        "timestamp": "2017-08-15T04:49:45.662000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Via S.F. Biasi c/o Fond. Mach", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "22723aee7ff707a9973ec5e9667d9bc2", 
+        "latitude": 46.1914402574372, 
+        "longitude": 11.134761607687324, 
+        "name": "Mach", 
+        "timestamp": "2017-08-15T04:49:45.665000Z"
+      }
+    ]
+  }
+}

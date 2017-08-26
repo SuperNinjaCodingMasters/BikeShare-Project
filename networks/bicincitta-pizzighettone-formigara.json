@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-pizzighettone-formigara", 
+    "id": "bicincitta-pizzighettone-formigara", 
+    "location": {
+      "city": "Pizzighettone e Formigara", 
+      "country": "IT", 
+      "latitude": 45.186748819167434, 
+      "longitude": 9.778087948479424
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Mercato", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "ec607993467edb919b2af8bc316478fd", 
+        "latitude": 45.186748819167434, 
+        "longitude": 9.778087948479424, 
+        "name": "Pizzighettone", 
+        "timestamp": "2017-08-15T04:48:43.326000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Europa", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "81efb191b903bf63881b20ef8217a1a7", 
+        "latitude": 45.22402113939209, 
+        "longitude": 9.770239707340124, 
+        "name": "Formigara", 
+        "timestamp": "2017-08-15T04:48:43.330000Z"
+      }
+    ]
+  }
+}

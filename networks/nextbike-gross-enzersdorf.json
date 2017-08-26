@@ -1,0 +1,74 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-gross-enzersdorf", 
+    "id": "nextbike-gross-enzersdorf", 
+    "location": {
+      "city": "Gro\u00df Enzersdorf", 
+      "country": "AT", 
+      "latitude": 48.1986, 
+      "longitude": 16.5496
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08964", 
+            "08776", 
+            "08519", 
+            "08498", 
+            "34610"
+          ], 
+          "number": "3568", 
+          "uid": "2709769"
+        }, 
+        "free_bikes": 6, 
+        "id": "0c32c5ede3ee8839f7bc23c3d242af3a", 
+        "latitude": 48.19959604709, 
+        "longitude": 16.550071835518, 
+        "name": "Gro\u00df Enzersdorf / Busbahnhof", 
+        "timestamp": "2017-08-15T04:48:41.651000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08746", 
+            "08332", 
+            "34605"
+          ], 
+          "number": "3569", 
+          "uid": "2709787"
+        }, 
+        "free_bikes": 3, 
+        "id": "5da782aa7534c2e4451f4f8ccc43eee4", 
+        "latitude": 48.18957269635, 
+        "longitude": 16.54546380043, 
+        "name": "Gro\u00df Enzersdorf / Auvorstadt", 
+        "timestamp": "2017-08-15T04:48:41.653000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08719", 
+            "08617", 
+            "08411"
+          ], 
+          "number": "3570", 
+          "uid": "2709799"
+        }, 
+        "free_bikes": 3, 
+        "id": "fedeaf6ff04f770ce38c26af76eed629", 
+        "latitude": 48.196252764163, 
+        "longitude": 16.563616991043, 
+        "name": "Gro\u00df Enzersdorf / Sachsengang", 
+        "timestamp": "2017-08-15T04:48:41.654000Z"
+      }
+    ]
+  }
+}

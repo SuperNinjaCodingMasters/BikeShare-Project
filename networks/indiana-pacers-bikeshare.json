@@ -1,0 +1,483 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_pacersbikeshare/gbfs.json", 
+    "href": "/v2/networks/indiana-pacers-bikeshare", 
+    "id": "indiana-pacers-bikeshare", 
+    "location": {
+      "city": "Indianapolis, IN", 
+      "country": "US", 
+      "latitude": 39.76593, 
+      "longitude": -86.16216
+    }, 
+    "name": "Indiana Pacers Bikeshare", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "300 N. Michigan St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2612"
+        }, 
+        "free_bikes": 11, 
+        "id": "75eb7507767774887704ca2f593db644", 
+        "latitude": 39.77415, 
+        "longitude": -86.16351, 
+        "name": "Michigan and Senate", 
+        "timestamp": "2017-08-15T04:48:53.638000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "749 Virginia Ave.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2615"
+        }, 
+        "free_bikes": 4, 
+        "id": "6bdd6657f5da212f9212a945197660b3", 
+        "latitude": 39.75737, 
+        "longitude": -86.14546, 
+        "name": "Fletcher Place - Virginia and Norwood", 
+        "timestamp": "2017-08-15T04:48:53.641000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "680 Massachusetts Ave.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2626"
+        }, 
+        "free_bikes": 9, 
+        "id": "7a1dbea68f1d3775f3b8455e6e014130", 
+        "latitude": 39.77645, 
+        "longitude": -86.1473, 
+        "name": "Mass Ave. and Park", 
+        "timestamp": "2017-08-15T04:48:53.653000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1066 Virginia Ave.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2614"
+        }, 
+        "free_bikes": 9, 
+        "id": "bdff25223fc7b30e5a6f2321abf0c583", 
+        "latitude": 39.75239, 
+        "longitude": -86.13997, 
+        "name": "Fountain Square", 
+        "timestamp": "2017-08-15T04:48:53.640000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "605 N. Alabama St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2629"
+        }, 
+        "free_bikes": 7, 
+        "id": "7d0ded23900b710ad39ac41fe52757a6", 
+        "latitude": 39.7756, 
+        "longitude": -86.1522, 
+        "name": "North and Alabama", 
+        "timestamp": "2017-08-15T04:48:53.661000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "650 S. Washington St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2608"
+        }, 
+        "free_bikes": 16, 
+        "id": "c698ceea166c3fe8dc27cc2d50a37ada", 
+        "latitude": 39.76845, 
+        "longitude": -86.17022, 
+        "name": "White River State Park", 
+        "timestamp": "2017-08-15T04:48:53.660000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "525 N. Blackford St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2610"
+        }, 
+        "free_bikes": 6, 
+        "id": "38c92d30b86a5d826ba238035b98c1da", 
+        "latitude": 39.77474, 
+        "longitude": -86.16981, 
+        "name": "Michigan and Blackford", 
+        "timestamp": "2017-08-15T04:48:53.635000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "531 Virginia Ave.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2616"
+        }, 
+        "free_bikes": 6, 
+        "id": "a3e7cf63813f28ca9d9ed70d4abfb88b", 
+        "latitude": 39.75852, 
+        "longitude": -86.14661, 
+        "name": "Fletcher Place - Virginia and Merrill", 
+        "timestamp": "2017-08-15T04:48:53.643000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "364 W. Washington St. ", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2628"
+        }, 
+        "free_bikes": 0, 
+        "id": "3d6cb44de25d083cdd1a20943a13a109", 
+        "latitude": 39.76735, 
+        "longitude": -86.16473, 
+        "name": "Indiana Government Center", 
+        "timestamp": "2017-08-15T04:48:53.663000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2 W. Washington St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2618"
+        }, 
+        "free_bikes": 2, 
+        "id": "c05264c6fa49d07fc85f51365e40e6f2", 
+        "latitude": 39.76718, 
+        "longitude": -86.15833, 
+        "name": "Washington and Meridian", 
+        "timestamp": "2017-08-15T04:48:53.645000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "50 S. Capitol Ave.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2605"
+        }, 
+        "free_bikes": 2, 
+        "id": "3fd8d546a3fd32519798cf16ffab53ca", 
+        "latitude": 39.76593, 
+        "longitude": -86.16216, 
+        "name": "Convention Center - Maryland and Capitol", 
+        "timestamp": "2017-08-15T04:48:53.630000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "99 S. West St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2607"
+        }, 
+        "free_bikes": 8, 
+        "id": "89d67db60f48c04c5370d771dfca9ab0", 
+        "latitude": 39.76595, 
+        "longitude": -86.16689, 
+        "name": "Victory Field", 
+        "timestamp": "2017-08-15T04:48:53.667000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1325 Canal Walk", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2609"
+        }, 
+        "free_bikes": 6, 
+        "id": "c6931da21e2251251546aa7ab0badcaf", 
+        "latitude": 39.78131, 
+        "longitude": -86.16627, 
+        "name": "North End of Canal", 
+        "timestamp": "2017-08-15T04:48:53.659000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "401 University Blvd.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2611"
+        }, 
+        "free_bikes": 9, 
+        "id": "17cd72a9314da8135ff746ebd31f6ab3", 
+        "latitude": 39.77338, 
+        "longitude": -86.17543, 
+        "name": "IUPUI Campus Center", 
+        "timestamp": "2017-08-15T04:48:53.636000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "108 N. Alabama St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2619"
+        }, 
+        "free_bikes": 14, 
+        "id": "e7a298623469c5754423add809160621", 
+        "latitude": 39.76866, 
+        "longitude": -86.15284, 
+        "name": "City Market", 
+        "timestamp": "2017-08-15T04:48:53.646000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "372 N. Alabama St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2620"
+        }, 
+        "free_bikes": 14, 
+        "id": "45afd046c93d12d2daceb9706901bf77", 
+        "latitude": 39.77224, 
+        "longitude": -86.1526, 
+        "name": "Mass Ave. and Alabama", 
+        "timestamp": "2017-08-15T04:48:53.655000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "949 Massachusetts Ave.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2621"
+        }, 
+        "free_bikes": 9, 
+        "id": "d68f5e9af9146eec4f33a5183f14aed8", 
+        "latitude": 39.77964, 
+        "longitude": -86.14212, 
+        "name": "North End of Mass Ave.", 
+        "timestamp": "2017-08-15T04:48:53.654000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "401 E. Michigan St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2622"
+        }, 
+        "free_bikes": 9, 
+        "id": "6c7676fab55f4b1064d77e3ac87c6db4", 
+        "latitude": 39.77383, 
+        "longitude": -86.15043, 
+        "name": "Athenaeum", 
+        "timestamp": "2017-08-15T04:48:53.658000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "151 W. Georgia St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2623"
+        }, 
+        "free_bikes": 13, 
+        "id": "2c4b8cb67faaebf353af119d9aeb0a46", 
+        "latitude": 39.76423, 
+        "longitude": -86.16161, 
+        "name": "Convention Center at Georgia Street", 
+        "timestamp": "2017-08-15T04:48:53.656000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "169 S. Pennsylvania St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2624"
+        }, 
+        "free_bikes": 7, 
+        "id": "cd93d973bee98aa98fd9f1a7d9d8499e", 
+        "latitude": 39.76481, 
+        "longitude": -86.1565, 
+        "name": "Bankers Life Fieldhouse", 
+        "timestamp": "2017-08-15T04:48:53.650000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "40 E. St. Clair St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2625"
+        }, 
+        "free_bikes": 5, 
+        "id": "b11aa973454a3ebeefc6eaa0ab670fbb", 
+        "latitude": 39.77803, 
+        "longitude": -86.15631, 
+        "name": "Central Library", 
+        "timestamp": "2017-08-15T04:48:53.649000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "121 Monument Circle", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2627"
+        }, 
+        "free_bikes": 8, 
+        "id": "84b08796ce92cdec1e3302c190337529", 
+        "latitude": 39.76885, 
+        "longitude": -86.15736, 
+        "name": "Monument Circle", 
+        "timestamp": "2017-08-15T04:48:53.651000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "625 N. Capitol Ave. ", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2630"
+        }, 
+        "free_bikes": 5, 
+        "id": "524cfb1d67170982ede83925040d6511", 
+        "latitude": 39.77669, 
+        "longitude": -86.16119, 
+        "name": "Glick Peace Walk", 
+        "timestamp": "2017-08-15T04:48:53.665000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "433 N. Capitol Ave.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2873"
+        }, 
+        "free_bikes": 3, 
+        "id": "e83368fbbde02a9320abc03b6d08d5c6", 
+        "latitude": 39.77356, 
+        "longitude": -86.16133, 
+        "name": "Gibson Building", 
+        "timestamp": "2017-08-15T04:48:53.633000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "202 N. Illinois St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_3366"
+        }, 
+        "free_bikes": 2, 
+        "id": "5872806b745afed369a81c2c563b102d", 
+        "latitude": 39.77009, 
+        "longitude": -86.16048, 
+        "name": "One America Building", 
+        "timestamp": "2017-08-15T04:48:53.648000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "798 Massachusetts Ave.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_3573"
+        }, 
+        "free_bikes": 9, 
+        "id": "8649b1466f4775ae1a1de5755b25b6a9", 
+        "latitude": 39.77759, 
+        "longitude": -86.14545, 
+        "name": "Mass Ave. and College", 
+        "timestamp": "2017-08-15T04:48:53.664000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "101 W. Washington St. ", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2617"
+        }, 
+        "free_bikes": 0, 
+        "id": "6606ea9827ef26d2e84d1eb86c0b9715", 
+        "latitude": 39.76701, 
+        "longitude": -86.16016, 
+        "name": "Washington and Illinois", 
+        "timestamp": "2017-08-15T04:48:53.644000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "720 Eskenazi Ave.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_3574"
+        }, 
+        "free_bikes": 5, 
+        "id": "e61678b3edb92846269f157f615267fa", 
+        "latitude": 39.77639, 
+        "longitude": -86.18302, 
+        "name": "Eskenazi Health", 
+        "timestamp": "2017-08-15T04:48:53.666000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "200 E. Washington St.", 
+          "last_updated": 1502772511, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_pacersbikeshare_2613"
+        }, 
+        "free_bikes": 0, 
+        "id": "021380a0b2ae35302d6127f7d6dde4e9", 
+        "latitude": 39.76707, 
+        "longitude": -86.15457, 
+        "name": "City County Building", 
+        "timestamp": "2017-08-15T04:48:53.639000Z"
+      }
+    ]
+  }
+}

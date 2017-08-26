@@ -1,0 +1,66 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/jesinbici", 
+    "id": "jesinbici", 
+    "location": {
+      "city": "Jesi", 
+      "country": "IT", 
+      "latitude": 43.522601, 
+      "longitude": 13.244448
+    }, 
+    "name": "JesinBici", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "7b049aa0eef3da41950569b8864d58d1", 
+        "latitude": 43.52071061580913, 
+        "longitude": 13.25151188643872, 
+        "name": "Stazione Ferroviaria", 
+        "timestamp": "2017-08-15T04:47:49.553000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "e8c52b691fef855f0462b6ed5ed36604", 
+        "latitude": 43.52021157750617, 
+        "longitude": 13.240681525899163, 
+        "name": "Piazza Pergolesi", 
+        "timestamp": "2017-08-15T04:47:49.556000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "e7fee953e230cf8ae87d90f241d3509f", 
+        "latitude": 43.51867282572821, 
+        "longitude": 13.231650003843697, 
+        "name": "Giardini Pubblici-Stadio Comunale", 
+        "timestamp": "2017-08-15T04:47:49.558000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "ccece8157999fa96e0b6e8b6ed82c1b0", 
+        "latitude": 43.532138219545566, 
+        "longitude": 13.28902598913271, 
+        "name": "Riserva Naturale Ripa Bianca", 
+        "timestamp": "2017-08-15T04:47:49.559000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/swa-rad-augsburg", 
+    "id": "swa-rad-augsburg", 
+    "location": {
+      "city": "Augsburg", 
+      "country": "DE", 
+      "latitude": 48.3647, 
+      "longitude": 10.8916
+    }, 
+    "name": "SWA Rad", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92324", 
+            "92237", 
+            "92205", 
+            "92203", 
+            "92181"
+          ], 
+          "number": "4568", 
+          "uid": "183641"
+        }, 
+        "free_bikes": 5, 
+        "id": "609f590657bac85dd44dc8b3600efe2e", 
+        "latitude": 48.367825664353, 
+        "longitude": 10.871293544769, 
+        "name": "Die Junge Werkstatt", 
+        "timestamp": "2017-08-15T04:50:19.121000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92293", 
+            "92290"
+          ], 
+          "number": "4570", 
+          "uid": "206265"
+        }, 
+        "free_bikes": 2, 
+        "id": "c3824970cacebab08a51cff9b8f592d0", 
+        "latitude": 48.38348985062, 
+        "longitude": 10.838978290558, 
+        "name": "Zentralklinikum", 
+        "timestamp": "2017-08-15T04:50:19.123000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92311", 
+            "92231"
+          ], 
+          "number": "4580", 
+          "uid": "434478"
+        }, 
+        "free_bikes": 2, 
+        "id": "01bce7187bfbf12aa4fca4790c2be472", 
+        "latitude": 48.382727419933, 
+        "longitude": 10.893630981445, 
+        "name": "MAN", 
+        "timestamp": "2017-08-15T04:50:19.143000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92268", 
+            "92223", 
+            "92209", 
+            "92204", 
+            "92195"
+          ], 
+          "number": "4581", 
+          "uid": "1201268"
+        }, 
+        "free_bikes": 5, 
+        "id": "1c1d449a86ad1e208231497b76d450a0", 
+        "latitude": 48.365199054033, 
+        "longitude": 10.887011289597, 
+        "name": "SWA-Info-Box", 
+        "timestamp": "2017-08-15T04:50:19.144000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92308"
+          ], 
+          "number": "4553", 
+          "uid": "81905"
+        }, 
+        "free_bikes": 1, 
+        "id": "b860d97651f91c83d4623752bb63a0a5", 
+        "latitude": 48.356092185144, 
+        "longitude": 10.963969230652, 
+        "name": "P+R Friedberg-West", 
+        "timestamp": "2017-08-15T04:50:19.089000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92310", 
+            "92202", 
+            "92194"
+          ], 
+          "number": "4551", 
+          "uid": "81902"
+        }, 
+        "free_bikes": 3, 
+        "id": "32afe463a06b26f798d5bde77b0071ed", 
+        "latitude": 48.380311793094, 
+        "longitude": 10.855624079704, 
+        "name": "Kriegshaber", 
+        "timestamp": "2017-08-15T04:50:19.083000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92297", 
+            "92259", 
+            "92239", 
+            "92234", 
+            "92227", 
+            "92212"
+          ], 
+          "number": "4558", 
+          "uid": "81913"
+        }, 
+        "free_bikes": 6, 
+        "id": "59d07335d2ff394196d9f9ba3c4039e6", 
+        "latitude": 48.381052882544, 
+        "longitude": 10.873246192932, 
+        "name": "Oberhausen Bahnhof", 
+        "timestamp": "2017-08-15T04:50:19.097000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92284", 
+            "92277", 
+            "92275"
+          ], 
+          "number": "4573", 
+          "uid": "206268"
+        }, 
+        "free_bikes": 3, 
+        "id": "cf36400af79d35db6834f891006ed7ef", 
+        "latitude": 48.385171433072, 
+        "longitude": 10.88038623333, 
+        "name": "Donauw\u00f6rther Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:19.127000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92295", 
+            "92281", 
+            "92279", 
+            "92269", 
+            "92261", 
+            "92215"
+          ], 
+          "number": "4554", 
+          "uid": "81906"
+        }, 
+        "free_bikes": 6, 
+        "id": "3b264630f24c86ecd4d52d126f52f745", 
+        "latitude": 48.402746344221, 
+        "longitude": 10.879147052765, 
+        "name": "Augsburg Nord", 
+        "timestamp": "2017-08-15T04:50:19.091000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92309", 
+            "92296", 
+            "92276", 
+            "92253", 
+            "92244", 
+            "92243", 
+            "92201", 
+            "92196"
+          ], 
+          "number": "4559", 
+          "uid": "81914"
+        }, 
+        "free_bikes": 8, 
+        "id": "1e736f73ce80449e8297693e1c036b62", 
+        "latitude": 48.371011628564, 
+        "longitude": 10.897386074066, 
+        "name": "Stadtwerke", 
+        "timestamp": "2017-08-15T04:50:19.107000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92328", 
+            "92313", 
+            "92286", 
+            "92273", 
+            "92241", 
+            "92238", 
+            "92217", 
+            "92180"
+          ], 
+          "number": "4560", 
+          "uid": "81915"
+        }, 
+        "free_bikes": 8, 
+        "id": "8a423d974bd9e0dc6adcb016e426247a", 
+        "latitude": 48.372790728218, 
+        "longitude": 10.901939123869, 
+        "name": "Jugendherberge", 
+        "timestamp": "2017-08-15T04:50:19.108000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92329", 
+            "92323", 
+            "92250", 
+            "92245", 
+            "92242", 
+            "92240", 
+            "92224", 
+            "92220", 
+            "92210", 
+            "92193", 
+            "92192"
+          ], 
+          "number": "4562", 
+          "uid": "82184"
+        }, 
+        "free_bikes": 11, 
+        "id": "89c7e5cc705fed2f501bdab763764e22", 
+        "latitude": 48.354959504744, 
+        "longitude": 10.902635157108, 
+        "name": "Fachhochschule", 
+        "timestamp": "2017-08-15T04:50:19.112000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92298", 
+            "92289", 
+            "92207"
+          ], 
+          "number": "4561", 
+          "uid": "82244"
+        }, 
+        "free_bikes": 3, 
+        "id": "5b6ae3c65d61258ced7ee9ecc2fa9ea5", 
+        "latitude": 48.364894329955, 
+        "longitude": 10.887950062752, 
+        "name": "Hauptbahnhof Radstation", 
+        "timestamp": "2017-08-15T04:50:19.114000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92314", 
+            "92226", 
+            "92190", 
+            "92189"
+          ], 
+          "number": "4563", 
+          "uid": "117844"
+        }, 
+        "free_bikes": 4, 
+        "id": "cac7f436f444bf4a4bebd03cb86987fd", 
+        "latitude": 48.369436489963, 
+        "longitude": 10.898104906082, 
+        "name": "Karolinenstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:19.115000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92288", 
+            "92271", 
+            "92228"
+          ], 
+          "number": "4564", 
+          "uid": "117845"
+        }, 
+        "free_bikes": 3, 
+        "id": "d4fff8757adc8d8955721bfc6fb7c162", 
+        "latitude": 48.362408354903, 
+        "longitude": 10.868074893951, 
+        "name": "Pfersee", 
+        "timestamp": "2017-08-15T04:50:19.115000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92317", 
+            "92300", 
+            "92264", 
+            "92254", 
+            "92246", 
+            "92221"
+          ], 
+          "number": "4565", 
+          "uid": "117847"
+        }, 
+        "free_bikes": 6, 
+        "id": "c6b75be9f776d0e85bf8e4e9fc81dbfb", 
+        "latitude": 48.358701442753, 
+        "longitude": 10.903265476227, 
+        "name": "Rotes Tor", 
+        "timestamp": "2017-08-15T04:50:19.116000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92316", 
+            "92307", 
+            "92303", 
+            "92299", 
+            "92282", 
+            "92260", 
+            "92229", 
+            "92213", 
+            "92208", 
+            "92200", 
+            "92199", 
+            "92185"
+          ], 
+          "number": "4574", 
+          "uid": "206269"
+        }, 
+        "free_bikes": 12, 
+        "id": "e48edaf7ccec057bd8cc324cd1271fb8", 
+        "latitude": 48.334189828953, 
+        "longitude": 10.898823738098, 
+        "name": "Universit\u00e4t Augsburg", 
+        "timestamp": "2017-08-15T04:50:19.128000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92319", 
+            "92305", 
+            "92292", 
+            "92285", 
+            "92283", 
+            "92274", 
+            "92270", 
+            "92263", 
+            "92255", 
+            "92236", 
+            "92214", 
+            "92186", 
+            "92183"
+          ], 
+          "number": "4577", 
+          "uid": "262590"
+        }, 
+        "free_bikes": 13, 
+        "id": "c6e70989db206b56a25f564bdc081586", 
+        "latitude": 48.365915415737, 
+        "longitude": 10.894253253937, 
+        "name": "K\u00f6nigsplatz", 
+        "timestamp": "2017-08-15T04:50:19.139000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4572", 
+          "uid": "206267"
+        }, 
+        "free_bikes": 0, 
+        "id": "af92ef0f69a66530cfccd0cc84a991d1", 
+        "latitude": 48.38744433122, 
+        "longitude": 10.9064412117, 
+        "name": "Schillstra\u00dfe 98", 
+        "timestamp": "2017-08-15T04:50:19.126000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4579", 
+          "uid": "305051"
+        }, 
+        "free_bikes": 0, 
+        "id": "30d0ed6c24f76d81d0da1721a3916ade", 
+        "latitude": 48.364988776794, 
+        "longitude": 10.891871452332, 
+        "name": "Sparkasse Halderstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:19.142000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92252", 
+            "92182"
+          ], 
+          "number": "4550", 
+          "uid": "81900"
+        }, 
+        "free_bikes": 2, 
+        "id": "2ef4dbe8dda0ddf040e1c007bd6efb82", 
+        "latitude": 48.349853664239, 
+        "longitude": 10.917786955833, 
+        "name": "Zoo / Botanischer Garten", 
+        "timestamp": "2017-08-15T04:50:19.080000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92257", 
+            "92249"
+          ], 
+          "number": "4578", 
+          "uid": "301121"
+        }, 
+        "free_bikes": 2, 
+        "id": "3e930876e7b1bba4fd32eea59ef83770", 
+        "latitude": 48.338551084252, 
+        "longitude": 10.866401195526, 
+        "name": "Hessing Kliniken", 
+        "timestamp": "2017-08-15T04:50:19.141000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92318", 
+            "92291", 
+            "92187"
+          ], 
+          "number": "4567", 
+          "uid": "135510"
+        }, 
+        "free_bikes": 3, 
+        "id": "220c4d155df613d0210c06f253da1fa6", 
+        "latitude": 48.367022014384, 
+        "longitude": 10.84591448307, 
+        "name": "Stadtbergen / Altenheim", 
+        "timestamp": "2017-08-15T04:50:19.118000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92235"
+          ], 
+          "number": "4569", 
+          "uid": "201960"
+        }, 
+        "free_bikes": 1, 
+        "id": "8eb4235fb498310d0c3cbd1917bb368b", 
+        "latitude": 48.396485043253, 
+        "longitude": 10.914817750454, 
+        "name": "Hammerschmiede", 
+        "timestamp": "2017-08-15T04:50:19.122000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92322", 
+            "92315", 
+            "92301", 
+            "92287", 
+            "92256"
+          ], 
+          "number": "4571", 
+          "uid": "206266"
+        }, 
+        "free_bikes": 5, 
+        "id": "522bd5a6089724169e16544099f4a1ce", 
+        "latitude": 48.355436285165, 
+        "longitude": 10.950869321823, 
+        "name": "Friedberger Str. 165a", 
+        "timestamp": "2017-08-15T04:50:19.125000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92327", 
+            "92294", 
+            "92267", 
+            "92233", 
+            "92232", 
+            "92188"
+          ], 
+          "number": "4575", 
+          "uid": "206330"
+        }, 
+        "free_bikes": 6, 
+        "id": "010b0a2616e75ab657538b59c676f8ba", 
+        "latitude": 48.3193915887, 
+        "longitude": 10.908935666084, 
+        "name": "Haunstetten-Nord", 
+        "timestamp": "2017-08-15T04:50:19.130000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92280"
+          ], 
+          "number": "4556", 
+          "uid": "81910"
+        }, 
+        "free_bikes": 1, 
+        "id": "baf509fb4de5a528c8e3037f5e1df456", 
+        "latitude": 48.368611482769, 
+        "longitude": 10.895363688469, 
+        "name": "Ernst-Reuter-Platz", 
+        "timestamp": "2017-08-15T04:50:19.094000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92321", 
+            "92312", 
+            "92306", 
+            "92304", 
+            "92272"
+          ], 
+          "number": "4552", 
+          "uid": "81903"
+        }, 
+        "free_bikes": 5, 
+        "id": "b1fa5810dbc00d6dd470cbd427949235", 
+        "latitude": 48.309887634991, 
+        "longitude": 10.893523693085, 
+        "name": "Haunstetten-West", 
+        "timestamp": "2017-08-15T04:50:19.084000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92302", 
+            "92266", 
+            "92262", 
+            "92230", 
+            "92198", 
+            "92184"
+          ], 
+          "number": "4555", 
+          "uid": "81907"
+        }, 
+        "free_bikes": 6, 
+        "id": "c7f7fc88e2de066db0b6b76d92b7f2bf", 
+        "latitude": 48.365637425824, 
+        "longitude": 10.936782360077, 
+        "name": "Lechhausen / Neuer Ostfriedhof", 
+        "timestamp": "2017-08-15T04:50:19.093000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "92326", 
+            "92325", 
+            "92320", 
+            "92278", 
+            "92258", 
+            "92251", 
+            "92225", 
+            "92222", 
+            "92211", 
+            "92197"
+          ], 
+          "number": "4557", 
+          "uid": "81912"
+        }, 
+        "free_bikes": 10, 
+        "id": "93003d03626caa96c69cae568bdffaf1", 
+        "latitude": 48.365911851773, 
+        "longitude": 10.904901623726, 
+        "name": "City Galerie", 
+        "timestamp": "2017-08-15T04:50:19.095000Z"
+      }
+    ]
+  }
+}

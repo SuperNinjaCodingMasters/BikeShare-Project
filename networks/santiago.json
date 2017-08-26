@@ -1,0 +1,2120 @@
+{
+  "network": {
+    "company": [
+      "Trek Bicycle Corporation", 
+      "Humana", 
+      "Crispin Porter + Bogusky"
+    ], 
+    "href": "/v2/networks/santiago", 
+    "id": "santiago", 
+    "location": {
+      "city": "Santiago", 
+      "country": "CL", 
+      "latitude": -33.457, 
+      "longitude": -70.648
+    }, 
+    "name": "Bike Santiago", 
+    "stations": [
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Pocuro / Tobalaba (Metro Bilbao), Providencia, Santiago,  "
+        }, 
+        "free_bikes": 5, 
+        "id": "a74a24e115f6c569dc4d81ece3aa4d4c", 
+        "latitude": -33.43071, 
+        "longitude": -70.58617, 
+        "name": "Metro Francisco Bilbao", 
+        "timestamp": "2017-04-27T02:27:16.652000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Las Hortensias / Juan de Dios Vial, Providencia,Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "a7b0d2a304ce89cb200a75783143da0b", 
+        "latitude": -33.42654, 
+        "longitude": -70.59548, 
+        "name": "Plaza Loreto Cousi\u00f1o", 
+        "timestamp": "2017-04-27T02:27:16.764000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Camino Los Trapenses / Camino del Abad Int, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 4, 
+        "id": "5e593cb6ffdc7a60485a5bdc6a5599cc", 
+        "latitude": -33.34795, 
+        "longitude": -70.54243, 
+        "name": "Puertas Del Valle", 
+        "timestamp": "2017-04-27T02:27:16.642000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Irarrazaval / General Bustamante, \u00d1u\u00f1oa,Santiago,  "
+        }, 
+        "free_bikes": 8, 
+        "id": "b6932f6ee4b1f57f40e754906f6da568", 
+        "latitude": -33.45275, 
+        "longitude": -70.6282, 
+        "name": "Metro Irarrazaval", 
+        "timestamp": "2017-04-27T02:27:16.712000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Alonso de C\u00f3rdova / El Ciruelillo, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "b06c39bde6f05b589e298d7e62b0b6b5", 
+        "latitude": -33.40296, 
+        "longitude": -70.59038, 
+        "name": "El Ciruelillo", 
+        "timestamp": "2017-04-27T02:27:16.602000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Manquehue Norte/Joaquin Cerda, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "2891527794dbfec3406e677d2e7f70b0", 
+        "latitude": -33.38499, 
+        "longitude": -70.57906, 
+        "name": "Plaza Colombia", 
+        "timestamp": "2017-04-27T02:27:16.604000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Bicentenario / Alonso de C\u00f3rdova, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "66e1302fac598855709d12aeaa6e84fe", 
+        "latitude": -33.40065, 
+        "longitude": -70.60158, 
+        "name": "Bicentenario", 
+        "timestamp": "2017-04-27T02:27:16.605000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Dag Hammarskjold / Vitacura, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "d77326afe409d25c7ea18c1a9f27ee3a", 
+        "latitude": -33.40719, 
+        "longitude": -70.60119, 
+        "name": "Naciones Unidas", 
+        "timestamp": "2017-04-27T02:27:16.606000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Bicentenario / Isabel Montt, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "35890471109dac40faae964d2ac02769", 
+        "latitude": -33.39399, 
+        "longitude": -70.59963, 
+        "name": "Mestizo", 
+        "timestamp": "2017-04-27T02:27:16.607000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Nueva Costanera / Antonio de Pastrana, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "c1331bbc53b8724b8bbcc8ba19edfa4e", 
+        "latitude": -33.40333, 
+        "longitude": -70.59863, 
+        "name": "Nueva Costanera", 
+        "timestamp": "2017-04-27T02:27:16.608000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Vitacura / Pio XI , Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "8ca121f3acca28b0774fc4c77ed62d09", 
+        "latitude": -33.39713, 
+        "longitude": -70.58264, 
+        "name": "Plaza San Pio", 
+        "timestamp": "2017-04-27T02:27:16.609000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Las Hualtatas / Luis Carrera, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "1b3c278fe87cf6622ac48213bf035c72", 
+        "latitude": -33.39693, 
+        "longitude": -70.57711, 
+        "name": "Las Hualtatas", 
+        "timestamp": "2017-04-27T02:27:16.610000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Vitacura / Alonso de C\u00f3rdova, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "517c49e217da2a3211350e3a3d133873", 
+        "latitude": -33.40197, 
+        "longitude": -70.59442, 
+        "name": "Alonso de C\u00f3rdova", 
+        "timestamp": "2017-04-27T02:27:16.611000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Las Tranqueras / Cleveland, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 7, 
+        "id": "cf776709195915ff83d64fd58b913be1", 
+        "latitude": -33.39006, 
+        "longitude": -70.55327, 
+        "name": "Centro el Dorado", 
+        "timestamp": "2017-04-27T02:27:16.612000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Vitacura / Paul Claudel, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "3cf680d45e1f7192f5e34acdd69399ec", 
+        "latitude": -33.40504, 
+        "longitude": -70.59727, 
+        "name": "Paul Claudel", 
+        "timestamp": "2017-04-27T02:27:16.615000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Manquehue / Luis Pasteur , Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "b3a7b2b0c1743a8ccd0ab9e908378f93", 
+        "latitude": -33.38727, 
+        "longitude": -70.57604, 
+        "name": "Manquehue / Luis Pasteur", 
+        "timestamp": "2017-04-27T02:27:16.618000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Manquehue / Vitacura, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "44aa15a2bc8d4b1b92e83e13ab97bda0", 
+        "latitude": -33.39214, 
+        "longitude": -70.5726, 
+        "name": "Cl\u00ednica Alemana", 
+        "timestamp": "2017-04-27T02:27:16.619000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Luis Pasteur / Luis Carrera , Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 4, 
+        "id": "44d9aefcb481b0678f3e2bbe6f59cc25", 
+        "latitude": -33.39281, 
+        "longitude": -70.58145, 
+        "name": "Luis Pasteur / Luis Carrera ", 
+        "timestamp": "2017-04-27T02:27:16.622000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Las Tranqueras / Vitacura, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "8404f389d593ad62089bc3d9578cc9ca", 
+        "latitude": -33.38425, 
+        "longitude": -70.55312, 
+        "name": "Las Tranqueras / Vitacura", 
+        "timestamp": "2017-04-27T02:27:16.624000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Avenida La Dehesa 1300, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "23745f0f5f151c542581557d4ddf43c0", 
+        "latitude": -33.35964, 
+        "longitude": -70.51667, 
+        "name": "Portal La Dehesa", 
+        "timestamp": "2017-04-27T02:27:16.630000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Las Condes 14413, Lo Barnechea,Santiago,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "f6369994570b2270af7cfa0fc242ae5f", 
+        "latitude": -33.36391, 
+        "longitude": -70.49433, 
+        "name": "Municipalidad Lo Barnechea", 
+        "timestamp": "2017-04-27T02:27:16.631000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Camino Los Trapenses 3515, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "2e2af32910b1172093987e22b5fd8776", 
+        "latitude": -33.34414, 
+        "longitude": -70.5445, 
+        "name": "Los Trapenses", 
+        "timestamp": "2017-04-27T02:27:16.632000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Cuatro Vientos / Lo Barnechea, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "46a2d0f65bba4b8ad8c5126ff68a7d1b", 
+        "latitude": -33.35769, 
+        "longitude": -70.50672, 
+        "name": "Cuatro Vientos / Lo Barnechea", 
+        "timestamp": "2017-04-27T02:27:16.636000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "La Dehesa / Luis Bascu\u00f1\u00e1n, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "a3c03edc27450f5a81de6e34c4545cc2", 
+        "latitude": -33.35545, 
+        "longitude": -70.51782, 
+        "name": "La Dehesa / Luis Bascu\u00f1\u00e1n", 
+        "timestamp": "2017-04-27T02:27:16.637000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "La Dehesa / El Rodeo, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "3a987e39701112843aec476ae1bab3dc", 
+        "latitude": -33.35271, 
+        "longitude": -70.51883, 
+        "name": "La Dehesa / El Rodeo", 
+        "timestamp": "2017-04-27T02:27:16.638000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "Nueva Tajamar / Vitacura, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "f7d0834b54c7e989a4e0056cbd8c458d", 
+        "latitude": -33.41685, 
+        "longitude": -70.60584, 
+        "name": "Costanera Center 1", 
+        "timestamp": "2017-04-27T02:27:16.639000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "San Martin / General Mackenna, Santiago,  "
+        }, 
+        "free_bikes": 4, 
+        "id": "ef465a4c300e882ffab59e5e1f0f7556", 
+        "latitude": -33.43334, 
+        "longitude": -70.65877, 
+        "name": "San Martin / General Mackenna", 
+        "timestamp": "2017-04-27T02:27:16.643000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "General Bustamante, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "7f226d30cae831e13732e98226d4943c", 
+        "latitude": -33.43762, 
+        "longitude": -70.63313, 
+        "name": "Metro Plaza Italia", 
+        "timestamp": "2017-04-27T02:27:16.646000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Tobalaba / Elidoro Ya\u00f1ez, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 5, 
+        "id": "f61bc787404d6e75c4bfd321b607f840", 
+        "latitude": -33.42654, 
+        "longitude": -70.59093, 
+        "name": "Metro Col\u00f3n", 
+        "timestamp": "2017-04-27T02:27:16.651000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Ricardo Lyon / Pocuro, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 13, 
+        "id": "b2e8cbb5a4afd21cd7fed74fe3f0f390", 
+        "latitude": -33.43509, 
+        "longitude": -70.60449, 
+        "name": "Ricardo Lyon / Pocuro", 
+        "timestamp": "2017-04-27T02:27:16.653000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "Ricardo Lyon / Coyancura, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "5d99627eab93c05b99080b48faf8b737", 
+        "latitude": -33.42388, 
+        "longitude": -70.60887, 
+        "name": "Ricardo Lyon / Lota", 
+        "timestamp": "2017-04-27T02:27:16.654000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Nueva Providencia / Marchant Pereira, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 12, 
+        "id": "2691a95eef237a76be5956616ab64856", 
+        "latitude": -33.42549, 
+        "longitude": -70.61363, 
+        "name": "Metro Pedro de Valdivia", 
+        "timestamp": "2017-04-27T02:27:16.655000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Hernando de Aguirre / Tobalaba, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "b3ded60b2036d27353c72a5d4f261245", 
+        "latitude": -33.41876, 
+        "longitude": -70.60126, 
+        "name": "Metro Tobalaba", 
+        "timestamp": "2017-04-27T02:27:16.657000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": " Catedral 1575, Santiago,  "
+        }, 
+        "free_bikes": 9, 
+        "id": "944d805e3bf9a3bd9df60f3a78d32a86", 
+        "latitude": -33.43813, 
+        "longitude": -70.65932, 
+        "name": "Metro Santa Ana", 
+        "timestamp": "2017-04-27T02:27:16.658000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "Monjitas 524 santiago, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "19080290b522b163daf1f9240fdaebb9", 
+        "latitude": -33.43675, 
+        "longitude": -70.64728, 
+        "name": "Monjitas / Mac Iver", 
+        "timestamp": "2017-04-27T02:27:16.665000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Plaza Ega\u00f1a 5740, \u00d1u\u00f1oa, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "b5374617b569e140675c22462878b3a5", 
+        "latitude": -33.45253, 
+        "longitude": -70.57134, 
+        "name": "Metro Plaza Ega\u00f1a", 
+        "timestamp": "2017-04-27T02:27:16.668000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "El Aguilucho / Arzobispo Fuenzalida, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 6, 
+        "id": "9fb2fa1fb0fad76a9729b78a37c35213", 
+        "latitude": -33.44285, 
+        "longitude": -70.59844, 
+        "name": "El Aguilucho", 
+        "timestamp": "2017-04-27T02:27:16.672000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Balmaceda / Independencia, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "1e83b568b053fa18327009489765d9f1", 
+        "latitude": -33.43265, 
+        "longitude": -70.65349, 
+        "name": "Estaci\u00f3n Mapocho", 
+        "timestamp": "2017-04-27T02:27:16.673000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "Marcoleta 572, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "d6fe6b94b009eb18e8e1b99da4bf6517", 
+        "latitude": -33.4437, 
+        "longitude": -70.64415, 
+        "name": "San Isidro / Marcoleta", 
+        "timestamp": "2017-04-27T02:27:16.674000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Plaza Pedro de Valdivia  1783, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 5, 
+        "id": "f259fcffe7740c985747941489523b4f", 
+        "latitude": -33.43936, 
+        "longitude": -70.60787, 
+        "name": "Plaza Pedro de Valdivia", 
+        "timestamp": "2017-04-27T02:27:16.677000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Teatinos 333, Santiago, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "947db35fb73faecd5e306508c51c0554", 
+        "latitude": -33.43983, 
+        "longitude": -70.65517, 
+        "name": "Teatinos / Huerfanos", 
+        "timestamp": "2017-04-27T02:27:16.678000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "Bandera 227, Santiago, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "dc518dd6ce8d1e8b1bde7c9b73e0f341", 
+        "latitude": -33.44051, 
+        "longitude": -70.65222, 
+        "name": "Bandera / Agustinas", 
+        "timestamp": "2017-04-27T02:27:16.679000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Villavicencio 395, Santiago,  "
+        }, 
+        "free_bikes": 7, 
+        "id": "b9b24242b160df2992cf1694e5dbb343", 
+        "latitude": -33.43824, 
+        "longitude": -70.64095, 
+        "name": "Barrio Lastarria", 
+        "timestamp": "2017-04-27T02:27:16.680000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Av. Jos\u00e9 Perdo Alessandri 41, \u00d1u\u00f1oa, Santiago,  "
+        }, 
+        "free_bikes": 14, 
+        "id": "affc052e50581d5f543234189ff3540a", 
+        "latitude": -33.455, 
+        "longitude": -70.5983, 
+        "name": "Av. Irarrazaval / Av. Jos\u00e9 Pedro Alessandri", 
+        "timestamp": "2017-04-27T02:27:16.682000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "\u00d1u\u00f1oa, Santiago, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "5fd4610a66846083fd19adfd30c4dd9a", 
+        "latitude": -33.44789, 
+        "longitude": -70.61355, 
+        "name": "Manuel Montt / Uni\u00f3n Literaria", 
+        "timestamp": "2017-04-27T02:27:16.684000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Manuel de Salas 71, \u00d1u\u00f1oa, Santiago,  "
+        }, 
+        "free_bikes": 12, 
+        "id": "ebb89ecbe02546c326d44675148785e4", 
+        "latitude": -33.45466, 
+        "longitude": -70.59328, 
+        "name": "Plaza \u00d1u\u00f1oa", 
+        "timestamp": "2017-04-27T02:27:16.686000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Irarrazaval  2423, \u00d1u\u00f1oa, Santiago,  "
+        }, 
+        "free_bikes": 6, 
+        "id": "299c30dba9848cb8a5e669b96f591644", 
+        "latitude": -33.45414, 
+        "longitude": -70.60592, 
+        "name": "Irarrazaval / Pedro de Valdivia", 
+        "timestamp": "2017-04-27T02:27:16.687000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "\u00d1u\u00f1oa, Santiago, Santiago,  "
+        }, 
+        "free_bikes": 4, 
+        "id": "9025869dec9b0e00efe312e8eb510298", 
+        "latitude": -33.45233, 
+        "longitude": -70.60123, 
+        "name": "Jos\u00e9 Luis Araneda / Capit\u00e1n Orellana", 
+        "timestamp": "2017-04-27T02:27:16.688000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Hamburgo 70, \u00d1u\u00f1oa,Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "9f07882736a60469fcee7959dfd2ed24", 
+        "latitude": -33.454, 
+        "longitude": -70.57593, 
+        "name": "Irarrazaval / Hamburgo", 
+        "timestamp": "2017-04-27T02:27:16.689000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "\u00d1u\u00f1oa, Santiago, \u00d1u\u00f1oa,  "
+        }, 
+        "free_bikes": 9, 
+        "id": "43f0e08c24ecac750f0e5fff0e9b360d", 
+        "latitude": -33.44666, 
+        "longitude": -70.60231, 
+        "name": "Ricardo Lyon / Hern\u00e1n Cortes", 
+        "timestamp": "2017-04-27T02:27:16.691000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Constitucion 67, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "3e38ab27052941001fdba22eeab43086", 
+        "latitude": -33.43419, 
+        "longitude": -70.63442, 
+        "name": "Patio Bellavista", 
+        "timestamp": "2017-04-27T02:27:16.694000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Vitacura 9763, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 6, 
+        "id": "14e64e85cda58b739e6e025af08184a6", 
+        "latitude": -33.38048, 
+        "longitude": -70.54281, 
+        "name": "Vitacura / La Aurora", 
+        "timestamp": "2017-04-27T02:27:16.696000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Av. Las Condes Lateral 11090, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "6eb062ceba4f17f221b9d32f46a6bcb0", 
+        "latitude": -33.37881, 
+        "longitude": -70.52903, 
+        "name": "Av. Las Condes Lateral / Pamplona", 
+        "timestamp": "2017-04-27T02:27:16.698000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "San Diego / Placer, Santiago,  "
+        }, 
+        "free_bikes": 7, 
+        "id": "97d7093440c8011264225cc30b663cf4", 
+        "latitude": -33.47526, 
+        "longitude": -70.64851, 
+        "name": "Metro Franklin", 
+        "timestamp": "2017-04-27T02:27:16.700000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Avenida Los  Pajarito 4463, Maip\u00fa, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "1c35aafa2c925fee0b325fdb56520491", 
+        "latitude": -33.4818, 
+        "longitude": -70.74495, 
+        "name": "Metro Monte Tabor", 
+        "timestamp": "2017-04-27T02:27:16.701000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Av. Carlos Valdovinos 37, San Joaqu\u00edn, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "b467184a0effa824bfe53294f506541e", 
+        "latitude": -33.48706, 
+        "longitude": -70.62001, 
+        "name": "Metro Carlos Valdovinos", 
+        "timestamp": "2017-04-27T02:27:16.702000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Manquehue Norte / Escriva de Balaguer, Vitacura,Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "b28e107d490d9c2d85d0b54b19417948", 
+        "latitude": -33.38188, 
+        "longitude": -70.58027, 
+        "name": "Borde R\u00edo /Biblioteca Municipal", 
+        "timestamp": "2017-04-27T02:27:16.704000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rosas / Rafael Sotomayor, Santiago,  "
+        }, 
+        "free_bikes": 11, 
+        "id": "c779c2a6ed2c8410f2973b628d52c78a", 
+        "latitude": -33.43718, 
+        "longitude": -70.67358, 
+        "name": "Plaza Yungay", 
+        "timestamp": "2017-04-27T02:27:16.705000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Gran Avenida 3790, San Miguel, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "5f66592f0c98cae868d0c9f1b5ac703f", 
+        "latitude": -33.48836, 
+        "longitude": -70.65064, 
+        "name": "Metro San Miguel", 
+        "timestamp": "2017-04-27T02:27:16.708000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "Mac Iver 440, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "515d4bcf3cb86303a81aeb38d6ad2c6b", 
+        "latitude": -33.43777, 
+        "longitude": -70.64712, 
+        "name": "Mac Iver", 
+        "timestamp": "2017-04-27T02:27:16.710000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Monse\u00f1or Carlos Casanueva / El Comendador, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "458067e9e5e432aa7798892ecd40a13e", 
+        "latitude": -33.42031, 
+        "longitude": -70.61827, 
+        "name": "Universidad Cat\u00f3lica Campus Lo Contador", 
+        "timestamp": "2017-04-27T02:27:16.713000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Av Santa Rosa/ Rivas, San Joaqu\u00edn, Santiago,  "
+        }, 
+        "free_bikes": 6, 
+        "id": "9e59d783dc0384b3a597fe64536c40a1", 
+        "latitude": -33.47846, 
+        "longitude": -70.64162, 
+        "name": "Municipalidad de San Joaqu\u00edn", 
+        "timestamp": "2017-04-27T02:27:16.715000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Av. Italia / Mar\u00edn, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 5, 
+        "id": "926dfbd0b5fab42cd0fbeb27a6a7275f", 
+        "latitude": -33.44387, 
+        "longitude": -70.62568, 
+        "name": "Avenida Italia / Mar\u00edn", 
+        "timestamp": "2017-04-27T02:27:16.717000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Carlos Valdovinos / Sierra Bella, San Joaqu\u00edn, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "5e3e6ceb52faaabb16722c89aae15fc1", 
+        "latitude": -33.48365, 
+        "longitude": -70.632, 
+        "name": "Carlos Valdovinos / Sierra Bella", 
+        "timestamp": "2017-04-27T02:27:16.717000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Lo Matta 1020, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "b2b354d0047a0d276b1668e5bd0f2487", 
+        "latitude": -33.38763, 
+        "longitude": -70.54403, 
+        "name": "Casas De Lo Matta", 
+        "timestamp": "2017-04-27T02:27:16.721000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Vitacura / Eduardo Marquina, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "cf5e22d1984dcfd6570e20319a66d503", 
+        "latitude": -33.40011, 
+        "longitude": -70.59204, 
+        "name": "Vitacura / Eduardo Marquina", 
+        "timestamp": "2017-04-27T02:27:16.726000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Santa Mar\u00eda / Carolina Rabat, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 8, 
+        "id": "081ae0b4c6907894575a9d390ee61902", 
+        "latitude": -33.37827, 
+        "longitude": -70.57612, 
+        "name": "Carolina Rabat", 
+        "timestamp": "2017-04-27T02:27:16.727000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Av Vitacura 8933, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "ab885958d8754941139c4013223e1566", 
+        "latitude": -33.38376, 
+        "longitude": -70.55096, 
+        "name": "Vitacura / Padre Hurtado Norte", 
+        "timestamp": "2017-04-27T02:27:16.727000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Recoleta 840, Recoleta, Santiago,  "
+        }, 
+        "free_bikes": 10, 
+        "id": "a8c8d8215f3da59178f5524ccf2704f8", 
+        "latitude": -33.42251, 
+        "longitude": -70.64478, 
+        "name": "Cerro Blanco", 
+        "timestamp": "2017-04-27T02:27:16.731000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Av Recoleta 404, Recoleta ,Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "2e6ee668edfac10b7b6b926b787109d7", 
+        "latitude": -33.42751, 
+        "longitude": -70.64655, 
+        "name": "Clinica D\u00e1vila", 
+        "timestamp": "2017-04-27T02:27:16.733000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Bella Vista 185, Recoleta, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "90d6fcc2ff5565a0010993236feb48fd", 
+        "latitude": -33.43342, 
+        "longitude": -70.64226, 
+        "name": "Loreto / Bella vista", 
+        "timestamp": "2017-04-27T02:27:16.734000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Av. Independencia 753, Independencia, Santiago,  "
+        }, 
+        "free_bikes": 7, 
+        "id": "70bdd2dd1923c0263166ea1c7ac5f109", 
+        "latitude": -33.42234, 
+        "longitude": -70.65541, 
+        "name": "Municipalidad de Independencia", 
+        "timestamp": "2017-04-27T02:27:16.736000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Av. Macul /Av. Quil\u00edn, Macul, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "1a59e01e3b620882367e07fc4bd137b8", 
+        "latitude": -33.48551, 
+        "longitude": -70.59962, 
+        "name": "Macul /Quil\u00edn", 
+        "timestamp": "2017-04-27T02:27:16.737000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Av, Macul 2127, Macul, Santiago,  "
+        }, 
+        "free_bikes": 14, 
+        "id": "c3a419b45e3cf402cd2c22212b86f806", 
+        "latitude": -33.47423, 
+        "longitude": -70.59899, 
+        "name": "Macul / Rodrigo de Araya", 
+        "timestamp": "2017-04-27T02:27:16.738000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Vitacura 4607, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "e1bf2315920b806d9ceeeb2e3d1e2c44", 
+        "latitude": -33.39841, 
+        "longitude": -70.58643, 
+        "name": "Museo de la Moda", 
+        "timestamp": "2017-04-27T02:27:16.742000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Geronino de Alderete 1134, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 10, 
+        "id": "7276f449ef4b4fc2ed06f26ce7eea31c", 
+        "latitude": -33.39311, 
+        "longitude": -70.56245, 
+        "name": "Geronimo de Alderete / Juan de escaray", 
+        "timestamp": "2017-04-27T02:27:16.743000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Santa Isabel 413, Santiago,  "
+        }, 
+        "free_bikes": 20, 
+        "id": "383f2f26fa0edcc3f104ffac0ed27e6d", 
+        "latitude": -33.44916, 
+        "longitude": -70.63926, 
+        "name": "Santa Isabel / Lira", 
+        "timestamp": "2017-04-27T02:27:16.762000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Santa Victoria   281, Santiago,  "
+        }, 
+        "free_bikes": 15, 
+        "id": "b09380e282d21e4c68edc4b1b1122315", 
+        "latitude": -33.44707, 
+        "longitude": -70.63538, 
+        "name": "Portugal / Santa Victoria", 
+        "timestamp": "2017-04-27T02:27:16.767000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "Portugal / Diagonal Paraguay, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "b0dc252707f8292947debc035209afb2", 
+        "latitude": -33.44298, 
+        "longitude": -70.63794, 
+        "name": "Portugal / Diagonal Paraguay", 
+        "timestamp": "2017-04-27T02:27:16.767000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Llano Subercaseaux / Jose Joaquin Vallejos, San Joaquin, Santiago,  "
+        }, 
+        "free_bikes": 10, 
+        "id": "63dd0ea769ff844319bc240c3d405cb7", 
+        "latitude": -33.48266, 
+        "longitude": -70.64977, 
+        "name": "Metro El Llano", 
+        "timestamp": "2017-04-27T02:27:16.771000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Vitacura / Luis Carrera , Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "dc55931bfe2f6536ab92cdfc09cc48ce", 
+        "latitude": -33.39422, 
+        "longitude": -70.57835, 
+        "name": "Vitacura / Luis Carrera ", 
+        "timestamp": "2017-04-27T02:27:16.612000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Alejandro Serani entre El Mirador y La Llaver\u00eda, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "2d26c7e31e2b7db5e6034005761851a6", 
+        "latitude": -33.37708, 
+        "longitude": -70.54709, 
+        "name": "Alejandro Serani", 
+        "timestamp": "2017-04-27T02:27:16.613000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Vitacura / Candelaria Goyenechea, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "77287ffef433c26645434d027b3e24e2", 
+        "latitude": -33.40041, 
+        "longitude": -70.59279, 
+        "name": "Plaza Lo Castillo", 
+        "timestamp": "2017-04-27T02:27:16.614000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Am\u00e9rico Vespucio / Vitacura , Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "94e117431e304a25125d3e0c7e4e2a62", 
+        "latitude": -33.39858, 
+        "longitude": -70.58791, 
+        "name": "Am\u00e9rico Vespucio / Vitacura ", 
+        "timestamp": "2017-04-27T02:27:16.616000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Avenida Kennedy/Padre Hurtado, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "58ded23d2eeff4f7cb052d5b2d0fca98", 
+        "latitude": -33.38921, 
+        "longitude": -70.54816, 
+        "name": "Alto Las Condes", 
+        "timestamp": "2017-04-27T02:27:16.617000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Americo Vespucio / Francisco de Aguirre, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 5, 
+        "id": "cbb594fcc0fe73bc6623b8108ec25bc6", 
+        "latitude": -33.39263, 
+        "longitude": -70.59262, 
+        "name": "Am\u00e9rico Vespucio / Francisco de Aguirre", 
+        "timestamp": "2017-04-27T02:27:16.620000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Americo Vespucio / Las Hualtatas, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "762da74c584950bfee33d1e322e235ef", 
+        "latitude": -33.40248, 
+        "longitude": -70.58676, 
+        "name": "Am\u00e9rico Vespucio / Las Hualtatas", 
+        "timestamp": "2017-04-27T02:27:16.620000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Las Nieves / Armando Jaramillo, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "513952a40ebd1ba9c3eaf52db54935cf", 
+        "latitude": -33.4045, 
+        "longitude": -70.59405, 
+        "name": "Las Nieves", 
+        "timestamp": "2017-04-27T02:27:16.622000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Nicolas Gogol/Vitacura, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "5f72f13325ad828c387aee1e2345667a", 
+        "latitude": -33.38638, 
+        "longitude": -70.56345, 
+        "name": "Los Casta\u00f1os", 
+        "timestamp": "2017-04-27T02:27:16.623000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Avenida Presidente Kennedy / Tabancura, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "0536e4bf7ed17e774df625cb777aa5f1", 
+        "latitude": -33.38399, 
+        "longitude": -70.53455, 
+        "name": "Estoril", 
+        "timestamp": "2017-04-27T02:27:16.625000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Luis Pasteur 7055, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "343de9d177fd9e3520f54476f287dfc5", 
+        "latitude": -33.37644, 
+        "longitude": -70.5701, 
+        "name": "Lo Curro", 
+        "timestamp": "2017-04-27T02:27:16.626000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Luis Carrera / Candelaria Goyonechea, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 7, 
+        "id": "8020439126ecae1db743f80c4a6be678", 
+        "latitude": -33.39037, 
+        "longitude": -70.58648, 
+        "name": "Luis Carrera /Candelaria Goyonechea", 
+        "timestamp": "2017-04-27T02:27:16.627000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Avenida Presidente Kennedy / Pedro Canisio, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "caf01cd91ff6cb3fb23f196796a08085", 
+        "latitude": -33.40075, 
+        "longitude": -70.57901, 
+        "name": "Parque Arauco", 
+        "timestamp": "2017-04-27T02:27:16.628000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Av. Los Pajaritos 5080, Mip\u00fa, Santiago,  "
+        }, 
+        "free_bikes": 7, 
+        "id": "2f07d0eda397c2463156ce71711af731", 
+        "latitude": -33.47575, 
+        "longitude": -70.74029, 
+        "name": "Metro Las Parcelas", 
+        "timestamp": "2017-04-27T02:27:16.628000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Monse\u00f1or Escriva de Balaguer Sur / Las Tranqueras Oriente, Comuna de Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "8a970eb661be60c3fb0c51944a8a0ea3", 
+        "latitude": -33.37803, 
+        "longitude": -70.55477, 
+        "name": "Plaza Chica Lo Gallo", 
+        "timestamp": "2017-04-27T02:27:16.629000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Las Condes / San Jos\u00e9 de la Sierra, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "0fe662b5505504a4e3852017c4db0730", 
+        "latitude": -33.36936, 
+        "longitude": -70.50425, 
+        "name": "Las Condes / San Jos\u00e9 de la Sierra", 
+        "timestamp": "2017-04-27T02:27:16.633000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Las Condes / San Francisco de As\u00eds, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "b31af182ce055bdc7657f11e75b9f95e", 
+        "latitude": -33.37246, 
+        "longitude": -70.51758, 
+        "name": "Canta Gallo", 
+        "timestamp": "2017-04-27T02:27:16.634000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "La Dehesa / Robles, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "18a970953e2773c06753b69bce0858ca", 
+        "latitude": -33.36258, 
+        "longitude": -70.51499, 
+        "name": "La Dehesa / Robles", 
+        "timestamp": "2017-04-27T02:27:16.634000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Raul Labb\u00e9 / La Pasarela, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 4, 
+        "id": "db160f25fca86f2a9434d72a7c378e29", 
+        "latitude": -33.36175, 
+        "longitude": -70.50529, 
+        "name": "Raul Labb\u00e9 / La Pasarela", 
+        "timestamp": "2017-04-27T02:27:16.635000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Jos\u00e9 Alcalde Delano / La Madrugada, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 5, 
+        "id": "a743b35c09c75543b5c76f4fa885d52f", 
+        "latitude": -33.35567, 
+        "longitude": -70.53846, 
+        "name": "Jos\u00e9 Alcalde Delano / La Madrugada", 
+        "timestamp": "2017-04-27T02:27:16.640000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "El Tranque / Los Casta\u00f1os, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "7902a331a07d4efe1ab06f08fe3df767", 
+        "latitude": -33.3602, 
+        "longitude": -70.53514, 
+        "name": "El Tranque / Los Casta\u00f1os", 
+        "timestamp": "2017-04-27T02:27:16.641000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "Agustinas / Tenderini, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "ab7ffee626c8a45123ce4ace29fb15eb", 
+        "latitude": -33.44053, 
+        "longitude": -70.64723, 
+        "name": "Teatro Municipal", 
+        "timestamp": "2017-04-27T02:27:16.644000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Antonio Varas / Juan Williams Noon, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "5cfc909f3c05fe6b5bbe302d0e76c895", 
+        "latitude": -33.43339, 
+        "longitude": -70.61576, 
+        "name": "Duoc (Antonio Varas)", 
+        "timestamp": "2017-04-27T02:27:16.644000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Metro Manuel Montt, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "8e5e55fc7e76708c1feaeab01b4d90d3", 
+        "latitude": -33.42866, 
+        "longitude": -70.61969, 
+        "name": "Metro Manuel Montt", 
+        "timestamp": "2017-04-27T02:27:16.645000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Metro Salvador, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "ba6a0c4fd9cb622e911abd10a9afd798", 
+        "latitude": -33.43245, 
+        "longitude": -70.62555, 
+        "name": "Metro Salvador", 
+        "timestamp": "2017-04-27T02:27:16.647000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Ram\u00f3n Carnicer / Parque Bustamante, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 8, 
+        "id": "2bb923d6ac6abe17915ce1267b9487bd", 
+        "latitude": -33.44297, 
+        "longitude": -70.63185, 
+        "name": "Metro Parque Bustamante", 
+        "timestamp": "2017-04-27T02:27:16.648000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Pocuro / Augusto Ovalle Castillo, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "2ec057bc2231f4e68517f74d53ce12f0", 
+        "latitude": -33.43244, 
+        "longitude": -70.594, 
+        "name": "Plaza Rio De Janeiro", 
+        "timestamp": "2017-04-27T02:27:16.649000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Agustinas 1612, Santiago,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "4a5bd7f218edc7aebbb4af0d12485baa", 
+        "latitude": -33.44167, 
+        "longitude": -70.65947, 
+        "name": "Agustinas / Manuel Rodriguez Norte", 
+        "timestamp": "2017-04-27T02:27:16.650000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Matucana / Catedral, Santiago, Santiago,  "
+        }, 
+        "free_bikes": 8, 
+        "id": "8b141058c38f9fe5b380736e4d3df904", 
+        "latitude": -33.44036, 
+        "longitude": -70.68012, 
+        "name": "Metro Quinta Normal", 
+        "timestamp": "2017-04-27T02:27:16.651000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Marchant Pereira 880, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 4, 
+        "id": "efd02417b9fa520ca204695531627c5f", 
+        "latitude": -33.43276, 
+        "longitude": -70.61131, 
+        "name": "Municipalidad Providencia", 
+        "timestamp": "2017-04-27T02:27:16.655000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Av Libertador Bernardo O\u00a8Higgins, Estaci\u00f3n CentralSantiago,  "
+        }, 
+        "free_bikes": 7, 
+        "id": "fa1eb1886902e6fc415098c0298601e2", 
+        "latitude": -33.45162, 
+        "longitude": -70.68028, 
+        "name": "Estaci\u00f3n Central", 
+        "timestamp": "2017-04-27T02:27:16.659000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Alameda / Manuel Rodrigez Norte, Santiago,  "
+        }, 
+        "free_bikes": 9, 
+        "id": "ce6f806f8bbf1961b6f666448d68ecbb", 
+        "latitude": -33.4462, 
+        "longitude": -70.66031, 
+        "name": "Metro Los Heroes", 
+        "timestamp": "2017-04-27T02:27:16.660000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "21 de Mayo 551, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "d8cbcfb4d30a6b637e14adf9d39fb0b7", 
+        "latitude": -33.43649, 
+        "longitude": -70.64995, 
+        "name": "Plaza de Armas", 
+        "timestamp": "2017-04-27T02:27:16.661000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Santa Isabel / Carmen, Santiago,  "
+        }, 
+        "free_bikes": 11, 
+        "id": "bb6c03eab03acfdeb6adbace84498899", 
+        "latitude": -33.44975, 
+        "longitude": -70.6415, 
+        "name": "Santa Isabel / Carmen", 
+        "timestamp": "2017-04-27T02:27:16.662000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Miraflores 80, Santiago,  "
+        }, 
+        "free_bikes": 11, 
+        "id": "4150f8c866cc67453f00e9c1c7f7ec25", 
+        "latitude": -33.44188, 
+        "longitude": -70.64492, 
+        "name": "Metro Santa Luc\u00eda", 
+        "timestamp": "2017-04-27T02:27:16.663000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Santo Domingo / Morande, Santiago,  "
+        }, 
+        "free_bikes": 15, 
+        "id": "a783693efe07cc95b1844cbd7f96eec4", 
+        "latitude": -33.4366, 
+        "longitude": -70.65424, 
+        "name": "Santo Domingo / Morande", 
+        "timestamp": "2017-04-27T02:27:16.663000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Teatinos / Moneda, Santiago, Santiago,  "
+        }, 
+        "free_bikes": 9, 
+        "id": "9d83598508062ed530cf966bfb46360a", 
+        "latitude": -33.44226, 
+        "longitude": -70.65472, 
+        "name": "Palacio de La Moneda", 
+        "timestamp": "2017-04-27T02:27:16.664000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Monjitas /Mosqueto, Santiago, Santiago,  "
+        }, 
+        "free_bikes": 7, 
+        "id": "b6d0be979eac4d9421fe96edbf9ce147", 
+        "latitude": -33.43665, 
+        "longitude": -70.64446, 
+        "name": "Metro Bellas Artes", 
+        "timestamp": "2017-04-27T02:27:16.666000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Teatino / General Mackenna, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "1ed2fd6c83385d66f3228f3c6fc5898b", 
+        "latitude": -33.43337, 
+        "longitude": -70.65587, 
+        "name": "Teatinos / General Mackenna", 
+        "timestamp": "2017-04-27T02:27:16.667000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "Nueva Los Leones / Av. Providencia, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "f27501249576c4582cbf54c7ad08cb4e", 
+        "latitude": -33.4197, 
+        "longitude": -70.60611, 
+        "name": "Nueva Los Leones", 
+        "timestamp": "2017-04-27T02:27:16.668000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Santa Isabel 965, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "84b17bede737e40c5efa06a1f9ca1f80", 
+        "latitude": -33.44534, 
+        "longitude": -70.61773, 
+        "name": "Santa Isabel /Ana  Luisa Prats", 
+        "timestamp": "2017-04-27T02:27:16.669000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "Nueva Tajamar / Vitacura, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "9e09a6729fe1ac8484097165cabdc746", 
+        "latitude": -33.41643, 
+        "longitude": -70.60602, 
+        "name": "Costanera Center 2", 
+        "timestamp": "2017-04-27T02:27:16.670000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "San Isisdro 488, Santiago,  "
+        }, 
+        "free_bikes": 17, 
+        "id": "b2054c754f0bf192b50b36bb781cc1b8", 
+        "latitude": -33.45022, 
+        "longitude": -70.64294, 
+        "name": "San Isidro / Santa Isabel", 
+        "timestamp": "2017-04-27T02:27:16.671000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Av. Providencia / Marchant Pereira, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "8f74e8a0aa1f4e026735bc039e20de7d", 
+        "latitude": -33.42528, 
+        "longitude": -70.6137, 
+        "name": "Metro Pedro de Valdivia 2", 
+        "timestamp": "2017-04-27T02:27:16.673000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "San Pablo 1359, Santiago,  "
+        }, 
+        "free_bikes": 9, 
+        "id": "90e4e157d22f43ad4ceab596c8dbc554", 
+        "latitude": -33.43436, 
+        "longitude": -70.65672, 
+        "name": "San Pablo ", 
+        "timestamp": "2017-04-27T02:27:16.675000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Almirante Pastene 15, Providencia,Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "cb796d31f92dcb26349a543590fd12b6", 
+        "latitude": -33.42819, 
+        "longitude": -70.61927, 
+        "name": "Metro Manuel Montt 2", 
+        "timestamp": "2017-04-27T02:27:16.676000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "Republica 24, Santiago, Santiago,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "8df92a4f1ffe7786646a86fec16b9e6c", 
+        "latitude": -33.44866, 
+        "longitude": -70.66819, 
+        "name": "Metro Rep\u00fablica", 
+        "timestamp": "2017-04-27T02:27:16.678000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Duble Almeyda 1953, \u00d1u\u00f1oa, Santiago,  "
+        }, 
+        "free_bikes": 13, 
+        "id": "c9c99012a4659b0ce579faa643de5d62", 
+        "latitude": -33.45512, 
+        "longitude": -70.61068, 
+        "name": "Duble Almeyda / Carmen Covarrubias", 
+        "timestamp": "2017-04-27T02:27:16.681000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Hamburgo 1875, \u00d1u\u00f1oa,Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "35df440e1a9956e9e111fb0e032a71d0", 
+        "latitude": -33.43781, 
+        "longitude": -70.57802, 
+        "name": "Hamburgo / Armando Carrera", 
+        "timestamp": "2017-04-27T02:27:16.683000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Nueva Tajamar, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "4df49a94107431aeaae563e1fa959f0d", 
+        "latitude": -33.41704, 
+        "longitude": -70.60502, 
+        "name": "Costanera Center 3", 
+        "timestamp": "2017-04-27T02:27:16.684000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Sim\u00f3n Bolivar / Antonio Varas, \u00d1u\u00f1oa, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "c3947eeea0dbc19b2b44ea9a84cd378a", 
+        "latitude": -33.4505, 
+        "longitude": -70.6098, 
+        "name": "Hospital Carabineros", 
+        "timestamp": "2017-04-27T02:27:16.685000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Av. Americo Vespucio 740, \u00d1u\u00f1oa, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "84253e4dcd603bc5b1300e8258b0613b", 
+        "latitude": -33.44656, 
+        "longitude": -70.57202, 
+        "name": "Metro Sim\u00f3n Bolivar", 
+        "timestamp": "2017-04-27T02:27:16.688000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Av Irarrazaval 4200, \u00d1u\u00f1oa, Santiago,  "
+        }, 
+        "free_bikes": 12, 
+        "id": "d8d66ee4c2d562fa49d38c6407bbb958", 
+        "latitude": -33.4554, 
+        "longitude": -70.58653, 
+        "name": "Av. Irarrazaval / Agust\u00edn Vigorena", 
+        "timestamp": "2017-04-27T02:27:16.690000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Av. Sim\u00f3n Bolivar 4575 ,  \u00d1u\u00f1oa,Santiago,  "
+        }, 
+        "free_bikes": 6, 
+        "id": "95b3e99cf589a1224c93743b4fc34f0a", 
+        "latitude": -33.44846, 
+        "longitude": -70.58212, 
+        "name": "Club \u00d1u\u00f1oa", 
+        "timestamp": "2017-04-27T02:27:16.692000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Providencia 700, Providencia,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "0e0b4e7421abb5faaa6c1dafee8f1f71", 
+        "latitude": -33.43224, 
+        "longitude": -70.62589, 
+        "name": "Metro Salvador 2", 
+        "timestamp": "2017-04-27T02:27:16.693000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Porvenir 260, Santiago,  "
+        }, 
+        "free_bikes": 4, 
+        "id": "70d1674da7e89d350fa5a3433ea83f34", 
+        "latitude": -33.45503, 
+        "longitude": -70.63337, 
+        "name": "Av. Portugal / Porvenir", 
+        "timestamp": "2017-04-27T02:27:16.695000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Av Matta / San Diego, Santiago,  "
+        }, 
+        "free_bikes": 4, 
+        "id": "21835c638b4785dbb0881af520fa60a1", 
+        "latitude": -33.4595, 
+        "longitude": -70.649, 
+        "name": "Matta / San Diego", 
+        "timestamp": "2017-04-27T02:27:16.695000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "San F\u00e9lix 1318, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "66d84ba75dc987129f4ca148b01dd0f2", 
+        "latitude": -33.39004, 
+        "longitude": -70.56003, 
+        "name": "Las Hualtatas / San F\u00e9lix", 
+        "timestamp": "2017-04-27T02:27:16.697000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Av Libertador Bernardo O\u00a8Higgins 5099, Estaci\u00f3n Central, Santiago,  "
+        }, 
+        "free_bikes": 11, 
+        "id": "cdd5029f011482b85f69a310da95e2a1", 
+        "latitude": -33.45697, 
+        "longitude": -70.70524, 
+        "name": "Metro Las Rejas", 
+        "timestamp": "2017-04-27T02:27:16.699000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Santa Blanca / Jos\u00e9 Alcalde Delano, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "ffc2c0f6198f93972d06a4a3ff9d5f27", 
+        "latitude": -33.35496, 
+        "longitude": -70.53231, 
+        "name": "Santa Blanca", 
+        "timestamp": "2017-04-27T02:27:16.700000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Blanco Encalada / Tupper, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "d0c6e7363437a72e1cc093dadf794b47", 
+        "latitude": -33.45838, 
+        "longitude": -70.66054, 
+        "name": "Parque O'Higgins", 
+        "timestamp": "2017-04-27T02:27:16.703000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Gran Avenida 3418, San Miguel, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "ee4fcb8e40f79b6725a069b8e8a1e16b", 
+        "latitude": -33.48577, 
+        "longitude": -70.64994, 
+        "name": "Municipalidad de San Miguel", 
+        "timestamp": "2017-04-27T02:27:16.704000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Bellavista 176, La Florida, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "0ac11e90497a2938226b20314bbda352", 
+        "latitude": -33.51934, 
+        "longitude": -70.60046, 
+        "name": "Metro Bellavista", 
+        "timestamp": "2017-04-27T02:27:16.706000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Jos\u00e9 Alcalde Delano 12205, Lo Barnechea, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "5cf1e324dfecb16db62c22092e1dfe14", 
+        "latitude": -33.35474, 
+        "longitude": -70.52678, 
+        "name": "Cl\u00ednica Alemana La Dehesa", 
+        "timestamp": "2017-04-27T02:27:16.707000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Calle Bustos 2220, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "7f3ce47f4606112d8da5faf01b27b798", 
+        "latitude": -33.43962, 
+        "longitude": -70.60294, 
+        "name": "Ricardo Lyon / Calle Bustos", 
+        "timestamp": "2017-04-27T02:27:16.709000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "El Vergel 2302, Providencia,Santiago,  "
+        }, 
+        "free_bikes": 17, 
+        "id": "5be4156ac1a71c510c6543646c33af46", 
+        "latitude": -33.4328, 
+        "longitude": -70.60368, 
+        "name": "Avenida Suecia / El Vergel", 
+        "timestamp": "2017-04-27T02:27:16.711000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Av. Macul / Gregorio de la Fuente, Macul, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "09582cde81b7ddc8fb1f8ee49eca06ad", 
+        "latitude": -33.47816, 
+        "longitude": -70.59915, 
+        "name": "Macul / Gregorio de la Fuente", 
+        "timestamp": "2017-04-27T02:27:16.714000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Fern\u00e1ndo de Arguello / Brasilia, Viatacura, Santiago,  "
+        }, 
+        "free_bikes": 3, 
+        "id": "cdb665b43f042d52ea8b5e144a279d10", 
+        "latitude": -33.39609, 
+        "longitude": -70.56831, 
+        "name": "Fern\u00e1ndo de Arguello / Brasilia", 
+        "timestamp": "2017-04-27T02:27:16.715000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "General Oscar Bomilla 418, Lo Prado, Santiago,  "
+        }, 
+        "free_bikes": 8, 
+        "id": "803b6b6cde108c95ad6a23483830a462", 
+        "latitude": -33.45731, 
+        "longitude": -70.71535, 
+        "name": "Metro Pajaritos", 
+        "timestamp": "2017-04-27T02:27:16.718000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Av. San Pablo 6176, Lo Prado, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "ba48a7cf0f949b3bcc9195f26d7523fb", 
+        "latitude": -33.44444, 
+        "longitude": -70.72248, 
+        "name": "Metro San Pablo", 
+        "timestamp": "2017-04-27T02:27:16.719000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Dorsal / Neptuno, Lo Prado, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "130486c0c5ca5ecb0adbf6dfd4c4fabd", 
+        "latitude": -33.45166, 
+        "longitude": -70.72268, 
+        "name": "Metro Neptuno", 
+        "timestamp": "2017-04-27T02:27:16.720000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Juan XXIII / Joaq\u00edn Cerda, Vitacura,Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "8dd831d056caa8fc6811d5841c3bf4c6", 
+        "latitude": -33.3857, 
+        "longitude": -70.57041, 
+        "name": "Juan XXIII / Joaqu\u00edn Cerda", 
+        "timestamp": "2017-04-27T02:27:16.722000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "\u00d1uble / Sierra Bella, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "58d8c2248e2f0bcbce1d52c2fcbebfe6", 
+        "latitude": -33.46818, 
+        "longitude": -70.63396, 
+        "name": "Plaza Bogot\u00e1", 
+        "timestamp": "2017-04-27T02:27:16.722000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Corte de Apelaciones 1288, Santiago, Vitacura,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "4c92e3a16ca429b64063d82b0d85f009", 
+        "latitude": -33.38309, 
+        "longitude": -70.53847, 
+        "name": "Corte de Apelaciones", 
+        "timestamp": "2017-04-27T02:27:16.723000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "Serrano 23, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "3be574ab1fac46e3946202ca38bf7647", 
+        "latitude": -33.44421, 
+        "longitude": -70.64951, 
+        "name": "Metro Universidad de Chile", 
+        "timestamp": "2017-04-27T02:27:16.724000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Vitacura 6844, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 6, 
+        "id": "24121088933311d1e8491bc4896532d3", 
+        "latitude": -33.38762, 
+        "longitude": -70.56654, 
+        "name": "Los Cobres", 
+        "timestamp": "2017-04-27T02:27:16.725000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Tabancura  1233, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "7be5e153c060a7770b852ef29cc29a4b", 
+        "latitude": -33.38184, 
+        "longitude": -70.53609, 
+        "name": "Tabancura / Los Rodadendros", 
+        "timestamp": "2017-04-27T02:27:16.728000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Kennedy Lateral 9866, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 4, 
+        "id": "988f5d2fea359c68ecac5fefe7a55318", 
+        "latitude": -33.38562, 
+        "longitude": -70.53814, 
+        "name": "Kennedy / La Aurora", 
+        "timestamp": "2017-04-27T02:27:16.729000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Bellavista /Recoleta, Recoleta, Santiago,  "
+        }, 
+        "free_bikes": 7, 
+        "id": "fb51e02dd820f5cd4f1b8f135aaa2a82", 
+        "latitude": -33.43214, 
+        "longitude": -70.64846, 
+        "name": "Bellavista /Recoleta", 
+        "timestamp": "2017-04-27T02:27:16.730000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Av. Peru 805, Santiago,  "
+        }, 
+        "free_bikes": 15, 
+        "id": "a9b7b8320e6d794c9629be6615e769cb", 
+        "latitude": -33.42382, 
+        "longitude": -70.63992, 
+        "name": "Av. Peru / Maestra Lidia Torres", 
+        "timestamp": "2017-04-27T02:27:16.735000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Av Las Rejas / Rio Quetro, Estaci\u00f3n Central, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "bf7285dd3fabe1cfb03e63cb1a33fd8b", 
+        "latitude": -33.46854, 
+        "longitude": -70.70502, 
+        "name": "Rio Quetro", 
+        "timestamp": "2017-04-27T02:27:16.739000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Juan Bautista Pastene 3025, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "c876e3dd81dfc8fd4677242604367950", 
+        "latitude": -33.39797, 
+        "longitude": -70.59798, 
+        "name": "CasaCostanera", 
+        "timestamp": "2017-04-27T02:27:16.740000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Independencia 1084, Independencia, Santiago,  "
+        }, 
+        "free_bikes": 14, 
+        "id": "27e3b831a63034f7f64d62f5686fa2dc", 
+        "latitude": -33.41775, 
+        "longitude": -70.65652, 
+        "name": "Metro Hospitales", 
+        "timestamp": "2017-04-27T02:27:16.740000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "address": "Portugal / Calle Carabineros de Chile, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "e70efddf7f144f77bb33342934af40d6", 
+        "latitude": -33.4407, 
+        "longitude": -70.63974, 
+        "name": "Metro Universidad Cat\u00f3lica", 
+        "timestamp": "2017-04-27T02:27:16.741000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Av Kennedy 5682, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 2, 
+        "id": "0ba03eefcc4bb5c8be0e12e3e69018e0", 
+        "latitude": -33.39908, 
+        "longitude": -70.57499, 
+        "name": "Kennedy / Cardenal Belarmino", 
+        "timestamp": "2017-04-27T02:27:16.744000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Avenida Bicentenario, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "823e94dfc05766cefeb796138646908e", 
+        "latitude": -33.39809, 
+        "longitude": -70.60096, 
+        "name": "Municipalidad Vitacura", 
+        "timestamp": "2017-04-27T02:27:16.745000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Compa\u00f1\u00eda / Brasil, Santiago, Santiago,  "
+        }, 
+        "free_bikes": 15, 
+        "id": "322b4c2a0d9a9a94e75f878f91d2d86f", 
+        "latitude": -33.44003, 
+        "longitude": -70.66505, 
+        "name": "Plaza Brasil", 
+        "timestamp": "2017-04-27T02:27:16.746000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Av. Los Pajaritos / 5 de Abril, Maip\u00fa, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "27076a2ce8fb843b89111036f61c4da1", 
+        "latitude": -33.51029, 
+        "longitude": -70.75689, 
+        "name": "Metro Plaza Maip\u00fa", 
+        "timestamp": "2017-04-27T02:27:16.747000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Av. Las Condes 11450, Vitacura, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "8564b6d758b6ef3068cf7413dc9cb8b8", 
+        "latitude": -33.37618, 
+        "longitude": -70.5262, 
+        "name": "Las Condes / San Damian", 
+        "timestamp": "2017-04-27T02:27:16.761000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Ladislao Errazuriz 2028,  Providencia,Santiago,  "
+        }, 
+        "free_bikes": 9, 
+        "id": "2e437502ca13c5bc302d89ba20906a37", 
+        "latitude": -33.43167, 
+        "longitude": -70.6064, 
+        "name": "Ricardo Lyon / Ladislao Errazuriz", 
+        "timestamp": "2017-04-27T02:27:16.763000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Santa Isabel 1630,  Santiago,  "
+        }, 
+        "free_bikes": 7, 
+        "id": "31a4042eb787e339c21ef10a8ab1190a", 
+        "latitude": -33.45284, 
+        "longitude": -70.65763, 
+        "name": "Metro Toesca", 
+        "timestamp": "2017-04-27T02:27:16.765000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Av. Los Pajaritos / Av Rafael Riesco Bernales, Maip\u00fa, Santiago,  "
+        }, 
+        "free_bikes": 0, 
+        "id": "5ea693071530294767846e9481858712", 
+        "latitude": -33.49624, 
+        "longitude": -70.75729, 
+        "name": "Av. Los Pajaritos / Av Rafael Riesco Bernales", 
+        "timestamp": "2017-04-27T02:27:16.766000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Santa Isabel 052, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 11, 
+        "id": "652ddace0aa2c3eb4e4b9e91c8aa2e01", 
+        "latitude": -33.44729, 
+        "longitude": -70.63098, 
+        "name": "Metro Santa Isabel ", 
+        "timestamp": "2017-04-27T02:27:16.768000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Lastra 1089, Independencia, Santiago,  "
+        }, 
+        "free_bikes": 15, 
+        "id": "75e495fb27717a74f61d54989211ff5d", 
+        "latitude": -33.42824, 
+        "longitude": -70.65338, 
+        "name": "Av. Independencia  / General de la Lastra", 
+        "timestamp": "2017-04-27T02:27:16.769000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Andr\u00e9s Bello /General Holley, Providencia, Santiago,  "
+        }, 
+        "free_bikes": 1, 
+        "id": "23333736ea08d335b5728c8185328ab9", 
+        "latitude": -33.41936, 
+        "longitude": -70.60966, 
+        "name": "Andr\u00e9s Bello / Gral. Holley", 
+        "timestamp": "2017-04-27T02:27:16.770000Z"
+      }
+    ]
+  }
+}

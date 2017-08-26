@@ -1,0 +1,103 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bici-perugia", 
+    "id": "bici-perugia", 
+    "location": {
+      "city": "Perugia", 
+      "country": "IT", 
+      "latitude": 43.1107168, 
+      "longitude": 12.3908279
+    }, 
+    "name": "Bici Perugia", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "481b2530a64cd5400c89743f1fa1dc8f", 
+        "latitude": 43.09678695541776, 
+        "longitude": 12.355755418539047, 
+        "name": "05. Borgonovo", 
+        "timestamp": "2017-08-15T04:46:29.775000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "f43d5a5e27c1bb47d197ed56418c63c0", 
+        "latitude": 43.10240394442849, 
+        "longitude": 12.359248995780945, 
+        "name": "04. Centova", 
+        "timestamp": "2017-08-15T04:46:29.774000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "9cb5ae95981fb17289ba26d566ec7c3c", 
+        "latitude": 43.110829002009105, 
+        "longitude": 12.356958389282227, 
+        "name": "06. Nuvolari", 
+        "timestamp": "2017-08-15T04:46:29.776000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "b0bda2b315be000ac6277de781aa3fca", 
+        "latitude": 43.117531110800876, 
+        "longitude": 12.355332970619202, 
+        "name": "02. Duranti", 
+        "timestamp": "2017-08-15T04:46:29.771000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "95d11c50fc0b60ac33dcc97182a5293e", 
+        "latitude": 43.10634670586693, 
+        "longitude": 12.363177090883255, 
+        "name": "03. Trasimeno", 
+        "timestamp": "2017-08-15T04:46:29.772000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "b1fe15c687d2fb9daa67040f05f74a3c", 
+        "latitude": 43.108545520849376, 
+        "longitude": 12.360493540763855, 
+        "name": "01. Minimetro", 
+        "timestamp": "2017-08-15T04:46:29.763000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Piazza Italia", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "747c03cf9f75a4637f1ffa4a97ceae05", 
+        "latitude": 43.1087888636321, 
+        "longitude": 12.387773078434748, 
+        "name": "07. Piazza Italia", 
+        "timestamp": "2017-08-15T04:46:29.776000Z"
+      }
+    ]
+  }
+}

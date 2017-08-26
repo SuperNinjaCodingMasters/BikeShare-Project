@@ -1,0 +1,366 @@
+{
+  "network": {
+    "company": [
+      "Smoove"
+    ], 
+    "href": "/v2/networks/velivert", 
+    "id": "velivert", 
+    "location": {
+      "city": "Saint-\u00c9tienne", 
+      "country": "FR", 
+      "latitude": 45.396667, 
+      "longitude": 4.290833
+    }, 
+    "name": "V\u00e9liVert", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": 15
+        }, 
+        "free_bikes": 12, 
+        "id": "ee0bd56178617ac20012bbfa652f22f9", 
+        "latitude": 45.431808, 
+        "longitude": 4.395127, 
+        "name": "116 Fauriel-Villeboeuf", 
+        "timestamp": "2016-06-10T05:35:18.591000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 46
+        }, 
+        "free_bikes": 9, 
+        "id": "dfcb692d14f2b013c1e51e0e83ff3e88", 
+        "latitude": 45.450533, 
+        "longitude": 4.403566, 
+        "name": "125 Le Soleil", 
+        "timestamp": "2016-06-10T05:35:18.497000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "uid": 48
+        }, 
+        "free_bikes": 11, 
+        "id": "791755c3b9790e207497f78a6d46c5cd", 
+        "latitude": 45.4732778, 
+        "longitude": 4.3665277, 
+        "name": "127 Parc Jean Marc", 
+        "timestamp": "2016-06-10T05:35:18.485000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 17
+        }, 
+        "free_bikes": 6, 
+        "id": "d81d7dc4bc1c431ace410da2461927cd", 
+        "latitude": 45.437404, 
+        "longitude": 4.392469, 
+        "name": "118 Jean Moulin", 
+        "timestamp": "2016-06-10T05:35:18.576000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": 14
+        }, 
+        "free_bikes": 8, 
+        "id": "cad41825e28feec12353013b62f1e43c", 
+        "latitude": 45.426972, 
+        "longitude": 4.404048, 
+        "name": "115 Fauriel-Centre des Congres", 
+        "timestamp": "2016-06-10T05:35:18.596000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "uid": 5
+        }, 
+        "free_bikes": 7, 
+        "id": "9cf0b799fcbd1bf1273bec4045c7940a", 
+        "latitude": 45.43836, 
+        "longitude": 4.388435, 
+        "name": "106 Dorian", 
+        "timestamp": "2016-06-10T05:35:18.612000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 4
+        }, 
+        "free_bikes": 13, 
+        "id": "c910fa15f8bae3bfcab22d3b813417d7", 
+        "latitude": 45.440725, 
+        "longitude": 4.387295, 
+        "name": "105 Jean Jaures", 
+        "timestamp": "2016-06-10T05:35:18.613000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": 2
+        }, 
+        "free_bikes": 13, 
+        "id": "333c4ef39b9167b3d836d3b7fffa0f1d", 
+        "latitude": 45.447093, 
+        "longitude": 4.385487, 
+        "name": "103 Gare de Carnot", 
+        "timestamp": "2016-06-10T05:35:18.615000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": 1
+        }, 
+        "free_bikes": 10, 
+        "id": "e0d8903ce3b51a655b5fae31a51a656c", 
+        "latitude": 45.453601, 
+        "longitude": 4.383062, 
+        "name": "102 Bergson-Chaleassiere", 
+        "timestamp": "2016-06-10T05:35:18.616000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "uid": 49
+        }, 
+        "free_bikes": 10, 
+        "id": "59057644308388b4fa7ffa41e11ef405", 
+        "latitude": 45.479487, 
+        "longitude": 4.362541, 
+        "name": "126 Hopital nord", 
+        "timestamp": "2016-06-10T05:35:18.489000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": 38
+        }, 
+        "free_bikes": 8, 
+        "id": "2fdae80cf93db6117e05cd5a8cefc090", 
+        "latitude": 45.448458, 
+        "longitude": 4.39492, 
+        "name": "124 Janin - Plaine Achille", 
+        "timestamp": "2016-06-10T05:35:18.521000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "uid": 37
+        }, 
+        "free_bikes": 13, 
+        "id": "a51fd33343c1c27b3b81351dc7d7a6fb", 
+        "latitude": 45.422732, 
+        "longitude": 4.409376, 
+        "name": "123 Fauriel Marx", 
+        "timestamp": "2016-06-10T05:35:18.532000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": 40
+        }, 
+        "free_bikes": 5, 
+        "id": "3f2a2b712a9c80e33abf17bc80992f86", 
+        "latitude": 45.46502, 
+        "longitude": 4.37874, 
+        "name": "122 La Terrasse", 
+        "timestamp": "2016-06-10T05:35:18.534000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 39
+        }, 
+        "free_bikes": 9, 
+        "id": "4ab5ece3f4d147b02767d22ec9b58c4b", 
+        "latitude": 45.45901, 
+        "longitude": 4.38186, 
+        "name": "121 Bergson-Guichard", 
+        "timestamp": "2016-06-10T05:35:18.537000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 19
+        }, 
+        "free_bikes": 9, 
+        "id": "5a2d53067c1a804e75b6e335fce2a0d1", 
+        "latitude": 45.439538, 
+        "longitude": 4.403407, 
+        "name": "120 Saint-Francois", 
+        "timestamp": "2016-06-10T05:35:18.563000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 18
+        }, 
+        "free_bikes": 11, 
+        "id": "5abc6f2dda8027cad6e8c6307050d8ad", 
+        "latitude": 45.4395, 
+        "longitude": 4.395669, 
+        "name": "119 Fourneyron", 
+        "timestamp": "2016-06-10T05:35:18.572000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": 51
+        }, 
+        "free_bikes": 5, 
+        "id": "e63c0f7e3b13f23365796d5531a8c5cd", 
+        "latitude": 45.4357171, 
+        "longitude": 4.3829931, 
+        "name": "129 Roannelle-Loubet", 
+        "timestamp": "2016-06-10T05:35:18.481000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": 50
+        }, 
+        "free_bikes": 8, 
+        "id": "768e5cdff124cc110a06ed6f09fb17f4", 
+        "latitude": 45.457, 
+        "longitude": 4.39241, 
+        "name": "128 Technopole", 
+        "timestamp": "2016-06-10T05:35:18.483000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 16
+        }, 
+        "free_bikes": 14, 
+        "id": "729ad10eeb79fef493a364757e300231", 
+        "latitude": 45.435109, 
+        "longitude": 4.391962, 
+        "name": "117 Chavanelle", 
+        "timestamp": "2016-06-10T05:35:18.588000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 13
+        }, 
+        "free_bikes": 10, 
+        "id": "ac73ae65c59e0aa20976a2701ecafeb0", 
+        "latitude": 45.415579, 
+        "longitude": 4.393322, 
+        "name": "114 Gare de Bellevue", 
+        "timestamp": "2016-06-10T05:35:18.599000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 12
+        }, 
+        "free_bikes": 9, 
+        "id": "6939aa58f9137cf3cdac4a4e18660173", 
+        "latitude": 45.42342, 
+        "longitude": 4.392292, 
+        "name": "113 Centre 2", 
+        "timestamp": "2016-06-10T05:35:18.601000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 11
+        }, 
+        "free_bikes": 6, 
+        "id": "f6c5b4161f69969e406c887803cdce56", 
+        "latitude": 45.427296, 
+        "longitude": 4.390669, 
+        "name": "112 Trefilerie", 
+        "timestamp": "2016-06-10T05:35:18.602000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": 10
+        }, 
+        "free_bikes": 4, 
+        "id": "5c8667fdef90a17eb26bf91cea83501a", 
+        "latitude": 45.427396, 
+        "longitude": 4.386718, 
+        "name": "111 Tardy-Buisson", 
+        "timestamp": "2016-06-10T05:35:18.603000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": 9
+        }, 
+        "free_bikes": 7, 
+        "id": "a160e280b287c03c0d1167b281416746", 
+        "latitude": 45.43065, 
+        "longitude": 4.389752, 
+        "name": "110 Anatole France", 
+        "timestamp": "2016-06-10T05:35:18.604000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 8
+        }, 
+        "free_bikes": 9, 
+        "id": "b659b57ccbf31072ca27758e021bc461", 
+        "latitude": 45.4328, 
+        "longitude": 4.388035, 
+        "name": "109 Albert Thomas", 
+        "timestamp": "2016-06-10T05:35:18.605000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "uid": 7
+        }, 
+        "free_bikes": 8, 
+        "id": "ca28255137d0675ad471974ce1fd06fb", 
+        "latitude": 45.436265, 
+        "longitude": 4.387539, 
+        "name": "108 Peuple", 
+        "timestamp": "2016-06-10T05:35:18.606000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": 6
+        }, 
+        "free_bikes": 5, 
+        "id": "2e9c5bb22e89eea8f52c9f108dc09f49", 
+        "latitude": 45.436903, 
+        "longitude": 4.378789, 
+        "name": "107 Gare du Clapier", 
+        "timestamp": "2016-06-10T05:35:18.611000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": 3
+        }, 
+        "free_bikes": 8, 
+        "id": "eb72984d2e335c1fbd787cf272a3f4db", 
+        "latitude": 45.441888, 
+        "longitude": 4.382492, 
+        "name": "104 Jacquard", 
+        "timestamp": "2016-06-10T05:35:18.614000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "uid": 0
+        }, 
+        "free_bikes": 8, 
+        "id": "2ca061bef86fdaea7e8e49efe183e3e8", 
+        "latitude": 45.442972, 
+        "longitude": 4.398855, 
+        "name": "101 Gare de Chateaucreux", 
+        "timestamp": "2016-06-10T05:35:18.618000Z"
+      }
+    ]
+  }
+}

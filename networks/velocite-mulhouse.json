@@ -1,0 +1,724 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/velocite-mulhouse", 
+    "id": "velocite-mulhouse", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Mulhouse", 
+      "country": "FR", 
+      "latitude": 47.750839, 
+      "longitude": 7.335888
+    }, 
+    "name": "V\u00e9loCit\u00e9", 
+    "stations": [
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rue de Zillisheim angle Rue St Sauveur", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772114000, 
+          "slots": 11, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 0, 
+        "id": "d135a7b3f78c47aa9f7ab2f3a4a3d6ea", 
+        "latitude": 47.742397, 
+        "longitude": 7.331582, 
+        "name": "22 - ST SAUVEUR", 
+        "timestamp": "2017-08-15T04:48:33.066000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Av Robert Schuman angle Rue de Stalingrad", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771885000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 7, 
+        "id": "7fcde686a488aa7866e52f9005ed7296", 
+        "latitude": 47.75243, 
+        "longitude": 7.342944, 
+        "name": "14 - SCHUMANN", 
+        "timestamp": "2017-08-15T04:48:33.082000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Rue de la Lanterne contre Temple St ETIENNE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772311000, 
+          "slots": 28, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 8, 
+        "id": "299fdeb4a438773f448c5f3eeccd10b1", 
+        "latitude": 47.747038, 
+        "longitude": 7.338923, 
+        "name": "17 - PLACE DE LA REUNION", 
+        "timestamp": "2017-08-15T04:48:33.082000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Avenue du G\u00e9n\u00e9ral Leclerc", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772077000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 23, 
+        "id": "17831a3e098adc7555c9291ce797e036", 
+        "latitude": 47.742424, 
+        "longitude": 7.342152, 
+        "name": "01 - PARVIS DE LA GARE", 
+        "timestamp": "2017-08-15T04:48:33.108000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "BOULEVARD CHARLES STOESSEL", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772259000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 4, 
+        "id": "383fc8c320e9ee666757df8b606012a2", 
+        "latitude": 47.74496772031617, 
+        "longitude": 7.327810319448964, 
+        "name": "09 - NESSEL", 
+        "timestamp": "2017-08-15T04:48:33.079000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "3 Place de la R\u00e9publique", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772391000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 6, 
+        "id": "6313687a2b655c73deba132c97818fcd", 
+        "latitude": 47.745960719214565, 
+        "longitude": 7.341412567581239, 
+        "name": "02 - REPUBLIQUE", 
+        "timestamp": "2017-08-15T04:48:33.080000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Face 113 Avenue Robert Schuman angle Rue lefebvre", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772350000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 28
+        }, 
+        "free_bikes": 4, 
+        "id": "9254a65215e47a115578b5595eff75f4", 
+        "latitude": 47.756393857099866, 
+        "longitude": 7.347971910269036, 
+        "name": "28 - SCHUMAN LEFEB", 
+        "timestamp": "2017-08-15T04:48:33.081000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Allee Nathan Katz Parvis de la Filature", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771866000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 4, 
+        "id": "689e6b66c8b306e278e9c4fb0fa54392", 
+        "latitude": 47.753533915217425, 
+        "longitude": 7.348462912266421, 
+        "name": "20 - FILATURE", 
+        "timestamp": "2017-08-15T04:48:33.083000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Angle av de Colmar / av du President Kennedy devant Porte Jeune", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772441000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 9, 
+        "id": "9f369c28bc53d992553f44f68de28a34", 
+        "latitude": 47.75006905130475, 
+        "longitude": 7.338714139133008, 
+        "name": "06 - PORTE JEUNE", 
+        "timestamp": "2017-08-15T04:48:33.084000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rue Gutenberg angle rue l'Arsenal", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772090000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 6, 
+        "id": "abfb0121d4eeffc41661b822e8a4c78f", 
+        "latitude": 47.7469931994958, 
+        "longitude": 7.33206326834505, 
+        "name": "08 - PORTE HAUTE", 
+        "timestamp": "2017-08-15T04:48:33.085000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Rue Alfred Verner All\u00e9e Brenard Thierry-Mieg", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772446000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 32
+        }, 
+        "free_bikes": 13, 
+        "id": "770bf20a330cecc7e52222f0c52eac93", 
+        "latitude": 47.733210486448705, 
+        "longitude": 7.314265697019561, 
+        "name": "32- CAMPUS", 
+        "timestamp": "2017-08-15T04:48:33.087000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "RUE DE LA MERTZAU  MULHOUSE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772124000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 36
+        }, 
+        "free_bikes": 5, 
+        "id": "0b850e7fa0318ddc6667801e24c670c0", 
+        "latitude": 47.75986276611346, 
+        "longitude": 7.332262051959153, 
+        "name": "36 - MUSEE DE L'AUTO", 
+        "timestamp": "2017-08-15T04:48:33.088000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Rue de Metz devant parking Face rue de la SOMME", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772378000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 9, 
+        "id": "366e2516a7722757c7ecd6431bdaba8b", 
+        "latitude": 47.748312192104606, 
+        "longitude": 7.343104706876782, 
+        "name": "04 - PARC SALVATOR", 
+        "timestamp": "2017-08-15T04:48:33.095000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "14 AVENUE AUGUSTE WICKY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772370000, 
+          "slots": 11, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 5, 
+        "id": "49beeec56ff866c49e8ff3a0990fcfb2", 
+        "latitude": 47.744219560146554, 
+        "longitude": 7.339778249113981, 
+        "name": "18 - CLEMENCEAU", 
+        "timestamp": "2017-08-15T04:48:33.096000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "CHATEAU ZU-RHEIN MULHOUSE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771918000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 37
+        }, 
+        "free_bikes": 4, 
+        "id": "e83de95b628c51d93d687f7aa96d2a6a", 
+        "latitude": 47.74329631548472, 
+        "longitude": 7.315494395852651, 
+        "name": "37 - TUNNEL", 
+        "timestamp": "2017-08-15T04:48:33.097000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Cinema Kinepolis Nouveau Bassin", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771914000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 31
+        }, 
+        "free_bikes": 3, 
+        "id": "ded76c1f30b916da0131e8674a9b160b", 
+        "latitude": 47.76040353431892, 
+        "longitude": 7.351545874483959, 
+        "name": "31 - KINEPOLIS", 
+        "timestamp": "2017-08-15T04:48:33.098000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Av du Pr\u00e9sident Kennedy angle rue Pierre et Marie Curie devant Credit Mutuel", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772092000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 7, 
+        "id": "2212c7a396e8413488c6e54a3ca0c288", 
+        "latitude": 47.74941110084169, 
+        "longitude": 7.335779025655298, 
+        "name": "07 - MAIRIE", 
+        "timestamp": "2017-08-15T04:48:33.099000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Av de Colmar angle Rue Engel Dollfus", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771938000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 5, 
+        "id": "3475548ef3dcf1ec2ee3aaeca299a389", 
+        "latitude": 47.75243313452126, 
+        "longitude": 7.337387363569732, 
+        "name": "15 - GRAND REX", 
+        "timestamp": "2017-08-15T04:48:33.100000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rue du Printemps angle Rue Courte", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772151000, 
+          "slots": 13, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 2, 
+        "id": "e820bd83ff983bfdc99c6241959504c9", 
+        "latitude": 47.750027924403746, 
+        "longitude": 7.348678891778222, 
+        "name": "11 - PLACE DU PRINTEMPS", 
+        "timestamp": "2017-08-15T04:48:33.100000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Avenue de Colmar devant Maison des Associations", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772271000, 
+          "slots": 10, 
+          "status": "OPEN", 
+          "uid": 27
+        }, 
+        "free_bikes": 4, 
+        "id": "8348cdb6dcdc208443f3e5c74d9a4eb4", 
+        "latitude": 47.75645059182136, 
+        "longitude": 7.335962697690334, 
+        "name": "27 - CITE ADMINISTRATIVE", 
+        "timestamp": "2017-08-15T04:48:33.102000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Rue de Brunstatt angle Rue de l'Illberg", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772342000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 33
+        }, 
+        "free_bikes": 5, 
+        "id": "bd7f506f7e902d57f33f5cdb9cd3d675", 
+        "latitude": 47.738321115207405, 
+        "longitude": 7.317404625830476, 
+        "name": "33 - AUBERGE", 
+        "timestamp": "2017-08-15T04:48:33.102000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "72 Rue Laurent", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772379000, 
+          "slots": 11, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 7, 
+        "id": "87f55d9bb6ea36766ca6f452fb3121c9", 
+        "latitude": 47.752205822026475, 
+        "longitude": 7.352306114121824, 
+        "name": "29 - LAURENT", 
+        "timestamp": "2017-08-15T04:48:33.103000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Rue de la Hardt face au 40", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772008000, 
+          "slots": 11, 
+          "status": "OPEN", 
+          "uid": 30
+        }, 
+        "free_bikes": 7, 
+        "id": "75b837d6838d0aa6652287ad50e90d4a", 
+        "latitude": 47.753021102255765, 
+        "longitude": 7.35513626875887, 
+        "name": "30 -  HARDT", 
+        "timestamp": "2017-08-15T04:48:33.106000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rue de Tivoli angle Bd Wallack", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772115000, 
+          "slots": 13, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 4, 
+        "id": "2b3ef06f57a97948278043bb37c7a909", 
+        "latitude": 47.74305508622176, 
+        "longitude": 7.347364171170129, 
+        "name": "24 - TIVOLI", 
+        "timestamp": "2017-08-15T04:48:33.107000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rue du Ch\u00e2teau Zu-Rhein angle Rue de Hirsingue", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772055000, 
+          "slots": 11, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 3, 
+        "id": "22f1b728471e362050afac4b192f6ac2", 
+        "latitude": 47.74057621894032, 
+        "longitude": 7.320302128363218, 
+        "name": "25 - PALAIS DES SPORTS", 
+        "timestamp": "2017-08-15T04:48:33.111000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Rue de la Locomotive angle Rue des Monteurs", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771991000, 
+          "slots": 27, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 11, 
+        "id": "abcf7214957761dfc50a9fa795605a20", 
+        "latitude": 47.739177846735345, 
+        "longitude": 7.332528397998575, 
+        "name": "21 - FONDERIE", 
+        "timestamp": "2017-08-15T04:48:33.115000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Rue de la SINNE angle rue CH.BRUN devant Eglise St ETIENNE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772310000, 
+          "slots": 13, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 9, 
+        "id": "190568a007c2e7e79aa40329534f6f5f", 
+        "latitude": 47.744186379414195, 
+        "longitude": 7.335726655363909, 
+        "name": "10 - PLACE DE LA PAIX", 
+        "timestamp": "2017-08-15T04:48:33.117000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Rue Charles Goerich angle Rue Koechlim-Dolfus", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771888000, 
+          "slots": 13, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 10, 
+        "id": "4085c51d3dce8db3492c4eb58948dba6", 
+        "latitude": 47.74325936026073, 
+        "longitude": 7.323934959556643, 
+        "name": "26 - GOERICH", 
+        "timestamp": "2017-08-15T04:48:33.118000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rue du Capitaine Dreyfus angle Bd de l'Europe", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772436000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 35
+        }, 
+        "free_bikes": 6, 
+        "id": "4fc8f90b80c0912b34731f14fcae2d88", 
+        "latitude": 47.75269193786139, 
+        "longitude": 7.346458858175643, 
+        "name": "35 - EUROPE", 
+        "timestamp": "2017-08-15T04:48:33.118000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Rue du Pr\u00e9sident Roosevelt angle rue Franklin", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772412000, 
+          "slots": 13, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 8, 
+        "id": "c199fa802a71e37b56b690a2f2953875", 
+        "latitude": 47.751246890292535, 
+        "longitude": 7.329751953871988, 
+        "name": "13 - MARCHE", 
+        "timestamp": "2017-08-15T04:48:33.119000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Angle rue de Metz / AV du President Kennedy devant Chambre des M\u00e9tiers", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771949000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 5, 
+        "id": "fd8a81a2007bbf3c903fec56b5f45e6f", 
+        "latitude": 47.74946498657992, 
+        "longitude": 7.341236049633396, 
+        "name": "05 - METZ", 
+        "timestamp": "2017-08-15T04:48:33.120000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rue Engel Dollfus dans le prolongement de la rue de la Filature", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772096000, 
+          "slots": 11, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 5, 
+        "id": "87c639c05dd70c6b38a7b8248ec63447", 
+        "latitude": 47.7510835523038, 
+        "longitude": 7.3335583445457, 
+        "name": "16 - PLACE FRANKLIN", 
+        "timestamp": "2017-08-15T04:48:33.121000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "RUE LEON JOUHAUX MULHOUSE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772099000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 40
+        }, 
+        "free_bikes": 7, 
+        "id": "88b973da05e6534bdc633f1b325f2413", 
+        "latitude": 47.746490991763224, 
+        "longitude": 7.308432590232066, 
+        "name": "40 - GARE DE DORNACH", 
+        "timestamp": "2017-08-15T04:48:33.122000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rue Jacques Preiss angle rue des Rabbins", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771898000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 3, 
+        "id": "a14b1418b89b4abba30eb47b7f6e96ba", 
+        "latitude": 47.74409332327696, 
+        "longitude": 7.333486550613367, 
+        "name": "19 - LES TROIS ROIS", 
+        "timestamp": "2017-08-15T04:48:33.123000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Rue de Stalingrad angle rue Savator", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772300000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 3, 
+        "id": "dee975e2558ffa028ad994a67404213d", 
+        "latitude": 47.74929728207385, 
+        "longitude": 7.346391524337651, 
+        "name": "12 - STALINGRAD", 
+        "timestamp": "2017-08-15T04:48:33.124000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Avenue d'Altkirch entr\u00e9e hopital", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772065000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 6, 
+        "id": "16931a893b32b6771f7a13f1447dd115", 
+        "latitude": 47.73574513758583, 
+        "longitude": 7.332298077370282, 
+        "name": "23 - HASENREIN", 
+        "timestamp": "2017-08-15T04:48:33.125000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Boulevard Charles Stoessel entr\u00e9e Parc des Sport Patinoire", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772351000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 34
+        }, 
+        "free_bikes": 3, 
+        "id": "d4f702055e0b096c24043d1c979f7572", 
+        "latitude": 47.73592960838637, 
+        "longitude": 7.318956441703374, 
+        "name": "34 - PATINOIRE", 
+        "timestamp": "2017-08-15T04:48:33.126000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "RUE DE LA WANNE, angle RUE KOECHLIN", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772017000, 
+          "slots": 10, 
+          "status": "OPEN", 
+          "uid": 38
+        }, 
+        "free_bikes": 2, 
+        "id": "c30b43017e84e4299c2f3eb6855b0b68", 
+        "latitude": 47.743132, 
+        "longitude": 7.352147, 
+        "name": "38 - WANNE", 
+        "timestamp": "2017-08-15T04:48:33.078000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "AVE DE RIEDISHEIM, angle RUE DE LA WANNE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772146000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 39
+        }, 
+        "free_bikes": 6, 
+        "id": "4057c382221dea2768d3b03dab41b9ed", 
+        "latitude": 47.746152, 
+        "longitude": 7.357114, 
+        "name": "39 - PORTE DE RIEDISHEIM", 
+        "timestamp": "2017-08-15T04:48:33.089000Z"
+      }
+    ]
+  }
+}

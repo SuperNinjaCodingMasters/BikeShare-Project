@@ -1,0 +1,57 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-lavis", 
+    "id": "bicincitta-lavis", 
+    "location": {
+      "city": "Lavis", 
+      "country": "IT", 
+      "latitude": 46.1408423, 
+      "longitude": 11.1124935
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazza Grazioli - Lavis", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "64f27f397bf4946ffd8b53cb5307cfc2", 
+        "latitude": 46.139732902099794, 
+        "longitude": 11.111516155225331, 
+        "name": "Grazioli", 
+        "timestamp": "2017-08-15T04:49:16.158000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Piazza della Croce - Pressano", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "233711fd9a56cc73386ddc40cdb4d4e3", 
+        "latitude": 46.15368174037716, 
+        "longitude": 11.106601229430453, 
+        "name": "Pressano", 
+        "timestamp": "2017-08-15T04:49:16.165000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Via Stazione - Lavis", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "f9d7085879d56591e14e1855b2b72d83", 
+        "latitude": 46.148180371138814, 
+        "longitude": 11.096753997622727, 
+        "name": "Stazione RFI", 
+        "timestamp": "2017-08-15T04:49:16.166000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "network": {
+    "company": [
+      "Mobilicidade Tecnologia LTD", 
+      "Grupo Serttel LTDA"
+    ], 
+    "href": "/v2/networks/cajubike", 
+    "id": "cajubike", 
+    "location": {
+      "city": "Aracaj\u00fa", 
+      "country": "BR", 
+      "latitude": -10.987263, 
+      "longitude": -37.051898
+    }, 
+    "name": "CajuBike", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "", 
+          "description": "Rua Vila Cristina, 138 / Esquina Avenida Bar\u00e3o de Maruim", 
+          "status": "open"
+        }, 
+        "free_bikes": 5, 
+        "id": "6162126b84f63730dc53ac9cf2bfa801", 
+        "latitude": -10.918173, 
+        "longitude": -37.048423, 
+        "name": "Pra\u00e7a Camerino", 
+        "timestamp": "2017-08-15T04:50:12.698000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "", 
+          "description": "Rua Monsenhor Silveira, 20 / Esquina Rua Senador Rollemberg", 
+          "status": "open"
+        }, 
+        "free_bikes": 1, 
+        "id": "3a5145c65d0435d8cbc2f5f7e874c494", 
+        "latitude": -10.920197, 
+        "longitude": -37.047067, 
+        "name": "Pra\u00e7a Almirante Tamandar\u00e9", 
+        "timestamp": "2017-08-15T04:50:12.700000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "", 
+          "description": "Rua Riachuelo, 726 (SETRAB-SE) / Esquina Rua Santa Luzia", 
+          "status": "open"
+        }, 
+        "free_bikes": 0, 
+        "id": "58435d8a2b5ff9780ec4df70839a0b97", 
+        "latitude": -10.920751, 
+        "longitude": -37.052031, 
+        "name": "Riachuelo", 
+        "timestamp": "2017-08-15T04:50:12.701000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "", 
+          "description": "Avenida Rotary oposto ao Terminal Atalaia / Esquina Avenida Des. Jo\u00e3o Bosco de Andrade Lima", 
+          "status": "open"
+        }, 
+        "free_bikes": 5, 
+        "id": "c87c7bff9eb1ec70eb0de6a7381f24a0", 
+        "latitude": -10.987263, 
+        "longitude": -37.051898, 
+        "name": "Rotary", 
+        "timestamp": "2017-08-15T04:50:12.692000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "", 
+          "description": "Avenida Santos Dumont, 273 (Via Mar Praia Hotel) / Esquina Avenida Antonio Oliva Paiva", 
+          "status": "open"
+        }, 
+        "free_bikes": 3, 
+        "id": "619c2f40ac850e623abc194b86724eff", 
+        "latitude": -10.986747, 
+        "longitude": -37.047081, 
+        "name": "Quadras", 
+        "timestamp": "2017-08-15T04:50:12.694000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "", 
+          "description": "Avenida Santos Dumont, oposto ao Real Praia Hotel / Esquina Rua C\u00f4nego Jos\u00e9 Felix de Oliveira", 
+          "status": "open"
+        }, 
+        "free_bikes": 4, 
+        "id": "221af62d589808aacd4ae6993bf21c5e", 
+        "latitude": -10.978268, 
+        "longitude": -37.041204, 
+        "name": "Ocean\u00e1rio", 
+        "timestamp": "2017-08-15T04:50:12.695000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "", 
+          "description": "Avenida Santos Dumont, oposto ao Hotel Nascimento / Esquina Rua Professor Jugurta Feitosa Franco", 
+          "status": "open"
+        }, 
+        "free_bikes": 4, 
+        "id": "216ccde66deb92d036a1f25bd9723cc2", 
+        "latitude": -10.974287, 
+        "longitude": -37.038468, 
+        "name": "Pra\u00e7a de Eventos", 
+        "timestamp": "2017-08-15T04:50:12.696000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "", 
+          "description": "Rua Pedro Mandarino, oposto ao Residencial Mar Mediterraneo / Esquina Avenida Poeta Mario Jorge M. Vieira", 
+          "status": "closed"
+        }, 
+        "free_bikes": 0, 
+        "id": "e051baab40a49592014c607a7a3c413d", 
+        "latitude": -10.965708, 
+        "longitude": -37.041349, 
+        "name": "Mediterr\u00e2neo", 
+        "timestamp": "2017-08-15T04:50:12.697000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "", 
+          "description": "Rua Santa Luzia, oposto ao Col\u00e9gio S\u00e3o Jos\u00e9 / Esquina Rua Augusto Maynard", 
+          "status": "open"
+        }, 
+        "free_bikes": 5, 
+        "id": "8e5503642753f04497933ef778558455", 
+        "latitude": -10.923918, 
+        "longitude": -37.051659, 
+        "name": "Pra\u00e7a Tobias Barreto", 
+        "timestamp": "2017-08-15T04:50:12.697000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "", 
+          "description": "Rua Zaqueu Brand\u00e3o, 500 / Entre a Rua Boquim e Av Bar\u00e3o de Maruim", 
+          "status": "open"
+        }, 
+        "free_bikes": 4, 
+        "id": "69266d604daab71bf85a1f86878f1eee", 
+        "latitude": -10.918041, 
+        "longitude": -37.05667, 
+        "name": "Pra\u00e7a da Bandeira", 
+        "timestamp": "2017-08-15T04:50:12.702000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "", 
+          "description": "Travessa H\u00e9lio Ribeiro, 32 (Secretaria de Estado da Sa\u00fade) / Esquina Rua Jo\u00e3o Pessoa", 
+          "status": "open"
+        }, 
+        "free_bikes": 2, 
+        "id": "81bc192117faafbd6ea88a82d0586e99", 
+        "latitude": -10.908921, 
+        "longitude": -37.0488, 
+        "name": "Pra\u00e7a General Valadao", 
+        "timestamp": "2017-08-15T04:50:12.703000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "", 
+          "description": "Avenida Ivo do Prado, em frente ao Mercado / Esquina Rua Santa Rosa", 
+          "status": "open"
+        }, 
+        "free_bikes": 4, 
+        "id": "771c14594b7636de504d0a516e27adc3", 
+        "latitude": -10.907414, 
+        "longitude": -37.048602, 
+        "name": "Mercado", 
+        "timestamp": "2017-08-15T04:50:12.703000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "", 
+          "description": "Pra\u00e7a Getulio Vargas, lateral do Edif\u00edcio OAB Sergipe / Esquina Avenida Ivo do Prado", 
+          "status": "open"
+        }, 
+        "free_bikes": 5, 
+        "id": "0622ed9e2e19e5e7a9a24a0f99c73e7d", 
+        "latitude": -10.923395, 
+        "longitude": -37.044948, 
+        "name": "Pra\u00e7a Getulio Vargas", 
+        "timestamp": "2017-08-15T04:50:12.704000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "", 
+          "description": "Rua Jos\u00e9 Ramos da Silva, 306 / Esquina Rua Homero de Oliveira", 
+          "status": "open"
+        }, 
+        "free_bikes": 4, 
+        "id": "c4c0deb8591295ec33b5a402c1c21aae", 
+        "latitude": -10.930012, 
+        "longitude": -37.050195, 
+        "name": "Jos\u00e9 Ramos", 
+        "timestamp": "2017-08-15T04:50:12.705000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "", 
+          "description": "Avenida Beira Mar, 2066 / Esquina Avenida Anizio Azevedo", 
+          "status": "open"
+        }, 
+        "free_bikes": 5, 
+        "id": "b465c8b56025e01f187ef8c2b3d37650", 
+        "latitude": -10.931312, 
+        "longitude": -37.047349, 
+        "name": "Mirante", 
+        "timestamp": "2017-08-15T04:50:12.706000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "", 
+          "description": "Avenida Beira Mar, 1966 / Esquina com a Rua Francisco do Porto", 
+          "status": "open"
+        }, 
+        "free_bikes": 7, 
+        "id": "7cefc5a760b1d8ff4c48ccacab402ade", 
+        "latitude": -10.940344, 
+        "longitude": -37.050715, 
+        "name": "Beira Mar", 
+        "timestamp": "2017-08-15T04:50:12.707000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "", 
+          "description": "Avenida Jornalista Santos Santana, oposto a AEASE / Esquina Avenida Beira Mar", 
+          "status": "closed"
+        }, 
+        "free_bikes": 6, 
+        "id": "25b4e2920503566844d25d838397c132", 
+        "latitude": -10.944113, 
+        "longitude": -37.051979, 
+        "name": "Parque Sementeira", 
+        "timestamp": "2017-08-15T04:50:12.708000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "", 
+          "description": "Travessa Jos\u00e9 de Faro, em frente ao Pal\u00e1cio Fausto Cardoso / Esquina Rua Pacatuba", 
+          "status": "open"
+        }, 
+        "free_bikes": 4, 
+        "id": "ec0e3d87c218793e6487ae560c9f7fe3", 
+        "latitude": -10.913631, 
+        "longitude": -37.048923, 
+        "name": "Almirante Barroso", 
+        "timestamp": "2017-08-15T04:50:12.709000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "", 
+          "description": "Avenida Santos Dumont, oposto ao restaurante Cariri / Entre a Rua Fran\u00e7ois Hoald e a Rua Br\u00e1ulio Costa", 
+          "status": "open"
+        }, 
+        "free_bikes": 7, 
+        "id": "da375cf249ebc9b3b14e2be13647e67f", 
+        "latitude": -10.995019, 
+        "longitude": -37.053019, 
+        "name": "Passarela do Caranguejo", 
+        "timestamp": "2017-08-15T04:50:12.710000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "", 
+          "description": "Rua Boquim, em frente ao Conservat\u00f3rio de M\u00fasica de Sergipe / Esquina Rua Santa Luzia", 
+          "status": "closed"
+        }, 
+        "free_bikes": 0, 
+        "id": "b8c4235a544c56bcf3b38ec3b48706ce", 
+        "latitude": -10.917272, 
+        "longitude": -37.051851, 
+        "name": "Conservat\u00f3rio", 
+        "timestamp": "2017-08-15T04:50:12.699000Z"
+      }
+    ]
+  }
+}

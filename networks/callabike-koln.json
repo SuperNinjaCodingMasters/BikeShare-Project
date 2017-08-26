@@ -1,0 +1,2968 @@
+{
+  "network": {
+    "company": [
+      "DB Rent GmbH"
+    ], 
+    "href": "/v2/networks/callabike-koln", 
+    "id": "callabike-koln", 
+    "location": {
+      "city": "K\u00f6ln", 
+      "country": "DE", 
+      "latitude": 50.9572449, 
+      "longitude": 6.9673223
+    }, 
+    "name": "Call-A-Bike K\u00f6ln", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "fb80b95fb6211f95770a777a6ef1f2f8", 
+        "latitude": 50.929718, 
+        "longitude": 6.921715, 
+        "name": "Krementzstr. / Wilhelm-Backhaus-Str.", 
+        "timestamp": "2017-02-22T13:13:44.676000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ae50b58b29108542b32612c7a4bdb151", 
+        "latitude": 50.952267, 
+        "longitude": 6.918474, 
+        "name": "Bartholom\u00e4us-Schink-Str. / H\u00fcttenstr.", 
+        "timestamp": "2017-02-22T13:13:44.709000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "78913116bdd03ea11445ea96a12a6aba", 
+        "latitude": 50.904884, 
+        "longitude": 6.945208, 
+        "name": "Raderthalg\u00fcrtel / Vorgebirgstr.", 
+        "timestamp": "2017-02-22T13:13:44.736000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e0d8b089db08b636866d762cd9bdc85f", 
+        "latitude": 50.972626, 
+        "longitude": 6.9515605, 
+        "name": "Eckewartstr. / Neusser Str.", 
+        "timestamp": "2017-02-22T13:13:44.740000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "717c32277c7d29ce9e46f028b414acee", 
+        "latitude": 50.90577, 
+        "longitude": 6.9392414, 
+        "name": "Kalscheurer Weg / Zollstockg\u00fcrtel", 
+        "timestamp": "2017-02-22T13:13:44.738000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1b704ecda2c0c54b54c9cc41c22a4334", 
+        "latitude": 50.9074, 
+        "longitude": 6.9371643, 
+        "name": "Bernkasteler Str. / Trittenheimer Str.", 
+        "timestamp": "2017-02-22T13:13:44.731000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "76c237b10c305023dda67b3063941a9c", 
+        "latitude": 50.95406, 
+        "longitude": 6.9199615, 
+        "name": "Ehrenfeldg\u00fcrtel / Subbelrather Str.", 
+        "timestamp": "2017-02-22T13:13:44.713000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "088025ac159d8085c3febf7c795febd5", 
+        "latitude": 50.948456, 
+        "longitude": 6.915088, 
+        "name": "Melateng\u00fcrtel / Vogelsanger Str.", 
+        "timestamp": "2017-02-22T13:13:44.718000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "125a8e795822012dc72307cc676b7542", 
+        "latitude": 50.95421, 
+        "longitude": 6.9190702, 
+        "name": "Siemensstr. / Subbelrather Str.", 
+        "timestamp": "2017-02-22T13:13:44.720000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a9cc818308605888a361fd375bfa7020", 
+        "latitude": 50.921658, 
+        "longitude": 6.907319, 
+        "name": "Krieler Str. / Schlegelstr.", 
+        "timestamp": "2017-02-22T13:13:44.745000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "4841b5d3eacf7c9f863d5d643d7acffd", 
+        "latitude": 50.95859, 
+        "longitude": 6.975629, 
+        "name": "Riehler Str. / Tiergartenstr.", 
+        "timestamp": "2017-02-22T13:13:44.660000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "bb99abdcf92812bfc20b8a468a4d3089", 
+        "latitude": 50.92703, 
+        "longitude": 6.9338536, 
+        "name": "Stauderstr. / Z\u00fclpicher Str.", 
+        "timestamp": "2017-02-22T13:13:44.651000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a8ac3c9b7857159520fc0b69dc3cb5b5", 
+        "latitude": 50.92902, 
+        "longitude": 6.9616227, 
+        "name": "Im Weichserhof / Katharinengraben", 
+        "timestamp": "2017-02-22T13:13:44.456000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "37321aac8ebb0a9e84cfef7681b22d28", 
+        "latitude": 50.945004, 
+        "longitude": 6.912296, 
+        "name": "Melateng\u00fcrtel / Weinsbergstr.", 
+        "timestamp": "2017-02-22T13:13:44.721000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "61125b6c6b87f6ac6a4214c7e766222e", 
+        "latitude": 50.942993, 
+        "longitude": 6.9608116, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.418000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "0d88fd3b1983127ca2e7e6eda688c13f", 
+        "latitude": 50.92787, 
+        "longitude": 6.962778, 
+        "name": "Landsbergstr. / Seyengasse", 
+        "timestamp": "2017-02-22T13:13:44.482000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "fb1d9a18154953aa38167d12d315daae", 
+        "latitude": 50.94028, 
+        "longitude": 6.9735746, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.460000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "76d2c77b3837e94b8b8ec8ab1bfc4549", 
+        "latitude": 50.935074, 
+        "longitude": 6.953219, 
+        "name": "C\u00e4cilienstr. / Nord-S\u00fcd-Fahrt", 
+        "timestamp": "2017-02-22T13:13:44.387000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "53d977edf8b1324ec93a58fcd44c9dfa", 
+        "latitude": 50.934246, 
+        "longitude": 6.93817, 
+        "name": "Engelbertstr. / Lindenstr.", 
+        "timestamp": "2017-02-22T13:13:44.577000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "9fda6f43a9161a20725d0ccf6b46ad64", 
+        "latitude": 50.959896, 
+        "longitude": 6.949221, 
+        "name": "Merheimer Str. / Sechzigstr.", 
+        "timestamp": "2017-02-22T13:13:44.662000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "90d768f7e4b8c65bb67f01232dada9a4", 
+        "latitude": 50.946888, 
+        "longitude": 6.954197, 
+        "name": "Eintrachtstr. / Ursulagartenstr.", 
+        "timestamp": "2017-02-22T13:13:44.488000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "cd376935a747b30c674cbc1b1842e773", 
+        "latitude": 50.93282, 
+        "longitude": 6.945621, 
+        "name": "Josef-Schwartz-Anlage / Mauritiussteinweg", 
+        "timestamp": "2017-02-22T13:13:44.490000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "aaed40235f67107a68ace3ba6dd4c73c", 
+        "latitude": 50.925835, 
+        "longitude": 6.938964, 
+        "name": "Luxemburger Str. / Otto-Fischer-Str.", 
+        "timestamp": "2017-02-22T13:13:44.636000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c47b928b890798062312967e92582427", 
+        "latitude": 50.92412, 
+        "longitude": 6.9797454, 
+        "name": "Poller Kirchweg / Siegburger Str.", 
+        "timestamp": "2017-02-22T13:13:44.643000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "21eb001ada4ce2a4f9218d2863d0871a", 
+        "latitude": 50.96858, 
+        "longitude": 6.9423666, 
+        "name": "Kempener Str. / Mauenheimer G\u00fcrtel", 
+        "timestamp": "2017-02-22T13:13:44.728000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "8799c48675f4b8c6416a673e465b2f49", 
+        "latitude": 50.940178, 
+        "longitude": 6.972973, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.454000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "b24cd2ebc2d0a2c5f6f94a4338d488cf", 
+        "latitude": 50.942635, 
+        "longitude": 6.9606147, 
+        "name": "Breslauer Platz / Johannisstr.", 
+        "timestamp": "2017-02-22T13:13:44.395000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "5d75e3ac42a55bd92cf2b8b46dc27bf0", 
+        "latitude": 50.943375, 
+        "longitude": 6.9335136, 
+        "name": "Hans-B\u00f6ckler-Platz / Venloer Str.", 
+        "timestamp": "2017-02-22T13:13:44.637000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1395d7050c8a59477874c9eb73f3cc83", 
+        "latitude": 50.928883, 
+        "longitude": 6.9464874, 
+        "name": "Am Weidenbach / Friedrichstr.", 
+        "timestamp": "2017-02-22T13:13:44.537000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "1558bfe1742379e820be842e69b21528", 
+        "latitude": 50.94033, 
+        "longitude": 6.97453, 
+        "name": "Bahnhof K\u00f6ln-Deutz", 
+        "timestamp": "2017-02-22T13:13:44.479000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2cf5e0962cbbf7dc843ef91545026938", 
+        "latitude": 50.946526, 
+        "longitude": 6.945342, 
+        "name": "Am K\u00fcmpchenshof / Hansaring", 
+        "timestamp": "2017-02-22T13:13:44.558000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "8124cd82309f397e0c83b4ab399a65c5", 
+        "latitude": 50.97397, 
+        "longitude": 6.9598947, 
+        "name": "Gelsenkirchener Str. / Niehler Str.", 
+        "timestamp": "2017-02-22T13:13:44.744000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "50855cd8b070807176f37038de2a378c", 
+        "latitude": 50.95701, 
+        "longitude": 6.9452167, 
+        "name": "Josephskirchplatz / Menzelstr.", 
+        "timestamp": "2017-02-22T13:13:44.658000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "6c01d18ea79865ee592df3baffb97628", 
+        "latitude": 50.934727, 
+        "longitude": 6.962827, 
+        "name": "Heumarkt / Thurnmarkt", 
+        "timestamp": "2017-02-22T13:13:44.360000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "beac9d529b30a9e4735ccd826f93b4a5", 
+        "latitude": 50.941257, 
+        "longitude": 6.977174, 
+        "name": "Barmer Platz / Lenneper Str.", 
+        "timestamp": "2017-02-22T13:13:44.522000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "4cec7d0d9b4b6a0fb961efb1bd96c72a", 
+        "latitude": 50.947655, 
+        "longitude": 6.964428, 
+        "name": "Dagobertstr. / Konrad-Adenauer-Ufer", 
+        "timestamp": "2017-02-22T13:13:44.496000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "6b58f39228097b15175539dfbc52eeb7", 
+        "latitude": 50.948322, 
+        "longitude": 6.9213386, 
+        "name": "Geisselstr. / Venloer Str.", 
+        "timestamp": "2017-02-22T13:13:44.685000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "0a86fc090905ff3f2cc6a259436d7b24", 
+        "latitude": 50.943672, 
+        "longitude": 6.933271, 
+        "name": "Ludolf-Camphausen-Str. / Venloer Wall", 
+        "timestamp": "2017-02-22T13:13:44.640000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "237bab007c1c13b61e4cdca61ad2e647", 
+        "latitude": 50.92116, 
+        "longitude": 6.953949, 
+        "name": "Metzer Str. / Vondelstr.", 
+        "timestamp": "2017-02-22T13:13:44.605000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "34c5de6436a9f0efd5de1a8d02f99598", 
+        "latitude": 50.942394, 
+        "longitude": 6.950491, 
+        "name": "B\u00f6rsenplatz / Gereonstr.", 
+        "timestamp": "2017-02-22T13:13:44.442000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "b79294cde4a9e148c43a04d03c100771", 
+        "latitude": 50.947674, 
+        "longitude": 6.9565935, 
+        "name": "Eintrachtstr. / Unter Krahnenb\u00e4umen", 
+        "timestamp": "2017-02-22T13:13:44.493000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "278c1d1059ef98160c0d4df7def7fe4c", 
+        "latitude": 50.946217, 
+        "longitude": 6.9146814, 
+        "name": "Lindenbornstr. / S\u00f6mmeringstr.", 
+        "timestamp": "2017-02-22T13:13:44.703000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c877eb9b08d7b5f23afb67f74aafb8c6", 
+        "latitude": 50.95246, 
+        "longitude": 6.953476, 
+        "name": "Balthasarstr. / Kasparstr.", 
+        "timestamp": "2017-02-22T13:13:44.587000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c2783dacc7262bbea08febcae9813eee", 
+        "latitude": 50.92189, 
+        "longitude": 6.959416, 
+        "name": "Im Ferkulum / Severinstr.", 
+        "timestamp": "2017-02-22T13:13:44.590000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "bef54c6127bbc94759fb6181366a80f0", 
+        "latitude": 50.917988, 
+        "longitude": 6.9526997, 
+        "name": "Bonner Wall / Kowallekstr.", 
+        "timestamp": "2017-02-22T13:13:44.653000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "126d0ad61c549801791ce0aff1683565", 
+        "latitude": 50.94264, 
+        "longitude": 6.959858, 
+        "name": "Johannisstr. / Radstation", 
+        "timestamp": "2017-02-22T13:13:44.397000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3cb3f8b197021ad3fcbb186c43a5d4ff", 
+        "latitude": 50.943233, 
+        "longitude": 6.961079, 
+        "name": "Am Alten Ufer / Goldgasse", 
+        "timestamp": "2017-02-22T13:13:44.426000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "900657f2734957623d384a20c7a56c9a", 
+        "latitude": 50.918743, 
+        "longitude": 6.9622808, 
+        "name": "Alteburger Str. / Teutoburger Str.", 
+        "timestamp": "2017-02-22T13:13:44.647000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "d0bdbc488fada6e2e184173dff11d018", 
+        "latitude": 50.942505, 
+        "longitude": 6.9606943, 
+        "name": "Am Alten Ufer / Goldgasse", 
+        "timestamp": "2017-02-22T13:13:44.370000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "61d837d367b81787ec605becfbe1f1e3", 
+        "latitude": 50.934216, 
+        "longitude": 6.921899, 
+        "name": "Gottfried-Keller-Str. / Herbert-Lewin-Str.", 
+        "timestamp": "2017-02-22T13:13:44.667000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "098df69b3f49b603df3b9a017e114a50", 
+        "latitude": 50.92202, 
+        "longitude": 6.9635844, 
+        "name": "An der Bottm\u00fchle / Ubierring", 
+        "timestamp": "2017-02-22T13:13:44.588000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2a07670771172fb125982b74c1a3d194", 
+        "latitude": 50.941742, 
+        "longitude": 6.95303, 
+        "name": "Burgmauer / Tunisstr.", 
+        "timestamp": "2017-02-22T13:13:44.433000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a5503e7de7920f57e2380f8479572d7b", 
+        "latitude": 50.92668, 
+        "longitude": 6.9386353, 
+        "name": "Luxemburger Str. / Otto-Fischer-Str.", 
+        "timestamp": "2017-02-22T13:13:44.628000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "75a9b6805e0ba1e6a24c7027e707c57a", 
+        "latitude": 50.925106, 
+        "longitude": 6.9376884, 
+        "name": "Eifelwall / Luxemburger Str.", 
+        "timestamp": "2017-02-22T13:13:44.650000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "af640c115d75ce50573f3dda73ad9afe", 
+        "latitude": 50.951424, 
+        "longitude": 6.9117365, 
+        "name": "Christianstr. / Herbrandstr.", 
+        "timestamp": "2017-02-22T13:13:44.733000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ea74e8bfe0182b0583a60b86b3a3b40d", 
+        "latitude": 50.919216, 
+        "longitude": 6.922089, 
+        "name": "M\u00fcnstereifeler Str. / S\u00fclzburgstr.", 
+        "timestamp": "2017-02-22T13:13:44.710000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e4a69e37b0f767172b1847b8f3135e14", 
+        "latitude": 50.953747, 
+        "longitude": 6.9199853, 
+        "name": "Ehrenfeldg\u00fcrtel / Subbelrather Str.", 
+        "timestamp": "2017-02-22T13:13:44.708000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "cdc281efef364ba020be1ba5fa63084a", 
+        "latitude": 50.939396, 
+        "longitude": 6.976792, 
+        "name": "Constantinstr. / Von-Sandt-Platz", 
+        "timestamp": "2017-02-22T13:13:44.508000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "64547152fbae78aa02bceb2cc8295dbd", 
+        "latitude": 50.942627, 
+        "longitude": 6.960361, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.392000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "dcb360ded043e5a9177f393feaacbb3b", 
+        "latitude": 50.944157, 
+        "longitude": 7.005054, 
+        "name": "Falckensteinstr. / Remscheider Str.", 
+        "timestamp": "2017-02-22T13:13:44.697000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "09dc2b94ad12502d120088e19ae5b964", 
+        "latitude": 50.92817, 
+        "longitude": 6.94281, 
+        "name": "Neue Weyerstr. / Pf\u00e4lzer Str.", 
+        "timestamp": "2017-02-22T13:13:44.580000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "be1abf2942685939ab718d09fa93dbdc", 
+        "latitude": 50.938164, 
+        "longitude": 6.976986, 
+        "name": "Graf-Ge\u00dfler-Str. / Von-Sandt-Platz", 
+        "timestamp": "2017-02-22T13:13:44.504000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "631f3413f8692aa33deb454e0b1681cb", 
+        "latitude": 50.92019, 
+        "longitude": 6.9221544, 
+        "name": "Marsiliusstr. / Rupprechtstr.", 
+        "timestamp": "2017-02-22T13:13:44.701000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1222f46dadb283027245d7d847680887", 
+        "latitude": 50.951416, 
+        "longitude": 6.9569616, 
+        "name": "Neusser Str. / Schillingstr.", 
+        "timestamp": "2017-02-22T13:13:44.570000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "d1a0206697140b89a7c9035da3692d06", 
+        "latitude": 50.920853, 
+        "longitude": 6.96382, 
+        "name": "Mainzer Str. / Maternusstr.", 
+        "timestamp": "2017-02-22T13:13:44.603000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "01c65255ca777765f47f820361b722bb", 
+        "latitude": 50.944992, 
+        "longitude": 6.973645, 
+        "name": "Auenplatz / Auenweg", 
+        "timestamp": "2017-02-22T13:13:44.520000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "093d41c0150515738e6921bae53b231a", 
+        "latitude": 50.960796, 
+        "longitude": 6.9519773, 
+        "name": "Auguststr. / Cranachstr.", 
+        "timestamp": "2017-02-22T13:13:44.664000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "b942c7d449c1bd5c2f73ecef3169fb5c", 
+        "latitude": 50.94284, 
+        "longitude": 6.960622, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.416000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "acabe27217b80a33705ecfcb4e6b4f23", 
+        "latitude": 50.942566, 
+        "longitude": 6.9603415, 
+        "name": "Johannisstr. / Musicaldome", 
+        "timestamp": "2017-02-22T13:13:44.378000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3fba1de9e985a8fe9b5a29b5c66cce73", 
+        "latitude": 50.95682, 
+        "longitude": 6.93584, 
+        "name": "Liebigstr. / Methweg", 
+        "timestamp": "2017-02-22T13:13:44.673000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "f25cf7b772ac40a859173c2931d1d178", 
+        "latitude": 50.967625, 
+        "longitude": 6.9773746, 
+        "name": "Goldfu\u00dfstr. / Naumannstr.", 
+        "timestamp": "2017-02-22T13:13:44.723000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "9a3a39ff338e8686d926760c64e8534f", 
+        "latitude": 50.94277, 
+        "longitude": 6.9604053, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.414000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2841ff066c0b64123ee3be90f7b34239", 
+        "latitude": 50.904312, 
+        "longitude": 6.957077, 
+        "name": "Annastr. / Br\u00fchler Str.", 
+        "timestamp": "2017-02-22T13:13:44.730000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e2f4c6778cc49effff7459cca02c20c0", 
+        "latitude": 50.9567, 
+        "longitude": 6.9271154, 
+        "name": "Nu\u00dfbaumerstr. / Ottostr.", 
+        "timestamp": "2017-02-22T13:13:44.696000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "fd80bb3103c9ef5ca5fddab2e8a23eb5", 
+        "latitude": 50.92243, 
+        "longitude": 6.927374, 
+        "name": "De-Noel-Platz / Nikolausstr.", 
+        "timestamp": "2017-02-22T13:13:44.678000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "8c5772147d26ec3308fba2a74953e7b1", 
+        "latitude": 50.942654, 
+        "longitude": 6.960855, 
+        "name": "Johannisstr. / Radstation", 
+        "timestamp": "2017-02-22T13:13:44.400000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "be229c5a738a5768c52467b08d8bc4be", 
+        "latitude": 50.942635, 
+        "longitude": 6.9604087, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.393000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "0a52d5e27b673f6c2b280855e209b3db", 
+        "latitude": 50.942654, 
+        "longitude": 6.9602904, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.398000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "5bab84597d72746ae8e684ea7b3471be", 
+        "latitude": 50.967453, 
+        "longitude": 6.956504, 
+        "name": "B\u00fclowstr. / Waterloostr.", 
+        "timestamp": "2017-02-22T13:13:44.704000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "74003b2fa04180195f8562d1dca19fa9", 
+        "latitude": 50.942535, 
+        "longitude": 6.9604173, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.371000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "67fc36164529f7bd700e3ae5ee1195e9", 
+        "latitude": 50.919056, 
+        "longitude": 6.9158783, 
+        "name": "Curtiusstr. / S\u00fclzg\u00fcrtel", 
+        "timestamp": "2017-02-22T13:13:44.732000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "7f61545e35125d00b862a22f180990c8", 
+        "latitude": 50.935913, 
+        "longitude": 6.99236, 
+        "name": "Deutzer Ring / Gie\u00dfener Str.", 
+        "timestamp": "2017-02-22T13:13:44.654000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e915f4b34e67afa3ddc0f56e4d8654b8", 
+        "latitude": 50.95397, 
+        "longitude": 6.919905, 
+        "name": "Ehrenfeldg\u00fcrtel / Subbelrather Str.", 
+        "timestamp": "2017-02-22T13:13:44.712000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e53d5c19d73b8a3d3052e8fccf9271b7", 
+        "latitude": 50.930862, 
+        "longitude": 6.922906, 
+        "name": "Bachemer Str. / Weyertal", 
+        "timestamp": "2017-02-22T13:13:44.669000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a8ec1f442fcabd3ac4bbeb4faaf11a3a", 
+        "latitude": 50.962524, 
+        "longitude": 6.9470806, 
+        "name": "B\u00fcdericher Str. / Wartburgplatz", 
+        "timestamp": "2017-02-22T13:13:44.682000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e2903917371e20057347e56a5dff30ef", 
+        "latitude": 50.92567, 
+        "longitude": 6.9562645, 
+        "name": "Isabellenstr. / Jakobstr.", 
+        "timestamp": "2017-02-22T13:13:44.532000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "50f2daf16929a05f3871ce993adf3849", 
+        "latitude": 50.93092, 
+        "longitude": 6.943556, 
+        "name": "Huhnsgasse / Humboldtstr.", 
+        "timestamp": "2017-02-22T13:13:44.540000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "f03e9a75433b134a42ee080cee6b5335", 
+        "latitude": 50.94276, 
+        "longitude": 6.960659, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.413000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "840287d85b51cc8d24cee03978376289", 
+        "latitude": 50.966225, 
+        "longitude": 6.9403543, 
+        "name": "Friedrichshafer Str. / Geldernstr.", 
+        "timestamp": "2017-02-22T13:13:44.721000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "d5f1d93c070b405f20e595b5df1f15d3", 
+        "latitude": 50.938095, 
+        "longitude": 6.9770746, 
+        "name": "Graf-Ge\u00dfler-Str. / Von-Sandt-Platz", 
+        "timestamp": "2017-02-22T13:13:44.509000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "7dbc52d9764c03f8383f96dd0596c84e", 
+        "latitude": 50.94998, 
+        "longitude": 6.965851, 
+        "name": "Konrad-Adenauer-Ufer / Theodor-Heuss-Ring", 
+        "timestamp": "2017-02-22T13:13:44.557000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "8cfa3a3a64d9de85e62127c0742365c3", 
+        "latitude": 50.910812, 
+        "longitude": 6.956169, 
+        "name": "Bischofsweg / Marktstr.", 
+        "timestamp": "2017-02-22T13:13:44.686000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a18a0161c6a7540a14f5cd7a96aadf73", 
+        "latitude": 50.942936, 
+        "longitude": 6.9609413, 
+        "name": "Kostgasse / Musicaldome", 
+        "timestamp": "2017-02-22T13:13:44.417000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "20745593b47edb38495f083634af7420", 
+        "latitude": 50.96062, 
+        "longitude": 6.9818645, 
+        "name": "An der Schanz / Leidener Str.", 
+        "timestamp": "2017-02-22T13:13:44.684000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "673b860230fda5be970b059971ad0d94", 
+        "latitude": 50.926704, 
+        "longitude": 6.9382777, 
+        "name": "Luxemburger Str. / Otto-Fischer-Str.", 
+        "timestamp": "2017-02-22T13:13:44.632000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "03a578b6ffc8511490f30913222b0487", 
+        "latitude": 50.9105849546, 
+        "longitude": 6.9589646974, 
+        "name": "Marktstr. / Raderberger Str.", 
+        "timestamp": "2017-02-22T13:13:44.688000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c135379f29ab4da52faad0b18fa86b8e", 
+        "latitude": 50.9307441857, 
+        "longitude": 6.9362883777, 
+        "name": "Lochnerstr. / Rathenauplatz", 
+        "timestamp": "2017-02-22T13:13:44.599000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e38a6dde7923f425c2d6bf6e63606796", 
+        "latitude": 50.92655, 
+        "longitude": 6.9388714, 
+        "name": "Luxemburger Str. / Otto-Fischer-Str.", 
+        "timestamp": "2017-02-22T13:13:44.622000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ce48a561082b16f6fd46542fea0aa26a", 
+        "latitude": 50.940327, 
+        "longitude": 6.9745417, 
+        "name": "Bahnhof K\u00f6ln-Deutz", 
+        "timestamp": "2017-02-22T13:13:44.481000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "b4c7d4d993c4676b5283bf488baea05e", 
+        "latitude": 50.90644, 
+        "longitude": 6.976855, 
+        "name": "Alteburger Str. / Bayenthalg\u00fcrtel", 
+        "timestamp": "2017-02-22T13:13:44.727000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "907eda84a4ad6e4f446f53542379908a", 
+        "latitude": 50.91103, 
+        "longitude": 6.967245, 
+        "name": "Bernhardstr. / Klopstockstr.", 
+        "timestamp": "2017-02-22T13:13:44.687000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "d10f0d55bcbf5464ea85fcf0754e3596", 
+        "latitude": 50.97259, 
+        "longitude": 6.9514456, 
+        "name": "Eckewartstr. / Neusser Str.", 
+        "timestamp": "2017-02-22T13:13:44.739000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "11d5fd322b29c0e9b347cc5c52342248", 
+        "latitude": 50.940174, 
+        "longitude": 6.9545655, 
+        "name": "An der Rechtschule / Drususgasse", 
+        "timestamp": "2017-02-22T13:13:44.364000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "40eb9e016f14fa873d916143c2b0da92", 
+        "latitude": 50.951023, 
+        "longitude": 6.930939, 
+        "name": "Hermann-Kolb-Str. / Myliusstr.", 
+        "timestamp": "2017-02-22T13:13:44.659000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "884ca5729dc16011cbc4c9f49f1674d6", 
+        "latitude": 50.93985, 
+        "longitude": 6.9727974, 
+        "name": "Hermann-P\u00fcnder-Str. / Mindener Str.", 
+        "timestamp": "2017-02-22T13:13:44.449000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "b04f8f4bd7304e24131478bb514ca7a7", 
+        "latitude": 50.940395, 
+        "longitude": 6.973625, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.474000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ba49447b0270930347a5fa9a79a89f14", 
+        "latitude": 50.9405, 
+        "longitude": 6.973587, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.475000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "d3c1600f8fc55d1fa1bad1ef5f7c3a94", 
+        "latitude": 50.94035, 
+        "longitude": 6.973455, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.457000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "0eeaba3dd0da199e92f498e6eb94b44f", 
+        "latitude": 50.94039, 
+        "longitude": 6.973557, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.466000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a56514826d6ad26e1c0f652246cd5f6c", 
+        "latitude": 50.940468, 
+        "longitude": 6.9735518, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.470000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a9a057984232c7729d2c6dbb2d1ac74d", 
+        "latitude": 50.940376, 
+        "longitude": 6.9736085, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.472000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c21f1469629d15a910d0d4a6413d5a84", 
+        "latitude": 50.940376, 
+        "longitude": 6.9735503, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.462000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "bf67cf3616e879035c1d70dee57f3bb5", 
+        "latitude": 50.94046, 
+        "longitude": 6.9735436, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.468000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "d07c251b27a7582e6742a68716fb9a41", 
+        "latitude": 50.936375, 
+        "longitude": 6.9748, 
+        "name": "D\u00fcppelstr. / Mathildenstr.", 
+        "timestamp": "2017-02-22T13:13:44.478000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "4941d37186d9007edef9ebb018e65ec1", 
+        "latitude": 50.901497, 
+        "longitude": 7.0252247, 
+        "name": "Berliner Str. Wv / Schlawer Str.", 
+        "timestamp": "2017-02-22T13:13:44.749000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "7c1bf15c2b0b7adcff5792f39b3af9ed", 
+        "latitude": 50.9426746643, 
+        "longitude": 6.950567401, 
+        "name": "B\u00f6rsenplatz / Gereonstr.", 
+        "timestamp": "2017-02-22T13:13:44.447000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e525bcf4a86be2b54aa5cd3fd8f17b1a", 
+        "latitude": 50.95086, 
+        "longitude": 6.9573717, 
+        "name": "Ebertplatz / Neusser Str.", 
+        "timestamp": "2017-02-22T13:13:44.566000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c9a8b27890ec079cfa7fb5e9e366cdef", 
+        "latitude": 50.944233, 
+        "longitude": 6.940007, 
+        "name": "Goebenstr. / Werderstr.", 
+        "timestamp": "2017-02-22T13:13:44.578000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "845216108031cbccfb1a8e771ff7669a", 
+        "latitude": 50.950138, 
+        "longitude": 6.9169025, 
+        "name": "Ehrenfeldg\u00fcrtel / Venloer Str.", 
+        "timestamp": "2017-02-22T13:13:44.707000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a14b575f2fa9c9e267f5b2f6b293ada9", 
+        "latitude": 50.97145, 
+        "longitude": 6.977541, 
+        "name": "Boltensternstr. / Flemingstr.", 
+        "timestamp": "2017-02-22T13:13:44.742000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "284eca023933c1fe09e89148742011ad", 
+        "latitude": 50.88283, 
+        "longitude": 7.0107555, 
+        "name": "Richard-Wagner-Str. Ro / Wei\u00dfer Str. Ro", 
+        "timestamp": "2017-02-22T13:13:44.750000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "bd8f0471f669755e9eb722724778a982", 
+        "latitude": 50.92823, 
+        "longitude": 6.924443, 
+        "name": "Gyrhofstr. / Weyertal", 
+        "timestamp": "2017-02-22T13:13:44.668000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "22d2044b98b86ceefe299dfcfa51f8f5", 
+        "latitude": 50.925602, 
+        "longitude": 6.9659023, 
+        "name": "Bayenstr. / Rheinauhafen", 
+        "timestamp": "2017-02-22T13:13:44.545000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e989cfd319383c58077ecbe3d56d9441", 
+        "latitude": 50.943165, 
+        "longitude": 6.985005, 
+        "name": "Br\u00fcgelmannstr. / Wolfgang-Anheisser-Str.", 
+        "timestamp": "2017-02-22T13:13:44.598000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "529514d53bcf88f89fa224a730703375", 
+        "latitude": 50.948975, 
+        "longitude": 6.9314246, 
+        "name": "Graeffstr. / Subbelrather Str.", 
+        "timestamp": "2017-02-22T13:13:44.657000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a5d73233a37ce40e0fb03feccc0942a5", 
+        "latitude": 50.958424, 
+        "longitude": 6.9633284, 
+        "name": "Lentpark / Lentstr.", 
+        "timestamp": "2017-02-22T13:13:44.656000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a670907406e4014349aa7753fc9d0e5d", 
+        "latitude": 50.912594, 
+        "longitude": 6.9613647, 
+        "name": "Bonner Str. / Sechtemer Str.", 
+        "timestamp": "2017-02-22T13:13:44.675000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "9f0d14b9964d021f2a48de1e1591b08b", 
+        "latitude": 50.942642, 
+        "longitude": 6.960355, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.396000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "dacb9ef9da6161114776e345d109228b", 
+        "latitude": 50.943707, 
+        "longitude": 6.960699, 
+        "name": "Breslauer Platz / Goldgasse", 
+        "timestamp": "2017-02-22T13:13:44.432000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ffa415ada05ac8b3dea76f1c57737bac", 
+        "latitude": 50.942677, 
+        "longitude": 6.9602394, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.402000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "4669f4f331962cffa341becdde681d35", 
+        "latitude": 50.931454, 
+        "longitude": 6.935035, 
+        "name": "G\u00f6rresstr. / Rathenauplatz", 
+        "timestamp": "2017-02-22T13:13:44.619000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "fdc767b4607a6bcf49eb715f94b0d6ba", 
+        "latitude": 50.953358, 
+        "longitude": 6.924338, 
+        "name": "Fridolinstr. / Ottostr.", 
+        "timestamp": "2017-02-22T13:13:44.691000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "061206cde075972475ad77bd56800bea", 
+        "latitude": 50.93762, 
+        "longitude": 6.9369144, 
+        "name": "Brabanter Str. / L\u00fctticher Str.", 
+        "timestamp": "2017-02-22T13:13:44.584000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "880900b552a819b836ed6c488721dd56", 
+        "latitude": 50.921883, 
+        "longitude": 6.9516773, 
+        "name": "An der Pauluskirche / Vondelstr.", 
+        "timestamp": "2017-02-22T13:13:44.596000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "333508f0138ce0c51f97ae3a3b4e848a", 
+        "latitude": 50.921406, 
+        "longitude": 6.9596, 
+        "name": "Chlodwigplatz / Ubierring", 
+        "timestamp": "2017-02-22T13:13:44.593000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "95f064c1ebbdb241ec658a19ab122d6d", 
+        "latitude": 50.943172, 
+        "longitude": 6.952984, 
+        "name": "Enggasse / Tunisstr.", 
+        "timestamp": "2017-02-22T13:13:44.440000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "8e63171ab1e6a2b44c68d818a64f98b9", 
+        "latitude": 50.940796, 
+        "longitude": 6.9412227, 
+        "name": "Friesenstr. / Friesenwall", 
+        "timestamp": "2017-02-22T13:13:44.542000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "5a3f8599c8d4e74b14ee4b7ec9a1ad61", 
+        "latitude": 50.942616, 
+        "longitude": 6.9603133, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.389000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1f6baeacdae453c4ee2361a0424db01e", 
+        "latitude": 50.934666, 
+        "longitude": 6.9477224, 
+        "name": "Spinnm\u00fchlengasse / Thieboldsgasse", 
+        "timestamp": "2017-02-22T13:13:44.453000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "80ccf37cbc5509952c8404af975eaf47", 
+        "latitude": 50.94146, 
+        "longitude": 6.9414973, 
+        "name": "Friesenwall / Hildeboldplatz", 
+        "timestamp": "2017-02-22T13:13:44.548000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2795c1062771826419f2df3b6ff34bd1", 
+        "latitude": 50.91761, 
+        "longitude": 6.9606676, 
+        "name": "Bonner Str. / Veledastr.", 
+        "timestamp": "2017-02-22T13:13:44.652000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "5440884a157cf20f4026239b4267aa8c", 
+        "latitude": 50.94301, 
+        "longitude": 6.960351, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.421000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c0cce9dca3572835714d268b0c846bbd", 
+        "latitude": 50.947235, 
+        "longitude": 6.9581833, 
+        "name": "Turiner Str. / Unter Krahnenb\u00e4umen", 
+        "timestamp": "2017-02-22T13:13:44.483000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "0a546da5a640731919036f5bfc5320b3", 
+        "latitude": 50.9198069031, 
+        "longitude": 6.952517424, 
+        "name": "Loreleystr. / Martin-Luther-Platz", 
+        "timestamp": "2017-02-22T13:13:44.646000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "98875da5c46d90d3325d291a7d1b3a02", 
+        "latitude": 50.926357, 
+        "longitude": 6.938328, 
+        "name": "Luxemburger Str. / Otto-Fischer-Str.", 
+        "timestamp": "2017-02-22T13:13:44.634000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2847f4791b752c4184006d06f2dbdbd1", 
+        "latitude": 50.942963, 
+        "longitude": 6.961403, 
+        "name": "Am Alten Ufer / Goldgasse", 
+        "timestamp": "2017-02-22T13:13:44.419000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3d3b56b8da5366b3ed03df803f6c011c", 
+        "latitude": 50.93506, 
+        "longitude": 6.962758, 
+        "name": "Heumarkt / Thurnmarkt", 
+        "timestamp": "2017-02-22T13:13:44.359000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "93148456e56e5a0838c7d13515939180", 
+        "latitude": 50.911522, 
+        "longitude": 6.928963, 
+        "name": "Heisterbachstr. / Stenzelbergstr.", 
+        "timestamp": "2017-02-22T13:13:44.726000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "32f0be195fcc3664b12609ed89e31710", 
+        "latitude": 50.94514, 
+        "longitude": 6.884566, 
+        "name": "Dansweilerweg / Vitalisstr.", 
+        "timestamp": "2017-02-22T13:13:44.748000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ac68e5f9c7f99cd41ba932b8ee135c0b", 
+        "latitude": 50.92657, 
+        "longitude": 6.93884, 
+        "name": "Luxemburger Str. / S\u00fcdbahnhof", 
+        "timestamp": "2017-02-22T13:13:44.624000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "be2be572bba142e016ddaf3bbe262998", 
+        "latitude": 50.926678, 
+        "longitude": 6.9386525, 
+        "name": "Luxemburger Str. / Otto-Fischer-Str.", 
+        "timestamp": "2017-02-22T13:13:44.625000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "f475e2bb49e67393ad27cdf17129b2e6", 
+        "latitude": 50.92643, 
+        "longitude": 6.938854, 
+        "name": "Luxemburger Str. / Otto-Fischer-Str.", 
+        "timestamp": "2017-02-22T13:13:44.629000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2751632e21518cbf155bad780c6edecc", 
+        "latitude": 50.90956, 
+        "longitude": 6.9611893, 
+        "name": "Br\u00fchler Str. / Mannsfelder Str.", 
+        "timestamp": "2017-02-22T13:13:44.695000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "beb30ce1895ca2e350e05e8fc651db4c", 
+        "latitude": 50.9353, 
+        "longitude": 6.95204, 
+        "name": "C\u00e4cilienkloster / C\u00e4cilienstr.", 
+        "timestamp": "2017-02-22T13:13:44.424000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "21a72f2d5b41febb07a04b31dd5eea2f", 
+        "latitude": 50.942577, 
+        "longitude": 6.960233, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.381000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "06dd05c0188313d0d01431d759c61d9c", 
+        "latitude": 50.944263, 
+        "longitude": 6.924378, 
+        "name": "Piusstr. / Vogelsanger Str.", 
+        "timestamp": "2017-02-22T13:13:44.663000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1b98aa952e91e8df3bf95f7c13bda30a", 
+        "latitude": 50.945194, 
+        "longitude": 6.9457626, 
+        "name": "Blumenstr. / Probsteigasse", 
+        "timestamp": "2017-02-22T13:13:44.530000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a1cef68657fb3e60515b82664cfaa146", 
+        "latitude": 50.93885, 
+        "longitude": 6.9733734, 
+        "name": "D\u00fcppelstr. / Siegesstr.", 
+        "timestamp": "2017-02-22T13:13:44.451000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "26dc42e4c894620e48d008267a0467c8", 
+        "latitude": 50.9481288739, 
+        "longitude": 6.9500937946, 
+        "name": "Hansaring / Vogteistr.", 
+        "timestamp": "2017-02-22T13:13:44.538000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "0abce7d08a5985483ffc1284518e4dcd", 
+        "latitude": 50.9434429022, 
+        "longitude": 6.9331365508, 
+        "name": "Venloer Str. / Venloer Wall", 
+        "timestamp": "2017-02-22T13:13:44.642000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "507ccc0fb0701f6a6b708ec191eceeea", 
+        "latitude": 50.942307, 
+        "longitude": 6.960455, 
+        "name": "Johannisstr. / Radstation", 
+        "timestamp": "2017-02-22T13:13:44.367000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "7d26966a4995f8272b859691c4df8727", 
+        "latitude": 50.9264355703, 
+        "longitude": 6.9388149988, 
+        "name": "Luxemburger Str. / Otto-Fischer-Str.", 
+        "timestamp": "2017-02-22T13:13:44.631000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "20126e9198db68d3970ebb564a49fb4b", 
+        "latitude": 50.96287, 
+        "longitude": 6.9539547, 
+        "name": "Neusser Str. / Wilhelmstr.", 
+        "timestamp": "2017-02-22T13:13:44.677000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ee0c519902fb112e45e4fbfbe918902e", 
+        "latitude": 50.959843, 
+        "longitude": 6.927202, 
+        "name": "Arnimstr. / Parkg\u00fcrtel", 
+        "timestamp": "2017-02-22T13:13:44.718000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "baa25caad041868641c654766ada83ba", 
+        "latitude": 50.938244, 
+        "longitude": 6.9780545, 
+        "name": "Justinianstr. / Kasemattenstr.", 
+        "timestamp": "2017-02-22T13:13:44.518000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3501a25cfc0e56b5b7b4120eea13aa65", 
+        "latitude": 50.96059, 
+        "longitude": 6.9457154, 
+        "name": "Nohlstr. / Werkstattstr.", 
+        "timestamp": "2017-02-22T13:13:44.674000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "4ff69b0667b4d7ba91a95ba485de1099", 
+        "latitude": 50.911385, 
+        "longitude": 6.928954, 
+        "name": "Heisterbachstr. / Stenzelbergstr.", 
+        "timestamp": "2017-02-22T13:13:44.727000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "40d5e66055cbf2941f3d133fcc0dd6f6", 
+        "latitude": 50.942177, 
+        "longitude": 6.9443836, 
+        "name": "Im Klapperhof / Spiesergasse", 
+        "timestamp": "2017-02-22T13:13:44.514000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "b9a05fc2b8791c6d76e5be083f05a297", 
+        "latitude": 50.93334, 
+        "longitude": 6.941772, 
+        "name": "Humboldtstr. / Schaevenstr.", 
+        "timestamp": "2017-02-22T13:13:44.539000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "d9c818750a78e24ff1e82d19e5145b94", 
+        "latitude": 50.948326, 
+        "longitude": 6.9607496, 
+        "name": "Dagobertstr. / Im Krahnenhof", 
+        "timestamp": "2017-02-22T13:13:44.513000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1ae88240318d3de8d04d5297ee506ea2", 
+        "latitude": 50.96308, 
+        "longitude": 6.954177, 
+        "name": "Neusser Str. / Wilhelmstr.", 
+        "timestamp": "2017-02-22T13:13:44.679000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e03b75f2b5d8f2b7ef006b0786ddc308", 
+        "latitude": 50.91307, 
+        "longitude": 6.961835, 
+        "name": "Bonner Str. / Sechtemer Str.", 
+        "timestamp": "2017-02-22T13:13:44.670000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "73ba601d775df2ba114996ee6d2c8705", 
+        "latitude": 50.961525, 
+        "longitude": 6.9542217, 
+        "name": "Neusser Str. / Steinbergerstr.", 
+        "timestamp": "2017-02-22T13:13:44.666000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "9e41f98422150aed23d857f4a59664d3", 
+        "latitude": 50.941193, 
+        "longitude": 6.9380007, 
+        "name": "Limburger Str. / Venloer Str.", 
+        "timestamp": "2017-02-22T13:13:44.581000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3dc2bef07e8bdebd0ac0b122da4356d2", 
+        "latitude": 50.927284, 
+        "longitude": 6.9632897, 
+        "name": "Bayenstr. / Rosenstr.", 
+        "timestamp": "2017-02-22T13:13:44.495000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "feae5ed6d9dc8acbf1b6510fa8e84d1b", 
+        "latitude": 50.950672, 
+        "longitude": 6.92117, 
+        "name": "Philippstr. / Stammstr.", 
+        "timestamp": "2017-02-22T13:13:44.694000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c47e35932de8a4eeefb362924c3b808d", 
+        "latitude": 50.91157, 
+        "longitude": 6.9291573, 
+        "name": "Heisterbachstr. / Stenzelbergstr.", 
+        "timestamp": "2017-02-22T13:13:44.724000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "4e712633dea24986d255c7f9bae55f1b", 
+        "latitude": 50.926594, 
+        "longitude": 6.9553823, 
+        "name": "Josephstr. / Paulstr.", 
+        "timestamp": "2017-02-22T13:13:44.526000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ab5a30def4e88eb1e2ac22b14b19cd37", 
+        "latitude": 50.940277, 
+        "longitude": 6.9735394, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.458000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3e82bdd0bdd630e564dd9c2a9201eebc", 
+        "latitude": 50.967422, 
+        "longitude": 6.955246, 
+        "name": "Waterloostr. / Yorckstr.", 
+        "timestamp": "2017-02-22T13:13:44.705000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "fe1a4c7e9e215b078bf34b9d9b6e7051", 
+        "latitude": 50.942554, 
+        "longitude": 6.96015, 
+        "name": "Johannisstr. / Radstation", 
+        "timestamp": "2017-02-22T13:13:44.374000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3bb06ff2a6c225b7b693cc2b85cf3c1c", 
+        "latitude": 50.94257, 
+        "longitude": 6.9603252, 
+        "name": "Johannisstr. / Musicaldome", 
+        "timestamp": "2017-02-22T13:13:44.380000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "af1534479ec63c0f9f4df3feebb93619", 
+        "latitude": 50.933937, 
+        "longitude": 6.9392805, 
+        "name": "Hohenstaufenring / Rubensstr.", 
+        "timestamp": "2017-02-22T13:13:44.569000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "5efcecc2374874e000a414203ddff487", 
+        "latitude": 50.91778, 
+        "longitude": 6.952042, 
+        "name": "Bonner Wall / Kowallekstr.", 
+        "timestamp": "2017-02-22T13:13:44.655000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "4175ca0e2bb1b646db6be47e2b0dfec2", 
+        "latitude": 50.93363, 
+        "longitude": 6.9425974, 
+        "name": "Humboldtstr. / Schaevenstr.", 
+        "timestamp": "2017-02-22T13:13:44.527000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "6a0d5825aec8ccf9d6f214f73c30756a", 
+        "latitude": 50.910625, 
+        "longitude": 6.9598246, 
+        "name": "Marktstr. / Raderberger Str.", 
+        "timestamp": "2017-02-22T13:13:44.688000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c4816957eb52ef9161aa4dc27f49f363", 
+        "latitude": 50.942604, 
+        "longitude": 6.960074, 
+        "name": "Johannisstr. / Radstation", 
+        "timestamp": "2017-02-22T13:13:44.386000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "876137e6c79434845e8c185b752d4d84", 
+        "latitude": 50.95322, 
+        "longitude": 6.953369, 
+        "name": "Kasparstr. / Krefelder Wall", 
+        "timestamp": "2017-02-22T13:13:44.594000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "53ea3b29adb615178e2a3bae2825f874", 
+        "latitude": 50.909634, 
+        "longitude": 6.94101, 
+        "name": "H\u00f6ninger Weg / Zollstocksweg", 
+        "timestamp": "2017-02-22T13:13:44.717000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "7d32e98bdbef0346b9cc18b17290fdda", 
+        "latitude": 50.951447, 
+        "longitude": 6.95516, 
+        "name": "Melchiorstr. / Sudermanplatz", 
+        "timestamp": "2017-02-22T13:13:44.575000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "f09e51595d2e2dd535808ae78693232c", 
+        "latitude": 50.93325, 
+        "longitude": 6.9526024, 
+        "name": "Agrippastr. / K\u00e4mmergasse", 
+        "timestamp": "2017-02-22T13:13:44.434000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "913b10368f160646d0322aeacf6937b5", 
+        "latitude": 50.94272, 
+        "longitude": 6.9608545, 
+        "name": "Am Alten Ufer / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.412000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "21e31b6572b56a4df91b2739c85de205", 
+        "latitude": 50.93996, 
+        "longitude": 6.910669, 
+        "name": "Melateng\u00fcrtel / Oskar-J\u00e4ger-Str.", 
+        "timestamp": "2017-02-22T13:13:44.722000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "df7f9e37a7c6a2385d90f65a46abc186", 
+        "latitude": 50.922333, 
+        "longitude": 6.948425, 
+        "name": "Overstolzenstr. / Volksgartenstr.", 
+        "timestamp": "2017-02-22T13:13:44.614000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c9e0f991cce09e2b5cc398a2435668dd", 
+        "latitude": 50.9501, 
+        "longitude": 6.958392, 
+        "name": "Ebertplatz / Greesbergstr.", 
+        "timestamp": "2017-02-22T13:13:44.553000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "cd4573235ac67c0ea5e7e80a4b44d698", 
+        "latitude": 50.946815, 
+        "longitude": 6.924281, 
+        "name": "Leostr. / Venloer Str.", 
+        "timestamp": "2017-02-22T13:13:44.671000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c0bfc61e2aabd14bbdc84f6471c67cea", 
+        "latitude": 50.942604, 
+        "longitude": 6.9603167, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.385000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "971a24c646ad2fb2e5283dc3ad9a2bef", 
+        "latitude": 50.948463, 
+        "longitude": 6.95701, 
+        "name": "Dagobertstr. / Eigelstein", 
+        "timestamp": "2017-02-22T13:13:44.515000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "5cccfd722a4ec21be72b9d9b169c98d4", 
+        "latitude": 50.92175, 
+        "longitude": 6.963399, 
+        "name": "Mainzer Str. / Ubierring", 
+        "timestamp": "2017-02-22T13:13:44.591000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "60aea97c443e5ce2c4eea9efce48806c", 
+        "latitude": 50.935383, 
+        "longitude": 6.95958, 
+        "name": "Pipinstr. / Vor St.Martin", 
+        "timestamp": "2017-02-22T13:13:44.353000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3d444b4a2df1cabf880a346e929d9b99", 
+        "latitude": 50.92031, 
+        "longitude": 6.9153533, 
+        "name": "Lindenthalg\u00fcrtel / S\u00fclzg\u00fcrtel", 
+        "timestamp": "2017-02-22T13:13:44.729000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "867cdccb9c312367204f9d0e7a492e36", 
+        "latitude": 50.942677, 
+        "longitude": 6.960298, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.401000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "127dfe49ddd7efbde318c320a21fe80e", 
+        "latitude": 50.946064, 
+        "longitude": 6.951724, 
+        "name": "Klingelp\u00fctz / Plankgasse", 
+        "timestamp": "2017-02-22T13:13:44.486000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1575595d6cac3c16caef0ba6d3455e1e", 
+        "latitude": 50.942528, 
+        "longitude": 6.95961, 
+        "name": "Johannisstr. / Radstation", 
+        "timestamp": "2017-02-22T13:13:44.372000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "7b8d028e59b677a0dc6388c20b22e062", 
+        "latitude": 50.93936, 
+        "longitude": 6.978047, 
+        "name": "Justinianstr. / Opladener Str.", 
+        "timestamp": "2017-02-22T13:13:44.523000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "f7b94fe322a008ec4bcdf589063affc9", 
+        "latitude": 50.94972, 
+        "longitude": 6.9552746, 
+        "name": "Hansaring / L\u00fcbecker Str.", 
+        "timestamp": "2017-02-22T13:13:44.551000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "46a611ab798ffea2a56fbbceb2cb698b", 
+        "latitude": 50.91159, 
+        "longitude": 6.9449625, 
+        "name": "Irmgardstr. / Vorgebirgsplatz", 
+        "timestamp": "2017-02-22T13:13:44.692000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "4e912ab8841dacec8143b01d260e0803", 
+        "latitude": 50.90554, 
+        "longitude": 6.939327, 
+        "name": "Kalscheurer Weg / Zollstockg\u00fcrtel", 
+        "timestamp": "2017-02-22T13:13:44.738000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a9c25eb855b690fa2dc4fef32e5905a1", 
+        "latitude": 50.960773, 
+        "longitude": 6.9496, 
+        "name": "Cranachstr. / Siebachstr.", 
+        "timestamp": "2017-02-22T13:13:44.665000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1187b0acca87149e16a3f1e53c11ff27", 
+        "latitude": 50.92084, 
+        "longitude": 6.9549656, 
+        "name": "Metzer Str. / Vondelstr.", 
+        "timestamp": "2017-02-22T13:13:44.618000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3e2eca73bd97668e191b11ced243ad37", 
+        "latitude": 50.948315, 
+        "longitude": 6.915137, 
+        "name": "Melateng\u00fcrtel / Vogelsanger Str.", 
+        "timestamp": "2017-02-22T13:13:44.716000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "fa32aa0781839f4011cccc656c7b8f28", 
+        "latitude": 50.928783, 
+        "longitude": 6.9616632, 
+        "name": "Im Weichserhof / Katharinengraben", 
+        "timestamp": "2017-02-22T13:13:44.457000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2af035bdd77eb6a8f3fc7f14a208307b", 
+        "latitude": 50.94824, 
+        "longitude": 6.9604964, 
+        "name": "Dagobertstr. / Im Krahnenhof", 
+        "timestamp": "2017-02-22T13:13:44.511000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "41674fd95bffbf2ae5624add3aac188d", 
+        "latitude": 50.935844, 
+        "longitude": 6.932898, 
+        "name": "Moltkestr. / Richard-Wagner-Str.", 
+        "timestamp": "2017-02-22T13:13:44.621000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a150dec9883ce148b2f6df395df263b7", 
+        "latitude": 50.914337, 
+        "longitude": 6.9316244, 
+        "name": "Gottesweg / K\u00f6nigswinterstr.", 
+        "timestamp": "2017-02-22T13:13:44.698000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a95f80c68b5c80e4d0b65873bdb4551c", 
+        "latitude": 50.93043, 
+        "longitude": 6.9453034, 
+        "name": "Pantaleonsm\u00fchlengasse / Weyerstr.", 
+        "timestamp": "2017-02-22T13:13:44.528000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "8548ba91f04bbfe33cf03772e3c513eb", 
+        "latitude": 50.938065, 
+        "longitude": 6.9769993, 
+        "name": "Graf-Ge\u00dfler-Str. / Von-Sandt-Platz", 
+        "timestamp": "2017-02-22T13:13:44.507000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "c61c918771d2dc01fed05cf7b47f1805", 
+        "latitude": 50.941807, 
+        "longitude": 6.943886, 
+        "name": "Im Klapperhof / Spiesergasse", 
+        "timestamp": "2017-02-22T13:13:44.516000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3757ad9a0d117426ffe04b223cad5915", 
+        "latitude": 50.94256, 
+        "longitude": 6.9603305, 
+        "name": "Breslauer Platz / Johannisstr.", 
+        "timestamp": "2017-02-22T13:13:44.375000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "8f69879aae0be9e993cc7cedbd09f2d9", 
+        "latitude": 50.927567, 
+        "longitude": 6.955695, 
+        "name": "Severinsbr\u00fccke / Tel-Aviv-Str.", 
+        "timestamp": "2017-02-22T13:13:44.492000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "eb02ac139bd289f4df4e9a7f4f90f2b8", 
+        "latitude": 50.94272, 
+        "longitude": 6.9601994, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.410000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ad01b50fb6124cf800f9fc36f93dbf53", 
+        "latitude": 50.92683, 
+        "longitude": 6.9615726, 
+        "name": "Buschgasse / Rosenstr.", 
+        "timestamp": "2017-02-22T13:13:44.511000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "35fd667bd44bfdff625a11199125dafc", 
+        "latitude": 50.960964, 
+        "longitude": 6.9487925, 
+        "name": "Merheimerstr/Werkstattstr", 
+        "timestamp": "2017-02-22T13:13:44.672000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2dc04bb12ea48732927c9d79c5dff6aa", 
+        "latitude": 50.93173, 
+        "longitude": 6.9778624, 
+        "name": "Suevenstr. / Tenktererstr.", 
+        "timestamp": "2017-02-22T13:13:44.550000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "515e39f73af82b4cf12fab80557a507f", 
+        "latitude": 50.951683, 
+        "longitude": 6.9251995, 
+        "name": "Subbelrather Str. / Wi\u00dfmannstr.", 
+        "timestamp": "2017-02-22T13:13:44.681000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "f001d365e46d5e8e96410f43c975fffa", 
+        "latitude": 50.971054, 
+        "longitude": 6.969222, 
+        "name": "Amsterdamer Str. / Niehler G\u00fcrtel", 
+        "timestamp": "2017-02-22T13:13:44.735000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "337b80383b9eba3a91b17066a04d79ff", 
+        "latitude": 50.93185, 
+        "longitude": 6.933161, 
+        "name": "Boissereestr. / Dasselstr.", 
+        "timestamp": "2017-02-22T13:13:44.639000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ce3f58258a8463dd577406d4898b388a", 
+        "latitude": 50.955437, 
+        "longitude": 6.922348, 
+        "name": "Ehrenfeldg\u00fcrtel / F\u00f6rsterstr.", 
+        "timestamp": "2017-02-22T13:13:44.702000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1380e3a42fbf35c761559e0cc09595d4", 
+        "latitude": 50.95817, 
+        "longitude": 6.96388, 
+        "name": "Lentpark / Lentstr.", 
+        "timestamp": "2017-02-22T13:13:44.656000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "fe4739f9dfe40798a2889b6856b447b4", 
+        "latitude": 50.935383, 
+        "longitude": 6.9006805, 
+        "name": "Kitschburger Str. / Wiethasestr.", 
+        "timestamp": "2017-02-22T13:13:44.746000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1976db319ce922e7ee5d3d5519ad401b", 
+        "latitude": 50.920914, 
+        "longitude": 6.9635887, 
+        "name": "Mainzer Str. / Maternusstr.", 
+        "timestamp": "2017-02-22T13:13:44.602000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "fa31ea1fff6c51a810e737659b7fdd54", 
+        "latitude": 50.96704, 
+        "longitude": 6.969365, 
+        "name": "Riehler G\u00fcrtel / Sprengelstr.", 
+        "timestamp": "2017-02-22T13:13:44.706000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "5679b15269ef96db26400244992cca0b", 
+        "latitude": 50.952965, 
+        "longitude": 6.9590626, 
+        "name": "Balthasarstr. / Lupusstr.", 
+        "timestamp": "2017-02-22T13:13:44.585000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "93000d65d43507815f658a43aad92abb", 
+        "latitude": 50.941036, 
+        "longitude": 6.937872, 
+        "name": "Limburger Str. / Venloer Str.", 
+        "timestamp": "2017-02-22T13:13:44.583000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "05e579e91ed5b3391b8e1325e74c68b9", 
+        "latitude": 50.936825, 
+        "longitude": 6.9566035, 
+        "name": "In der H\u00f6hle / Schildergasse", 
+        "timestamp": "2017-02-22T13:13:44.356000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "737eff8278eb3e9872f425df4f8ca11c", 
+        "latitude": 50.934254, 
+        "longitude": 6.9598274, 
+        "name": "An der Malzm\u00fchle / Rheingasse", 
+        "timestamp": "2017-02-22T13:13:44.362000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3f1f0ddf60d065604f55397580361cad", 
+        "latitude": 50.9426, 
+        "longitude": 6.9603662, 
+        "name": "Johannisstr. / Musicaldome", 
+        "timestamp": "2017-02-22T13:13:44.384000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "07805441c6e0b3177a01fa5229c51cd0", 
+        "latitude": 50.910522, 
+        "longitude": 6.9588356, 
+        "name": "Marktstr. / Raderberger Str.", 
+        "timestamp": "2017-02-22T13:13:44.690000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "75cbe53a8a04816e7451099456ce7b3a", 
+        "latitude": 50.972157, 
+        "longitude": 6.977625, 
+        "name": "Boltensternstr. / Flemingstr.", 
+        "timestamp": "2017-02-22T13:13:44.744000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "32bcf80bee40d7fd4bd907275da5b9ca", 
+        "latitude": 50.92779, 
+        "longitude": 6.943752, 
+        "name": "Pantaleonsm\u00fchlengasse / Trierer Str.", 
+        "timestamp": "2017-02-22T13:13:44.574000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "b53d4834a62eeb80a2efd1b940766646", 
+        "latitude": 50.94271, 
+        "longitude": 6.9604797, 
+        "name": "Breslauer Platz / Johannisstr.", 
+        "timestamp": "2017-02-22T13:13:44.408000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "70e9d48045b2df23a40f281ce9721ec5", 
+        "latitude": 50.938583, 
+        "longitude": 6.939112, 
+        "name": "Hohenzollernring / Limburger Str.", 
+        "timestamp": "2017-02-22T13:13:44.564000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "002560db6ad2899232f053796aeb067b", 
+        "latitude": 50.97169, 
+        "longitude": 6.9776397, 
+        "name": "Boltensternstr. / Flemingstr.", 
+        "timestamp": "2017-02-22T13:13:44.743000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e030e195eb44b4490a9459d583c8a1bf", 
+        "latitude": 50.940365, 
+        "longitude": 6.9735804, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.467000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "7426df628df0643b15e41a7df8e5bf28", 
+        "latitude": 50.939697, 
+        "longitude": 6.973385, 
+        "name": "Auenweg / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.454000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2602c9f833cdae6bdd95a0ea152de9ed", 
+        "latitude": 50.940384, 
+        "longitude": 6.9735155, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.459000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "7310df808a353bef64c09e033af4aad9", 
+        "latitude": 50.940308, 
+        "longitude": 6.973561, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.461000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "650d11f5ffc82f65bb771e51f393603f", 
+        "latitude": 50.94039, 
+        "longitude": 6.973548, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.463000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "11515ae71b399d276c7087bbcbad4ed4", 
+        "latitude": 50.940372, 
+        "longitude": 6.973563, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.464000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ff074cfaed3bdbcf0a37b1334781a4e5", 
+        "latitude": 50.938385, 
+        "longitude": 6.9572606, 
+        "name": "Laurenzplatz / Salomonsgasse", 
+        "timestamp": "2017-02-22T13:13:44.350000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "6af1f89c440533fe031a03ce7d548236", 
+        "latitude": 50.929184, 
+        "longitude": 6.9617085, 
+        "name": "Im Weichserhof / Koelhoffstr.", 
+        "timestamp": "2017-02-22T13:13:44.452000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "60fae4ea348ee337b0a6c3eb80f3c46a", 
+        "latitude": 50.92765, 
+        "longitude": 6.9085817, 
+        "name": "Lindenthalg\u00fcrtel / Stadtwaldg\u00fcrtel", 
+        "timestamp": "2017-02-22T13:13:44.736000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "7e54f73d3cac50d69cae1e6e76cd97ec", 
+        "latitude": 50.962105, 
+        "longitude": 6.900671, 
+        "name": "Johann-Brinck-Str. / Sandweg", 
+        "timestamp": "2017-02-22T13:13:44.747000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "500ddca8869e01d6c1cbd90a6410860b", 
+        "latitude": 50.931267, 
+        "longitude": 6.949975, 
+        "name": "Alte Mauer am Bach / Poststr.", 
+        "timestamp": "2017-02-22T13:13:44.477000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "62ae89bbd5ea045459fa6c5388b3927f", 
+        "latitude": 50.937164, 
+        "longitude": 6.953909, 
+        "name": "Herzogstr. / Perlenpfuhl", 
+        "timestamp": "2017-02-22T13:13:44.363000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1d5747bae011089ba64f2d3840e42a5a", 
+        "latitude": 50.954132, 
+        "longitude": 6.951874, 
+        "name": "Wevelinghovener Str. / Wickrather Str.", 
+        "timestamp": "2017-02-22T13:13:44.626000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "931acdd18bcc79d7b05b36065762ad02", 
+        "latitude": 50.941956, 
+        "longitude": 6.9560413, 
+        "name": "Marzellenstr. / Trankgasse", 
+        "timestamp": "2017-02-22T13:13:44.404000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "5fd875d8571c686f8c416ea13a7b098b", 
+        "latitude": 50.924477, 
+        "longitude": 6.961476, 
+        "name": "Annostr. / Dreik\u00f6nigenstr.", 
+        "timestamp": "2017-02-22T13:13:44.560000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "15c9dae93fc8f44bc78fd0ecc36d3e4b", 
+        "latitude": 50.942562, 
+        "longitude": 6.9602785, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.376000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "1e124c550e53c71edca2246fdc5a39f0", 
+        "latitude": 50.93738, 
+        "longitude": 6.9709816, 
+        "name": "Karlstr. / Mindener Str.", 
+        "timestamp": "2017-02-22T13:13:44.437000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "4ccc6bcfe7e4f949e0a5efbc4da12c15", 
+        "latitude": 50.920635, 
+        "longitude": 6.9572487, 
+        "name": "Elsa\u00dfstr. / Merowingerstr.", 
+        "timestamp": "2017-02-22T13:13:44.617000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "8a800cbcd7e110ae9faf9ada984b8b60", 
+        "latitude": 50.942238, 
+        "longitude": 6.9601884, 
+        "name": "Johannisstr. / Radstation", 
+        "timestamp": "2017-02-22T13:13:44.366000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "f162609764b99d1d2ab59116ce622b94", 
+        "latitude": 50.933144, 
+        "longitude": 6.9495816, 
+        "name": "Kleiner Griechenmarkt / Poststr.", 
+        "timestamp": "2017-02-22T13:13:44.448000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "5f2020583e4f43346d9e6dd536c0dc9f", 
+        "latitude": 50.90984, 
+        "longitude": 6.961788, 
+        "name": "Br\u00fchler Str. / Mannsfelder Str.", 
+        "timestamp": "2017-02-22T13:13:44.693000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "7d61ef7b2e78a2ce329665caab8428ec", 
+        "latitude": 50.92083, 
+        "longitude": 6.959447, 
+        "name": "Chlodwigplatz / Karolingerring", 
+        "timestamp": "2017-02-22T13:13:44.600000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "3e1a567b0d666d4f8ae5f0aea3841c55", 
+        "latitude": 50.938335, 
+        "longitude": 6.940258, 
+        "name": "Ehrenstr. / Friesenwall", 
+        "timestamp": "2017-02-22T13:13:44.556000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "dd0d0940f63dc714c8a8848f3d94ec18", 
+        "latitude": 50.93442, 
+        "longitude": 6.9136877, 
+        "name": "Friedrich-Schmidt-Str. / Klosterstr.", 
+        "timestamp": "2017-02-22T13:13:44.700000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ec128f3399d4d016c0abc1b8272a5aff", 
+        "latitude": 50.966724, 
+        "longitude": 6.947489, 
+        "name": "Merheimer Str. / Weseler Str.", 
+        "timestamp": "2017-02-22T13:13:44.711000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "bd0458cbb67f7e7a3863336fc8f60a84", 
+        "latitude": 50.929504, 
+        "longitude": 6.950473, 
+        "name": "Quirinstr. / Waisenhausgasse", 
+        "timestamp": "2017-02-22T13:13:44.489000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a0d3042b4f70cc674a50d4ddf10030f2", 
+        "latitude": 50.942505, 
+        "longitude": 6.9602447, 
+        "name": "Johannisstr. / Radstation", 
+        "timestamp": "2017-02-22T13:13:44.368000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "03ad89a348ba52adb4349488a7aa05b0", 
+        "latitude": 50.942623, 
+        "longitude": 6.960602, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.391000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "2fc17ddb9ff26ce2b7d747dd0d81ece8", 
+        "latitude": 50.942596, 
+        "longitude": 6.9603214, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.382000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "ab5979af6d44875ca4ae7b3cd5261443", 
+        "latitude": 50.942593, 
+        "longitude": 6.961109, 
+        "name": "Am Alten Ufer / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.390000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "40fb213175400a4eed5cc8f6dd2c273d", 
+        "latitude": 50.94744, 
+        "longitude": 6.960842, 
+        "name": "Im Krahnenhof / Unter Krahnenb\u00e4umen", 
+        "timestamp": "2017-02-22T13:13:44.485000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "d1fc77bde53add0e4d5429c5a57d6183", 
+        "latitude": 50.94805, 
+        "longitude": 6.9208655, 
+        "name": "Venloer Str. / Wahlenstr.", 
+        "timestamp": "2017-02-22T13:13:44.689000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "809aef682095280185f0e07e7af77c6e", 
+        "latitude": 50.934002, 
+        "longitude": 6.9393787, 
+        "name": "Hohenstaufenring / Rubensstr.", 
+        "timestamp": "2017-02-22T13:13:44.567000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "59217383c6064995b2aa65e7b621c7dd", 
+        "latitude": 50.940495, 
+        "longitude": 6.9735174, 
+        "name": "Hohenzollernbr\u00fccke / Ottoplatz", 
+        "timestamp": "2017-02-22T13:13:44.467000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "42245db8f36ef1a2fbea8b47f39dbef3", 
+        "latitude": 50.9201, 
+        "longitude": 6.929685, 
+        "name": "Konradstr. / Remigiusstr.", 
+        "timestamp": "2017-02-22T13:13:44.680000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "bb2685a39b6ef8b4dcd7a484ff58fd79", 
+        "latitude": 50.937412, 
+        "longitude": 6.9038796, 
+        "name": "Aachener Str. / F\u00fcrst-P\u00fcckler-Str.", 
+        "timestamp": "2017-02-22T13:13:44.741000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "43274cfc9194b24bea5f4b0687db9fed", 
+        "latitude": 50.95751, 
+        "longitude": 6.9171515, 
+        "name": "Gustav-Freytag-Str. / Lenaustr.", 
+        "timestamp": "2017-02-22T13:13:44.734000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "cab79dacda909a7deb20e91cc9066a1e", 
+        "latitude": 50.943764, 
+        "longitude": 6.9330435, 
+        "name": "Bahnhof West / Hans-B\u00f6ckler-Platz", 
+        "timestamp": "2017-02-22T13:13:44.645000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "d0098de8f16202af3754d15fea50e274", 
+        "latitude": 50.936855, 
+        "longitude": 6.9568477, 
+        "name": "Gro\u00dfe Sandkaul / Marspfortengasse", 
+        "timestamp": "2017-02-22T13:13:44.355000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "399cd1922bfbcddce55da16639aa656d", 
+        "latitude": 50.94609, 
+        "longitude": 6.925278, 
+        "name": "Franz-Geuer-Str. / Piusstr.", 
+        "timestamp": "2017-02-22T13:13:44.664000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "6ed17efbcb596d4ad987ccecff1b77e5", 
+        "latitude": 50.967075, 
+        "longitude": 6.9384828, 
+        "name": "Friedrichshafer Str. / Ulmer Str.", 
+        "timestamp": "2017-02-22T13:13:44.725000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "94397ab4ce0ae073b49069937de159c4", 
+        "latitude": 50.944298, 
+        "longitude": 6.9423, 
+        "name": "Christophstr. / Kaiser-Wilhelm-Ring", 
+        "timestamp": "2017-02-22T13:13:44.562000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "29f78d420e13370751ec607e7f9a5da0", 
+        "latitude": 50.923134, 
+        "longitude": 6.917935, 
+        "name": "Kerpener Str. / Leichtensternstr.", 
+        "timestamp": "2017-02-22T13:13:44.714000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "4a86f633e8ffb7ede129982e2b8c56ed", 
+        "latitude": 50.939144, 
+        "longitude": 6.956501, 
+        "name": "Hohe Str. / Minoritenstr.", 
+        "timestamp": "2017-02-22T13:13:44.357000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "bb0b5073f656395d6b33947b07da05f8", 
+        "latitude": 50.94065, 
+        "longitude": 6.939854, 
+        "name": "Friesenplatz / Hohenzollernring", 
+        "timestamp": "2017-02-22T13:13:44.563000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e246d5a9e73882a627afc3a2bb3e2f44", 
+        "latitude": 50.93837, 
+        "longitude": 6.940565, 
+        "name": "Ehrenstr. / Friesenwall", 
+        "timestamp": "2017-02-22T13:13:44.547000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "035d43dab122efef6ce6a92c9f087fc7", 
+        "latitude": 50.930996, 
+        "longitude": 6.940484, 
+        "name": "Hohenstaufenring / Jahnstr.", 
+        "timestamp": "2017-02-22T13:13:44.572000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "361524c46d3a1adaa860604ea779638b", 
+        "latitude": 50.911102, 
+        "longitude": 6.967253, 
+        "name": "Bernhardstr. / Klopstockstr.", 
+        "timestamp": "2017-02-22T13:13:44.683000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "84d2bfadb2a6b323b850bfacd6a47cda", 
+        "latitude": 50.94314, 
+        "longitude": 6.9597707, 
+        "name": "Johannisstr. / Kostgasse", 
+        "timestamp": "2017-02-22T13:13:44.423000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e64435fb3c4ddfe74179b860d5eb4bda", 
+        "latitude": 50.936752, 
+        "longitude": 6.9515324, 
+        "name": "Kreuzgasse / Schildergasse", 
+        "timestamp": "2017-02-22T13:13:44.422000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "e27b3c4cade2d74c758e9233f8f22b91", 
+        "latitude": 50.939728, 
+        "longitude": 6.9514337, 
+        "name": "Appellhofplatz / R\u00f6hrergasse", 
+        "timestamp": "2017-02-22T13:13:44.430000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "56ff9c52e5fc5fd570021283bbb0a088", 
+        "latitude": 50.934834, 
+        "longitude": 6.952217, 
+        "name": "C\u00e4cilienkloster / Jabachstr.", 
+        "timestamp": "2017-02-22T13:13:44.427000Z"
+      }
+    ]
+  }
+}

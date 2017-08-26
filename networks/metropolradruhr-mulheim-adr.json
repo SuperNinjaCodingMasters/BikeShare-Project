@@ -1,0 +1,604 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/metropolradruhr-mulheim-adr", 
+    "id": "metropolradruhr-mulheim-adr", 
+    "location": {
+      "city": "M\u00fclheim a.d.R.", 
+      "country": "DE", 
+      "latitude": 51.4308, 
+      "longitude": 6.87401
+    }, 
+    "name": "metropolradruhr", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "52079", 
+            "52729", 
+            "53527", 
+            "52749"
+          ], 
+          "number": "7914", 
+          "slots": 8, 
+          "uid": "113433"
+        }, 
+        "free_bikes": 4, 
+        "id": "838174bf05d29e0518249ffb72e00f8f", 
+        "latitude": 51.43750387846, 
+        "longitude": 6.8887710571289, 
+        "name": "Aktienstr.", 
+        "timestamp": "2017-08-15T04:46:55.656000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "51341", 
+            "51059", 
+            "51367", 
+            "52995", 
+            "53551"
+          ], 
+          "number": "7924", 
+          "slots": 8, 
+          "uid": "113451"
+        }, 
+        "free_bikes": 6, 
+        "id": "d40875cffaa8df575f96915d67edc3a9", 
+        "latitude": 51.432380573919, 
+        "longitude": 6.8240547180176, 
+        "name": "Raffelberg", 
+        "timestamp": "2017-08-15T04:46:55.676000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "53509", 
+            "53329", 
+            "52429"
+          ], 
+          "number": "7906", 
+          "slots": 8, 
+          "uid": "50480"
+        }, 
+        "free_bikes": 3, 
+        "id": "73e2b24bed2087412c36878af658584f", 
+        "latitude": 51.448644747627, 
+        "longitude": 6.8524968624115, 
+        "name": "Styrum Bahnhof", 
+        "timestamp": "2017-08-15T04:46:55.619000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "31040", 
+            "50887", 
+            "51340", 
+            "52728", 
+            "53523"
+          ], 
+          "number": "7928", 
+          "slots": 8, 
+          "uid": "195053"
+        }, 
+        "free_bikes": 6, 
+        "id": "0102a021e7d4e6b657569bd12f3f0b48", 
+        "latitude": 51.403526180004, 
+        "longitude": 6.8989205360413, 
+        "name": "Hahnenf\u00e4hre", 
+        "timestamp": "2017-08-15T04:46:55.681000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "53314"
+          ], 
+          "number": "7911", 
+          "slots": 6, 
+          "uid": "50483"
+        }, 
+        "free_bikes": 1, 
+        "id": "ba46c303f4965c46b8eec175805a7adc", 
+        "latitude": 51.402886995386, 
+        "longitude": 6.879608631134, 
+        "name": "Klostermarkt", 
+        "timestamp": "2017-08-15T04:46:55.628000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "53311", 
+            "53307", 
+            "50041", 
+            "53926"
+          ], 
+          "number": "7917", 
+          "slots": 6, 
+          "uid": "113436"
+        }, 
+        "free_bikes": 4, 
+        "id": "20ea03605b119e9626191df8c9668864", 
+        "latitude": 51.427939019937, 
+        "longitude": 6.8939316272736, 
+        "name": "Von-Bock-Str.", 
+        "timestamp": "2017-08-15T04:46:55.659000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "number": "7932", 
+          "slots": 8, 
+          "uid": "195060"
+        }, 
+        "free_bikes": 0, 
+        "id": "5732bc2220fa94262d7462273f330509", 
+        "latitude": 51.448765102321, 
+        "longitude": 6.8680429458618, 
+        "name": "HRW Campus Styrum", 
+        "timestamp": "2017-08-15T04:46:55.686000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "53520", 
+            "53769", 
+            "52965"
+          ], 
+          "number": "7905", 
+          "slots": 8, 
+          "uid": "50479"
+        }, 
+        "free_bikes": 3, 
+        "id": "1bd1ea5894be07c82688dba9600bb05c", 
+        "latitude": 51.4392951676, 
+        "longitude": 6.87868457876, 
+        "name": "Wiesenstr.", 
+        "timestamp": "2017-08-15T04:46:55.613000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "51435", 
+            "52172", 
+            "50982", 
+            "53445", 
+            "50520"
+          ], 
+          "number": "7903", 
+          "slots": 12, 
+          "uid": "50475"
+        }, 
+        "free_bikes": 5, 
+        "id": "a42960247c805e9dc9e04966aed78118", 
+        "latitude": 51.42989897575, 
+        "longitude": 6.8861371278763, 
+        "name": "Hauptbahnhof Westeingang", 
+        "timestamp": "2017-08-15T04:46:55.608000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "51345", 
+            "51289", 
+            "52652", 
+            "52297", 
+            "53255"
+          ], 
+          "number": "7901", 
+          "slots": 14, 
+          "uid": "50474"
+        }, 
+        "free_bikes": 8, 
+        "id": "42d8392dda442eae57c1e9a24216147c", 
+        "latitude": 51.4224667529, 
+        "longitude": 6.8759071826935, 
+        "name": "Wasserbahnhof", 
+        "timestamp": "2017-08-15T04:46:55.603000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "50660"
+          ], 
+          "number": "7908", 
+          "slots": 9, 
+          "uid": "50484"
+        }, 
+        "free_bikes": 1, 
+        "id": "df151e5a9e1595f9eb597df7d4f592a9", 
+        "latitude": 51.4245396774, 
+        "longitude": 6.86247101737, 
+        "name": "Broicher Mitte", 
+        "timestamp": "2017-08-15T04:46:55.651000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "51319", 
+            "52086", 
+            "50924"
+          ], 
+          "number": "7912", 
+          "slots": 6, 
+          "uid": "50478"
+        }, 
+        "free_bikes": 3, 
+        "id": "16e7c11c62eba97e22b78fcdc420249d", 
+        "latitude": 51.424975514124, 
+        "longitude": 6.8818402290344, 
+        "name": "Wertgasse", 
+        "timestamp": "2017-08-15T04:46:55.612000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "50297", 
+            "50649", 
+            "50617", 
+            "52766", 
+            "53225"
+          ], 
+          "number": "7904", 
+          "slots": 8, 
+          "uid": "50476"
+        }, 
+        "free_bikes": 8, 
+        "id": "08c63def9a7ea90b70d90ac17e8c899b", 
+        "latitude": 51.428042705713, 
+        "longitude": 6.884463429451, 
+        "name": "Kaiserplatz", 
+        "timestamp": "2017-08-15T04:46:55.610000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "50886", 
+            "52714", 
+            "53256"
+          ], 
+          "number": "7926", 
+          "slots": 6, 
+          "uid": "113453"
+        }, 
+        "free_bikes": 3, 
+        "id": "72bcb101c0c3d4749fc00f1996a24b1d", 
+        "latitude": 51.395885498453, 
+        "longitude": 6.866814494133, 
+        "name": "Sanddornweg", 
+        "timestamp": "2017-08-15T04:46:55.680000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "51388", 
+            "51397", 
+            "52011", 
+            "52419", 
+            "20086"
+          ], 
+          "number": "7907", 
+          "slots": 10, 
+          "uid": "50482"
+        }, 
+        "free_bikes": 12, 
+        "id": "ce3ff98794ec75e321ed641f38dc9f22", 
+        "latitude": 51.407183750512, 
+        "longitude": 6.8697488307953, 
+        "name": "Alte Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:55.626000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "53616", 
+            "53660", 
+            "53737", 
+            "50105"
+          ], 
+          "number": "7913", 
+          "slots": 10, 
+          "uid": "50485"
+        }, 
+        "free_bikes": 4, 
+        "id": "d46a1ee86c6f2f6f75edd085420e8ec1", 
+        "latitude": 51.427714924071, 
+        "longitude": 6.8737131357193, 
+        "name": "Schloss Broich / Stadthalle", 
+        "timestamp": "2017-08-15T04:46:55.654000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "51268", 
+            "52878", 
+            "50054"
+          ], 
+          "number": "7916", 
+          "slots": 8, 
+          "uid": "113435"
+        }, 
+        "free_bikes": 3, 
+        "id": "bcb6a41a06feb40236f71baaaa9652d1", 
+        "latitude": 51.433450763335, 
+        "longitude": 6.9250774383545, 
+        "name": "Hei\u00dfen Kirche", 
+        "timestamp": "2017-08-15T04:46:55.658000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "7921", 
+          "slots": 6, 
+          "uid": "113443"
+        }, 
+        "free_bikes": 0, 
+        "id": "77bb0b6125b59b254b8845f2fe524f33", 
+        "latitude": 51.456453772411, 
+        "longitude": 6.8872475624084, 
+        "name": "Gathestr.", 
+        "timestamp": "2017-08-15T04:46:55.666000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "50097", 
+            "50445", 
+            "51071", 
+            "51361", 
+            "50779"
+          ], 
+          "number": "7902", 
+          "slots": 10, 
+          "uid": "53466"
+        }, 
+        "free_bikes": 9, 
+        "id": "d68ad41f164cef4ffa24bcf280c681c8", 
+        "latitude": 51.431621393102, 
+        "longitude": 6.8860620260239, 
+        "name": "Hauptbahnhof Nordeingang", 
+        "timestamp": "2017-08-15T04:46:55.655000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "50997", 
+            "53138", 
+            "52736", 
+            "50507", 
+            "53764"
+          ], 
+          "number": "7910", 
+          "slots": 10, 
+          "uid": "50477"
+        }, 
+        "free_bikes": 6, 
+        "id": "364ba5d0f0dbee5edc68a86223800908", 
+        "latitude": 51.426872046194, 
+        "longitude": 6.8801236152649, 
+        "name": "Stadtmitte / Leineweberstr.", 
+        "timestamp": "2017-08-15T04:46:55.611000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "53352", 
+            "53563", 
+            "53453", 
+            "52870"
+          ], 
+          "number": "7915", 
+          "slots": 6, 
+          "uid": "113434"
+        }, 
+        "free_bikes": 4, 
+        "id": "e38b958c30d463933fd2aa889cce2242", 
+        "latitude": 51.434263421676, 
+        "longitude": 6.8931216001511, 
+        "name": "Goetheplatz", 
+        "timestamp": "2017-08-15T04:46:55.657000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "50783", 
+            "51395", 
+            "52876"
+          ], 
+          "number": "7925", 
+          "slots": 8, 
+          "uid": "113452"
+        }, 
+        "free_bikes": 3, 
+        "id": "5c1d06e274a702931acb25183c1761db", 
+        "latitude": 51.420613526171, 
+        "longitude": 6.8465745449066, 
+        "name": "Broicher Waldweg", 
+        "timestamp": "2017-08-15T04:46:55.678000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "52504", 
+            "53395"
+          ], 
+          "number": "7919", 
+          "slots": 6, 
+          "uid": "113440"
+        }, 
+        "free_bikes": 2, 
+        "id": "7b2c28a33e1e026197cfeebbe10b10ba", 
+        "latitude": 51.418519356439, 
+        "longitude": 6.8992209434509, 
+        "name": "Oppspring", 
+        "timestamp": "2017-08-15T04:46:55.665000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "7929", 
+          "slots": 6, 
+          "uid": "195056"
+        }, 
+        "free_bikes": 0, 
+        "id": "1477a3dbc33c0967058d543c3567c5b7", 
+        "latitude": 51.444178026846, 
+        "longitude": 6.8852734565735, 
+        "name": "M\u00fchlenstr.", 
+        "timestamp": "2017-08-15T04:46:55.683000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "31345", 
+            "53199", 
+            "53237"
+          ], 
+          "number": "7931", 
+          "slots": 4, 
+          "uid": "195059"
+        }, 
+        "free_bikes": 3, 
+        "id": "cdcc1982133eb2a52b870717d744ff10", 
+        "latitude": 51.437233013168, 
+        "longitude": 6.956512928009, 
+        "name": "RRZ/ Festival-Garden", 
+        "timestamp": "2017-08-15T04:46:55.685000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "53854", 
+            "50042", 
+            "50057", 
+            "53915"
+          ], 
+          "number": "7920", 
+          "slots": 6, 
+          "uid": "740758"
+        }, 
+        "free_bikes": 4, 
+        "id": "2c58e483f97cc8c543c5a6f3ed31d9f9", 
+        "latitude": 51.426467325498, 
+        "longitude": 6.8814378976822, 
+        "name": "MWB / Friedrich-Ebert-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:55.689000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "51285", 
+            "53825"
+          ], 
+          "number": "7923", 
+          "slots": 4, 
+          "uid": "113450"
+        }, 
+        "free_bikes": 2, 
+        "id": "3f348fff688d294a91d3996f3cdd8f25", 
+        "latitude": 51.429059482785, 
+        "longitude": 6.8401426076889, 
+        "name": "Speldorf-Betriebshof", 
+        "timestamp": "2017-08-15T04:46:55.667000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "number": "7930", 
+          "slots": 4, 
+          "uid": "195057"
+        }, 
+        "free_bikes": 0, 
+        "id": "69f2eaedab5750bccde7bb2b9ae60f76", 
+        "latitude": 51.447454556348, 
+        "longitude": 6.9113874435425, 
+        "name": "Nordstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:55.685000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "50181", 
+            "50715", 
+            "50932", 
+            "51024", 
+            "51369"
+          ], 
+          "number": "7927", 
+          "slots": 10, 
+          "uid": "819666"
+        }, 
+        "free_bikes": 9, 
+        "id": "659a544a9aabe22e256dcf08d6cd2439", 
+        "latitude": 51.42712290433, 
+        "longitude": 6.8578290939331, 
+        "name": "HRW/Duisburger Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:55.691000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "53248", 
+            "53885"
+          ], 
+          "number": "7918", 
+          "slots": 8, 
+          "uid": "113438"
+        }, 
+        "free_bikes": 2, 
+        "id": "101fe021d93230c9d8ad00bf2314b520", 
+        "latitude": 51.423209360572, 
+        "longitude": 6.8913674354553, 
+        "name": "Sportzentrum S\u00fcdstra\u00dfe", 
+        "timestamp": "2017-08-15T04:46:55.664000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "50228", 
+            "50756", 
+            "51160", 
+            "50911", 
+            "50794"
+          ], 
+          "number": "7933", 
+          "uid": "248050"
+        }, 
+        "free_bikes": 11, 
+        "id": "07fa013b7cec97fa58ecefaf79c617fd", 
+        "latitude": 51.417729836236, 
+        "longitude": 6.932373046875, 
+        "name": "Lager M\u00fclheim", 
+        "timestamp": "2017-08-15T04:46:55.688000Z"
+      }
+    ]
+  }
+}

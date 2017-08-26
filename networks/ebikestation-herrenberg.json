@@ -1,0 +1,38 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-herrenberg", 
+    "id": "ebikestation-herrenberg", 
+    "location": {
+      "city": "Herrenberg", 
+      "country": "DE", 
+      "latitude": 48.595, 
+      "longitude": 8.86716
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "91584", 
+            "91688", 
+            "91503", 
+            "91609"
+          ], 
+          "number": "5804", 
+          "slots": 12, 
+          "uid": "367662"
+        }, 
+        "free_bikes": 9, 
+        "id": "0f87a1a5bff33e7919adbd2d3931baab", 
+        "latitude": 48.594499010449, 
+        "longitude": 8.8620615005493, 
+        "name": "E-Bike-Station Herrenberg", 
+        "timestamp": "2017-08-15T04:50:51.981000Z"
+      }
+    ]
+  }
+}

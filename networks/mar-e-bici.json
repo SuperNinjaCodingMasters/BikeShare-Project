@@ -1,0 +1,78 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/mar-e-bici", 
+    "id": "mar-e-bici", 
+    "location": {
+      "city": "Marciana Marina", 
+      "country": "IT", 
+      "latitude": 42.805855, 
+      "longitude": 10.196514
+    }, 
+    "name": "Mar e Bici", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "1fe902f75941d266a7c93bdc44084f9c", 
+        "latitude": 42.80931793744888, 
+        "longitude": 10.193724632263184, 
+        "name": "Porto Turistico", 
+        "timestamp": "2017-08-15T04:45:42.220000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "adb2e9d1f16e9ba4dc3abd59273a7f09", 
+        "latitude": 42.80938090447143, 
+        "longitude": 10.193724632263184, 
+        "name": "Porto Turistico", 
+        "timestamp": "2017-08-15T04:45:42.223000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "d93179dc6fd77bba9cc1fa2cdcc97e34", 
+        "latitude": 42.80570509718617, 
+        "longitude": 10.200247764587402, 
+        "name": "Ufficio Turistico", 
+        "timestamp": "2017-08-15T04:45:42.224000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "5d53a9757d0144bac04a4c0176f8928f", 
+        "latitude": 42.80495731522011, 
+        "longitude": 10.197265148162842, 
+        "name": "Palazzo Comunale", 
+        "timestamp": "2017-08-15T04:45:42.229000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "bee8c25beca79514532b8e27a593c987", 
+        "latitude": 42.803398751122835, 
+        "longitude": 10.19205093383789, 
+        "name": "Impianti Sportivi", 
+        "timestamp": "2017-08-15T04:45:42.235000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/siedlecki-rower-miejski-siedlce", 
+    "id": "siedlecki-rower-miejski-siedlce", 
+    "location": {
+      "city": "Siedlce", 
+      "country": "PL", 
+      "latitude": 52.1668, 
+      "longitude": 22.2891
+    }, 
+    "name": "Siedlecki Rower Miejski", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "62614", 
+            "62605"
+          ], 
+          "number": "6261", 
+          "slots": 12, 
+          "uid": "3556467"
+        }, 
+        "free_bikes": 2, 
+        "id": "0c48f2b26e8d35dadfbfb159f1cc8cfc", 
+        "latitude": 52.182309, 
+        "longitude": 22.269388, 
+        "name": "Ko\u015bci\u00f3\u0142 pw. \u015awi\u0119tego J\u00f3zefa", 
+        "timestamp": "2017-08-15T04:48:42.625000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "62629", 
+            "62627", 
+            "62623", 
+            "62621", 
+            "62620"
+          ], 
+          "number": "6262", 
+          "slots": 12, 
+          "uid": "3556469"
+        }, 
+        "free_bikes": 5, 
+        "id": "ac7aae3d0caa9233c95450ffbd3d5e8f", 
+        "latitude": 52.166755, 
+        "longitude": 22.271696, 
+        "name": "Brofaktura", 
+        "timestamp": "2017-08-15T04:48:42.628000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "62630", 
+            "62626", 
+            "62625", 
+            "62622", 
+            "62619"
+          ], 
+          "number": "6263", 
+          "slots": 12, 
+          "uid": "3556471"
+        }, 
+        "free_bikes": 5, 
+        "id": "d9885491836ec5f318e160a54dc27112", 
+        "latitude": 52.166476, 
+        "longitude": 22.285766, 
+        "name": "Pawilon \u2013 M\u0142ynarska", 
+        "timestamp": "2017-08-15T04:48:42.642000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "62632", 
+            "62631", 
+            "62628", 
+            "62624", 
+            "62610"
+          ], 
+          "number": "6264", 
+          "slots": 12, 
+          "uid": "3556474"
+        }, 
+        "free_bikes": 5, 
+        "id": "dc6b1c775489e9028ed2dbf97bb78415", 
+        "latitude": 52.166598, 
+        "longitude": 22.236742, 
+        "name": "Zalew", 
+        "timestamp": "2017-08-15T04:48:42.643000Z"
+      }
+    ]
+  }
+}

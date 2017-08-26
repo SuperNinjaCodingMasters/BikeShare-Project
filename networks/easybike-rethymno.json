@@ -1,0 +1,67 @@
+{
+  "network": {
+    "company": [
+      "Brainbox Technology", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/easybike-rethymno", 
+    "id": "easybike-rethymno", 
+    "location": {
+      "city": "Rethymno", 
+      "country": "GR", 
+      "latitude": 35.3667571777, 
+      "longitude": 24.4832845736
+    }, 
+    "name": "EasyBike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 8
+        }, 
+        "free_bikes": 3, 
+        "id": "f0cbe0acf203d1c56018d4fcbeb37a93", 
+        "latitude": 35.3668140461, 
+        "longitude": 24.4832684803, 
+        "name": "Ktirio Delfini", 
+        "timestamp": "2017-08-15T04:50:47.625000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 8
+        }, 
+        "free_bikes": 3, 
+        "id": "08f8e45ec5470593c7acea3207b3e3ed", 
+        "latitude": 35.3682094949, 
+        "longitude": 24.5060136127, 
+        "name": "Hotel Pearl", 
+        "timestamp": "2017-08-15T04:50:47.628000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 8
+        }, 
+        "free_bikes": 6, 
+        "id": "6031d37070e9e82de577e6b9b31a7492", 
+        "latitude": 35.3656591737, 
+        "longitude": 24.4739987659, 
+        "name": "4 martyres", 
+        "timestamp": "2017-08-15T04:50:47.629000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 8
+        }, 
+        "free_bikes": 5, 
+        "id": "142978bf517d12c3cadfb92a97437440", 
+        "latitude": 35.3665778235, 
+        "longitude": 24.4686826277, 
+        "name": "KTEL", 
+        "timestamp": "2017-08-15T04:50:47.630000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "network": {
+    "company": [
+      "Veolia"
+    ], 
+    "href": "/v2/networks/velocea", 
+    "id": "velocea", 
+    "location": {
+      "city": "Vannes", 
+      "country": "FR", 
+      "latitude": 47.6559, 
+      "longitude": -2.7603
+    }, 
+    "name": "V\u00e9loc\u00e9a", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 24, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 0, 
+        "id": "feef5ab7ef035d565d49ebea3e9ad406", 
+        "latitude": 47.6581840515137, 
+        "longitude": -2.76028299331665, 
+        "name": "H\u00f4tel de Ville", 
+        "timestamp": "2017-07-12T12:48:07.756000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 18, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 0, 
+        "id": "59771825494568987f4b3428c0060c5d", 
+        "latitude": 47.6559181213379, 
+        "longitude": -2.7599675655365, 
+        "name": "R\u00e9publique", 
+        "timestamp": "2017-07-12T12:48:07.764000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 0, 
+        "id": "e28fc04dcdb825d886c0a047e83c004b", 
+        "latitude": 47.6589050292969, 
+        "longitude": -2.76407694816589, 
+        "name": "Lib\u00e9ration", 
+        "timestamp": "2017-07-12T12:48:07.765000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 9, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 0, 
+        "id": "cb9b6b2f1f7b4863af568d86d9928bc3", 
+        "latitude": 47.6611251831055, 
+        "longitude": -2.75940561294556, 
+        "name": "La Paix", 
+        "timestamp": "2017-07-12T12:48:07.766000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 0, 
+        "id": "01deef26839278194ae624892bf124b6", 
+        "latitude": 47.6580390930176, 
+        "longitude": -2.75522089004517, 
+        "name": "Pr\u00e9fecture", 
+        "timestamp": "2017-07-12T12:48:07.766000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 0, 
+        "id": "a0d6a719d9adff2fd0a886c15a6a9e61", 
+        "latitude": 47.6550674438477, 
+        "longitude": -2.75568437576294, 
+        "name": "Porte Poterne", 
+        "timestamp": "2017-07-12T12:48:07.770000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 15, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 0, 
+        "id": "b96d94115ea6d0d7f18236f983d20b00", 
+        "latitude": 47.6532707214355, 
+        "longitude": -2.75897765159607, 
+        "name": "Le Port", 
+        "timestamp": "2017-07-12T12:48:07.770000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 15, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 0, 
+        "id": "e633b9f0c0f1c41864c4ba53d4949410", 
+        "latitude": 47.6589736938477, 
+        "longitude": -2.77149820327759, 
+        "name": "Madeleine", 
+        "timestamp": "2017-07-12T12:48:07.771000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 24, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 0, 
+        "id": "588e79e5d8d47a72a86eab86d2341cff", 
+        "latitude": 47.6647911071777, 
+        "longitude": -2.7520158290863, 
+        "name": "Gares", 
+        "timestamp": "2017-07-12T12:48:07.772000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 0, 
+        "id": "d02e900503c553af8282003e1f78d8e5", 
+        "latitude": 47.6581382751465, 
+        "longitude": -2.74989175796509, 
+        "name": "Bir Hakeim", 
+        "timestamp": "2017-07-12T12:48:07.773000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 15, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 0, 
+        "id": "291e94e44c936598263559980731c854", 
+        "latitude": 47.6513824462891, 
+        "longitude": -2.75726366043091, 
+        "name": "Capitainerie", 
+        "timestamp": "2017-07-12T12:48:07.774000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 13
+        }, 
+        "free_bikes": 0, 
+        "id": "d8057fd1a467b3785637e0e558febddd", 
+        "latitude": 47.6724090576172, 
+        "longitude": -2.76660561561584, 
+        "name": "M\u00e9nimur", 
+        "timestamp": "2017-07-12T12:48:07.775000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 15, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 0, 
+        "id": "6db5d504c62685b77e9989b0484860dd", 
+        "latitude": 47.6468048095703, 
+        "longitude": -2.7433648109436, 
+        "name": "Tohannic", 
+        "timestamp": "2017-07-12T12:48:07.776000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 0, 
+        "id": "5f689d75424820867e1f49b349a2de9e", 
+        "latitude": 47.6464309692383, 
+        "longitude": -2.75903105735779, 
+        "name": "La Rabine", 
+        "timestamp": "2017-07-12T12:48:07.778000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 6, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "a8a4686e2c49faadaf9bd23d5be43bb5", 
+        "latitude": 47.6487312316895, 
+        "longitude": -2.7716805934906, 
+        "name": "Cuxhaven", 
+        "timestamp": "2017-07-12T12:48:07.781000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 9, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 0, 
+        "id": "b5878d584109c988e4865cd10be3411a", 
+        "latitude": 47.6451797485352, 
+        "longitude": -2.77085566520691, 
+        "name": "Kercado -  piscine", 
+        "timestamp": "2017-07-12T12:48:07.783000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 15, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "529aa7802ff66a188d1707e3b3c39ce9", 
+        "latitude": 47.6441383361816, 
+        "longitude": -2.77781200408936, 
+        "name": "IUT", 
+        "timestamp": "2017-07-12T12:48:07.783000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 0, 
+        "id": "cac8c0bb16ffe902ac1419f2cac8e958", 
+        "latitude": 47.6382713317871, 
+        "longitude": -2.76215696334839, 
+        "name": "Gare Maritime", 
+        "timestamp": "2017-07-12T12:48:07.784000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 18, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 0, 
+        "id": "99cbd1ec8641c56389b25e7f03509a32", 
+        "latitude": 47.6290740966797, 
+        "longitude": -2.77945733070374, 
+        "name": "Conleau", 
+        "timestamp": "2017-07-12T12:48:07.785000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 0, 
+        "id": "b5ab2b65975400bcc0e9e973998c18b3", 
+        "latitude": 47.6394195556641, 
+        "longitude": -2.77571511268616, 
+        "name": "cliscouet", 
+        "timestamp": "2017-07-12T12:48:07.786000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 9, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 0, 
+        "id": "6136b2c87772eadf114153fa496df0a8", 
+        "latitude": 47.6503524780273, 
+        "longitude": -2.78259706497192, 
+        "name": "r\u00e9sistance", 
+        "timestamp": "2017-07-12T12:48:07.787000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 0, 
+        "id": "8f8726dc2e4beffb196929792b94341a", 
+        "latitude": 47.6599082946777, 
+        "longitude": -2.78950595855713, 
+        "name": "Fourchene", 
+        "timestamp": "2017-07-12T12:48:07.788000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 9, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 0, 
+        "id": "a04ad631435d9b4271e570f6843c3afd", 
+        "latitude": 47.6632995605469, 
+        "longitude": -2.76552295684814, 
+        "name": "Pompidou", 
+        "timestamp": "2017-07-12T12:48:07.790000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 9, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 0, 
+        "id": "b38c8ab62bf1dfdb9ba02bd6e4d6ed31", 
+        "latitude": 47.6572608947754, 
+        "longitude": -2.73819589614868, 
+        "name": "Beaupr\u00e9 la lande", 
+        "timestamp": "2017-07-12T12:48:07.790000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 0, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 0, 
+        "id": "666a0b97a0533b0cac4dd08b8e3f6ed4", 
+        "latitude": 47.6440734863281, 
+        "longitude": -2.74901509284973, 
+        "name": "PIBS2", 
+        "timestamp": "2017-07-12T12:48:07.791000Z"
+      }
+    ]
+  }
+}

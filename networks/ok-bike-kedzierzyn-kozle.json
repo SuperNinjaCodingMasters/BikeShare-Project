@@ -1,0 +1,143 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ok-bike-kedzierzyn-kozle", 
+    "id": "ok-bike-kedzierzyn-kozle", 
+    "location": {
+      "city": "K\u0119dzierzyn-Ko\u017ale", 
+      "country": "PL", 
+      "latitude": 50.3417, 
+      "longitude": 18.2043
+    }, 
+    "name": "OK Bike", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "62548", 
+            "62546", 
+            "62529", 
+            "62527"
+          ], 
+          "number": "6252", 
+          "slots": 12, 
+          "uid": "3456221"
+        }, 
+        "free_bikes": 4, 
+        "id": "e8fc66a19d989fb32b81da6eda39158f", 
+        "latitude": 50.347766, 
+        "longitude": 18.216975, 
+        "name": "Hala Sportowa", 
+        "timestamp": "2017-08-15T04:49:12.471000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "62552", 
+            "62547", 
+            "62541", 
+            "62540", 
+            "62533"
+          ], 
+          "number": "6251", 
+          "slots": 12, 
+          "uid": "3456217"
+        }, 
+        "free_bikes": 5, 
+        "id": "214fd303f58f27e8565d1aba514e34f8", 
+        "latitude": 50.344227, 
+        "longitude": 18.206993, 
+        "name": "K\u0119dzierzyn stacja kolejowa", 
+        "timestamp": "2017-08-15T04:49:12.460000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "62550", 
+            "62536", 
+            "62534", 
+            "62524", 
+            "62510"
+          ], 
+          "number": "6253", 
+          "slots": 12, 
+          "uid": "3456227"
+        }, 
+        "free_bikes": 5, 
+        "id": "ccbc42e90b4ad45008a1ceab4bdc907b", 
+        "latitude": 50.342574, 
+        "longitude": 18.191337, 
+        "name": "Odrza\u0144skie Ogrody", 
+        "timestamp": "2017-08-15T04:49:12.473000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "62553", 
+            "62551", 
+            "62545", 
+            "62544", 
+            "62543"
+          ], 
+          "number": "6254", 
+          "slots": 12, 
+          "uid": "3456231"
+        }, 
+        "free_bikes": 5, 
+        "id": "3161f9bb9a8a947fed2d8e57e29cae42", 
+        "latitude": 50.333564, 
+        "longitude": 18.145622, 
+        "name": "Rynek", 
+        "timestamp": "2017-08-15T04:49:12.476000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "62554", 
+            "62549", 
+            "62542", 
+            "62538", 
+            "62535"
+          ], 
+          "number": "6255", 
+          "slots": 12, 
+          "uid": "3456240"
+        }, 
+        "free_bikes": 5, 
+        "id": "10e26e82aace50f91433048e57a29ed7", 
+        "latitude": 50.341183, 
+        "longitude": 18.136756, 
+        "name": "Osiedle Zach\u00f3d", 
+        "timestamp": "2017-08-15T04:49:12.481000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "62526", 
+            "62525", 
+            "62519", 
+            "62513", 
+            "62511"
+          ], 
+          "number": "6256", 
+          "slots": 12, 
+          "uid": "3456244"
+        }, 
+        "free_bikes": 5, 
+        "id": "9aefdc1c7bcf40727c618a8c76b0408b", 
+        "latitude": 50.347913, 
+        "longitude": 18.233701, 
+        "name": "Osiedle Piast\u00f3w", 
+        "timestamp": "2017-08-15T04:49:12.482000Z"
+      }
+    ]
+  }
+}

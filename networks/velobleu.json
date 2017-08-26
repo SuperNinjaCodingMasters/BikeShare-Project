@@ -1,0 +1,2985 @@
+{
+  "network": {
+    "company": [
+      "Veolia"
+    ], 
+    "href": "/v2/networks/velobleu", 
+    "id": "velobleu", 
+    "location": {
+      "city": "Nice", 
+      "country": "FR", 
+      "latitude": 43.695949, 
+      "longitude": 7.271413
+    }, 
+    "name": "V\u00e9lo Bleu", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Promenade des anglais - A hauteur de Ste Helene", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 350
+        }, 
+        "free_bikes": 13, 
+        "id": "24c96fa985e25cdcdf1ee9c04d031ab7", 
+        "latitude": 43.6848652490154, 
+        "longitude": 7.23640613257885, 
+        "name": "Station n\u00b0446", 
+        "timestamp": "2017-08-15T04:46:32.761000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "ALLEE RESISTANCE ET DEPORTATION", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 67
+        }, 
+        "free_bikes": 2, 
+        "id": "5bfa132ddbf79a43b9794fd1e9bd6380", 
+        "latitude": 43.6977996826172, 
+        "longitude": 7.27304983139038, 
+        "name": "Station n\u00b0067", 
+        "timestamp": "2017-08-15T04:46:32.526000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Voie d\u2019acc\u00e8s au CADAM \u00e0 droite du parc Charles Ehrmann", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 2
+        }, 
+        "free_bikes": 0, 
+        "id": "cf92a9a1c1369303e8f535f137b03fbb", 
+        "latitude": 43.6765397432492, 
+        "longitude": 7.19875717215473, 
+        "name": "Station n\u00b0002", 
+        "timestamp": "2017-08-15T04:46:32.450000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "CADAM (\u00e0 droite de l\u2019entr\u00e9e du parking)", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 4
+        }, 
+        "free_bikes": 0, 
+        "id": "20b683a5fc3c93f265ff575b5fbf3c1a", 
+        "latitude": 43.675407409668, 
+        "longitude": 7.19926404953003, 
+        "name": "Station n\u00b0004", 
+        "timestamp": "2017-08-15T04:46:32.459000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Bretelle sortie a\u00e9roport - Corniglion Molinier", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 14, 
+        "id": "7e12ee1ad7030abd955e8d8b01122735", 
+        "latitude": 43.6649475097656, 
+        "longitude": 7.20310401916504, 
+        "name": "Station n\u00b0006", 
+        "timestamp": "2017-08-15T04:46:32.460000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Promenade Des Anglais - Terminal T1", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 17, 
+        "id": "e87b6a487521554290a6449036b3847e", 
+        "latitude": 43.6660804748535, 
+        "longitude": 7.21209478378296, 
+        "name": "Station n\u00b0007", 
+        "timestamp": "2017-08-15T04:46:32.463000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Boulevard Rene Cassin n\u00b0161 (pr\u00e8s du Lyc\u00e9e Paul Augier)", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 8
+        }, 
+        "free_bikes": 0, 
+        "id": "45bb08e3dfb6fe22c9f4ce91edd1837c", 
+        "latitude": 43.6683235168457, 
+        "longitude": 7.21183776855469, 
+        "name": "Station n\u00b0008", 
+        "timestamp": "2017-08-15T04:46:32.463000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Route de Grenoble n\u00b01 (au droit du parking relais)", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 9
+        }, 
+        "free_bikes": 0, 
+        "id": "1e99a07f2a1d1000babbe99271aa61ee", 
+        "latitude": 43.6701011657715, 
+        "longitude": 7.21357583999634, 
+        "name": "Station n\u00b0009", 
+        "timestamp": "2017-08-15T04:46:32.464000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Avenue Charles Buchet", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 4, 
+        "id": "5930ba70b0d836c659d59279aedafaee", 
+        "latitude": 43.6679569783202, 
+        "longitude": 7.21535468153888, 
+        "name": "Station n\u00b0010", 
+        "timestamp": "2017-08-15T04:46:32.465000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Boulevard Rene Cassin (face au n\u00b0100) ", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 11
+        }, 
+        "free_bikes": 0, 
+        "id": "648ae073e8a89a079c7bbe8fc49fe742", 
+        "latitude": 43.6695556640625, 
+        "longitude": 7.2170729637146, 
+        "name": "Station n\u00b0011", 
+        "timestamp": "2017-08-15T04:46:32.467000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Rue Auguste P\u00e9gurier (Face au n\u00b01 - A l'angle de l'avenue Marie Bashkirtseff)", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 14, 
+        "id": "81be33c9ca8c43e5acf6b8a89b9c1fc7", 
+        "latitude": 43.6747550964355, 
+        "longitude": 7.22526979446411, 
+        "name": "Station n\u00b0012", 
+        "timestamp": "2017-08-15T04:46:32.468000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Promenade des Anglais (au niveau de l\u2019all\u00e9e Charles Martin Sauvaigo)", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 15, 
+        "id": "03e6fe62de3cfc12bc386a3359563b71", 
+        "latitude": 43.6768531799316, 
+        "longitude": 7.22919702529907, 
+        "name": "Station n\u00b0013", 
+        "timestamp": "2017-08-15T04:46:32.470000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue de la Californie n\u00b067 et 73", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 14
+        }, 
+        "free_bikes": 0, 
+        "id": "a39af1ea518d4d64220d5dbd4084bea3", 
+        "latitude": 43.6887909487277, 
+        "longitude": 7.24056530103553, 
+        "name": "Station n\u00b0014", 
+        "timestamp": "2017-08-15T04:46:32.471000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "BD DE LA MADELEINE", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 15
+        }, 
+        "free_bikes": 0, 
+        "id": "b1606af540f832baa0e495acdafa59b8", 
+        "latitude": 43.6919860839844, 
+        "longitude": 7.24505376815796, 
+        "name": "Station n\u00b0015", 
+        "timestamp": "2017-08-15T04:46:32.473000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "RUE DE FRANCE", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "7c8a8946d0cb8bdb7fab9073d4d249ad", 
+        "latitude": 43.6938323974609, 
+        "longitude": 7.25226402282715, 
+        "name": "Station n\u00b0016", 
+        "timestamp": "2017-08-15T04:46:32.474000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "PLACE GRIMALDI", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 1, 
+        "id": "ccd80793226cfc326ffad81a8cd81801", 
+        "latitude": 43.6976013183594, 
+        "longitude": 7.26545000076294, 
+        "name": "Station n\u00b0017", 
+        "timestamp": "2017-08-15T04:46:32.475000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "AVENUE DE SUEDE", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 1, 
+        "id": "86cb92bd14a177a2d67a2900966e1af7", 
+        "latitude": 43.6961517333984, 
+        "longitude": 7.26683378219604, 
+        "name": "Station n\u00b0018", 
+        "timestamp": "2017-08-15T04:46:32.476000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "PLACE MASSENA", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 4, 
+        "id": "26600067e914c23b8ab9bd6873c7e07d", 
+        "latitude": 43.6973304748535, 
+        "longitude": 7.27034187316895, 
+        "name": "Station n\u00b0019", 
+        "timestamp": "2017-08-15T04:46:32.477000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "RUE ST FRANCOIS DE PAULE", 
+          "slots": 9, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 4, 
+        "id": "780c77a27b403d6de36f353482b702cc", 
+        "latitude": 43.6956329345703, 
+        "longitude": 7.27048206329346, 
+        "name": "Station n\u00b0020", 
+        "timestamp": "2017-08-15T04:46:32.478000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "RUE DE LA PREFECTURE", 
+          "slots": 27, 
+          "slots_available": 27, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 8, 
+        "id": "b1d64f1abedb2e199e1fa5815380c14c", 
+        "latitude": 43.6966018676758, 
+        "longitude": 7.27455997467041, 
+        "name": "Station n\u00b0021", 
+        "timestamp": "2017-08-15T04:46:32.479000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "QUAI DES ETATS UNIS", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 0, 
+        "id": "12716b708bfaa4c696afe1e11e72a6a0", 
+        "latitude": 43.6945991516113, 
+        "longitude": 7.27830982208252, 
+        "name": "Station n\u00b0022", 
+        "timestamp": "2017-08-15T04:46:32.480000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "AVENUE ST JEAN BAPTISTE", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 0, 
+        "id": "9c5c2adbb249d56e9c63ff554fb7c875", 
+        "latitude": 43.6995964050293, 
+        "longitude": 7.27645778656006, 
+        "name": "Station n\u00b0023", 
+        "timestamp": "2017-08-15T04:46:32.481000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "QUAI DES ETATS UNIS", 
+          "slots": 24, 
+          "slots_available": 21, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 8, 
+        "id": "cbbfec90b30520a5d6cd9d7748891113", 
+        "latitude": 43.6949729919434, 
+        "longitude": 7.27433300018311, 
+        "name": "Station n\u00b0024", 
+        "timestamp": "2017-08-15T04:46:32.482000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "AVENUE ST JEAN BAPTISTE", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 5, 
+        "id": "003809cfd878f7712415052750edc28c", 
+        "latitude": 43.7019157409668, 
+        "longitude": 7.27784204483032, 
+        "name": "Station n\u00b0025", 
+        "timestamp": "2017-08-15T04:46:32.483000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "ESPLANADE FRANCIS GIORDAN", 
+          "slots": 18, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 1, 
+        "id": "f3bd5ed82f24362af0d6959b883267e8", 
+        "latitude": 43.7031097412109, 
+        "longitude": 7.2794508934021, 
+        "name": "Station n\u00b0026", 
+        "timestamp": "2017-08-15T04:46:32.484000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "BOULEVARD FRANCK PILATTE", 
+          "slots": 15, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 8, 
+        "id": "ab64edd4c385f1227418457f76454f46", 
+        "latitude": 43.6936454772949, 
+        "longitude": 7.28997611999512, 
+        "name": "Station n\u00b0029", 
+        "timestamp": "2017-08-15T04:46:32.485000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "RUE JEAN ALLEGRE", 
+          "slots": 24, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 30
+        }, 
+        "free_bikes": 4, 
+        "id": "0fdc8b4886f62a053e7592e8dc9d1c21", 
+        "latitude": 43.7080421447754, 
+        "longitude": 7.28168201446533, 
+        "name": "Station n\u00b0030", 
+        "timestamp": "2017-08-15T04:46:32.486000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "RUE MARALDI", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 31
+        }, 
+        "free_bikes": 5, 
+        "id": "eade4d5ebbcdee94b42384296b59aa76", 
+        "latitude": 43.706413269043, 
+        "longitude": 7.28302383422852, 
+        "name": "Station n\u00b0031", 
+        "timestamp": "2017-08-15T04:46:32.487000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "RUE AUGUSTE GAL", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 32
+        }, 
+        "free_bikes": 11, 
+        "id": "5047234729000f94143b04aa0e780a6e", 
+        "latitude": 43.7050247192383, 
+        "longitude": 7.28627395629883, 
+        "name": "Station n\u00b0032", 
+        "timestamp": "2017-08-15T04:46:32.488000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "RUE DELILLE", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 33
+        }, 
+        "free_bikes": 4, 
+        "id": "e7c0f5e48ab5eea9557944ee1cb1deae", 
+        "latitude": 43.7023429870605, 
+        "longitude": 7.2734432220459, 
+        "name": "Station n\u00b0033", 
+        "timestamp": "2017-08-15T04:46:32.489000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "PLACE SASSERNO", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 34
+        }, 
+        "free_bikes": 4, 
+        "id": "b88658286bd3e2241460208cc4160549", 
+        "latitude": 43.7027015686035, 
+        "longitude": 7.27121019363403, 
+        "name": "Station n\u00b0034", 
+        "timestamp": "2017-08-15T04:46:32.489000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "BOULEVARD DUBOUCHAGE", 
+          "slots": 21, 
+          "slots_available": 21, 
+          "status": "OPEN", 
+          "uid": 35
+        }, 
+        "free_bikes": 1, 
+        "id": "f628ff9ae6eda2a6f58dd9da74962190", 
+        "latitude": 43.7007522583008, 
+        "longitude": 7.26823902130127, 
+        "name": "Station n\u00b0035", 
+        "timestamp": "2017-08-15T04:46:32.490000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "AVENUE THIERS", 
+          "slots": 39, 
+          "slots_available": 33, 
+          "status": "OPEN", 
+          "uid": 36
+        }, 
+        "free_bikes": 4, 
+        "id": "2ef11b622a031028c8188df84910c1f4", 
+        "latitude": 43.7044448852539, 
+        "longitude": 7.26324987411499, 
+        "name": "Station n\u00b0036", 
+        "timestamp": "2017-08-15T04:46:32.491000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "PLACE AUGUSTE BLANQUI (RIQUIER)", 
+          "slots": 36, 
+          "slots_available": 36, 
+          "status": "OPEN", 
+          "uid": 37
+        }, 
+        "free_bikes": 10, 
+        "id": "fc94ba9d7e3adfcb0eb8f3634c7e8ea0", 
+        "latitude": 43.7056007385254, 
+        "longitude": 7.28976011276245, 
+        "name": "Station n\u00b0037", 
+        "timestamp": "2017-08-15T04:46:32.492000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Boulevard Rene Cassin n\u00b059", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 38
+        }, 
+        "free_bikes": 0, 
+        "id": "d725cea13e74f07ce3b7dab591d000af", 
+        "latitude": 43.6709098815918, 
+        "longitude": 7.22273778915405, 
+        "name": "Station n\u00b0038", 
+        "timestamp": "2017-08-15T04:46:32.493000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Rue Leon Bertrand n\u00b02", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 39
+        }, 
+        "free_bikes": 0, 
+        "id": "4666db88149832cab4c68ccf597deed4", 
+        "latitude": 43.6735076904297, 
+        "longitude": 7.22539901733398, 
+        "name": "Station n\u00b0039", 
+        "timestamp": "2017-08-15T04:46:32.494000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue de la Californie n\u00b0288", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 40
+        }, 
+        "free_bikes": 0, 
+        "id": "fdc2b3973d2a7f6c39ee20098d99cdd4", 
+        "latitude": 43.675422668457, 
+        "longitude": 7.22728681564331, 
+        "name": "Station n\u00b0040", 
+        "timestamp": "2017-08-15T04:46:32.494000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Avenue Saint Augustin n\u00b058", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 41
+        }, 
+        "free_bikes": 14, 
+        "id": "217ccc871642c90419618435551db365", 
+        "latitude": 43.6746444702148, 
+        "longitude": 7.22304916381836, 
+        "name": "Station n\u00b0041", 
+        "timestamp": "2017-08-15T04:46:32.495000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Avenue Sainte Marguerite n\u00b01", 
+          "slots": 15, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 42
+        }, 
+        "free_bikes": 10, 
+        "id": "544fe6972b0c63d338de1ec3d30f9c94", 
+        "latitude": 43.6774139404297, 
+        "longitude": 7.22530221939087, 
+        "name": "Station n\u00b0042", 
+        "timestamp": "2017-08-15T04:46:32.496000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue de la Californie n\u00b035", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 43
+        }, 
+        "free_bikes": 0, 
+        "id": "d5b476d10a52f366e4124ebbe599a4b5", 
+        "latitude": 43.6900749206543, 
+        "longitude": 7.24234008789063, 
+        "name": "Station n\u00b0043", 
+        "timestamp": "2017-08-15T04:46:32.497000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Promenade des Anglais face au n\u00b0297", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 44
+        }, 
+        "free_bikes": 9, 
+        "id": "be4e5a3039cb3550e6095a9b1e0123a3", 
+        "latitude": 43.6799545288086, 
+        "longitude": 7.23119306564331, 
+        "name": "Station n\u00b0044", 
+        "timestamp": "2017-08-15T04:46:32.498000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue Fremont n\u00b010", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 45
+        }, 
+        "free_bikes": 0, 
+        "id": "92892082fdd689b4d53d2a6aef4e662b", 
+        "latitude": 43.6784718601098, 
+        "longitude": 7.22895884566242, 
+        "name": "Station n\u00b0045", 
+        "timestamp": "2017-08-15T04:46:32.499000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue de la Californie n\u00b0126", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 46
+        }, 
+        "free_bikes": 0, 
+        "id": "4f69d2e57878188d81db88f939363270", 
+        "latitude": 43.685546875, 
+        "longitude": 7.23529100418091, 
+        "name": "Station n\u00b0046", 
+        "timestamp": "2017-08-15T04:46:32.500000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Promenade des Anglais face au n\u00b0246", 
+          "slots": 15, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 47
+        }, 
+        "free_bikes": 12, 
+        "id": "04892d4718e7a6195526a162b7d46720", 
+        "latitude": 43.6827812194824, 
+        "longitude": 7.23402500152588, 
+        "name": "Station n\u00b0047", 
+        "timestamp": "2017-08-15T04:46:32.501000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Promenade des Anglais face au n\u00b0187 bis", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 48
+        }, 
+        "free_bikes": 15, 
+        "id": "c06b4363f8ee2f1458249d198cec45d2", 
+        "latitude": 43.6865158081055, 
+        "longitude": 7.23813390731812, 
+        "name": "Station n\u00b0048", 
+        "timestamp": "2017-08-15T04:46:32.502000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "RUE DE FRANCE", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 49
+        }, 
+        "free_bikes": 0, 
+        "id": "d90e279bd78a1bef1e551b4bfcded1c0", 
+        "latitude": 43.6931037902832, 
+        "longitude": 7.24881982803345, 
+        "name": "Station n\u00b0049", 
+        "timestamp": "2017-08-15T04:46:32.503000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "RUE ALEXIS MOSSA", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 50
+        }, 
+        "free_bikes": 7, 
+        "id": "6df8d79e827f9aea7814479cb8b2c6fc", 
+        "latitude": 43.6958885192871, 
+        "longitude": 7.25193119049072, 
+        "name": "Station n\u00b0050", 
+        "timestamp": "2017-08-15T04:46:32.504000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "BOULEVARD GAMBETTA", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 51
+        }, 
+        "free_bikes": 13, 
+        "id": "80e57754ce4ace9c8123d82e3105483a", 
+        "latitude": 43.6959495544434, 
+        "longitude": 7.25644779205322, 
+        "name": "Station n\u00b0051", 
+        "timestamp": "2017-08-15T04:46:32.505000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "RUE ANDRIOLI", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 52
+        }, 
+        "free_bikes": 10, 
+        "id": "ea9e653a8df600ca0c5006e9f451d0f5", 
+        "latitude": 43.6945877075195, 
+        "longitude": 7.25458097457886, 
+        "name": "Station n\u00b0052", 
+        "timestamp": "2017-08-15T04:46:32.506000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "AVENUE DES FLEURS", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 53
+        }, 
+        "free_bikes": 7, 
+        "id": "58de10184dca7be284cf0d5e043c1cec", 
+        "latitude": 43.6977577209473, 
+        "longitude": 7.25157690048218, 
+        "name": "Station n\u00b0053", 
+        "timestamp": "2017-08-15T04:46:32.507000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "PLACE FRANKLIN", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 54
+        }, 
+        "free_bikes": 12, 
+        "id": "10e18d08e4912b7d647024ae240c2b45", 
+        "latitude": 43.6997146606445, 
+        "longitude": 7.2559118270874, 
+        "name": "Station n\u00b0054", 
+        "timestamp": "2017-08-15T04:46:32.508000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "RUE FREDERIC PASSY", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 55
+        }, 
+        "free_bikes": 2, 
+        "id": "d03a7de826eb0abe71cf355a049fdae5", 
+        "latitude": 43.6994552612305, 
+        "longitude": 7.25216722488403, 
+        "name": "Station n\u00b0055", 
+        "timestamp": "2017-08-15T04:46:32.509000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "AVENUE THIERS", 
+          "slots": 21, 
+          "slots_available": 21, 
+          "status": "OPEN", 
+          "uid": 56
+        }, 
+        "free_bikes": 6, 
+        "id": "32593a9df5b287d46a002d369beceace", 
+        "latitude": 43.7021560668945, 
+        "longitude": 7.25782203674316, 
+        "name": "Station n\u00b0056", 
+        "timestamp": "2017-08-15T04:46:32.510000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "RUE FRANCOIS AUNE", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 57
+        }, 
+        "free_bikes": 1, 
+        "id": "bf63b6845b2fb6cd8a1dc1deeb3bdf8a", 
+        "latitude": 43.7010955810547, 
+        "longitude": 7.25508594512939, 
+        "name": "Station n\u00b0057", 
+        "timestamp": "2017-08-15T04:46:32.511000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "RUE DE FRANCE", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 58
+        }, 
+        "free_bikes": 11, 
+        "id": "cc28a1beac1c294fed95ad536aa191fc", 
+        "latitude": 43.6954765319824, 
+        "longitude": 7.25867986679077, 
+        "name": "Station n\u00b0058", 
+        "timestamp": "2017-08-15T04:46:32.512000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "RUE MEYERBEER", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 59
+        }, 
+        "free_bikes": 7, 
+        "id": "41dc2aa64fd328e68a14224ddc9d5d9f", 
+        "latitude": 43.6983184814453, 
+        "longitude": 7.26023578643799, 
+        "name": "Station n\u00b0059", 
+        "timestamp": "2017-08-15T04:46:32.513000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "RUE ROSSINI", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 60
+        }, 
+        "free_bikes": 6, 
+        "id": "5f176a2d5918fc848a303e2f7e2fcf86", 
+        "latitude": 43.7005996704102, 
+        "longitude": 7.26033020019531, 
+        "name": "Station n\u00b0060", 
+        "timestamp": "2017-08-15T04:46:32.514000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "RUE D'ITALIE", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 61
+        }, 
+        "free_bikes": 6, 
+        "id": "765685d920492d8679f2facae14c49f2", 
+        "latitude": 43.7024765014648, 
+        "longitude": 7.26263904571533, 
+        "name": "Station n\u00b0061", 
+        "timestamp": "2017-08-15T04:46:32.515000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "BOULEVARD VICTOR HUGO", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 62
+        }, 
+        "free_bikes": 0, 
+        "id": "01ffa6b7342fb9ee675f7f2859a4fb2f", 
+        "latitude": 43.6996917724609, 
+        "longitude": 7.26502084732056, 
+        "name": "Station n\u00b0062", 
+        "timestamp": "2017-08-15T04:46:32.516000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "RUE DE SUISSE", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 63
+        }, 
+        "free_bikes": 5, 
+        "id": "10de4551c0e27584eccacc0fdf26ede9", 
+        "latitude": 43.7028701493185, 
+        "longitude": 7.26672632619739, 
+        "name": "Station n\u00b0063", 
+        "timestamp": "2017-08-15T04:46:32.516000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "RUE DU CONGRES", 
+          "slots": 15, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 64
+        }, 
+        "free_bikes": 3, 
+        "id": "4993ad62344d46191fcf30c7e93c89a9", 
+        "latitude": 43.6960601806641, 
+        "longitude": 7.26332521438599, 
+        "name": "Station n\u00b0064", 
+        "timestamp": "2017-08-15T04:46:32.518000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "RUE GUSTAVE DELOYE", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 65
+        }, 
+        "free_bikes": 3, 
+        "id": "bf755c54663e667d93b466727890e141", 
+        "latitude": 43.6991386413574, 
+        "longitude": 7.26997709274292, 
+        "name": "Station n\u00b0065", 
+        "timestamp": "2017-08-15T04:46:32.523000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "ALLEE SANDRO PERTINI", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 66
+        }, 
+        "free_bikes": 3, 
+        "id": "affc59dc61c71218c3b670dbb8878b43", 
+        "latitude": 43.700496673584, 
+        "longitude": 7.27275609970093, 
+        "name": "Station n\u00b0066", 
+        "timestamp": "2017-08-15T04:46:32.524000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "ANGLE ALFRED MORTIER  GIOFFREDO", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 68
+        }, 
+        "free_bikes": 3, 
+        "id": "2313123cc5bde1ee7f2f5bf964cd5a4c", 
+        "latitude": 43.7007446289063, 
+        "longitude": 7.27567386627197, 
+        "name": "Station n\u00b0068", 
+        "timestamp": "2017-08-15T04:46:32.528000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "RUE EDOUARD BERI", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 69
+        }, 
+        "free_bikes": 2, 
+        "id": "dfe85d1b82e39ca72d2bc0a0c08ae0ee", 
+        "latitude": 43.7039031982422, 
+        "longitude": 7.27358198165894, 
+        "name": "Station n\u00b0069", 
+        "timestamp": "2017-08-15T04:46:32.529000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "PLACE GENERAL MARSHALL", 
+          "slots": 6, 
+          "slots_available": 6, 
+          "status": "OPEN", 
+          "uid": 70
+        }, 
+        "free_bikes": 3, 
+        "id": "ba7de5e8209d57016f1951dccbc4ad86", 
+        "latitude": 43.7025451660156, 
+        "longitude": 7.27560997009277, 
+        "name": "Station n\u00b0070", 
+        "timestamp": "2017-08-15T04:46:32.531000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "RUE ASSALIT", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 71
+        }, 
+        "free_bikes": 8, 
+        "id": "e899d5b904c618085f1a5ef304f38a83", 
+        "latitude": 43.7063827514648, 
+        "longitude": 7.26873302459717, 
+        "name": "Station n\u00b0071", 
+        "timestamp": "2017-08-15T04:46:32.532000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "RUE DE LEPANTE", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 72
+        }, 
+        "free_bikes": 8, 
+        "id": "3bd6beb662e6f88f06124d2a49d9e8de", 
+        "latitude": 43.704273223877, 
+        "longitude": 7.27004194259644, 
+        "name": "Station n\u00b0072", 
+        "timestamp": "2017-08-15T04:46:32.534000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "JARDIN AU 52 BD STALINGRAD", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 73
+        }, 
+        "free_bikes": 13, 
+        "id": "d78e7a5b960857b0518c6dbbeb369460", 
+        "latitude": 43.6949005126953, 
+        "longitude": 7.28638982772827, 
+        "name": "Station n\u00b0073", 
+        "timestamp": "2017-08-15T04:46:32.535000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "RUE FODERE", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 74
+        }, 
+        "free_bikes": 7, 
+        "id": "8e721f12340b7cad9b75c4e8adcde7ad", 
+        "latitude": 43.6988830566406, 
+        "longitude": 7.28742218017578, 
+        "name": "Station n\u00b0074", 
+        "timestamp": "2017-08-15T04:46:32.537000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "BOULEVARD STALINGRAD", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 75
+        }, 
+        "free_bikes": 12, 
+        "id": "900cdf07c5023e26da2140e5d0a6096c", 
+        "latitude": 43.6972618103027, 
+        "longitude": 7.28684282302856, 
+        "name": "Station n\u00b0075", 
+        "timestamp": "2017-08-15T04:46:32.538000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "RUE DE FORESTA", 
+          "slots": 15, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 76
+        }, 
+        "free_bikes": 2, 
+        "id": "02f3dbcdfdecfc85c921e6b3d87a21ec", 
+        "latitude": 43.6972465515137, 
+        "longitude": 7.28275489807129, 
+        "name": "Station n\u00b0076", 
+        "timestamp": "2017-08-15T04:46:32.540000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "RUE BONAPARTE", 
+          "slots": 21, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 77
+        }, 
+        "free_bikes": 2, 
+        "id": "e0f64d1cc21f3f230ca73acdfc3ea16f", 
+        "latitude": 43.7005500793457, 
+        "longitude": 7.28563117980957, 
+        "name": "Station n\u00b0077", 
+        "timestamp": "2017-08-15T04:46:32.541000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "RUE BOYER", 
+          "slots": 15, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 78
+        }, 
+        "free_bikes": 5, 
+        "id": "c9abdfa66436e50333a350ee4658189d", 
+        "latitude": 43.7019386291504, 
+        "longitude": 7.28212213516235, 
+        "name": "Station n\u00b0078", 
+        "timestamp": "2017-08-15T04:46:32.543000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "RUE SCALIERO", 
+          "slots": 15, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 79
+        }, 
+        "free_bikes": 6, 
+        "id": "38e9905c67162794c465a53fed65da8a", 
+        "latitude": 43.7022972106934, 
+        "longitude": 7.28634977340698, 
+        "name": "Station n\u00b0079", 
+        "timestamp": "2017-08-15T04:46:32.544000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "BOULEVARD RISSO", 
+          "slots": 12, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 80
+        }, 
+        "free_bikes": 1, 
+        "id": "50539579ba7e9570540f65cd2f56b20a", 
+        "latitude": 43.7047691345215, 
+        "longitude": 7.28169298171997, 
+        "name": "Station n\u00b0080", 
+        "timestamp": "2017-08-15T04:46:32.545000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "RUE BARBERIS", 
+          "slots": 9, 
+          "slots_available": 6, 
+          "status": "OPEN", 
+          "uid": 81
+        }, 
+        "free_bikes": 6, 
+        "id": "d62074ed83d8bb9a1b78aa0d4c1d8e08", 
+        "latitude": 43.7040176391602, 
+        "longitude": 7.28732585906982, 
+        "name": "Station n\u00b0081", 
+        "timestamp": "2017-08-15T04:46:32.547000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "RUE SMOLETT", 
+          "slots": 15, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 82
+        }, 
+        "free_bikes": 9, 
+        "id": "7bb748a0aa5aa6784b16dceced5aa1eb", 
+        "latitude": 43.7022743225098, 
+        "longitude": 7.28869915008545, 
+        "name": "Station n\u00b0082", 
+        "timestamp": "2017-08-15T04:46:32.549000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "RUE GEORGES V ILLE", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 83
+        }, 
+        "free_bikes": 12, 
+        "id": "aaa595d0208a192bafcfa700342939d6", 
+        "latitude": 43.7038078308105, 
+        "longitude": 7.28378486633301, 
+        "name": "Station n\u00b0083", 
+        "timestamp": "2017-08-15T04:46:32.550000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "PLACE GUYNEMER", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 84
+        }, 
+        "free_bikes": 4, 
+        "id": "58a3b33a2fc4f1ac17933400e35b3cef", 
+        "latitude": 43.6939888000488, 
+        "longitude": 7.28220796585083, 
+        "name": "Station n\u00b0084", 
+        "timestamp": "2017-08-15T04:46:32.552000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "RUE DES PONCHETTES", 
+          "slots": 21, 
+          "slots_available": 21, 
+          "status": "OPEN", 
+          "uid": 85
+        }, 
+        "free_bikes": 13, 
+        "id": "e5fe4c211efd8089ae1837c277cb9487", 
+        "latitude": 43.6950358505873, 
+        "longitude": 7.27758300330606, 
+        "name": "Station n\u00b0085", 
+        "timestamp": "2017-08-15T04:46:32.553000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "PLACE TOJA Le long de l'avenue St Sebastien", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 86
+        }, 
+        "free_bikes": 1, 
+        "id": "477fc869525642ff4f9c3526b3659feb", 
+        "latitude": 43.7004890441895, 
+        "longitude": 7.27859306335449, 
+        "name": "Station n\u00b0086", 
+        "timestamp": "2017-08-15T04:46:32.555000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "BOULEVARD JEAN JAURES", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 87
+        }, 
+        "free_bikes": 2, 
+        "id": "1d1e13c0dd18a5454453b6a06dc1eb38", 
+        "latitude": 43.6994552612305, 
+        "longitude": 7.2775411605835, 
+        "name": "Station n\u00b0087", 
+        "timestamp": "2017-08-15T04:46:32.556000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "RUE BERLIOZ", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 88
+        }, 
+        "free_bikes": 1, 
+        "id": "6beeccc07ef7c9a8af08f89610aa8dfd", 
+        "latitude": 43.7025527954102, 
+        "longitude": 7.25958108901978, 
+        "name": "Station n\u00b0088", 
+        "timestamp": "2017-08-15T04:46:32.557000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "PROMENADE DES ANGLAIS (Rue Poincare)", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 90
+        }, 
+        "free_bikes": 0, 
+        "id": "1473faabfe8bd9e800f6602d28868009", 
+        "latitude": 43.6916007995605, 
+        "longitude": 7.24896001815796, 
+        "name": "Station n\u00b0090", 
+        "timestamp": "2017-08-15T04:46:32.560000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Promenade des Anglais n\u00b0400", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 91
+        }, 
+        "free_bikes": 15, 
+        "id": "506b488b21344f1a102eaeca4f91c79c", 
+        "latitude": 43.6689529418945, 
+        "longitude": 7.22091388702393, 
+        "name": "Station n\u00b0091", 
+        "timestamp": "2017-08-15T04:46:32.561000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Route de Grenoble n\u00b048", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 92
+        }, 
+        "free_bikes": 0, 
+        "id": "daaf46743057d36309be69e82676083c", 
+        "latitude": 43.670783996582, 
+        "longitude": 7.21031379699707, 
+        "name": "Station n\u00b0092", 
+        "timestamp": "2017-08-15T04:46:32.563000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Boulevard Paul Montel n\u00b034", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 93
+        }, 
+        "free_bikes": 0, 
+        "id": "a261675981b2949ec3267fa2c76cf76a", 
+        "latitude": 43.673282623291, 
+        "longitude": 7.20898389816284, 
+        "name": "Station n\u00b0093", 
+        "timestamp": "2017-08-15T04:46:32.568000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue de la Californie (face au n\u00b0206)", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 96
+        }, 
+        "free_bikes": 0, 
+        "id": "9bde091545a12b3253938fcb2d2db91a", 
+        "latitude": 43.6814117431641, 
+        "longitude": 7.23155689239502, 
+        "name": "Station n\u00b0096", 
+        "timestamp": "2017-08-15T04:46:32.570000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "AVENUE DES DIABLES BLEUS", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 99
+        }, 
+        "free_bikes": 12, 
+        "id": "cae70e854e1c82a0b719dc2f608e6c6c", 
+        "latitude": 43.7083396911621, 
+        "longitude": 7.28852701187134, 
+        "name": "Station n\u00b0099", 
+        "timestamp": "2017-08-15T04:46:32.571000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Boulevard de la Madeleine", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 101
+        }, 
+        "free_bikes": 7, 
+        "id": "2387a1c4a6b7fce9674698517404a074", 
+        "latitude": 43.6970138549805, 
+        "longitude": 7.2413158416748, 
+        "name": "Station n\u00b0101", 
+        "timestamp": "2017-08-15T04:46:32.579000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Boulevard de la Madeleine", 
+          "slots": 12, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 102
+        }, 
+        "free_bikes": 0, 
+        "id": "8b5de9eb422faaff7611fec0f3b836cd", 
+        "latitude": 43.7079925537109, 
+        "longitude": 7.23053979873657, 
+        "name": "Station n\u00b0102", 
+        "timestamp": "2017-08-15T04:46:32.580000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Boulevard de la Madeleine", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 103
+        }, 
+        "free_bikes": 1, 
+        "id": "7c4c3fe868d4b2e7a9167760ce725220", 
+        "latitude": 43.7049827575684, 
+        "longitude": 7.23298597335815, 
+        "name": "Station n\u00b0103", 
+        "timestamp": "2017-08-15T04:46:32.582000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Boulevard de la Madeleine", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 104
+        }, 
+        "free_bikes": 5, 
+        "id": "6eedf605ce4026f489cbbf1c013dbbaa", 
+        "latitude": 43.7038993835449, 
+        "longitude": 7.23466014862061, 
+        "name": "Station n\u00b0104", 
+        "timestamp": "2017-08-15T04:46:32.583000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Boulevard de la Madeleine", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 105
+        }, 
+        "free_bikes": 2, 
+        "id": "4b9cb44f9fc1907814c459108997e9fd", 
+        "latitude": 43.7004852294922, 
+        "longitude": 7.2373251914978, 
+        "name": "Station n\u00b0105", 
+        "timestamp": "2017-08-15T04:46:32.583000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Boulevard de la Madeleine", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 106
+        }, 
+        "free_bikes": 4, 
+        "id": "e78c7891c7b29aec78b3f3b19e34cb75", 
+        "latitude": 43.6990585327148, 
+        "longitude": 7.23938512802124, 
+        "name": "Station n\u00b0106", 
+        "timestamp": "2017-08-15T04:46:32.584000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "RUE TRACHEL", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 107
+        }, 
+        "free_bikes": 7, 
+        "id": "2dc51737ebfe9d535fdcff19d8b86d4d", 
+        "latitude": 43.7059173583984, 
+        "longitude": 7.25621223449707, 
+        "name": "Station n\u00b0107", 
+        "timestamp": "2017-08-15T04:46:32.585000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "RUE CLEMENT ROASSAL", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 109
+        }, 
+        "free_bikes": 7, 
+        "id": "1342bd71d733699dc7b1386c86b4b1cb", 
+        "latitude": 43.7080993652344, 
+        "longitude": 7.25680017471313, 
+        "name": "Station n\u00b0109", 
+        "timestamp": "2017-08-15T04:46:32.601000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "BOULEVARD JOSEPH GARNIER", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 110
+        }, 
+        "free_bikes": 5, 
+        "id": "d4260c7bb79296d59ee7ffc1238d9ec7", 
+        "latitude": 43.7098426818848, 
+        "longitude": 7.25576210021973, 
+        "name": "Station n\u00b0110", 
+        "timestamp": "2017-08-15T04:46:32.603000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "BOULEVARD JOSEPH GARNIER", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 111
+        }, 
+        "free_bikes": 9, 
+        "id": "10f70fb0994ddbefb5626a350085f6b1", 
+        "latitude": 43.7099685668945, 
+        "longitude": 7.25843286514282, 
+        "name": "Station n\u00b0111", 
+        "timestamp": "2017-08-15T04:46:32.604000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "RUE MICHEL ANGE", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 112
+        }, 
+        "free_bikes": 2, 
+        "id": "d626f23e48e3b59af371cc4c30d3cca2", 
+        "latitude": 43.712215423584, 
+        "longitude": 7.26191997528076, 
+        "name": "Station n\u00b0112", 
+        "timestamp": "2017-08-15T04:46:32.605000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "BOULEVARD AUGUSTE RAYNAUD", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 113
+        }, 
+        "free_bikes": 5, 
+        "id": "8d6f8ae384984a8e2d3d8f8fa2fe1a50", 
+        "latitude": 43.7139854431152, 
+        "longitude": 7.25879812240601, 
+        "name": "Station n\u00b0113", 
+        "timestamp": "2017-08-15T04:46:32.606000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "RUE MOLIERE", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 121
+        }, 
+        "free_bikes": 3, 
+        "id": "65515ad4af684d6d556b6c6681e701b3", 
+        "latitude": 43.7127265930176, 
+        "longitude": 7.25902318954468, 
+        "name": "Station n\u00b0121", 
+        "timestamp": "2017-08-15T04:46:32.606000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "RUE DE DIJON", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 123
+        }, 
+        "free_bikes": 7, 
+        "id": "7e1b06a8c87d09d52be85ae92eae36b8", 
+        "latitude": 43.707145690918, 
+        "longitude": 7.262864112854, 
+        "name": "Station n\u00b0123", 
+        "timestamp": "2017-08-15T04:46:32.607000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "BOULEVARD RAIMBALDI", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 124
+        }, 
+        "free_bikes": 0, 
+        "id": "7b2daed3b5cde2edaff47b0ed4e7d06e", 
+        "latitude": 43.7060585021973, 
+        "longitude": 7.26533222198486, 
+        "name": "Station n\u00b0124", 
+        "timestamp": "2017-08-15T04:46:32.609000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "BOULEVARD JEAN BAPTISTE VERANY", 
+          "slots": 12, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 125
+        }, 
+        "free_bikes": 7, 
+        "id": "a1791418cf5320393f59d450828ad8fa", 
+        "latitude": 43.7104072570801, 
+        "longitude": 7.28405380249023, 
+        "name": "Station n\u00b0125", 
+        "timestamp": "2017-08-15T04:46:32.611000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Place du Palio", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 126
+        }, 
+        "free_bikes": 10, 
+        "id": "c10fe072c6f0083a5881c9f40cc718f6", 
+        "latitude": 43.7118263244629, 
+        "longitude": 7.28524017333984, 
+        "name": "Station n\u00b0126", 
+        "timestamp": "2017-08-15T04:46:32.612000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Rue de Roquebili\u00e9re", 
+          "slots": 27, 
+          "slots_available": 27, 
+          "status": "OPEN", 
+          "uid": 127
+        }, 
+        "free_bikes": 5, 
+        "id": "057d44bc427683e2e9ffb62b57097ff9", 
+        "latitude": 43.7104301452637, 
+        "longitude": 7.28815793991089, 
+        "name": "Station n\u00b0127", 
+        "timestamp": "2017-08-15T04:46:32.613000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Rue Chanoine Albin", 
+          "slots": 12, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 128
+        }, 
+        "free_bikes": 5, 
+        "id": "fbd6f8407d810a8c5c0289ba9a57122b", 
+        "latitude": 43.7125854492188, 
+        "longitude": 7.28901720046997, 
+        "name": "Station n\u00b0128", 
+        "timestamp": "2017-08-15T04:46:32.615000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue S\u00e9m\u00e9ria", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 129
+        }, 
+        "free_bikes": 0, 
+        "id": "e73a8382face7cd275262baed800a77b", 
+        "latitude": 43.7156257629395, 
+        "longitude": 7.28983211517334, 
+        "name": "Station n\u00b0129", 
+        "timestamp": "2017-08-15T04:46:32.617000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Rue Pie Fran\u00e7ois Toesca", 
+          "slots": 9, 
+          "slots_available": 6, 
+          "status": "OPEN", 
+          "uid": 130
+        }, 
+        "free_bikes": 6, 
+        "id": "84801ae0796607f98e162768ca16d3e2", 
+        "latitude": 43.7175941467285, 
+        "longitude": 7.29116201400757, 
+        "name": "Station n\u00b0130", 
+        "timestamp": "2017-08-15T04:46:32.618000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Route de Turin - Parc Autos St Michel", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 131
+        }, 
+        "free_bikes": 0, 
+        "id": "35144fd6b031c431757d66fb972f30a7", 
+        "latitude": 43.7225723266602, 
+        "longitude": 7.2902398109436, 
+        "name": "Station n\u00b0131", 
+        "timestamp": "2017-08-15T04:46:32.622000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue S\u00e9m\u00e9ria", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 132
+        }, 
+        "free_bikes": 0, 
+        "id": "85f2e44ef70e6e93dd2cd31536507d3e", 
+        "latitude": 43.7154388427734, 
+        "longitude": 7.29240703582764, 
+        "name": "Station n\u00b0132", 
+        "timestamp": "2017-08-15T04:46:32.623000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue Milon de V\u00e9raillon", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 133
+        }, 
+        "free_bikes": 0, 
+        "id": "3af65906913294e2329b3901cf6a3263", 
+        "latitude": 43.7168960571289, 
+        "longitude": 7.29408121109009, 
+        "name": "Station n\u00b0133", 
+        "timestamp": "2017-08-15T04:46:32.624000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rue Docteur Figiera", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 134
+        }, 
+        "free_bikes": 6, 
+        "id": "b2e0ea19cb6b5af3f5493f163b5999b2", 
+        "latitude": 43.7103538513184, 
+        "longitude": 7.29313707351685, 
+        "name": "Station n\u00b0134", 
+        "timestamp": "2017-08-15T04:46:32.625000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "RUE DES REGIMENTS NICOIS", 
+          "slots": 12, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 135
+        }, 
+        "free_bikes": 5, 
+        "id": "6e20acea25190fe2cf4479ffa0514273", 
+        "latitude": 43.7076072692871, 
+        "longitude": 7.29281902313232, 
+        "name": "Station n\u00b0135", 
+        "timestamp": "2017-08-15T04:46:32.625000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "AVENUE ROMAIN ROLLAND", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 136
+        }, 
+        "free_bikes": 1, 
+        "id": "c1054afff2d6a977a4ca9fce4e531d1d", 
+        "latitude": 43.7117195129395, 
+        "longitude": 7.26461315155029, 
+        "name": "Station n\u00b0136", 
+        "timestamp": "2017-08-15T04:46:32.629000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "AVENUE MIRABEAU", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 137
+        }, 
+        "free_bikes": 2, 
+        "id": "be600f629035711a00a3ca8d5ff68b92", 
+        "latitude": 43.7090034484863, 
+        "longitude": 7.26653289794922, 
+        "name": "Station n\u00b0137", 
+        "timestamp": "2017-08-15T04:46:32.630000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Place Massena", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 148
+        }, 
+        "free_bikes": 1, 
+        "id": "d09d685c0f4c975b826e646f15b7d8d9", 
+        "latitude": 43.6965329788648, 
+        "longitude": 7.27007322013378, 
+        "name": "Station n\u00b0148", 
+        "timestamp": "2017-08-15T04:46:32.631000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Avenue Mal Lyautey", 
+          "slots": 9, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 149
+        }, 
+        "free_bikes": 0, 
+        "id": "120614c626ba78b5e64a11ab04173771", 
+        "latitude": 43.7194404602051, 
+        "longitude": 7.28330898284912, 
+        "name": "Station n\u00b0149", 
+        "timestamp": "2017-08-15T04:46:32.634000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Avenue Mal Lyautey", 
+          "slots": 12, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 150
+        }, 
+        "free_bikes": 5, 
+        "id": "8b7827d3db86a612c28f415ca75dde65", 
+        "latitude": 43.7169914245605, 
+        "longitude": 7.28163480758667, 
+        "name": "Station n\u00b0150", 
+        "timestamp": "2017-08-15T04:46:32.635000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Avenue Mal Lyautey", 
+          "slots": 9, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 151
+        }, 
+        "free_bikes": 6, 
+        "id": "4f81a083859ab9ade7ae5e832d4427b1", 
+        "latitude": 43.7137927626443, 
+        "longitude": 7.28264737146674, 
+        "name": "Station n\u00b0151", 
+        "timestamp": "2017-08-15T04:46:32.639000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue Mal Lyautey", 
+          "slots": 6, 
+          "slots_available": 3, 
+          "status": "OPEN", 
+          "uid": 152
+        }, 
+        "free_bikes": 3, 
+        "id": "9e6160627393148b1e65b7c43aa1799c", 
+        "latitude": 43.7120140407567, 
+        "longitude": 7.28293561987812, 
+        "name": "Station n\u00b0152", 
+        "timestamp": "2017-08-15T04:46:32.640000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "AVENUE MARECHAL LYAUTEY", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 153
+        }, 
+        "free_bikes": 9, 
+        "id": "c7cc49a0fac585fffc5ab888a65527c9", 
+        "latitude": 43.7109298706055, 
+        "longitude": 7.28294801712036, 
+        "name": "Station n\u00b0153", 
+        "timestamp": "2017-08-15T04:46:32.646000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Route de Turin", 
+          "slots": 12, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 154
+        }, 
+        "free_bikes": 2, 
+        "id": "b4b1454ffd8c83c4f82a1e920e06990e", 
+        "latitude": 43.7162742614746, 
+        "longitude": 7.28405618667603, 
+        "name": "Station n\u00b0154", 
+        "timestamp": "2017-08-15T04:46:32.647000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Boulevard j. Baptiste V\u00e9rany", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 155
+        }, 
+        "free_bikes": 6, 
+        "id": "52d7a9a6c839785cacb2420121d4b8da", 
+        "latitude": 43.7181867359202, 
+        "longitude": 7.28459644422401, 
+        "name": "Station n\u00b0155", 
+        "timestamp": "2017-08-15T04:46:32.648000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "RUE ALFRED BINET", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 161
+        }, 
+        "free_bikes": 4, 
+        "id": "84a10dc9cb7162be42fc63980cb8168d", 
+        "latitude": 43.7086982727051, 
+        "longitude": 7.26017999649048, 
+        "name": "Station n\u00b0161", 
+        "timestamp": "2017-08-15T04:46:32.651000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "RUE RAIBERTI", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 162
+        }, 
+        "free_bikes": 13, 
+        "id": "39f45518ac4ccafeca6e9df17350a3d9", 
+        "latitude": 43.710277557373, 
+        "longitude": 7.26294994354248, 
+        "name": "Station n\u00b0162", 
+        "timestamp": "2017-08-15T04:46:32.652000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "RUE 22EME BATAILLON DE CHASSEURS ALPINS", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 163
+        }, 
+        "free_bikes": 8, 
+        "id": "a4d0d5c6e8dcc610bd8065f2f3f2c9df", 
+        "latitude": 43.7090530395508, 
+        "longitude": 7.2895359992981, 
+        "name": "Station n\u00b0163", 
+        "timestamp": "2017-08-15T04:46:32.653000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Rue Alfred Daumas", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 164
+        }, 
+        "free_bikes": 14, 
+        "id": "55dcb1ebbc8a16fdf29a5df64ed830ba", 
+        "latitude": 43.712028503418, 
+        "longitude": 7.29168176651001, 
+        "name": "Station n\u00b0164", 
+        "timestamp": "2017-08-15T04:46:32.654000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Boulevard j.baptiste V\u00e9rany", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 165
+        }, 
+        "free_bikes": 4, 
+        "id": "b23467848698b9bcd5ddd18a057a809d", 
+        "latitude": 43.7148163890051, 
+        "longitude": 7.28277611749945, 
+        "name": "Station n\u00b0165", 
+        "timestamp": "2017-08-15T04:46:32.659000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "AVENUE DOYEN LEPINE", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 167
+        }, 
+        "free_bikes": 15, 
+        "id": "08464e01aea2700f70b8db8fcb4d31b3", 
+        "latitude": 43.7158699035645, 
+        "longitude": 7.26157712936401, 
+        "name": "Station n\u00b0167", 
+        "timestamp": "2017-08-15T04:46:32.660000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "BOULEVARD DE CESSOLE", 
+          "slots": 15, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 168
+        }, 
+        "free_bikes": 8, 
+        "id": "46edd7d2e76e685357622750757b5fd3", 
+        "latitude": 43.7146987915039, 
+        "longitude": 7.2540397644043, 
+        "name": "Station n\u00b0168", 
+        "timestamp": "2017-08-15T04:46:32.661000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Rue prof. Delvalle", 
+          "slots": 21, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 171
+        }, 
+        "free_bikes": 3, 
+        "id": "f1a9bdd622d71a870141199287a79cbc", 
+        "latitude": 43.7231636047363, 
+        "longitude": 7.28444576263428, 
+        "name": "Station n\u00b0171", 
+        "timestamp": "2017-08-15T04:46:32.662000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "AVENUE VALROSE", 
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 172
+        }, 
+        "free_bikes": 4, 
+        "id": "bfc067315495cf54783431698dbe3e0b", 
+        "latitude": 43.7159004211426, 
+        "longitude": 7.26555681228638, 
+        "name": "Station n\u00b0172", 
+        "timestamp": "2017-08-15T04:46:32.663000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "RUE REINE JEANNE", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 173
+        }, 
+        "free_bikes": 3, 
+        "id": "fdf0b77d25e35c455d714282445e6374", 
+        "latitude": 43.7056312561035, 
+        "longitude": 7.25959205627441, 
+        "name": "Station n\u00b0173", 
+        "timestamp": "2017-08-15T04:46:32.665000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "PROMENADE DES ANGLAIS(face hotel westminster)", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 174
+        }, 
+        "free_bikes": 3, 
+        "id": "a20a44b6df9e15de8aa49c8ef509f1a3", 
+        "latitude": 43.6944007873535, 
+        "longitude": 7.26072978973389, 
+        "name": "Station n\u00b0174", 
+        "timestamp": "2017-08-15T04:46:32.666000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Avenue Gal de Gaulle", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 201
+        }, 
+        "free_bikes": 11, 
+        "id": "73ce7796b0839f660302b6ea4bb73465", 
+        "latitude": 43.6624526977539, 
+        "longitude": 7.19426012039185, 
+        "name": "Station n\u00b0201", 
+        "timestamp": "2017-08-15T04:46:32.668000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Angle Avenue Bellissime", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 202
+        }, 
+        "free_bikes": 4, 
+        "id": "47648fe4b4531b338cda02e70dc2f7c1", 
+        "latitude": 43.6635248707393, 
+        "longitude": 7.18520495918347, 
+        "name": "Station n\u00b0202", 
+        "timestamp": "2017-08-15T04:46:32.670000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Avenue Gal de Gaulle", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 203
+        }, 
+        "free_bikes": 10, 
+        "id": "d72f060600babc27359ba89e43867343", 
+        "latitude": 43.6692685290817, 
+        "longitude": 7.19179201099905, 
+        "name": "Station n\u00b0203", 
+        "timestamp": "2017-08-15T04:46:32.672000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Square B\u00e9n\u00e8s", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 204
+        }, 
+        "free_bikes": 14, 
+        "id": "10098d3c3c6375532e9246a349c09bfc", 
+        "latitude": 43.6711775990888, 
+        "longitude": 7.19033289060462, 
+        "name": "Station n\u00b0204", 
+        "timestamp": "2017-08-15T04:46:32.673000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Place Jean Medecin", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 205
+        }, 
+        "free_bikes": 6, 
+        "id": "2a60c9e0106955ff668c6f04a7a681f1", 
+        "latitude": 43.6739234924316, 
+        "longitude": 7.18999004364014, 
+        "name": "Station n\u00b0205", 
+        "timestamp": "2017-08-15T04:46:32.681000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Avenue du 11 Novembre", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 206
+        }, 
+        "free_bikes": 10, 
+        "id": "a51dc72cf6b273d6f8885c3282b86271", 
+        "latitude": 43.6740075932274, 
+        "longitude": 7.19124877461581, 
+        "name": "Station n\u00b0206", 
+        "timestamp": "2017-08-15T04:46:32.684000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Avenue Pierre Moschetti", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 207
+        }, 
+        "free_bikes": 8, 
+        "id": "f20460791558d498846517aa6ed1bef5", 
+        "latitude": 43.6664428710938, 
+        "longitude": 7.18702793121338, 
+        "name": "Station n\u00b0207", 
+        "timestamp": "2017-08-15T04:46:32.685000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Avenue du Ponant", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 208
+        }, 
+        "free_bikes": 2, 
+        "id": "5eb92aafb199174865ecebf57d6c0e46", 
+        "latitude": 43.6579055786133, 
+        "longitude": 7.18614912033081, 
+        "name": "Station n\u00b0208", 
+        "timestamp": "2017-08-15T04:46:32.686000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "RD 6098", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 209
+        }, 
+        "free_bikes": 14, 
+        "id": "9bd8f7d880e172f5ff8a822a48968821", 
+        "latitude": 43.6592864990234, 
+        "longitude": 7.19080495834351, 
+        "name": "Station n\u00b0209", 
+        "timestamp": "2017-08-15T04:46:32.688000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Avenue de Verdun", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 210
+        }, 
+        "free_bikes": 2, 
+        "id": "04b104222950f4c0be832cb51d79075f", 
+        "latitude": 43.6583862304688, 
+        "longitude": 7.19524717330933, 
+        "name": "Station n\u00b0210", 
+        "timestamp": "2017-08-15T04:46:32.689000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Avenue Donade\u00ee", 
+          "slots": 9, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 211
+        }, 
+        "free_bikes": 9, 
+        "id": "fab840f04d41921fcaf6b33b2eb43f5b", 
+        "latitude": 43.6600151062012, 
+        "longitude": 7.19496822357178, 
+        "name": "Station n\u00b0211", 
+        "timestamp": "2017-08-15T04:46:32.690000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 212
+        }, 
+        "free_bikes": 8, 
+        "id": "109de3f72480f486dd4f381e780e121b", 
+        "latitude": 43.6786668139929, 
+        "longitude": 7.19049140843708, 
+        "name": "Station n\u00b0212", 
+        "timestamp": "2017-08-15T04:46:32.691000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Boulevard de la Plage", 
+          "slots": 21, 
+          "slots_available": 21, 
+          "status": "OPEN", 
+          "uid": 301
+        }, 
+        "free_bikes": 9, 
+        "id": "b0b95177537ddaf7ad23c814838f8dfa", 
+        "latitude": 43.6562118530273, 
+        "longitude": 7.17780590057373, 
+        "name": "Station n\u00b0301", 
+        "timestamp": "2017-08-15T04:46:32.692000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Boulevard de la Plage", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 304
+        }, 
+        "free_bikes": 10, 
+        "id": "5d719be55b88941a2e76d5b613e2b52b", 
+        "latitude": 43.657642364502, 
+        "longitude": 7.16839504241943, 
+        "name": "Station n\u00b0304", 
+        "timestamp": "2017-08-15T04:46:32.693000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 305
+        }, 
+        "free_bikes": 8, 
+        "id": "ec4581f5d104f3fe0235119c66f0b62c", 
+        "latitude": 43.6572952270508, 
+        "longitude": 7.16413688659668, 
+        "name": "Station n\u00b0305", 
+        "timestamp": "2017-08-15T04:46:32.695000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Chemin de la Serre", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 308
+        }, 
+        "free_bikes": 6, 
+        "id": "4b4cec94fc5338d6017a50785db7a89d", 
+        "latitude": 43.6545181274414, 
+        "longitude": 7.15780305862427, 
+        "name": "Station n\u00b0308", 
+        "timestamp": "2017-08-15T04:46:32.696000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Boulevard de la Plage", 
+          "slots": 24, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 310
+        }, 
+        "free_bikes": 16, 
+        "id": "c202307288f3bbee1bb6a6b13f295e4b", 
+        "latitude": 43.6507301330566, 
+        "longitude": 7.15147304534912, 
+        "name": "Station n\u00b0310", 
+        "timestamp": "2017-08-15T04:46:32.702000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Boulevard de la Plage", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 311
+        }, 
+        "free_bikes": 14, 
+        "id": "ec8688928a2051a33c52af7dee723fd3", 
+        "latitude": 43.6436996459961, 
+        "longitude": 7.14443683624268, 
+        "name": "Station n\u00b0311", 
+        "timestamp": "2017-08-15T04:46:32.704000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Avenue de Nice", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 313
+        }, 
+        "free_bikes": 1, 
+        "id": "1dabb7b35e536c5e5161fb790c011cd7", 
+        "latitude": 43.6562604034639, 
+        "longitude": 7.15555214934284, 
+        "name": "Station n\u00b0313", 
+        "timestamp": "2017-08-15T04:46:32.705000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Avenue de Nice", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 314
+        }, 
+        "free_bikes": 2, 
+        "id": "da4217d4b01f275c87f18131d9b10774", 
+        "latitude": 43.6578712463379, 
+        "longitude": 7.16028785705566, 
+        "name": "Station n\u00b0314", 
+        "timestamp": "2017-08-15T04:46:32.709000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Passage du Lido", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 317
+        }, 
+        "free_bikes": 5, 
+        "id": "c653d6e96b52c9a37c4a62eb51431dd1", 
+        "latitude": 43.6586799621582, 
+        "longitude": 7.16975498199463, 
+        "name": "Station n\u00b0317", 
+        "timestamp": "2017-08-15T04:46:32.719000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Rue Bir-Hakeim ", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 320
+        }, 
+        "free_bikes": 4, 
+        "id": "7f84114d9b8988e829d95ab90d31dc59", 
+        "latitude": 43.6574363708496, 
+        "longitude": 7.15160179138184, 
+        "name": "Station n\u00b0320", 
+        "timestamp": "2017-08-15T04:46:32.720000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "slots": 21, 
+          "slots_available": 21, 
+          "status": "OPEN", 
+          "uid": 321
+        }, 
+        "free_bikes": 2, 
+        "id": "b2c685ef056eaa28ce293b6786f6d844", 
+        "latitude": 43.6573034470607, 
+        "longitude": 7.14788156754366, 
+        "name": "Station n\u00b0321", 
+        "timestamp": "2017-08-15T04:46:32.721000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Boulevard Mal Juin", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 323
+        }, 
+        "free_bikes": 6, 
+        "id": "c4a884e6e4ac18cf5f0df2adb2601049", 
+        "latitude": 43.6612396240234, 
+        "longitude": 7.15087223052979, 
+        "name": "Station n\u00b0323", 
+        "timestamp": "2017-08-15T04:46:32.722000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Place Gabriel P\u00e9ri", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 326
+        }, 
+        "free_bikes": 4, 
+        "id": "44b64355f2d07874a6840e92a2eafcaa", 
+        "latitude": 43.6631257231412, 
+        "longitude": 7.14829516437021, 
+        "name": "Station n\u00b0326", 
+        "timestamp": "2017-08-15T04:46:32.725000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Espace Fernand Sastre - Gare Routi\u00e8re", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 327
+        }, 
+        "free_bikes": 6, 
+        "id": "8b8721d168be4bd0793ef47ced34a3e1", 
+        "latitude": 43.6648487214028, 
+        "longitude": 7.15115439918009, 
+        "name": "Station n\u00b0327", 
+        "timestamp": "2017-08-15T04:46:32.726000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rue Lois N\u00e9gro", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 331
+        }, 
+        "free_bikes": 5, 
+        "id": "7a515c434744dcac87c11d05eb238cbd", 
+        "latitude": 43.6635564773428, 
+        "longitude": 7.15239787154133, 
+        "name": "Station n\u00b0331", 
+        "timestamp": "2017-08-15T04:46:32.728000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Chemin du val Fleuri", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 332
+        }, 
+        "free_bikes": 1, 
+        "id": "129c01e8972d0b4b9f116035f81d42a3", 
+        "latitude": 43.664794921875, 
+        "longitude": 7.17178916931152, 
+        "name": "Station n\u00b0332", 
+        "timestamp": "2017-08-15T04:46:32.729000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Square Boyer", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 337
+        }, 
+        "free_bikes": 6, 
+        "id": "0c6660b9dfd99d73ffffdf6024eddcf0", 
+        "latitude": 43.7167221354171, 
+        "longitude": 7.25689190624507, 
+        "name": "Station n\u00b0097", 
+        "timestamp": "2017-08-15T04:46:32.731000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 339
+        }, 
+        "free_bikes": 12, 
+        "id": "6323eede98fba6ea8e77a4402bbfecec", 
+        "latitude": 43.6999614945129, 
+        "longitude": 7.28331293910742, 
+        "name": "Station n\u00b0098", 
+        "timestamp": "2017-08-15T04:46:32.734000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Bd Comte de Falicon - Station de tramway", 
+          "slots": 21, 
+          "slots_available": 21, 
+          "status": "OPEN", 
+          "uid": 347
+        }, 
+        "free_bikes": 13, 
+        "id": "af157e21c08f2c4e47131f66178c4351", 
+        "latitude": 43.7259366003213, 
+        "longitude": 7.25554151460528, 
+        "name": "Station n\u00b0122", 
+        "timestamp": "2017-08-15T04:46:32.747000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "BOULEVARD TZAREWITCH", 
+          "slots": 21, 
+          "slots_available": 21, 
+          "status": "OPEN", 
+          "uid": 108
+        }, 
+        "free_bikes": 7, 
+        "id": "dc7eead238ee40c303d6abe197f199f4", 
+        "latitude": 43.7027015686035, 
+        "longitude": 7.25511980056763, 
+        "name": "Station n\u00b0108", 
+        "timestamp": "2017-08-15T04:46:32.590000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "AVENUE JOSEPH REVELLI", 
+          "slots": 33, 
+          "slots_available": 33, 
+          "status": "OPEN", 
+          "uid": 100
+        }, 
+        "free_bikes": 30, 
+        "id": "b034dca665b9ec3d98163d5d751e319d", 
+        "latitude": 43.693374005886, 
+        "longitude": 7.24416098557413, 
+        "name": "Station n\u00b0100", 
+        "timestamp": "2017-08-15T04:46:32.574000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "PROMENADE DES ANGLAIS (Gambetta)", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 89
+        }, 
+        "free_bikes": 0, 
+        "id": "a7a40727687e36c173c30286861b08ea", 
+        "latitude": 43.6936416625977, 
+        "longitude": 7.25638389587402, 
+        "name": "Station n\u00b0089", 
+        "timestamp": "2017-08-15T04:46:32.558000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 343
+        }, 
+        "free_bikes": 3, 
+        "id": "bf6963b80a97cfae967af33083aa44d7", 
+        "latitude": 43.6945936863815, 
+        "longitude": 7.26625308394432, 
+        "name": "Station n\u00b0114", 
+        "timestamp": "2017-08-15T04:46:32.739000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 24, 
+          "slots_available": 24, 
+          "status": "OPEN", 
+          "uid": 344
+        }, 
+        "free_bikes": 18, 
+        "id": "9b6f052a9ece86f751287987545bf3e2", 
+        "latitude": 43.6695634300402, 
+        "longitude": 7.21459474414587, 
+        "name": "Station n\u00b0409", 
+        "timestamp": "2017-08-15T04:46:32.740000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "RUE EMMANUEL PHILIBERT", 
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 28
+        }, 
+        "free_bikes": 0, 
+        "id": "dbf8999a9727ab6cbb34169bc5f6025b", 
+        "latitude": 43.6984939575195, 
+        "longitude": 7.28320598602295, 
+        "name": "Station n\u00b0028", 
+        "timestamp": "2017-08-15T04:46:32.484000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 341
+        }, 
+        "free_bikes": 2, 
+        "id": "fa91fb86f2b566127ada0a03794e2829", 
+        "latitude": 43.6637582710407, 
+        "longitude": 7.13012628257275, 
+        "name": "Station n\u00b0302", 
+        "timestamp": "2017-08-15T04:46:32.735000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 342
+        }, 
+        "free_bikes": 0, 
+        "id": "06df0b0cf3db25fbaf230e051fac8f2f", 
+        "latitude": 43.6599978116416, 
+        "longitude": 7.13705224916339, 
+        "name": "Station n\u00b0303", 
+        "timestamp": "2017-08-15T04:46:32.738000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Place Alexandre M\u00e9decin - Nice", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 345
+        }, 
+        "free_bikes": 2, 
+        "id": "6a52ad92951e020a87870f8b737aaffb", 
+        "latitude": 43.7200830701721, 
+        "longitude": 7.26253415923566, 
+        "name": "Station n\u00b0115", 
+        "timestamp": "2017-08-15T04:46:32.742000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Angle rue Gimelle / Bd de Cessole", 
+          "slots": 12, 
+          "slots_available": 12, 
+          "status": "OPEN", 
+          "uid": 346
+        }, 
+        "free_bikes": 9, 
+        "id": "28296e0fdeb09f33089246f33a952e30", 
+        "latitude": 43.7220714856095, 
+        "longitude": 7.25095476955175, 
+        "name": "Station n\u00b0118", 
+        "timestamp": "2017-08-15T04:46:32.744000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Boulevard Paul Montel  n\u00b074", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 9, 
+        "id": "b2a8273090433478660376a5fca6e336", 
+        "latitude": 43.6790665127451, 
+        "longitude": 7.20450980588794, 
+        "name": "Station n\u00b0003", 
+        "timestamp": "2017-08-15T04:46:32.458000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 0, 
+          "slots_available": 0, 
+          "status": "CLOSED", 
+          "uid": 348
+        }, 
+        "free_bikes": 0, 
+        "id": "e44cee12f3bcebbd1902de44f7ae06e6", 
+        "latitude": 43.6902494436338, 
+        "longitude": 7.24518232047558, 
+        "name": "Station n\u00b0443", 
+        "timestamp": "2017-08-15T04:46:32.750000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Promenade des anglais - A hauteur de Lenval", 
+          "slots": 24, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 349
+        }, 
+        "free_bikes": 8, 
+        "id": "b09f279cd512df376cf7895915fb8d3c", 
+        "latitude": 43.6883564965809, 
+        "longitude": 7.24138431251049, 
+        "name": "Station n\u00b0414", 
+        "timestamp": "2017-08-15T04:46:32.752000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Promenade des Anglais \u2013 Trottoir Sud, au droit du Laboratoire\r\nde l\u2019Environnement", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 351
+        }, 
+        "free_bikes": 15, 
+        "id": "cd3c8ac815391ab95a98bad6d51ffd22", 
+        "latitude": 43.6750748375776, 
+        "longitude": 7.22793630324304, 
+        "name": "Station n\u00b0440", 
+        "timestamp": "2017-08-15T04:46:32.763000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Avenue Gloria \u00e0 Nice", 
+          "slots": 27, 
+          "slots_available": 27, 
+          "status": "OPEN", 
+          "uid": 352
+        }, 
+        "free_bikes": 25, 
+        "id": "3621f14a5d1d36610f91be3fe2cbfe4c", 
+        "latitude": 43.6915294764294, 
+        "longitude": 7.2437771782279, 
+        "name": "Station n\u00b0415", 
+        "timestamp": "2017-08-15T04:46:32.764000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Av Simone Veil", 
+          "slots": 15, 
+          "slots_available": 15, 
+          "status": "OPEN", 
+          "uid": 338
+        }, 
+        "free_bikes": 2, 
+        "id": "9fbc53ca2c6df4bcfe810ee6d94e2e43", 
+        "latitude": 43.6834063008551, 
+        "longitude": 7.20271549187601, 
+        "name": "Station n\u00b0001", 
+        "timestamp": "2017-08-15T04:46:32.733000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Bd Gorbella", 
+          "slots": 9, 
+          "slots_available": 9, 
+          "status": "OPEN", 
+          "uid": 353
+        }, 
+        "free_bikes": 8, 
+        "id": "6f11222ba81d9fbf0547691f683be8ce", 
+        "latitude": 43.7188345750058, 
+        "longitude": 7.25687577640201, 
+        "name": "Station n\u00b0116", 
+        "timestamp": "2017-08-15T04:46:32.766000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Av. Cyrille Besset", 
+          "slots": 18, 
+          "slots_available": 18, 
+          "status": "OPEN", 
+          "uid": 354
+        }, 
+        "free_bikes": 1, 
+        "id": "97c990d89c734c18b0aa284d90877993", 
+        "latitude": 43.7200801513606, 
+        "longitude": 7.25116309782607, 
+        "name": "Station n\u00b0117", 
+        "timestamp": "2017-08-15T04:46:32.766000Z"
+      }
+    ]
+  }
+}

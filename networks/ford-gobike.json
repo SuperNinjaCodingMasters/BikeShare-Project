@@ -1,0 +1,3075 @@
+{
+  "network": {
+    "company": [
+      "Motivate International, Inc."
+    ], 
+    "gbfs_href": "https://gbfs.fordgobike.com/gbfs/gbfs.json", 
+    "href": "/v2/networks/ford-gobike", 
+    "id": "ford-gobike", 
+    "location": {
+      "city": "San Francisco Bay Area, CA", 
+      "country": "US", 
+      "latitude": 37.7141454, 
+      "longitude": -122.25
+    }, 
+    "name": "Ford GoBike", 
+    "stations": [
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502761238, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "56"
+        }, 
+        "free_bikes": 3, 
+        "id": "0d1cc38593e42fd252223058f5e2a1e3", 
+        "latitude": 37.77341396997343, 
+        "longitude": -122.42731690406801, 
+        "name": "Koshland Park", 
+        "timestamp": "2017-08-15T04:45:53.989000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502766667, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "7"
+        }, 
+        "free_bikes": 12, 
+        "id": "3f5c0437929a0f6dbc32f116850a4196", 
+        "latitude": 37.8045623549303, 
+        "longitude": -122.27173805236816, 
+        "name": "Frank H Ogawa Plaza", 
+        "timestamp": "2017-08-15T04:45:54.015000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768192, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "5"
+        }, 
+        "free_bikes": 16, 
+        "id": "3df46ea4730fd2f6a4f92007c9369299", 
+        "latitude": 37.783899357084934, 
+        "longitude": -122.40844488143921, 
+        "name": "Powell St BART Station (Market St at 5th St)", 
+        "timestamp": "2017-08-15T04:45:54.110000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771166, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "193"
+        }, 
+        "free_bikes": 14, 
+        "id": "315bd655b7cf06f4cf2e3c78879043e4", 
+        "latitude": 37.8127441, 
+        "longitude": -122.2472152, 
+        "name": "Grand Ave at Santa Clara Ave", 
+        "timestamp": "2017-08-15T04:45:54.002000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770876, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "43"
+        }, 
+        "free_bikes": 7, 
+        "id": "7a31faa7a4b712a08ff9616353d7a5b9", 
+        "latitude": 37.7787677, 
+        "longitude": -122.4159292, 
+        "name": "San Francisco Public Library (Grove St at Hyde St)", 
+        "timestamp": "2017-08-15T04:45:54.106000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502763190, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "102"
+        }, 
+        "free_bikes": 13, 
+        "id": "10976294eabc12561237ecf17c478bb4", 
+        "latitude": 37.7668828, 
+        "longitude": -122.3995794, 
+        "name": "Irwin St at 8th St", 
+        "timestamp": "2017-08-15T04:45:54.028000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502749394, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "214"
+        }, 
+        "free_bikes": 9, 
+        "id": "747ad69590452aaad4ca15ffb1c70944", 
+        "latitude": 37.8233214, 
+        "longitude": -122.2757325, 
+        "name": "Market St at Brockhurst St", 
+        "timestamp": "2017-08-15T04:45:53.951000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769874, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "211"
+        }, 
+        "free_bikes": 13, 
+        "id": "8ecedfe82a3e35413e8a45da10ace67b", 
+        "latitude": 37.8277573, 
+        "longitude": -122.2567156, 
+        "name": "Broadway at 40th St", 
+        "timestamp": "2017-08-15T04:45:53.955000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771384, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "25"
+        }, 
+        "free_bikes": 6, 
+        "id": "eb2fdcf597de193ace5d5821391e3f93", 
+        "latitude": 37.786978, 
+        "longitude": -122.398108, 
+        "name": "Howard St at 2nd St", 
+        "timestamp": "2017-08-15T04:45:53.964000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769593, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "20"
+        }, 
+        "free_bikes": 6, 
+        "id": "a536696bbab818af37342ac705d5b467", 
+        "latitude": 37.7913, 
+        "longitude": -122.399051, 
+        "name": "Mechanics Monument Plaza (Market St at Bush St)", 
+        "timestamp": "2017-08-15T04:45:53.967000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771955, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "21"
+        }, 
+        "free_bikes": 4, 
+        "id": "7c6f9109deafd3ed00e5a6296b711fa7", 
+        "latitude": 37.7896254, 
+        "longitude": -122.400811, 
+        "name": "Montgomery St BART Station (Market St at 2nd St)", 
+        "timestamp": "2017-08-15T04:45:53.968000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768212, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "22"
+        }, 
+        "free_bikes": 7, 
+        "id": "3f186805ee4d05113537d886f7380780", 
+        "latitude": 37.789756, 
+        "longitude": -122.394643, 
+        "name": "Howard St at Beale St", 
+        "timestamp": "2017-08-15T04:45:53.969000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502766715, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "23"
+        }, 
+        "free_bikes": 3, 
+        "id": "0512841995dd7840bd165c2297b37672", 
+        "latitude": 37.791464, 
+        "longitude": -122.391034, 
+        "name": "The Embarcadero at Steuart St", 
+        "timestamp": "2017-08-15T04:45:53.969000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770566, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "28"
+        }, 
+        "free_bikes": 6, 
+        "id": "90121a01efdc07c2f3964d1006ba3fc7", 
+        "latitude": 37.78716801474664, 
+        "longitude": -122.38809792330358, 
+        "name": "The Embarcadero at Bryant St", 
+        "timestamp": "2017-08-15T04:45:53.971000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769271, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "4"
+        }, 
+        "free_bikes": 13, 
+        "id": "92719f824a42be010f952af3081bbade", 
+        "latitude": 37.78588062694133, 
+        "longitude": -122.4089150084319, 
+        "name": "Cyril Magnin St at Ellis St", 
+        "timestamp": "2017-08-15T04:45:53.973000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712014, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "281"
+        }, 
+        "free_bikes": 10, 
+        "id": "7c2a6fcca214cf03806ad50164de0f0e", 
+        "latitude": 37.3383952, 
+        "longitude": -121.8807965, 
+        "name": "9th St at San Fernando", 
+        "timestamp": "2017-08-15T04:45:53.974000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770161, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "8"
+        }, 
+        "free_bikes": 2, 
+        "id": "e8ac145be6193651c7de9caf2bece382", 
+        "latitude": 37.799953, 
+        "longitude": -122.398525, 
+        "name": "The Embarcadero at Vallejo St", 
+        "timestamp": "2017-08-15T04:45:53.976000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502759133, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "287"
+        }, 
+        "free_bikes": 8, 
+        "id": "03ec647221434cdad0abf4907706e949", 
+        "latitude": 37.32673, 
+        "longitude": -121.8892731, 
+        "name": "Almaden Blvd at Balbach St", 
+        "timestamp": "2017-08-15T04:45:53.978000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502760000, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "286"
+        }, 
+        "free_bikes": 10, 
+        "id": "0ceed296dc7ef21bc6dc3999e23db576", 
+        "latitude": 37.3364659, 
+        "longitude": -121.8766132, 
+        "name": "San Carlos St at 11th St", 
+        "timestamp": "2017-08-15T04:45:53.979000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502772333, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "122"
+        }, 
+        "free_bikes": 7, 
+        "id": "a0496399215776edf93495c745bc73c9", 
+        "latitude": 37.760299, 
+        "longitude": -122.418892, 
+        "name": "19th St at Mission St", 
+        "timestamp": "2017-08-15T04:45:53.982000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769655, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "59"
+        }, 
+        "free_bikes": 5, 
+        "id": "e4057435753640b4855f792619c151dd", 
+        "latitude": 37.774814, 
+        "longitude": -122.418954, 
+        "name": "S Van Ness Ave at Market St", 
+        "timestamp": "2017-08-15T04:45:53.987000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771513, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "58"
+        }, 
+        "free_bikes": 4, 
+        "id": "780cbaed92260f59e763de62b4cebe1f", 
+        "latitude": 37.776619, 
+        "longitude": -122.417385, 
+        "name": "Market St at 10th St", 
+        "timestamp": "2017-08-15T04:45:53.988000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770616, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "50"
+        }, 
+        "free_bikes": 18, 
+        "id": "76f3d32a941219346e34c87820139711", 
+        "latitude": 37.780526, 
+        "longitude": -122.390288, 
+        "name": "2nd St at Townsend St", 
+        "timestamp": "2017-08-15T04:45:53.990000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502763562, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "312"
+        }, 
+        "free_bikes": 15, 
+        "id": "0cc1f03c89a4048d7b2df21d498bde14", 
+        "latitude": 37.329732, 
+        "longitude": -121.901782, 
+        "name": "San Jose Diridon Station", 
+        "timestamp": "2017-08-15T04:45:53.991000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770896, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "201"
+        }, 
+        "free_bikes": 12, 
+        "id": "dbd21ac9ae9f5cd34c4980b4f103b550", 
+        "latitude": 37.7976728, 
+        "longitude": -122.2629973, 
+        "name": "10th St at Fallon St", 
+        "timestamp": "2017-08-15T04:45:53.993000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502749540, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "318"
+        }, 
+        "free_bikes": 7, 
+        "id": "e4484b938889737f1687d11b6ff02341", 
+        "latitude": 37.330698, 
+        "longitude": -121.888979, 
+        "name": "San Carlos St at Market St", 
+        "timestamp": "2017-08-15T04:45:53.994000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502748136, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "199"
+        }, 
+        "free_bikes": 14, 
+        "id": "4bfc8990dd7d7b8de7686828816dfc04", 
+        "latitude": 37.80583, 
+        "longitude": -122.2673076, 
+        "name": "Webster St at 17th St", 
+        "timestamp": "2017-08-15T04:45:53.995000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769468, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "179"
+        }, 
+        "free_bikes": 13, 
+        "id": "e9d82f4d2f1525cc654976f3fdf7f45a", 
+        "latitude": 37.816073115011406, 
+        "longitude": -122.26788640022278, 
+        "name": "Telegraph Ave at 27th St", 
+        "timestamp": "2017-08-15T04:45:53.996000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771626, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "195"
+        }, 
+        "free_bikes": 16, 
+        "id": "d030365db7e396de64147261e783a062", 
+        "latitude": 37.81231409135146, 
+        "longitude": -122.26077854633331, 
+        "name": "Bay Pl at Vernon St", 
+        "timestamp": "2017-08-15T04:45:53.997000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770501, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "178"
+        }, 
+        "free_bikes": 7, 
+        "id": "1b0c18aa2600cb61c4dc8594a02f4417", 
+        "latitude": 37.8193814, 
+        "longitude": -122.2619284, 
+        "name": "Broadway at 30th St", 
+        "timestamp": "2017-08-15T04:45:54Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502732401, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "191"
+        }, 
+        "free_bikes": 5, 
+        "id": "8870d1c76fa018d1758fad83f2be5237", 
+        "latitude": 37.8305452, 
+        "longitude": -122.2739367, 
+        "name": "Market St at 40th St", 
+        "timestamp": "2017-08-15T04:45:54.001000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712136, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "192"
+        }, 
+        "free_bikes": 8, 
+        "id": "e9a30932f4c854c478a3a40a4dbcface", 
+        "latitude": 37.8266962, 
+        "longitude": -122.2717955, 
+        "name": "37th St at West St", 
+        "timestamp": "2017-08-15T04:45:54.003000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770242, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "112"
+        }, 
+        "free_bikes": 8, 
+        "id": "66d26936d43ac2f677f522354e3ef5a5", 
+        "latitude": 37.7638471, 
+        "longitude": -122.4130036, 
+        "name": "Harrison St at 17th St", 
+        "timestamp": "2017-08-15T04:45:54.008000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768486, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "81"
+        }, 
+        "free_bikes": 19, 
+        "id": "1f42090bf33844e8a0c7c788ac26c867", 
+        "latitude": 37.77588, 
+        "longitude": -122.39317, 
+        "name": "Berry St at 4th St", 
+        "timestamp": "2017-08-15T04:45:54.008000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502766676, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "86"
+        }, 
+        "free_bikes": 7, 
+        "id": "8383114e19ade35a8ef2c48942117cc3", 
+        "latitude": 37.7693053, 
+        "longitude": -122.4268256, 
+        "name": "Market St at Dolores St", 
+        "timestamp": "2017-08-15T04:45:54.009000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768865, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "84"
+        }, 
+        "free_bikes": 9, 
+        "id": "410dd83d0d8ede1eb042192ec1e56d77", 
+        "latitude": 37.7692005, 
+        "longitude": -122.4338119, 
+        "name": "Duboce Park", 
+        "timestamp": "2017-08-15T04:45:54.010000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770220, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "85"
+        }, 
+        "free_bikes": 4, 
+        "id": "702efcf347cec807f42b0c4c8c94c313", 
+        "latitude": 37.7700831, 
+        "longitude": -122.4291557, 
+        "name": "Church St at Duboce Ave", 
+        "timestamp": "2017-08-15T04:45:54.011000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502764294, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "304"
+        }, 
+        "free_bikes": 16, 
+        "id": "2534db0ca6039df7c84cf17d302309b5", 
+        "latitude": 37.3488763, 
+        "longitude": -121.8945863, 
+        "name": "Jackson St at 5th St", 
+        "timestamp": "2017-08-15T04:45:54.012000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771127, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "3"
+        }, 
+        "free_bikes": 19, 
+        "id": "e8fb930966a1c70ad954431f47ff8bc8", 
+        "latitude": 37.78637526861584, 
+        "longitude": -122.40490436553954, 
+        "name": "Powell St BART Station (Market St at 4th St)", 
+        "timestamp": "2017-08-15T04:45:54.014000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502756323, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "247"
+        }, 
+        "free_bikes": 12, 
+        "id": "f00345a08621722a4e680cf784706a3c", 
+        "latitude": 37.8677892, 
+        "longitude": -122.2658964, 
+        "name": "Fulton St at Bancroft Way", 
+        "timestamp": "2017-08-15T04:45:54.016000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502758117, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "309"
+        }, 
+        "free_bikes": 10, 
+        "id": "53caaaa3c38e8f655c479672973ef040", 
+        "latitude": 37.337391, 
+        "longitude": -121.886995, 
+        "name": "San Jose City Hall", 
+        "timestamp": "2017-08-15T04:45:54.017000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502761870, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "305"
+        }, 
+        "free_bikes": 13, 
+        "id": "b5f7d134eef76458bdad1624fc3f0a3b", 
+        "latitude": 37.342725, 
+        "longitude": -121.895617, 
+        "name": "Ryland Park", 
+        "timestamp": "2017-08-15T04:45:54.018000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712136, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "307"
+        }, 
+        "free_bikes": 12, 
+        "id": "c978d0b507607e5cee77e5fc2e6caa7b", 
+        "latitude": 37.332692, 
+        "longitude": -121.900084, 
+        "name": "SAP Center", 
+        "timestamp": "2017-08-15T04:45:54.019000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502759855, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "245"
+        }, 
+        "free_bikes": 18, 
+        "id": "7141abb9e3e35fb41feaf1cad45f29ef", 
+        "latitude": 37.8703477, 
+        "longitude": -122.2677637, 
+        "name": "Downtown Berkeley BART", 
+        "timestamp": "2017-08-15T04:45:54.020000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712211, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "244"
+        }, 
+        "free_bikes": 9, 
+        "id": "8d264fd407b4ee1b87cb26d10fb0130e", 
+        "latitude": 37.8737917, 
+        "longitude": -122.2686176, 
+        "name": "Shattuck Ave at Hearst Ave", 
+        "timestamp": "2017-08-15T04:45:54.021000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771087, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "109"
+        }, 
+        "free_bikes": 8, 
+        "id": "f30ac85eba75d23a161e3ac8a112a6c6", 
+        "latitude": 37.7633158, 
+        "longitude": -122.4219039, 
+        "name": "17th St at Valencia St", 
+        "timestamp": "2017-08-15T04:45:54.024000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502764286, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "240"
+        }, 
+        "free_bikes": 11, 
+        "id": "65097799f269d187692b073a83c0d4d3", 
+        "latitude": 37.8660431, 
+        "longitude": -122.2588044, 
+        "name": "Haste St at Telegraph Ave", 
+        "timestamp": "2017-08-15T04:45:54.026000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502772206, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "243"
+        }, 
+        "free_bikes": 12, 
+        "id": "47e30e549ebbe3b8fad38f2df2f1ad59", 
+        "latitude": 37.8693603, 
+        "longitude": -122.2543374, 
+        "name": "Bancroft Way at College Ave", 
+        "timestamp": "2017-08-15T04:45:54.027000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768835, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "100"
+        }, 
+        "free_bikes": 7, 
+        "id": "5233544e4f9c64e67c22b8d9d723c4c4", 
+        "latitude": 37.7671004, 
+        "longitude": -122.410662, 
+        "name": "Bryant St at 15th St", 
+        "timestamp": "2017-08-15T04:45:54.029000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502761995, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "106"
+        }, 
+        "free_bikes": 11, 
+        "id": "c6819c29250a339afc80c325c09cfaf2", 
+        "latitude": 37.7632417, 
+        "longitude": -122.4306746, 
+        "name": "Sanchez St at 17th St", 
+        "timestamp": "2017-08-15T04:45:54.030000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770087, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "107"
+        }, 
+        "free_bikes": 7, 
+        "id": "62e21ee5590d59c9e7d740bf16a06bd3", 
+        "latitude": 37.7630152, 
+        "longitude": -122.4264968, 
+        "name": "17th St at Dolores St", 
+        "timestamp": "2017-08-15T04:45:54.031000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502766804, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "33"
+        }, 
+        "free_bikes": 5, 
+        "id": "0487c1bcbbd2b4e2eb991ffc23de8f75", 
+        "latitude": 37.7816495, 
+        "longitude": -122.4154077, 
+        "name": "Golden Gate Ave at Hyde St", 
+        "timestamp": "2017-08-15T04:45:54.032000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771596, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "30"
+        }, 
+        "free_bikes": 13, 
+        "id": "7859b1f378e8852d27ace91b5f31adfb", 
+        "latitude": 37.77689815622983, 
+        "longitude": -122.39519222642231, 
+        "name": "San Francisco Caltrain (Townsend St at 4th St)", 
+        "timestamp": "2017-08-15T04:45:54.034000Z"
+      }, 
+      {
+        "empty_slots": 38, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502767718, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "37"
+        }, 
+        "free_bikes": 5, 
+        "id": "35d2f5fb51457d7d5c110e2614ef8335", 
+        "latitude": 37.78499972833808, 
+        "longitude": -122.39593561749642, 
+        "name": "2nd St at Folsom St", 
+        "timestamp": "2017-08-15T04:45:54.035000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502772163, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "36"
+        }, 
+        "free_bikes": 23, 
+        "id": "147b91431e228c6275b040c2cd4d05aa", 
+        "latitude": 37.78383, 
+        "longitude": -122.39887, 
+        "name": "Folsom St at 3rd St", 
+        "timestamp": "2017-08-15T04:45:54.036000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502757352, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "35"
+        }, 
+        "free_bikes": 11, 
+        "id": "2e148870409210e664005a58263b186a", 
+        "latitude": 37.32911866814779, 
+        "longitude": -121.90457582473755, 
+        "name": "Cahill Park", 
+        "timestamp": "2017-08-15T04:45:54.037000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502727972, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "34"
+        }, 
+        "free_bikes": 8, 
+        "id": "d03ef7e37a2b7f3572731b47ab9424f1", 
+        "latitude": 37.7839879, 
+        "longitude": -122.412408, 
+        "name": "Father Alfred E Boeddeker Park", 
+        "timestamp": "2017-08-15T04:45:54.038000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502767638, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "246"
+        }, 
+        "free_bikes": 11, 
+        "id": "2367c9313860a8dbae94ac5045768995", 
+        "latitude": 37.8690599, 
+        "longitude": -122.270556, 
+        "name": "Berkeley Civic Center", 
+        "timestamp": "2017-08-15T04:45:54.038000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770905, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "310"
+        }, 
+        "free_bikes": 12, 
+        "id": "7bb8d66fe7b1db88c66142fe3da816c3", 
+        "latitude": 37.335885, 
+        "longitude": -121.88566, 
+        "name": "San Fernando St at 4th St", 
+        "timestamp": "2017-08-15T04:45:54.039000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502756742, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "282"
+        }, 
+        "free_bikes": 9, 
+        "id": "58db51f0d78c1f40a04883873b5b7c64", 
+        "latitude": 37.332426301252056, 
+        "longitude": -121.89034938812256, 
+        "name": "Market St at Park St", 
+        "timestamp": "2017-08-15T04:45:54.040000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502764703, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "62"
+        }, 
+        "free_bikes": 6, 
+        "id": "632b45a2c2a023d1f96723878028518d", 
+        "latitude": 37.77779057034257, 
+        "longitude": -122.40643188357353, 
+        "name": "Victoria Manalo Draves Park", 
+        "timestamp": "2017-08-15T04:45:54.043000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502755741, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "63"
+        }, 
+        "free_bikes": 7, 
+        "id": "6e9e35437da1d86e4c843f5d42c101b3", 
+        "latitude": 37.775910222333366, 
+        "longitude": -122.40257500673577, 
+        "name": "Bryant St at 6th St", 
+        "timestamp": "2017-08-15T04:45:54.044000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771631, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "66"
+        }, 
+        "free_bikes": 9, 
+        "id": "906987f156c8aa7019a5afbb320d10de", 
+        "latitude": 37.77874161153677, 
+        "longitude": -122.39274082710836, 
+        "name": "3rd St at Townsend St", 
+        "timestamp": "2017-08-15T04:45:54.046000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770878, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "67"
+        }, 
+        "free_bikes": 9, 
+        "id": "ccc3732e01dcb0711d067defd952d3ef", 
+        "latitude": 37.7766392, 
+        "longitude": -122.3955263, 
+        "name": "San Francisco Caltrain Station 2  (Townsend St at 4th St)", 
+        "timestamp": "2017-08-15T04:45:54.047000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502726165, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "177"
+        }, 
+        "free_bikes": 11, 
+        "id": "1ad3234f9bd6b3e93ef20656d9111087", 
+        "latitude": 37.8262863, 
+        "longitude": -122.2651002, 
+        "name": "MacArthur Blvd at Telegraph Ave", 
+        "timestamp": "2017-08-15T04:45:54.048000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502742461, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "175"
+        }, 
+        "free_bikes": 6, 
+        "id": "91d9780bfc14a91941e7762b36f7d3d5", 
+        "latitude": 37.8359455, 
+        "longitude": -122.2623663, 
+        "name": "49th St at Telegraph Ave", 
+        "timestamp": "2017-08-15T04:45:54.049000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502728200, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "174"
+        }, 
+        "free_bikes": 9, 
+        "id": "788ec24190cc2861203ff8d6ecb5d3a3", 
+        "latitude": 37.8368013, 
+        "longitude": -122.2640037, 
+        "name": "Shattuck Ave at 51st St", 
+        "timestamp": "2017-08-15T04:45:54.050000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502761792, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "173"
+        }, 
+        "free_bikes": 7, 
+        "id": "efbe528107bed4defe202f50c2d6f2c0", 
+        "latitude": 37.8403643, 
+        "longitude": -122.2644881, 
+        "name": "Shattuck Ave at 55th Ave", 
+        "timestamp": "2017-08-15T04:45:54.050000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502763130, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "172"
+        }, 
+        "free_bikes": 6, 
+        "id": "ab6763b2d94b0eb690addb48b9cf3827", 
+        "latitude": 37.8417999, 
+        "longitude": -122.2515349, 
+        "name": "College Ave at Taft Ave", 
+        "timestamp": "2017-08-15T04:45:54.051000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502762860, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "170"
+        }, 
+        "free_bikes": 9, 
+        "id": "1736d145e5ef5447a53cc9f100701ccc", 
+        "latitude": 37.8444927, 
+        "longitude": -122.261351, 
+        "name": "Telegraph Ave at 58th St", 
+        "timestamp": "2017-08-15T04:45:54.052000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502762611, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "248"
+        }, 
+        "free_bikes": 9, 
+        "id": "ca8bbd40ae8b3beb63c5cc63a1c73a0f", 
+        "latitude": 37.8559558, 
+        "longitude": -122.2597949, 
+        "name": "Telegraph Ave at Ashby Ave", 
+        "timestamp": "2017-08-15T04:45:54.053000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502772298, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "182"
+        }, 
+        "free_bikes": 1, 
+        "id": "ebc62149cde6c360cc52d8922dd5ab94", 
+        "latitude": 37.8090126, 
+        "longitude": -122.2682473, 
+        "name": "19th Street BART Station", 
+        "timestamp": "2017-08-15T04:45:54.054000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770646, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "183"
+        }, 
+        "free_bikes": 16, 
+        "id": "edd2cf03bfbe6ade0bd14f40ae4b5ece", 
+        "latitude": 37.8087021, 
+        "longitude": -122.2699271, 
+        "name": "Telegraph Ave at 19th St", 
+        "timestamp": "2017-08-15T04:45:54.055000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502767563, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "180"
+        }, 
+        "free_bikes": 9, 
+        "id": "f54ea4118a93165223d045661a698c74", 
+        "latitude": 37.8126783, 
+        "longitude": -122.2687726, 
+        "name": "Telegraph Ave at 23rd St", 
+        "timestamp": "2017-08-15T04:45:54.056000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768421, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "181"
+        }, 
+        "free_bikes": 15, 
+        "id": "df3ca6be81e340c4899ec6ae8c4429e4", 
+        "latitude": 37.8113768, 
+        "longitude": -122.2651925, 
+        "name": "Grand Ave at Webster St", 
+        "timestamp": "2017-08-15T04:45:54.056000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502764985, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "162"
+        }, 
+        "free_bikes": 10, 
+        "id": "c2648d0ffed4d1f710ccaf79e9a304fa", 
+        "latitude": 37.8005161, 
+        "longitude": -122.2720799, 
+        "name": "Franklin St at 9th St", 
+        "timestamp": "2017-08-15T04:45:54.057000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502772248, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "184"
+        }, 
+        "free_bikes": 6, 
+        "id": "ab8e3bc94c133247da3e4dac43c31d10", 
+        "latitude": 37.8037651, 
+        "longitude": -122.2699884, 
+        "name": "Franklin St at 14th St", 
+        "timestamp": "2017-08-15T04:45:54.058000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770173, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "6"
+        }, 
+        "free_bikes": 3, 
+        "id": "28754859653e0a656ba53e1fa0ea21db", 
+        "latitude": 37.80477, 
+        "longitude": -122.403234, 
+        "name": "The Embarcadero at Sansome St", 
+        "timestamp": "2017-08-15T04:45:54.059000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502759807, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "220"
+        }, 
+        "free_bikes": 12, 
+        "id": "cb93a5239ea60f98f07d56d80346589c", 
+        "latitude": 37.8113514, 
+        "longitude": -122.2734217, 
+        "name": "San Pablo Ave at MLK Jr Way", 
+        "timestamp": "2017-08-15T04:45:54.060000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502763161, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "186"
+        }, 
+        "free_bikes": 12, 
+        "id": "b9afbe24f97e40d2168eed1c8184c07d", 
+        "latitude": 37.8013189, 
+        "longitude": -122.2626418, 
+        "name": "Lakeside Dr at 14th St", 
+        "timestamp": "2017-08-15T04:45:54.061000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770268, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "323"
+        }, 
+        "free_bikes": 15, 
+        "id": "a6b2ae23c98c47b86a9e84062ea5c3ee", 
+        "latitude": 37.79801364395978, 
+        "longitude": -122.40595042705534, 
+        "name": "Broadway at Kearny", 
+        "timestamp": "2017-08-15T04:45:54.109000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502745976, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "327"
+        }, 
+        "free_bikes": 10, 
+        "id": "e5a34fd23cbefa6b718d20509d1d8bdc", 
+        "latitude": 37.33203868095132, 
+        "longitude": -121.8817663192749, 
+        "name": "5th St at San Salvador St", 
+        "timestamp": "2017-08-15T04:45:54.111000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771181, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "96"
+        }, 
+        "free_bikes": 9, 
+        "id": "48ec3c9acbea05fbba36bfd0383ceefe", 
+        "latitude": 37.7662102, 
+        "longitude": -122.4266136, 
+        "name": "Dolores St at 15th St", 
+        "timestamp": "2017-08-15T04:45:54.075000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502757833, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "218"
+        }, 
+        "free_bikes": 8, 
+        "id": "f113253f2f20870c00c7f115d631304d", 
+        "latitude": 37.8123315, 
+        "longitude": -122.2851712, 
+        "name": "DeFremery Park", 
+        "timestamp": "2017-08-15T04:45:53.957000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502756107, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "230"
+        }, 
+        "free_bikes": 8, 
+        "id": "501383f10b2cb7bd652149a50b5418fc", 
+        "latitude": 37.8107432, 
+        "longitude": -122.2914153, 
+        "name": "14th St at Mandela Pkwy", 
+        "timestamp": "2017-08-15T04:45:54.096000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502746614, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "235"
+        }, 
+        "free_bikes": 11, 
+        "id": "6990760eb8be3fa93313672d7be369e6", 
+        "latitude": 37.8072393, 
+        "longitude": -122.2893702, 
+        "name": "Union St at 10th St", 
+        "timestamp": "2017-08-15T04:45:54.095000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712073, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "224"
+        }, 
+        "free_bikes": 10, 
+        "id": "ca49c8d72d75a2eeb2120807e7219aea", 
+        "latitude": 37.7851566, 
+        "longitude": -122.2389151, 
+        "name": "21st Ave at International Blvd", 
+        "timestamp": "2017-08-15T04:45:54.099000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502772091, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "121"
+        }, 
+        "free_bikes": 8, 
+        "id": "1a07a9e1057626b3844050832a2581bf", 
+        "latitude": 37.7592103, 
+        "longitude": -122.4213392, 
+        "name": "Mission Playground", 
+        "timestamp": "2017-08-15T04:45:53.982000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502765613, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "125"
+        }, 
+        "free_bikes": 8, 
+        "id": "9e888f5eda42142a65c52234a617c399", 
+        "latitude": 37.7592005, 
+        "longitude": -122.409851, 
+        "name": "20th St at Bryant St", 
+        "timestamp": "2017-08-15T04:45:53.984000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502762647, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "144"
+        }, 
+        "free_bikes": 5, 
+        "id": "446009f5d7c3932df1a0215e04df9891", 
+        "latitude": 37.7472996, 
+        "longitude": -122.4114029, 
+        "name": "Precita Park", 
+        "timestamp": "2017-08-15T04:45:54.117000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502762225, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "114"
+        }, 
+        "free_bikes": 5, 
+        "id": "8846b5e327d73c5c91f52afb03bee796", 
+        "latitude": 37.7644783, 
+        "longitude": -122.4025701, 
+        "name": "Rhode Island St at 17th St", 
+        "timestamp": "2017-08-15T04:45:54.004000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769774, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "133"
+        }, 
+        "free_bikes": 12, 
+        "id": "ad0fd1e1100453a35d7ce5e5d95e4779", 
+        "latitude": 37.7552126, 
+        "longitude": -122.4209752, 
+        "name": "Valencia St at 22nd St", 
+        "timestamp": "2017-08-15T04:45:53.958000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502767907, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "71"
+        }, 
+        "free_bikes": 7, 
+        "id": "e941de3073caf24cb07ee3425c80e479", 
+        "latitude": 37.7730627, 
+        "longitude": -122.4390777, 
+        "name": "Broderick St at Oak St", 
+        "timestamp": "2017-08-15T04:45:54.129000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768391, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "77"
+        }, 
+        "free_bikes": 12, 
+        "id": "a3e415a5d4437c5b8ed58f5620a2acb1", 
+        "latitude": 37.7735069, 
+        "longitude": -122.4160402, 
+        "name": "11th St at Natoma St", 
+        "timestamp": "2017-08-15T04:45:54.125000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712035, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "226"
+        }, 
+        "free_bikes": 9, 
+        "id": "0d33649125be2d062ec29061a27f700e", 
+        "latitude": 37.781123, 
+        "longitude": -122.2329915, 
+        "name": "26th Ave at International Blvd", 
+        "timestamp": "2017-08-15T04:45:54.013000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771101, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "61"
+        }, 
+        "free_bikes": 12, 
+        "id": "36460a8c801bc83206f3810f859f9573", 
+        "latitude": 37.7765126, 
+        "longitude": -122.4113061, 
+        "name": "Howard St at 8th St", 
+        "timestamp": "2017-08-15T04:45:54.042000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769778, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "53"
+        }, 
+        "free_bikes": 11, 
+        "id": "074ef2e71ff08fd484f93827ed83dafd", 
+        "latitude": 37.775946, 
+        "longitude": -122.4377775, 
+        "name": "Grove St at Divisadero", 
+        "timestamp": "2017-08-15T04:45:53.991000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770955, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "75"
+        }, 
+        "free_bikes": 6, 
+        "id": "25ccddba147690ec254ca9e68d3c559d", 
+        "latitude": 37.7737932060887, 
+        "longitude": -122.42123901844025, 
+        "name": "Market St at Franklin St", 
+        "timestamp": "2017-08-15T04:45:54.127000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768878, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "212"
+        }, 
+        "free_bikes": 13, 
+        "id": "5333ab1cc4616b6f6403fd64075f22c1", 
+        "latitude": 37.8249311, 
+        "longitude": -122.2604787, 
+        "name": "Mosswood Park", 
+        "timestamp": "2017-08-15T04:45:53.953000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502756877, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "210"
+        }, 
+        "free_bikes": 14, 
+        "id": "28c7a7022b746c9a0f84784300c04904", 
+        "latitude": 37.8332935222321, 
+        "longitude": -122.25622415542603, 
+        "name": "45th St at Manila", 
+        "timestamp": "2017-08-15T04:45:53.954000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502756122, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "313"
+        }, 
+        "free_bikes": 8, 
+        "id": "3933d9199c099118951ac7cf72031c13", 
+        "latitude": 37.331415, 
+        "longitude": -121.8932, 
+        "name": "Almaden Blvd at San Fernando St", 
+        "timestamp": "2017-08-15T04:45:53.956000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771464, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "24"
+        }, 
+        "free_bikes": 4, 
+        "id": "34288288721932498616db23008ea2af", 
+        "latitude": 37.7896767, 
+        "longitude": -122.3904285, 
+        "name": "Spear St at Folsom St", 
+        "timestamp": "2017-08-15T04:45:53.963000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771430, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "26"
+        }, 
+        "free_bikes": 15, 
+        "id": "22e24861b62c61aa3c99d47cd90095ce", 
+        "latitude": 37.78729, 
+        "longitude": -122.39438, 
+        "name": "1st St at Folsom St", 
+        "timestamp": "2017-08-15T04:45:53.965000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502761780, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "198"
+        }, 
+        "free_bikes": 17, 
+        "id": "c7d58812e5bcf9183e20ec387d0386a9", 
+        "latitude": 37.80781318217903, 
+        "longitude": -122.26449608802795, 
+        "name": "Snow Park", 
+        "timestamp": "2017-08-15T04:45:54.013000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502764634, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "188"
+        }, 
+        "free_bikes": 11, 
+        "id": "76b57950b5f2a4b0a4821e64bb700e24", 
+        "latitude": 37.8426295, 
+        "longitude": -122.267738, 
+        "name": "Dover St at 57th St", 
+        "timestamp": "2017-08-15T04:45:54.062000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770995, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "189"
+        }, 
+        "free_bikes": 5, 
+        "id": "f848023d531b827a8e7c8c87173b6a4d", 
+        "latitude": 37.8396488, 
+        "longitude": -122.2717561, 
+        "name": "Genoa St at 55th St", 
+        "timestamp": "2017-08-15T04:45:54.063000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502761304, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "311"
+        }, 
+        "free_bikes": 8, 
+        "id": "cad9a547732685a295e62323fd9aa378", 
+        "latitude": 37.333798, 
+        "longitude": -121.886943, 
+        "name": "Paseo De San Antonio at 2nd St", 
+        "timestamp": "2017-08-15T04:45:54.064000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712024, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "221"
+        }, 
+        "free_bikes": 10, 
+        "id": "6c75dab49a998654fd5c08bda5bbe080", 
+        "latitude": 37.7943532, 
+        "longitude": -122.2538745, 
+        "name": "12th St at 6th Ave", 
+        "timestamp": "2017-08-15T04:45:54.066000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712199, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "317"
+        }, 
+        "free_bikes": 10, 
+        "id": "3e4a340888aa808d7bbae5d2372c06dc", 
+        "latitude": 37.333955, 
+        "longitude": -121.877349, 
+        "name": "San Salvador St at 9th St", 
+        "timestamp": "2017-08-15T04:45:54.067000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502767740, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "185"
+        }, 
+        "free_bikes": 16, 
+        "id": "3437f993088fca5b748023927a80b016", 
+        "latitude": 37.8018575, 
+        "longitude": -122.2653676, 
+        "name": "Jackson St at 14th St", 
+        "timestamp": "2017-08-15T04:45:54.068000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768745, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "99"
+        }, 
+        "free_bikes": 15, 
+        "id": "f1fd7bda2e0a3cf1900d275f24ff94ff", 
+        "latitude": 37.7670373, 
+        "longitude": -122.4154425, 
+        "name": "Folsom St at 15th St", 
+        "timestamp": "2017-08-15T04:45:54.070000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502772032, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "98"
+        }, 
+        "free_bikes": 15, 
+        "id": "0deb7e762d80f771360306ef132bce3d", 
+        "latitude": 37.765052, 
+        "longitude": -122.4218661, 
+        "name": "Valencia St at 16th St", 
+        "timestamp": "2017-08-15T04:45:54.070000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502759888, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "169"
+        }, 
+        "free_bikes": 9, 
+        "id": "ebbfe1c4b86ffc03d3be17ba20a6ec99", 
+        "latitude": 37.8465156, 
+        "longitude": -122.2653043, 
+        "name": "Bushrod Park", 
+        "timestamp": "2017-08-15T04:45:54.071000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769542, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "90"
+        }, 
+        "free_bikes": 12, 
+        "id": "d057730bd39a7e2c920ff32d19393eb6", 
+        "latitude": 37.771058, 
+        "longitude": -122.402717, 
+        "name": "Townsend St at 7th St", 
+        "timestamp": "2017-08-15T04:45:54.073000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769771, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "97"
+        }, 
+        "free_bikes": 10, 
+        "id": "b1b0d53ee94d0a9c12c26e338c8dd437", 
+        "latitude": 37.7682646, 
+        "longitude": -122.4201102, 
+        "name": "14th St at Mission St", 
+        "timestamp": "2017-08-15T04:45:54.074000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771665, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "11"
+        }, 
+        "free_bikes": 17, 
+        "id": "b735b2cab35ea7bdaff9b2ce7413984f", 
+        "latitude": 37.79728, 
+        "longitude": -122.398436, 
+        "name": "Davis St at Jackson St", 
+        "timestamp": "2017-08-15T04:45:54.076000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771798, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "10"
+        }, 
+        "free_bikes": 23, 
+        "id": "e3eb8671a3af2f4c3706ea23d8fdc907", 
+        "latitude": 37.79539293725452, 
+        "longitude": -122.4047702550888, 
+        "name": "Washington St at Kearny St", 
+        "timestamp": "2017-08-15T04:45:54.076000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768572, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "13"
+        }, 
+        "free_bikes": 4, 
+        "id": "3d48dc2b365cd9b5101cc927bbc0a390", 
+        "latitude": 37.794231, 
+        "longitude": -122.402923, 
+        "name": "Commercial St at Montgomery St", 
+        "timestamp": "2017-08-15T04:45:54.077000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771563, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "15"
+        }, 
+        "free_bikes": 16, 
+        "id": "6c19c7f80a0d01e4aabf6f13d53c06fe", 
+        "latitude": 37.795392, 
+        "longitude": -122.394203, 
+        "name": "San Francisco Ferry Building (Harry Bridges Plaza)", 
+        "timestamp": "2017-08-15T04:45:54.078000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768268, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "14"
+        }, 
+        "free_bikes": 3, 
+        "id": "db937467876feef9bb1695c3ea31779c", 
+        "latitude": 37.795001, 
+        "longitude": -122.39997, 
+        "name": "Clay St at Battery St", 
+        "timestamp": "2017-08-15T04:45:54.079000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770304, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "17"
+        }, 
+        "free_bikes": 8, 
+        "id": "f64d35757bf16e8af5a408a9c72af91e", 
+        "latitude": 37.792251, 
+        "longitude": -122.397086, 
+        "name": "Embarcadero BART Station (Beale St at Market St)", 
+        "timestamp": "2017-08-15T04:45:54.080000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768654, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "16"
+        }, 
+        "free_bikes": 7, 
+        "id": "80d8436db501ceb52cd2d9e5d8b2b48c", 
+        "latitude": 37.79413, 
+        "longitude": -122.39443, 
+        "name": "Steuart St at Market St", 
+        "timestamp": "2017-08-15T04:45:54.081000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768362, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "19"
+        }, 
+        "free_bikes": 7, 
+        "id": "6c229502dbd727e48d9b7970dabbd21f", 
+        "latitude": 37.788975, 
+        "longitude": -122.403452, 
+        "name": "Post St at Kearny St", 
+        "timestamp": "2017-08-15T04:45:54.082000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502767710, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "18"
+        }, 
+        "free_bikes": 8, 
+        "id": "0794b05a99e808986301411273356796", 
+        "latitude": 37.85022187449679, 
+        "longitude": -122.26017236709595, 
+        "name": "Telegraph Ave at Alcatraz Ave", 
+        "timestamp": "2017-08-15T04:45:54.083000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502762645, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "314"
+        }, 
+        "free_bikes": 3, 
+        "id": "48ae1a8e476b68de634e7f103c359b56", 
+        "latitude": 37.333988, 
+        "longitude": -121.894902, 
+        "name": "Santa Clara St at Almaden Blvd", 
+        "timestamp": "2017-08-15T04:45:54.084000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712196, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "275"
+        }, 
+        "free_bikes": 7, 
+        "id": "155125eff6270d14ae62b26c85f15ce3", 
+        "latitude": 37.3429973, 
+        "longitude": -121.8888891, 
+        "name": "Julian St at 6th St", 
+        "timestamp": "2017-08-15T04:45:54.085000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768307, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "150"
+        }, 
+        "free_bikes": 9, 
+        "id": "b91103a4e638130a1de6c5eea75a0854", 
+        "latitude": 37.8312769, 
+        "longitude": -122.2782669, 
+        "name": "Adeline St at 40th St", 
+        "timestamp": "2017-08-15T04:45:54.086000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502767336, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "159"
+        }, 
+        "free_bikes": 11, 
+        "id": "1756b8a7b00189ed5c04a3171959e3f7", 
+        "latitude": 37.8160598, 
+        "longitude": -122.2782444, 
+        "name": "24th St at Market St", 
+        "timestamp": "2017-08-15T04:45:54.091000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502761657, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "158"
+        }, 
+        "free_bikes": 7, 
+        "id": "c9ac204340f5d958faa1cc6186b30dc5", 
+        "latitude": 37.8332786, 
+        "longitude": -122.2634901, 
+        "name": "Shattuck Ave at Telegraph Ave", 
+        "timestamp": "2017-08-15T04:45:54.092000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502759737, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "277"
+        }, 
+        "free_bikes": 7, 
+        "id": "90b0b9ffa296a873eb54e9d1e07444f1", 
+        "latitude": 37.3336577, 
+        "longitude": -121.9085859, 
+        "name": "Morrison Ave at Julian St", 
+        "timestamp": "2017-08-15T04:45:54.093000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712157, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "279"
+        }, 
+        "free_bikes": 7, 
+        "id": "ead93e0002db0611076fb2d63f76ce05", 
+        "latitude": 37.3391456, 
+        "longitude": -121.8841054, 
+        "name": "Santa Clara St at 7th St", 
+        "timestamp": "2017-08-15T04:45:54.094000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771148, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "232"
+        }, 
+        "free_bikes": 15, 
+        "id": "bd6bf51c4defa1eba0c9bdbc8478b3ce", 
+        "latitude": 37.8061628, 
+        "longitude": -122.2760402, 
+        "name": "MLK Jr Way at 14th St", 
+        "timestamp": "2017-08-15T04:45:54.098000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502765397, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "233"
+        }, 
+        "free_bikes": 13, 
+        "id": "82bc82bc940d73512a3738e59b2f9d35", 
+        "latitude": 37.7958125, 
+        "longitude": -122.2555549, 
+        "name": "12th St at 4th Ave", 
+        "timestamp": "2017-08-15T04:45:54.099000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712236, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "280"
+        }, 
+        "free_bikes": 10, 
+        "id": "ed361a7cac9b31a3fe6cf9a2755224af", 
+        "latitude": 37.337246, 
+        "longitude": -121.8830739, 
+        "name": "San Fernando at 7th St", 
+        "timestamp": "2017-08-15T04:45:54.100000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502767959, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "48"
+        }, 
+        "free_bikes": 12, 
+        "id": "fca278d7917876ab1aa7ca14f05f7437", 
+        "latitude": 37.782411189735896, 
+        "longitude": -122.39270595839115, 
+        "name": "2nd St at S Park St", 
+        "timestamp": "2017-08-15T04:45:54.101000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770736, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "44"
+        }, 
+        "free_bikes": 8, 
+        "id": "8e711e8b90789c76e17e55c44e975fc1", 
+        "latitude": 37.7810737, 
+        "longitude": -122.4117382, 
+        "name": "Civic Center/UN Plaza BART Station (Market St at McAllister St)", 
+        "timestamp": "2017-08-15T04:45:54.103000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771944, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "45"
+        }, 
+        "free_bikes": 12, 
+        "id": "00226f3cc12d98314a315f666caaf67a", 
+        "latitude": 37.781752, 
+        "longitude": -122.405127, 
+        "name": "5th St at Howard St", 
+        "timestamp": "2017-08-15T04:45:54.105000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770326, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "42"
+        }, 
+        "free_bikes": 8, 
+        "id": "2613bd4884bb78d12ed5ec7d34391cf9", 
+        "latitude": 37.77865, 
+        "longitude": -122.41823, 
+        "name": "San Francisco City Hall (Polk St at Grove St)", 
+        "timestamp": "2017-08-15T04:45:54.105000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769895, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "41"
+        }, 
+        "free_bikes": 9, 
+        "id": "af4396b1135d5fcea488cfd3aba87c9a", 
+        "latitude": 37.78127, 
+        "longitude": -122.41874, 
+        "name": "Golden Gate Ave at Polk St", 
+        "timestamp": "2017-08-15T04:45:54.108000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768424, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "321"
+        }, 
+        "free_bikes": 13, 
+        "id": "f239847eeb0496174a0c7faaad0a0aba", 
+        "latitude": 37.78014570345598, 
+        "longitude": -122.40307085237873, 
+        "name": "5th at Folsom", 
+        "timestamp": "2017-08-15T04:45:54.109000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771467, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "324"
+        }, 
+        "free_bikes": 9, 
+        "id": "c84aa30b9e135787bd06304d3b4caf88", 
+        "latitude": 37.788299978150825, 
+        "longitude": -122.40853071212767, 
+        "name": "Union Square (Powell st at Post st)", 
+        "timestamp": "2017-08-15T04:45:54.112000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502765130, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "9"
+        }, 
+        "free_bikes": 3, 
+        "id": "43944ce65c342e60c0ccf1c9f5ec51f6", 
+        "latitude": 37.79857210846256, 
+        "longitude": -122.40086898207666, 
+        "name": "Broadway at Battery St", 
+        "timestamp": "2017-08-15T04:45:54.115000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502767223, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "209"
+        }, 
+        "free_bikes": 9, 
+        "id": "cbf173b581c32be79916dd0efa8472f0", 
+        "latitude": 37.8335577, 
+        "longitude": -122.2674183, 
+        "name": "45th St at MLK Jr Way", 
+        "timestamp": "2017-08-15T04:45:54.120000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502739556, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "208"
+        }, 
+        "free_bikes": 10, 
+        "id": "a3a98fc7e5503fbc7297bb892553bc24", 
+        "latitude": 37.33283577967246, 
+        "longitude": -121.88391208648682, 
+        "name": "S. 4th St at San Carlos St", 
+        "timestamp": "2017-08-15T04:45:54.121000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502764084, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "148"
+        }, 
+        "free_bikes": 12, 
+        "id": "5a3ef6c03f1ce19c588c078270170a18", 
+        "latitude": 37.8297046, 
+        "longitude": -122.2876102, 
+        "name": "Horton St at 40th St", 
+        "timestamp": "2017-08-15T04:45:54.122000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502757533, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "149"
+        }, 
+        "free_bikes": 13, 
+        "id": "7e709245031d51963a79004362950401", 
+        "latitude": 37.8312752, 
+        "longitude": -122.2856333, 
+        "name": "Emeryville Town Hall", 
+        "timestamp": "2017-08-15T04:45:54.123000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769793, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "76"
+        }, 
+        "free_bikes": 11, 
+        "id": "180d55e6003a97c9b507f3258084ea67", 
+        "latitude": 37.77166246221617, 
+        "longitude": -122.42242321372034, 
+        "name": "McCoppin St at Valencia St", 
+        "timestamp": "2017-08-15T04:45:54.125000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502752309, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "278"
+        }, 
+        "free_bikes": 10, 
+        "id": "98374aab7a1553d232630758717d87a7", 
+        "latitude": 37.3319323, 
+        "longitude": -121.9048882, 
+        "name": "The Alameda at Bush St", 
+        "timestamp": "2017-08-15T04:45:54.131000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502757501, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "276"
+        }, 
+        "free_bikes": 12, 
+        "id": "2bef6d41ec5018bb81726f3e1f59d344", 
+        "latitude": 37.3322326, 
+        "longitude": -121.9125165, 
+        "name": "Julian St at The Alameda", 
+        "timestamp": "2017-08-15T04:45:54.134000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768742, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "64"
+        }, 
+        "free_bikes": 5, 
+        "id": "995bc866b4ea2e8ccb4819efd3588772", 
+        "latitude": 37.7767539, 
+        "longitude": -122.3990176, 
+        "name": "5th St at Brannan St", 
+        "timestamp": "2017-08-15T04:45:54.045000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768179, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "190"
+        }, 
+        "free_bikes": 8, 
+        "id": "a840a66dcf537eb53ff86c7ed469f491", 
+        "latitude": 37.8302232, 
+        "longitude": -122.2709501, 
+        "name": "West St at 40th St", 
+        "timestamp": "2017-08-15T04:45:54.001000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769749, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "196"
+        }, 
+        "free_bikes": 16, 
+        "id": "3a9baba8738c921ad820add914d8d365", 
+        "latitude": 37.80889393398715, 
+        "longitude": -122.25646018981932, 
+        "name": "Grand Ave at Perkins St", 
+        "timestamp": "2017-08-15T04:45:54.065000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769673, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "200"
+        }, 
+        "free_bikes": 8, 
+        "id": "68a14ad0d601717764086eb2d3c5f071", 
+        "latitude": 37.800213566969795, 
+        "longitude": -122.25381016731262, 
+        "name": "2nd Ave at E 18th St", 
+        "timestamp": "2017-08-15T04:45:53.996000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769858, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "197"
+        }, 
+        "free_bikes": 15, 
+        "id": "a2b35c2295034dbcd762ffeb728c9163", 
+        "latitude": 37.8088479, 
+        "longitude": -122.2496799, 
+        "name": "El Embarcadero at Grand Ave", 
+        "timestamp": "2017-08-15T04:45:53.999000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502712073, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "222"
+        }, 
+        "free_bikes": 10, 
+        "id": "d9f54ff90ab5ebf7383dd6a8541d48f1", 
+        "latitude": 37.7927143, 
+        "longitude": -122.2487796, 
+        "name": "10th Ave at E 15th St", 
+        "timestamp": "2017-08-15T04:45:53.972000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502767985, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "194"
+        }, 
+        "free_bikes": 8, 
+        "id": "ade8fb7d8bab829cc6b2b752c02882ff", 
+        "latitude": 37.8110807, 
+        "longitude": -122.2432677, 
+        "name": "Lakeshore Ave at Trestle Glen Rd", 
+        "timestamp": "2017-08-15T04:45:53.998000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502760037, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "46"
+        }, 
+        "free_bikes": 7, 
+        "id": "182f517a38db07df6b2fcc8ac0da3617", 
+        "latitude": 37.79013985185364, 
+        "longitude": -122.24237322807312, 
+        "name": "San Antonio Park", 
+        "timestamp": "2017-08-15T04:45:54.103000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502730538, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "164"
+        }, 
+        "free_bikes": 6, 
+        "id": "6ad0aba1d60a8bba74e69b3c7278acb8", 
+        "latitude": 37.814988230424156, 
+        "longitude": -122.27484405040741, 
+        "name": "Isabella St at San Pablo Ave", 
+        "timestamp": "2017-08-15T04:45:53.992000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502762219, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "119"
+        }, 
+        "free_bikes": 3, 
+        "id": "ca3529cb0093cf568576c95492de5a68", 
+        "latitude": 37.7610471, 
+        "longitude": -122.4326417, 
+        "name": "18th St at Noe St", 
+        "timestamp": "2017-08-15T04:45:53.980000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502762418, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "120"
+        }, 
+        "free_bikes": 4, 
+        "id": "d777960e181c3911183b59171cded0a8", 
+        "latitude": 37.7614205, 
+        "longitude": -122.4264353, 
+        "name": "Mission Dolores Park", 
+        "timestamp": "2017-08-15T04:45:53.981000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768846, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "79"
+        }, 
+        "free_bikes": 11, 
+        "id": "04d8f5231092bdf174ba9f2063f131b5", 
+        "latitude": 37.7734919, 
+        "longitude": -122.4036725, 
+        "name": "7th St at Brannan St", 
+        "timestamp": "2017-08-15T04:45:54.132000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502764685, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "49"
+        }, 
+        "free_bikes": 9, 
+        "id": "8aad0378e649dd2464b05c03175ee38c", 
+        "latitude": 37.7807601, 
+        "longitude": -122.3949894, 
+        "name": "S Park St at 3rd St", 
+        "timestamp": "2017-08-15T04:45:54.102000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502761083, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "227"
+        }, 
+        "free_bikes": 9, 
+        "id": "aca2db0bb7fe57847fca972c91a02f72", 
+        "latitude": 37.7837569, 
+        "longitude": -122.2226033, 
+        "name": "Foothill Blvd at Fruitvale Ave", 
+        "timestamp": "2017-08-15T04:45:54.133000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770769, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "123"
+        }, 
+        "free_bikes": 10, 
+        "id": "d77de46766fff22f98cbfff8959742da", 
+        "latitude": 37.7605936, 
+        "longitude": -122.4148171, 
+        "name": "Folsom St at 19th St", 
+        "timestamp": "2017-08-15T04:45:53.983000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502764846, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "241"
+        }, 
+        "free_bikes": 16, 
+        "id": "6230d81b26fbf3b08d04f63a436c69f9", 
+        "latitude": 37.8524766, 
+        "longitude": -122.2702132, 
+        "name": "Ashby BART Station", 
+        "timestamp": "2017-08-15T04:45:54.025000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769406, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "110"
+        }, 
+        "free_bikes": 7, 
+        "id": "d4dd785ae972a1c253a4b1b4c14ea507", 
+        "latitude": 37.7637085, 
+        "longitude": -122.4152042, 
+        "name": "17th & Folsom Street Park (17th St at Folsom St)", 
+        "timestamp": "2017-08-15T04:45:54.005000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771057, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "163"
+        }, 
+        "free_bikes": 12, 
+        "id": "8302e5d11a6c84bac27a774de41474f9", 
+        "latitude": 37.7973195, 
+        "longitude": -122.2653199, 
+        "name": "Lake Merritt BART Station", 
+        "timestamp": "2017-08-15T04:45:53.977000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502766282, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "229"
+        }, 
+        "free_bikes": 7, 
+        "id": "05cc98035450156a3bd3a5c1e241df53", 
+        "latitude": 37.7757452, 
+        "longitude": -122.2130372, 
+        "name": "Foothill Blvd at 42nd Ave", 
+        "timestamp": "2017-08-15T04:45:54.072000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502750187, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "316"
+        }, 
+        "free_bikes": 8, 
+        "id": "a90c95bb8436a61824acc41c7dad2c97", 
+        "latitude": 37.330165, 
+        "longitude": -121.885831, 
+        "name": "San Salvador St at 1st St", 
+        "timestamp": "2017-08-15T04:45:54.069000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769374, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "29"
+        }, 
+        "free_bikes": 6, 
+        "id": "cbe0501b53945e1a590ff4484798e0e6", 
+        "latitude": 37.782404601934104, 
+        "longitude": -122.43944585323335, 
+        "name": "O'Farrell St at Divisadero St", 
+        "timestamp": "2017-08-15T04:45:53.971000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769327, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "140"
+        }, 
+        "free_bikes": 2, 
+        "id": "d63f2433c8e67e0db4df7a87e5fb38e3", 
+        "latitude": 37.7478584, 
+        "longitude": -122.4249863, 
+        "name": "Cesar Chavez St at Dolores St", 
+        "timestamp": "2017-08-15T04:45:54.119000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769288, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "137"
+        }, 
+        "free_bikes": 9, 
+        "id": "b98c3de69eaf29844c9732daec3d6ff2", 
+        "latitude": 37.750506, 
+        "longitude": -122.4339496, 
+        "name": "Jersey St at Castro St", 
+        "timestamp": "2017-08-15T04:45:53.961000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502762981, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "40"
+        }, 
+        "free_bikes": 16, 
+        "id": "bee9685654e3b0d3796ef13184041b84", 
+        "latitude": 37.7792082, 
+        "longitude": -122.4268287, 
+        "name": "Laguna St at McAllister St", 
+        "timestamp": "2017-08-15T04:45:54.107000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769139, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "138"
+        }, 
+        "free_bikes": 7, 
+        "id": "96bae776dd2cf75e6ed06895761636af", 
+        "latitude": 37.7509004, 
+        "longitude": -122.4274114, 
+        "name": "Jersey St at Church St", 
+        "timestamp": "2017-08-15T04:45:53.963000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771753, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "132"
+        }, 
+        "free_bikes": 7, 
+        "id": "d54612ee1577923ef1aef60393aa07c7", 
+        "latitude": 37.7518194, 
+        "longitude": -122.4266139, 
+        "name": "24th St at Chattanooga St", 
+        "timestamp": "2017-08-15T04:45:53.959000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770433, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "113"
+        }, 
+        "free_bikes": 10, 
+        "id": "12d300701b41bcefe8638a1a6672bcfc", 
+        "latitude": 37.764555, 
+        "longitude": -122.410345, 
+        "name": "Franklin Square", 
+        "timestamp": "2017-08-15T04:45:54.007000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771404, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "129"
+        }, 
+        "free_bikes": 13, 
+        "id": "a861792de6f7790503849a5227a1f8c6", 
+        "latitude": 37.758862, 
+        "longitude": -122.412544, 
+        "name": "Harrison St at 20th St", 
+        "timestamp": "2017-08-15T04:45:53.986000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "141"
+        }, 
+        "free_bikes": 6, 
+        "id": "ca6bfd5cd907c1eb59d33dd8a0c38faa", 
+        "latitude": 37.7479981, 
+        "longitude": -122.4202187, 
+        "name": "Valencia St at Cesar Chavez St", 
+        "timestamp": "2017-08-15T04:45:54.119000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502762939, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "127"
+        }, 
+        "free_bikes": 11, 
+        "id": "e8061d928a602d4e74975b184f61df6d", 
+        "latitude": 37.7567083, 
+        "longitude": -122.421025, 
+        "name": "Valencia St at 21st St", 
+        "timestamp": "2017-08-15T04:45:53.985000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502772187, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "147"
+        }, 
+        "free_bikes": 14, 
+        "id": "c0c37f106fa8f27da58b777b7681f9a8", 
+        "latitude": 37.7440667, 
+        "longitude": -122.4214722, 
+        "name": "29th St at Tiffany Ave", 
+        "timestamp": "2017-08-15T04:45:54.116000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502768474, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "74"
+        }, 
+        "free_bikes": 23, 
+        "id": "9c879543d1eb9b63a326430132968307", 
+        "latitude": 37.776434819204745, 
+        "longitude": -122.42624402046204, 
+        "name": "Laguna St at Hayes St", 
+        "timestamp": "2017-08-15T04:45:54.128000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770569, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "145"
+        }, 
+        "free_bikes": 11, 
+        "id": "caee8a5f24d36ec088093ba35c67492d", 
+        "latitude": 37.7436839, 
+        "longitude": -122.4268059, 
+        "name": "29th St at Church St", 
+        "timestamp": "2017-08-15T04:45:54.118000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502771923, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "131"
+        }, 
+        "free_bikes": 8, 
+        "id": "eb628c9fd4cb2d154bc4b7d35f6d6f62", 
+        "latitude": 37.754795, 
+        "longitude": -122.425649, 
+        "name": "Dolores St at 22nd St", 
+        "timestamp": "2017-08-15T04:45:53.960000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502764753, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "72"
+        }, 
+        "free_bikes": 5, 
+        "id": "2071d932da798d6bb16925211a4c0ef9", 
+        "latitude": 37.772406, 
+        "longitude": -122.4356498, 
+        "name": "Page St at Scott St", 
+        "timestamp": "2017-08-15T04:45:54.129000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502757788, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "101"
+        }, 
+        "free_bikes": 10, 
+        "id": "f46cd5be22a086a85b24e87950483575", 
+        "latitude": 37.76600774273675, 
+        "longitude": -122.40567684173583, 
+        "name": "San Bruno Ave at 16th St", 
+        "timestamp": "2017-08-15T04:45:54.029000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770885, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "134"
+        }, 
+        "free_bikes": 13, 
+        "id": "689893116ddb1b8dfab61c092330b00a", 
+        "latitude": 37.7524278, 
+        "longitude": -122.4206278, 
+        "name": "Valencia St at 24th St", 
+        "timestamp": "2017-08-15T04:45:53.962000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502766895, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "31"
+        }, 
+        "free_bikes": 12, 
+        "id": "ef1e16d2e298bfbc6724316dc9f2c3c8", 
+        "latitude": 37.78381270927812, 
+        "longitude": -122.43455886840819, 
+        "name": "Raymond Kimbell Playground", 
+        "timestamp": "2017-08-15T04:45:54.033000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502765129, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "27"
+        }, 
+        "free_bikes": 10, 
+        "id": "7071605013ef1cbc6626c2eeed9ecf0a", 
+        "latitude": 37.7880593, 
+        "longitude": -122.3918648, 
+        "name": "Beale St at Harrison St", 
+        "timestamp": "2017-08-15T04:45:53.966000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502770630, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "60"
+        }, 
+        "free_bikes": 14, 
+        "id": "1d2910bd99e3e2abbe63546c231cfab8", 
+        "latitude": 37.77452040113685, 
+        "longitude": -122.4094493687153, 
+        "name": "8th St at Ringold St", 
+        "timestamp": "2017-08-15T04:45:54.041000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502766021, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "70"
+        }, 
+        "free_bikes": 8, 
+        "id": "56f53debad9975bac0223a6866f12533", 
+        "latitude": 37.77331087889723, 
+        "longitude": -122.44429260492325, 
+        "name": "Central Ave at Fell St", 
+        "timestamp": "2017-08-15T04:45:54.130000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": null, 
+          "last_updated": 1502769343, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "88"
+        }, 
+        "free_bikes": 10, 
+        "id": "718cefa9c37e218744ea0cc193a3129a", 
+        "latitude": 37.7700298, 
+        "longitude": -122.4117258, 
+        "name": "11th St at Bryant St", 
+        "timestamp": "2017-08-15T04:45:54.005000Z"
+      }
+    ]
+  }
+}

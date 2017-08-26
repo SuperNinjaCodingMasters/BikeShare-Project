@@ -1,0 +1,91 @@
+{
+  "network": {
+    "company": [
+      "Brainbox Technology", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/easybike-karditsa", 
+    "id": "easybike-karditsa", 
+    "location": {
+      "city": "Karditsa", 
+      "country": "GR", 
+      "latitude": 39.3634604, 
+      "longitude": 21.9211192
+    }, 
+    "name": "EasyBike", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 12
+        }, 
+        "free_bikes": 4, 
+        "id": "a52453381f3dd35656601fb8d07312c2", 
+        "latitude": 39.3543151505, 
+        "longitude": 21.9149138737, 
+        "name": "OSE", 
+        "timestamp": "2017-08-15T04:49:30.996000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 14
+        }, 
+        "free_bikes": 10, 
+        "id": "9301a66f571e9de9da9391c2e5fc09c7", 
+        "latitude": 39.3640912542, 
+        "longitude": 21.9285502243, 
+        "name": "Pausilippou", 
+        "timestamp": "2017-08-15T04:49:30.983000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 14
+        }, 
+        "free_bikes": 8, 
+        "id": "455fb6afdf7137aebf9865b21b42a058", 
+        "latitude": 39.3633364235, 
+        "longitude": 21.9337322521, 
+        "name": "KTEL", 
+        "timestamp": "2017-08-15T04:49:30.994000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "83ecd98d173eb66e36e2558535f1a67b", 
+        "latitude": 39.3604746285, 
+        "longitude": 21.9264902878, 
+        "name": "Lappa", 
+        "timestamp": "2017-08-15T04:49:30.991000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 18
+        }, 
+        "free_bikes": 6, 
+        "id": "31759409254da1955b4542720da6a57f", 
+        "latitude": 39.3648792555, 
+        "longitude": 21.922155838, 
+        "name": "Kentriki Plateia", 
+        "timestamp": "2017-08-15T04:49:30.994000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 5, 
+        "id": "a5dc62c9f26146f4bf100956c3aaacd8", 
+        "latitude": 39.3780417111, 
+        "longitude": 21.9112338829, 
+        "name": "Ktiniatriki", 
+        "timestamp": "2017-08-15T04:49:30.995000Z"
+      }
+    ]
+  }
+}

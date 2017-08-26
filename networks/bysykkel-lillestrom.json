@@ -1,0 +1,130 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/bysykkel-lillestrom", 
+    "id": "bysykkel-lillestrom", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Lillestr\u00f8m", 
+      "country": "NO", 
+      "latitude": 59.9559696, 
+      "longitude": 11.0503785
+    }, 
+    "name": "Bysykkel", 
+    "stations": [
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Torvgata 8, Lillestr\u00f8m", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772409000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 6, 
+        "id": "bd416cc5d10864356aa3bc8c79ab4ab5", 
+        "latitude": 59.95585, 
+        "longitude": 11.04745, 
+        "name": "TORVGATA", 
+        "timestamp": "2017-08-15T04:48:44.128000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Jonas Liesgt. 2000 lillestr\u00f8m", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772031000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 6, 
+        "id": "6520a06bf5b7d4a0ba78ff63eaaa2a3b", 
+        "latitude": 59.95363, 
+        "longitude": 11.04428, 
+        "name": "LILLESTR\u00d8M STASJON", 
+        "timestamp": "2017-08-15T04:48:44.135000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Br\u00f8tergata/Riksvei 120,Lillestr\u00f8m", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772489000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 10, 
+        "id": "15b9189c9843692597074dc34f34afdc", 
+        "latitude": 59.95797, 
+        "longitude": 11.05029, 
+        "name": "STORTORGET", 
+        "timestamp": "2017-08-15T04:48:44.136000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Nesgata 1,2004 Lillestr\u00f8m", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772252000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 11, 
+        "id": "35c738d2a209f862a77ac5292d8097dc", 
+        "latitude": 59.95128, 
+        "longitude": 11.04959, 
+        "name": "THON HOTEL ARENA", 
+        "timestamp": "2017-08-15T04:48:44.140000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "C.J Hansensvei 3B,2007 Kjeller", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772273000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 14, 
+        "id": "b9d4cd29425b69f975afd3315afd6b2f", 
+        "latitude": 59.96221, 
+        "longitude": 11.06191, 
+        "name": "\u00c5R\u00c5SEN", 
+        "timestamp": "2017-08-15T04:48:44.141000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Gunnar Randers vei 10,2007 Kjeller", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772076000, 
+          "slots": 1, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 1, 
+        "id": "56606ee918305a640fc84c754ae25105", 
+        "latitude": 59.973906, 
+        "longitude": 11.047391, 
+        "name": "KJELLER", 
+        "timestamp": "2017-08-15T04:48:44.137000Z"
+      }
+    ]
+  }
+}

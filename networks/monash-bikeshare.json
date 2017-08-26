@@ -1,0 +1,739 @@
+{
+  "network": {
+    "company": [
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "https://monashbikeshare.com/opendata/gbfs.json", 
+    "href": "/v2/networks/monash-bikeshare", 
+    "id": "monash-bikeshare", 
+    "location": {
+      "city": "Melbourne, AU", 
+      "country": "AU", 
+      "latitude": -37.91238410208696, 
+      "longitude": 145.1362281292677
+    }, 
+    "name": "Monash BikeShare", 
+    "stations": [
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Chancellors Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1065"
+        }, 
+        "free_bikes": 3, 
+        "id": "405779b3af34dc67ae3adeebc2865c5f", 
+        "latitude": -37.912613437541644, 
+        "longitude": 145.133110396564, 
+        "name": "Menzies E", 
+        "timestamp": "2017-08-15T04:50:47.910000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Humanities (11) (CL_20Chn), Chancellors Walk, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1066"
+        }, 
+        "free_bikes": 1, 
+        "id": "8aecfb0f5641a287387dfe1491b64fa4", 
+        "latitude": -37.91235659240465, 
+        "longitude": 145.1321069151163, 
+        "name": "Menzies W", 
+        "timestamp": "2017-08-15T04:50:47.917000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Research Way, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1656"
+        }, 
+        "free_bikes": 0, 
+        "id": "70f574e4fc4519ee1ac06849261ca9d2", 
+        "latitude": -37.90796624579958, 
+        "longitude": 145.13414070010185, 
+        "name": "24 Research Way", 
+        "timestamp": "2017-08-15T04:50:47.886000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "College Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2710"
+        }, 
+        "free_bikes": 0, 
+        "id": "4199763049675f0aab2e47ff4f46cc31", 
+        "latitude": -37.91035728231564, 
+        "longitude": 145.1391537487507, 
+        "name": "Briggs Hall", 
+        "timestamp": "2017-08-15T04:50:47.933000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "321 Ferntree Gully Road, Mount Waverley", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2572"
+        }, 
+        "free_bikes": 0, 
+        "id": "4037522b9672e8069b8fe4c2f575aa8c", 
+        "latitude": -37.89985222539082, 
+        "longitude": 145.1338630914688, 
+        "name": "321 Ferntree Gully", 
+        "timestamp": "2017-08-15T04:50:47.933000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "49 Rainforest Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1639"
+        }, 
+        "free_bikes": 1, 
+        "id": "9c5b6782a590970dea544b63d92287ca", 
+        "latitude": -37.91443883789687, 
+        "longitude": 145.13114869594574, 
+        "name": "Bus Loop W", 
+        "timestamp": "2017-08-15T04:50:47.938000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Medicine (13D) (CL_35Rnf), Chancellors Walk, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1071"
+        }, 
+        "free_bikes": 0, 
+        "id": "6032ba828ffb57e42e4691ae54c77ded", 
+        "latitude": -37.91240949574139, 
+        "longitude": 145.13142094016075, 
+        "name": "35 Rainforest Walk", 
+        "timestamp": "2017-08-15T04:50:47.937000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Biochemistry Teaching Laboratories (16) (CL_11Chn), Chancellors Walk, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2709"
+        }, 
+        "free_bikes": 0, 
+        "id": "af2630ce1b27cf6c40f132cebd40692d", 
+        "latitude": -37.91160053373241, 
+        "longitude": 145.1311232149601, 
+        "name": "25 Rainforest Walk", 
+        "timestamp": "2017-08-15T04:50:47.907000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Bicycle Lockers, Scenic Boulevard, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1064"
+        }, 
+        "free_bikes": 2, 
+        "id": "0512fb00bc06d394bf52cb01c1ccaca4", 
+        "latitude": -37.91238410208696, 
+        "longitude": 145.1362281292677, 
+        "name": "Monash Sport", 
+        "timestamp": "2017-08-15T04:50:47.910000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Monash Eyecare, Rainforest Walk, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1067"
+        }, 
+        "free_bikes": 1, 
+        "id": "a2f05b3ea0bc83a7515d588eb39a893e", 
+        "latitude": -37.911341370489716, 
+        "longitude": 145.1328257471323, 
+        "name": "Campus Centre N", 
+        "timestamp": "2017-08-15T04:50:47.916000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Chancellors Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1068"
+        }, 
+        "free_bikes": 0, 
+        "id": "b852e7c863bb8bea5c0b1259e8c425da", 
+        "latitude": -37.912214811382185, 
+        "longitude": 145.1330316066742, 
+        "name": "Campus Centre S", 
+        "timestamp": "2017-08-15T04:50:47.936000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Faculty of Medicine Offices (64) (CL_43Rnf), Ancora Imparo Way, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1070"
+        }, 
+        "free_bikes": 0, 
+        "id": "ff068034d8e229acfc3d7e8cf9c91a60", 
+        "latitude": -37.91307395804395, 
+        "longitude": 145.13137131929398, 
+        "name": "Medicine Offices - East", 
+        "timestamp": "2017-08-15T04:50:47.937000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Union Loop Road, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1640"
+        }, 
+        "free_bikes": 0, 
+        "id": "4eea37024ca3852a2b881637456002e6", 
+        "latitude": -37.91124085280106, 
+        "longitude": 145.13427950441837, 
+        "name": "Campbell Hall W", 
+        "timestamp": "2017-08-15T04:50:47.919000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Westgate Bridge parts, College Walk, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1641"
+        }, 
+        "free_bikes": 1, 
+        "id": "6a815c1bf161127ba9aa61fe334784e3", 
+        "latitude": -37.91049013938797, 
+        "longitude": 145.1339727267623, 
+        "name": "Information Technology N", 
+        "timestamp": "2017-08-15T04:50:47.918000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Roberts Hall (44), College Walk, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1642"
+        }, 
+        "free_bikes": 0, 
+        "id": "64ac6e72fc0d980cbdc8ca1406cfc40c", 
+        "latitude": -37.90779830056271, 
+        "longitude": 145.139749199152, 
+        "name": "Halls", 
+        "timestamp": "2017-08-15T04:50:47.921000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "3 Duerdin Street, Notting Hill", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1643"
+        }, 
+        "free_bikes": 0, 
+        "id": "c3290ff4f87ab7e6f5a337ceb68e1d29", 
+        "latitude": -37.9093415700725, 
+        "longitude": 145.14228992164135, 
+        "name": "738 Blackburn Rd", 
+        "timestamp": "2017-08-15T04:50:47.920000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "211-223 Wellington Road, Mulgrave", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1644"
+        }, 
+        "free_bikes": 0, 
+        "id": "35a7a0d162e48ce4a3b7ad9e97066dfe", 
+        "latitude": -37.91675484351535, 
+        "longitude": 145.15098497271538, 
+        "name": "211 Wellington Rd", 
+        "timestamp": "2017-08-15T04:50:47.922000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "38 College Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1645"
+        }, 
+        "free_bikes": 0, 
+        "id": "c934f30ec2b9a5d5e656ba2d956027aa", 
+        "latitude": -37.909641543428364, 
+        "longitude": 145.1377871632576, 
+        "name": "Turner Hall", 
+        "timestamp": "2017-08-15T04:50:47.922000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "39 Innovation Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1646"
+        }, 
+        "free_bikes": 1, 
+        "id": "1a0fc2762cc82766223a11408c823f01", 
+        "latitude": -37.91367651858394, 
+        "longitude": 145.12964766472578, 
+        "name": "Innovation Walk S", 
+        "timestamp": "2017-08-15T04:50:47.924000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "39 Innovation Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1647"
+        }, 
+        "free_bikes": 0, 
+        "id": "4b39b8dcb306be2a5c84d882851ff94a", 
+        "latitude": -37.91450655219599, 
+        "longitude": 145.12981832027435, 
+        "name": "Monash College W", 
+        "timestamp": "2017-08-15T04:50:47.923000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "700 Blackburn Road, Notting Hill", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1648"
+        }, 
+        "free_bikes": 1, 
+        "id": "faaa3e0a695967274f981888176a4b31", 
+        "latitude": -37.907666563034226, 
+        "longitude": 145.14212496578693, 
+        "name": "700 Blackburn Rd", 
+        "timestamp": "2017-08-15T04:50:47.915000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "59 Scenic Boulevard, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1649"
+        }, 
+        "free_bikes": 0, 
+        "id": "00a60e8e359a208f1e9da2761eef9ede", 
+        "latitude": -37.914318750629974, 
+        "longitude": 145.13526320457458, 
+        "name": "Scenic Blvd S", 
+        "timestamp": "2017-08-15T04:50:47.914000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "800 Blackburn Road, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1650"
+        }, 
+        "free_bikes": 7, 
+        "id": "5eba356e94936fca432f7416a55e92cf", 
+        "latitude": -37.915870876432706, 
+        "longitude": 145.14058001339436, 
+        "name": "Car Park OC1 West at 800 Blackburn Rd", 
+        "timestamp": "2017-08-15T04:50:47.901000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "24 Sports Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1651"
+        }, 
+        "free_bikes": 0, 
+        "id": "c931c43122deb3d35195d45963a62a06", 
+        "latitude": -37.91120752320808, 
+        "longitude": 145.13492792844772, 
+        "name": "Campbell Hall S", 
+        "timestamp": "2017-08-15T04:50:47.901000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "8 Scenic Boulevard, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1652"
+        }, 
+        "free_bikes": 3, 
+        "id": "752194dc2b2e876cc62b8e66a4de8916", 
+        "latitude": -37.91119270997656, 
+        "longitude": 145.13642862439156, 
+        "name": "Sports Walk E", 
+        "timestamp": "2017-08-15T04:50:47.899000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "22 Alliance Lane, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1653"
+        }, 
+        "free_bikes": 0, 
+        "id": "6ab560b690254b01394a243965179c11", 
+        "latitude": -37.909837237866455, 
+        "longitude": 145.13430767849968, 
+        "name": "Engineering SE", 
+        "timestamp": "2017-08-15T04:50:47.900000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "8 Scenic Boulevard, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1655"
+        }, 
+        "free_bikes": 0, 
+        "id": "0b3bd58abf79a0a6b33a1fec28250fdb", 
+        "latitude": -37.90700483851278, 
+        "longitude": 145.13787607450013, 
+        "name": "MSI", 
+        "timestamp": "2017-08-15T04:50:47.898000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "14 Rainforest Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1658"
+        }, 
+        "free_bikes": 2, 
+        "id": "93376c6517c72b345ff48328ce5a9dc7", 
+        "latitude": -37.90865437925672, 
+        "longitude": 145.13192894537497, 
+        "name": "5 Rainforest Walk - Car Park N1", 
+        "timestamp": "2017-08-15T04:50:47.905000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "12 Innovation Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1659"
+        }, 
+        "free_bikes": 0, 
+        "id": "e4b714ebd73c26f596bd344bb10ea84c", 
+        "latitude": -37.910293719593376, 
+        "longitude": 145.1295047325675, 
+        "name": "Biotechnology E", 
+        "timestamp": "2017-08-15T04:50:47.906000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "School of Biomedical Sciences (76) 19 Innovation Wk, Innovation Walk, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1660"
+        }, 
+        "free_bikes": 1, 
+        "id": "d5396c62dc196d28a2aad76c57556f0e", 
+        "latitude": -37.91161275261377, 
+        "longitude": 145.12960816926352, 
+        "name": "Biomedical", 
+        "timestamp": "2017-08-15T04:50:47.926000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "52 Ancora Imparo Way, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1661"
+        }, 
+        "free_bikes": 1, 
+        "id": "edc171f3cad3ad82d47ab161c409b9c1", 
+        "latitude": -37.91523921906192, 
+        "longitude": 145.1388051500635, 
+        "name": "South East Flats", 
+        "timestamp": "2017-08-15T04:50:47.925000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Rainforest Garden, Rainforest Walk, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1664"
+        }, 
+        "free_bikes": 0, 
+        "id": "34b9e708233a1993e6414750c5e846d8", 
+        "latitude": -37.9117735954442, 
+        "longitude": 145.13203650712967, 
+        "name": "Campus Centre W", 
+        "timestamp": "2017-08-15T04:50:47.929000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Boundary Road, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1665"
+        }, 
+        "free_bikes": 1, 
+        "id": "02bc43317fcc829835e92146f9bb7fee", 
+        "latitude": -37.910254184185774, 
+        "longitude": 145.1290163397789, 
+        "name": "Biotechnology W", 
+        "timestamp": "2017-08-15T04:50:47.928000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Engineering Building (32) (CL_21Col), College Walk, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1666"
+        }, 
+        "free_bikes": 0, 
+        "id": "746e04769aaa8d04d1afa4ea998cf0af", 
+        "latitude": -37.91005552625134, 
+        "longitude": 145.1332763582468, 
+        "name": "Engineering S", 
+        "timestamp": "2017-08-15T04:50:47.927000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Kenneth Hunt Memorial Garden, Alliance Lane, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1667"
+        }, 
+        "free_bikes": 0, 
+        "id": "38062ceb07ef3bd01b468c19da8501d6", 
+        "latitude": -37.90969815223717, 
+        "longitude": 145.1324539259076, 
+        "name": "Engineering W", 
+        "timestamp": "2017-08-15T04:50:47.926000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "800 Blackburn Road, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2077"
+        }, 
+        "free_bikes": 2, 
+        "id": "59b87e3232b5b244d3b275effe3ed54f", 
+        "latitude": -37.9156404931267, 
+        "longitude": 145.14222588390112, 
+        "name": "Car Park OC1 at 800 Blackburn Rd", 
+        "timestamp": "2017-08-15T04:50:47.909000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2578"
+        }, 
+        "free_bikes": 2, 
+        "id": "2756c8bca629d1acba984d71596212e2", 
+        "latitude": -37.913740530438204, 
+        "longitude": 145.13435125350952, 
+        "name": "Education", 
+        "timestamp": "2017-08-15T04:50:47.932000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Faculty of Medicine Offices (64) (CL_43Rnf), Ancora Imparo Way, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2579"
+        }, 
+        "free_bikes": 0, 
+        "id": "feb5c5cdb11f3c7ff30da123bfe795ab", 
+        "latitude": -37.91278533957923, 
+        "longitude": 145.13104140758514, 
+        "name": "Medicine Offices - North", 
+        "timestamp": "2017-08-15T04:50:47.911000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Sports Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2580"
+        }, 
+        "free_bikes": 0, 
+        "id": "230a0fd33c4a91c5e0199bfd30b1e149", 
+        "latitude": -37.91077159169722, 
+        "longitude": 145.13192921876905, 
+        "name": "16 Rainforest Walk", 
+        "timestamp": "2017-08-15T04:50:47.908000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "College Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1069"
+        }, 
+        "free_bikes": 2, 
+        "id": "ffbee6fe1e1c4643c0dfcb7c2573bf3c", 
+        "latitude": -37.910136470837806, 
+        "longitude": 145.13211214537478, 
+        "name": "Hargrave-Andrew Library", 
+        "timestamp": "2017-08-15T04:50:47.935000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1-131 Wellington Road, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1654"
+        }, 
+        "free_bikes": 0, 
+        "id": "7d7144fa632154fa615f28c2b602bbb2", 
+        "latitude": -37.91106679802696, 
+        "longitude": 145.13363912701607, 
+        "name": "Information Technology S", 
+        "timestamp": "2017-08-15T04:50:47.897000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "101 Normanby Road, Notting Hill", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2078"
+        }, 
+        "free_bikes": 1, 
+        "id": "9921728b47f9ccf757affe068b5dd8bf", 
+        "latitude": -37.90592564752298, 
+        "longitude": 145.1387269422412, 
+        "name": "Normanby House", 
+        "timestamp": "2017-08-15T04:50:47.930000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "738, Blackburn Road, Clayton, City of Monash, Greater Melbourne, Victoria", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2712"
+        }, 
+        "free_bikes": 1, 
+        "id": "50e3a491d95dc677ae9ca12a799e91ed", 
+        "latitude": -37.909643891289406, 
+        "longitude": 145.14193922281265, 
+        "name": "738 Blackburn Rd - Car Park", 
+        "timestamp": "2017-08-15T04:50:47.931000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1 Cobain Street, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_3238"
+        }, 
+        "free_bikes": 2, 
+        "id": "af1a39dbb5257470ecf5da4b81f93843", 
+        "latitude": -37.91592283494326, 
+        "longitude": 145.1316036656499, 
+        "name": "Mannix College ", 
+        "timestamp": "2017-08-15T04:50:47.939000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "9 Rainforest Walk, Clayton", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1657"
+        }, 
+        "free_bikes": 3, 
+        "id": "a7268e2678d64329754110a32cfac964", 
+        "latitude": -37.909370668091675, 
+        "longitude": 145.13088315725324, 
+        "name": "Earth Sciences W", 
+        "timestamp": "2017-08-15T04:50:47.896000Z"
+      }
+    ]
+  }
+}

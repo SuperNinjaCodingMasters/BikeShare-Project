@@ -1,0 +1,387 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_broward/gbfs.json", 
+    "href": "/v2/networks/broward", 
+    "id": "broward", 
+    "location": {
+      "city": "Fort Lauderdale, FL", 
+      "country": "US", 
+      "latitude": 26.12026, 
+      "longitude": -80.14819
+    }, 
+    "name": "Broward B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "East Atlantic Blvd & Briny Ave", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_2534"
+        }, 
+        "free_bikes": 4, 
+        "id": "479d8cea9d29c32d8a941817d332d08e", 
+        "latitude": 26.23237, 
+        "longitude": -80.08965, 
+        "name": "Atlantic & Briny", 
+        "timestamp": "2017-08-15T04:46:34.703000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Bayshore and A1A", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_2645"
+        }, 
+        "free_bikes": 6, 
+        "id": "372e4b0a5fd8d927cd57ebca36510f1a", 
+        "latitude": 26.12875, 
+        "longitude": -80.10363, 
+        "name": "The Residences @ W Ft Lauderdale", 
+        "timestamp": "2017-08-15T04:46:34.690000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "3669 N. Ocean Dr.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1998"
+        }, 
+        "free_bikes": 7, 
+        "id": "e367132169772148ad5d8e43d1dbf5ec", 
+        "latitude": 26.03444, 
+        "longitude": -80.11455, 
+        "name": "Hollywood North Beach", 
+        "timestamp": "2017-08-15T04:46:34.704000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "490 SW 2nd St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1955"
+        }, 
+        "free_bikes": 5, 
+        "id": "143b8075fe4cb11d51e5094ad936be80", 
+        "latitude": 26.12026, 
+        "longitude": -80.14819, 
+        "name": "Esplanade Park", 
+        "timestamp": "2017-08-15T04:46:34.682000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Las Olas and A1A", 
+          "last_updated": 1502772390, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_broward_2635"
+        }, 
+        "free_bikes": 8, 
+        "id": "9f8b4054e8a31f10cb52ec396a897ef6", 
+        "latitude": 26.11847, 
+        "longitude": -80.10472, 
+        "name": "Las Olas & A1A", 
+        "timestamp": "2017-08-15T04:46:34.698000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "South Beach Lot", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_2646"
+        }, 
+        "free_bikes": 3, 
+        "id": "b00ab7a199b29ae598844c9843f01890", 
+        "latitude": 26.11414, 
+        "longitude": -80.10482, 
+        "name": "South Beach Lot", 
+        "timestamp": "2017-08-15T04:46:34.691000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "65 N Beach Road", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1994"
+        }, 
+        "free_bikes": 3, 
+        "id": "4f6c656a327a643e2e66ca05f17f4317", 
+        "latitude": 26.05412, 
+        "longitude": -80.11239, 
+        "name": "Dania Beach Pier", 
+        "timestamp": "2017-08-15T04:46:34.706000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "10 Las Olas Circle", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1964"
+        }, 
+        "free_bikes": 5, 
+        "id": "47af32657f310a0b4c2fe4513cb15594", 
+        "latitude": 26.11892, 
+        "longitude": -80.10672, 
+        "name": "Seabreeze & Las Olas", 
+        "timestamp": "2017-08-15T04:46:34.699000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3098 N. Ocean Blvd.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1969"
+        }, 
+        "free_bikes": 5, 
+        "id": "58c2ad5dae7624091afc81ca69300825", 
+        "latitude": 26.16739, 
+        "longitude": -80.10032, 
+        "name": "Earl Lifshey", 
+        "timestamp": "2017-08-15T04:46:34.702000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1384 E. Sunrise Blvd.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1970"
+        }, 
+        "free_bikes": 4, 
+        "id": "d4403331cecc77991b04064a44f9dae4", 
+        "latitude": 26.13707, 
+        "longitude": -80.12981, 
+        "name": "Holiday Park at Sunrise", 
+        "timestamp": "2017-08-15T04:46:34.688000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2331 E. Sunrise Blvd.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1971"
+        }, 
+        "free_bikes": 5, 
+        "id": "f3ff876bb76bdcfb51236a36a80ba7fa", 
+        "latitude": 26.13813, 
+        "longitude": -80.1157, 
+        "name": "George English Park", 
+        "timestamp": "2017-08-15T04:46:34.687000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "3056 SE 5th St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1972"
+        }, 
+        "free_bikes": 8, 
+        "id": "5d6b1434abf1fa655fef2f32e518d229", 
+        "latitude": 26.11657, 
+        "longitude": -80.10515, 
+        "name": "DC Alexander Park", 
+        "timestamp": "2017-08-15T04:46:34.686000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "303 SE 6th St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1977"
+        }, 
+        "free_bikes": 5, 
+        "id": "8e980d3bf5d38710ce37c7ad10225c5f", 
+        "latitude": 26.11501, 
+        "longitude": -80.14008, 
+        "name": "Courthouse (540 Bldg)", 
+        "timestamp": "2017-08-15T04:46:34.689000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "957 N. Ft. Lauderdale Beach Blvd.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1978"
+        }, 
+        "free_bikes": 6, 
+        "id": "fb572a3882c7929742584d0b4c3d21d1", 
+        "latitude": 26.13778, 
+        "longitude": -80.10325, 
+        "name": "Sunrise & Ocean", 
+        "timestamp": "2017-08-15T04:46:34.692000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1738 SE 17th St", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1979"
+        }, 
+        "free_bikes": 6, 
+        "id": "74c9bda32e83b17694ed0a4324e9d4e3", 
+        "latitude": 26.10032, 
+        "longitude": -80.12385, 
+        "name": "Convention Center @ 17th St. ", 
+        "timestamp": "2017-08-15T04:46:34.693000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "208 Jefferson St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1986"
+        }, 
+        "free_bikes": 10, 
+        "id": "d7d675b1a29d71a428f862ef7be517bf", 
+        "latitude": 26.00656, 
+        "longitude": -80.116, 
+        "name": "Broadwalk at Jefferson St.", 
+        "timestamp": "2017-08-15T04:46:34.694000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "297 SE 10th Terrace", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_2951"
+        }, 
+        "free_bikes": 6, 
+        "id": "50f19d6513804c3c39c5ef7f88c14cbb", 
+        "latitude": 26.11937, 
+        "longitude": -80.13271, 
+        "name": "Las Olas & SE 10th Terr", 
+        "timestamp": "2017-08-15T04:46:34.697000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "2255 N. Ocean Dr.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1983"
+        }, 
+        "free_bikes": 5, 
+        "id": "ef75adab4df1d25e1e330f7370b1fcc3", 
+        "latitude": 26.02557, 
+        "longitude": -80.11598, 
+        "name": "Nevada Parking Lot", 
+        "timestamp": "2017-08-15T04:46:34.695000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2532 East Sunrise Blvd.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_2950"
+        }, 
+        "free_bikes": 3, 
+        "id": "fb6000b964b43825637085cebf56f38e", 
+        "latitude": 26.13776, 
+        "longitude": -80.11248, 
+        "name": "Galleria", 
+        "timestamp": "2017-08-15T04:46:34.696000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2086 N. Ocean Blvd.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1967"
+        }, 
+        "free_bikes": 4, 
+        "id": "ed03b2fa0008bb6652468a017775ce84", 
+        "latitude": 26.15495, 
+        "longitude": -80.10109, 
+        "name": "Willingham Park", 
+        "timestamp": "2017-08-15T04:46:34.701000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1100 Seabreeze Blvd", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_2952"
+        }, 
+        "free_bikes": 4, 
+        "id": "52d76ae6a17ad2fdc8653832de4a1bd5", 
+        "latitude": 26.10985, 
+        "longitude": -80.10608, 
+        "name": "South Beach Lot #2", 
+        "timestamp": "2017-08-15T04:46:34.697000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "4383 Florida A1A", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1995"
+        }, 
+        "free_bikes": 4, 
+        "id": "7398ab493dbb2d8d463a2211a4c828db", 
+        "latitude": 26.19081, 
+        "longitude": -80.09666, 
+        "name": "Lauderdale by the Sea", 
+        "timestamp": "2017-08-15T04:46:34.705000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "3089 Sebastian St.", 
+          "last_updated": 1502772390, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_broward_1966"
+        }, 
+        "free_bikes": 5, 
+        "id": "cdec894be57df5ddcb3b9a2d7cb2372d", 
+        "latitude": 26.12431, 
+        "longitude": -80.1041, 
+        "name": "Sebastian Lot", 
+        "timestamp": "2017-08-15T04:46:34.700000Z"
+      }
+    ]
+  }
+}

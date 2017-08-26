@@ -1,0 +1,990 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/healthy-ride-pittsburgh-pittsburgh", 
+    "id": "healthy-ride-pittsburgh-pittsburgh", 
+    "location": {
+      "city": "Pittsburgh", 
+      "country": "US", 
+      "latitude": 40.4459, 
+      "longitude": -79.9945
+    }, 
+    "name": "Healthy Ride", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "70042"
+          ], 
+          "number": "1026", 
+          "slots": 13, 
+          "uid": "342913"
+        }, 
+        "free_bikes": 1, 
+        "id": "b83c7669ca40d4a3070050f221327826", 
+        "latitude": 40.461603, 
+        "longitude": -79.925624, 
+        "name": "Penn Ave & S Whitfield St", 
+        "timestamp": "2017-08-15T04:48:35.270000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "70449", 
+            "70265", 
+            "70260", 
+            "70182", 
+            "70174"
+          ], 
+          "number": "1049", 
+          "slots": 19, 
+          "uid": "342862"
+        }, 
+        "free_bikes": 7, 
+        "id": "faf11cabd4cb933d06ef0532bf916fcf", 
+        "latitude": 40.428661, 
+        "longitude": -79.986358, 
+        "name": "S 12th St & E Carson St", 
+        "timestamp": "2017-08-15T04:48:35.211000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "70282", 
+            "70203", 
+            "70201", 
+            "70175", 
+            "70138"
+          ], 
+          "number": "1040", 
+          "slots": 21, 
+          "uid": "342884"
+        }, 
+        "free_bikes": 7, 
+        "id": "ff55b0060f08e7d54a9b8715804727fd", 
+        "latitude": 40.445128, 
+        "longitude": -79.957102, 
+        "name": "O'Hara St and University Place (Soldiers and Sailors Memorial)", 
+        "timestamp": "2017-08-15T04:48:35.237000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "70290", 
+            "70035", 
+            "70398", 
+            "70494"
+          ], 
+          "number": "1038", 
+          "slots": 19, 
+          "uid": "342889"
+        }, 
+        "free_bikes": 4, 
+        "id": "fe375c0c7be4df991340678b0b7652bb", 
+        "latitude": 40.434338, 
+        "longitude": -79.951877, 
+        "name": "Boulevard of the Allies & Parkview Ave", 
+        "timestamp": "2017-08-15T04:48:35.243000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "70441", 
+            "70409"
+          ], 
+          "number": "1032", 
+          "slots": 14, 
+          "uid": "342896"
+        }, 
+        "free_bikes": 2, 
+        "id": "6e9d39a4b50325ac73d5e71867d6e84f", 
+        "latitude": 40.453382, 
+        "longitude": -79.92731, 
+        "name": "Walnut St & College St", 
+        "timestamp": "2017-08-15T04:48:35.260000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "70263", 
+            "70160", 
+            "70045", 
+            "70033", 
+            "70353"
+          ], 
+          "number": "1005", 
+          "slots": 19, 
+          "uid": "342852"
+        }, 
+        "free_bikes": 8, 
+        "id": "e46ae3e1f88595d403fbf9fb85ef7518", 
+        "latitude": 40.438761430115, 
+        "longitude": -79.997436404228, 
+        "name": "Forbes Ave & Grant St", 
+        "timestamp": "2017-08-15T04:48:35.204000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "bike_uids": [
+            "70240", 
+            "70164", 
+            "70148", 
+            "70120", 
+            "70015"
+          ], 
+          "number": "1012", 
+          "slots": 35, 
+          "uid": "342849"
+        }, 
+        "free_bikes": 5, 
+        "id": "fe8b16dc362f6f0ef5e939983c9593a5", 
+        "latitude": 40.445834, 
+        "longitude": -80.008882, 
+        "name": "North Shore Trail & Fort Duquesne Bridge", 
+        "timestamp": "2017-08-15T04:48:35.192000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "70251", 
+            "70213", 
+            "70147", 
+            "70122", 
+            "70112"
+          ], 
+          "number": "1004", 
+          "slots": 15, 
+          "uid": "342851"
+        }, 
+        "free_bikes": 7, 
+        "id": "c56eea481d1ff664fb06d365691e2041", 
+        "latitude": 40.435887, 
+        "longitude": -79.997102, 
+        "name": "First Ave & B St (T Station)", 
+        "timestamp": "2017-08-15T04:48:35.202000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "70085", 
+            "70048", 
+            "70377", 
+            "70361", 
+            "70357"
+          ], 
+          "number": "1011", 
+          "slots": 15, 
+          "uid": "342853"
+        }, 
+        "free_bikes": 7, 
+        "id": "66c8062b94b76dcd827693f52e0ec7d6", 
+        "latitude": 40.444777, 
+        "longitude": -80.000831, 
+        "name": "Fort Duquesne Blvd & 7th St", 
+        "timestamp": "2017-08-15T04:48:35.205000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "70250", 
+            "70137", 
+            "70370", 
+            "70340", 
+            "70435"
+          ], 
+          "number": "1006", 
+          "slots": 21, 
+          "uid": "342854"
+        }, 
+        "free_bikes": 6, 
+        "id": "10cb9d4752f8d18866f9e4ede51f099f", 
+        "latitude": 40.440193, 
+        "longitude": -79.995084, 
+        "name": "Ross St & Sixth Ave (Steel Plaza T Station)", 
+        "timestamp": "2017-08-15T04:48:35.206000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "70229", 
+            "70125", 
+            "70104", 
+            "70381", 
+            "70366"
+          ], 
+          "number": "1024", 
+          "slots": 17, 
+          "uid": "342855"
+        }, 
+        "free_bikes": 6, 
+        "id": "562becc0b60943652d0efcae34bdb8f7", 
+        "latitude": 40.458714, 
+        "longitude": -79.933483, 
+        "name": "S Negley Ave & Baum Blvd", 
+        "timestamp": "2017-08-15T04:48:35.207000Z"
+      }, 
+      {
+        "empty_slots": 33, 
+        "extra": {
+          "bike_uids": [
+            "70119"
+          ], 
+          "number": "1008", 
+          "slots": 35, 
+          "uid": "342856"
+        }, 
+        "free_bikes": 1, 
+        "id": "3e7be550f7bccebfdd5b50b3012eecdb", 
+        "latitude": 40.440368, 
+        "longitude": -79.988636, 
+        "name": "Centre Ave & PPG Paints Arena", 
+        "timestamp": "2017-08-15T04:48:35.208000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "70190", 
+            "70114", 
+            "70089", 
+            "70343"
+          ], 
+          "number": "1007", 
+          "slots": 19, 
+          "uid": "342858"
+        }, 
+        "free_bikes": 4, 
+        "id": "e84199b58453888a068da155e1ac652f", 
+        "latitude": 40.437643, 
+        "longitude": -79.986695, 
+        "name": "Stevenson St & Forbes Ave", 
+        "timestamp": "2017-08-15T04:48:35.208000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "70383", 
+            "70292", 
+            "70286", 
+            "70284", 
+            "70269"
+          ], 
+          "number": "1003", 
+          "slots": 15, 
+          "uid": "342860"
+        }, 
+        "free_bikes": 7, 
+        "id": "424e0bb3a0661b3b7ba3b503d55b7ed2", 
+        "latitude": 40.4372, 
+        "longitude": -80.000375, 
+        "name": "First Ave & Smithfield St (Art Institute)", 
+        "timestamp": "2017-08-15T04:48:35.210000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "70281", 
+            "70186", 
+            "70006", 
+            "70378", 
+            "70414"
+          ], 
+          "number": "1014", 
+          "slots": 19, 
+          "uid": "342863"
+        }, 
+        "free_bikes": 6, 
+        "id": "a63b01bcc1f27a2bdfd43b2ab5009e7d", 
+        "latitude": 40.450595, 
+        "longitude": -80.013204, 
+        "name": "Ridge Ave & Brighton Rd (CCAC)", 
+        "timestamp": "2017-08-15T04:48:35.212000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "70261", 
+            "70208", 
+            "70073", 
+            "70321"
+          ], 
+          "number": "1047", 
+          "slots": 19, 
+          "uid": "342866"
+        }, 
+        "free_bikes": 4, 
+        "id": "4246e7866e9c06ee9322951d9e1ec466", 
+        "latitude": 40.428576, 
+        "longitude": -79.974559, 
+        "name": "S 22nd St & E Carson St", 
+        "timestamp": "2017-08-15T04:48:35.213000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "bike_uids": [
+            "70237", 
+            "70223"
+          ], 
+          "number": "1046", 
+          "slots": 19, 
+          "uid": "342867"
+        }, 
+        "free_bikes": 2, 
+        "id": "177a668b227e9e13bd8bafa4d5c01ab2", 
+        "latitude": 40.42802, 
+        "longitude": -79.969799, 
+        "name": "S 25th St & E Carson St", 
+        "timestamp": "2017-08-15T04:48:35.215000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "70154", 
+            "70152", 
+            "70348", 
+            "70428", 
+            "70423"
+          ], 
+          "number": "1016", 
+          "slots": 19, 
+          "uid": "342870"
+        }, 
+        "free_bikes": 6, 
+        "id": "c7ab06fec1ffe5662f1f62752327356c", 
+        "latitude": 40.449631, 
+        "longitude": -79.985893, 
+        "name": "17th St & Penn Ave", 
+        "timestamp": "2017-08-15T04:48:35.219000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "70197"
+          ], 
+          "number": "1020", 
+          "slots": 15, 
+          "uid": "342873"
+        }, 
+        "free_bikes": 1, 
+        "id": "ffa93e1daaadfb090631958139beb1e7", 
+        "latitude": 40.465893, 
+        "longitude": -79.954417, 
+        "name": "42nd & Penn Ave.", 
+        "timestamp": "2017-08-15T04:48:35.223000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bike_uids": [
+            "70109", 
+            "70439", 
+            "70483"
+          ], 
+          "number": "1021", 
+          "slots": 19, 
+          "uid": "342874"
+        }, 
+        "free_bikes": 3, 
+        "id": "6c187a507e3b25ae14e420968dea0777", 
+        "latitude": 40.462769, 
+        "longitude": -79.950867, 
+        "name": "Taylor St & Liberty Ave", 
+        "timestamp": "2017-08-15T04:48:35.224000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "70273", 
+            "70267", 
+            "70235", 
+            "70193", 
+            "70188"
+          ], 
+          "number": "1018", 
+          "slots": 21, 
+          "uid": "342875"
+        }, 
+        "free_bikes": 8, 
+        "id": "9cd641f0ffac7e861a150e8145557fcb", 
+        "latitude": 40.466103, 
+        "longitude": -79.964628, 
+        "name": "37th St & Butler St", 
+        "timestamp": "2017-08-15T04:48:35.226000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "70278", 
+            "70380"
+          ], 
+          "number": "1043", 
+          "slots": 15, 
+          "uid": "342877"
+        }, 
+        "free_bikes": 2, 
+        "id": "7dd5497eed22bbce9c98892fb10b5fa9", 
+        "latitude": 40.438876, 
+        "longitude": -79.960179, 
+        "name": "Coltart Ave & Forbes Ave", 
+        "timestamp": "2017-08-15T04:48:35.230000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "70295", 
+            "70227", 
+            "70077", 
+            "70371", 
+            "70426"
+          ], 
+          "number": "1044", 
+          "slots": 19, 
+          "uid": "342881"
+        }, 
+        "free_bikes": 5, 
+        "id": "bbf02219c7b7392144cf08b69578e31b", 
+        "latitude": 40.435986, 
+        "longitude": -79.956942, 
+        "name": "Zulema St & Coltart Ave", 
+        "timestamp": "2017-08-15T04:48:35.234000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "70026", 
+            "70498"
+          ], 
+          "number": "1041", 
+          "slots": 19, 
+          "uid": "342882"
+        }, 
+        "free_bikes": 2, 
+        "id": "4f49e0d691e03e5009c5d98f77fda912", 
+        "latitude": 40.442325, 
+        "longitude": -79.957604, 
+        "name": "Fifth Ave & S Bouquet St", 
+        "timestamp": "2017-08-15T04:48:35.235000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "70216", 
+            "70132", 
+            "70131", 
+            "70098", 
+            "70057"
+          ], 
+          "number": "1036", 
+          "slots": 18, 
+          "uid": "342885"
+        }, 
+        "free_bikes": 7, 
+        "id": "d4d4792367b8de24124d3ed3b308d9c9", 
+        "latitude": 40.442398, 
+        "longitude": -79.951479, 
+        "name": "Schenley Dr at Schenley Plaza (Carnegie Library Main)", 
+        "timestamp": "2017-08-15T04:48:35.239000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "70255"
+          ], 
+          "number": "1015", 
+          "slots": 12, 
+          "uid": "342888"
+        }, 
+        "free_bikes": 1, 
+        "id": "fbfc43c9c390162c880333956a5c1155", 
+        "latitude": 40.455090873637, 
+        "longitude": -80.006346702576, 
+        "name": "Federal St & E North Ave", 
+        "timestamp": "2017-08-15T04:48:35.241000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "number": "1030", 
+          "slots": 12, 
+          "uid": "342891"
+        }, 
+        "free_bikes": 0, 
+        "id": "66f1c36ddc7f1b2c362986af098d4092", 
+        "latitude": 40.458933, 
+        "longitude": -79.929123, 
+        "name": "S Euclid Ave & Centre Ave", 
+        "timestamp": "2017-08-15T04:48:35.246000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bike_uids": [
+            "70153", 
+            "70359", 
+            "70456"
+          ], 
+          "number": "1033", 
+          "slots": 19, 
+          "uid": "342893"
+        }, 
+        "free_bikes": 3, 
+        "id": "cc9e6b0403f5bafbadd93f52bff15f1b", 
+        "latitude": 40.45177, 
+        "longitude": -79.932324, 
+        "name": "Ivy St & Walnut St   ", 
+        "timestamp": "2017-08-15T04:48:35.254000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "70266", 
+            "70347", 
+            "70395"
+          ], 
+          "number": "1031", 
+          "slots": 19, 
+          "uid": "342895"
+        }, 
+        "free_bikes": 3, 
+        "id": "d46d01e6906d4e4a64f88ac00c436b45", 
+        "latitude": 40.45628, 
+        "longitude": -79.930962, 
+        "name": "Maryland Ave & Ellsworth Ave", 
+        "timestamp": "2017-08-15T04:48:35.259000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bike_uids": [
+            "70142", 
+            "70436", 
+            "70481"
+          ], 
+          "number": "1029", 
+          "slots": 19, 
+          "uid": "342899"
+        }, 
+        "free_bikes": 3, 
+        "id": "a12468500d04f9006cdd25623b16aa3c", 
+        "latitude": 40.457415, 
+        "longitude": -79.92492, 
+        "name": "Alder St & S Highland Ave", 
+        "timestamp": "2017-08-15T04:48:35.261000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "70238", 
+            "70173", 
+            "70158", 
+            "70151", 
+            "70110"
+          ], 
+          "number": "1028", 
+          "slots": 19, 
+          "uid": "342900"
+        }, 
+        "free_bikes": 5, 
+        "id": "a7ff552a9edbddcae751955c79e3d57f", 
+        "latitude": 40.455821, 
+        "longitude": -79.915248, 
+        "name": "Penn Ave & Putnam St (Bakery Square)", 
+        "timestamp": "2017-08-15T04:48:35.268000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bike_uids": [
+            "70245", 
+            "70218", 
+            "70210", 
+            "70040"
+          ], 
+          "number": "1027", 
+          "slots": 19, 
+          "uid": "342901"
+        }, 
+        "free_bikes": 4, 
+        "id": "2a1df77d1b83370a0f1bfb631998928c", 
+        "latitude": 40.458972, 
+        "longitude": -79.922023, 
+        "name": "Shady Ave & Ellsworth Ave", 
+        "timestamp": "2017-08-15T04:48:35.268000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bike_uids": [
+            "70283", 
+            "70171", 
+            "70067", 
+            "70484"
+          ], 
+          "number": "1009", 
+          "slots": 19, 
+          "uid": "342912"
+        }, 
+        "free_bikes": 4, 
+        "id": "11bea4d0e2196548cd8a125e9a722055", 
+        "latitude": 40.445844, 
+        "longitude": -79.99238, 
+        "name": "12th St & Penn Ave", 
+        "timestamp": "2017-08-15T04:48:35.269000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "70254", 
+            "70209", 
+            "70184", 
+            "70180", 
+            "70168"
+          ], 
+          "number": "1001", 
+          "slots": 19, 
+          "uid": "342915"
+        }, 
+        "free_bikes": 8, 
+        "id": "ba89a87fbd47f741d872eb7ab717dd6d", 
+        "latitude": 40.440877, 
+        "longitude": -80.00308, 
+        "name": "Forbes Ave & Market Square", 
+        "timestamp": "2017-08-15T04:48:35.272000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "70214", 
+            "70062", 
+            "70341"
+          ], 
+          "number": "1010", 
+          "slots": 15, 
+          "uid": "342916"
+        }, 
+        "free_bikes": 3, 
+        "id": "33aa44dbf4c3b23f83e0eb74a118aaf9", 
+        "latitude": 40.444665, 
+        "longitude": -79.995798, 
+        "name": "10th St & Penn Ave (David L. Lawrence Convention Center)", 
+        "timestamp": "2017-08-15T04:48:35.273000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "70207", 
+            "70093"
+          ], 
+          "number": "1002", 
+          "slots": 15, 
+          "uid": "342917"
+        }, 
+        "free_bikes": 2, 
+        "id": "b34c2c5877b561c51ef46e6080696331", 
+        "latitude": 40.43903, 
+        "longitude": -80.00186, 
+        "name": "Third Ave & Wood St", 
+        "timestamp": "2017-08-15T04:48:35.274000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "70247", 
+            "70215", 
+            "70202", 
+            "70166", 
+            "70084"
+          ], 
+          "number": "1019", 
+          "slots": 17, 
+          "uid": "343649"
+        }, 
+        "free_bikes": 6, 
+        "id": "c07bae0424eb6b6c37fc84f9f11016d8", 
+        "latitude": 40.470212481265, 
+        "longitude": -79.960663318634, 
+        "name": "42nd St & Butler St", 
+        "timestamp": "2017-08-15T04:48:35.275000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "70291", 
+            "70258", 
+            "70243", 
+            "70157", 
+            "70010"
+          ], 
+          "number": "1037", 
+          "slots": 20, 
+          "uid": "342859"
+        }, 
+        "free_bikes": 5, 
+        "id": "bf620726ffc93cc68cf56349dbe90f1a", 
+        "latitude": 40.441032, 
+        "longitude": -79.948042, 
+        "name": "Frew St & Schenley Dr", 
+        "timestamp": "2017-08-15T04:48:35.209000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "70274", 
+            "70249", 
+            "70127", 
+            "70099", 
+            "70066"
+          ], 
+          "number": "1000", 
+          "slots": 16, 
+          "uid": "342914"
+        }, 
+        "free_bikes": 9, 
+        "id": "681377a2c1ec84f7da30bab01418110f", 
+        "latitude": 40.441326, 
+        "longitude": -80.004679, 
+        "name": "Liberty Ave & Stanwix St", 
+        "timestamp": "2017-08-15T04:48:35.271000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "70128", 
+            "70092", 
+            "70301", 
+            "70472"
+          ], 
+          "number": "1042", 
+          "slots": 12, 
+          "uid": "342869"
+        }, 
+        "free_bikes": 4, 
+        "id": "c37e77754474c1beb8808706bd7829ef", 
+        "latitude": 40.445236, 
+        "longitude": -79.976911, 
+        "name": "Centre Ave & Kirkpatrick St", 
+        "timestamp": "2017-08-15T04:48:35.217000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "70220", 
+            "70068"
+          ], 
+          "number": "1034", 
+          "slots": 15, 
+          "uid": "342890"
+        }, 
+        "free_bikes": 2, 
+        "id": "7e9b034acd435bab80d8165043fad057", 
+        "latitude": 40.448419, 
+        "longitude": -79.947401, 
+        "name": "Ellsworth Ave & N Neville St", 
+        "timestamp": "2017-08-15T04:48:35.244000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "number": "1022", 
+          "slots": 15, 
+          "uid": "342876"
+        }, 
+        "free_bikes": 0, 
+        "id": "dbe8d0e85c240607bf670aa09b011005", 
+        "latitude": 40.459812, 
+        "longitude": -79.945548, 
+        "name": "Liberty Ave & S Millvale Ave (West Penn Hospital)", 
+        "timestamp": "2017-08-15T04:48:35.228000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "70277", 
+            "70276", 
+            "70195", 
+            "70058", 
+            "70041"
+          ], 
+          "number": "1025", 
+          "slots": 15, 
+          "uid": "342878"
+        }, 
+        "free_bikes": 5, 
+        "id": "ab2b1888676678ec8eed85854d71b3fc", 
+        "latitude": 40.464443, 
+        "longitude": -79.933188, 
+        "name": "Penn Ave & N Fairmount St", 
+        "timestamp": "2017-08-15T04:48:35.231000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bike_uids": [
+            "70082", 
+            "70017", 
+            "70325"
+          ], 
+          "number": "1023", 
+          "slots": 19, 
+          "uid": "342894"
+        }, 
+        "free_bikes": 3, 
+        "id": "7a5c6a36f9080ef11165b97bf8f71016", 
+        "latitude": 40.456505, 
+        "longitude": -79.939362, 
+        "name": "Liberty Ave & Baum Blvd", 
+        "timestamp": "2017-08-15T04:48:35.256000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "70287", 
+            "70257", 
+            "70252", 
+            "70217", 
+            "70121"
+          ], 
+          "number": "1035", 
+          "slots": 19, 
+          "uid": "342887"
+        }, 
+        "free_bikes": 8, 
+        "id": "e75ea941dc235a0416e2cebe4bbd20c3", 
+        "latitude": 40.446704, 
+        "longitude": -79.950788, 
+        "name": "Fifth Ave & S Dithridge St", 
+        "timestamp": "2017-08-15T04:48:35.240000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "70293", 
+            "70163", 
+            "70051", 
+            "70036", 
+            "70000"
+          ], 
+          "number": "1017", 
+          "slots": 18, 
+          "uid": "342872"
+        }, 
+        "free_bikes": 5, 
+        "id": "08a313aca37516d67f634ea4abd3a17d", 
+        "latitude": 40.451742, 
+        "longitude": -79.983217, 
+        "name": "21st St & Penn Ave", 
+        "timestamp": "2017-08-15T04:48:35.221000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "number": "1039", 
+          "slots": 19, 
+          "uid": "342879"
+        }, 
+        "free_bikes": 0, 
+        "id": "6f05a9f440d27de55b689df55cea2ba7", 
+        "latitude": 40.437987, 
+        "longitude": -79.95367, 
+        "name": "Atwood St & Bates St", 
+        "timestamp": "2017-08-15T04:48:35.233000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "70279", 
+            "70246", 
+            "70385", 
+            "70471"
+          ], 
+          "number": "1013", 
+          "slots": 15, 
+          "uid": "342871"
+        }, 
+        "free_bikes": 4, 
+        "id": "f79cbe099c78da5aa8964f4811dc0ecd", 
+        "latitude": 40.447166, 
+        "longitude": -80.003566, 
+        "name": "Isabella St & Federal St (PNC Park)", 
+        "timestamp": "2017-08-15T04:48:35.220000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "70285", 
+            "70268", 
+            "70231", 
+            "70196", 
+            "70088"
+          ], 
+          "number": "1045", 
+          "slots": 19, 
+          "uid": "342868"
+        }, 
+        "free_bikes": 7, 
+        "id": "2b0cd7f7cff8f61d947d8db24312144a", 
+        "latitude": 40.427899, 
+        "longitude": -79.966112, 
+        "name": "S 27th St & Sidney St. (Southside Works)", 
+        "timestamp": "2017-08-15T04:48:35.216000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "70411"
+          ], 
+          "number": "1061", 
+          "slots": 4, 
+          "uid": "2190846"
+        }, 
+        "free_bikes": 1, 
+        "id": "9ff4e07e3d54b48f1875c17b692e58c8", 
+        "latitude": 40.462025604284, 
+        "longitude": -79.968114495277, 
+        "name": "33rd St and Penn Ave", 
+        "timestamp": "2017-08-15T04:48:35.276000Z"
+      }
+    ]
+  }
+}

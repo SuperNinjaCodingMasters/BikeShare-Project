@@ -1,0 +1,39 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-hyderabad", 
+    "id": "nextbike-hyderabad", 
+    "location": {
+      "city": "Hyderabad", 
+      "country": "IN", 
+      "latitude": 17.38, 
+      "longitude": 78.4725
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "79825", 
+            "79824", 
+            "79819", 
+            "79816", 
+            "79815"
+          ], 
+          "number": "8778", 
+          "slots": 1, 
+          "uid": "4083009"
+        }, 
+        "free_bikes": 5, 
+        "id": "75c3db269988ad96c84904823d3deede", 
+        "latitude": 17.470091, 
+        "longitude": 78.377294, 
+        "name": "Hyderabad Demostation", 
+        "timestamp": "2017-08-15T04:48:36.151000Z"
+      }
+    ]
+  }
+}

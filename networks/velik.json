@@ -1,0 +1,130 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/velik", 
+    "id": "velik", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "\u041a\u0430\u0437\u0430\u043d\u044c", 
+      "country": "RU", 
+      "latitude": 55.7949414, 
+      "longitude": 49.1050445
+    }, 
+    "name": "Veli'k", 
+    "stations": [
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "\u0443\u043b. \u041f\u0443\u0448\u043a\u0438\u043d\u0430, 33", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772324000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 14, 
+        "id": "0cc14bf1d6370862f76857846886b5a4", 
+        "latitude": 55.795834, 
+        "longitude": 49.125511, 
+        "name": "02 CITY HALL - \u0413\u041e\u0420\u041e\u0414\u0421\u041a\u0410\u042f \u0420\u0410\u0422\u0423\u0428\u0410", 
+        "timestamp": "2017-08-15T04:48:33.582000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "\u0443\u043b.\u041a\u0440\u0435\u043c\u043b\u0435\u0432\u0441\u043a\u0430\u044f, \u043d\u0430\u043f\u0440\u043e\u0442\u0438\u0432 18", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772133000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 13, 
+        "id": "5c5df249431ec49b875b8327ee7c8f77", 
+        "latitude": 55.790813, 
+        "longitude": 49.123093, 
+        "name": "04 KFU - \u041a\u0424\u0423", 
+        "timestamp": "2017-08-15T04:48:33.600000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "\u0443\u043b. \u041a. \u041c\u0430\u0440\u043a\u0441\u0430, 70", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772263000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 17, 
+        "id": "4fa299a61e26e3660a26a24e7d087413", 
+        "latitude": 55.794903, 
+        "longitude": 49.138706, 
+        "name": "01 KSTU - \u041a\u0413\u0422\u0423 /\u041c\u0413\u0410\u0425\u0418 \u0418\u041c. \u0421\u0423\u0420\u0418\u041a\u041e\u0412\u0410", 
+        "timestamp": "2017-08-15T04:48:33.605000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "\u0443\u043b. \u041a\u0440\u0435\u043c\u043b\u0435\u0432\u0441\u043a\u0430\u044f, 2", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772153000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 19, 
+        "id": "9f3860c7e13d9492ac8a3e3db678ee02", 
+        "latitude": 55.79583, 
+        "longitude": 49.1091, 
+        "name": "03 KREMLIN - \u041a\u0420\u0415\u041c\u041b\u042c", 
+        "timestamp": "2017-08-15T04:48:33.606000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "\u0443\u043b. \u041a. \u041d\u0430\u0434\u0436\u043c\u0438 / \u0443\u043b. \u0411\u0430\u0443\u043c\u0430\u043d\u0430, 54", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772428000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 10, 
+        "id": "b7da7b9b4315ce026eca6a1b27d61cf2", 
+        "latitude": 55.790596, 
+        "longitude": 49.114269, 
+        "name": "10 K NADGHIMI STR. - \u0423\u041b. \u041a. \u041d\u0410\u0414\u0416\u041c\u0418", 
+        "timestamp": "2017-08-15T04:48:33.606000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "\u0443\u043b. \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d / \u0443\u043b. \u041c. \u0421\u0430\u043b\u0438\u043c\u0436\u0430\u043d\u043e\u0432\u0430", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771993000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 17, 
+        "id": "ff4105d43c507cf56a62c68148dc59ed", 
+        "latitude": 55.784126, 
+        "longitude": 49.118286, 
+        "name": "06 KAMAL THEATER - \u0422\u0415\u0410\u0422\u0420 \u0418\u041c. \u0413. \u041a\u0410\u041c\u0410\u041b\u0410", 
+        "timestamp": "2017-08-15T04:48:33.607000Z"
+      }
+    ]
+  }
+}

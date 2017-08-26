@@ -1,0 +1,778 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/velo2", 
+    "id": "velo2", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Cergy", 
+      "country": "FR", 
+      "latitude": 49.03561699999999, 
+      "longitude": 2.060325
+    }, 
+    "name": "Velo2", 
+    "stations": [
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Place Carnot c\u00f4t\u00e9 quai de l'Ecluse ou halage - 95310 SAINT OUEN L'AUMONE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772087000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 53101
+        }, 
+        "free_bikes": 4, 
+        "id": "66782f61e564ed1ff49f2cf1f2f7f1ce", 
+        "latitude": 49.0477806094296, 
+        "longitude": 2.10303772616957, 
+        "name": "53101 - SOA01 - PLACE CARNOT (CB)", 
+        "timestamp": "2017-08-15T04:47:55.429000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "BOULEVARD DE L'OISE / RUE DE LA GARE - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772076000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 50021
+        }, 
+        "free_bikes": 16, 
+        "id": "bfdc8d623dddf9d8b1efc853e7ac31ad", 
+        "latitude": 49.03632, 
+        "longitude": 2.079568, 
+        "name": "50021 - CER21 - DALLE PI\u00c9TONNE GRAND CENTRE", 
+        "timestamp": "2017-08-15T04:47:55.413000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "ROUTE D14, DEVANT LE COMPLEXE SPORTIF ARENICE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772004000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 50025
+        }, 
+        "free_bikes": 5, 
+        "id": "2c378025560bea150bea2d9f84037317", 
+        "latitude": 49.050988, 
+        "longitude": 2.057324, 
+        "name": "50025 - CER25 - ARENICE", 
+        "timestamp": "2017-08-15T04:47:55.442000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "RUE DES LILAS ANGLE BOULEVARD DU PORT - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772083000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 50019
+        }, 
+        "free_bikes": 4, 
+        "id": "4ef5c350be7138fbf992b50338a68607", 
+        "latitude": 49.034625, 
+        "longitude": 2.067596, 
+        "name": "50019 - CER19 - RUE DES LILAS", 
+        "timestamp": "2017-08-15T04:47:55.410000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "PLACE DE LA CHALLE ANGLE RUE DE LA CHALLE ORANGE 95600 - ERAGNY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772060000, 
+          "slots": 23, 
+          "status": "OPEN", 
+          "uid": 56104
+        }, 
+        "free_bikes": 7, 
+        "id": "81ad30aa56273297d35a2a65aafefa69", 
+        "latitude": 49.017696834806, 
+        "longitude": 2.09941681180915, 
+        "name": "56104 - ERA04 - LA CHALLE (CB)", 
+        "timestamp": "2017-08-15T04:47:55.414000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "RUE DE L'ESPLANADE DE PARIS ANGLE BOULEVARD DE L'OISE - 95000 CERGY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772135000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 50008
+        }, 
+        "free_bikes": 6, 
+        "id": "a69469a1c33dd3d5fb27235d05ace56c", 
+        "latitude": 49.044092, 
+        "longitude": 2.036546, 
+        "name": "50008 - CER08 - AXE MAJEUR (CB)", 
+        "timestamp": "2017-08-15T04:47:55.415000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Place du G\u00e9n\u00e9ral de Gaulle devant la Gare - 95300 PONTOISE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772070000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 53001
+        }, 
+        "free_bikes": 10, 
+        "id": "e1b0142ff9bd331c3d27f4d538506e11", 
+        "latitude": 49.047619, 
+        "longitude": 2.096823, 
+        "name": "53001 - PON01 - RUE SERE-DEPOIN (CB)", 
+        "timestamp": "2017-08-15T04:47:55.416000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Place de la Lib\u00e9ration c\u00f4t\u00e9 avenue de Verdun - 95300 PONTOISE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772081000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 53002
+        }, 
+        "free_bikes": 4, 
+        "id": "9c1798525a02b9095cfea7da24782a49", 
+        "latitude": 49.044395, 
+        "longitude": 2.090632, 
+        "name": "53002 - PON02 - PLACE DE LA LIB\u00c9RATION", 
+        "timestamp": "2017-08-15T04:47:55.416000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Place du Rendez-Vous c\u00f4t\u00e9 avenue Louis Lecoin - 95490 VAUREAL", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772060000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 54901
+        }, 
+        "free_bikes": 7, 
+        "id": "7d5e97c2cd003c6c6d559d95db54fdb3", 
+        "latitude": 49.0329335916808, 
+        "longitude": 2.02031242929915, 
+        "name": "54901 - VAU01 - PLACE DU RDV (CB)", 
+        "timestamp": "2017-08-15T04:47:55.417000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "RUE DU BAS NOYER DEVANT CENTRE COMMERCIAL ART DE VIVRE - ERAGNY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772092000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 56105
+        }, 
+        "free_bikes": 8, 
+        "id": "1eab36e8d5e66bf26467fb50b3524835", 
+        "latitude": 49.03223, 
+        "longitude": 2.101656, 
+        "name": "56105 - ERA05- BAS NOYER (CB)", 
+        "timestamp": "2017-08-15T04:47:55.418000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "AVENUE DU BON TEMPS ANGLE AVENUE DU HAZAY - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772095000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 50004
+        }, 
+        "free_bikes": 6, 
+        "id": "2652faf427800e255d804f87b38a067e", 
+        "latitude": 49.052785, 
+        "longitude": 2.017956, 
+        "name": "50004 - CER04 - LE BON TEMPS", 
+        "timestamp": "2017-08-15T04:47:55.421000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Rue des petits pr\u00e9s  95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772087000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 50024
+        }, 
+        "free_bikes": 5, 
+        "id": "e0589cd17c4449410bfc2dc8e2b850fb", 
+        "latitude": 49.038058, 
+        "longitude": 2.070534, 
+        "name": "50024 - CER24 - CROIX PETIT", 
+        "timestamp": "2017-08-15T04:47:55.422000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "RUE DES CH\u00caNES D'OR ANGLE BOULEVARD DU PORT - 95000 CERGY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772083000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 50016
+        }, 
+        "free_bikes": 4, 
+        "id": "700b9739190fa7e531d1835b14bc252a", 
+        "latitude": 49.038874, 
+        "longitude": 2.076405, 
+        "name": "50016 - CER16 - UNIVERSIT\u00c9 LES CH\u00caNES (CB)", 
+        "timestamp": "2017-08-15T04:47:55.430000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "ALL\u00c9E DU BELV\u00c9D\u00c8RE ANGLE ROND POINT DES RAIES - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772074000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 50013
+        }, 
+        "free_bikes": 5, 
+        "id": "0041306bf4b6a7a866438b32fab670aa", 
+        "latitude": 49.044831, 
+        "longitude": 2.053462, 
+        "name": "50013 - CER13 - ROND-POINT DES RAIES", 
+        "timestamp": "2017-08-15T04:47:55.431000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Avenue Fran\u00e7ois Mitterand c\u00f4t\u00e9 boulevard du Port - 95300 PONTOISE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772067000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 53003
+        }, 
+        "free_bikes": 8, 
+        "id": "08c8e51eb7dc9f8ab5de6c0636f653c6", 
+        "latitude": 49.0435829707344, 
+        "longitude": 2.08480803731778, 
+        "name": "53003 - PON03 - UNIVERSIT\u00c9 ST MARTIN", 
+        "timestamp": "2017-08-15T04:47:55.433000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "RUE DES BELLES H\u00c2TES ANGLE BOULEVARD DES AVIATEURS ALLI\u00c9S 95600 - ERAGNY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772324000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 56103
+        }, 
+        "free_bikes": 12, 
+        "id": "100358e41ad6618b4a2037e20cc80625", 
+        "latitude": 49.0180572637007, 
+        "longitude": 2.09102625541638, 
+        "name": "56103 - ERA03 - GARE D'ERAGNY (CB)", 
+        "timestamp": "2017-08-15T04:47:55.437000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "AVENUE DE L'ENTREPRISE ANGLE ROND POINT DU C\u00c8DRE - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772083000, 
+          "slots": 34, 
+          "status": "OPEN", 
+          "uid": 50007
+        }, 
+        "free_bikes": 6, 
+        "id": "774e0b7712b0d4b414690c4f26171293", 
+        "latitude": 49.042999, 
+        "longitude": 2.029687, 
+        "name": "50007 - CER07 -  PARC ST-CHRISTOPHE", 
+        "timestamp": "2017-08-15T04:47:55.439000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "PLACE DES LINANDES - 95000 CERGY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772099000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 50015
+        }, 
+        "free_bikes": 7, 
+        "id": "a98d017365cf2d0853753cf59ef9e199", 
+        "latitude": 49.043284, 
+        "longitude": 2.068934, 
+        "name": "50015 - CER15 - PLACE DES LINANDES (CB)", 
+        "timestamp": "2017-08-15T04:47:55.440000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "BOULEVARD DU PORT ANGLE RUE JEAN BART - 95000 CERGY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772231000, 
+          "slots": 27, 
+          "status": "OPEN", 
+          "uid": 50018
+        }, 
+        "free_bikes": 10, 
+        "id": "c620f3ebca5a2bdedaaa767bce62d77d", 
+        "latitude": 49.031214, 
+        "longitude": 2.061506, 
+        "name": "50018 - CER18 - PORT CERGY (CB)", 
+        "timestamp": "2017-08-15T04:47:55.445000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Boulevard des chasseurs angle boulevard Sainte Apolline - 95400 COURDIMANCHE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772072000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 56401
+        }, 
+        "free_bikes": 5, 
+        "id": "2221fbf9d2e3c219dae68433427fa2e6", 
+        "latitude": 49.0452230206183, 
+        "longitude": 2.00250713459357, 
+        "name": "56401 - COU01 - LA LOUVIERE (CB)", 
+        "timestamp": "2017-08-15T04:47:55.446000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "AVENUE FERNAND CHATELAIN ANGLE RUE DE PIERRELAYE 95600 - ERAGNY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772094000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 56102
+        }, 
+        "free_bikes": 6, 
+        "id": "515638874a544272ac3f05bea4aafba9", 
+        "latitude": 49.0230651147826, 
+        "longitude": 2.11045996684615, 
+        "name": "56102 - ERA02 - CHARLES DE GAULLE", 
+        "timestamp": "2017-08-15T04:47:55.447000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Rue de l'Ambassadeur angle rue des Anglais - 95610 ERAGNY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772081000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 56106
+        }, 
+        "free_bikes": 8, 
+        "id": "2dd1ad8ddbe5a29125c9a1de76d0d52e", 
+        "latitude": 49.0112158195145, 
+        "longitude": 2.09846304107412, 
+        "name": "56106 - ERA06 - CENTRE TECHNIQUE MUNICIPAL", 
+        "timestamp": "2017-08-15T04:47:55.448000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Avenue du Hazay angle rue de la Destin\u00e9e - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772082000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 50002
+        }, 
+        "free_bikes": 17, 
+        "id": "7197ba267c52f6392299475fbea02dea", 
+        "latitude": 49.046868, 
+        "longitude": 2.01362, 
+        "name": "50002 - CER02 - AVENUE DU HAZAY", 
+        "timestamp": "2017-08-15T04:47:55.454000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "CHEMIN DE CERGY DEVANT LA GARE - 95010 NEUVILLE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772090000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 50101
+        }, 
+        "free_bikes": 8, 
+        "id": "14e2ee6ebddb2fbd6259de957ef17c57", 
+        "latitude": 49.014534, 
+        "longitude": 2.078945, 
+        "name": "50101 - P\u00d4LE GARE (CB)", 
+        "timestamp": "2017-08-15T04:47:55.455000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "AVENUE DE LA BELLE HEAUMI\u00c8RE ANGLE SQUARE DE L'ECHIQUIER - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772083000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 50006
+        }, 
+        "free_bikes": 4, 
+        "id": "be336eec578bfa57f07b1f286cb2516d", 
+        "latitude": 49.048957, 
+        "longitude": 2.026947, 
+        "name": "50006 - CER06 - LE CHAT PERCH\u00c9", 
+        "timestamp": "2017-08-15T04:47:55.456000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "PLACE DES 3 GARES - 95000 CERGY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772057000, 
+          "slots": 29, 
+          "status": "OPEN", 
+          "uid": 50001
+        }, 
+        "free_bikes": 19, 
+        "id": "a2760895d3168c6255b7bea0f366027b", 
+        "latitude": 49.048246, 
+        "longitude": 2.011238, 
+        "name": "50001 - CER01 - GARE LES HAUTS DE CERGY(CB)", 
+        "timestamp": "2017-08-15T04:47:55.457000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "RUE DES G\u00c9MEAUX - 95000 CERGY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771955000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 50011
+        }, 
+        "free_bikes": 10, 
+        "id": "959a9432e740701321272116d6680934", 
+        "latitude": 49.051599, 
+        "longitude": 2.036105, 
+        "name": "50011 - CER11 - PLACE DE L'HOTEL DE VILLE (CB)", 
+        "timestamp": "2017-08-15T04:47:55.458000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Rond Point de la Croix Lieu c\u00f4t\u00e9 avenue Gandhi - 95490 VAUREAL", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772232000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 54902
+        }, 
+        "free_bikes": 7, 
+        "id": "ed4bdced91525e60414cbd06ee6d281c", 
+        "latitude": 49.0301062798099, 
+        "longitude": 2.02157336740974, 
+        "name": "54902 - VAU02 - MAIRIE CROIX-LIEU(CB)", 
+        "timestamp": "2017-08-15T04:47:55.459000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "BOULEVARD DE L'OISE / RUE DE LA GARE - 95000 CERGY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772062000, 
+          "slots": 27, 
+          "status": "OPEN", 
+          "uid": 50022
+        }, 
+        "free_bikes": 20, 
+        "id": "e6b26111a42dc013eb942b88941634d8", 
+        "latitude": 49.036036, 
+        "longitude": 2.079612, 
+        "name": "50022 - CER22 - GARE CERGY GRAND CENTRE (CB)", 
+        "timestamp": "2017-08-15T04:47:55.460000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "BOULEVARD CHARLES DE GAULLE ANGLE BOULEVARD JACQUES DUCLOS 95600 - ERAGNY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772084000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 56101
+        }, 
+        "free_bikes": 4, 
+        "id": "716b74d6992878edffdca71175249247", 
+        "latitude": 49.0242104711371, 
+        "longitude": 2.10326750859631, 
+        "name": "56101 - ERA01 - LA DANNE", 
+        "timestamp": "2017-08-15T04:47:55.461000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "AVENUE DES ESSARTS ANGLE BOULEVARD DE L'OISE - 95000 CERGY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772051000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 50003
+        }, 
+        "free_bikes": 4, 
+        "id": "f176c979a393500c503d87ac0a82767a", 
+        "latitude": 49.042318, 
+        "longitude": 2.01958, 
+        "name": "50003 - CER03 - LES ESSARTS (CB)", 
+        "timestamp": "2017-08-15T04:47:55.462000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "AVENUE DU PARC ANGLE BOULEVARD DE L'HAUTIL - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772089000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 50020
+        }, 
+        "free_bikes": 1, 
+        "id": "b5ebd2d2d66fb121a477dca48a698062", 
+        "latitude": 49.032107, 
+        "longitude": 2.074345, 
+        "name": "50020 - CONSEIL G\u00c9N\u00c9RAL", 
+        "timestamp": "2017-08-15T04:47:55.463000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "AVENUE DU NORD ANGLE ALL\u00c9E DES ACACIAS - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772043000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 50014
+        }, 
+        "free_bikes": 5, 
+        "id": "6708f4710beeef11a6b7023882ee3107", 
+        "latitude": 49.043224, 
+        "longitude": 2.060405, 
+        "name": "50014 - CER14 - AVENUE DU NORD", 
+        "timestamp": "2017-08-15T04:47:55.463000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "MAIL MENDES FRANCE ANGLE AVENUE DE LA REVOLUTION FRANCAISE - 95490 VAUREAL", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772089000, 
+          "slots": 22, 
+          "status": "OPEN", 
+          "uid": 54905
+        }, 
+        "free_bikes": 6, 
+        "id": "1fb265a52b511aa44f4c30b496f61a6d", 
+        "latitude": 49.0231625956251, 
+        "longitude": 2.02948629121322, 
+        "name": "54905 - VAU05 - LES TOUPETS", 
+        "timestamp": "2017-08-15T04:47:55.464000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "AVENUE DU HAZAY ANGLE RUE DE L'AISSELETTE - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772096000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 50005
+        }, 
+        "free_bikes": 7, 
+        "id": "5f90d4458f04737b42cee240ec1d4b3b", 
+        "latitude": 49.049401, 
+        "longitude": 2.017075, 
+        "name": "50005 - CER05 - MOULIN A VENT", 
+        "timestamp": "2017-08-15T04:47:55.465000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "PLACE DU HAUT DE GENCY ANGLE RUE DES VENDANGES PROCHAINES - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772124000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 50012
+        }, 
+        "free_bikes": 7, 
+        "id": "0d73db1cf862edf5e381df92c1597ba7", 
+        "latitude": 49.046588, 
+        "longitude": 2.04512, 
+        "name": "50012 - CER12 - PLACE DU HAUT-GENCY", 
+        "timestamp": "2017-08-15T04:47:55.466000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "BD DE L'OISE ANGLE RUE DE LA PALETTE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772077000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 53004
+        }, 
+        "free_bikes": 5, 
+        "id": "c6120c495bb0bc4cb19acb906b9da7dc", 
+        "latitude": 49.032140952207, 
+        "longitude": 2.08780221085683, 
+        "name": "53004 - PON04 - LA PALETTE", 
+        "timestamp": "2017-08-15T04:47:55.467000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "MAIL MENDES FRANCE ANGLE BOULEVARD DE L'OISE - 95490 VAUREAL", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772182000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 54904
+        }, 
+        "free_bikes": 6, 
+        "id": "302ed13ed1491b848045589a1b2df9d6", 
+        "latitude": 49.023836592832, 
+        "longitude": 2.02259548583062, 
+        "name": "54904 - VAU04 - MENDES FRANCE", 
+        "timestamp": "2017-08-15T04:47:55.420000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "RUE DES PAS PERDUS - 95000 CERGY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772059000, 
+          "slots": 28, 
+          "status": "OPEN", 
+          "uid": 50010
+        }, 
+        "free_bikes": 8, 
+        "id": "9c392f89eb4a58aa8db5c8225a887789", 
+        "latitude": 49.0493, 
+        "longitude": 2.035223, 
+        "name": "50010 - CER10 - GARE CERGY AXE MAJ HORLOGE (CB)", 
+        "timestamp": "2017-08-15T04:47:55.469000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "AVENUE DU SUD - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772084000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 50023
+        }, 
+        "free_bikes": 5, 
+        "id": "01cf9d8c82c71c7adffc423d6fa3f718", 
+        "latitude": 49.030665, 
+        "longitude": 2.083067, 
+        "name": "50023 - CER23 - LES TOULEUSES", 
+        "timestamp": "2017-08-15T04:47:55.419000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Av du G\u00e9n\u00e9ral Leclerc / rue du 8 mai 1945 - 95310 SAINT OUEN L'AUMONE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772222000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 53102
+        }, 
+        "free_bikes": 4, 
+        "id": "fb92229c5d8548b493d40ac478b22173", 
+        "latitude": 49.0462492033273, 
+        "longitude": 2.1057103478728, 
+        "name": "53102 - SOA02 - GARE SOA CENTRE", 
+        "timestamp": "2017-08-15T04:47:55.468000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "88, RUE DU BR\u00dbLOIR ANGLE RUE DES TOULEUSES POURPRES - 95000 CERGY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772109000, 
+          "slots": 11, 
+          "status": "OPEN", 
+          "uid": 50009
+        }, 
+        "free_bikes": 3, 
+        "id": "de18b670c18c53179d0ec72484f31e2e", 
+        "latitude": 49.027239, 
+        "longitude": 2.077178, 
+        "name": "50009 - CER09 - RUE DU BR\u00dbLOIR", 
+        "timestamp": "2017-08-15T04:47:55.438000Z"
+      }
+    ]
+  }
+}

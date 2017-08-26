@@ -1,0 +1,256 @@
+{
+  "network": {
+    "company": [
+      "Bradesco Seguros"
+    ], 
+    "href": "/v2/networks/ciclosampa", 
+    "id": "ciclosampa", 
+    "location": {
+      "city": "S\u00e3o Paulo", 
+      "country": "BR", 
+      "latitude": -23.55, 
+      "longitude": -46.6333
+    }, 
+    "name": "CicloSampa", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Av. Ant\u00f4nio Batuira 450", 
+          "slots": 16, 
+          "uid": 11
+        }, 
+        "free_bikes": 4, 
+        "id": "f783d903f92a164bd3a6db3f4c32a333", 
+        "latitude": -23.555116, 
+        "longitude": -46.707991, 
+        "name": "Esta\u00e7\u00e3o Pra\u00e7a Panamericana", 
+        "timestamp": "2017-08-15T04:48:34.875000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Alameda Campinas 1575", 
+          "slots": 8, 
+          "uid": 7
+        }, 
+        "free_bikes": 5, 
+        "id": "e8bf71e2c22c04b77a244bf10cc57d00", 
+        "latitude": -23.573231, 
+        "longitude": -46.660441, 
+        "name": "Esta\u00e7\u00e3o Campinas", 
+        "timestamp": "2017-08-15T04:48:34.868000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rua Peru 10", 
+          "slots": 12, 
+          "uid": 9
+        }, 
+        "free_bikes": 3, 
+        "id": "17bd0aa2c441688fa27f293f6edadacb", 
+        "latitude": -23.570832, 
+        "longitude": -46.670955, 
+        "name": "Esta\u00e7\u00e3o Brasil", 
+        "timestamp": "2017-08-15T04:48:34.872000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Pra\u00e7a General Gentil Falc\u00e3o 139", 
+          "slots": 16, 
+          "uid": 14
+        }, 
+        "free_bikes": 4, 
+        "id": "aa15e9fac0391976920464cf24e5fa9f", 
+        "latitude": -23.605373, 
+        "longitude": -46.694637, 
+        "name": "Esta\u00e7\u00e3o Berrini", 
+        "timestamp": "2017-08-15T04:48:34.883000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rua Helion P\u00f3voa 177", 
+          "slots": 12, 
+          "uid": 15
+        }, 
+        "free_bikes": 3, 
+        "id": "d18218272b29e66a67322d945bb6aee0", 
+        "latitude": -23.598245, 
+        "longitude": -46.676007, 
+        "name": "Esta\u00e7\u00e3o Helio Pelegrino", 
+        "timestamp": "2017-08-15T04:48:34.889000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Av. Pedroso de Morais 951", 
+          "slots": 16, 
+          "uid": 16
+        }, 
+        "free_bikes": 2, 
+        "id": "d12c1c4d18b9dd925d27c82405bbffec", 
+        "latitude": -23.562062, 
+        "longitude": -46.692557, 
+        "name": "Esta\u00e7\u00e3o Pedroso", 
+        "timestamp": "2017-08-15T04:48:34.892000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rua Adolfo Tabacow 144", 
+          "slots": 12, 
+          "uid": 17
+        }, 
+        "free_bikes": 3, 
+        "id": "6d984b688ffc2b1a662eba08d4aebab4", 
+        "latitude": -23.583738, 
+        "longitude": -46.683822, 
+        "name": "Esta\u00e7\u00e3o Cidade Jardim", 
+        "timestamp": "2017-08-15T04:48:34.893000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rua: Inglaterra 444", 
+          "slots": 8, 
+          "uid": 19
+        }, 
+        "free_bikes": 2, 
+        "id": "11edcdc74f826738908f3a61432f9e99", 
+        "latitude": -23.574829, 
+        "longitude": -46.678271, 
+        "name": "Esta\u00e7\u00e3o Europa", 
+        "timestamp": "2017-08-15T04:48:34.893000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rua Haddock Lobo 714", 
+          "slots": 8, 
+          "uid": 2
+        }, 
+        "free_bikes": 2, 
+        "id": "774466d26209a6a0497db2c273999bc8", 
+        "latitude": -23.5586739, 
+        "longitude": -46.66238, 
+        "name": "Esta\u00e7\u00e3o Teatro Renaissance", 
+        "timestamp": "2017-08-15T04:48:34.851000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rua Pamplona 1239", 
+          "slots": 12, 
+          "uid": 3
+        }, 
+        "free_bikes": 4, 
+        "id": "17b7884d52c704aae95e9a73695d093f", 
+        "latitude": -23.568, 
+        "longitude": -46.65792, 
+        "name": "Esta\u00e7\u00e3o Pamplona", 
+        "timestamp": "2017-08-15T04:48:34.858000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Av. Padre Pereira de Andrade 771", 
+          "slots": 16, 
+          "uid": 10
+        }, 
+        "free_bikes": 10, 
+        "id": "a8bb568eda668be2797f8cfff86a8685", 
+        "latitude": -23.543321, 
+        "longitude": -46.718781, 
+        "name": "Esta\u00e7\u00e3o Parque Vila Lobos", 
+        "timestamp": "2017-08-15T04:48:34.874000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Rua Delfina 35", 
+          "slots": 12, 
+          "uid": 12
+        }, 
+        "free_bikes": 2, 
+        "id": "6493c9b991c763bcdfd6e81710802b6a", 
+        "latitude": -23.554939, 
+        "longitude": -46.693526, 
+        "name": "Esta\u00e7\u00e3o Delfina", 
+        "timestamp": "2017-08-15T04:48:34.876000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Alameda Raja Gabaglia 141", 
+          "slots": 12, 
+          "uid": 13
+        }, 
+        "free_bikes": 2, 
+        "id": "5221ba46d62620a6a924e24a4ebcfeaa", 
+        "latitude": -23.595492, 
+        "longitude": -46.689216, 
+        "name": "Esta\u00e7\u00e3o Vila Ol\u00edmpia", 
+        "timestamp": "2017-08-15T04:48:34.882000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Rua da Consola\u00e7\u00e3o 3577", 
+          "slots": 8, 
+          "uid": 8
+        }, 
+        "free_bikes": 4, 
+        "id": "2a136c0f48ad634c262dbf8ec60e2ce3", 
+        "latitude": -23.562473, 
+        "longitude": -46.66999, 
+        "name": "Esta\u00e7\u00e3o Oscar Freire", 
+        "timestamp": "2017-08-15T04:48:34.870000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Rua Desembargador Eliseu Guilherme 14", 
+          "slots": 16, 
+          "uid": 1
+        }, 
+        "free_bikes": 4, 
+        "id": "bd7b78cc60b86efd8cc452cf8def34bb", 
+        "latitude": -23.572208, 
+        "longitude": -46.644283, 
+        "name": "Esta\u00e7\u00e3o Hcor", 
+        "timestamp": "2017-08-15T04:48:34.845000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Rua Itapeva 657", 
+          "slots": 16, 
+          "uid": 4
+        }, 
+        "free_bikes": 4, 
+        "id": "c64e456ca1dbec7b6e87747ec3d5e189", 
+        "latitude": -23.5620747, 
+        "longitude": -46.65446, 
+        "name": "Esta\u00e7\u00e3o Itapeva", 
+        "timestamp": "2017-08-15T04:48:34.863000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Rua Macau 26", 
+          "slots": 16, 
+          "uid": 6
+        }, 
+        "free_bikes": 9, 
+        "id": "279377798a8f6d4ad026fb518cbba9c3", 
+        "latitude": -23.593896, 
+        "longitude": -46.660231, 
+        "name": "Esta\u00e7\u00e3o Parque Ibirapuera II", 
+        "timestamp": "2017-08-15T04:48:34.864000Z"
+      }
+    ]
+  }
+}

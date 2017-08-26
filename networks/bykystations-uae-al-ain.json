@@ -1,0 +1,81 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/bykystations-uae-al-ain", 
+    "id": "bykystations-uae-al-ain", 
+    "location": {
+      "city": "Al Ain", 
+      "country": "AE", 
+      "latitude": 24.2989, 
+      "longitude": 54.6979
+    }, 
+    "name": "BYKYstations UAE", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "66158", 
+            "66145", 
+            "66135", 
+            "66115", 
+            "66114"
+          ], 
+          "number": "6631", 
+          "slots": 16, 
+          "uid": "257262"
+        }, 
+        "free_bikes": 10, 
+        "id": "d2fb4389461e9667cb99a6b9ed003a14", 
+        "latitude": 24.218152, 
+        "longitude": 55.763607, 
+        "name": "Al Ain Oasis", 
+        "timestamp": "2017-08-15T04:50:13.885000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "66209", 
+            "66185", 
+            "66174", 
+            "66156", 
+            "66131"
+          ], 
+          "number": "6639", 
+          "slots": 14, 
+          "uid": "257263"
+        }, 
+        "free_bikes": 9, 
+        "id": "6173dfabfacd811ca01267b3beb7dbf9", 
+        "latitude": 24.231002, 
+        "longitude": 55.768003, 
+        "name": "Al Ain Oasis 2", 
+        "timestamp": "2017-08-15T04:50:13.889000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "66189", 
+            "66172", 
+            "66152", 
+            "66107", 
+            "66286"
+          ], 
+          "number": "6633", 
+          "slots": 16, 
+          "uid": "314067"
+        }, 
+        "free_bikes": 9, 
+        "id": "454e6beb96fea02950a02ed7f3f1d7ed", 
+        "latitude": 24.217465, 
+        "longitude": 55.773175, 
+        "name": "Al Ain Oasis 3", 
+        "timestamp": "2017-08-15T04:50:13.890000Z"
+      }
+    ]
+  }
+}

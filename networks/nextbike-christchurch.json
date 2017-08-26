@@ -1,0 +1,156 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-christchurch", 
+    "id": "nextbike-christchurch", 
+    "location": {
+      "city": "Christchurch", 
+      "country": "NZ", 
+      "latitude": -43.5341, 
+      "longitude": 172.621
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "64331", 
+            "64330", 
+            "64328", 
+            "64323", 
+            "64313"
+          ], 
+          "number": "7810", 
+          "slots": 10, 
+          "uid": "711990"
+        }, 
+        "free_bikes": 6, 
+        "id": "7d818baaca7ab1da46b9733ac580e886", 
+        "latitude": -43.535078293225, 
+        "longitude": 172.63686418533, 
+        "name": "630 Colombo St (Bus Interchange)", 
+        "timestamp": "2017-08-15T04:49:15.360000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "64336", 
+            "64320", 
+            "64312", 
+            "64300"
+          ], 
+          "number": "7800", 
+          "slots": 9, 
+          "uid": "348130"
+        }, 
+        "free_bikes": 4, 
+        "id": "77927ece0b67d67e913ec2c314bb47e1", 
+        "latitude": -43.53628774451, 
+        "longitude": 172.63982534409, 
+        "name": "224 Tuam st (EPIC)", 
+        "timestamp": "2017-08-15T04:49:15.357000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "number": "7881", 
+          "slots": 4, 
+          "uid": "3392192"
+        }, 
+        "free_bikes": 0, 
+        "id": "ccb7c69e57ccfe0f3f85546119e75bbf", 
+        "latitude": -43.538407142442, 
+        "longitude": 172.64350533485, 
+        "name": "Ara \u014ctautahi House", 
+        "timestamp": "2017-08-15T04:49:15.363000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "64335", 
+            "64315", 
+            "64302", 
+            "64301"
+          ], 
+          "number": "7804", 
+          "slots": 9, 
+          "uid": "348126"
+        }, 
+        "free_bikes": 4, 
+        "id": "fc834c60e10ed17a2c25d3265a177144", 
+        "latitude": -43.531212553141, 
+        "longitude": 172.63018012047, 
+        "name": "28 Worcester blvd (The Arts Centre)", 
+        "timestamp": "2017-08-15T04:49:15.351000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "64333", 
+            "64332", 
+            "64326", 
+            "64319", 
+            "64318"
+          ], 
+          "number": "7802", 
+          "slots": 9, 
+          "uid": "348128"
+        }, 
+        "free_bikes": 5, 
+        "id": "5836a2a1965d6fd28ef3f87a46b71e88", 
+        "latitude": -43.529750196521, 
+        "longitude": 172.63747572899, 
+        "name": "125 Gloucester st", 
+        "timestamp": "2017-08-15T04:49:15.354000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "64338", 
+            "64334", 
+            "64329", 
+            "64317", 
+            "64306"
+          ], 
+          "number": "7801", 
+          "slots": 9, 
+          "uid": "348129"
+        }, 
+        "free_bikes": 5, 
+        "id": "22345d8a5c20a946af8dd698ca863be6", 
+        "latitude": -43.524196029728, 
+        "longitude": 172.63023376465, 
+        "name": "99 Victoria st (Food Containers)", 
+        "timestamp": "2017-08-15T04:49:15.356000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "64337", 
+            "64321", 
+            "64316", 
+            "64307", 
+            "64303"
+          ], 
+          "number": "7803", 
+          "slots": 9, 
+          "uid": "348127"
+        }, 
+        "free_bikes": 5, 
+        "id": "d735837af77cafb52e7633c58d6a3bec", 
+        "latitude": -43.533196012105, 
+        "longitude": 172.63378500938, 
+        "name": "96 Oxford tce (Re:START Mall)", 
+        "timestamp": "2017-08-15T04:49:15.353000Z"
+      }
+    ]
+  }
+}

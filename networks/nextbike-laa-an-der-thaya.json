@@ -1,0 +1,56 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-laa-an-der-thaya", 
+    "id": "nextbike-laa-an-der-thaya", 
+    "location": {
+      "city": "Laa an der Thaya", 
+      "country": "AT", 
+      "latitude": 48.7196, 
+      "longitude": 16.3878
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08874", 
+            "08693", 
+            "08493"
+          ], 
+          "number": "3553", 
+          "uid": "90401"
+        }, 
+        "free_bikes": 3, 
+        "id": "3dd00a60589efd01dc0ff9c2ec03018b", 
+        "latitude": 48.723072013448, 
+        "longitude": 16.402652263641, 
+        "name": "Laa / Bahnhof", 
+        "timestamp": "2017-08-15T04:48:34.891000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "08728", 
+            "08696", 
+            "08684", 
+            "08673", 
+            "08371"
+          ], 
+          "number": "3554", 
+          "uid": "90402"
+        }, 
+        "free_bikes": 5, 
+        "id": "143c2fdc82c4f37645a5795e098dd1a9", 
+        "latitude": 48.72129899244, 
+        "longitude": 16.38629078865, 
+        "name": "Laa / Stadtplatz - Rathaus", 
+        "timestamp": "2017-08-15T04:48:34.904000Z"
+      }
+    ]
+  }
+}

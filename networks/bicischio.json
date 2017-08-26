@@ -1,0 +1,54 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicischio", 
+    "id": "bicischio", 
+    "location": {
+      "city": "Schio", 
+      "country": "IT", 
+      "latitude": 45.7170517, 
+      "longitude": 11.3597702
+    }, 
+    "name": "BiciSchio", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "a4a420035feef9b556c3f777302a8561", 
+        "latitude": 45.71476486466833, 
+        "longitude": 11.35810375213623, 
+        "name": "Duomo", 
+        "timestamp": "2017-08-15T04:47:39.181000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "239a56f91c64fd0e37eac5a540aa722c", 
+        "latitude": 45.711393721138606, 
+        "longitude": 11.358017921447754, 
+        "name": "Stazione FS", 
+        "timestamp": "2017-08-15T04:47:39.184000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "887924b6394ae2155bdff9012590c771", 
+        "latitude": 45.71876502449392, 
+        "longitude": 11.35987401008606, 
+        "name": "Stazione Bus", 
+        "timestamp": "2017-08-15T04:47:39.185000Z"
+      }
+    ]
+  }
+}

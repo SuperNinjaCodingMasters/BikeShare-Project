@@ -1,0 +1,39 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-waiblingen", 
+    "id": "ebikestation-waiblingen", 
+    "location": {
+      "city": "Waiblingen", 
+      "country": "DE", 
+      "latitude": 48.8333, 
+      "longitude": 9.31667
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "91546", 
+            "91664", 
+            "91509", 
+            "91602", 
+            "91721"
+          ], 
+          "number": "5802", 
+          "slots": 12, 
+          "uid": "339930"
+        }, 
+        "free_bikes": 10, 
+        "id": "706b1f757e7107586aafda28ea2e788d", 
+        "latitude": 48.826238233345, 
+        "longitude": 9.3012142181396, 
+        "name": "E-Bike-Station Waiblingen", 
+        "timestamp": "2017-08-15T04:49:56.576000Z"
+      }
+    ]
+  }
+}

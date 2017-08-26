@@ -1,0 +1,451 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_linkdayton/gbfs.json", 
+    "href": "/v2/networks/linkdayton", 
+    "id": "linkdayton", 
+    "location": {
+      "city": "Dayton, OH", 
+      "country": "US", 
+      "latitude": 39.75626, 
+      "longitude": -84.21119
+    }, 
+    "name": "Link", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "alumni lane", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3031"
+        }, 
+        "free_bikes": 7, 
+        "id": "ffaf6a6b375527e12b94756040c3a240", 
+        "latitude": 39.73862, 
+        "longitude": -84.17515, 
+        "name": "Central Campus", 
+        "timestamp": "2017-08-15T04:50:48.518000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Market St", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3016"
+        }, 
+        "free_bikes": 2, 
+        "id": "5311938f91a0bffe72244fedb608f22e", 
+        "latitude": 39.75925, 
+        "longitude": -84.19188, 
+        "name": "Wright Stop Plaza ", 
+        "timestamp": "2017-08-15T04:50:48.515000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1024 West Third St", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3011"
+        }, 
+        "free_bikes": 6, 
+        "id": "cf6377c3be876f07e6b8d70ceef9690c", 
+        "latitude": 39.75626, 
+        "longitude": -84.21119, 
+        "name": "Wright Dunbar", 
+        "timestamp": "2017-08-15T04:50:48.505000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Riverview and McDaniel St.", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3012"
+        }, 
+        "free_bikes": 4, 
+        "id": "fe92b89cc9b925a7a6acfa0adfc18c00", 
+        "latitude": 39.76601, 
+        "longitude": -84.19666, 
+        "name": "McPherson Town", 
+        "timestamp": "2017-08-15T04:50:48.507000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "456 Belmonte Park N", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3013"
+        }, 
+        "free_bikes": 8, 
+        "id": "b088b2ffe7150f7e307756398c41e68b", 
+        "latitude": 39.76591, 
+        "longitude": -84.20257, 
+        "name": "Grafton Hill @ Dayton Art Institute", 
+        "timestamp": "2017-08-15T04:50:48.506000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "N Main St. and W First St. ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3014"
+        }, 
+        "free_bikes": 9, 
+        "id": "c381a838ae0d892136e29a1c70956f28", 
+        "latitude": 39.76256, 
+        "longitude": -84.1928, 
+        "name": "N Main St. ", 
+        "timestamp": "2017-08-15T04:50:48.509000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "N Main St.", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3015"
+        }, 
+        "free_bikes": 5, 
+        "id": "51ac896a2358017a470eb6fbdae46b80", 
+        "latitude": 39.76045, 
+        "longitude": -84.19223, 
+        "name": "Courthouse Square", 
+        "timestamp": "2017-08-15T04:50:48.508000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Third St. and Patterson St. ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3017"
+        }, 
+        "free_bikes": 9, 
+        "id": "68d047b4c2bea0d71ae9809ff180e764", 
+        "latitude": 39.7606, 
+        "longitude": -84.18669, 
+        "name": "Patterson Canal", 
+        "timestamp": "2017-08-15T04:50:48.509000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Webster St. and Second St. ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3018"
+        }, 
+        "free_bikes": 6, 
+        "id": "82c221ee4e5da974ead18dee8135fbe1", 
+        "latitude": 39.7626, 
+        "longitude": -84.18161, 
+        "name": "2nd Street Market", 
+        "timestamp": "2017-08-15T04:50:48.517000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Patterson and E Monument Ave. ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3019"
+        }, 
+        "free_bikes": 11, 
+        "id": "abe876f7a44438604774cc0a4c54b2a5", 
+        "latitude": 39.76498, 
+        "longitude": -84.18811, 
+        "name": "RiverScape", 
+        "timestamp": "2017-08-15T04:50:48.516000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "361 W Third Street ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3020"
+        }, 
+        "free_bikes": 7, 
+        "id": "037efb6520bfe05df1f6c4c8750de74a", 
+        "latitude": 39.75859, 
+        "longitude": -84.19846, 
+        "name": "West Third", 
+        "timestamp": "2017-08-15T04:50:48.528000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "444 W Fourth St.", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3021"
+        }, 
+        "free_bikes": 7, 
+        "id": "c789e99b2319afe8f7f5c3a6627e5735", 
+        "latitude": 39.75654, 
+        "longitude": -84.19967, 
+        "name": "West Fourth @ Sinclair Building 3", 
+        "timestamp": "2017-08-15T04:50:48.529000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "E Fifth St. ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3022"
+        }, 
+        "free_bikes": 7, 
+        "id": "e59d2f4a265bf0a97a8978321954e004", 
+        "latitude": 39.75735, 
+        "longitude": -84.18594, 
+        "name": "Oregon District W ", 
+        "timestamp": "2017-08-15T04:50:48.530000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "E Fifth St. and Wayne Ave.", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3023"
+        }, 
+        "free_bikes": 13, 
+        "id": "fa7feb9f106843a956053f1aac34fb7f", 
+        "latitude": 39.75703, 
+        "longitude": -84.18233, 
+        "name": "Oregon District E", 
+        "timestamp": "2017-08-15T04:50:48.531000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "E Fifth and High St", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3024"
+        }, 
+        "free_bikes": 7, 
+        "id": "f6cc82fcedbc3d51bb46cc5f29bd4591", 
+        "latitude": 39.7583, 
+        "longitude": -84.17478, 
+        "name": "St. Anne\u2019s Hill ", 
+        "timestamp": "2017-08-15T04:50:48.523000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Theobald Ct. and Clover St. ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3025"
+        }, 
+        "free_bikes": 7, 
+        "id": "b14a2c7b91ec89799658faa8534144f5", 
+        "latitude": 39.74991, 
+        "longitude": -84.17578, 
+        "name": "Historic South Park", 
+        "timestamp": "2017-08-15T04:50:48.524000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "600 Longworth Street", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3026"
+        }, 
+        "free_bikes": 8, 
+        "id": "12358ed3cf977e721bf64920c388bc5b", 
+        "latitude": 39.74959, 
+        "longitude": -84.19431, 
+        "name": "600 Longworth @ Greater Dayton RTA", 
+        "timestamp": "2017-08-15T04:50:48.524000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Brown St. and Stewart St. ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3027"
+        }, 
+        "free_bikes": 9, 
+        "id": "cce170cd0e497f092a50ede9256d0cd0", 
+        "latitude": 39.74173, 
+        "longitude": -84.18219, 
+        "name": "University Place ", 
+        "timestamp": "2017-08-15T04:50:48.525000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Evanston Ave. and Kiefaber St. ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3028"
+        }, 
+        "free_bikes": 7, 
+        "id": "18ca88b09b146df309c30d04bc1b3ae4", 
+        "latitude": 39.73624, 
+        "longitude": -84.17434, 
+        "name": "RecPlex", 
+        "timestamp": "2017-08-15T04:50:48.521000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Brown St. and Caldwell St. ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3029"
+        }, 
+        "free_bikes": 10, 
+        "id": "7a88368668b8fcaa19c512dc330f9dd8", 
+        "latitude": 39.73777, 
+        "longitude": -84.18139, 
+        "name": "Stonemill", 
+        "timestamp": "2017-08-15T04:50:48.522000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Brown St. and Irving St.", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3030"
+        }, 
+        "free_bikes": 9, 
+        "id": "3b472a4b9952b5ff569c8df7ed480f5a", 
+        "latitude": 39.73389, 
+        "longitude": -84.18045, 
+        "name": "Brown St.", 
+        "timestamp": "2017-08-15T04:50:48.519000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Zehler Ave. ", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3032"
+        }, 
+        "free_bikes": 7, 
+        "id": "6f31246ed5fca6c21018930a17987ca7", 
+        "latitude": 39.74029, 
+        "longitude": -84.1785, 
+        "name": "Roesch Library", 
+        "timestamp": "2017-08-15T04:50:48.533000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Main St. and Fifth St.", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3033"
+        }, 
+        "free_bikes": 6, 
+        "id": "605fd615be999b86481b36b385217ad7", 
+        "latitude": 39.75709, 
+        "longitude": -84.19091, 
+        "name": "Convention Center ", 
+        "timestamp": "2017-08-15T04:50:48.531000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "W Monument Ave. and Wilkinson St.", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3034"
+        }, 
+        "free_bikes": 7, 
+        "id": "1256032d037484e24ff05eee0978d01f", 
+        "latitude": 39.76333, 
+        "longitude": -84.19604, 
+        "name": "W Monument ", 
+        "timestamp": "2017-08-15T04:50:48.520000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Warren St & Oak St.", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3505"
+        }, 
+        "free_bikes": 4, 
+        "id": "c2ea062f6bfeda598fc20da2a0a6e5ac", 
+        "latitude": 39.74651, 
+        "longitude": -84.1831, 
+        "name": "Miami Valley Hospital", 
+        "timestamp": "2017-08-15T04:50:48.504000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1111 S Edwin C Moses Blvd", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3506"
+        }, 
+        "free_bikes": 4, 
+        "id": "9a08433e2a4885652b86d41cd6b07e70", 
+        "latitude": 39.7432, 
+        "longitude": -84.19539, 
+        "name": "Job Center", 
+        "timestamp": "2017-08-15T04:50:48.497000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Monument Ave and Taylor St. (NE corner)", 
+          "last_updated": 1502772632, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_linkdayton_3504"
+        }, 
+        "free_bikes": 4, 
+        "id": "683d2a677954628cc4f04bd59103d557", 
+        "latitude": 39.76575, 
+        "longitude": -84.18087, 
+        "name": "Tech Town", 
+        "timestamp": "2017-08-15T04:50:48.504000Z"
+      }
+    ]
+  }
+}

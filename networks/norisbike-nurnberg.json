@@ -1,0 +1,1301 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/norisbike-nurnberg", 
+    "id": "norisbike-nurnberg", 
+    "location": {
+      "city": "N\u00fcrnberg", 
+      "country": "DE", 
+      "latitude": 49.4479, 
+      "longitude": 11.0814
+    }, 
+    "name": "NorisBike", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "90399", 
+            "90264", 
+            "90521", 
+            "90584"
+          ], 
+          "number": "4677", 
+          "slots": 6, 
+          "uid": "217168"
+        }, 
+        "free_bikes": 4, 
+        "id": "bffcb0a8a7b9b740e63e9457fd26fdf6", 
+        "latitude": 49.512284502563, 
+        "longitude": 11.278281211853, 
+        "name": "Lauf Bhf rechts der Pegnitz", 
+        "timestamp": "2017-08-15T04:50:16.612000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "90339", 
+            "90488", 
+            "90473", 
+            "90758"
+          ], 
+          "number": "4602", 
+          "slots": 17, 
+          "uid": "66093"
+        }, 
+        "free_bikes": 4, 
+        "id": "d5e4ca701943a5986142419c92f2ba68", 
+        "latitude": 49.452632522439, 
+        "longitude": 11.095933914185, 
+        "name": "Ohm-Hochschule (Wassertorstr.)", 
+        "timestamp": "2017-08-15T04:50:16.429000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90061", 
+            "90226", 
+            "90492", 
+            "90852"
+          ], 
+          "number": "4680", 
+          "uid": "779239"
+        }, 
+        "free_bikes": 4, 
+        "id": "67b9f88c0f039df8227e50052a243fbb", 
+        "latitude": 49.451750232172, 
+        "longitude": 11.083359718323, 
+        "name": "Cinecitt\u00e0", 
+        "timestamp": "2017-08-15T04:50:16.623000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90377", 
+            "90536"
+          ], 
+          "number": "4682", 
+          "uid": "779242"
+        }, 
+        "free_bikes": 2, 
+        "id": "9571e701d6796dd50e03626842e3b917", 
+        "latitude": 49.44992282949, 
+        "longitude": 11.070694327354, 
+        "name": "Jakobsplatz/ Dr. Kurt Schumacherstr.", 
+        "timestamp": "2017-08-15T04:50:16.626000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90122", 
+            "90069", 
+            "90274", 
+            "90485"
+          ], 
+          "number": "4685", 
+          "uid": "779248"
+        }, 
+        "free_bikes": 4, 
+        "id": "058caefaae4df9beebe64f6d7d8e6af6", 
+        "latitude": 49.45094, 
+        "longitude": 11.07953, 
+        "name": "Lorenzkirche", 
+        "timestamp": "2017-08-15T04:50:16.631000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90120", 
+            "90390", 
+            "90448", 
+            "90437"
+          ], 
+          "number": "4693", 
+          "uid": "779301"
+        }, 
+        "free_bikes": 4, 
+        "id": "827256f9224520a3cfd3890c249537f7", 
+        "latitude": 49.45745, 
+        "longitude": 11.08799, 
+        "name": "FAU/ Laufer Tor", 
+        "timestamp": "2017-08-15T04:50:16.642000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90628"
+          ], 
+          "number": "4770", 
+          "uid": "750382"
+        }, 
+        "free_bikes": 1, 
+        "id": "66841b6c32c987192f93b6fe59f9cfb1", 
+        "latitude": 49.434673218867, 
+        "longitude": 11.105439662933, 
+        "name": "Lager ALT Bestand vor 01.03.2016", 
+        "timestamp": "2017-08-15T04:50:16.618000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90438"
+          ], 
+          "uid": "3979839"
+        }, 
+        "free_bikes": 1, 
+        "id": "3381ff488efc37da2ebde60850e9501b", 
+        "latitude": 49.444167, 
+        "longitude": 11.055108, 
+        "name": "(inoff) Rothenburger stra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:16.653000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "90169", 
+            "90049", 
+            "90022", 
+            "90346", 
+            "90272"
+          ], 
+          "number": "4626", 
+          "slots": 17, 
+          "uid": "66119"
+        }, 
+        "free_bikes": 5, 
+        "id": "6932bb59b3e38b983a82d46ac3fe7cda", 
+        "latitude": 49.448730098633, 
+        "longitude": 11.097757816315, 
+        "name": "S-Bhf D\u00fcrrenhof", 
+        "timestamp": "2017-08-15T04:50:16.502000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "90204", 
+            "90431", 
+            "90413", 
+            "90835"
+          ], 
+          "number": "4663", 
+          "slots": 12, 
+          "uid": "103593"
+        }, 
+        "free_bikes": 4, 
+        "id": "b2794c84018daba781d30f457d1a9e73", 
+        "latitude": 49.458187447755, 
+        "longitude": 11.07345700264, 
+        "name": "Hst. Tierg\u00e4rtnertor", 
+        "timestamp": "2017-08-15T04:50:16.585000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "90123", 
+            "90279", 
+            "90538", 
+            "90635", 
+            "90739"
+          ], 
+          "number": "4667", 
+          "slots": 12, 
+          "uid": "132525"
+        }, 
+        "free_bikes": 6, 
+        "id": "09349b0b18bbc768513e343daccfaac3", 
+        "latitude": 49.446614848133, 
+        "longitude": 11.007606089115, 
+        "name": "Virnsberger Str. / Sigmundstr. (DATEV)", 
+        "timestamp": "2017-08-15T04:50:16.597000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "90196", 
+            "90412"
+          ], 
+          "number": "4654", 
+          "slots": 8, 
+          "uid": "66153"
+        }, 
+        "free_bikes": 2, 
+        "id": "6f1e109f05f6d1ad7bbf1356fb513c47", 
+        "latitude": 49.428084631879, 
+        "longitude": 11.019732356072, 
+        "name": "S\u00fcdwestpark (Zentral)", 
+        "timestamp": "2017-08-15T04:50:16.574000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "90110", 
+            "90389", 
+            "90373", 
+            "90554", 
+            "90544"
+          ], 
+          "number": "4618", 
+          "slots": 11, 
+          "uid": "66111"
+        }, 
+        "free_bikes": 5, 
+        "id": "deb503e2bfcd54f232993139d1c54df5", 
+        "latitude": 49.449957704225, 
+        "longitude": 11.082774996758, 
+        "name": "Lorenzer Str. / Marientormauer", 
+        "timestamp": "2017-08-15T04:50:16.474000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "90198", 
+            "90057", 
+            "90236", 
+            "90220", 
+            "90542"
+          ], 
+          "number": "4678", 
+          "slots": 10, 
+          "uid": "331990"
+        }, 
+        "free_bikes": 6, 
+        "id": "c902ed79a66dbc4f25bbe59e6e312928", 
+        "latitude": 49.42875975416, 
+        "longitude": 11.130899190903, 
+        "name": "easyCredit-Haus / Beuthener Str.", 
+        "timestamp": "2017-08-15T04:50:16.614000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "90378", 
+            "90294", 
+            "90287", 
+            "90200", 
+            "90518"
+          ], 
+          "number": "4679", 
+          "slots": 10, 
+          "uid": "706028"
+        }, 
+        "free_bikes": 6, 
+        "id": "880f27906bd6738a46b6c85bbaba62ce", 
+        "latitude": 49.470676, 
+        "longitude": 11.11205, 
+        "name": "WBG / Plauener Str.", 
+        "timestamp": "2017-08-15T04:50:16.616000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90119", 
+            "90263", 
+            "90443", 
+            "90834"
+          ], 
+          "number": "4692", 
+          "uid": "779293"
+        }, 
+        "free_bikes": 4, 
+        "id": "5075cc315f4b948b3123fd7bea8aedb5", 
+        "latitude": 49.45867, 
+        "longitude": 11.08444, 
+        "name": "FAU/ Lange Gasse", 
+        "timestamp": "2017-08-15T04:50:16.640000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90694", 
+            "90669", 
+            "90727"
+          ], 
+          "number": "4690", 
+          "uid": "779272"
+        }, 
+        "free_bikes": 3, 
+        "id": "340c6d3991054b21b1d0aa17a88d6b5d", 
+        "latitude": 49.458051458985, 
+        "longitude": 11.077582240105, 
+        "name": "Burg/ Jugendherberge", 
+        "timestamp": "2017-08-15T04:50:16.638000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90038", 
+            "90594", 
+            "90850", 
+            "90725"
+          ], 
+          "number": "4681", 
+          "uid": "779241"
+        }, 
+        "free_bikes": 4, 
+        "id": "5ad45cf4a49d8043e47589d9872db29e", 
+        "latitude": 49.44898, 
+        "longitude": 11.07519, 
+        "name": "Kornmarkt", 
+        "timestamp": "2017-08-15T04:50:16.624000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90058", 
+            "90366", 
+            "90612", 
+            "90662", 
+            "90649"
+          ], 
+          "number": "4694", 
+          "uid": "779304"
+        }, 
+        "free_bikes": 6, 
+        "id": "e439fe935facdf2205e34117f4829d36", 
+        "latitude": 49.45356361787, 
+        "longitude": 11.079765558243, 
+        "name": "Neue Gasse", 
+        "timestamp": "2017-08-15T04:50:16.648000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "90269", 
+            "90243", 
+            "90514"
+          ], 
+          "number": "4605", 
+          "slots": 18, 
+          "uid": "66096"
+        }, 
+        "free_bikes": 3, 
+        "id": "2c8dd7616167ab2d00303393d5928377", 
+        "latitude": 49.453322999397, 
+        "longitude": 11.07882142067, 
+        "name": "Heilig-Geist-Spital (Spitalgasse)", 
+        "timestamp": "2017-08-15T04:50:16.443000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "90128", 
+            "90608", 
+            "90606", 
+            "90629", 
+            "90671"
+          ], 
+          "number": "4606", 
+          "slots": 10, 
+          "uid": "66097"
+        }, 
+        "free_bikes": 5, 
+        "id": "46c18c9cb61fe82bacf5b86958b5d984", 
+        "latitude": 49.451031833901, 
+        "longitude": 11.069653630257, 
+        "name": "Vordere Ledergasse / Schlotfegergasse", 
+        "timestamp": "2017-08-15T04:50:16.445000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "90159", 
+            "90115", 
+            "90543", 
+            "90625"
+          ], 
+          "number": "4608", 
+          "slots": 12, 
+          "uid": "66100"
+        }, 
+        "free_bikes": 4, 
+        "id": "7e6fab21c40b12a2207ef05354a091bc", 
+        "latitude": 49.459498499621, 
+        "longitude": 11.060341000557, 
+        "name": "Kirchenweg / Johannisstr.", 
+        "timestamp": "2017-08-15T04:50:16.448000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "bike_uids": [
+            "90189", 
+            "90133", 
+            "90071", 
+            "90530", 
+            "90529"
+          ], 
+          "number": "4610", 
+          "slots": 24, 
+          "uid": "66102"
+        }, 
+        "free_bikes": 7, 
+        "id": "2f95378e88c5c76ed5cd51f8e8df7b46", 
+        "latitude": 49.447680331969, 
+        "longitude": 11.066080927849, 
+        "name": "Pl\u00e4rrer", 
+        "timestamp": "2017-08-15T04:50:16.451000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "90384", 
+            "90229", 
+            "90441", 
+            "90675"
+          ], 
+          "number": "4607", 
+          "slots": 8, 
+          "uid": "113417"
+        }, 
+        "free_bikes": 4, 
+        "id": "820b5dcb03f8f04a6787295937e24ded", 
+        "latitude": 49.463333822297, 
+        "longitude": 11.078065037727, 
+        "name": "U-Bhf Kaulbachplatz", 
+        "timestamp": "2017-08-15T04:50:16.589000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "90182", 
+            "90024", 
+            "90396", 
+            "90361", 
+            "90244"
+          ], 
+          "number": "4611", 
+          "slots": 16, 
+          "uid": "66103"
+        }, 
+        "free_bikes": 5, 
+        "id": "1e294a9606f2c29b0740ef03dc6a6d24", 
+        "latitude": 49.457064657373, 
+        "longitude": 11.089598536491, 
+        "name": "Rathenauplatz", 
+        "timestamp": "2017-08-15T04:50:16.458000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "90175", 
+            "90114", 
+            "90343", 
+            "90265", 
+            "90260"
+          ], 
+          "number": "4613", 
+          "slots": 12, 
+          "uid": "66105"
+        }, 
+        "free_bikes": 6, 
+        "id": "fab836bd1202b017454bd230d26e1e7f", 
+        "latitude": 49.447097893593, 
+        "longitude": 11.074706912041, 
+        "name": "U-Bhf Opernhaus (Germanisches Nationalmuseum)  ", 
+        "timestamp": "2017-08-15T04:50:16.460000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "90184", 
+            "90136", 
+            "90393", 
+            "90368", 
+            "90342"
+          ], 
+          "number": "4614", 
+          "slots": 12, 
+          "uid": "66106"
+        }, 
+        "free_bikes": 5, 
+        "id": "cc75c931f7fd92c35b19c29afd7acd36", 
+        "latitude": 49.455837229762, 
+        "longitude": 11.07890188694, 
+        "name": "Theresienstr. / Rathaus", 
+        "timestamp": "2017-08-15T04:50:16.462000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "90312"
+          ], 
+          "number": "4615", 
+          "slots": 8, 
+          "uid": "66107"
+        }, 
+        "free_bikes": 1, 
+        "id": "34030b7a2d7edf5dcb5e438a046f899f", 
+        "latitude": 49.46426820089, 
+        "longitude": 11.085940003395, 
+        "name": "Schillerplatz", 
+        "timestamp": "2017-08-15T04:50:16.469000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "90106", 
+            "90365", 
+            "90278", 
+            "90268", 
+            "90257"
+          ], 
+          "number": "4616", 
+          "slots": 18, 
+          "uid": "66108"
+        }, 
+        "free_bikes": 5, 
+        "id": "036a887a7b0abcf4bd14bc9ac94f5731", 
+        "latitude": 49.452897555149, 
+        "longitude": 11.087543964386, 
+        "name": "U-Bhf W\u00f6hrder Wiese", 
+        "timestamp": "2017-08-15T04:50:16.470000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "90064", 
+            "90010", 
+            "90354", 
+            "90751", 
+            "90790"
+          ], 
+          "number": "4617", 
+          "slots": 8, 
+          "uid": "66110"
+        }, 
+        "free_bikes": 5, 
+        "id": "dbee19fdd933deb6453859d7300833e7", 
+        "latitude": 49.460736295655, 
+        "longitude": 11.092527508736, 
+        "name": "U-Bhf Rennweg", 
+        "timestamp": "2017-08-15T04:50:16.473000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "90023", 
+            "90381", 
+            "90259", 
+            "90509", 
+            "90460"
+          ], 
+          "number": "4619", 
+          "slots": 10, 
+          "uid": "66112"
+        }, 
+        "free_bikes": 5, 
+        "id": "92ef5c80e2a3db2209e4c9ca4b93921b", 
+        "latitude": 49.448060482626, 
+        "longitude": 11.081873774529, 
+        "name": "Tourist-Info K\u00f6nigstor", 
+        "timestamp": "2017-08-15T04:50:16.497000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "90170", 
+            "90296", 
+            "90270", 
+            "90856"
+          ], 
+          "number": "4620", 
+          "slots": 12, 
+          "uid": "113418"
+        }, 
+        "free_bikes": 4, 
+        "id": "f1b8f5c0c5ab933692c638e51aa1a9ac", 
+        "latitude": 49.462392452711, 
+        "longitude": 11.072062253952, 
+        "name": "U-Bhf Friedrich-Ebert-Platz", 
+        "timestamp": "2017-08-15T04:50:16.592000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "90009", 
+            "90206", 
+            "90556", 
+            "90449", 
+            "90663"
+          ], 
+          "number": "4621", 
+          "slots": 8, 
+          "uid": "66114"
+        }, 
+        "free_bikes": 6, 
+        "id": "1be06a3d7a6a3864302652f5b908d082", 
+        "latitude": 49.46073978236, 
+        "longitude": 11.105536222458, 
+        "name": "\u00c4u\u00dfere Sulzbacher Str. / B4R", 
+        "timestamp": "2017-08-15T04:50:16.500000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "90168", 
+            "90165", 
+            "90091", 
+            "90325", 
+            "90546"
+          ], 
+          "number": "4627", 
+          "slots": 18, 
+          "uid": "66120"
+        }, 
+        "free_bikes": 6, 
+        "id": "23cc0ee532734b6329aeb623e801b86b", 
+        "latitude": 49.451255026724, 
+        "longitude": 11.103883981705, 
+        "name": "W\u00f6hrder See / Norikerstr.", 
+        "timestamp": "2017-08-15T04:50:16.508000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "90141", 
+            "90014", 
+            "90387", 
+            "90472", 
+            "90060"
+          ], 
+          "number": "4628", 
+          "slots": 12, 
+          "uid": "66121"
+        }, 
+        "free_bikes": 5, 
+        "id": "caeacca3b62373952e56cf36cc7d2187", 
+        "latitude": 49.450860951208, 
+        "longitude": 11.055609583855, 
+        "name": "U-Bhf Gostenhof", 
+        "timestamp": "2017-08-15T04:50:16.518000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "90496", 
+            "90738"
+          ], 
+          "number": "4631", 
+          "slots": 4, 
+          "uid": "66124"
+        }, 
+        "free_bikes": 2, 
+        "id": "e82b7e868a31082bc1e5dc6aa0643829", 
+        "latitude": 49.453535720137, 
+        "longitude": 11.048045754433, 
+        "name": "U-Bhf B\u00e4renschanze / Schwurgerichtssaal 600   ", 
+        "timestamp": "2017-08-15T04:50:16.525000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "bike_uids": [
+            "90043", 
+            "90018", 
+            "90376", 
+            "90550", 
+            "90508"
+          ], 
+          "number": "4633", 
+          "slots": 32, 
+          "uid": "66126"
+        }, 
+        "free_bikes": 6, 
+        "id": "f830c18900804576c42b09e85f318724", 
+        "latitude": 49.433692923865, 
+        "longitude": 11.110911369324, 
+        "name": "Doku-Zentrum", 
+        "timestamp": "2017-08-15T04:50:16.528000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "90191", 
+            "90035", 
+            "90012", 
+            "90235", 
+            "90493"
+          ], 
+          "number": "4635", 
+          "slots": 12, 
+          "uid": "66128"
+        }, 
+        "free_bikes": 6, 
+        "id": "595091dfadb88cc819028ce119baf118", 
+        "latitude": 49.435580235938, 
+        "longitude": 11.116608381271, 
+        "name": "Hst. Dutzendteich", 
+        "timestamp": "2017-08-15T04:50:16.536000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "90109", 
+            "90242", 
+            "90212", 
+            "90523", 
+            "90615"
+          ], 
+          "number": "4639", 
+          "slots": 12, 
+          "uid": "66133"
+        }, 
+        "free_bikes": 5, 
+        "id": "4d34754b5bbeb4d4877d549c0bdb17ae", 
+        "latitude": 49.438531413865, 
+        "longitude": 11.102092266083, 
+        "name": "Platz der Opfer des Faschismus", 
+        "timestamp": "2017-08-15T04:50:16.537000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "90160", 
+            "90020", 
+            "90251", 
+            "90419", 
+            "90634"
+          ], 
+          "number": "4641", 
+          "slots": 8, 
+          "uid": "66136"
+        }, 
+        "free_bikes": 5, 
+        "id": "ec4ef1163c623b9d461de8a7894b07dc", 
+        "latitude": 49.443170613508, 
+        "longitude": 11.099774837494, 
+        "name": "Peterskirche / Regensburger Str.", 
+        "timestamp": "2017-08-15T04:50:16.539000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "90362", 
+            "90214", 
+            "90528", 
+            "90494"
+          ], 
+          "number": "4644", 
+          "slots": 12, 
+          "uid": "66140"
+        }, 
+        "free_bikes": 4, 
+        "id": "e1ce464a0c46278533336edfe84c8156", 
+        "latitude": 49.443941445512, 
+        "longitude": 11.054402589798, 
+        "name": "U-Bhf Rothenburger Str. (Villa Leon)", 
+        "timestamp": "2017-08-15T04:50:16.557000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "90180", 
+            "90151", 
+            "90125", 
+            "90341", 
+            "90230"
+          ], 
+          "number": "4636", 
+          "slots": 14, 
+          "uid": "103589"
+        }, 
+        "free_bikes": 7, 
+        "id": "4494d54694c70033e27dae8c812fbfef", 
+        "latitude": 49.444018179257, 
+        "longitude": 11.081192493439, 
+        "name": "Celtisplatz", 
+        "timestamp": "2017-08-15T04:50:16.581000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "90104", 
+            "90299", 
+            "90225", 
+            "90456", 
+            "90453"
+          ], 
+          "number": "4647", 
+          "slots": 8, 
+          "uid": "66143"
+        }, 
+        "free_bikes": 5, 
+        "id": "da726cf5ee9e4117dd809ed189cface6", 
+        "latitude": 49.438643038859, 
+        "longitude": 11.035627126694, 
+        "name": "U-Bhf Gustav-Adolf-Str. (Wallensteinstr.)", 
+        "timestamp": "2017-08-15T04:50:16.560000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "90145", 
+            "90363", 
+            "90205", 
+            "90416", 
+            "90410"
+          ], 
+          "number": "4648", 
+          "slots": 8, 
+          "uid": "66145"
+        }, 
+        "free_bikes": 5, 
+        "id": "04d6682bdee0d8bda2f4c06242c6ee60", 
+        "latitude": 49.436354675701, 
+        "longitude": 11.091309785843, 
+        "name": "Allersberger Str. / Gudrunstr.", 
+        "timestamp": "2017-08-15T04:50:16.562000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "90068", 
+            "90051", 
+            "90007", 
+            "90304", 
+            "90692"
+          ], 
+          "number": "4649", 
+          "slots": 11, 
+          "uid": "66146"
+        }, 
+        "free_bikes": 6, 
+        "id": "21889207485cbcf97ed919f82df2958c", 
+        "latitude": 49.440059258908, 
+        "longitude": 11.080436110497, 
+        "name": "U-Bhf Aufse\u00dfplatz (W\u00f6lckernstr.)", 
+        "timestamp": "2017-08-15T04:50:16.563000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "90029", 
+            "90483", 
+            "90409", 
+            "90620", 
+            "90636"
+          ], 
+          "number": "4651", 
+          "slots": 8, 
+          "uid": "66150"
+        }, 
+        "free_bikes": 5, 
+        "id": "f084940c5b79a6d5679b8d57c71dd43a", 
+        "latitude": 49.429569190849, 
+        "longitude": 11.017650961876, 
+        "name": "S\u00fcdwestpark (Fitnessstudio)", 
+        "timestamp": "2017-08-15T04:50:16.565000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "90161", 
+            "90053", 
+            "90032", 
+            "90439", 
+            "90425"
+          ], 
+          "number": "4652", 
+          "slots": 8, 
+          "uid": "66151"
+        }, 
+        "free_bikes": 5, 
+        "id": "757d8953270d44dc69e66eecf9755b2f", 
+        "latitude": 49.428061953192, 
+        "longitude": 11.022795438766, 
+        "name": "S\u00fcdwestpark (Nordost)", 
+        "timestamp": "2017-08-15T04:50:16.567000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "90261", 
+            "90221", 
+            "90210", 
+            "90613", 
+            "90623"
+          ], 
+          "number": "4653", 
+          "slots": 8, 
+          "uid": "66152"
+        }, 
+        "free_bikes": 6, 
+        "id": "4c89f4c093f3c8d57ed55453a328230a", 
+        "latitude": 49.426313918194, 
+        "longitude": 11.018208861351, 
+        "name": "S-Bhf Stein (S\u00fcdwestpark)", 
+        "timestamp": "2017-08-15T04:50:16.568000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "90048", 
+            "90344", 
+            "90513", 
+            "90481", 
+            "90665"
+          ], 
+          "number": "4656", 
+          "slots": 17, 
+          "uid": "66155"
+        }, 
+        "free_bikes": 6, 
+        "id": "42166021a0af416b4e268c0a03d6d295", 
+        "latitude": 49.47249902745, 
+        "longitude": 11.104479432106, 
+        "name": "U-Bhf Nordostbahnhof", 
+        "timestamp": "2017-08-15T04:50:16.575000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "90155", 
+            "90124", 
+            "90100", 
+            "90087", 
+            "90076"
+          ], 
+          "number": "4657", 
+          "slots": 25, 
+          "uid": "66157"
+        }, 
+        "free_bikes": 9, 
+        "id": "dac73ed7d11d21be815677f8e1149d35", 
+        "latitude": 49.478539664758, 
+        "longitude": 11.110106706619, 
+        "name": "U-Bhf Herrnh\u00fctte", 
+        "timestamp": "2017-08-15T04:50:16.577000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "90348", 
+            "90306", 
+            "90237", 
+            "90520", 
+            "90463"
+          ], 
+          "number": "4659", 
+          "slots": 12, 
+          "uid": "66161"
+        }, 
+        "free_bikes": 5, 
+        "id": "111e73c08b1769a632003e4b5fbbf4c5", 
+        "latitude": 49.485290493638, 
+        "longitude": 11.12385571003, 
+        "name": "Nordostpark S\u00fcd", 
+        "timestamp": "2017-08-15T04:50:16.578000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "90098", 
+            "90030", 
+            "90107"
+          ], 
+          "number": "4660", 
+          "slots": 12, 
+          "uid": "66162"
+        }, 
+        "free_bikes": 3, 
+        "id": "c936cdcf8db8f448f33bc34c56f2f740", 
+        "latitude": 49.48715839546, 
+        "longitude": 11.12761080265, 
+        "name": "Nordostpark Nord", 
+        "timestamp": "2017-08-15T04:50:16.580000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "90034", 
+            "90581", 
+            "90627", 
+            "90832", 
+            "90676"
+          ], 
+          "number": "4661", 
+          "slots": 12, 
+          "uid": "103592"
+        }, 
+        "free_bikes": 5, 
+        "id": "080121454500127404040afb23b408d8", 
+        "latitude": 49.44831507729, 
+        "longitude": 11.087028980255, 
+        "name": "Willy-Brandt-Platz", 
+        "timestamp": "2017-08-15T04:50:16.582000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "90019", 
+            "90004", 
+            "90273", 
+            "90503", 
+            "90592"
+          ], 
+          "number": "4665", 
+          "slots": 12, 
+          "uid": "103596"
+        }, 
+        "free_bikes": 5, 
+        "id": "cfc058495b7897bcdacc08847c510715", 
+        "latitude": 49.440969664486, 
+        "longitude": 11.090059876442, 
+        "name": "Allersberger Str. / Paulstr.", 
+        "timestamp": "2017-08-15T04:50:16.587000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "90183", 
+            "90135", 
+            "90353", 
+            "90334", 
+            "90234"
+          ], 
+          "number": "4671", 
+          "slots": 12, 
+          "uid": "194895"
+        }, 
+        "free_bikes": 6, 
+        "id": "e9ec8857a216b20ee950165427b3168c", 
+        "latitude": 49.457364535583, 
+        "longitude": 11.08494758606, 
+        "name": "Hirschelgasse - FAU ", 
+        "timestamp": "2017-08-15T04:50:16.600000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "90395", 
+            "90351", 
+            "90511", 
+            "90646", 
+            "90795"
+          ], 
+          "number": "4672", 
+          "slots": 10, 
+          "uid": "194901"
+        }, 
+        "free_bikes": 5, 
+        "id": "5d2bd663edb98e56d3ad13f2b6ce68e7", 
+        "latitude": 49.464927136273, 
+        "longitude": 11.119349598885, 
+        "name": "\u00c4u\u00dfere Sulzbacher Str. / Bismarckstr. (CNO)", 
+        "timestamp": "2017-08-15T04:50:16.603000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "90101", 
+            "90065", 
+            "90338", 
+            "90434", 
+            "90788"
+          ], 
+          "number": "4674", 
+          "slots": 11, 
+          "uid": "199149"
+        }, 
+        "free_bikes": 5, 
+        "id": "65c8d0ce8173cf6a2246dbb0d27a245a", 
+        "latitude": 49.493970754275, 
+        "longitude": 11.078048944473, 
+        "name": "U-Bhf Flughafen N\u00fcrnberg", 
+        "timestamp": "2017-08-15T04:50:16.605000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "90176", 
+            "90001", 
+            "90367", 
+            "90653", 
+            "90736"
+          ], 
+          "number": "4675", 
+          "slots": 12, 
+          "uid": "200079"
+        }, 
+        "free_bikes": 5, 
+        "id": "74171919bde9850cf44e2827e31fa594", 
+        "latitude": 49.414334190389, 
+        "longitude": 11.015532016754, 
+        "name": "Stein (Martin-Luther-Platz)", 
+        "timestamp": "2017-08-15T04:50:16.609000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "90326", 
+            "90534", 
+            "90502", 
+            "90859"
+          ], 
+          "number": "4676", 
+          "slots": 6, 
+          "uid": "217165"
+        }, 
+        "free_bikes": 4, 
+        "id": "08956395cc7c4693c71fb440411a55ef", 
+        "latitude": 49.507411492272, 
+        "longitude": 11.286311745644, 
+        "name": "Lauf Bhf links der Pegnitz", 
+        "timestamp": "2017-08-15T04:50:16.611000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90112", 
+            "90042", 
+            "90519", 
+            "90569", 
+            "90644"
+          ], 
+          "number": "4688", 
+          "uid": "779255"
+        }, 
+        "free_bikes": 6, 
+        "id": "4fd247ade0162ba687aca5bc6531ac70", 
+        "latitude": 49.454201774186, 
+        "longitude": 11.073215603828, 
+        "name": "Maxplatz", 
+        "timestamp": "2017-08-15T04:50:16.634000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "90807", 
+            "90201"
+          ], 
+          "number": "4609", 
+          "slots": 8, 
+          "uid": "66101"
+        }, 
+        "free_bikes": 2, 
+        "id": "e0ccf30a969c161574f3a71fd2eafd97", 
+        "latitude": 49.45879764913, 
+        "longitude": 11.081235408783, 
+        "name": "Maxtor", 
+        "timestamp": "2017-08-15T04:50:16.450000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90052", 
+            "90298", 
+            "90558", 
+            "90626"
+          ], 
+          "number": "4684", 
+          "uid": "779244"
+        }, 
+        "free_bikes": 4, 
+        "id": "f5d336dddf814e81614f164b4e0c3190", 
+        "latitude": 49.456168498765, 
+        "longitude": 11.083804965019, 
+        "name": "Innerer Laufer Platz", 
+        "timestamp": "2017-08-15T04:50:16.629000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90167", 
+            "90067", 
+            "90505", 
+            "90442"
+          ], 
+          "number": "4683", 
+          "uid": "779243"
+        }, 
+        "free_bikes": 4, 
+        "id": "f1782731496180ed434616fdfcae7dc5", 
+        "latitude": 49.45127246362, 
+        "longitude": 11.072287559509, 
+        "name": "Josephsplatz", 
+        "timestamp": "2017-08-15T04:50:16.627000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "90082", 
+            "90322", 
+            "90541", 
+            "90535"
+          ], 
+          "number": "4695", 
+          "uid": "1110704"
+        }, 
+        "free_bikes": 4, 
+        "id": "574238402e869b2e3fd1ed5eaecbc1ef", 
+        "latitude": 49.45179208029, 
+        "longitude": 11.077319383621, 
+        "name": "Adler Parkhaus", 
+        "timestamp": "2017-08-15T04:50:16.651000Z"
+      }
+    ]
+  }
+}

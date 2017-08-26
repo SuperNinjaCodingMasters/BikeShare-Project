@@ -1,0 +1,105 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/co-bikes-exeter", 
+    "id": "co-bikes-exeter", 
+    "location": {
+      "city": "Exeter", 
+      "country": "GB", 
+      "latitude": 50.7272, 
+      "longitude": -3.53605
+    }, 
+    "name": "Co-bikes", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "82405", 
+            "82401"
+          ], 
+          "number": "8241", 
+          "slots": 5, 
+          "uid": "1499877"
+        }, 
+        "free_bikes": 2, 
+        "id": "6e51a7f04bfdadb9c7cdbd20261fc7b4", 
+        "latitude": 50.72596063, 
+        "longitude": -3.5333651, 
+        "name": "Central train station", 
+        "timestamp": "2017-08-15T04:50:09.126000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "82411", 
+            "82408", 
+            "82403"
+          ], 
+          "number": "8242", 
+          "slots": 7, 
+          "uid": "1499906"
+        }, 
+        "free_bikes": 3, 
+        "id": "8e84d91871488eda547a40deb5c01344", 
+        "latitude": 50.724367, 
+        "longitude": -3.525359, 
+        "name": "Civic Centre", 
+        "timestamp": "2017-08-15T04:50:09.127000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "82409", 
+            "82406"
+          ], 
+          "number": "8243", 
+          "slots": 6, 
+          "uid": "1499910"
+        }, 
+        "free_bikes": 2, 
+        "id": "b6f4947378ab9f2ee40e44abbb901a90", 
+        "latitude": 50.71421889, 
+        "longitude": -3.51664424, 
+        "name": "County Hall", 
+        "timestamp": "2017-08-15T04:50:09.128000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "82421", 
+            "82417"
+          ], 
+          "number": "8244", 
+          "slots": 5, 
+          "uid": "1499912"
+        }, 
+        "free_bikes": 2, 
+        "id": "72ebd2447929d52b129b243a01ab5953", 
+        "latitude": 50.716542168995, 
+        "longitude": -3.4723126888275, 
+        "name": "Digby & Sowton", 
+        "timestamp": "2017-08-15T04:50:09.129000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "number": "8240", 
+          "slots": 6, 
+          "uid": "1499868"
+        }, 
+        "free_bikes": 0, 
+        "id": "bd40417b7eff1d5d35d1d22db74aec39", 
+        "latitude": 50.73558874, 
+        "longitude": -3.53382249, 
+        "name": "The Forum University of Exeter", 
+        "timestamp": "2017-08-15T04:50:09.124000Z"
+      }
+    ]
+  }
+}

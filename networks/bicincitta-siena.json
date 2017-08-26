@@ -1,0 +1,213 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-siena", 
+    "id": "bicincitta-siena", 
+    "location": {
+      "city": "Siena", 
+      "country": "IT", 
+      "latitude": 43.3186, 
+      "longitude": 11.3306
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "Viale Curtatone", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "8a24dbcd40a4a240f75b5e0e2324fcd8", 
+        "latitude": 43.32159969615422, 
+        "longitude": 11.327948187171955, 
+        "name": "01. Curtatone", 
+        "timestamp": "2017-08-15T04:48:43.306000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Prato di Sant'Agostino", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "6af08893b5829e61121453c0aa31a215", 
+        "latitude": 43.314553575496504, 
+        "longitude": 11.331021341104474, 
+        "name": "02. S. Agostino", 
+        "timestamp": "2017-08-15T04:48:43.328000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via di San Girolamo", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "58e531cdb5cbafdedbbb25f4d4e6f758", 
+        "latitude": 43.31653903296188, 
+        "longitude": 11.337211648409948, 
+        "name": "03. S. Girolamo", 
+        "timestamp": "2017-08-15T04:48:43.330000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Viale Vittorio Veneto", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "085d425728aed4a8bfc21a2eed88bd87", 
+        "latitude": 43.3205234076899, 
+        "longitude": 11.32322528552777, 
+        "name": "04. Fortezza", 
+        "timestamp": "2017-08-15T04:48:43.331000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Viale Mario Bracci", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "250caa4052dc500d5acd105691da402a", 
+        "latitude": 43.343243018858246, 
+        "longitude": 11.32673330024295, 
+        "name": "08. Ospedale", 
+        "timestamp": "2017-08-15T04:48:43.339000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Via Bernardo Tolomei", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "e26c10c9f7f56accf1c678440b8586e3", 
+        "latitude": 43.33699934605541, 
+        "longitude": 11.300974983606011, 
+        "name": "09. Acquacalda", 
+        "timestamp": "2017-08-15T04:48:43.340000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "description": "Via Duccio di Boninsegna", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "43ef91af178ef86d94572099a28a3b62", 
+        "latitude": 43.323781022808305, 
+        "longitude": 11.338891018177037, 
+        "name": "10. Ravacciano", 
+        "timestamp": "2017-08-15T04:48:43.341000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Viale Riccardo Lombardi", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "f07d918e4ff59bfd6c45538b05e7198f", 
+        "latitude": 43.33228840552265, 
+        "longitude": 11.32417581394725, 
+        "name": "12. Terminal Bus", 
+        "timestamp": "2017-08-15T04:48:43.343000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "Via Liguria", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "983198d6fe0cbe04d77482ef17637bab", 
+        "latitude": 43.34144450071458, 
+        "longitude": 11.312348354700475, 
+        "name": "14. Vico Alto", 
+        "timestamp": "2017-08-15T04:48:43.350000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Viale Vittorio Emanuele II", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "dbc885986d63243a4621b9ff41697d0e", 
+        "latitude": 43.32898332166825, 
+        "longitude": 11.321913356869572, 
+        "name": "05. Antiporto", 
+        "timestamp": "2017-08-15T04:48:43.333000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Parcheggio scambiatore Viale Pietro Toselli", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "9122803ea4866b827060e0eef44b98de", 
+        "latitude": 43.317187429810794, 
+        "longitude": 11.354256229005387, 
+        "name": "06. Due Ponti", 
+        "timestamp": "2017-08-15T04:48:43.337000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Parcheggio scambiatore Via Napoli", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "b5edb0532c97f8dbc96592db018c54d6", 
+        "latitude": 43.34175662737405, 
+        "longitude": 11.305010457706885, 
+        "name": "07. Napoli", 
+        "timestamp": "2017-08-15T04:48:43.338000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Palmiro Togliatti", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "9b6af75f29eaa4292170307666b284a5", 
+        "latitude": 43.34779988043242, 
+        "longitude": 11.326045898741882, 
+        "name": "11. S. Miniato", 
+        "timestamp": "2017-08-15T04:48:43.342000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via Bartolomeo Renaldini", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "df0d1bac466e4f3ae207d931cf2d3f1e", 
+        "latitude": 43.29380994104219, 
+        "longitude": 11.398365131877199, 
+        "name": "13. Taverne D'Arbia", 
+        "timestamp": "2017-08-15T04:48:43.345000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "via Simone Martini", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "9d45aab1256038acd2280ae8b58c32ec", 
+        "latitude": 43.3267643528839, 
+        "longitude": 11.333701602030146, 
+        "name": "15. Casa dell'Ambiente", 
+        "timestamp": "2017-08-15T04:48:43.353000Z"
+      }
+    ]
+  }
+}

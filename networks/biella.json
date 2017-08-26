@@ -1,0 +1,96 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/biella", 
+    "id": "biella", 
+    "location": {
+      "city": "Biella", 
+      "country": "IT", 
+      "latitude": 45.5775, 
+      "longitude": 8.051111
+    }, 
+    "name": "Biella", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Piazza San Paolo", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "20d31be7e8abfcb8e80ab2f86b5c2b82", 
+        "latitude": 45.556822478556406, 
+        "longitude": 8.066539764404297, 
+        "name": "Stazione Ferroviaria", 
+        "timestamp": "2017-08-15T04:46:30.315000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via Lamarmora (ATL)", 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "f5a680b8877aae1e468e29ae83d88e7f", 
+        "latitude": 45.56238134091642, 
+        "longitude": 8.057291507720947, 
+        "name": "Centro", 
+        "timestamp": "2017-08-15T04:46:30.325000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Piazza Curiel", 
+          "status": "offline"
+        }, 
+        "free_bikes": 2, 
+        "id": "8d1bc0e63928d4d7855806eb7c87fec6", 
+        "latitude": 45.56723362790845, 
+        "longitude": 8.050060272216797, 
+        "name": "Funicolare", 
+        "timestamp": "2017-08-15T04:46:30.329000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Corso Pella", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "982314508cc8415c7e43c14b5f44ca39", 
+        "latitude": 45.55695770065336, 
+        "longitude": 8.034095764160156, 
+        "name": "Citta` Studi", 
+        "timestamp": "2017-08-15T04:46:30.332000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Piazza Cossato", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "59c2962b37b7f80fba48b77a39da0a2e", 
+        "latitude": 45.560297955941685, 
+        "longitude": 8.047217933729598, 
+        "name": "Gromo Cridis", 
+        "timestamp": "2017-08-15T04:46:30.333000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via De Fango", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "5628e916f9086cc8ce27d9106fe525b8", 
+        "latitude": 45.56378354429159, 
+        "longitude": 8.050845653442366, 
+        "name": "San Sebastiano", 
+        "timestamp": "2017-08-15T04:46:30.334000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "network": {
+    "company": [
+      "Clean Energy Coalition", 
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_arborbike/gbfs.json", 
+    "href": "/v2/networks/arborbike", 
+    "id": "arborbike", 
+    "location": {
+      "city": "Ann Arbor, MI", 
+      "country": "US", 
+      "latitude": 42.27853, 
+      "longitude": -83.74536
+    }, 
+    "name": "ArborBike", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "336 Hill Street", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_3173"
+        }, 
+        "free_bikes": 7, 
+        "id": "7b2c8b525325fb72f916d1ec3a058c3d", 
+        "latitude": 42.27159, 
+        "longitude": -83.74457, 
+        "name": "S. Division & Hill", 
+        "timestamp": "2017-08-15T04:50:55.350000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2375 Hubbardd Rd.", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_2832"
+        }, 
+        "free_bikes": 5, 
+        "id": "9101d72f2bedf1217924a691966e96f7", 
+        "latitude": 42.29492, 
+        "longitude": -83.71988, 
+        "name": "Murfin & Hubbard", 
+        "timestamp": "2017-08-15T04:50:55.339000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "317 S. State", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_2836"
+        }, 
+        "free_bikes": 7, 
+        "id": "2b719d96ea1cf86f851d6b77a51be05a", 
+        "latitude": 42.27867, 
+        "longitude": -83.74058, 
+        "name": "State & N. University", 
+        "timestamp": "2017-08-15T04:50:55.343000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "101 E. Washington St.", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_2837"
+        }, 
+        "free_bikes": 5, 
+        "id": "94c0d61f3ae1998c5db9ce7b22bedcbe", 
+        "latitude": 42.28055, 
+        "longitude": -83.74834, 
+        "name": "Washington and Main", 
+        "timestamp": "2017-08-15T04:50:55.342000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1101 S. University Ave.", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_2839"
+        }, 
+        "free_bikes": 7, 
+        "id": "68542091e07d34a9c2cafacbc3e960ca", 
+        "latitude": 42.27512, 
+        "longitude": -83.73601, 
+        "name": "S. University & E. University", 
+        "timestamp": "2017-08-15T04:50:55.325000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "315 Detroit St.", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_2838"
+        }, 
+        "free_bikes": 7, 
+        "id": "448632463d277ee2c208b65350168011", 
+        "latitude": 42.28392, 
+        "longitude": -83.74613, 
+        "name": "Kerrytown @ Fifth", 
+        "timestamp": "2017-08-15T04:50:55.334000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "301 E Huron St", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_3172"
+        }, 
+        "free_bikes": 4, 
+        "id": "3a6e826d857246b16906b051d2a3ce7b", 
+        "latitude": 42.28163, 
+        "longitude": -83.7459, 
+        "name": "City Hall/Justice Center", 
+        "timestamp": "2017-08-15T04:50:55.349000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "105 S State St", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_3174"
+        }, 
+        "free_bikes": 5, 
+        "id": "2a6825895ea30c00baa22ab9362053a8", 
+        "latitude": 42.2809, 
+        "longitude": -83.74081, 
+        "name": "State & North Quad", 
+        "timestamp": "2017-08-15T04:50:55.335000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "1368 Washtenaw Ave", 
+          "last_updated": 1502772629, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_arborbike_3175"
+        }, 
+        "free_bikes": 0, 
+        "id": "d740d0fc16b92f07ef853ca4a19a059a", 
+        "latitude": 42.27522, 
+        "longitude": -83.73174, 
+        "name": "Washtenaw & S.University", 
+        "timestamp": "2017-08-15T04:50:55.351000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2303 Bonisteel Blvd.", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_2834"
+        }, 
+        "free_bikes": 5, 
+        "id": "0a4f8f28f0a510fdd5ee6d5e3d286493", 
+        "latitude": 42.29045, 
+        "longitude": -83.71855, 
+        "name": "Murfin & Bonisteel", 
+        "timestamp": "2017-08-15T04:50:55.341000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "600 E. Madison St.", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_2831"
+        }, 
+        "free_bikes": 8, 
+        "id": "4223bd5d98d492e329dfe7ff0c7e8ea0", 
+        "latitude": 42.27408, 
+        "longitude": -83.74245, 
+        "name": "Madison & State", 
+        "timestamp": "2017-08-15T04:50:55.336000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1107 Catherine St.", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_2833"
+        }, 
+        "free_bikes": 6, 
+        "id": "22269df6b185e9df28feb84520cafe0c", 
+        "latitude": 42.28307, 
+        "longitude": -83.73382, 
+        "name": "Zina Pitcher & Catherine", 
+        "timestamp": "2017-08-15T04:50:55.338000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "401 Washtenaw Ave.", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_arborbike_2835"
+        }, 
+        "free_bikes": 6, 
+        "id": "78013658130adf245e2f499b483b8f85", 
+        "latitude": 42.27919, 
+        "longitude": -83.73294, 
+        "name": "CCRB @ Washtenaw", 
+        "timestamp": "2017-08-15T04:50:55.340000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "343 S. Fifth Ave.", 
+          "last_updated": 1502772629, 
+          "renting": 0, 
+          "returning": 0, 
+          "uid": "bcycle_arborbike_2830"
+        }, 
+        "free_bikes": 7, 
+        "id": "e623c88db862d65dbc92d1f662cf66a8", 
+        "latitude": 42.27846, 
+        "longitude": -83.74589, 
+        "name": "Library Lane", 
+        "timestamp": "2017-08-15T04:50:55.337000Z"
+      }
+    ]
+  }
+}

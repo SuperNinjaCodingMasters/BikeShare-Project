@@ -1,0 +1,684 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-konya", 
+    "id": "nextbike-konya", 
+    "location": {
+      "city": "Konya", 
+      "country": "TR", 
+      "latitude": 37.8715, 
+      "longitude": 32.4957
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "65013", 
+            "65154"
+          ], 
+          "number": "6538", 
+          "slots": 10, 
+          "uid": "102113"
+        }, 
+        "free_bikes": 2, 
+        "id": "81f99b90602f0b49a946cb7b84309c43", 
+        "latitude": 37.874633203217, 
+        "longitude": 32.428572177887, 
+        "name": "TIP FAK\u00dcLTES\u0130 \u00d6N\u00dc MERAM", 
+        "timestamp": "2017-08-15T04:49:57.078000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "65138"
+          ], 
+          "number": "6513", 
+          "slots": 10, 
+          "uid": "251228"
+        }, 
+        "free_bikes": 1, 
+        "id": "545207e3967dd9c6d280ffbbbaff27e1", 
+        "latitude": 37.866371356505, 
+        "longitude": 32.47735619545, 
+        "name": "TREN GARI \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.111000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "65001", 
+            "65029", 
+            "65046", 
+            "65068", 
+            "65082"
+          ], 
+          "number": "6526", 
+          "slots": 24, 
+          "uid": "111492"
+        }, 
+        "free_bikes": 6, 
+        "id": "391be9ff6cbd4a11e9373a01a370f95c", 
+        "latitude": 37.904179399887, 
+        "longitude": 32.495166063309, 
+        "name": "\u0130STANBUL YOLU AYD\u0130NL\u0130K EVLER KAVSAG\u0130", 
+        "timestamp": "2017-08-15T04:49:57.103000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "65059", 
+            "65083", 
+            "65398", 
+            "65376", 
+            "65220"
+          ], 
+          "number": "6518", 
+          "slots": 12, 
+          "uid": "80251"
+        }, 
+        "free_bikes": 5, 
+        "id": "ec297e9ad506ea5f410c3214c7fc61d6", 
+        "latitude": 37.87684354534, 
+        "longitude": 32.486953139305, 
+        "name": "KONYA B\u00dcY\u00dcK\u015eEH\u0130R BELED\u0130YES\u0130 \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.017000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "65088", 
+            "65103", 
+            "65106", 
+            "65397", 
+            "65307"
+          ], 
+          "number": "6501", 
+          "slots": 20, 
+          "uid": "83619"
+        }, 
+        "free_bikes": 5, 
+        "id": "ce7dacc0051a144e324bbc5ea9db5fec", 
+        "latitude": 37.867154810739, 
+        "longitude": 32.48397320509, 
+        "name": "FER\u0130TPA\u015eA CAD.D.S.\u0130.\u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.035000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "65019", 
+            "65020", 
+            "65021", 
+            "65025", 
+            "65062"
+          ], 
+          "number": "6506", 
+          "slots": 19, 
+          "uid": "83627"
+        }, 
+        "free_bikes": 5, 
+        "id": "efa660683fbc52f5923d5061fb045e83", 
+        "latitude": 37.872067090666, 
+        "longitude": 32.49886482954, 
+        "name": "MEVLANA CAD. H\u00dcK\u00dcMET MEYDANI \u015eERAFETT\u0130N CAM\u0130\u0130 \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.038000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "65014", 
+            "65027", 
+            "65087", 
+            "65400", 
+            "65381"
+          ], 
+          "number": "6507", 
+          "slots": 16, 
+          "uid": "83628"
+        }, 
+        "free_bikes": 5, 
+        "id": "d1b3e1dfb81da6edc1744c9ea7b40996", 
+        "latitude": 37.871745261662, 
+        "longitude": 32.498365938663, 
+        "name": "MEVLANA CAD.KAYALIPARK YANI", 
+        "timestamp": "2017-08-15T04:49:57.041000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "bike_uids": [
+            "65071", 
+            "65127", 
+            "65388", 
+            "65354", 
+            "65288"
+          ], 
+          "number": "6511", 
+          "slots": 23, 
+          "uid": "83632"
+        }, 
+        "free_bikes": 5, 
+        "id": "a872a77587eb23a013088e3435a07240", 
+        "latitude": 37.874048848813, 
+        "longitude": 32.489656805992, 
+        "name": "K\u00dcLT\u00dcR PARK A G\u0130R\u0130\u015e\u0130 \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.052000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "65024", 
+            "65037", 
+            "65042", 
+            "65109", 
+            "65348"
+          ], 
+          "number": "6516", 
+          "slots": 10, 
+          "uid": "83638"
+        }, 
+        "free_bikes": 5, 
+        "id": "13290aa7dbeac5e7a612b75bd3e22ec8", 
+        "latitude": 37.877766618778, 
+        "longitude": 32.483235597611, 
+        "name": "M.HULUS\u0130 BAYBAL CAD.BERA OTEL KAR\u015eISI", 
+        "timestamp": "2017-08-15T04:49:57.056000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "65074", 
+            "65180", 
+            "65162"
+          ], 
+          "number": "6520", 
+          "slots": 14, 
+          "uid": "83642"
+        }, 
+        "free_bikes": 3, 
+        "id": "137fa546c60d508729fed40d325e8677", 
+        "latitude": 37.882510949031, 
+        "longitude": 32.48802870512, 
+        "name": "RAUF DENKTA\u015e CAD. NENE HATUN PARKI \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.063000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "65061", 
+            "65351"
+          ], 
+          "number": "6540", 
+          "slots": 10, 
+          "uid": "98257"
+        }, 
+        "free_bikes": 2, 
+        "id": "1d92c99b6bd1ca2b9621fbe58ec0c35c", 
+        "latitude": 37.861763630089, 
+        "longitude": 32.44536280632, 
+        "name": "YEN\u0130 MERAM CAD.MERAM E\u011e\u0130T\u0130M ARA\u015eTIRMA HASTANES\u0130 \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.068000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "bike_uids": [
+            "65359"
+          ], 
+          "number": "6534", 
+          "slots": 18, 
+          "uid": "98258"
+        }, 
+        "free_bikes": 1, 
+        "id": "70b00b9d72d0a0102c00644c48b179ac", 
+        "latitude": 37.870868693956, 
+        "longitude": 32.458725571632, 
+        "name": "S\u0130VASLI AL\u0130 KEMAL CAD.MEL\u0130K\u015eAH PARKI \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.069000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "65111", 
+            "65336", 
+            "65280", 
+            "65184", 
+            "65151"
+          ], 
+          "number": "6535", 
+          "slots": 16, 
+          "uid": "98260"
+        }, 
+        "free_bikes": 5, 
+        "id": "eb1f5b335e75d79d3389f7f52dce5f51", 
+        "latitude": 37.864456093449, 
+        "longitude": 32.453587800264, 
+        "name": "YEN\u0130 MERAM CAD.E\u011e\u0130T\u0130M FAK\u00dcLTES\u0130 \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.070000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "65002", 
+            "65010", 
+            "65065", 
+            "65078", 
+            "65105"
+          ], 
+          "number": "6527", 
+          "slots": 20, 
+          "uid": "98271"
+        }, 
+        "free_bikes": 5, 
+        "id": "c746bf7a143dafeb131f8dfe34e79257", 
+        "latitude": 37.949819532026, 
+        "longitude": 32.513273656368, 
+        "name": "\u0130STANBUL YOLU OTOGAR KAR\u015eISI", 
+        "timestamp": "2017-08-15T04:49:57.075000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "65006", 
+            "65038", 
+            "65043", 
+            "65049", 
+            "65118"
+          ], 
+          "number": "6504", 
+          "slots": 20, 
+          "uid": "102114"
+        }, 
+        "free_bikes": 5, 
+        "id": "10878fa931465365ad638184e68883a4", 
+        "latitude": 37.886051531827, 
+        "longitude": 32.498060166836, 
+        "name": "ANKARA CAD. EMN\u0130YET M\u00dcD\u00dcRL\u00dc\u011e\u00dc YANI", 
+        "timestamp": "2017-08-15T04:49:57.079000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "65017", 
+            "65026", 
+            "65033", 
+            "65144", 
+            "65377"
+          ], 
+          "number": "6502", 
+          "slots": 17, 
+          "uid": "102116"
+        }, 
+        "free_bikes": 5, 
+        "id": "ff7be3412d1da332bd20a538503ad128", 
+        "latitude": 37.865820816114, 
+        "longitude": 32.488884329796, 
+        "name": "LARENDE CAD.BALIK HAL\u0130 \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.080000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "bike_uids": [
+            "65102", 
+            "65213", 
+            "65183"
+          ], 
+          "number": "6533", 
+          "slots": 22, 
+          "uid": "110242"
+        }, 
+        "free_bikes": 3, 
+        "id": "2b9f82a002d4abf31592ddd34a239819", 
+        "latitude": 38.009275027131, 
+        "longitude": 32.520400285721, 
+        "name": "GEN\u00c7L\u0130K MERKEZ\u0130 BOSNA", 
+        "timestamp": "2017-08-15T04:49:57.091000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "65064", 
+            "65130", 
+            "65140", 
+            "65395", 
+            "65337"
+          ], 
+          "number": "6537", 
+          "slots": 14, 
+          "uid": "111488"
+        }, 
+        "free_bikes": 5, 
+        "id": "4c0e47dc26fa9dba47bf377ebadfed6a", 
+        "latitude": 37.892259048603, 
+        "longitude": 32.47599363327, 
+        "name": "BEY\u015eEH\u0130R CAD.DEDEMAN OTEL \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.095000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "65004", 
+            "65095", 
+            "65396", 
+            "65330", 
+            "65299"
+          ], 
+          "number": "6523", 
+          "slots": 14, 
+          "uid": "111490"
+        }, 
+        "free_bikes": 5, 
+        "id": "94386e260d87d6eb95f047fdfa708eb0", 
+        "latitude": 37.884867122629, 
+        "longitude": 32.458111345768, 
+        "name": "BEY\u015eEH\u0130R CAD.BA\u015eKENT HASTANES\u0130 KAR\u015eISI", 
+        "timestamp": "2017-08-15T04:49:57.097000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "bike_uids": [
+            "65387"
+          ], 
+          "number": "6525", 
+          "slots": 19, 
+          "uid": "117985"
+        }, 
+        "free_bikes": 1, 
+        "id": "1a10b8369a2338fa082d91e783ede430", 
+        "latitude": 38.019756455046, 
+        "longitude": 32.515277266502, 
+        "name": "SEL\u00c7UK \u00dcN\u0130VERS\u0130TES\u0130 KAMP\u00dcS", 
+        "timestamp": "2017-08-15T04:49:57.106000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "65069", 
+            "65075", 
+            "65076", 
+            "65275", 
+            "65235"
+          ], 
+          "number": "6531", 
+          "slots": 10, 
+          "uid": "98262"
+        }, 
+        "free_bikes": 5, 
+        "id": "c10288fa8b4bac7b342c01e50bbfb802", 
+        "latitude": 37.848665187522, 
+        "longitude": 32.498962730169, 
+        "name": "A.\u00d6ZCAN CAD.ZAFER \u0130.\u00d6.O.\u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.070000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "65066", 
+            "65077", 
+            "65329", 
+            "65257", 
+            "65254"
+          ], 
+          "number": "6510", 
+          "slots": 10, 
+          "uid": "83631"
+        }, 
+        "free_bikes": 5, 
+        "id": "60805aa2332417e98f128595628c050e", 
+        "latitude": 37.872278819507, 
+        "longitude": 32.49444052577, 
+        "name": "ALAADD\u0130N BULVARI \u0130\u015e BANKASI \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.051000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "65005", 
+            "65012", 
+            "65073", 
+            "65114", 
+            "65305"
+          ], 
+          "number": "6503", 
+          "slots": 12, 
+          "uid": "102117"
+        }, 
+        "free_bikes": 5, 
+        "id": "9d4ff0730d8fa676b4fc8072292cb00d", 
+        "latitude": 37.865871635399, 
+        "longitude": 32.501884996891, 
+        "name": "P\u0130R\u0130ESAT CAD.KARATAY BELED\u0130YE \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.081000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "65067", 
+            "65390", 
+            "65357", 
+            "65342", 
+            "65259"
+          ], 
+          "number": "6517", 
+          "slots": 16, 
+          "uid": "83639"
+        }, 
+        "free_bikes": 5, 
+        "id": "90027d2f259623f6eda758e6448ec8db", 
+        "latitude": 37.875060879952, 
+        "longitude": 32.485099732876, 
+        "name": "KEMERL\u0130 CAD.MAL\u0130YE KAR\u015eISI", 
+        "timestamp": "2017-08-15T04:49:57.058000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "65023", 
+            "65036", 
+            "65047", 
+            "65054", 
+            "65060"
+          ], 
+          "number": "6532", 
+          "slots": 20, 
+          "uid": "102922"
+        }, 
+        "free_bikes": 5, 
+        "id": "bb71184a958e140b5a0c5e7e31afc0f1", 
+        "latitude": 37.865232156838, 
+        "longitude": 32.537920475006, 
+        "name": "ALAADD\u0130N KAP CAD.K.T.O. ONU", 
+        "timestamp": "2017-08-15T04:49:57.090000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "65022", 
+            "65081", 
+            "65084", 
+            "65089", 
+            "65132"
+          ], 
+          "number": "6539", 
+          "slots": 17, 
+          "uid": "111491"
+        }, 
+        "free_bikes": 6, 
+        "id": "9aebf84c8a08d4710ce29740fe7cc93c", 
+        "latitude": 37.978993035686, 
+        "longitude": 32.517074346542, 
+        "name": "\u0130STANBUL YOLU FARAB\u0130 HASTANES\u0130 KAV\u015eA\u011eI", 
+        "timestamp": "2017-08-15T04:49:57.098000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "65058", 
+            "65094", 
+            "65128", 
+            "65133", 
+            "65143"
+          ], 
+          "number": "6521", 
+          "slots": 20, 
+          "uid": "83629"
+        }, 
+        "free_bikes": 5, 
+        "id": "7143d1057532205a18350d22de4a0143", 
+        "latitude": 37.85322925829, 
+        "longitude": 32.422596216202, 
+        "name": "YEN\u0130 MERAM CAD.\u00c7INARALTI RESTAURANT KAR\u015eISI", 
+        "timestamp": "2017-08-15T04:49:57.045000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "65000", 
+            "65015", 
+            "65079", 
+            "65107", 
+            "65295"
+          ], 
+          "number": "6519", 
+          "slots": 18, 
+          "uid": "83640"
+        }, 
+        "free_bikes": 5, 
+        "id": "7a22e60f9e7e1cbc4b034850ecd89698", 
+        "latitude": 37.888322919224, 
+        "longitude": 32.493621110916, 
+        "name": "KULE S\u0130TE A.V.M. YANI", 
+        "timestamp": "2017-08-15T04:49:57.059000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "65051", 
+            "65052", 
+            "65165"
+          ], 
+          "number": "6530", 
+          "slots": 17, 
+          "uid": "102917"
+        }, 
+        "free_bikes": 3, 
+        "id": "ed75fc6aafec412df0c52618c2e68980", 
+        "latitude": 38.010230251583, 
+        "longitude": 32.526623010635, 
+        "name": "OVAL \u00c7AR\u015eI BOSNA", 
+        "timestamp": "2017-08-15T04:49:57.089000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "65018", 
+            "65028", 
+            "65030", 
+            "65056", 
+            "65116"
+          ], 
+          "number": "6524", 
+          "slots": 10, 
+          "uid": "111776"
+        }, 
+        "free_bikes": 5, 
+        "id": "7ce460dfdf6e307164273444ec71ab5f", 
+        "latitude": 37.862727126116, 
+        "longitude": 32.543201744556, 
+        "name": "YEN\u0130 ADL\u0130YE \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.105000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "65370", 
+            "65331", 
+            "65320", 
+            "65317", 
+            "65202"
+          ], 
+          "number": "6509", 
+          "slots": 18, 
+          "uid": "83630"
+        }, 
+        "free_bikes": 5, 
+        "id": "4e4dfd904979f21ffca36d3633515db8", 
+        "latitude": 37.870936448354, 
+        "longitude": 32.490311264992, 
+        "name": "KAZIM KARABEK\u0130R CAD.1 CAMLIK\u00d6\u015eK \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.049000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "65011", 
+            "65136"
+          ], 
+          "number": "6512", 
+          "slots": 12, 
+          "uid": "102915"
+        }, 
+        "free_bikes": 2, 
+        "id": "cfb56349420582562728f0a9c1d82ebf", 
+        "latitude": 37.872113671063, 
+        "longitude": 32.485107779503, 
+        "name": "Z\u0130NDANKALE MARE\u015eAL \u0130.\u00d6.O. YANI", 
+        "timestamp": "2017-08-15T04:49:57.088000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "65093", 
+            "65120", 
+            "65122", 
+            "65383", 
+            "65361"
+          ], 
+          "number": "6508", 
+          "slots": 15, 
+          "uid": "250787"
+        }, 
+        "free_bikes": 5, 
+        "id": "5c496c87dc80c409cb6b7211539ddb71", 
+        "latitude": 37.874709423015, 
+        "longitude": 32.491647005081, 
+        "name": "KARATAY MEDRESE \u00d6N\u00dc", 
+        "timestamp": "2017-08-15T04:49:57.107000Z"
+      }
+    ]
+  }
+}

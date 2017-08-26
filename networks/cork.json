@@ -1,0 +1,421 @@
+{
+  "network": {
+    "company": [
+      "The National Transport Authority"
+    ], 
+    "href": "/v2/networks/cork", 
+    "id": "cork", 
+    "location": {
+      "city": "Cork", 
+      "country": "IE", 
+      "latitude": 51.893604, 
+      "longitude": -8.494174
+    }, 
+    "name": "Coca-Cola Zero\u00ae Bikes", 
+    "stations": [
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "slots": 29, 
+          "uid": 2001
+        }, 
+        "free_bikes": 11, 
+        "id": "7fa766db445e4d8fde9d28bf4dc7329a", 
+        "latitude": 51.893604, 
+        "longitude": -8.494174, 
+        "name": "Gaol Walk", 
+        "timestamp": "2017-08-15T04:48:44.795000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "slots": 33, 
+          "uid": 2003
+        }, 
+        "free_bikes": 13, 
+        "id": "b29eca3bfcb3d577a9c16ec68843bd5a", 
+        "latitude": 51.89580557, 
+        "longitude": -8.4891363, 
+        "name": "Bandfield", 
+        "timestamp": "2017-08-15T04:48:44.804000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "slots": 18, 
+          "uid": 2007
+        }, 
+        "free_bikes": 10, 
+        "id": "5b036ae26bcff590c98cd4391db1ddf1", 
+        "latitude": 51.901632, 
+        "longitude": -8.477385, 
+        "name": "Pope's Quay", 
+        "timestamp": "2017-08-15T04:48:44.808000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "slots": 15, 
+          "uid": 2008
+        }, 
+        "free_bikes": 10, 
+        "id": "7522f32c7a7a84e963e81edb06295288", 
+        "latitude": 51.89974733, 
+        "longitude": -8.47844005, 
+        "name": "North Main St.", 
+        "timestamp": "2017-08-15T04:48:44.811000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": 25, 
+          "uid": 2010
+        }, 
+        "free_bikes": 9, 
+        "id": "5b0810fa5bbe09c1bb57fe5a837f1158", 
+        "latitude": 51.896492, 
+        "longitude": -8.48004, 
+        "name": "Wandesford Quay", 
+        "timestamp": "2017-08-15T04:48:44.813000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "slots": 15, 
+          "uid": 2011
+        }, 
+        "free_bikes": 10, 
+        "id": "626ecb74590180d0381810b0c28aca46", 
+        "latitude": 51.89468826, 
+        "longitude": -8.4790268, 
+        "name": "Bishop St.", 
+        "timestamp": "2017-08-15T04:48:44.814000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": 22, 
+          "uid": 2013
+        }, 
+        "free_bikes": 11, 
+        "id": "3b467e328765a383278e70d6db903ab8", 
+        "latitude": 51.9, 
+        "longitude": -8.477, 
+        "name": "Corn Market St.", 
+        "timestamp": "2017-08-15T04:48:44.816000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "slots": 32, 
+          "uid": 2014
+        }, 
+        "free_bikes": 7, 
+        "id": "f2132ff0a17bd9072ebe55c50abc3cec", 
+        "latitude": 51.898144, 
+        "longitude": -8.465735, 
+        "name": "Lapp's Quay", 
+        "timestamp": "2017-08-15T04:48:44.817000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "slots": 10, 
+          "uid": 2016
+        }, 
+        "free_bikes": 3, 
+        "id": "d4244962e27d04acc2efa8bed77b0936", 
+        "latitude": 51.896946053069, 
+        "longitude": -8.4768955316474, 
+        "name": "South Main St.", 
+        "timestamp": "2017-08-15T04:48:44.820000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 19, 
+          "uid": 2017
+        }, 
+        "free_bikes": 8, 
+        "id": "4beada991c60cd15cbddf8f61ce403f2", 
+        "latitude": 51.897480231758, 
+        "longitude": -8.475369773813, 
+        "name": "Grand Parade", 
+        "timestamp": "2017-08-15T04:48:44.823000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 20, 
+          "uid": 2018
+        }, 
+        "free_bikes": 11, 
+        "id": "9b871b504c68e56e1f87f466a60275cc", 
+        "latitude": 51.896194699269, 
+        "longitude": -8.4734758827914, 
+        "name": "Peace Park", 
+        "timestamp": "2017-08-15T04:48:44.829000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "slots": 20, 
+          "uid": 2021
+        }, 
+        "free_bikes": 7, 
+        "id": "944915cbd8b7d6a474df885c8ad977aa", 
+        "latitude": 51.900208122145, 
+        "longitude": -8.4727046638806, 
+        "name": "Emmet Place", 
+        "timestamp": "2017-08-15T04:48:44.835000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 15, 
+          "uid": 2002
+        }, 
+        "free_bikes": 7, 
+        "id": "9290f5f755d5e411d0a9bd4d6283376c", 
+        "latitude": 51.89555327, 
+        "longitude": -8.49341266, 
+        "name": "Fitzgerald's Park", 
+        "timestamp": "2017-08-15T04:48:44.803000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "slots": 19, 
+          "uid": 2004
+        }, 
+        "free_bikes": 8, 
+        "id": "e3a2dae7e3d0e50138453d524675ca28", 
+        "latitude": 51.89718531, 
+        "longitude": -8.48458467, 
+        "name": "Dyke Parade", 
+        "timestamp": "2017-08-15T04:48:44.805000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "slots": 13, 
+          "uid": 2005
+        }, 
+        "free_bikes": 5, 
+        "id": "cec390325941d3d82652ab7e35c2dc3e", 
+        "latitude": 51.89911495, 
+        "longitude": -8.48225676, 
+        "name": "Mercy Hospital", 
+        "timestamp": "2017-08-15T04:48:44.806000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "slots": 25, 
+          "uid": 2006
+        }, 
+        "free_bikes": 13, 
+        "id": "83225d44bfef9b78da5c4f4ff427fa72", 
+        "latitude": 51.89710212, 
+        "longitude": -8.48196155, 
+        "name": "St. Fin Barre's Bridge", 
+        "timestamp": "2017-08-15T04:48:44.807000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 10, 
+          "uid": 2009
+        }, 
+        "free_bikes": 3, 
+        "id": "6a06d83abdbb45148c24d9309840da3b", 
+        "latitude": 51.8984737, 
+        "longitude": -8.47977966, 
+        "name": "Grattan St.", 
+        "timestamp": "2017-08-15T04:48:44.812000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "slots": 20, 
+          "uid": 2012
+        }, 
+        "free_bikes": 6, 
+        "id": "3c4b4fa3d1e2f50703d7dcbde601faff", 
+        "latitude": 51.901054, 
+        "longitude": -8.473342, 
+        "name": "Camden Quay", 
+        "timestamp": "2017-08-15T04:48:44.815000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "slots": 20, 
+          "uid": 2015
+        }, 
+        "free_bikes": 6, 
+        "id": "3bb55034e48004245ce19081a17c381c", 
+        "latitude": 51.89850471, 
+        "longitude": -8.47261531, 
+        "name": "St. Patricks St.", 
+        "timestamp": "2017-08-15T04:48:44.818000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 12, 
+          "uid": 2019
+        }, 
+        "free_bikes": 5, 
+        "id": "ae56617dfe957b41563ac4e9d4acdb27", 
+        "latitude": 51.895494391259, 
+        "longitude": -8.4758651442905, 
+        "name": "South Gate Bridge", 
+        "timestamp": "2017-08-15T04:48:44.833000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "slots": 30, 
+          "uid": 2020
+        }, 
+        "free_bikes": 17, 
+        "id": "bc325a9ab9cfe4deee1b1ecdafa7d275", 
+        "latitude": 51.90155283, 
+        "longitude": -8.47056736, 
+        "name": "Coburg St.", 
+        "timestamp": "2017-08-15T04:48:44.834000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "slots": 29, 
+          "uid": 2022
+        }, 
+        "free_bikes": 9, 
+        "id": "9afa91ffcefafa784b2b8b365d145d5e", 
+        "latitude": 51.896838555161, 
+        "longitude": -8.4698998276223, 
+        "name": "South Mall", 
+        "timestamp": "2017-08-15T04:48:44.838000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 30, 
+          "uid": 2023
+        }, 
+        "free_bikes": 11, 
+        "id": "35eed4f66b448c02978941709661eaa9", 
+        "latitude": 51.8953, 
+        "longitude": -8.469797, 
+        "name": "College of Commerce", 
+        "timestamp": "2017-08-15T04:48:44.839000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "slots": 15, 
+          "uid": 2024
+        }, 
+        "free_bikes": 4, 
+        "id": "777ad0768cdde9b3f47cf972787f538a", 
+        "latitude": 51.89967344, 
+        "longitude": -8.4706278, 
+        "name": "Father Mathew Statue", 
+        "timestamp": "2017-08-15T04:48:44.839000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "slots": 15, 
+          "uid": 2025
+        }, 
+        "free_bikes": 8, 
+        "id": "0e48b5a3174a9641ade617b73616a123", 
+        "latitude": 51.896317075055, 
+        "longitude": -8.4680925216605, 
+        "name": "Cork School of Music", 
+        "timestamp": "2017-08-15T04:48:44.842000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 10, 
+          "uid": 2026
+        }, 
+        "free_bikes": 0, 
+        "id": "6eacec8e4785f2ea30f112fbc3917281", 
+        "latitude": 51.900405, 
+        "longitude": -8.465153, 
+        "name": "Brian Boru Bridge", 
+        "timestamp": "2017-08-15T04:48:44.848000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "slots": 20, 
+          "uid": 2027
+        }, 
+        "free_bikes": 8, 
+        "id": "02facac2f86ffd8decd489630c458078", 
+        "latitude": 51.89951532, 
+        "longitude": -8.46695074, 
+        "name": "Bus Station", 
+        "timestamp": "2017-08-15T04:48:44.849000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "slots": 14, 
+          "uid": 2029
+        }, 
+        "free_bikes": 7, 
+        "id": "f947e57444847180ffa8b8bd83ee1f7d", 
+        "latitude": 51.897, 
+        "longitude": -8.466, 
+        "name": "Cork City Hall", 
+        "timestamp": "2017-08-15T04:48:44.850000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": 23, 
+          "uid": 2030
+        }, 
+        "free_bikes": 9, 
+        "id": "a673f291344fc614a52e84bed24493ff", 
+        "latitude": 51.90137057, 
+        "longitude": -8.46411816, 
+        "name": "Lower Glanmire Rd.", 
+        "timestamp": "2017-08-15T04:48:44.850000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 10, 
+          "uid": 2031
+        }, 
+        "free_bikes": 3, 
+        "id": "bb858d22f6f368e294d032609ae751a0", 
+        "latitude": 51.898481869187, 
+        "longitude": -8.4656293317754, 
+        "name": "Clontarf Street", 
+        "timestamp": "2017-08-15T04:48:44.851000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "slots": 29, 
+          "uid": 2032
+        }, 
+        "free_bikes": 14, 
+        "id": "f4b5f18602fe099ba2d4cf0b94a53f47", 
+        "latitude": 51.90196195, 
+        "longitude": -8.45821512, 
+        "name": "Kent Station", 
+        "timestamp": "2017-08-15T04:48:44.852000Z"
+      }
+    ]
+  }
+}

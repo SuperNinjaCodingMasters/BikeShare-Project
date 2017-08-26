@@ -1,0 +1,114 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-paiporta", 
+    "id": "onroll-paiporta", 
+    "location": {
+      "city": "Paiporta", 
+      "country": "ES", 
+      "latitude": 39.427609, 
+      "longitude": -0.416876
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "1b9becee5d14914676c84fb97e4114a7", 
+        "latitude": 39.429222, 
+        "longitude": -0.417871, 
+        "name": "Ayuntamiento", 
+        "timestamp": "2017-08-15T04:48:36.952000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 10, 
+        "id": "20589bbf7b12a527bf8e764f291854fd", 
+        "latitude": 39.432215, 
+        "longitude": -0.418575, 
+        "name": "Fgv", 
+        "timestamp": "2017-08-15T04:48:36.955000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "a09f58c4012c241bb1cc7960aebf7b01", 
+        "latitude": 39.427708, 
+        "longitude": -0.422553, 
+        "name": "Plaza X\u00faquer", 
+        "timestamp": "2017-08-15T04:48:36.956000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 10, 
+        "id": "1daeb7bf1fdb42ca0375455d7c1d2a40", 
+        "latitude": 39.426899, 
+        "longitude": -0.407989, 
+        "name": "Pol\u00fdgono", 
+        "timestamp": "2017-08-15T04:48:36.956000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "5b9db9d057e6903dcb63c2ff9d4ca3ea", 
+        "latitude": 39.425532, 
+        "longitude": -0.41375, 
+        "name": "Polideportivo", 
+        "timestamp": "2017-08-15T04:48:36.957000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "02b535330065b0801a66e2f903234836", 
+        "latitude": 39.42408, 
+        "longitude": -0.42052, 
+        "name": "Santa Ana", 
+        "timestamp": "2017-08-15T04:48:36.958000Z"
+      }
+    ]
+  }
+}

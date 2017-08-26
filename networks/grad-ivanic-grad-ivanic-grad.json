@@ -1,0 +1,59 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/grad-ivanic-grad-ivanic-grad", 
+    "id": "grad-ivanic-grad-ivanic-grad", 
+    "location": {
+      "city": "Ivanic Grad", 
+      "country": "HR", 
+      "latitude": 45.7062, 
+      "longitude": 16.3919
+    }, 
+    "name": "Grad Ivani\u0107-Grad", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "80393", 
+            "80391", 
+            "80390", 
+            "80734", 
+            "80733"
+          ], 
+          "number": "2408", 
+          "slots": 6, 
+          "uid": "1402535"
+        }, 
+        "free_bikes": 5, 
+        "id": "617d97291fe263d3020754b56e2c7354", 
+        "latitude": 45.705932037071, 
+        "longitude": 16.386322975159, 
+        "name": "Naftalan", 
+        "timestamp": "2017-08-15T04:48:46.589000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "80392", 
+            "80735", 
+            "80732", 
+            "80731"
+          ], 
+          "number": "2407", 
+          "slots": 6, 
+          "uid": "1402531"
+        }, 
+        "free_bikes": 4, 
+        "id": "4170c4150f3ee96e505427365d40c57f", 
+        "latitude": 45.704935540576, 
+        "longitude": 16.393430829048, 
+        "name": "Trg Vladimira Nazora", 
+        "timestamp": "2017-08-15T04:48:46.578000Z"
+      }
+    ]
+  }
+}

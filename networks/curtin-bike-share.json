@@ -1,0 +1,163 @@
+{
+  "network": {
+    "company": [
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "http://curtinbikeshare.com/opendata/gbfs.json", 
+    "href": "/v2/networks/curtin-bike-share", 
+    "id": "curtin-bike-share", 
+    "location": {
+      "city": "Curtin University, Perth, WA", 
+      "country": "AU", 
+      "latitude": -32.0034172153127, 
+      "longitude": 115.89431270956993
+    }, 
+    "name": "Curtin Bike Share", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Bentley", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2671"
+        }, 
+        "free_bikes": 0, 
+        "id": "e1374586873ffad7dcefa7be8e8418df", 
+        "latitude": -32.005432138355744, 
+        "longitude": 115.89599579572678, 
+        "name": "305", 
+        "timestamp": "2017-08-15T04:50:49.320000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Wark Avenue, Bentley", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1335"
+        }, 
+        "free_bikes": 0, 
+        "id": "ffe1893bef68df4ec07941ec08908e06", 
+        "latitude": -32.00717413864822, 
+        "longitude": 115.89483842253685, 
+        "name": "basement cafe ", 
+        "timestamp": "2017-08-15T04:50:49.324000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Dumas Road, Bentley", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1426"
+        }, 
+        "free_bikes": 0, 
+        "id": "d5213ff66b5f8659e499a10d34ab4e14", 
+        "latitude": -32.002888379171424, 
+        "longitude": 115.89136596769094, 
+        "name": "Stadium", 
+        "timestamp": "2017-08-15T04:50:49.326000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Brand Drive, Bentley", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1247"
+        }, 
+        "free_bikes": 0, 
+        "id": "86a9183fc5f31d65032ba28dfec6ce55", 
+        "latitude": -32.00410839386764, 
+        "longitude": 115.89475359767675, 
+        "name": "402", 
+        "timestamp": "2017-08-15T04:50:49.320000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Bentley", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1937"
+        }, 
+        "free_bikes": 0, 
+        "id": "c7c931a91922544a1ac22e4bb9a8b6fc", 
+        "latitude": -32.006718107426714, 
+        "longitude": 115.89592806994915, 
+        "name": "Physics", 
+        "timestamp": "2017-08-15T04:50:49.312000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Bentley", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2670"
+        }, 
+        "free_bikes": 0, 
+        "id": "e0e692ee2b473c918c1eef98c28fc1e0", 
+        "latitude": -32.011971981221606, 
+        "longitude": 115.89345574378967, 
+        "name": "500", 
+        "timestamp": "2017-08-15T04:50:49.321000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Bentley", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2672"
+        }, 
+        "free_bikes": 0, 
+        "id": "8f763e418127bc3adf603e5e848f9132", 
+        "latitude": -32.00548956965166, 
+        "longitude": 115.89495610445738, 
+        "name": "bottom of library ", 
+        "timestamp": "2017-08-15T04:50:49.323000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Bentley", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2706"
+        }, 
+        "free_bikes": 0, 
+        "id": "e7e3261c19b83ad0559eda8fda545ad9", 
+        "latitude": -32.00692789913411, 
+        "longitude": 115.89329112321138, 
+        "name": "vegie pactch", 
+        "timestamp": "2017-08-15T04:50:49.325000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Chessell Drive, Bentley", 
+          "last_updated": 1502772629, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2673"
+        }, 
+        "free_bikes": 0, 
+        "id": "4680415f4509805b3750ba1b7eacf953", 
+        "latitude": -32.00798492471701, 
+        "longitude": 115.8932351320982, 
+        "name": "208/501", 
+        "timestamp": "2017-08-15T04:50:49.322000Z"
+      }
+    ]
+  }
+}

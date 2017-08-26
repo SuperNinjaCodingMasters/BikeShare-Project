@@ -1,0 +1,130 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-vinaros", 
+    "id": "onroll-vinaros", 
+    "location": {
+      "city": "Vinar\u00f2s", 
+      "country": "ES", 
+      "latitude": 40.468258, 
+      "longitude": 0.466972
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "95ad2e06bc054f8eb0c0948caca229ac", 
+        "latitude": 40.471074, 
+        "longitude": 0.473816, 
+        "name": "Biblioteca", 
+        "timestamp": "2017-08-15T04:48:43.371000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "0963c733242ebaf005792d0b05cb4041", 
+        "latitude": 40.47868, 
+        "longitude": 0.476291, 
+        "name": "Catalinetes", 
+        "timestamp": "2017-08-15T04:48:43.386000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "cbf485b9e6adc4d9f08beafa00a7f1e1", 
+        "latitude": 40.462883, 
+        "longitude": 0.449138, 
+        "name": "Hospital", 
+        "timestamp": "2017-08-15T04:48:43.387000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "1be67ac7a166afb303ee4aad490bbcc1", 
+        "latitude": 40.471749, 
+        "longitude": 0.457657, 
+        "name": "Institut-renfe", 
+        "timestamp": "2017-08-15T04:48:43.388000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "3a48e99c550458ba3f6bc855254e2e4f", 
+        "latitude": 40.473765, 
+        "longitude": 0.481348, 
+        "name": "Passeig Fora Forat", 
+        "timestamp": "2017-08-15T04:48:43.389000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "2bdb7fc208bc44462777a219500cf5e0", 
+        "latitude": 40.465003, 
+        "longitude": 0.468751, 
+        "name": "Pla\u00e7a de Bous", 
+        "timestamp": "2017-08-15T04:48:43.390000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "9e12e5196244add55f68356ab030f4c8", 
+        "latitude": 40.454654, 
+        "longitude": 0.461801, 
+        "name": "Salines", 
+        "timestamp": "2017-08-15T04:48:43.390000Z"
+      }
+    ]
+  }
+}

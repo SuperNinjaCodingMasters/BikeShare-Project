@@ -1,0 +1,1764 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/prm-poznan", 
+    "id": "prm-poznan", 
+    "location": {
+      "city": "Pozna\u0144", 
+      "country": "PL", 
+      "latitude": 52.4077, 
+      "longitude": 16.9323
+    }, 
+    "name": "PRM", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "68756", 
+            "68708", 
+            "68566", 
+            "68440", 
+            "68073"
+          ], 
+          "number": "6196", 
+          "slots": 15, 
+          "uid": "2553676"
+        }, 
+        "free_bikes": 5, 
+        "id": "9adc7a517c02d8a1894c64ae4558772f", 
+        "latitude": 52.41643, 
+        "longitude": 16.96008, 
+        "name": "Koronkarska", 
+        "timestamp": "2017-08-15T04:49:07.922000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "68832", 
+            "68510", 
+            "68936", 
+            "68110"
+          ], 
+          "number": "6113", 
+          "slots": 15, 
+          "uid": "2553496"
+        }, 
+        "free_bikes": 4, 
+        "id": "e3bc1e32b6e4a0d61d03462e5d0d2da5", 
+        "latitude": 52.42544, 
+        "longitude": 16.92442, 
+        "name": "Do\u017cynkowa", 
+        "timestamp": "2017-08-15T04:49:07.888000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68755", 
+            "68687", 
+            "68603", 
+            "68065", 
+            "68262"
+          ], 
+          "number": "6120", 
+          "slots": 15, 
+          "uid": "2553541"
+        }, 
+        "free_bikes": 7, 
+        "id": "e3faa5e1067757fa5d161a355a115cb6", 
+        "latitude": 52.390582500892, 
+        "longitude": 16.957268714905, 
+        "name": "Os. O\u015bwiecenia", 
+        "timestamp": "2017-08-15T04:49:07.900000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "68631", 
+            "68560", 
+            "68407", 
+            "68382", 
+            "68874"
+          ], 
+          "number": "6138", 
+          "slots": 18, 
+          "uid": "1117328"
+        }, 
+        "free_bikes": 5, 
+        "id": "ae424032d77cba066d378b655a36b967", 
+        "latitude": 52.41499, 
+        "longitude": 16.97857, 
+        "name": "Nieszawska", 
+        "timestamp": "2017-08-15T04:49:07.824000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "68126", 
+            "68141", 
+            "68113"
+          ], 
+          "number": "6143", 
+          "slots": 11, 
+          "uid": "1117388"
+        }, 
+        "free_bikes": 3, 
+        "id": "5a499f8f69bf2e6cebfb7a15287e38ab", 
+        "latitude": 52.40647, 
+        "longitude": 16.85124, 
+        "name": "Strzegomska / Ga\u0142czy\u0144skiego", 
+        "timestamp": "2017-08-15T04:49:07.843000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "68699", 
+            "68470"
+          ], 
+          "number": "6133", 
+          "slots": 11, 
+          "uid": "1117278"
+        }, 
+        "free_bikes": 2, 
+        "id": "9c433b69c858452e17e74237a883bba8", 
+        "latitude": 52.41111, 
+        "longitude": 16.92216, 
+        "name": "Libelta", 
+        "timestamp": "2017-08-15T04:49:07.819000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "68825", 
+            "68817", 
+            "68758", 
+            "68680", 
+            "68663"
+          ], 
+          "number": "6157", 
+          "slots": 18, 
+          "uid": "121569"
+        }, 
+        "free_bikes": 6, 
+        "id": "6f37feed227bd53b2595cdfa2ac8ef8b", 
+        "latitude": 52.402831256725, 
+        "longitude": 16.911622881889, 
+        "name": "Pozna\u0144 G\u0142\u00f3wny", 
+        "timestamp": "2017-08-15T04:49:07.730000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68786", 
+            "68735", 
+            "68500", 
+            "68488", 
+            "68465"
+          ], 
+          "number": "6155", 
+          "slots": 16, 
+          "uid": "121576"
+        }, 
+        "free_bikes": 5, 
+        "id": "593878b09b27f59a3794d0c5c96341bd", 
+        "latitude": 52.396376697438, 
+        "longitude": 16.950160861015, 
+        "name": "Rondo Rataje", 
+        "timestamp": "2017-08-15T04:49:07.755000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68802", 
+            "68782", 
+            "68777", 
+            "68634", 
+            "68607"
+          ], 
+          "number": "6166", 
+          "slots": 16, 
+          "uid": "285110"
+        }, 
+        "free_bikes": 5, 
+        "id": "cfcedb1ccdc883639c21d757a82cd96c", 
+        "latitude": 52.416980849725, 
+        "longitude": 16.882231235504, 
+        "name": "Ogrody ", 
+        "timestamp": "2017-08-15T04:49:07.760000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68834", 
+            "68305", 
+            "68935", 
+            "68039"
+          ], 
+          "number": "6160", 
+          "slots": 10, 
+          "uid": "285134"
+        }, 
+        "free_bikes": 4, 
+        "id": "9d09a1b8983152e337cc6043daf34bc2", 
+        "latitude": 52.455770087644, 
+        "longitude": 16.947544924697, 
+        "name": "Boranta", 
+        "timestamp": "2017-08-15T04:49:07.774000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68693", 
+            "68636", 
+            "68629", 
+            "68568", 
+            "68509"
+          ], 
+          "number": "6112", 
+          "slots": 15, 
+          "uid": "2553492"
+        }, 
+        "free_bikes": 5, 
+        "id": "d83f57f5d89f8e5d6653af6f81c4aa9e", 
+        "latitude": 52.40683, 
+        "longitude": 16.87798, 
+        "name": "Brzask / Mi\u0119dzychodzka", 
+        "timestamp": "2017-08-15T04:49:07.885000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68792", 
+            "68785", 
+            "68072", 
+            "68386", 
+            "68949"
+          ], 
+          "number": "6119", 
+          "slots": 15, 
+          "uid": "2553534"
+        }, 
+        "free_bikes": 10, 
+        "id": "fd00e72a9c12b557285f1198922d4721", 
+        "latitude": 52.36353, 
+        "longitude": 16.90415, 
+        "name": "Os. D\u0119bina", 
+        "timestamp": "2017-08-15T04:49:07.899000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68808", 
+            "68780", 
+            "68772", 
+            "68733", 
+            "68672"
+          ], 
+          "number": "6197", 
+          "slots": 13, 
+          "uid": "2553679"
+        }, 
+        "free_bikes": 5, 
+        "id": "267184e5fcf45689fe0d871955effba4", 
+        "latitude": 52.40972, 
+        "longitude": 16.82359, 
+        "name": "Z\u0142otowska", 
+        "timestamp": "2017-08-15T04:49:07.924000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "68794", 
+            "68779", 
+            "68753", 
+            "68676", 
+            "68493"
+          ], 
+          "number": "6182", 
+          "slots": 18, 
+          "uid": "391394"
+        }, 
+        "free_bikes": 6, 
+        "id": "a730763611e3f8b95f32eac12d7d9ad8", 
+        "latitude": 52.416470443796, 
+        "longitude": 16.938922405243, 
+        "name": "Garbary", 
+        "timestamp": "2017-08-15T04:49:07.805000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68839", 
+            "68826", 
+            "68704", 
+            "68544", 
+            "68419"
+          ], 
+          "number": "6186", 
+          "slots": 18, 
+          "uid": "391428"
+        }, 
+        "free_bikes": 9, 
+        "id": "915e7db8bf8a082120348ab8fa53d81e", 
+        "latitude": 52.389895003363, 
+        "longitude": 16.977331638336, 
+        "name": "Os. Lecha", 
+        "timestamp": "2017-08-15T04:49:07.809000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "68805", 
+            "68701", 
+            "68678", 
+            "68652", 
+            "68644"
+          ], 
+          "number": "6163", 
+          "slots": 11, 
+          "uid": "285125"
+        }, 
+        "free_bikes": 8, 
+        "id": "3157ee307a038ea97fa12e402e9ef484", 
+        "latitude": 52.393476420695, 
+        "longitude": 16.921509504318, 
+        "name": "Rynek Wildecki", 
+        "timestamp": "2017-08-15T04:49:07.772000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "68798", 
+            "68578", 
+            "68481", 
+            "68142", 
+            "68161"
+          ], 
+          "number": "6142", 
+          "slots": 20, 
+          "uid": "1117377"
+        }, 
+        "free_bikes": 6, 
+        "id": "8cdfc0516837ece87457b008b0af9426", 
+        "latitude": 52.3944, 
+        "longitude": 16.90098, 
+        "name": "Rynek \u0141azarski", 
+        "timestamp": "2017-08-15T04:49:07.835000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "68660", 
+            "68656", 
+            "68639", 
+            "68529", 
+            "68433"
+          ], 
+          "number": "6140", 
+          "slots": 13, 
+          "uid": "1117357"
+        }, 
+        "free_bikes": 5, 
+        "id": "687d196ac971b8747275b8aa92024305", 
+        "latitude": 52.38905, 
+        "longitude": 16.91564, 
+        "name": "Pr\u0105dzy\u0144skiego / Kosi\u0144skiego", 
+        "timestamp": "2017-08-15T04:49:07.827000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "68694", 
+            "68598", 
+            "68553", 
+            "68979", 
+            "68977"
+          ], 
+          "number": "6154", 
+          "slots": 28, 
+          "uid": "121575"
+        }, 
+        "free_bikes": 12, 
+        "id": "d3997047753024f1570b142fe9a1524a", 
+        "latitude": 52.409265237547, 
+        "longitude": 16.955380439758, 
+        "name": "Rondo \u015ar\u00f3dka", 
+        "timestamp": "2017-08-15T04:49:07.750000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "68442", 
+            "68434", 
+            "68029", 
+            "68098"
+          ], 
+          "number": "6167", 
+          "slots": 12, 
+          "uid": "373089"
+        }, 
+        "free_bikes": 4, 
+        "id": "c916e28f920b59cdb05ae02a82f5c4f1", 
+        "latitude": 52.402818165269, 
+        "longitude": 16.949914097786, 
+        "name": "Politechnika Centrum Wyk\u0142adowe", 
+        "timestamp": "2017-08-15T04:49:07.777000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "68836", 
+            "68790", 
+            "68768", 
+            "68767", 
+            "68625"
+          ], 
+          "number": "6141", 
+          "slots": 20, 
+          "uid": "1117360"
+        }, 
+        "free_bikes": 5, 
+        "id": "c210f06a0d95c825b9229d2352f6052f", 
+        "latitude": 52.4081, 
+        "longitude": 16.91134, 
+        "name": "Rondo Kaponiera", 
+        "timestamp": "2017-08-15T04:49:07.829000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "68813", 
+            "68689", 
+            "68595", 
+            "68518", 
+            "68281"
+          ], 
+          "number": "6128", 
+          "slots": 16, 
+          "uid": "1117265"
+        }, 
+        "free_bikes": 8, 
+        "id": "886103c02a0f97111504f7f25be4326f", 
+        "latitude": 52.396, 
+        "longitude": 16.86208, 
+        "name": "Bu\u0142garska", 
+        "timestamp": "2017-08-15T04:49:07.814000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "68945", 
+            "68218"
+          ], 
+          "number": "6183", 
+          "slots": 13, 
+          "uid": "391395"
+        }, 
+        "free_bikes": 2, 
+        "id": "4d536ef32280a9d81ec036b7eeccaccc", 
+        "latitude": 52.404346566593, 
+        "longitude": 16.935301423073, 
+        "name": "Zielona", 
+        "timestamp": "2017-08-15T04:49:07.806000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "68800", 
+            "68738", 
+            "68721", 
+            "68002", 
+            "68031"
+          ], 
+          "number": "6175", 
+          "slots": 20, 
+          "uid": "373714"
+        }, 
+        "free_bikes": 5, 
+        "id": "18d822e0744028ade22ce63c1d288a85", 
+        "latitude": 52.380786287407, 
+        "longitude": 16.943557262421, 
+        "name": "Rondo Staro\u0142\u0119ka", 
+        "timestamp": "2017-08-15T04:49:07.790000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "68778", 
+            "68705", 
+            "68615", 
+            "68129", 
+            "68001"
+          ], 
+          "number": "6156", 
+          "slots": 14, 
+          "uid": "121577"
+        }, 
+        "free_bikes": 5, 
+        "id": "47fff00fa9d27120a9de54a80c6b9e5f", 
+        "latitude": 52.400894497127, 
+        "longitude": 16.928225755691, 
+        "name": "P\u00f3\u0142wiejska", 
+        "timestamp": "2017-08-15T04:49:07.757000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68827", 
+            "68812", 
+            "68742", 
+            "68630", 
+            "68627"
+          ], 
+          "number": "6184", 
+          "slots": 28, 
+          "uid": "391422"
+        }, 
+        "free_bikes": 9, 
+        "id": "5b3dc197408d5a8dbfc19fd725f22576", 
+        "latitude": 52.399908492642, 
+        "longitude": 16.978554725647, 
+        "name": "Malta SKI", 
+        "timestamp": "2017-08-15T04:49:07.807000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "68766", 
+            "68727", 
+            "68668", 
+            "68623", 
+            "68617"
+          ], 
+          "number": "6187", 
+          "slots": 16, 
+          "uid": "391431"
+        }, 
+        "free_bikes": 5, 
+        "id": "6ac5e309b394df23144d65397022def6", 
+        "latitude": 52.384993817874, 
+        "longitude": 16.914101243019, 
+        "name": "Traugutta", 
+        "timestamp": "2017-08-15T04:49:07.810000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "68824", 
+            "68816", 
+            "68809", 
+            "68592", 
+            "68430"
+          ], 
+          "number": "6176", 
+          "slots": 18, 
+          "uid": "373716"
+        }, 
+        "free_bikes": 5, 
+        "id": "f15cc9e7cb1904fcc024f3a59d280a5d", 
+        "latitude": 52.433860178066, 
+        "longitude": 16.937409639359, 
+        "name": "Rondo Solidarno\u015bci", 
+        "timestamp": "2017-08-15T04:49:07.791000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "68658", 
+            "68651", 
+            "68572", 
+            "68476", 
+            "68292"
+          ], 
+          "number": "6165", 
+          "slots": 10, 
+          "uid": "286857"
+        }, 
+        "free_bikes": 5, 
+        "id": "297724e87f702ecd5c4269df5d2cb86a", 
+        "latitude": 52.397941327408, 
+        "longitude": 16.902616024017, 
+        "name": "Park Wilsona", 
+        "timestamp": "2017-08-15T04:49:07.776000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68761", 
+            "68728", 
+            "68585", 
+            "68541", 
+            "68379"
+          ], 
+          "number": "6168", 
+          "slots": 10, 
+          "uid": "373090"
+        }, 
+        "free_bikes": 6, 
+        "id": "57384349e79fbc9d90ce113f9263e4e4", 
+        "latitude": 52.421096599579, 
+        "longitude": 16.908774375916, 
+        "name": "Park So\u0142acki", 
+        "timestamp": "2017-08-15T04:49:07.782000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "68788", 
+            "68681", 
+            "68847", 
+            "68101"
+          ], 
+          "number": "6153", 
+          "slots": 16, 
+          "uid": "121574"
+        }, 
+        "free_bikes": 4, 
+        "id": "42971371c57fbc58e5d6628ecf34cda5", 
+        "latitude": 52.410449825511, 
+        "longitude": 16.9378682971, 
+        "name": "Ma\u0142e Garbary", 
+        "timestamp": "2017-08-15T04:49:07.749000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68814", 
+            "68664", 
+            "68605", 
+            "68548", 
+            "68515"
+          ], 
+          "number": "6169", 
+          "slots": 16, 
+          "uid": "373092"
+        }, 
+        "free_bikes": 5, 
+        "id": "1e8cbef995f515b8f744ee30825ea07c", 
+        "latitude": 52.38985244364, 
+        "longitude": 16.895390152931, 
+        "name": "G\u0142ogowska / Hetma\u0144ska", 
+        "timestamp": "2017-08-15T04:49:07.782000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68771", 
+            "68752", 
+            "68739", 
+            "68591", 
+            "68532"
+          ], 
+          "number": "6180", 
+          "slots": 20, 
+          "uid": "373720"
+        }, 
+        "free_bikes": 5, 
+        "id": "861815d75502acb6faac2b5950c99312", 
+        "latitude": 52.451142712291, 
+        "longitude": 16.919723485444, 
+        "name": "Kurpi\u0144skiego", 
+        "timestamp": "2017-08-15T04:49:07.800000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68707", 
+            "68528", 
+            "68485", 
+            "68454", 
+            "68399"
+          ], 
+          "number": "6161", 
+          "slots": 16, 
+          "uid": "285127"
+        }, 
+        "free_bikes": 5, 
+        "id": "06f5545fcd4be28ed743bf117b87d126", 
+        "latitude": 52.427370906506, 
+        "longitude": 16.920619010925, 
+        "name": "S\u0142owia\u0144ska", 
+        "timestamp": "2017-08-15T04:49:07.773000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "bike_uids": [
+            "68458", 
+            "68972", 
+            "68969", 
+            "68968", 
+            "68967"
+          ], 
+          "number": "6170", 
+          "slots": 23, 
+          "uid": "373093"
+        }, 
+        "free_bikes": 6, 
+        "id": "02e684dea4c460ab812973d5819864d6", 
+        "latitude": 52.405698192166, 
+        "longitude": 16.975615024567, 
+        "name": "Termy Malta\u0144skie", 
+        "timestamp": "2017-08-15T04:49:07.783000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68675", 
+            "68571", 
+            "68554", 
+            "68534", 
+            "68413"
+          ], 
+          "number": "6158", 
+          "slots": 18, 
+          "uid": "277372"
+        }, 
+        "free_bikes": 5, 
+        "id": "dba9d1e60d6f65ebc5566e3cf7e0c8b5", 
+        "latitude": 52.41226591379, 
+        "longitude": 16.952344179153, 
+        "name": "Brama Poznania", 
+        "timestamp": "2017-08-15T04:49:07.758000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "68822", 
+            "68725", 
+            "68614", 
+            "68066", 
+            "68214"
+          ], 
+          "number": "6151", 
+          "slots": 12, 
+          "uid": "121572"
+        }, 
+        "free_bikes": 5, 
+        "id": "b40e0976afc8e70a442f5e83f01eab76", 
+        "latitude": 52.410515271433, 
+        "longitude": 16.912883520126, 
+        "name": "Most Teatralny", 
+        "timestamp": "2017-08-15T04:49:07.743000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68787", 
+            "68645", 
+            "68586", 
+            "68536", 
+            "68441"
+          ], 
+          "number": "6129", 
+          "slots": 18, 
+          "uid": "1117269"
+        }, 
+        "free_bikes": 6, 
+        "id": "e4f27d6a0a59fc3bfbd4daa80bb40124", 
+        "latitude": 52.407753369128, 
+        "longitude": 16.939378380775, 
+        "name": "Ewangelicka", 
+        "timestamp": "2017-08-15T04:49:07.815000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "68811", 
+            "68797", 
+            "68731", 
+            "68635", 
+            "68402"
+          ], 
+          "number": "6162", 
+          "slots": 14, 
+          "uid": "285119"
+        }, 
+        "free_bikes": 7, 
+        "id": "c5d9d82559aa4793a8ad9bf0862db21a", 
+        "latitude": 52.409330685226, 
+        "longitude": 16.889365911484, 
+        "name": "Bukowska / Przybyszewskiego", 
+        "timestamp": "2017-08-15T04:49:07.764000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "68081", 
+            "68091", 
+            "68230", 
+            "68359"
+          ], 
+          "number": "6132", 
+          "slots": 16, 
+          "uid": "1117276"
+        }, 
+        "free_bikes": 4, 
+        "id": "8ac4cd680658ee02a451fda1a1552488", 
+        "latitude": 52.40704, 
+        "longitude": 16.93543, 
+        "name": "Kozia", 
+        "timestamp": "2017-08-15T04:49:07.817000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68838", 
+            "68796", 
+            "68717", 
+            "68638", 
+            "68597"
+          ], 
+          "number": "6144", 
+          "slots": 12, 
+          "uid": "1117390"
+        }, 
+        "free_bikes": 6, 
+        "id": "55e6543f3ac566d116d0c9279cf7068e", 
+        "latitude": 52.41087, 
+        "longitude": 16.89953, 
+        "name": "Szamarzewskiego / Wawrzyniaka", 
+        "timestamp": "2017-08-15T04:49:07.845000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "68781", 
+            "68330"
+          ], 
+          "number": "6179", 
+          "slots": 14, 
+          "uid": "373719"
+        }, 
+        "free_bikes": 2, 
+        "id": "c21819056692901b25862bb930990b91", 
+        "latitude": 52.465628765688, 
+        "longitude": 16.925387978554, 
+        "name": "UAM Wydzia\u0142 Nauk Politycznych i Dziennikarstwa", 
+        "timestamp": "2017-08-15T04:49:07.799000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68763", 
+            "68751", 
+            "68750", 
+            "68722", 
+            "68654"
+          ], 
+          "number": "6127", 
+          "slots": 15, 
+          "uid": "1117221"
+        }, 
+        "free_bikes": 5, 
+        "id": "9080585227da94aec239d2401637838e", 
+        "latitude": 52.41125773551, 
+        "longitude": 16.8343441045, 
+        "name": "Brzechwy / Maklakiewicza", 
+        "timestamp": "2017-08-15T04:49:07.813000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "68892", 
+            "68092"
+          ], 
+          "number": "6134", 
+          "slots": 11, 
+          "uid": "1117295"
+        }, 
+        "free_bikes": 2, 
+        "id": "8167003834961d2fbc1bd83de69d475d", 
+        "latitude": 52.40442, 
+        "longitude": 16.87527, 
+        "name": "Marceli\u0144ska / Grochowska", 
+        "timestamp": "2017-08-15T04:49:07.820000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68776", 
+            "68711", 
+            "68679", 
+            "68533", 
+            "68006"
+          ], 
+          "number": "6130", 
+          "slots": 14, 
+          "uid": "1117273"
+        }, 
+        "free_bikes": 5, 
+        "id": "a725e7066d52239d3933ac7a08bd98a9", 
+        "latitude": 52.41705, 
+        "longitude": 16.90663, 
+        "name": "Ko\u015bcielna", 
+        "timestamp": "2017-08-15T04:49:07.816000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "68803", 
+            "68801", 
+            "68692", 
+            "68426", 
+            "68414"
+          ], 
+          "number": "6159", 
+          "slots": 26, 
+          "uid": "285297"
+        }, 
+        "free_bikes": 6, 
+        "id": "5fc736311a38bcf7357ae2f30b31aa11", 
+        "latitude": 52.463788728795, 
+        "longitude": 16.91782951355, 
+        "name": "Os. Sobieskiego", 
+        "timestamp": "2017-08-15T04:49:07.774000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68823", 
+            "68773", 
+            "68736", 
+            "68650", 
+            "68641"
+          ], 
+          "number": "6149", 
+          "slots": 13, 
+          "uid": "1117408"
+        }, 
+        "free_bikes": 6, 
+        "id": "6de9c14d39f6dced666b75b42a535d4a", 
+        "latitude": 52.42647, 
+        "longitude": 16.90508, 
+        "name": "Uniwersytet Przyrodniczy", 
+        "timestamp": "2017-08-15T04:49:07.876000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "68784", 
+            "68775", 
+            "68734", 
+            "68714", 
+            "68713"
+          ], 
+          "number": "6178", 
+          "slots": 10, 
+          "uid": "373718"
+        }, 
+        "free_bikes": 5, 
+        "id": "4cea1eaaf7a509b880a63b7381dcda37", 
+        "latitude": 52.448154876553, 
+        "longitude": 16.943385216327, 
+        "name": "Os. \u0141okietka", 
+        "timestamp": "2017-08-15T04:49:07.798000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "68719", 
+            "68696", 
+            "68667", 
+            "68662", 
+            "68573"
+          ], 
+          "number": "6172", 
+          "slots": 20, 
+          "uid": "373710"
+        }, 
+        "free_bikes": 5, 
+        "id": "8df390723690e24f6e012c41e073cfa9", 
+        "latitude": 52.399446985877, 
+        "longitude": 16.876534223557, 
+        "name": "Grunwaldzka / Grochowska", 
+        "timestamp": "2017-08-15T04:49:07.785000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "bike_uids": [
+            "68557", 
+            "68940", 
+            "68120", 
+            "68193", 
+            "68276"
+          ], 
+          "number": "6145", 
+          "slots": 17, 
+          "uid": "1117392"
+        }, 
+        "free_bikes": 5, 
+        "id": "3473d56d1dd00b07a2bcdec43da34147", 
+        "latitude": 52.41107, 
+        "longitude": 16.87696, 
+        "name": "Szpitalna", 
+        "timestamp": "2017-08-15T04:49:07.858000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "68939"
+          ], 
+          "number": "6148", 
+          "slots": 9, 
+          "uid": "1117405"
+        }, 
+        "free_bikes": 1, 
+        "id": "6eac37126f4d75703831cec4284272dc", 
+        "latitude": 52.406022183427, 
+        "longitude": 16.916939020157, 
+        "name": "Towarowa", 
+        "timestamp": "2017-08-15T04:49:07.876000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "68640", 
+            "68520", 
+            "68423", 
+            "68421", 
+            "68420"
+          ], 
+          "number": "6181", 
+          "slots": 18, 
+          "uid": "391393"
+        }, 
+        "free_bikes": 6, 
+        "id": "a9ccde8a28fec33ffe5c653ebd27bde4", 
+        "latitude": 52.427514832163, 
+        "longitude": 16.947269439697, 
+        "name": "Wilczak", 
+        "timestamp": "2017-08-15T04:49:07.801000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "68671", 
+            "68431", 
+            "68394"
+          ], 
+          "number": "6146", 
+          "slots": 14, 
+          "uid": "1117395"
+        }, 
+        "free_bikes": 3, 
+        "id": "b5e21b453f5ba057ec9883eb5e55c3f4", 
+        "latitude": 52.414958822351, 
+        "longitude": 16.925935149193, 
+        "name": "\u015aw. Barbary", 
+        "timestamp": "2017-08-15T04:49:07.873000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68818", 
+            "68795", 
+            "68648", 
+            "68622", 
+            "68580"
+          ], 
+          "number": "6136", 
+          "slots": 19, 
+          "uid": "1117305"
+        }, 
+        "free_bikes": 5, 
+        "id": "17b5088663d2da94f4e75522f4f5db85", 
+        "latitude": 52.40338, 
+        "longitude": 16.89995, 
+        "name": "Matejki", 
+        "timestamp": "2017-08-15T04:49:07.823000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "bike_uids": [
+            "68848", 
+            "68864"
+          ], 
+          "number": "6185", 
+          "slots": 18, 
+          "uid": "391423"
+        }, 
+        "free_bikes": 2, 
+        "id": "2263659d1346452c5f0ab46d9f39ac16", 
+        "latitude": 52.407514476087, 
+        "longitude": 16.919492483139, 
+        "name": "Zamek", 
+        "timestamp": "2017-08-15T04:49:07.808000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "bike_uids": [
+            "68850", 
+            "68053"
+          ], 
+          "number": "6137", 
+          "slots": 18, 
+          "uid": "1220145"
+        }, 
+        "free_bikes": 2, 
+        "id": "4fba0ebd10e3a56a79547e966f896306", 
+        "latitude": 52.405068, 
+        "longitude": 16.939228, 
+        "name": "Mostowa", 
+        "timestamp": "2017-08-15T04:49:07.882000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "68700", 
+            "68697", 
+            "68183", 
+            "68201"
+          ], 
+          "number": "6139", 
+          "slots": 10, 
+          "uid": "1117354"
+        }, 
+        "free_bikes": 4, 
+        "id": "4ad721a784c1910b5d94e443b6dcfa4e", 
+        "latitude": 52.40953, 
+        "longitude": 16.9248, 
+        "name": "Pl. Cyryla Ratajskiego", 
+        "timestamp": "2017-08-15T04:49:07.826000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "bike_uids": [
+            "68049"
+          ], 
+          "number": "6147", 
+          "slots": 18, 
+          "uid": "1117402"
+        }, 
+        "free_bikes": 1, 
+        "id": "cbf497e807ab15b061da72e3239503bb", 
+        "latitude": 52.40571, 
+        "longitude": 16.92028, 
+        "name": "Taczaka", 
+        "timestamp": "2017-08-15T04:49:07.875000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "68726", 
+            "68685", 
+            "68665", 
+            "68610", 
+            "68048"
+          ], 
+          "number": "6117", 
+          "slots": 15, 
+          "uid": "2553524"
+        }, 
+        "free_bikes": 5, 
+        "id": "8aa14629f4ff3d8d297d61690ed035fb", 
+        "latitude": 52.39329, 
+        "longitude": 16.89209, 
+        "name": "Jarochowskiego / Potworowskiego", 
+        "timestamp": "2017-08-15T04:49:07.894000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "68457", 
+            "68165", 
+            "68238", 
+            "68369"
+          ], 
+          "number": "6118", 
+          "slots": 15, 
+          "uid": "2553528"
+        }, 
+        "free_bikes": 4, 
+        "id": "64e6c8831036b12b51dcc208ee2fe816", 
+        "latitude": 52.43017, 
+        "longitude": 16.93598, 
+        "name": "Murawa / S\u0142owia\u0144ska", 
+        "timestamp": "2017-08-15T04:49:07.898000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "bike_uids": [
+            "68829", 
+            "68145"
+          ], 
+          "number": "6111", 
+          "slots": 20, 
+          "uid": "2553479"
+        }, 
+        "free_bikes": 2, 
+        "id": "cd0712014f8855ebec2f73a6d3b4dab9", 
+        "latitude": 52.43632, 
+        "longitude": 16.9205, 
+        "name": "Aleje Solidarno\u015bci", 
+        "timestamp": "2017-08-15T04:49:07.884000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "68821", 
+            "68583", 
+            "68459", 
+            "68447"
+          ], 
+          "number": "6177", 
+          "slots": 12, 
+          "uid": "373717"
+        }, 
+        "free_bikes": 4, 
+        "id": "a4b726bf44167f65722cd69bbacb5f56", 
+        "latitude": 52.467658273126, 
+        "longitude": 16.941400766373, 
+        "name": "UAM P\u0142ywalnia", 
+        "timestamp": "2017-08-15T04:49:07.795000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "68695", 
+            "68587", 
+            "68022", 
+            "68321", 
+            "68885"
+          ], 
+          "number": "6114", 
+          "slots": 15, 
+          "uid": "2553504"
+        }, 
+        "free_bikes": 6, 
+        "id": "6453e33a2e1c60e41ca6a989f957c3df", 
+        "latitude": 52.40203, 
+        "longitude": 16.91491, 
+        "name": "Dworzec Autobusowy", 
+        "timestamp": "2017-08-15T04:49:07.889000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68799", 
+            "68789", 
+            "68449"
+          ], 
+          "number": "6110", 
+          "slots": 12, 
+          "uid": "2553468"
+        }, 
+        "free_bikes": 3, 
+        "id": "258cd3261c978124d6a37cbe2cf6334e", 
+        "latitude": 52.41025, 
+        "longitude": 16.92962, 
+        "name": "Aleje Marcinkowskiego", 
+        "timestamp": "2017-08-15T04:49:07.883000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68831", 
+            "68765", 
+            "68748", 
+            "68647", 
+            "68612"
+          ], 
+          "number": "6164", 
+          "slots": 12, 
+          "uid": "285121"
+        }, 
+        "free_bikes": 6, 
+        "id": "9369fb8e6fe2ea5f1c874f04b5d1e8e9", 
+        "latitude": 52.412442610279, 
+        "longitude": 16.903871297836, 
+        "name": "Rynek Je\u017cycki", 
+        "timestamp": "2017-08-15T04:49:07.771000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "bike_uids": [
+            "68160", 
+            "68277"
+          ], 
+          "number": "6152", 
+          "slots": 24, 
+          "uid": "121573"
+        }, 
+        "free_bikes": 2, 
+        "id": "f5ff80e6ee93a940ac9fbb864f6a08f9", 
+        "latitude": 52.408380748418, 
+        "longitude": 16.925206874439, 
+        "name": "Pl. Wolno\u015bci", 
+        "timestamp": "2017-08-15T04:49:07.745000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "68793", 
+            "68618", 
+            "68507", 
+            "68461", 
+            "68432"
+          ], 
+          "number": "6191", 
+          "slots": 15, 
+          "uid": "2553619"
+        }, 
+        "free_bikes": 5, 
+        "id": "c7044d13038426a638335574f2753f8d", 
+        "latitude": 52.39876, 
+        "longitude": 16.89584, 
+        "name": "Wyspia\u0144skiego / Jarochowskiego", 
+        "timestamp": "2017-08-15T04:49:07.913000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bike_uids": [
+            "68833", 
+            "68540"
+          ], 
+          "number": "6190", 
+          "slots": 15, 
+          "uid": "2553613"
+        }, 
+        "free_bikes": 2, 
+        "id": "4d9e397ae393f8839fa785eacd3cc728", 
+        "latitude": 52.40465, 
+        "longitude": 16.86674, 
+        "name": "Bu\u0142garska / Marceli\u0144ska", 
+        "timestamp": "2017-08-15T04:49:07.911000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68830", 
+            "68804", 
+            "68649", 
+            "68162", 
+            "68027"
+          ], 
+          "number": "6115", 
+          "slots": 15, 
+          "uid": "2553510"
+        }, 
+        "free_bikes": 5, 
+        "id": "90e551a120235264dfd158c45821c66f", 
+        "latitude": 52.40114, 
+        "longitude": 16.9097, 
+        "name": "Dworzec Zachodni", 
+        "timestamp": "2017-08-15T04:49:07.892000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "68513", 
+            "68474", 
+            "68146", 
+            "68342"
+          ], 
+          "number": "6125", 
+          "slots": 15, 
+          "uid": "2553592"
+        }, 
+        "free_bikes": 4, 
+        "id": "3518799d8a42cb4637f133e995e41c25", 
+        "latitude": 52.40309, 
+        "longitude": 16.88974, 
+        "name": "Rondo Jana Nowaka Jeziora\u0144skiego", 
+        "timestamp": "2017-08-15T04:49:07.908000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "68807", 
+            "68564", 
+            "68456", 
+            "68443", 
+            "68107"
+          ], 
+          "number": "6195", 
+          "slots": 15, 
+          "uid": "2553667"
+        }, 
+        "free_bikes": 5, 
+        "id": "b875fc8e57f94c19c0704999e99eee54", 
+        "latitude": 52.42123, 
+        "longitude": 16.97072, 
+        "name": "Rynek wschodni", 
+        "timestamp": "2017-08-15T04:49:07.921000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "68819", 
+            "68674", 
+            "68624", 
+            "68599", 
+            "68036"
+          ], 
+          "number": "6193", 
+          "slots": 15, 
+          "uid": "2553626"
+        }, 
+        "free_bikes": 7, 
+        "id": "a358b88f002181d6be8d4b3b5dabd36a", 
+        "latitude": 52.4388, 
+        "longitude": 16.93096, 
+        "name": "Po\u0142abska", 
+        "timestamp": "2017-08-15T04:49:07.920000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "68810", 
+            "68806", 
+            "68770", 
+            "68729", 
+            "68710"
+          ], 
+          "number": "6173", 
+          "slots": 13, 
+          "uid": "373712"
+        }, 
+        "free_bikes": 5, 
+        "id": "abd95862c1d40f1fd0cdffba63ab8efb", 
+        "latitude": 52.3815164946, 
+        "longitude": 16.881410479546, 
+        "name": "G\u00f3rczyn", 
+        "timestamp": "2017-08-15T04:49:07.788000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "68054", 
+            "68179"
+          ], 
+          "number": "6135", 
+          "slots": 12, 
+          "uid": "1117302"
+        }, 
+        "free_bikes": 2, 
+        "id": "69a8ac974892b41a960aa8fe75aad53c", 
+        "latitude": 52.409455035549, 
+        "longitude": 16.932646036148, 
+        "name": "Masztalarska", 
+        "timestamp": "2017-08-15T04:49:07.821000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "68565", 
+            "68415", 
+            "68044", 
+            "68093", 
+            "68196"
+          ], 
+          "number": "6122", 
+          "slots": 16, 
+          "uid": "2553555"
+        }, 
+        "free_bikes": 5, 
+        "id": "4e67126c0bfabe797ee01a1079c1833f", 
+        "latitude": 52.43688, 
+        "longitude": 16.93982, 
+        "name": "Os. Wichrowe Wzg\u00f3rze", 
+        "timestamp": "2017-08-15T04:49:07.905000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "68732", 
+            "68691", 
+            "68604", 
+            "68590", 
+            "68555"
+          ], 
+          "number": "6150", 
+          "slots": 11, 
+          "uid": "1117410"
+        }, 
+        "free_bikes": 5, 
+        "id": "e784a166bf4c27cd7a5001906f3ab15c", 
+        "latitude": 52.39729, 
+        "longitude": 16.92115, 
+        "name": "Wierzbi\u0119cice / \u015aw. Czes\u0142awa", 
+        "timestamp": "2017-08-15T04:49:07.881000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "68706", 
+            "68683", 
+            "68621", 
+            "68589", 
+            "68562"
+          ], 
+          "number": "6194", 
+          "slots": 15, 
+          "uid": "2553631"
+        }, 
+        "free_bikes": 6, 
+        "id": "4d5b855fd3a190fbaf5dccee7d21cb29", 
+        "latitude": 52.38295, 
+        "longitude": 16.91677, 
+        "name": "Rolna", 
+        "timestamp": "2017-08-15T04:49:07.920000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "68712", 
+            "68588", 
+            "68524", 
+            "68451", 
+            "68993"
+          ], 
+          "number": "6121", 
+          "slots": 16, 
+          "uid": "2553549"
+        }, 
+        "free_bikes": 5, 
+        "id": "3b94ecddd01c0312259d8d96bc450bb9", 
+        "latitude": 52.42855, 
+        "longitude": 16.92602, 
+        "name": "Os. Przyja\u017ani", 
+        "timestamp": "2017-08-15T04:49:07.904000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "68596", 
+            "68466", 
+            "68409", 
+            "68227", 
+            "68349"
+          ], 
+          "number": "6124", 
+          "slots": 16, 
+          "uid": "2553574"
+        }, 
+        "free_bikes": 6, 
+        "id": "7d522ba95ed944da65a29160e0bfa6ef", 
+        "latitude": 52.41376, 
+        "longitude": 16.91207, 
+        "name": "Pozna\u0144ska / Je\u017cycka", 
+        "timestamp": "2017-08-15T04:49:07.907000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68673", 
+            "68646", 
+            "68593", 
+            "68561", 
+            "68497"
+          ], 
+          "number": "6116", 
+          "slots": 15, 
+          "uid": "2553516"
+        }, 
+        "free_bikes": 6, 
+        "id": "da6ce5ffad3a9abcbcd370238201f084", 
+        "latitude": 52.38759, 
+        "longitude": 16.88617, 
+        "name": "Jarochowskiego / Palacza", 
+        "timestamp": "2017-08-15T04:49:07.893000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "68837", 
+            "68828", 
+            "68820", 
+            "68815", 
+            "68749"
+          ], 
+          "number": "6171", 
+          "slots": 12, 
+          "uid": "373709"
+        }, 
+        "free_bikes": 6, 
+        "id": "d77faa42a1f5a7d9dd4c9c62ddf308b5", 
+        "latitude": 52.372151637704, 
+        "longitude": 16.902992493269, 
+        "name": "D\u0119biec", 
+        "timestamp": "2017-08-15T04:49:07.784000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "68301", 
+            "68926"
+          ], 
+          "number": "6123", 
+          "slots": 8, 
+          "uid": "2553561"
+        }, 
+        "free_bikes": 2, 
+        "id": "e5da8c46553e790872bbfe298faa92be", 
+        "latitude": 52.405501832669, 
+        "longitude": 16.931031346321, 
+        "name": "Plac Wiosny Lud\u00f3w", 
+        "timestamp": "2017-08-15T04:49:07.906000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "68759", 
+            "68745", 
+            "68709", 
+            "68632", 
+            "68619"
+          ], 
+          "number": "6126", 
+          "slots": 15, 
+          "uid": "2553601"
+        }, 
+        "free_bikes": 5, 
+        "id": "a1ca405886c1a17578d9333eec9a66dc", 
+        "latitude": 52.41215, 
+        "longitude": 16.89223, 
+        "name": "Szamarzewskiego / D\u0142ugosza", 
+        "timestamp": "2017-08-15T04:49:07.909000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "68746", 
+            "68715", 
+            "68525", 
+            "68462", 
+            "68057"
+          ], 
+          "number": "6189", 
+          "slots": 15, 
+          "uid": "2553610"
+        }, 
+        "free_bikes": 5, 
+        "id": "089ac1f59662ed5976ccfdef5a535e52", 
+        "latitude": 52.41346, 
+        "longitude": 16.88472, 
+        "name": "Szamotulska / Szamarzewskiego", 
+        "timestamp": "2017-08-15T04:49:07.910000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "68760", 
+            "68558", 
+            "68473", 
+            "68445", 
+            "68059"
+          ], 
+          "number": "6192", 
+          "slots": 12, 
+          "uid": "2553623"
+        }, 
+        "free_bikes": 5, 
+        "id": "4eed29abf0507dcead2258d2db4a3508", 
+        "latitude": 52.38711, 
+        "longitude": 16.89119, 
+        "name": "G\u0142ogowska / ul. Krauthofera", 
+        "timestamp": "2017-08-15T04:49:07.918000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "bike_uids": [
+            "68436"
+          ], 
+          "number": "6174", 
+          "slots": 17, 
+          "uid": "373713"
+        }, 
+        "free_bikes": 1, 
+        "id": "0e4d53ab51b2cf7307144f275a7ecda4", 
+        "latitude": 52.398661431347, 
+        "longitude": 16.935017108917, 
+        "name": "AWF", 
+        "timestamp": "2017-08-15T04:49:07.789000Z"
+      }
+    ]
+  }
+}

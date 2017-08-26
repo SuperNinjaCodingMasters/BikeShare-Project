@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-ubeda", 
+    "id": "onroll-ubeda", 
+    "location": {
+      "city": "\u00dabeda", 
+      "country": "ES", 
+      "latitude": 38.011463, 
+      "longitude": -3.373276
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "f479e6b988594073dfa14702af983843", 
+        "latitude": 38.012527, 
+        "longitude": -3.378585, 
+        "name": "Estacion de Autobuses", 
+        "timestamp": "2017-08-15T04:47:37.509000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "4ed7b6d32c197961258c105748def0ff", 
+        "latitude": 38.016477, 
+        "longitude": -3.374809, 
+        "name": "Parque Norte", 
+        "timestamp": "2017-08-15T04:47:37.511000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "871552fb442dcf0b6c5fd3458a455f22", 
+        "latitude": 38.012437, 
+        "longitude": -3.365496, 
+        "name": "Plaza de las Canteras", 
+        "timestamp": "2017-08-15T04:47:37.512000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "24c0983c8f964ed6217f9ebaf89c4360", 
+        "latitude": 38.007736, 
+        "longitude": -3.368297, 
+        "name": "Plaza de V\u00e1zquez de Molina", 
+        "timestamp": "2017-08-15T04:47:37.513000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "ed244560475e2711ae7836aebc6fcaab", 
+        "latitude": 38.00814, 
+        "longitude": -3.379195, 
+        "name": "Polideportivo", 
+        "timestamp": "2017-08-15T04:47:37.514000Z"
+      }
+    ]
+  }
+}

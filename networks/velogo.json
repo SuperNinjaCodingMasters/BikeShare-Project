@@ -1,0 +1,308 @@
+{
+  "network": {
+    "company": [
+      "CycleHop, LLC", 
+      "Social Bicycles Inc."
+    ], 
+    "gbfs_href": "http://velogo.ca/opendata/gbfs.json", 
+    "href": "/v2/networks/velogo", 
+    "id": "velogo", 
+    "location": {
+      "city": "Ottawa, ON", 
+      "country": "CA", 
+      "latitude": 45.4285325522342, 
+      "longitude": -75.6970576741095
+    }, 
+    "name": "VeloGO", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "425, Marche\u0301 Way, Glebe, Ottawa, Municipality of South Dundas, Ontario", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1142"
+        }, 
+        "free_bikes": 6, 
+        "id": "64cae6b234873d1ecbde8a5a1eab8171", 
+        "latitude": 45.400626171534896, 
+        "longitude": -75.68271696567535, 
+        "name": "Lansdowne Park", 
+        "timestamp": "2017-08-15T04:49:17.597000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Hawthorne Avenue, Centretown, Glebe, Ottawa, Ontario", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_479"
+        }, 
+        "free_bikes": 4, 
+        "id": "5b1196e52136b7fd05e355072c2af151", 
+        "latitude": 45.4111828209056, 
+        "longitude": -75.6837579786682, 
+        "name": "Queen Elizabeth / Pretoria Bridge", 
+        "timestamp": "2017-08-15T04:49:17.592000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "130 Besserer Street, Ottawa", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2669"
+        }, 
+        "free_bikes": 2, 
+        "id": "f8deb0effcc1997ed7836812152770e1", 
+        "latitude": 45.42646061522554, 
+        "longitude": -75.68862855434418, 
+        "name": "Besserer / Dalhousie", 
+        "timestamp": "2017-08-15T04:49:17.586000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Bixi Allumetti\u00e8res / Laurier, 103, Rue Laurier, Hull, Gatineau, Quebec", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_476"
+        }, 
+        "free_bikes": 5, 
+        "id": "ba0ae3b215a563c0ae9a1ee1ca46a410", 
+        "latitude": 45.4320710108544, 
+        "longitude": -75.7097635889528, 
+        "name": "Allumetti\u00e8res / Laurier", 
+        "timestamp": "2017-08-15T04:49:17.579000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "120 Rue Wellington, Gatineau", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_916"
+        }, 
+        "free_bikes": 4, 
+        "id": "5823f67d32088d26183532df9d65bd0d", 
+        "latitude": 45.42611701022575, 
+        "longitude": -75.71883223950863, 
+        "name": "Wellington / St Jacques", 
+        "timestamp": "2017-08-15T04:49:17.596000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Rideau Canal Western Pathway, Ottawa", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1449"
+        }, 
+        "free_bikes": 2, 
+        "id": "20a39b034ebcfe68a8abb2f1e7958a81", 
+        "latitude": 45.39610324477829, 
+        "longitude": -75.70638477802277, 
+        "name": "Dows Lake", 
+        "timestamp": "2017-08-15T04:49:17.584000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1 Vimy Place, Ottawa", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_926"
+        }, 
+        "free_bikes": 5, 
+        "id": "d192647f93a66fae8af526afb20859ae", 
+        "latitude": 45.416802347377946, 
+        "longitude": -75.71559011936188, 
+        "name": "Booth / Vimy", 
+        "timestamp": "2017-08-15T04:49:17.589000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "337 Crichton Street, Ottawa", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1448"
+        }, 
+        "free_bikes": 3, 
+        "id": "60d5ab8694e2a5f91077703b58937ceb", 
+        "latitude": 45.438401015761634, 
+        "longitude": -75.67831814289093, 
+        "name": "Beechwood / Vanier Parkway", 
+        "timestamp": "2017-08-15T04:49:17.593000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Ruisseau-De-La-Brasserie Pathway, Gatineau", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_912"
+        }, 
+        "free_bikes": 2, 
+        "id": "68b3cb7cffea2d5a09fe1fdf1c45b727", 
+        "latitude": 45.42458232146239, 
+        "longitude": -75.72314724326134, 
+        "name": "Alexandre-Tache/Montcalm", 
+        "timestamp": "2017-08-15T04:49:17.589000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "200 McLeod Street, Ottawa", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_1451"
+        }, 
+        "free_bikes": 6, 
+        "id": "f528175764a6134492b3d5bbceef212e", 
+        "latitude": 45.413868929174896, 
+        "longitude": -75.6872096657753, 
+        "name": "Elgin/McLeod", 
+        "timestamp": "2017-08-15T04:49:17.595000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "55 Laurier Avenue West, Ottawa", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_909"
+        }, 
+        "free_bikes": 0, 
+        "id": "50476eee55266ddaf22a96039754f372", 
+        "latitude": 45.42184039133262, 
+        "longitude": -75.69132149219513, 
+        "name": "Laurier / Elgin", 
+        "timestamp": "2017-08-15T04:49:17.600000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "95 Beech Street, Ottawa", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_2634"
+        }, 
+        "free_bikes": 4, 
+        "id": "2509a1399f1cd73647c0d2b29d87431e", 
+        "latitude": 45.40029188499189, 
+        "longitude": -75.7111456990242, 
+        "name": "Trillium Pathway / Beech", 
+        "timestamp": "2017-08-15T04:49:17.594000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "132 Rue Laval, Gatineau", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_915"
+        }, 
+        "free_bikes": 9, 
+        "id": "d954582bcfeeb1cbf83236d305b069d9", 
+        "latitude": 45.431689258090536, 
+        "longitude": -75.7155767083168, 
+        "name": "Laval / Charlevoix", 
+        "timestamp": "2017-08-15T04:49:17.590000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "374-382 Wellington Street, Ottawa", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_910"
+        }, 
+        "free_bikes": 4, 
+        "id": "4612e1fa6f4897c8b15111da3e3fe485", 
+        "latitude": 45.419095503840936, 
+        "longitude": -75.70775806903839, 
+        "name": "Wellington / Bay", 
+        "timestamp": "2017-08-15T04:49:17.587000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Murray Street, Ottawa", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_475"
+        }, 
+        "free_bikes": 4, 
+        "id": "bf6f1b19d3108c98e3871d80d4ec0f80", 
+        "latitude": 45.4284554359799, 
+        "longitude": -75.69759249687195, 
+        "name": "Murray / MacKenzie", 
+        "timestamp": "2017-08-15T04:49:17.585000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Corktown Footbridge, Centretown, Sandy Hill, Ottawa, Ontario", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_478"
+        }, 
+        "free_bikes": 8, 
+        "id": "77c26a0bf4f3d9df35a5fa7b7764f113", 
+        "latitude": 45.4202362651916, 
+        "longitude": -75.6848066697044, 
+        "name": "Queen Elizabeth / Somerset", 
+        "timestamp": "2017-08-15T04:49:17.591000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "20, Rue Laurier, Hull, Gatineau, Quebec", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_477"
+        }, 
+        "free_bikes": 7, 
+        "id": "1626f45aa7e16a027ccd3ba9e0f7b192", 
+        "latitude": 45.4284774353795, 
+        "longitude": -75.71032776209, 
+        "name": "Laurier  / Victoria", 
+        "timestamp": "2017-08-15T04:49:17.583000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Rideau Canal Eastern Pathway, Ottawa", 
+          "last_updated": 1502772558, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "hub_908"
+        }, 
+        "free_bikes": 5, 
+        "id": "59766d580f3a694de71e54f90b131f75", 
+        "latitude": 45.42409945787914, 
+        "longitude": -75.69263577461243, 
+        "name": "Colonel By / Daly", 
+        "timestamp": "2017-08-15T04:49:17.598000Z"
+      }
+    ]
+  }
+}

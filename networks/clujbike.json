@@ -1,0 +1,718 @@
+{
+  "network": {
+    "company": [
+      "Municipiul Cluj-Napoca"
+    ], 
+    "href": "/v2/networks/clujbike", 
+    "id": "clujbike", 
+    "location": {
+      "city": "Cluj-Napoca", 
+      "country": "RO", 
+      "latitude": 46.775, 
+      "longitude": 23.5975
+    }, 
+    "name": "Cluj Bike", 
+    "stations": [
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Piata 14 iulie - la restaurant\r\n", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "5785a57b09279cd72f0d1f15a3fce2c1", 
+        "latitude": 46.770733, 
+        "longitude": 23.567052, 
+        "name": "Piata 14 iulie", 
+        "timestamp": "2017-08-15T04:49:59.543000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Biblioteca Jude\u021bean\u0103 Octavian Goga", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "c4d5d40d1b3f4a218b804b926d8df7f9", 
+        "latitude": 46.777037, 
+        "longitude": 23.615109, 
+        "name": "Biblioteca Centrala", 
+        "timestamp": "2017-08-15T04:49:59.532000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Piata Abator", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 12, 
+        "id": "9aae22d8d4a33b7662c7ac22b3490f7e", 
+        "latitude": 46.779954, 
+        "longitude": 23.595671, 
+        "name": "Piata Abator", 
+        "timestamp": "2017-08-15T04:49:59.536000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Str Miraslau", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "89dd095393ec9f69943f84ebdafd5685", 
+        "latitude": 46.766268, 
+        "longitude": 23.550334, 
+        "name": "Str Miraslau", 
+        "timestamp": "2017-08-15T04:49:59.538000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "B-Dul Muncii - La Fabory", 
+          "slots": 17, 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "ab79ee293166aa9f8e7f3042e4e52d0b", 
+        "latitude": 46.795884, 
+        "longitude": 23.636194, 
+        "name": "B-Dul Muncii", 
+        "timestamp": "2017-08-15T04:49:59.540000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Floresti - Tauti", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "60253f2cf2817e8a45049e263bc2d652", 
+        "latitude": 46.742789, 
+        "longitude": 23.502312, 
+        "name": "Floresti - Tauti", 
+        "timestamp": "2017-08-15T04:49:59.542000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Floresti/Somesului, langa stadion", 
+          "slots": 16, 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "0667191a67d1d6e34e072a0c02db72d9", 
+        "latitude": 46.7474, 
+        "longitude": 23.497829, 
+        "name": "Floresti/Somesului", 
+        "timestamp": "2017-08-15T04:49:59.547000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Str Izlazului intersectie cu Primaverii", 
+          "slots": 18, 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "7f9de877b1401e37309ad799dffb4ce1", 
+        "latitude": 46.755111, 
+        "longitude": 23.557079, 
+        "name": "Str Izlazului", 
+        "timestamp": "2017-08-15T04:49:59.548000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Iuliu Hossu - in parc", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "0766b3ce098659d1d9fc18527964a7b2", 
+        "latitude": 46.769608, 
+        "longitude": 23.582917, 
+        "name": "Iuliu Hossu", 
+        "timestamp": "2017-08-15T04:49:59.552000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Piata Ion Agarbiceanu, la taxi", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "f4169ef2529abf9fb73b4faaaaec7e8a", 
+        "latitude": 46.762024, 
+        "longitude": 23.606223, 
+        "name": "Piata Ion Agarbiceanu", 
+        "timestamp": "2017-08-15T04:49:59.554000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Independentei", 
+          "slots": 17, 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "808af75442fa796fe815f4e08b58649e", 
+        "latitude": 46.767023, 
+        "longitude": 23.567645, 
+        "name": "Independentei", 
+        "timestamp": "2017-08-15T04:49:59.559000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Str Horea - Baritiu", 
+          "slots": 17, 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "97c7249a08b51f439583872e6692d6a4", 
+        "latitude": 46.774025, 
+        "longitude": 23.588062, 
+        "name": "Horea - Baritiu", 
+        "timestamp": "2017-08-15T04:49:59.560000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Str Titulescu, langa biserica", 
+          "slots": 15, 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "acdc5e30019ebce7805ededce76c0eee", 
+        "latitude": 46.769232, 
+        "longitude": 23.617327, 
+        "name": "Titulescu", 
+        "timestamp": "2017-08-15T04:49:59.561000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "21 decembrie 1989, la BRD", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "9a56c2eb2bd51e83fe5ca0ae1f6b3ec6", 
+        "latitude": 46.776449, 
+        "longitude": 23.606762, 
+        "name": "21 decembrie BRD", 
+        "timestamp": "2017-08-15T04:49:59.564000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Str. Petuniei", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "3946047fdef568fa06a3eea1726d1337", 
+        "latitude": 46.76948, 
+        "longitude": 23.555266, 
+        "name": "Petuniei", 
+        "timestamp": "2017-08-15T04:49:59.567000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Iulius Mall, in fata", 
+          "slots": 37, 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "6f53f3e03c76bcdb2536c6405ed376ac", 
+        "latitude": 46.771519, 
+        "longitude": 23.625588, 
+        "name": "Iulius Mall", 
+        "timestamp": "2017-08-15T04:49:59.574000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "PE Splaiul Independetei, la sala sporturilor", 
+          "slots": 40, 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "66b1ee559a451e1131975bfe342598a3", 
+        "latitude": 46.766998, 
+        "longitude": 23.567028, 
+        "name": "Splaiul Independetei", 
+        "timestamp": "2017-08-15T04:49:59.575000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Emil Isac", 
+          "slots": 17, 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "965982efe652b753047be0d1aef136aa", 
+        "latitude": 46.772222, 
+        "longitude": 23.584211, 
+        "name": "Emil Isac", 
+        "timestamp": "2017-08-15T04:49:59.539000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Piata Detunata\r\n", 
+          "slots": 18, 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "2e774752795aa2d477d6d5c046b2e68e", 
+        "latitude": 46.767918, 
+        "longitude": 23.629864, 
+        "name": "Piata Detunata", 
+        "timestamp": "2017-08-15T04:49:59.535000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Calea Floresti", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "60128c142ec235b398e36f2c7242fc9e", 
+        "latitude": 46.75762, 
+        "longitude": 23.545946, 
+        "name": "Calea Floresti", 
+        "timestamp": "2017-08-15T04:49:59.536000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Taietura Turcului", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "67800b6be3cf4076fed20414b624df77", 
+        "latitude": 46.77678, 
+        "longitude": 23.561371, 
+        "name": "T.Turcului", 
+        "timestamp": "2017-08-15T04:49:59.537000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Aurel Vlaicu - l\u00e2ng\u0103 CEC ( l\u00e2ng\u0103 Vam\u0103 )", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "d4badd54f1e9dddc3bb589291397464b", 
+        "latitude": 46.778815, 
+        "longitude": 23.615914, 
+        "name": "Aurel Vlaicu", 
+        "timestamp": "2017-08-15T04:49:59.541000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Apahida - La Motel Victoria", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "991f40aad9004033802c17b6450170ed", 
+        "latitude": 46.7923, 
+        "longitude": 23.743112, 
+        "name": "Apahida Victoria", 
+        "timestamp": "2017-08-15T04:49:59.544000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Observatorului, la LDL", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "ee3c54860a329cfac1d730eae9071d04", 
+        "latitude": 46.755642, 
+        "longitude": 23.594869, 
+        "name": "Observatorului LDL", 
+        "timestamp": "2017-08-15T04:49:59.545000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Str Fabricii de zahar, la camin", 
+          "slots": 18, 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "cb7dbe358518a100a38e92c2ef0f31de", 
+        "latitude": 46.782735, 
+        "longitude": 23.621839, 
+        "name": "Str Fabricii de zahar", 
+        "timestamp": "2017-08-15T04:49:59.546000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Stefan cel Mare, la opera, in parc", 
+          "slots": 18, 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "8c17f49d9074fd9a19a458660a74e123", 
+        "latitude": 46.769608, 
+        "longitude": 23.597431, 
+        "name": "Stefan cel Mare", 
+        "timestamp": "2017-08-15T04:49:59.547000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Str Horea(roth)", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "e058d1d721eda2e8179f3140addd2eff", 
+        "latitude": 46.775865, 
+        "longitude": 23.587104, 
+        "name": "Horea - Roth", 
+        "timestamp": "2017-08-15T04:49:59.549000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Apahida 2 - Piata Agrotransilvania", 
+          "slots": 17, 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "e0f790216a7305a1354ad59571cf6d5e", 
+        "latitude": 46.780511, 
+        "longitude": 23.704142, 
+        "name": "Apahida Agrotransilvania", 
+        "timestamp": "2017-08-15T04:49:59.550000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Floresti - La  Polus Center\r\nIn spate la Bosch", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "f065ec375248ff5b21076dc683d3f065", 
+        "latitude": 46.753985, 
+        "longitude": 23.534431, 
+        "name": "Floresti - Polus", 
+        "timestamp": "2017-08-15T04:49:59.551000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Constantin Brancusi", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 10, 
+        "id": "997c7f0315c03e65f203dc3bcf2be278", 
+        "latitude": 46.767507, 
+        "longitude": 23.601352, 
+        "name": "Constantin Brancusi", 
+        "timestamp": "2017-08-15T04:49:59.553000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Gh. Dima", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 18, 
+        "id": "b3344ab8909d2186b03a6d9054d8e8a8", 
+        "latitude": 46.75259, 
+        "longitude": 23.57755, 
+        "name": "Gh. Dima", 
+        "timestamp": "2017-08-15T04:49:59.555000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Calea Motilor", 
+          "slots": 17, 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "dfe237d25b5ff8e04e970fda1b4db232", 
+        "latitude": 46.764446, 
+        "longitude": 23.574624, 
+        "name": "Calea Motilor", 
+        "timestamp": "2017-08-15T04:49:59.556000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Babes B", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "c79a2ed802cddb0b97ec2e958e93c22e", 
+        "latitude": 46.767485, 
+        "longitude": 23.591146, 
+        "name": "Babes B", 
+        "timestamp": "2017-08-15T04:49:59.557000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Kogalniceanu", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "db91a3b815578908a73c807bd231c558", 
+        "latitude": 46.767837, 
+        "longitude": 23.594083, 
+        "name": "Kogalniceanu", 
+        "timestamp": "2017-08-15T04:49:59.558000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Apahida (la primarie)", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "c63c0a17494f613e989601c03ff94753", 
+        "latitude": 46.804635, 
+        "longitude": 23.752302, 
+        "name": "Apahida (la primarie)", 
+        "timestamp": "2017-08-15T04:49:59.562000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Floresti - La Primarie", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 19, 
+        "id": "8e06e084596931d66380c4c409515ac2", 
+        "latitude": 46.742305, 
+        "longitude": 23.485727, 
+        "name": "Floresti - Primarie", 
+        "timestamp": "2017-08-15T04:49:59.563000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Str. Hasdeu", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "2a85323a3b17a470b848e30c354ff8bb", 
+        "latitude": 46.7628, 
+        "longitude": 23.578261, 
+        "name": "Hasdeu", 
+        "timestamp": "2017-08-15T04:49:59.564000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Str Pasteur", 
+          "slots": 10, 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "f6e460718cde9e2c1cd17c82289519d1", 
+        "latitude": 46.758662, 
+        "longitude": 23.583945, 
+        "name": "Pasteur", 
+        "timestamp": "2017-08-15T04:49:59.565000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "21 decembrie 1989, vis-a-vis Piata Marasti", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "c82b8dc2464ae4770f73eb9fb9eddc64", 
+        "latitude": 46.77797, 
+        "longitude": 23.611837, 
+        "name": "21 decembrie", 
+        "timestamp": "2017-08-15T04:49:59.566000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Primaverii Gutenberg (Clabucet). Capat tramvaie", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "1a720866de66ce7d91a7f1fe25af1e57", 
+        "latitude": 46.751581, 
+        "longitude": 23.544476, 
+        "name": "Primaverii Gutenberg", 
+        "timestamp": "2017-08-15T04:49:59.568000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Horea - la Gara", 
+          "slots": 9, 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "6f5a1162cfedd7e3f41bcf6e9a194507", 
+        "latitude": 46.783973, 
+        "longitude": 23.587788, 
+        "name": "Horea - Gara", 
+        "timestamp": "2017-08-15T04:49:59.569000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Str. Dragalina, la bifurcatie", 
+          "slots": 10, 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "96a75a06b8e14d9a90996f24955d6e71", 
+        "latitude": 46.77234, 
+        "longitude": 23.581734, 
+        "name": "Dragalina", 
+        "timestamp": "2017-08-15T04:49:59.570000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Ion Ratiu (straduta mica)", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "16becbc7cb712249a1e972422e93ac10", 
+        "latitude": 46.768925, 
+        "longitude": 23.588016, 
+        "name": "Ion Ratiu", 
+        "timestamp": "2017-08-15T04:49:59.572000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Fabricii  - Kaufland", 
+          "slots": 10, 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "8cf9eacd3df4460d14f5340aff69099b", 
+        "latitude": 46.781058, 
+        "longitude": 23.613891, 
+        "name": "Fabricii", 
+        "timestamp": "2017-08-15T04:49:59.573000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Observatorului, la MOL", 
+          "slots": 40, 
+          "status": "online"
+        }, 
+        "free_bikes": 27, 
+        "id": "e2ea7bd42c850f57fe7ca3945b35490c", 
+        "latitude": 46.754602, 
+        "longitude": 23.585543, 
+        "name": "Observatorului MOL", 
+        "timestamp": "2017-08-15T04:49:59.574000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "1 decembrie 1918, dupa pod, SUN", 
+          "slots": 38, 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "35dcf702a8bb720ab94d97bd76e29cee", 
+        "latitude": 46.762822, 
+        "longitude": 23.545428, 
+        "name": "1 decembrie 1918", 
+        "timestamp": "2017-08-15T04:49:59.576000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Motilor 7 - la primarie", 
+          "slots": 20, 
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "863fbfb583056008bb0aaefe07951b8f", 
+        "latitude": 46.768093, 
+        "longitude": 23.584576, 
+        "name": "Motilor 7", 
+        "timestamp": "2017-08-15T04:49:59.578000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Piata Mihai Viteazul", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "1e30f045854e3536299cbbecf5571332", 
+        "latitude": 46.774363, 
+        "longitude": 23.592638, 
+        "name": "Piata Mihai Viteazul", 
+        "timestamp": "2017-08-15T04:49:59.579000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "G.Cosbuc - La stadion", 
+          "slots": 19, 
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "9ac8b79dd83879776490ab23f6c698a0", 
+        "latitude": 46.76862, 
+        "longitude": 23.574637, 
+        "name": "G.Cosbuc", 
+        "timestamp": "2017-08-15T04:49:59.577000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "str. Maramuresului, colt cu nicolae telcu", 
+          "slots": 18, 
+          "status": "online"
+        }, 
+        "free_bikes": 12, 
+        "id": "9f5563c76c64dada5ad8e3a42d2f2dca", 
+        "latitude": 46.790105, 
+        "longitude": 23.58357, 
+        "name": "Maramuresului", 
+        "timestamp": "2017-08-15T04:49:59.571000Z"
+      }
+    ]
+  }
+}

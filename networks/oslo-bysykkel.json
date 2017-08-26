@@ -1,0 +1,1955 @@
+{
+  "network": {
+    "company": [
+      "Urban Infrastructure Partner"
+    ], 
+    "href": "/v2/networks/oslo-bysykkel", 
+    "id": "oslo-bysykkel", 
+    "location": {
+      "city": "Oslo", 
+      "country": "NO", 
+      "latitude": 59.913869, 
+      "longitude": 10.752245
+    }, 
+    "name": "Bysykkel", 
+    "stations": [
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "placement": "n\u00e6rmest fontenen", 
+          "uid": 160
+        }, 
+        "free_bikes": 0, 
+        "id": "3f37fd1702997a8276e36f48d30e1770", 
+        "latitude": 59.910215, 
+        "longitude": 10.751687, 
+        "name": "Sj\u00f8siden vest", 
+        "timestamp": "2017-08-15T04:52:21.075000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "placement": "langs Maridalsveien", 
+          "uid": 228
+        }, 
+        "free_bikes": 14, 
+        "id": "d7531353b1e15de1f2f3ee550ce5d423", 
+        "latitude": 59.925276, 
+        "longitude": 10.750405, 
+        "name": "AHO", 
+        "timestamp": "2017-08-15T04:52:21.130000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "placement": "i M\u00f8llergata", 
+          "uid": 208
+        }, 
+        "free_bikes": 0, 
+        "id": "176b368cff0d645f379e767fa35b32a7", 
+        "latitude": 59.91645, 
+        "longitude": 10.74915, 
+        "name": "Hammersborg Torg", 
+        "timestamp": "2017-08-15T04:52:21.114000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "placement": "ved Diakonveien", 
+          "uid": 350
+        }, 
+        "free_bikes": 1, 
+        "id": "af548afa71960ba590de894e68fd4d76", 
+        "latitude": 59.93633, 
+        "longitude": 10.705434, 
+        "name": "Diakonhjemmet", 
+        "timestamp": "2017-08-15T04:52:21.221000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "placement": "langs Ullev\u00e5lsveien", 
+          "uid": 164
+        }, 
+        "free_bikes": 9, 
+        "id": "de187dce97a990377a37bed1c5aebb0e", 
+        "latitude": 59.919535, 
+        "longitude": 10.743808, 
+        "name": "V\u00e5r Frelsers gravlund s\u00f8r", 
+        "timestamp": "2017-08-15T04:52:21.078000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "placement": "ved Stensberggata", 
+          "uid": 167
+        }, 
+        "free_bikes": 7, 
+        "id": "5726ac0e9f8ca2fc2d55c2928d7fc2ed", 
+        "latitude": 59.920565, 
+        "longitude": 10.734274, 
+        "name": "Pilestredet Park Studenthus", 
+        "timestamp": "2017-08-15T04:52:21.080000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "placement": "ved inngangen til tennisbanen", 
+          "uid": 174
+        }, 
+        "free_bikes": 0, 
+        "id": "be65d429bfc7e29fe1ba8142dd84eda3", 
+        "latitude": 59.926205, 
+        "longitude": 10.709786, 
+        "name": "Frogner Tennisklubb", 
+        "timestamp": "2017-08-15T04:52:21.082000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "placement": "langs Fridtjof Nansens vei", 
+          "uid": 178
+        }, 
+        "free_bikes": 1, 
+        "id": "3e9b101fb365fd7825a507a0836a83b1", 
+        "latitude": 59.929838, 
+        "longitude": 10.711223, 
+        "name": "Colosseum Kino", 
+        "timestamp": "2017-08-15T04:52:21.086000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "ved Gr\u00e5beinsletta", 
+          "uid": 182
+        }, 
+        "free_bikes": 0, 
+        "id": "41a039917488d322583fce3e1887739a", 
+        "latitude": 59.937737, 
+        "longitude": 10.751701, 
+        "name": "Sagene bussholdeplass", 
+        "timestamp": "2017-08-15T04:52:21.090000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "placement": "ved busstoppet", 
+          "uid": 212
+        }, 
+        "free_bikes": 8, 
+        "id": "3b876c278a4190a4ff48edc6a8df9f6e", 
+        "latitude": 59.923191, 
+        "longitude": 10.79281, 
+        "name": "Hasle Torg", 
+        "timestamp": "2017-08-15T04:52:21.118000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "ved Maridalsveien", 
+          "uid": 235
+        }, 
+        "free_bikes": 10, 
+        "id": "4ab7aa16fdba062434ed020dd2d9a8a9", 
+        "latitude": 59.922483, 
+        "longitude": 10.751129, 
+        "name": "Vulkan", 
+        "timestamp": "2017-08-15T04:52:21.136000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "ved broen over togskinnene", 
+          "uid": 241
+        }, 
+        "free_bikes": 4, 
+        "id": "4611914d7cbfb20f03da8a14116e8c0f", 
+        "latitude": 59.919016, 
+        "longitude": 10.692333, 
+        "name": "Bygd\u00f8y all\u00e9", 
+        "timestamp": "2017-08-15T04:52:21.142000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "placement": "ved trikkestoppet", 
+          "uid": 253
+        }, 
+        "free_bikes": 6, 
+        "id": "557bfabdfa54b43722f44cc2736605a9", 
+        "latitude": 59.911151, 
+        "longitude": 10.729977, 
+        "name": "Aker Brygge", 
+        "timestamp": "2017-08-15T04:52:21.173000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "langs Drammensveien", 
+          "uid": 261
+        }, 
+        "free_bikes": 14, 
+        "id": "accb891890395a3161f473f176e51781", 
+        "latitude": 59.914197, 
+        "longitude": 10.71568, 
+        "name": "Hydroparken", 
+        "timestamp": "2017-08-15T04:52:21.181000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "placement": "ved Sinsenveien", 
+          "uid": 270
+        }, 
+        "free_bikes": 8, 
+        "id": "a07ed9cfbd57581a88cb1c60db5a96c5", 
+        "latitude": 59.928325, 
+        "longitude": 10.778372, 
+        "name": "Jenny Braatens Plass", 
+        "timestamp": "2017-08-15T04:52:21.187000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "placement": "ved broen under Nylandsveien", 
+          "uid": 297
+        }, 
+        "free_bikes": 2, 
+        "id": "eb8050ddce428c9ac6d90c55aff7809e", 
+        "latitude": 59.909056, 
+        "longitude": 10.756217, 
+        "name": "Bj\u00f8rvika", 
+        "timestamp": "2017-08-15T04:52:21.205000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "placement": "ved Oslo City", 
+          "uid": 385
+        }, 
+        "free_bikes": 2, 
+        "id": "e81eecb7f7c42a0e07b86f9c4e82e574", 
+        "latitude": 59.912392, 
+        "longitude": 10.752302, 
+        "name": "Biskop Gunnerus' gate", 
+        "timestamp": "2017-08-15T04:52:21.230000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "placement": "ved R\u00e5dhusgata", 
+          "uid": 386
+        }, 
+        "free_bikes": 0, 
+        "id": "b523bc819980061e0b917b040fa3c310", 
+        "latitude": 59.908057, 
+        "longitude": 10.748045, 
+        "name": "Langkaia", 
+        "timestamp": "2017-08-15T04:52:21.231000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "placement": "mellom Norbygata og Urtegata", 
+          "uid": 157
+        }, 
+        "free_bikes": 2, 
+        "id": "61683fd56e87e5d99a3e9b58a2c0d4f8", 
+        "latitude": 59.91562, 
+        "longitude": 10.762248, 
+        "name": "Nylandsveien", 
+        "timestamp": "2017-08-15T04:52:21.071000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "placement": "rett over busstoppet", 
+          "uid": 158
+        }, 
+        "free_bikes": 4, 
+        "id": "d525091c1f5efdc17d581485a3ef6212", 
+        "latitude": 59.939192, 
+        "longitude": 10.759168, 
+        "name": "Bentsebrugata", 
+        "timestamp": "2017-08-15T04:52:21.073000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "Mellom \u00c5sengata og Nordkappgata", 
+          "uid": 159
+        }, 
+        "free_bikes": 7, 
+        "id": "ff2684e1c75fc812c06adaf372070ed1", 
+        "latitude": 59.939262, 
+        "longitude": 10.774296, 
+        "name": "Hans Nielsen Hauges plass", 
+        "timestamp": "2017-08-15T04:52:21.074000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "placement": "ved busstoppet Colletts gate", 
+          "uid": 161
+        }, 
+        "free_bikes": 1, 
+        "id": "4410956259d4949148471baa1df90838", 
+        "latitude": 59.926872, 
+        "longitude": 10.738456, 
+        "name": "St. Hanshaugen park vest", 
+        "timestamp": "2017-08-15T04:52:21.076000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "placement": "i Uelands gate", 
+          "uid": 162
+        }, 
+        "free_bikes": 14, 
+        "id": "69e9aa28f7e1a429956f7cbd9c33b822", 
+        "latitude": 59.934934, 
+        "longitude": 10.749475, 
+        "name": "Arkitekt Rivertz Plass", 
+        "timestamp": "2017-08-15T04:52:21.076000Z"
+      }, 
+      {
+        "empty_slots": 33, 
+        "extra": {
+          "placement": "langs Brugata", 
+          "uid": 163
+        }, 
+        "free_bikes": 6, 
+        "id": "b85d61f88e82bb7e66a8eeb2a38edad2", 
+        "latitude": 59.913409, 
+        "longitude": 10.75737, 
+        "name": "Vaterlandsparken", 
+        "timestamp": "2017-08-15T04:52:21.077000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "placement": "ved rundkj\u00f8ringen", 
+          "uid": 166
+        }, 
+        "free_bikes": 0, 
+        "id": "5ccbd5271532a6b639f588da7b665835", 
+        "latitude": 59.943748, 
+        "longitude": 10.760195, 
+        "name": "Bj\u00f8lsen Studentby", 
+        "timestamp": "2017-08-15T04:52:21.079000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "placement": "ved Sporveisgata", 
+          "uid": 169
+        }, 
+        "free_bikes": 0, 
+        "id": "03e1182da3e4a044905dc75924931c78", 
+        "latitude": 59.924727, 
+        "longitude": 10.724612, 
+        "name": "Bogstadveien", 
+        "timestamp": "2017-08-15T04:52:21.081000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "placement": "ved Majorstuen T-bane", 
+          "uid": 170
+        }, 
+        "free_bikes": 8, 
+        "id": "56d9b7f95d2cd64a2b1e0e02240dbc75", 
+        "latitude": 59.930596, 
+        "longitude": 10.714796, 
+        "name": "Slemdalsveien", 
+        "timestamp": "2017-08-15T04:52:21.081000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "placement": "ved T\u00f8yenbekken", 
+          "uid": 175
+        }, 
+        "free_bikes": 10, 
+        "id": "de40ef73d5585f0112072a80a6f3ca9a", 
+        "latitude": 59.912504, 
+        "longitude": 10.762236, 
+        "name": "Gr\u00f8nlands torg", 
+        "timestamp": "2017-08-15T04:52:21.083000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "placement": "ved trikkestoppet", 
+          "uid": 176
+        }, 
+        "free_bikes": 2, 
+        "id": "9c7ecbc07d3c63ae0774c9476b88f0ea", 
+        "latitude": 59.929583, 
+        "longitude": 10.732876, 
+        "name": "Stensgata", 
+        "timestamp": "2017-08-15T04:52:21.084000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "ved Caltexl\u00f8kka", 
+          "uid": 177
+        }, 
+        "free_bikes": 8, 
+        "id": "0d469bf9188ee0c49e9df12d93138738", 
+        "latitude": 59.915629, 
+        "longitude": 10.777664, 
+        "name": "T\u00f8yenparken", 
+        "timestamp": "2017-08-15T04:52:21.085000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "placement": "langs Finnmarkgata", 
+          "uid": 179
+        }, 
+        "free_bikes": 9, 
+        "id": "1c04457533088a0fbd0f2d4532e6a401", 
+        "latitude": 59.925065, 
+        "longitude": 10.775981, 
+        "name": "Carl Berners plass s\u00f8r", 
+        "timestamp": "2017-08-15T04:52:21.087000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "under L\u00f8renparken", 
+          "uid": 180
+        }, 
+        "free_bikes": 7, 
+        "id": "339ac8297ae46367f45b276295afc51d", 
+        "latitude": 59.930912, 
+        "longitude": 10.791843, 
+        "name": "L\u00f8renveien", 
+        "timestamp": "2017-08-15T04:52:21.088000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "placement": "ved Torggata", 
+          "uid": 181
+        }, 
+        "free_bikes": 4, 
+        "id": "04e25b748207f1b7934dd91c4a0c80af", 
+        "latitude": 59.913015, 
+        "longitude": 10.746714, 
+        "name": "Kirkeristen", 
+        "timestamp": "2017-08-15T04:52:21.089000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "placement": "langs Vitaminveien", 
+          "uid": 183
+        }, 
+        "free_bikes": 17, 
+        "id": "a7548ff227df4e6a74820063d6ede4dd", 
+        "latitude": 59.946699, 
+        "longitude": 10.773978, 
+        "name": "Storo Storsenter", 
+        "timestamp": "2017-08-15T04:52:21.091000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "placement": "i Blindernveien", 
+          "uid": 184
+        }, 
+        "free_bikes": 3, 
+        "id": "ad19efbeeb54f4083b23feb07c69b9ec", 
+        "latitude": 59.93536, 
+        "longitude": 10.726488, 
+        "name": "Det Teologiske fakultet", 
+        "timestamp": "2017-08-15T04:52:21.094000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "placement": "langs Pilestredet", 
+          "uid": 185
+        }, 
+        "free_bikes": 6, 
+        "id": "782ce54b0163b744de4250939ed84977", 
+        "latitude": 59.919827, 
+        "longitude": 10.73555, 
+        "name": "HiOA", 
+        "timestamp": "2017-08-15T04:52:21.095000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "placement": "langs Dyvekes vei", 
+          "uid": 188
+        }, 
+        "free_bikes": 11, 
+        "id": "c0fc3f5b685b440636fd5be8bf5f0e3f", 
+        "latitude": 59.903467, 
+        "longitude": 10.777866, 
+        "name": "Lodalen busstopp", 
+        "timestamp": "2017-08-15T04:52:21.096000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "placement": "utenfor banken i Majorstukrysset", 
+          "uid": 189
+        }, 
+        "free_bikes": 17, 
+        "id": "2287ae955549896a1d459421cad32093", 
+        "latitude": 59.929034, 
+        "longitude": 10.716893, 
+        "name": "Majorstuen", 
+        "timestamp": "2017-08-15T04:52:21.097000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "utenfor Katedralen pub", 
+          "uid": 190
+        }, 
+        "free_bikes": 3, 
+        "id": "69f2dfd7969ccf2b52c5f7d850107bbb", 
+        "latitude": 59.921791, 
+        "longitude": 10.730448, 
+        "name": "Parkveien", 
+        "timestamp": "2017-08-15T04:52:21.098000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "langs Torggata", 
+          "uid": 191
+        }, 
+        "free_bikes": 1, 
+        "id": "ddcb589f105e85ed4073f3af56bb77f2", 
+        "latitude": 59.917879, 
+        "longitude": 10.754906, 
+        "name": "Jakob kirke", 
+        "timestamp": "2017-08-15T04:52:21.099000Z"
+      }, 
+      {
+        "empty_slots": 38, 
+        "extra": {
+          "placement": "mot Stortingsgata", 
+          "uid": 192
+        }, 
+        "free_bikes": 3, 
+        "id": "6a3bde945db8c445b57e2f140b77dab0", 
+        "latitude": 59.913369, 
+        "longitude": 10.73744, 
+        "name": "Spikersuppa \u00d8st", 
+        "timestamp": "2017-08-15T04:52:21.100000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "placement": "ved Solligata", 
+          "uid": 193
+        }, 
+        "free_bikes": 20, 
+        "id": "b56a75696ac050f2673eaadaf3e031e3", 
+        "latitude": 59.914326, 
+        "longitude": 10.720178, 
+        "name": "Oslo Handelsgymnasium", 
+        "timestamp": "2017-08-15T04:52:21.100000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "placement": "ved trikkestoppet", 
+          "uid": 194
+        }, 
+        "free_bikes": 10, 
+        "id": "a6491b22dd91210c90a4a4106f27bf48", 
+        "latitude": 59.903178, 
+        "longitude": 10.767346, 
+        "name": "Oslo Hospital", 
+        "timestamp": "2017-08-15T04:52:21.101000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "placement": "i Olav Vs gate", 
+          "uid": 195
+        }, 
+        "free_bikes": 11, 
+        "id": "c85ca8d60da42e35867c7da8a08917aa", 
+        "latitude": 59.914036, 
+        "longitude": 10.732872, 
+        "name": "Saga Kino", 
+        "timestamp": "2017-08-15T04:52:21.102000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "placement": "ved Sannergata", 
+          "uid": 196
+        }, 
+        "free_bikes": 3, 
+        "id": "529a8d85cada0c5b173f6190511e54f0", 
+        "latitude": 59.92841, 
+        "longitude": 10.759368, 
+        "name": "Ringnes Park", 
+        "timestamp": "2017-08-15T04:52:21.103000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "placement": "Ved Ulvetrappen (Ilatrappen)", 
+          "uid": 197
+        }, 
+        "free_bikes": 25, 
+        "id": "11e8489b63a9cc2d5d0cb1f0a0d10df8", 
+        "latitude": 59.929529, 
+        "longitude": 10.748988, 
+        "name": "Uelands gate", 
+        "timestamp": "2017-08-15T04:52:21.104000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "placement": "ved Dalsbergstien", 
+          "uid": 198
+        }, 
+        "free_bikes": 4, 
+        "id": "f901b9ee49f405cd8319b05b7cb3a79e", 
+        "latitude": 59.922704, 
+        "longitude": 10.738584, 
+        "name": "Hallings gate", 
+        "timestamp": "2017-08-15T04:52:21.105000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "placement": "langs Karl Johan", 
+          "uid": 199
+        }, 
+        "free_bikes": 8, 
+        "id": "fd8d5145c95fce4387c6973e20b3e7a6", 
+        "latitude": 59.914654, 
+        "longitude": 10.735447, 
+        "name": "Studenterlunden", 
+        "timestamp": "2017-08-15T04:52:21.106000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "placement": "forsiden av skolebygget", 
+          "uid": 200
+        }, 
+        "free_bikes": 10, 
+        "id": "1b0836a7643d4d4279de70cbbfb989ee", 
+        "latitude": 59.91499, 
+        "longitude": 10.773942, 
+        "name": "T\u00f8yen skole", 
+        "timestamp": "2017-08-15T04:52:21.107000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "placement": "langs Oslo gate", 
+          "uid": 201
+        }, 
+        "free_bikes": 19, 
+        "id": "a2ff7d766d9c1c9c7f490839f761e1c4", 
+        "latitude": 59.908184, 
+        "longitude": 10.767799, 
+        "name": "Munkegata trikkestopp", 
+        "timestamp": "2017-08-15T04:52:21.108000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "placement": "ved Vika Terrasse", 
+          "uid": 202
+        }, 
+        "free_bikes": 11, 
+        "id": "345f629c2df12556752c06a6d4a6a050", 
+        "latitude": 59.912647, 
+        "longitude": 10.725592, 
+        "name": "Rusel\u00f8kka", 
+        "timestamp": "2017-08-15T04:52:21.109000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "placement": "langs Holtegata", 
+          "uid": 203
+        }, 
+        "free_bikes": 0, 
+        "id": "c05ae668d906458dce9056279e50a9d6", 
+        "latitude": 59.922532, 
+        "longitude": 10.720807, 
+        "name": "Uranienborgparken", 
+        "timestamp": "2017-08-15T04:52:21.110000Z"
+      }, 
+      {
+        "empty_slots": 37, 
+        "extra": {
+          "placement": "langs Strandgata", 
+          "uid": 204
+        }, 
+        "free_bikes": 4, 
+        "id": "0cd105ffcae8f6699b6c9590d0292974", 
+        "latitude": 59.910287, 
+        "longitude": 10.750012, 
+        "name": "Pal\u00e9haven", 
+        "timestamp": "2017-08-15T04:52:21.111000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "placement": "utenfor inngangen", 
+          "uid": 205
+        }, 
+        "free_bikes": 2, 
+        "id": "04ed1218e3a137c1e8b694b16347f445", 
+        "latitude": 59.907681, 
+        "longitude": 10.686827, 
+        "name": "Norsk Folkemuseum", 
+        "timestamp": "2017-08-15T04:52:21.112000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "placement": "i Waldemar Thranes gate", 
+          "uid": 206
+        }, 
+        "free_bikes": 3, 
+        "id": "f74b820b41dbde175628469726b5622d", 
+        "latitude": 59.923729, 
+        "longitude": 10.740477, 
+        "name": "St. Hanshaugen", 
+        "timestamp": "2017-08-15T04:52:21.112000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "placement": "ved Blytts gate", 
+          "uid": 207
+        }, 
+        "free_bikes": 23, 
+        "id": "b75e480dba6b9d5450bc745330fc8215", 
+        "latitude": 59.920084, 
+        "longitude": 10.768962, 
+        "name": "Botanisk Hage vest", 
+        "timestamp": "2017-08-15T04:52:21.113000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "placement": "ved Middelthuns gate", 
+          "uid": 209
+        }, 
+        "free_bikes": 8, 
+        "id": "78b76cfd6dd5efd19ec4e6a2ae8d1c46", 
+        "latitude": 59.928005, 
+        "longitude": 10.708656, 
+        "name": "Frognerbadet", 
+        "timestamp": "2017-08-15T04:52:21.115000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "placement": "langs Seilduksgata", 
+          "uid": 210
+        }, 
+        "free_bikes": 4, 
+        "id": "dda3b78ca6dc15af56bf35c48be4a877", 
+        "latitude": 59.925649, 
+        "longitude": 10.760861, 
+        "name": "Birkelunden", 
+        "timestamp": "2017-08-15T04:52:21.116000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "placement": "i Stenersgata", 
+          "uid": 211
+        }, 
+        "free_bikes": 1, 
+        "id": "83a74b19eea97626528f48413f2c96f0", 
+        "latitude": 59.912863, 
+        "longitude": 10.751184, 
+        "name": "Oslo City", 
+        "timestamp": "2017-08-15T04:52:21.117000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "placement": "langs Per Kvibergs gate", 
+          "uid": 213
+        }, 
+        "free_bikes": 12, 
+        "id": "cf96c260d1b279c62898bbfdf82fba95", 
+        "latitude": 59.935077, 
+        "longitude": 10.769234, 
+        "name": "Torshovparken vest", 
+        "timestamp": "2017-08-15T04:52:21.118000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "placement": "n\u00e6rmest Thorvald Meyers gate", 
+          "uid": 214
+        }, 
+        "free_bikes": 2, 
+        "id": "fe9b4ad5a2ce28532c3754ba23f0880d", 
+        "latitude": 59.920206, 
+        "longitude": 10.760548, 
+        "name": "Schous plass", 
+        "timestamp": "2017-08-15T04:52:21.119000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "langs Treschows gate", 
+          "uid": 215
+        }, 
+        "free_bikes": 7, 
+        "id": "f3a60528d9ff5d2f6a862af478b7a011", 
+        "latitude": 59.940307, 
+        "longitude": 10.766143, 
+        "name": "Bj\u00f8lsendumpa", 
+        "timestamp": "2017-08-15T04:52:21.120000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "placement": "Ved holdeplassen", 
+          "uid": 217
+        }, 
+        "free_bikes": 0, 
+        "id": "bfad75441e9e4659372421e792bc7c5c", 
+        "latitude": 59.932779, 
+        "longitude": 10.734499, 
+        "name": "Adamstuen", 
+        "timestamp": "2017-08-15T04:52:21.121000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "placement": "ved Uranienborg skole", 
+          "uid": 218
+        }, 
+        "free_bikes": 0, 
+        "id": "1390b20f89198a6ad96c6bd58497131d", 
+        "latitude": 59.920187, 
+        "longitude": 10.717955, 
+        "name": "Briskeby", 
+        "timestamp": "2017-08-15T04:52:21.122000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "placement": "nedenfor Frogner Kirke", 
+          "uid": 219
+        }, 
+        "free_bikes": 5, 
+        "id": "ebb5a591f48751168b18bfa329175082", 
+        "latitude": 59.917215, 
+        "longitude": 10.708379, 
+        "name": "Gimle Kino", 
+        "timestamp": "2017-08-15T04:52:21.123000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "placement": "ved skr\u00e5ning ned mot Pipervika", 
+          "uid": 220
+        }, 
+        "free_bikes": 0, 
+        "id": "ae494f63c270f0a60c5ea791504af5a8", 
+        "latitude": 59.910137, 
+        "longitude": 10.738477, 
+        "name": "Kontraskj\u00e6ret", 
+        "timestamp": "2017-08-15T04:52:21.124000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "placement": "i Geitmyrsveien", 
+          "uid": 221
+        }, 
+        "free_bikes": 12, 
+        "id": "3cfb3aa6baf85edc404fd5a750ad4c70", 
+        "latitude": 59.932357, 
+        "longitude": 10.741542, 
+        "name": "Tannlegeh\u00f8yskolen", 
+        "timestamp": "2017-08-15T04:52:21.125000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "placement": "ved Sofienberggata", 
+          "uid": 222
+        }, 
+        "free_bikes": 27, 
+        "id": "e562561939c226574a72dd30bbc1f99f", 
+        "latitude": 59.922414, 
+        "longitude": 10.758127, 
+        "name": "Olaf Ryes plass", 
+        "timestamp": "2017-08-15T04:52:21.125000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "placement": "ved Stensgata", 
+          "uid": 224
+        }, 
+        "free_bikes": 0, 
+        "id": "34849e93951efaa96265e76628f9f4eb", 
+        "latitude": 59.935912, 
+        "longitude": 10.735061, 
+        "name": "Kirkeveien", 
+        "timestamp": "2017-08-15T04:52:21.126000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "placement": "ved Kongehellegata", 
+          "uid": 225
+        }, 
+        "free_bikes": 0, 
+        "id": "5eeabb098ff6ac4b596360c4918d60f4", 
+        "latitude": 59.929525, 
+        "longitude": 10.781032, 
+        "name": "Sinsenveien", 
+        "timestamp": "2017-08-15T04:52:21.127000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "placement": "ved rundkj\u00f8ringen", 
+          "uid": 226
+        }, 
+        "free_bikes": 7, 
+        "id": "ac28c76d69e10755dde82f9dfa6c37e2", 
+        "latitude": 59.920944, 
+        "longitude": 10.750362, 
+        "name": "Fredensborg", 
+        "timestamp": "2017-08-15T04:52:21.128000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "ved dammen", 
+          "uid": 227
+        }, 
+        "free_bikes": 4, 
+        "id": "8aba2c3da27502eb2126c56039fd31e2", 
+        "latitude": 59.924852, 
+        "longitude": 10.739946, 
+        "name": "St. Hanshaugen park s\u00f8r", 
+        "timestamp": "2017-08-15T04:52:21.129000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "placement": "n\u00e6rmest rundkj\u00f8ringen", 
+          "uid": 229
+        }, 
+        "free_bikes": 18, 
+        "id": "e45d2f2db9f555be8c1fb6f472771759", 
+        "latitude": 59.920383, 
+        "longitude": 10.76082, 
+        "name": "Schous plass", 
+        "timestamp": "2017-08-15T04:52:21.131000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "placement": "ved bomringen", 
+          "uid": 230
+        }, 
+        "free_bikes": 3, 
+        "id": "a7b55e9208b65a45c0e401764ef9ff32", 
+        "latitude": 59.922078, 
+        "longitude": 10.685889, 
+        "name": "Thune", 
+        "timestamp": "2017-08-15T04:52:21.132000Z"
+      }, 
+      {
+        "empty_slots": 39, 
+        "extra": {
+          "placement": "ved hovedinngangen", 
+          "uid": 231
+        }, 
+        "free_bikes": 1, 
+        "id": "529ccce7e88bbb46a9cb338e653f408d", 
+        "latitude": 59.949246, 
+        "longitude": 10.768577, 
+        "name": "BI Nydalen", 
+        "timestamp": "2017-08-15T04:52:21.133000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "placement": "langs Bygd\u00f8y All\u00e9", 
+          "uid": 232
+        }, 
+        "free_bikes": 0, 
+        "id": "8eed506a845136a6d190177159e5bee5", 
+        "latitude": 59.915389, 
+        "longitude": 10.714718, 
+        "name": "Fram-g\u00e5rden", 
+        "timestamp": "2017-08-15T04:52:21.134000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "placement": "ved Maridalsveien", 
+          "uid": 233
+        }, 
+        "free_bikes": 14, 
+        "id": "60772e0d1fc1ebec8cdf7c36886a2791", 
+        "latitude": 59.92805, 
+        "longitude": 10.751203, 
+        "name": "Alexander Kiellands Plass", 
+        "timestamp": "2017-08-15T04:52:21.135000Z"
+      }, 
+      {
+        "empty_slots": 40, 
+        "extra": {
+          "placement": "mot Stortingsgata", 
+          "uid": 234
+        }, 
+        "free_bikes": 1, 
+        "id": "c4c835e95060cfd2efae68aa3fba807b", 
+        "latitude": 59.913731, 
+        "longitude": 10.736032, 
+        "name": "Spikersuppa Vest", 
+        "timestamp": "2017-08-15T04:52:21.135000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "placement": "i starten av Youngs gate", 
+          "uid": 236
+        }, 
+        "free_bikes": 1, 
+        "id": "4fa4e4bac7afd32531e2195d29cd868d", 
+        "latitude": 59.914144, 
+        "longitude": 10.751853, 
+        "name": "Storgata", 
+        "timestamp": "2017-08-15T04:52:21.137000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "placement": "langs Ole Bulls gate", 
+          "uid": 237
+        }, 
+        "free_bikes": 13, 
+        "id": "890fb6790b8ac3c5b8d7cb5a3a4682bc", 
+        "latitude": 59.93362, 
+        "longitude": 10.769118, 
+        "name": "Lilleborgbanen", 
+        "timestamp": "2017-08-15T04:52:21.138000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "placement": "p\u00e5 C.J. Hambros plass", 
+          "uid": 238
+        }, 
+        "free_bikes": 1, 
+        "id": "aae231b9e21383672e12f63ed31eea59", 
+        "latitude": 59.91564, 
+        "longitude": 10.740921, 
+        "name": "Tinghuset", 
+        "timestamp": "2017-08-15T04:52:21.139000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "langs \u00d8kernveien", 
+          "uid": 239
+        }, 
+        "free_bikes": 16, 
+        "id": "a9652dc07106b8b8368249d21452a70c", 
+        "latitude": 59.924335, 
+        "longitude": 10.792799, 
+        "name": "Hasle", 
+        "timestamp": "2017-08-15T04:52:21.140000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "placement": "ved den sveitsiske ambassade", 
+          "uid": 240
+        }, 
+        "free_bikes": 4, 
+        "id": "529dec742b61cc47d5edbfe0a4fc963c", 
+        "latitude": 59.919343, 
+        "longitude": 10.696888, 
+        "name": "Olav Kyrres plass", 
+        "timestamp": "2017-08-15T04:52:21.141000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "placement": "i Jens Bjelkes gate", 
+          "uid": 242
+        }, 
+        "free_bikes": 14, 
+        "id": "3810df9137775f65ff1f19efadd05959", 
+        "latitude": 59.911459, 
+        "longitude": 10.776287, 
+        "name": "Sommerfrydhagen", 
+        "timestamp": "2017-08-15T04:52:21.143000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "placement": "ved Arbeidersamfunnets plass", 
+          "uid": 243
+        }, 
+        "free_bikes": 4, 
+        "id": "0b65a6c4d981890dd65023931a81120d", 
+        "latitude": 59.915471, 
+        "longitude": 10.751096, 
+        "name": "Sentrum Scene", 
+        "timestamp": "2017-08-15T04:52:21.156000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "placement": "langs V\u00e6ker\u00f8veien", 
+          "uid": 244
+        }, 
+        "free_bikes": 2, 
+        "id": "51ca100599b84feb2fe0b3949a13214d", 
+        "latitude": 59.919823, 
+        "longitude": 10.651089, 
+        "name": "Furulund", 
+        "timestamp": "2017-08-15T04:52:21.158000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "placement": "ved treningssenteret", 
+          "uid": 245
+        }, 
+        "free_bikes": 21, 
+        "id": "384f53438ab1db62125ad3d33b664fa6", 
+        "latitude": 59.904441, 
+        "longitude": 10.786188, 
+        "name": "Kv\u00e6rnerbyen", 
+        "timestamp": "2017-08-15T04:52:21.159000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "placement": "langs Sofienberggata", 
+          "uid": 246
+        }, 
+        "free_bikes": 6, 
+        "id": "f898ff5efc90695d54b0a0772ada87f8", 
+        "latitude": 59.922327, 
+        "longitude": 10.761866, 
+        "name": "Sofienbergparken s\u00f8r", 
+        "timestamp": "2017-08-15T04:52:21.160000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "placement": "n\u00e6rmest trappen", 
+          "uid": 247
+        }, 
+        "free_bikes": 11, 
+        "id": "01d20b9e8869dbaf61266ed0b4159054", 
+        "latitude": 59.910091, 
+        "longitude": 10.752138, 
+        "name": "Sj\u00f8siden \u00f8st", 
+        "timestamp": "2017-08-15T04:52:21.161000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "placement": "Colletsgt Uelandsgt", 
+          "uid": 248
+        }, 
+        "free_bikes": 9, 
+        "id": "9160f3cfbe13944dc83eccb06c7ce384", 
+        "latitude": 59.931834, 
+        "longitude": 10.748723, 
+        "name": "Ila", 
+        "timestamp": "2017-08-15T04:52:21.162000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "n\u00e6rmest Operaen", 
+          "uid": 249
+        }, 
+        "free_bikes": 0, 
+        "id": "2f887d75d8bbb68794e0a779679061ed", 
+        "latitude": 59.904068, 
+        "longitude": 10.741193, 
+        "name": "Vippetangen \u00f8st", 
+        "timestamp": "2017-08-15T04:52:21.169000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "placement": "mellom bussholdeplassene p\u00e5 Galgeberg", 
+          "uid": 250
+        }, 
+        "free_bikes": 4, 
+        "id": "bdb1510c9f4e826eecf374eb2d4f68f9", 
+        "latitude": 59.908226, 
+        "longitude": 10.781046, 
+        "name": "Jordalgata", 
+        "timestamp": "2017-08-15T04:52:21.170000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "ved Vogts gate", 
+          "uid": 251
+        }, 
+        "free_bikes": 2, 
+        "id": "b9c02c77ca0856d874809c8512608b1d", 
+        "latitude": 59.931529, 
+        "longitude": 10.762173, 
+        "name": "Hall\u00e9nparken", 
+        "timestamp": "2017-08-15T04:52:21.171000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "langs Drammensveien", 
+          "uid": 252
+        }, 
+        "free_bikes": 4, 
+        "id": "a9694b37c5330d9fc69835bb5cc4e07e", 
+        "latitude": 59.921637, 
+        "longitude": 10.676712, 
+        "name": "Sk\u00f8yen", 
+        "timestamp": "2017-08-15T04:52:21.172000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "placement": "til venstre for hovedinngangen", 
+          "uid": 254
+        }, 
+        "free_bikes": 0, 
+        "id": "0cd5e97aa6f723a2b6e614e7d7ef93ac", 
+        "latitude": 59.927382, 
+        "longitude": 10.710373, 
+        "name": "Frogner Stadion", 
+        "timestamp": "2017-08-15T04:52:21.174000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "placement": "ved Fjellgata", 
+          "uid": 255
+        }, 
+        "free_bikes": 5, 
+        "id": "849118ab0eedf73ac6e7dd8b0de589b8", 
+        "latitude": 59.927255, 
+        "longitude": 10.773072, 
+        "name": "Chr. Michelsens Gate", 
+        "timestamp": "2017-08-15T04:52:21.175000Z"
+      }, 
+      {
+        "empty_slots": 41, 
+        "extra": {
+          "placement": "ved hovedparkeringen", 
+          "uid": 256
+        }, 
+        "free_bikes": 4, 
+        "id": "ea90796bd2b791957e4ba18c7de244f8", 
+        "latitude": 59.898121, 
+        "longitude": 10.675141, 
+        "name": "Huk", 
+        "timestamp": "2017-08-15T04:52:21.176000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "placement": "Ved trikkestoppet", 
+          "uid": 257
+        }, 
+        "free_bikes": 6, 
+        "id": "04128a7f2a34c69655f53720c4e8c12b", 
+        "latitude": 59.923051, 
+        "longitude": 10.771718, 
+        "name": "Trondheimsveien", 
+        "timestamp": "2017-08-15T04:52:21.177000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "placement": "ved Monrads gate", 
+          "uid": 258
+        }, 
+        "free_bikes": 8, 
+        "id": "227b7f20c28bb5ef3e24d5ce3f5ebdf4", 
+        "latitude": 59.922851, 
+        "longitude": 10.77566, 
+        "name": "Finnmarksgata", 
+        "timestamp": "2017-08-15T04:52:21.178000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "placement": "mellom Schultz' gate og Industrigata", 
+          "uid": 259
+        }, 
+        "free_bikes": 0, 
+        "id": "6090ea9c5aa68b2b5ef40b7e22e5fa7f", 
+        "latitude": 59.929426, 
+        "longitude": 10.726118, 
+        "name": "Suhms gate", 
+        "timestamp": "2017-08-15T04:52:21.179000Z"
+      }, 
+      {
+        "empty_slots": 51, 
+        "extra": {
+          "placement": "ved Kongen Marina", 
+          "uid": 260
+        }, 
+        "free_bikes": 5, 
+        "id": "fde2069f2fd5606d2e681889db558d21", 
+        "latitude": 59.91033, 
+        "longitude": 10.705145, 
+        "name": "Frognerstranda", 
+        "timestamp": "2017-08-15T04:52:21.180000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "placement": "langs Helgesens gate", 
+          "uid": 262
+        }, 
+        "free_bikes": 25, 
+        "id": "f5d928d6187fc1b2a8d45e4f48121a67", 
+        "latitude": 59.923159, 
+        "longitude": 10.766055, 
+        "name": "Sofienbergparken nord", 
+        "timestamp": "2017-08-15T04:52:21.181000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "ved holdeplassen", 
+          "uid": 264
+        }, 
+        "free_bikes": 7, 
+        "id": "7dba417662ad4ccc74ea4c1f8bbf2724", 
+        "latitude": 59.919484, 
+        "longitude": 10.708829, 
+        "name": "Elisenberg", 
+        "timestamp": "2017-08-15T04:52:21.182000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "placement": "ved Hasleveien", 
+          "uid": 265
+        }, 
+        "free_bikes": 6, 
+        "id": "4e468264c332dfda958ac0d10c15b0ef", 
+        "latitude": 59.926931, 
+        "longitude": 10.777049, 
+        "name": "Carl Berners plass nord", 
+        "timestamp": "2017-08-15T04:52:21.183000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "placement": "langs Jens Bjelkes gate", 
+          "uid": 266
+        }, 
+        "free_bikes": 26, 
+        "id": "9e4d2f3d1ad61732821114908ac0cfaa", 
+        "latitude": 59.915399, 
+        "longitude": 10.769469, 
+        "name": "Botanisk Hage s\u00f8r", 
+        "timestamp": "2017-08-15T04:52:21.184000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "placement": "ved rundkj\u00f8ringen", 
+          "uid": 267
+        }, 
+        "free_bikes": 12, 
+        "id": "6213a656300190b0ce9e907a28ee35bd", 
+        "latitude": 59.92548, 
+        "longitude": 10.731318, 
+        "name": "Bislett Stadion", 
+        "timestamp": "2017-08-15T04:52:21.185000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "ved Sporveisgata", 
+          "uid": 268
+        }, 
+        "free_bikes": 7, 
+        "id": "b9ddbd3965fce8dacb89df033e7b4f9c", 
+        "latitude": 59.927141, 
+        "longitude": 10.730917, 
+        "name": "Stensparken", 
+        "timestamp": "2017-08-15T04:52:21.186000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "placement": "langs Sognsveien", 
+          "uid": 269
+        }, 
+        "free_bikes": 6, 
+        "id": "90f92eb79d705663d8765045c35731a4", 
+        "latitude": 59.937928, 
+        "longitude": 10.73048, 
+        "name": "Ullev\u00e5lsall\u00e9en", 
+        "timestamp": "2017-08-15T04:52:21.186000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "placement": "p\u00e5 Europar\u00e5dets plass", 
+          "uid": 272
+        }, 
+        "free_bikes": 4, 
+        "id": "ada56d1c9294455c285539539cc435a0", 
+        "latitude": 59.9119, 
+        "longitude": 10.749858, 
+        "name": "Jernbanetorget", 
+        "timestamp": "2017-08-15T04:52:21.188000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "placement": "i Ullev\u00e5lsveien", 
+          "uid": 273
+        }, 
+        "free_bikes": 6, 
+        "id": "d54d82a5227e0dd65e3aeb908690db3b", 
+        "latitude": 59.930729, 
+        "longitude": 10.735773, 
+        "name": "Sofies gate", 
+        "timestamp": "2017-08-15T04:52:21.189000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "placement": "ved gangbroen til S\u00f8renga", 
+          "uid": 274
+        }, 
+        "free_bikes": 12, 
+        "id": "cfc65c40667eaaa714ef81d38da88116", 
+        "latitude": 59.905031, 
+        "longitude": 10.753658, 
+        "name": "Sukkerbiten", 
+        "timestamp": "2017-08-15T04:52:21.190000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "placement": "langs L\u00f8kkeveien", 
+          "uid": 275
+        }, 
+        "free_bikes": 5, 
+        "id": "e33587354c2f1c57429b75fd06f37038", 
+        "latitude": 59.913555, 
+        "longitude": 10.726393, 
+        "name": "Rusel\u00f8kkg\u00e5rden", 
+        "timestamp": "2017-08-15T04:52:21.190000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "langs Gr\u00f8nlandsleiret", 
+          "uid": 277
+        }, 
+        "free_bikes": 16, 
+        "id": "f78371ca4e5b6b047d5f99655582d07e", 
+        "latitude": 59.912069, 
+        "longitude": 10.76619, 
+        "name": "Helga Helgesens plass", 
+        "timestamp": "2017-08-15T04:52:21.191000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "placement": "n\u00e6rmest R\u00e5dhuset", 
+          "uid": 278
+        }, 
+        "free_bikes": 3, 
+        "id": "49e4e227a12c41fe097a46dc8cd3ab76", 
+        "latitude": 59.903942, 
+        "longitude": 10.74055, 
+        "name": "Vippetangen vest", 
+        "timestamp": "2017-08-15T04:52:21.192000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "placement": "ved Kirkegata", 
+          "uid": 279
+        }, 
+        "free_bikes": 2, 
+        "id": "d7abb9acd6efa51f17714938a859f5b3", 
+        "latitude": 59.908353, 
+        "longitude": 10.741794, 
+        "name": "Bankplassen", 
+        "timestamp": "2017-08-15T04:52:21.193000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "placement": "ved Frydenlund holdeplass", 
+          "uid": 280
+        }, 
+        "free_bikes": 6, 
+        "id": "ea27f7b4d8561443b124d530c0d2d126", 
+        "latitude": 59.920848, 
+        "longitude": 10.733323, 
+        "name": "Studentparlamentet", 
+        "timestamp": "2017-08-15T04:52:21.194000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "placement": "ved rundkj\u00f8ringen", 
+          "uid": 281
+        }, 
+        "free_bikes": 2, 
+        "id": "c5ed0dfec74327fbc202cda3caf2bad0", 
+        "latitude": 59.912203, 
+        "longitude": 10.754497, 
+        "name": "Oslo Plaza", 
+        "timestamp": "2017-08-15T04:52:21.194000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "i Suhms gate", 
+          "uid": 283
+        }, 
+        "free_bikes": 4, 
+        "id": "48e3348cb1109dde4ef0345c27acbbbe", 
+        "latitude": 59.932418, 
+        "longitude": 10.721848, 
+        "name": "Marienlyst", 
+        "timestamp": "2017-08-15T04:52:21.195000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "placement": "ved Hamna fritidsklubb", 
+          "uid": 284
+        }, 
+        "free_bikes": 9, 
+        "id": "ca9b25170c80a5a44a3908199cd7e110", 
+        "latitude": 59.929829, 
+        "longitude": 10.713032, 
+        "name": "Majorstuen skole", 
+        "timestamp": "2017-08-15T04:52:21.196000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "placement": "Ved St. Halvards gate", 
+          "uid": 285
+        }, 
+        "free_bikes": 10, 
+        "id": "f2d2537012a4feb760b87e891e38f40d", 
+        "latitude": 59.907081, 
+        "longitude": 10.779213, 
+        "name": "Galgeberg", 
+        "timestamp": "2017-08-15T04:52:21.197000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "placement": "ved Edvard Storms gate", 
+          "uid": 287
+        }, 
+        "free_bikes": 10, 
+        "id": "b24fb4fd9ea93fe4515e499be98317b8", 
+        "latitude": 59.919124, 
+        "longitude": 10.736152, 
+        "name": "Pilestredet", 
+        "timestamp": "2017-08-15T04:52:21.198000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "langs Drammensveien", 
+          "uid": 290
+        }, 
+        "free_bikes": 7, 
+        "id": "102e42e46c3959bfbe7407bbcef457c2", 
+        "latitude": 59.912727, 
+        "longitude": 10.710035, 
+        "name": "Skillebekk", 
+        "timestamp": "2017-08-15T04:52:21.199000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "placement": "krysset Colletts gt / Geitmyrsveien", 
+          "uid": 291
+        }, 
+        "free_bikes": 13, 
+        "id": "d02a720681ecd5428d8d83aca86ea0c8", 
+        "latitude": 59.929795, 
+        "longitude": 10.743603, 
+        "name": "St. Hanshaugen park nord", 
+        "timestamp": "2017-08-15T04:52:21.199000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "placement": "nedenfor bussholdeplassen", 
+          "uid": 292
+        }, 
+        "free_bikes": 4, 
+        "id": "61d784e04c5d48cc5f775a301bb362fd", 
+        "latitude": 59.909508, 
+        "longitude": 10.722561, 
+        "name": "Tjuvholmen", 
+        "timestamp": "2017-08-15T04:52:21.200000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "placement": "utenfor Handelsbanken", 
+          "uid": 293
+        }, 
+        "free_bikes": 6, 
+        "id": "9baac9381babbc0d355ac505dee00bd9", 
+        "latitude": 59.920352, 
+        "longitude": 10.683687, 
+        "name": "Karenlyst all\u00e9", 
+        "timestamp": "2017-08-15T04:52:21.201000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "placement": "ved Bernt Ankers gate", 
+          "uid": 294
+        }, 
+        "free_bikes": 1, 
+        "id": "526ff57dda1f946860ea77fc9641f6d6", 
+        "latitude": 59.915936, 
+        "longitude": 10.751573, 
+        "name": "Torggata", 
+        "timestamp": "2017-08-15T04:52:21.202000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "placement": "vest for Akerselva", 
+          "uid": 295
+        }, 
+        "free_bikes": 2, 
+        "id": "a8908d05a4d5842b821bf59013a21885", 
+        "latitude": 59.915412, 
+        "longitude": 10.758343, 
+        "name": "Hausmanns gate", 
+        "timestamp": "2017-08-15T04:52:21.203000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "placement": "ovenfor Fredrikke Qvams gate", 
+          "uid": 296
+        }, 
+        "free_bikes": 14, 
+        "id": "46f0033337e82354bc09ca85fa290b3d", 
+        "latitude": 59.925502, 
+        "longitude": 10.746069, 
+        "name": "Bjerregaards gate", 
+        "timestamp": "2017-08-15T04:52:21.204000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "placement": "i Maries gate", 
+          "uid": 298
+        }, 
+        "free_bikes": 0, 
+        "id": "2d5da7d3ccd8b6525a083c32110b1fbc", 
+        "latitude": 59.926646, 
+        "longitude": 10.716181, 
+        "name": "Majorstuveien", 
+        "timestamp": "2017-08-15T04:52:21.205000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "placement": "langs Valkyriegata", 
+          "uid": 299
+        }, 
+        "free_bikes": 5, 
+        "id": "b1899b5233e3f3fad02cb3e5f7961453", 
+        "latitude": 59.928202, 
+        "longitude": 10.718301, 
+        "name": "Valkyrieplassen", 
+        "timestamp": "2017-08-15T04:52:21.206000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "placement": "over veien fra Sagen Kirke", 
+          "uid": 300
+        }, 
+        "free_bikes": 9, 
+        "id": "40eb2edcc5ee8e8e5db7c6a057e8d9e6", 
+        "latitude": 59.937766, 
+        "longitude": 10.754028, 
+        "name": "Arendalsgata", 
+        "timestamp": "2017-08-15T04:52:21.207000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "placement": "ved Pilestredet", 
+          "uid": 301
+        }, 
+        "free_bikes": 6, 
+        "id": "edc8efa0fdf421555e2f5c4395b45144", 
+        "latitude": 59.914742, 
+        "longitude": 10.741007, 
+        "name": "Professor Aschehougs plass", 
+        "timestamp": "2017-08-15T04:52:21.208000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "placement": "ved Kontraskj\u00e6ret trikkestopp", 
+          "uid": 302
+        }, 
+        "free_bikes": 2, 
+        "id": "5e0f8e9e7f59813c081499da7eafe2e6", 
+        "latitude": 59.910864, 
+        "longitude": 10.736461, 
+        "name": "R\u00e5dhusgata", 
+        "timestamp": "2017-08-15T04:52:21.208000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "placement": "langs Gjerdrums vei", 
+          "uid": 303
+        }, 
+        "free_bikes": 13, 
+        "id": "ee1f3fa0241b97aac3e615ab60a039fa", 
+        "latitude": 59.952837, 
+        "longitude": 10.766492, 
+        "name": "Nydalen", 
+        "timestamp": "2017-08-15T04:52:21.209000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "placement": "ved Sem S\u00e6lands vei", 
+          "uid": 304
+        }, 
+        "free_bikes": 14, 
+        "id": "8279262516519fdc82918582f6fe7a64", 
+        "latitude": 59.937973, 
+        "longitude": 10.719517, 
+        "name": "Fysikkbygningen", 
+        "timestamp": "2017-08-15T04:52:21.210000Z"
+      }, 
+      {
+        "empty_slots": 42, 
+        "extra": {
+          "placement": "ved Moltke Moes vei", 
+          "uid": 305
+        }, 
+        "free_bikes": 2, 
+        "id": "2f327e917cff312f3db92c003deb22ba", 
+        "latitude": 59.938998, 
+        "longitude": 10.723075, 
+        "name": "Georg Morgenstiernes hus", 
+        "timestamp": "2017-08-15T04:52:21.211000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "placement": "rett over Youngstorget", 
+          "uid": 306
+        }, 
+        "free_bikes": 2, 
+        "id": "50720b68fbf8bc888eff24361111d7ea", 
+        "latitude": 59.91529, 
+        "longitude": 10.748453, 
+        "name": "M\u00f8llergata", 
+        "timestamp": "2017-08-15T04:52:21.212000Z"
+      }, 
+      {
+        "empty_slots": 31, 
+        "extra": {
+          "placement": "rett ved Blindern Studenterhjem", 
+          "uid": 308
+        }, 
+        "free_bikes": 11, 
+        "id": "a976508f4823ddac068d3cf2e929e0c2", 
+        "latitude": 59.94093, 
+        "longitude": 10.720666, 
+        "name": "Blindern studentparkering", 
+        "timestamp": "2017-08-15T04:52:21.213000Z"
+      }, 
+      {
+        "empty_slots": 39, 
+        "extra": {
+          "placement": "n\u00e6rmest parkeringsplassen", 
+          "uid": 309
+        }, 
+        "free_bikes": 1, 
+        "id": "02986cb63256d1a7f91aabf3772fa60c", 
+        "latitude": 59.942725, 
+        "longitude": 10.722889, 
+        "name": "Bak Niels Treschows hus nord", 
+        "timestamp": "2017-08-15T04:52:21.214000Z"
+      }, 
+      {
+        "empty_slots": 33, 
+        "extra": {
+          "placement": "i Kirkeveien", 
+          "uid": 337
+        }, 
+        "free_bikes": 2, 
+        "id": "ff2ef2314e5ac99cf3c6bbee8f657ef8", 
+        "latitude": 59.93602, 
+        "longitude": 10.736436, 
+        "name": "Ullev\u00e5l sykehus", 
+        "timestamp": "2017-08-15T04:52:21.218000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "placement": "ved D\u00e6lenenga Busstopp", 
+          "uid": 342
+        }, 
+        "free_bikes": 22, 
+        "id": "1bd9bc5a6cf82f41bb5618a33bbfafb0", 
+        "latitude": 59.927475, 
+        "longitude": 10.765904, 
+        "name": "Fagerheimgata", 
+        "timestamp": "2017-08-15T04:52:21.219000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "placement": "langs Kirkeveien", 
+          "uid": 344
+        }, 
+        "free_bikes": 2, 
+        "id": "7f294244585b0466a7ebcbc5426b0ef9", 
+        "latitude": 59.932156, 
+        "longitude": 10.723528, 
+        "name": "Marienlystparken", 
+        "timestamp": "2017-08-15T04:52:21.220000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "placement": "\u00d8st for Fridtjof Nansens plass", 
+          "uid": 354
+        }, 
+        "free_bikes": 0, 
+        "id": "710ac0ed91c4e786d785ee618690914f", 
+        "latitude": 59.912726, 
+        "longitude": 10.735698, 
+        "name": "Kjeld Stubs gate", 
+        "timestamp": "2017-08-15T04:52:21.222000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "placement": "ved Bygd\u00f8y all\u00e9", 
+          "uid": 366
+        }, 
+        "free_bikes": 17, 
+        "id": "6f3374df8d7cc8de1fd3c4bebadf5031", 
+        "latitude": 59.918532, 
+        "longitude": 10.703926, 
+        "name": "Elisenbergveien", 
+        "timestamp": "2017-08-15T04:52:21.223000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "placement": "ved Grensen", 
+          "uid": 371
+        }, 
+        "free_bikes": 0, 
+        "id": "1c6760f8c4afd337d06a7efebdd69886", 
+        "latitude": 59.913238, 
+        "longitude": 10.743624, 
+        "name": "Nedre Slottsgate", 
+        "timestamp": "2017-08-15T04:52:21.224000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "placement": "ved Pilestredet", 
+          "uid": 374
+        }, 
+        "free_bikes": 4, 
+        "id": "baa06f422f89897dda2307631f73c16c", 
+        "latitude": 59.917929, 
+        "longitude": 10.738698, 
+        "name": "St. Olavs gate", 
+        "timestamp": "2017-08-15T04:52:21.224000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "placement": "ved M\u00f8llergata", 
+          "uid": 377
+        }, 
+        "free_bikes": 2, 
+        "id": "5ae1f739e7b6deef5477ccc70bd7de15", 
+        "latitude": 59.913764, 
+        "longitude": 10.745701, 
+        "name": "Linaaes gate", 
+        "timestamp": "2017-08-15T04:52:21.226000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "placement": "ved Torggata", 
+          "uid": 378
+        }, 
+        "free_bikes": 2, 
+        "id": "c5300087280dcbc960f08007bf221664", 
+        "latitude": 59.913984, 
+        "longitude": 10.747434, 
+        "name": "Skr\u00e5ninga", 
+        "timestamp": "2017-08-15T04:52:21.228000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "placement": "ved Storgata", 
+          "uid": 379
+        }, 
+        "free_bikes": 0, 
+        "id": "7cba8da858350c5795d2dcc424a0cc86", 
+        "latitude": 59.914837, 
+        "longitude": 10.753622, 
+        "name": "Bernt Ankers gate", 
+        "timestamp": "2017-08-15T04:52:21.229000Z"
+      }
+    ]
+  }
+}

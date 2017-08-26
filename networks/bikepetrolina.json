@@ -1,0 +1,124 @@
+{
+  "network": {
+    "company": [
+      "Mobilicidade Tecnologia LTD", 
+      "Grupo Serttel LTDA"
+    ], 
+    "href": "/v2/networks/bikepetrolina", 
+    "id": "bikepetrolina", 
+    "location": {
+      "city": "Petrolina", 
+      "country": "BR", 
+      "latitude": -9.389049, 
+      "longitude": -40.502751
+    }, 
+    "name": "BikePetrolina", 
+    "stations": [
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Pra\u00e7a Dom Malan", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": 1
+        }, 
+        "free_bikes": 1, 
+        "id": "a02d1f954036a6fe345aaf7b05ea0c3a", 
+        "latitude": -9.3988934, 
+        "longitude": -40.500841, 
+        "name": "Catedral", 
+        "timestamp": "2017-08-15T04:48:07.423000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Av. Cardoso de S\u00e1", 
+          "slots": 14, 
+          "status": "maintenance/implementation", 
+          "uid": 3
+        }, 
+        "free_bikes": 0, 
+        "id": "c6d73887c1ecbcf1cc2f13f5aa962b08", 
+        "latitude": -9.3966495, 
+        "longitude": -40.480807, 
+        "name": "Facape", 
+        "timestamp": "2017-08-15T04:48:07.441000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Avenida Cardoso de Sa", 
+          "slots": 14, 
+          "status": "open", 
+          "uid": 4
+        }, 
+        "free_bikes": 1, 
+        "id": "c93fe00a5adf8a249decd5229cc429f4", 
+        "latitude": -9.4030665, 
+        "longitude": -40.500079, 
+        "name": "Orla 1", 
+        "timestamp": "2017-08-15T04:48:07.444000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Avenida Monsenhor Angelo Sampaio", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 8
+        }, 
+        "free_bikes": 3, 
+        "id": "1c32feb66d0f3f7465fa7b676a8e86d4", 
+        "latitude": -9.396713, 
+        "longitude": -40.491249, 
+        "name": "River Shopping", 
+        "timestamp": "2017-08-15T04:48:07.448000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Avenida Cardoso de Sa", 
+          "slots": 14, 
+          "status": "closed", 
+          "uid": 5
+        }, 
+        "free_bikes": 0, 
+        "id": "a92f95f3267d0320b5c3aa683a056840", 
+        "latitude": -9.402215, 
+        "longitude": -40.490858, 
+        "name": "Orla 2", 
+        "timestamp": "2017-08-15T04:48:07.445000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Avenida da Integracao", 
+          "slots": 12, 
+          "status": "open", 
+          "uid": 10
+        }, 
+        "free_bikes": 2, 
+        "id": "adc467540925e991fb47fbbc31ec6928", 
+        "latitude": -9.3894517, 
+        "longitude": -40.488717, 
+        "name": "Integra\u00e7\u00e3o", 
+        "timestamp": "2017-08-15T04:48:07.451000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Avenida Senador Darci Ribeiro", 
+          "slots": 14, 
+          "status": "closed", 
+          "uid": 2
+        }, 
+        "free_bikes": 2, 
+        "id": "1a028e685ba68b0441455f7e46cd3583", 
+        "latitude": -9.387792, 
+        "longitude": -40.500577, 
+        "name": "Parque Municipal", 
+        "timestamp": "2017-08-15T04:48:07.434000Z"
+      }
+    ]
+  }
+}

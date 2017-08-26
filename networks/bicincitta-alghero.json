@@ -1,0 +1,83 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-alghero", 
+    "id": "bicincitta-alghero", 
+    "location": {
+      "city": "Alghero", 
+      "country": "IT", 
+      "latitude": 40.5579517, 
+      "longitude": 8.319294900000001
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via Giosue` Carducci fronte Piazza della Mercede", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "2c636c1205acf559fa23358f90a34d22", 
+        "latitude": 40.5564537544295, 
+        "longitude": 8.317952641671127, 
+        "name": "Via Giovanni Ventitreesimo", 
+        "timestamp": "2017-08-15T04:48:42.436000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "via Carlo Alberto/Bastioni Cristoforo Colombo", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "b6a58a931e182a768125a88693c25e32", 
+        "latitude": 40.556213505355956, 
+        "longitude": 8.314706838518873, 
+        "name": "Piazza Sulis", 
+        "timestamp": "2017-08-15T04:48:42.443000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Porto Banchina Dogana", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "9486c4798ebef64446c5a4f63458291f", 
+        "latitude": 40.5601478054102, 
+        "longitude": 8.31534440947462, 
+        "name": "Via Garibaldi", 
+        "timestamp": "2017-08-15T04:48:42.444000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "description": "Via Don Minzoni - Stazione Ferroviaria", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "a70c5ccfd389d904d14942a18e99afa4", 
+        "latitude": 40.574201888548195, 
+        "longitude": 8.321997441451686, 
+        "name": "Parco Martin Luther King", 
+        "timestamp": "2017-08-15T04:48:42.445000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Loc. Fertilia - Citta` di Fondazione", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "ce7a4c5e305f9371f37732c14e40100b", 
+        "latitude": 40.59380899900865, 
+        "longitude": 8.284516276057502, 
+        "name": "Piazza Venezia Giulia", 
+        "timestamp": "2017-08-15T04:48:42.446000Z"
+      }
+    ]
+  }
+}

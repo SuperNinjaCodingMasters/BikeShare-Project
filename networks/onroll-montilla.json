@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-montilla", 
+    "id": "onroll-montilla", 
+    "location": {
+      "city": "Montilla", 
+      "country": "ES", 
+      "latitude": 37.584151, 
+      "longitude": -4.641359
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "38cda13cf8d1ea9135d50ba84f35f660", 
+        "latitude": 37.579693, 
+        "longitude": -4.647178, 
+        "name": "Estaci\u00f3n de Autobuses", 
+        "timestamp": "2017-08-15T04:47:01.307000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "f2538c3b2a8cc63bcc259ab39cbb1b84", 
+        "latitude": 37.59142, 
+        "longitude": -4.634027, 
+        "name": "La Redonda", 
+        "timestamp": "2017-08-15T04:47:01.309000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "f4867bbc201f6fd772c03955044f10b4", 
+        "latitude": 37.590447, 
+        "longitude": -4.637645, 
+        "name": "Plaza la Rosa", 
+        "timestamp": "2017-08-15T04:47:01.310000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "d63d5961f5fd6d552ba120c147942535", 
+        "latitude": 37.580203, 
+        "longitude": -4.653362, 
+        "name": "Polideportivo", 
+        "timestamp": "2017-08-15T04:47:01.311000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "c441e51b7886e9b39d3649ab14904619", 
+        "latitude": 37.578993, 
+        "longitude": -4.634582, 
+        "name": "Renfe", 
+        "timestamp": "2017-08-15T04:47:01.312000Z"
+      }
+    ]
+  }
+}

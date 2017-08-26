@@ -1,0 +1,35 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/ebikestation-ludwigsburg", 
+    "id": "ebikestation-ludwigsburg", 
+    "location": {
+      "city": "Ludwigsburg", 
+      "country": "DE", 
+      "latitude": 48.8941, 
+      "longitude": 9.19546
+    }, 
+    "name": "ebikestation", 
+    "stations": [
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "bike_uids": [
+            "91742"
+          ], 
+          "number": "5806", 
+          "slots": 12, 
+          "uid": "442052"
+        }, 
+        "free_bikes": 6, 
+        "id": "51c5eba2ab1be61ea096cdc16acf5934", 
+        "latitude": 48.892818278877, 
+        "longitude": 9.1853052377701, 
+        "name": "E-Bike-Station Ludwigsburg", 
+        "timestamp": "2017-08-15T04:48:39.589000Z"
+      }
+    ]
+  }
+}

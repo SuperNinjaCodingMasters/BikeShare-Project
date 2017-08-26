@@ -1,0 +1,224 @@
+{
+  "network": {
+    "company": "CleaNap", 
+    "href": "/v2/networks/bike-sharing-napoli", 
+    "id": "bike-sharing-napoli", 
+    "location": {
+      "city": "Napoli", 
+      "country": "IT", 
+      "latitude": 40.8517746, 
+      "longitude": 14.2681244
+    }, 
+    "name": "Bike Sharing Napoli", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Via Melisurgo", 
+          "online": true, 
+          "postalCode": 80133, 
+          "slots": 2, 
+          "uid": 129
+        }, 
+        "free_bikes": 2, 
+        "id": "9bede09735caf3b66d058e8242491a20", 
+        "latitude": 40.840543790048, 
+        "longitude": 14.2546322155, 
+        "name": "CleaNap demo LumiLab", 
+        "timestamp": "2016-10-06T04:51:00.949000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Piazza Garibaldi", 
+          "online": true, 
+          "postalCode": 80142, 
+          "slots": 12, 
+          "uid": 146
+        }, 
+        "free_bikes": 0, 
+        "id": "506efd631158261f3228e313815e555f", 
+        "latitude": 40.852910477695, 
+        "longitude": 14.27178494215, 
+        "name": "Stazione Centrale", 
+        "timestamp": "2016-10-06T04:51:00.952000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Piazza Vittoria", 
+          "online": true, 
+          "postalCode": 80121, 
+          "slots": 12, 
+          "uid": 147
+        }, 
+        "free_bikes": 0, 
+        "id": "aca173eee4785ae5a0d585fb1950366c", 
+        "latitude": 40.832446874282, 
+        "longitude": 14.240829567909, 
+        "name": "Piazza Vittoria", 
+        "timestamp": "2016-10-06T04:51:00.954000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Via Partenope", 
+          "online": true, 
+          "postalCode": 80121, 
+          "slots": 12, 
+          "uid": 148
+        }, 
+        "free_bikes": 0, 
+        "id": "a433258f68a8267a50a6031a946f2848", 
+        "latitude": 40.829886703798, 
+        "longitude": 14.248296167254, 
+        "name": "Castel dell'Ovo", 
+        "timestamp": "2016-10-06T04:51:00.955000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Largo Donnaregina", 
+          "online": true, 
+          "postalCode": 80138, 
+          "slots": 12, 
+          "uid": 149
+        }, 
+        "free_bikes": 0, 
+        "id": "ac996fda71ee886871bfea18f48b4731", 
+        "latitude": 40.853515057226, 
+        "longitude": 14.258993487358, 
+        "name": "Donnaregina", 
+        "timestamp": "2016-10-06T04:51:00.956000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Vico Donnaromita", 
+          "online": true, 
+          "postalCode": 80134, 
+          "slots": 12, 
+          "uid": 150
+        }, 
+        "free_bikes": 4, 
+        "id": "22ba4bae793b28b113139b21e60fa3ff", 
+        "latitude": 40.848444939237, 
+        "longitude": 14.25580165863, 
+        "name": "Piazzetta Nilo", 
+        "timestamp": "2016-10-06T04:51:00.956000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Piazza Bovio", 
+          "online": true, 
+          "postalCode": 80133, 
+          "slots": 12, 
+          "uid": 151
+        }, 
+        "free_bikes": 0, 
+        "id": "3172450a2f3d2deaeed0a9bc0b7e7ea6", 
+        "latitude": 40.843680825411, 
+        "longitude": 14.255807023048, 
+        "name": "Universit\\u00E0", 
+        "timestamp": "2016-10-06T04:51:00.957000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Piazza Dante", 
+          "online": true, 
+          "postalCode": 80134, 
+          "slots": 12, 
+          "uid": 152
+        }, 
+        "free_bikes": 0, 
+        "id": "0cba2b86cda63ef57202b89b435fc35f", 
+        "latitude": 40.848447982641, 
+        "longitude": 14.250008087158, 
+        "name": "Dante", 
+        "timestamp": "2016-10-06T04:51:00.958000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Via Diaz", 
+          "online": true, 
+          "postalCode": 80134, 
+          "slots": 12, 
+          "uid": 153
+        }, 
+        "free_bikes": 0, 
+        "id": "0ef2f823faf39b0657b9164ee535da19", 
+        "latitude": 40.84217827299, 
+        "longitude": 14.248975436688, 
+        "name": "Toledo", 
+        "timestamp": "2016-10-06T04:51:00.959000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Via B. Brin", 
+          "online": true, 
+          "postalCode": 80142, 
+          "slots": 12, 
+          "uid": 155
+        }, 
+        "free_bikes": 0, 
+        "id": "d10fc4c467edb2c50123d6da519563a1", 
+        "latitude": 40.846115679356, 
+        "longitude": 14.280773024559, 
+        "name": "Brin", 
+        "timestamp": "2016-10-06T04:51:00.961000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "", 
+          "online": true, 
+          "postalCode": 0, 
+          "slots": 2, 
+          "uid": 165
+        }, 
+        "free_bikes": 0, 
+        "id": "e0339faa718768bd432b1ab929a3f67f", 
+        "latitude": 40.850262841281, 
+        "longitude": 14.265575628281, 
+        "name": "CleaNap demo 2", 
+        "timestamp": "2016-10-06T04:51:00.962000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "", 
+          "online": true, 
+          "postalCode": 0, 
+          "slots": 4, 
+          "uid": 166
+        }, 
+        "free_bikes": 4, 
+        "id": "44951408d6f4bc1bf5fcc4378b7542be", 
+        "latitude": 40.850272985684, 
+        "longitude": 14.265833120346, 
+        "name": "CleaNap demo 3", 
+        "timestamp": "2016-10-06T04:51:00.963000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Via Vittorio Emanuele III", 
+          "online": true, 
+          "postalCode": 80133, 
+          "slots": 12, 
+          "uid": 154
+        }, 
+        "free_bikes": 0, 
+        "id": "7dbdf0449a7351944344743ed6ba991e", 
+        "latitude": 40.838861072611, 
+        "longitude": 14.251971464157, 
+        "name": "Maschio Angioino", 
+        "timestamp": "2016-10-06T04:51:00.960000Z"
+      }
+    ]
+  }
+}

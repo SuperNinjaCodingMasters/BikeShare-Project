@@ -1,0 +1,103 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/savona", 
+    "id": "savona", 
+    "location": {
+      "city": "Savona", 
+      "country": "IT", 
+      "latitude": 44.29516444397244, 
+      "longitude": 8.463126708984431
+    }, 
+    "name": "Savona", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Corso Stalingrado", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "45b2d6772784467819e12e8e8e938ad3", 
+        "latitude": 44.285675477982224, 
+        "longitude": 8.447228979948477, 
+        "name": "1. Centro polifunzionale Le Officine", 
+        "timestamp": "2017-08-15T04:46:12.951000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "2770cacf6919d612eeaab161e20db489", 
+        "latitude": 44.30213, 
+        "longitude": 8.479187, 
+        "name": "3. Parcheggio Piscina C.so Colombo", 
+        "timestamp": "2017-08-15T04:46:12.957000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 9, 
+        "id": "cc5dd622e9d3e559b3f1e0da01a85ccf", 
+        "latitude": 44.305652, 
+        "longitude": 8.483626, 
+        "name": "4. Priamar", 
+        "timestamp": "2017-08-15T04:46:12.959000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "9a7ff5ad91d2247286a1629c4eb5c7d4", 
+        "latitude": 44.30864902921702, 
+        "longitude": 8.476886686508124, 
+        "name": "5. Parcheggio di P.zza del Popolo", 
+        "timestamp": "2017-08-15T04:46:12.961000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "e5f28d2d6b01a8a8dd7f4213c59376c1", 
+        "latitude": 44.31676531453673, 
+        "longitude": 8.475136371163899, 
+        "name": "6. Giardini di Via Verdi", 
+        "timestamp": "2017-08-15T04:46:12.962000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "91b18beceff46a7b79856e7231afe154", 
+        "latitude": 44.30697170363818, 
+        "longitude": 8.47051472139583, 
+        "name": "7. Stazione FF.SS.", 
+        "timestamp": "2017-08-15T04:46:12.963000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "a4d0147449e2ae5ad4671add6e4ca07b", 
+        "latitude": 44.29847341737443, 
+        "longitude": 8.451526920723836, 
+        "name": "2. Campus Universita`", 
+        "timestamp": "2017-08-15T04:46:12.955000Z"
+      }
+    ]
+  }
+}

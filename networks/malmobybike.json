@@ -1,0 +1,732 @@
+{
+  "network": {
+    "company": [
+      "ClearChannel"
+    ], 
+    "href": "/v2/networks/malmobybike", 
+    "id": "malmobybike", 
+    "location": {
+      "city": "Malm\u00f6", 
+      "country": "SE", 
+      "latitude": 55.605, 
+      "longitude": 13.0038
+    }, 
+    "name": "Malm\u00f6 by bike", 
+    "stations": [
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Skeppsbron", 
+          "status": "OPN", 
+          "uid": 2
+        }, 
+        "free_bikes": 4, 
+        "id": "4ca728315818ae6203174c5c086b3133", 
+        "latitude": 55.608653, 
+        "longitude": 12.999267, 
+        "name": "Malm\u00f6 C S\u00f6dra", 
+        "timestamp": "2017-08-15T04:48:43.854000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Klerkgatan", 
+          "status": "OPN", 
+          "uid": 18
+        }, 
+        "free_bikes": 3, 
+        "id": "274f48bc1be7b2aa1033ffd68be5b5fd", 
+        "latitude": 55.593802, 
+        "longitude": 13.000469, 
+        "name": "Station Triangeln Norra", 
+        "timestamp": "2017-08-15T04:48:43.928000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Engelbrektsgatan", 
+          "status": "OPN", 
+          "uid": 4, 
+          "zip": "211 33"
+        }, 
+        "free_bikes": 0, 
+        "id": "8423395e38f3371739e2646972aae6f2", 
+        "latitude": 55.604206, 
+        "longitude": 12.997988, 
+        "name": "Engelbrektsgatan 13", 
+        "timestamp": "2017-08-15T04:48:43.862000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Stortorget", 
+          "status": "CLS", 
+          "uid": 5, 
+          "zip": "211 22"
+        }, 
+        "free_bikes": 0, 
+        "id": "e457d969b05a1b264bb1eb2f5a1ed31f", 
+        "latitude": 55.606473, 
+        "longitude": 12.999797, 
+        "name": "Stortorget", 
+        "timestamp": "2017-08-15T04:48:43.868000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Stadt Hamburgsgatan", 
+          "status": "OPN", 
+          "uid": 11
+        }, 
+        "free_bikes": 1, 
+        "id": "90a0e18104b4ed4a7ff3df88b76c3a02", 
+        "latitude": 55.602819, 
+        "longitude": 13.001999, 
+        "name": "Gustav Adolfs Torg", 
+        "timestamp": "2017-08-15T04:48:43.901000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Amiralsgatan", 
+          "status": "OPN", 
+          "uid": 19, 
+          "zip": "211 55"
+        }, 
+        "free_bikes": 19, 
+        "id": "64b9e8fd169752983d3ac5297ca3f66c", 
+        "latitude": 55.595789, 
+        "longitude": 13.012688, 
+        "name": "Folkets park", 
+        "timestamp": "2017-08-15T04:48:43.932000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Dockplatsen", 
+          "status": "OPN", 
+          "uid": 22
+        }, 
+        "free_bikes": 9, 
+        "id": "e378ec4f0230e1e419ce40ae8f176456", 
+        "latitude": 55.61459, 
+        "longitude": 12.990628, 
+        "name": "Isbergs gata", 
+        "timestamp": "2017-08-15T04:48:43.938000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Hamnparken", 
+          "status": "CLS", 
+          "uid": 23
+        }, 
+        "free_bikes": 9, 
+        "id": "24b2d38d1a6fbf536aad12316996afc2", 
+        "latitude": 55.616396, 
+        "longitude": 12.996309, 
+        "name": "Saltimporten", 
+        "timestamp": "2017-08-15T04:48:43.941000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Slagthuset", 
+          "status": "OPN", 
+          "uid": 24
+        }, 
+        "free_bikes": 6, 
+        "id": "89643887c812b8bf087d22de576534ef", 
+        "latitude": 55.611613, 
+        "longitude": 13.001289, 
+        "name": "J\u00f6rgen Kocksgatan", 
+        "timestamp": "2017-08-15T04:48:43.945000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Propellergatan", 
+          "status": "OPN", 
+          "uid": 29, 
+          "zip": "211 16"
+        }, 
+        "free_bikes": 3, 
+        "id": "be391dccb567affb9886e7be2be667c2", 
+        "latitude": 55.609704, 
+        "longitude": 12.975305, 
+        "name": "Propellergatan 9", 
+        "timestamp": "2017-08-15T04:48:43.951000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Mariedalsv\u00e4gen", 
+          "status": "OPN", 
+          "uid": 31
+        }, 
+        "free_bikes": 9, 
+        "id": "14f7a88caee41da0f6d0c994524956b2", 
+        "latitude": 55.605526, 
+        "longitude": 12.97845, 
+        "name": "Ribersborgsstigen", 
+        "timestamp": "2017-08-15T04:48:43.955000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Carl Gustafs V\u00e4g", 
+          "status": "OPN", 
+          "uid": 34
+        }, 
+        "free_bikes": 21, 
+        "id": "ae0824d2e9a1b5adc82d88dbaa683244", 
+        "latitude": 55.597234, 
+        "longitude": 12.989149, 
+        "name": "H\u00e4sthagens Idrottsplats", 
+        "timestamp": "2017-08-15T04:48:43.962000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Kilian Zollsgatan", 
+          "status": "OPN", 
+          "uid": 38
+        }, 
+        "free_bikes": 22, 
+        "id": "7d69201caa7b0782c133282be205bfd5", 
+        "latitude": 55.598435, 
+        "longitude": 12.971895, 
+        "name": "Fridhemstorget", 
+        "timestamp": "2017-08-15T04:48:43.970000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "V\u00e4rnhemstorget", 
+          "status": "OPN", 
+          "uid": 50
+        }, 
+        "free_bikes": 22, 
+        "id": "7dbe3d6e2454fb7ca03e7617fb62714f", 
+        "latitude": 55.605197, 
+        "longitude": 13.024834, 
+        "name": "Sallerupsv\u00e4gen 1", 
+        "timestamp": "2017-08-15T04:48:43.998000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "\u00d6stra Promenaden", 
+          "status": "OPN", 
+          "uid": 7, 
+          "zip": "211 28"
+        }, 
+        "free_bikes": 10, 
+        "id": "79efa1c50e11590e14ac2ab49a6db6a7", 
+        "latitude": 55.60821, 
+        "longitude": 13.012791, 
+        "name": "\u00d6stra Promenaden 3", 
+        "timestamp": "2017-08-15T04:48:43.878000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Stora Nygatan", 
+          "status": "OPN", 
+          "uid": 8, 
+          "zip": "211 37"
+        }, 
+        "free_bikes": 12, 
+        "id": "e4425871c5ba879ce15ec9e69e5ac6de", 
+        "latitude": 55.60428, 
+        "longitude": 13.009042, 
+        "name": "Stora Nygatan 5", 
+        "timestamp": "2017-08-15T04:48:43.880000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Kungsgatan", 
+          "status": "OPN", 
+          "uid": 14, 
+          "zip": "211 49"
+        }, 
+        "free_bikes": 16, 
+        "id": "7fc0a00804452f55b32d8546f589529c", 
+        "latitude": 55.602508, 
+        "longitude": 13.012087, 
+        "name": "Kungsgatan 13", 
+        "timestamp": "2017-08-15T04:48:43.908000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Nobeltorget", 
+          "status": "OPN", 
+          "uid": 48, 
+          "zip": "214 44"
+        }, 
+        "free_bikes": 15, 
+        "id": "9f6bd2db9be8eefb7e34a4d69d473398", 
+        "latitude": 55.591846, 
+        "longitude": 13.019084, 
+        "name": "Nobeltorget", 
+        "timestamp": "2017-08-15T04:48:43.990000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "status": "OPN", 
+          "uid": 1
+        }, 
+        "free_bikes": 10, 
+        "id": "c489798d0af94744818a5b428f7552fc", 
+        "latitude": 55.608988, 
+        "longitude": 12.999068, 
+        "name": "Malm\u00f6 C Norra", 
+        "timestamp": "2017-08-15T04:48:43.833000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "S\u00f6dra Promenaden", 
+          "status": "CLS", 
+          "uid": 10
+        }, 
+        "free_bikes": 0, 
+        "id": "598101093b10fc628ebca091e428a98d", 
+        "latitude": 55.602445, 
+        "longitude": 13.004046, 
+        "name": "Raoul Wallenbergs park", 
+        "timestamp": "2017-08-15T04:48:43.896000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Storgatan", 
+          "status": "OPN", 
+          "uid": 12, 
+          "zip": "211 42"
+        }, 
+        "free_bikes": 3, 
+        "id": "afeb106f96f896f6a7d97825a03c2d62", 
+        "latitude": 55.599895, 
+        "longitude": 13.00174, 
+        "name": "Storgatan 22", 
+        "timestamp": "2017-08-15T04:48:43.905000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Kaptensgatan", 
+          "status": "OPN", 
+          "uid": 15
+        }, 
+        "free_bikes": 0, 
+        "id": "bfba3c7be8fd9c73b26cf40403612a74", 
+        "latitude": 55.598568, 
+        "longitude": 13.006238, 
+        "name": "Stadshuset", 
+        "timestamp": "2017-08-15T04:48:43.918000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Sp\u00e5ngtatan", 
+          "status": "OPN", 
+          "uid": 16
+        }, 
+        "free_bikes": 11, 
+        "id": "35fd389752703246697b0a8c33c55565", 
+        "latitude": 55.595573, 
+        "longitude": 13.003222, 
+        "name": "S\u00f6dra F\u00f6rstadsgatan 54", 
+        "timestamp": "2017-08-15T04:48:43.920000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Pildammsv\u00e4gen", 
+          "status": "OPN", 
+          "uid": 17
+        }, 
+        "free_bikes": 5, 
+        "id": "b911ce5c6715030cb25c59e5521a6758", 
+        "latitude": 55.595452, 
+        "longitude": 12.997083, 
+        "name": "Malm\u00f6 IP", 
+        "timestamp": "2017-08-15T04:48:43.921000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Riggaregatan", 
+          "status": "OPN", 
+          "uid": 20, 
+          "zip": "211 14"
+        }, 
+        "free_bikes": 12, 
+        "id": "197af97e5d7bb994f38e2fd46b0ed64b", 
+        "latitude": 55.61671, 
+        "longitude": 12.975123, 
+        "name": "Scaniabadet", 
+        "timestamp": "2017-08-15T04:48:43.933000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Stapelb\u00e4ddsparken", 
+          "status": "OPN", 
+          "uid": 21
+        }, 
+        "free_bikes": 9, 
+        "id": "c3710c2f717c103cab809b3a0fa9fa41", 
+        "latitude": 55.614421, 
+        "longitude": 12.985057, 
+        "name": "\u00d6stra Varvsgatan 9", 
+        "timestamp": "2017-08-15T04:48:43.937000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Masttorget", 
+          "status": "OPN", 
+          "uid": 27, 
+          "zip": "211 19"
+        }, 
+        "free_bikes": 9, 
+        "id": "feb8f0301ef4d57339729847eee28c34", 
+        "latitude": 55.611245, 
+        "longitude": 12.980829, 
+        "name": "Masttorget", 
+        "timestamp": "2017-08-15T04:48:43.948000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Turning Torso", 
+          "status": "OPN", 
+          "uid": 28
+        }, 
+        "free_bikes": 12, 
+        "id": "02b545e6a3974ee6dc299330191f6bb9", 
+        "latitude": 55.613022, 
+        "longitude": 12.97619, 
+        "name": "Lilla Varvsgatan 14", 
+        "timestamp": "2017-08-15T04:48:43.950000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Ribersborgsstigen", 
+          "status": "OPN", 
+          "uid": 30
+        }, 
+        "free_bikes": 8, 
+        "id": "ec290e73fe93078e46fcd515e3a7fe19", 
+        "latitude": 55.602579, 
+        "longitude": 12.967902, 
+        "name": "Ribersborg Kallbadhus", 
+        "timestamp": "2017-08-15T04:48:43.953000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Malm\u00f6hus slott", 
+          "status": "OPN", 
+          "uid": 32
+        }, 
+        "free_bikes": 5, 
+        "id": "359838aaa42a4f3b7d47b51958cd4a30", 
+        "latitude": 55.605515, 
+        "longitude": 12.986185, 
+        "name": "Malm\u00f6husv\u00e4gen", 
+        "timestamp": "2017-08-15T04:48:43.958000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Kung Oskars V\u00e4g", 
+          "status": "OPN", 
+          "uid": 33
+        }, 
+        "free_bikes": 10, 
+        "id": "bd40bd5caba3099612dbaf242cae4e8f", 
+        "latitude": 55.600942, 
+        "longitude": 12.994013, 
+        "name": "Stadsbiblioteket", 
+        "timestamp": "2017-08-15T04:48:43.959000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Regementsgatan", 
+          "status": "OPN", 
+          "uid": 35
+        }, 
+        "free_bikes": 20, 
+        "id": "858d7bf820fd8d64d6c2c0b09e913e2e", 
+        "latitude": 55.598935, 
+        "longitude": 12.985461, 
+        "name": "Kronprinsen", 
+        "timestamp": "2017-08-15T04:48:43.965000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Regementsgatan", 
+          "status": "OPN", 
+          "uid": 36
+        }, 
+        "free_bikes": 23, 
+        "id": "f465d8dc2f60e8d6fb8ea1528e854b95", 
+        "latitude": 55.598213, 
+        "longitude": 12.978725, 
+        "name": "Skvadronsgatan", 
+        "timestamp": "2017-08-15T04:48:43.966000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Beridaregatan", 
+          "status": "OPN", 
+          "uid": 37
+        }, 
+        "free_bikes": 16, 
+        "id": "b16cc22813790d8f455041dbe2fd3ade", 
+        "latitude": 55.595636, 
+        "longitude": 12.977606, 
+        "name": "R\u00f6nneholmsparken", 
+        "timestamp": "2017-08-15T04:48:43.968000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Smedjegatan", 
+          "status": "OPN", 
+          "uid": 39
+        }, 
+        "free_bikes": 12, 
+        "id": "3b57a623806e606c34d3798d9677d158", 
+        "latitude": 55.591853, 
+        "longitude": 13.002662, 
+        "name": "Station Triangeln S\u00f6dra", 
+        "timestamp": "2017-08-15T04:48:43.975000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Ystadsgatan", 
+          "status": "OPN", 
+          "uid": 40
+        }, 
+        "free_bikes": 25, 
+        "id": "4ac97a1fba3f7f39d04f067a436e02fc", 
+        "latitude": 55.591241, 
+        "longitude": 13.008527, 
+        "name": "M\u00f6llev\u00e5ngstorget", 
+        "timestamp": "2017-08-15T04:48:43.977000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Carl Gustafs V\u00e4g", 
+          "status": "OPN", 
+          "uid": 41
+        }, 
+        "free_bikes": 7, 
+        "id": "50144562f85b59adf7f3cf5c29b3b5ec", 
+        "latitude": 55.589533, 
+        "longitude": 13.005177, 
+        "name": "S\u00f6derv\u00e4rn V\u00e4ste", 
+        "timestamp": "2017-08-15T04:48:43.978000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Sp\u00e5rv\u00e4gsgatan", 
+          "status": "OPN", 
+          "uid": 42
+        }, 
+        "free_bikes": 9, 
+        "id": "5b90c3b8437395e79e3b8a72136d30b6", 
+        "latitude": 55.587931, 
+        "longitude": 13.008863, 
+        "name": "S\u00f6derv\u00e4rn \u00f6ster", 
+        "timestamp": "2017-08-15T04:48:43.982000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "S\u00f6dra F\u00f6rstadsgatan", 
+          "status": "OPN", 
+          "uid": 43
+        }, 
+        "free_bikes": 22, 
+        "id": "ec4d07197ce188b771d5408ab562c815", 
+        "latitude": 55.586, 
+        "longitude": 13.005629, 
+        "name": "Flensburgsgatan", 
+        "timestamp": "2017-08-15T04:48:43.983000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Ystadv\u00e4gen", 
+          "status": "OPN", 
+          "uid": 44
+        }, 
+        "free_bikes": 8, 
+        "id": "06b0b50c3bc54b69351ac508b1f56cca", 
+        "latitude": 55.582513, 
+        "longitude": 13.014665, 
+        "name": "Sevedsplan", 
+        "timestamp": "2017-08-15T04:48:43.984000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Ystadv\u00e4gen", 
+          "status": "OPN", 
+          "uid": 45
+        }, 
+        "free_bikes": 14, 
+        "id": "7e436cf717fe984c996184a9f5ab9fb3", 
+        "latitude": 55.579701, 
+        "longitude": 13.01976, 
+        "name": "Lantmannagatan", 
+        "timestamp": "2017-08-15T04:48:43.984000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Per Albin Hanssons v\u00e4g 34", 
+          "status": "OPN", 
+          "uid": 46
+        }, 
+        "free_bikes": 14, 
+        "id": "0167364359af0ae4bcc76a1b22b394e0", 
+        "latitude": 55.581326, 
+        "longitude": 13.002729, 
+        "name": "Mobillia", 
+        "timestamp": "2017-08-15T04:48:43.988000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "John Ericssons V\u00e4g", 
+          "status": "OPN", 
+          "uid": 47
+        }, 
+        "free_bikes": 9, 
+        "id": "734f7037075be111268d9993705c5b7b", 
+        "latitude": 55.58745, 
+        "longitude": 12.991929, 
+        "name": "Pildammsparken", 
+        "timestamp": "2017-08-15T04:48:43.989000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "\u00d6stergatan", 
+          "status": "OPN", 
+          "uid": 6, 
+          "zip": "211 25"
+        }, 
+        "free_bikes": 3, 
+        "id": "b948a5ff147e668098bddef993df7f77", 
+        "latitude": 55.607822, 
+        "longitude": 13.008515, 
+        "name": "\u00d6stergatan 1", 
+        "timestamp": "2017-08-15T04:48:43.871000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Snapperupsgatan", 
+          "status": "OPN", 
+          "uid": 9
+        }, 
+        "free_bikes": 6, 
+        "id": "1766f701e6ec04eca7c538b791548190", 
+        "latitude": 55.605143, 
+        "longitude": 13.006851, 
+        "name": "Baltzargatan", 
+        "timestamp": "2017-08-15T04:48:43.892000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Hj\u00e4lmaregatan", 
+          "status": "OPN", 
+          "uid": 3, 
+          "zip": "211 18"
+        }, 
+        "free_bikes": 2, 
+        "id": "3fa233fb5f0ff1cb3a5f7a0e83511517", 
+        "latitude": 55.608114, 
+        "longitude": 12.996749, 
+        "name": "Bagers plats", 
+        "timestamp": "2017-08-15T04:48:43.861000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Nordenski\u00f6ldsgatan", 
+          "status": "OPN", 
+          "uid": 25, 
+          "zip": "211 19"
+        }, 
+        "free_bikes": 0, 
+        "id": "a551d98e6942395573d1f941ce104224", 
+        "latitude": 55.609787, 
+        "longitude": 12.994949, 
+        "name": "Nordenski\u00f6ldsgatan 8", 
+        "timestamp": "2017-08-15T04:48:43.946000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Stora Varvsgatan", 
+          "status": "OPN", 
+          "uid": 26
+        }, 
+        "free_bikes": 1, 
+        "id": "0769495ee9937fab188ce69e783abd57", 
+        "latitude": 55.612445, 
+        "longitude": 12.993135, 
+        "name": "Klaffbron", 
+        "timestamp": "2017-08-15T04:48:43.947000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Kungsgatan", 
+          "status": "OPN", 
+          "uid": 13, 
+          "zip": "211 49"
+        }, 
+        "free_bikes": 2, 
+        "id": "c281d9b1d5795fb2eedb55cdcb5ae096", 
+        "latitude": 55.60055, 
+        "longitude": 13.006779, 
+        "name": "Kungsgatan 6", 
+        "timestamp": "2017-08-15T04:48:43.906000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "R\u00f6nnen", 
+          "status": "OPN", 
+          "uid": 49
+        }, 
+        "free_bikes": 14, 
+        "id": "87b3652482a8612017e951e513f7f4b2", 
+        "latitude": 55.600702, 
+        "longitude": 13.027552, 
+        "name": "Celsiusgatan 29", 
+        "timestamp": "2017-08-15T04:48:43.993000Z"
+      }
+    ]
+  }
+}

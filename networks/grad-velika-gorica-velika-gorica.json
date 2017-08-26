@@ -1,0 +1,58 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/grad-velika-gorica-velika-gorica", 
+    "id": "grad-velika-gorica-velika-gorica", 
+    "location": {
+      "city": "Velika Gorica", 
+      "country": "HR", 
+      "latitude": 45.7161, 
+      "longitude": 16.0683
+    }, 
+    "name": "Grad Velika Gorica", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "80367", 
+            "80366", 
+            "80363", 
+            "80360"
+          ], 
+          "number": "2362", 
+          "slots": 2, 
+          "uid": "3253159"
+        }, 
+        "free_bikes": 4, 
+        "id": "a34b6e13d45fdb32ced1aff058f6a3bf", 
+        "latitude": 45.717176980336, 
+        "longitude": 16.056615114212, 
+        "name": "VG Gori\u010danka", 
+        "timestamp": "2017-08-15T04:49:58.442000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "80365", 
+            "80364", 
+            "80362", 
+            "80361"
+          ], 
+          "number": "2363", 
+          "slots": 2, 
+          "uid": "3253192"
+        }, 
+        "free_bikes": 4, 
+        "id": "b6bbbbdc3f7c013ad37df7e590ffedf5", 
+        "latitude": 45.712951963866, 
+        "longitude": 16.077525615692, 
+        "name": "Trg kralja Tomislava", 
+        "timestamp": "2017-08-15T04:49:58.445000Z"
+      }
+    ]
+  }
+}

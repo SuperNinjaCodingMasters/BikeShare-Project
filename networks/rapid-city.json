@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Trek Bicycle Corporation", 
+      "Humana", 
+      "Crispin Porter + Bogusky"
+    ], 
+    "href": "/v2/networks/rapid-city", 
+    "id": "rapid-city", 
+    "location": {
+      "city": "Rapid City, SD", 
+      "country": "US", 
+      "latitude": 44.076, 
+      "longitude": -103.228
+    }, 
+    "name": "Rapid City B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "512 Main St, Rapid City, SD 57701"
+        }, 
+        "free_bikes": 6, 
+        "id": "cd6e902c9d5d4f3b185194ab76b62e8e", 
+        "latitude": 44.08185, 
+        "longitude": -103.22655, 
+        "name": "Main Street Square", 
+        "timestamp": "2017-04-27T02:30:23.353000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "PC Commons 501 St Joseph St, Rapid City, SD 57701"
+        }, 
+        "free_bikes": 4, 
+        "id": "f923861eca1814412572bf4d7e647f15", 
+        "latitude": 44.07434, 
+        "longitude": -103.20808, 
+        "name": "South Dakota School of Mines and Technology", 
+        "timestamp": "2017-04-27T02:30:23.355000Z"
+      }
+    ]
+  }
+}

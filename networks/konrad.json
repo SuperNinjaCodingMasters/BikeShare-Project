@@ -1,0 +1,598 @@
+{
+  "network": {
+    "company": [
+      "DB Rent GmbH"
+    ], 
+    "href": "/v2/networks/konrad", 
+    "id": "konrad", 
+    "location": {
+      "city": "Kassel", 
+      "country": "DE", 
+      "latitude": 51.3148861, 
+      "longitude": 9.4606148
+    }, 
+    "name": "Konrad", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "9f4487596d8197983ed9350173b5590c", 
+        "latitude": 51.31888888888889, 
+        "longitude": 9.474722222222223, 
+        "name": "203 Schenkendorfstr. / DJH", 
+        "timestamp": "2017-02-22T13:15:01.626000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 9, 
+        "id": "4b82127eb7dedde22174627edebaf282", 
+        "latitude": 51.31416666666667, 
+        "longitude": 9.472222222222221, 
+        "name": "205 Goethestr. / Querallee", 
+        "timestamp": "2017-02-22T13:15:01.627000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "13364f572e8a94d61cad58fda58f6873", 
+        "latitude": 51.31166666666667, 
+        "longitude": 9.474444444444444, 
+        "name": "206 Uni-Kassel / Murhardstra\u00dfe-Wilhelmsh\u00f6her Allee", 
+        "timestamp": "2017-02-22T13:15:01.628000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "9adf038b53dcdc92e5b180e83166c0c0", 
+        "latitude": 51.31444444444445, 
+        "longitude": 9.485277777777778, 
+        "name": "201 Karth\u00e4user Str. / FES", 
+        "timestamp": "2017-02-22T13:15:01.629000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "8ff6db89c1ec6503b0e2e1acf38f0c16", 
+        "latitude": 51.31583333333333, 
+        "longitude": 9.468055555555555, 
+        "name": "204 Friedenskirche / FES", 
+        "timestamp": "2017-02-22T13:15:01.630000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "2a8222745af35e47e596669bf4c7adc6", 
+        "latitude": 51.31111111111111, 
+        "longitude": 9.485277777777778, 
+        "name": "108 Volkshochschule-VHS / Wilhelmsh\u00f6her Allee", 
+        "timestamp": "2017-02-22T13:15:01.631000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "bfc3e84129dc1b0844551eab4f673ae0", 
+        "latitude": 51.3125, 
+        "longitude": 9.488333333333333, 
+        "name": "109 K\u00f6nigstor / St\u00e4dtische Werke", 
+        "timestamp": "2017-02-22T13:15:01.635000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "a79320667b7ca2ad35ac43c6d27bec9b", 
+        "latitude": 51.31388888888889, 
+        "longitude": 9.490277777777777, 
+        "name": "107 Wilhelmsstr. / St\u00e4ndepl.", 
+        "timestamp": "2017-02-22T13:15:01.636000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "db6f01e96591aa30756333f6882ea862", 
+        "latitude": 51.3175, 
+        "longitude": 9.490833333333333, 
+        "name": "110 Hauptbahnhof / Rainer-Dierichs-Platz", 
+        "timestamp": "2017-02-22T13:15:01.638000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "183392a63e47f32bf4e061ae751ad5ba", 
+        "latitude": 51.31194444444444, 
+        "longitude": 9.465, 
+        "name": "209 Haltestelle Kirchweg/Wilhelmsh\u00f6her Allee", 
+        "timestamp": "2017-02-22T13:15:01.642000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "7daad21e06b858c0f916d8504524389f", 
+        "latitude": 51.30916666666667, 
+        "longitude": 9.468055555555555, 
+        "name": "210 Georg-Stock-Platz / Kohlenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.649000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "2273e10a695ba95e98de1720217f62fe", 
+        "latitude": 51.31444444444445, 
+        "longitude": 9.463055555555556, 
+        "name": "208 Diakonie-Kliniken / Goethestra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.655000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "1acfe0c251be1eb0f064ab7e4bad1f36", 
+        "latitude": 51.32527777777778, 
+        "longitude": 9.474444444444444, 
+        "name": "309 Engelhardstra\u00dfe / Wolfhager Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.660000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 9, 
+        "id": "af91613f9b7d4f0530f5496a402cf445", 
+        "latitude": 51.31222222222222, 
+        "longitude": 9.493055555555555, 
+        "name": "106 Rathaus / Wilhelmsstr.", 
+        "timestamp": "2017-02-22T13:15:01.664000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 0, 
+        "id": "1f63231120bc9731d1f237e60ee71ba8", 
+        "latitude": 51.31333333333333, 
+        "longitude": 9.494444444444444, 
+        "name": "104 Friedrichsplatz", 
+        "timestamp": "2017-02-22T13:15:01.669000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "c8bd888ccac5789fcc907b87e1666f72", 
+        "latitude": 51.31555555555556, 
+        "longitude": 9.46, 
+        "name": "207 Stadthalle / FES", 
+        "timestamp": "2017-02-22T13:15:01.671000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "f573019b860f95026654e17fde827861", 
+        "latitude": 51.31555555555556, 
+        "longitude": 9.496666666666666, 
+        "name": "101 K\u00f6nigsplatz  West", 
+        "timestamp": "2017-02-22T13:15:01.673000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "81f284ba6da00019a302eb71b1ce771e", 
+        "latitude": 51.320754, 
+        "longitude": 9.495327, 
+        "name": "111 Schillerstra\u00dfe / Sickingenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.676000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 15, 
+        "id": "b511a87acaa430b449357360da5a8788", 
+        "latitude": 51.31527777777778, 
+        "longitude": 9.498333333333333, 
+        "name": "102 K\u00f6nigsplatz Ost", 
+        "timestamp": "2017-02-22T13:15:01.681000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "3b7245aa5e77456948730ffc0698e484", 
+        "latitude": 51.31194444444444, 
+        "longitude": 9.498333333333333, 
+        "name": "105 Staatstheater/Unterer Friedrichsplatz", 
+        "timestamp": "2017-02-22T13:15:01.683000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "f72e335af51f0a02e33317e623e935e3", 
+        "latitude": 51.30361111111111, 
+        "longitude": 9.486944444444445, 
+        "name": "502 Uni-Kassel / Menzelstr.", 
+        "timestamp": "2017-02-22T13:15:01.685000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "28e3dbe79a222f6d93dbd21617f70bce", 
+        "latitude": 51.31166666666667, 
+        "longitude": 9.454722222222223, 
+        "name": "211 Rotes Kreuz / Hansteinstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.687000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "459fc1024dfbb722301afbf099b654fa", 
+        "latitude": 51.315, 
+        "longitude": 9.501666666666667, 
+        "name": "103 Markthalle / Graben", 
+        "timestamp": "2017-02-22T13:15:01.688000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "036eff90f8b340154cffa47a9946fafd", 
+        "latitude": 51.308043, 
+        "longitude": 9.453924, 
+        "name": "217 Am Heimbach / Kohlenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.703000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "5f92bddba6d9f727d27602c0f320c6a3", 
+        "latitude": 51.32138888888889, 
+        "longitude": 9.50361111111111, 
+        "name": "306 Uni-Kassel / Diagonale", 
+        "timestamp": "2017-02-22T13:15:01.706000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "cdac786d7b83d4661a661778e47f31f2", 
+        "latitude": 51.29861111111111, 
+        "longitude": 9.481111111111112, 
+        "name": "503 Auestadion", 
+        "timestamp": "2017-02-22T13:15:01.715000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "2d62267fbfba76e1e0a84d4840fd4088", 
+        "latitude": 51.32666666666667, 
+        "longitude": 9.5, 
+        "name": "305 Mombachstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.718000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "cb9b7061fc56dcd3661efc377b64d00c", 
+        "latitude": 51.32444444444445, 
+        "longitude": 9.45138888888889, 
+        "name": "311 Kirchditmold", 
+        "timestamp": "2017-02-22T13:15:01.720000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "3944228fda0d07bac4344f6cd76e9b73", 
+        "latitude": 51.31305555555556, 
+        "longitude": 9.508611111111112, 
+        "name": "403 Unterneustadt", 
+        "timestamp": "2017-02-22T13:15:01.723000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 11, 
+        "id": "0878f72973cc63faf225f9736454d308", 
+        "latitude": 51.31277777777778, 
+        "longitude": 9.445833333333333, 
+        "name": "212 ICE Bahnhof / Willy-Brandt-Platz", 
+        "timestamp": "2017-02-22T13:15:01.729000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 8, 
+        "id": "6b6ef1bec7598516fcbe1b837f9e6953", 
+        "latitude": 51.30027777777778, 
+        "longitude": 9.499444444444444, 
+        "name": "501 Schwimmbad Auedamm", 
+        "timestamp": "2017-02-22T13:15:01.734000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "da13be60da9c41d0c907be480bf12ac7", 
+        "latitude": 51.32722222222223, 
+        "longitude": 9.509166666666667, 
+        "name": "304 Klinikum Kassel / M\u00f6nchebergstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.740000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "08f77f7f6f54f4000d2adf9152136ef5", 
+        "latitude": 51.32277777777778, 
+        "longitude": 9.512777777777778, 
+        "name": "303 Weserspitze / Weserstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.745000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 1, 
+        "id": "56b8991b67c32e971f815087f7007e2a", 
+        "latitude": 51.30472222222222, 
+        "longitude": 9.443888888888889, 
+        "name": "506 Marbachsh\u00f6he / Marie-Calm-Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.750000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "b3561da060cc4d6afb68b42dbde5824d", 
+        "latitude": 51.34, 
+        "longitude": 9.480277777777777, 
+        "name": "308 Holl\u00e4ndische Str. / KVG", 
+        "timestamp": "2017-02-22T13:15:01.755000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "6eaf3a3707e091dd89052233df5d1ebf", 
+        "latitude": 51.338563, 
+        "longitude": 9.493329, 
+        "name": "314 Hegelsbergstra\u00dfe / Bunsenstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.759000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "d8691bd1ffac59713e4ceacecc3a23d1", 
+        "latitude": 51.33916666666666, 
+        "longitude": 9.463333333333333, 
+        "name": "310 Waldecker Str. / Jungfernkopf", 
+        "timestamp": "2017-02-22T13:15:01.763000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "0ceb08b2ac60a56e42f1da02d1ea19b0", 
+        "latitude": 51.295367, 
+        "longitude": 9.452566, 
+        "name": "509 Rh\u00f6nplatz / Eugen-Richter-Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.770000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "cc0581d31b2aa42a8141b8a2625e4b3b", 
+        "latitude": 51.28972222222222, 
+        "longitude": 9.472777777777777, 
+        "name": "505 Leuschnerstra\u00dfe / DEZ-Frankfurter Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.774000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 12, 
+        "id": "1112457ffc0669658bfa0e42c1cacc9a", 
+        "latitude": 51.30914, 
+        "longitude": 9.518756, 
+        "name": "406 Sandersh\u00e4user Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.776000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "b79d3adfa10cd6a3b9e4424a4bc21ea5", 
+        "latitude": 51.314351, 
+        "longitude": 9.430819, 
+        "name": "218 Hess.Rundfunk/KVG", 
+        "timestamp": "2017-02-22T13:15:01.778000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "d9c6792fc305bf57d98ff89c2fb202b8", 
+        "latitude": 51.284697, 
+        "longitude": 9.468852, 
+        "name": "504 Dennh\u00e4user Str. / Frankfurter Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.781000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "797005d0ff4551569d362577caaf2ce6", 
+        "latitude": 51.33638888888889, 
+        "longitude": 9.438333333333333, 
+        "name": "312 Karlshafener Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.783000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "c64591e935ef5b64e0e2b3753bce139f", 
+        "latitude": 51.3075, 
+        "longitude": 9.426111111111112, 
+        "name": "214 Freibad Wilhelmsh\u00f6he / Baunsbergstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.785000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "ab5e4811db22fd36ca21a4d21071faaa", 
+        "latitude": 51.33916666666666, 
+        "longitude": 9.516944444444444, 
+        "name": "302 Ihringsh\u00e4user Str. / KVG", 
+        "timestamp": "2017-02-22T13:15:01.787000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "6e168e0fc727c2929e3029fea91c0997", 
+        "latitude": 51.31527777777778, 
+        "longitude": 9.423333333333334, 
+        "name": "213 Wilhelmsh. / Bergpark", 
+        "timestamp": "2017-02-22T13:15:01.789000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 11, 
+        "id": "5df6eb886a20e9c5c41bf19a2f09668f", 
+        "latitude": 51.32805555555556, 
+        "longitude": 9.529722222222222, 
+        "name": "301 Wolfsgraben / Fuldatalstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.804000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "dbd67585381aac3484c3b3868bf2ac98", 
+        "latitude": 51.28995, 
+        "longitude": 9.515127, 
+        "name": "404 Alt Waldau / N\u00fcrnberger Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.822000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "3a520ad3adb8ad18a096ab00269d5892", 
+        "latitude": 51.30277777777778, 
+        "longitude": 9.530833333333334, 
+        "name": "401 Leipziger Platz", 
+        "timestamp": "2017-02-22T13:15:01.830000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "b8a7ed03c3da01c9b254d42e334dcbbd", 
+        "latitude": 51.31305555555556, 
+        "longitude": 9.536388888888888, 
+        "name": "402 Salzmannshausen / SMA", 
+        "timestamp": "2017-02-22T13:15:01.837000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 2, 
+        "id": "99cdf8c6f6745fb101f8b14aa848ccf5", 
+        "latitude": 51.34027777777778, 
+        "longitude": 9.429166666666667, 
+        "name": "313 Schwimmbad Harlesh.", 
+        "timestamp": "2017-02-22T13:15:01.852000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "ec2c8905c16a6368df8a5833c41f310a", 
+        "latitude": 51.280278, 
+        "longitude": 9.446111, 
+        "name": "507 Uni-Kassel / Heinrich-Plett-Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.860000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "6579803b06b4222568ff95d996c4bd0c", 
+        "latitude": 51.30083333333334, 
+        "longitude": 9.413333333333334, 
+        "name": "508 Druseltalstra\u00dfe, Wendeschleife", 
+        "timestamp": "2017-02-22T13:15:01.864000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 6, 
+        "id": "938a81790672a93d02056f665a0c8bc8", 
+        "latitude": 51.274521, 
+        "longitude": 9.448309, 
+        "name": "510 Brandgasse / Altenbaunaer Stra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.872000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 3, 
+        "id": "36cc07adbcd17546430b5f71b1b50a2d", 
+        "latitude": 51.277203, 
+        "longitude": 9.525462, 
+        "name": "405 IKEA Kassel-Waldau", 
+        "timestamp": "2017-02-22T13:15:01.886000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 4, 
+        "id": "6c8ad26ae941f3b251182dcea49ee682", 
+        "latitude": 51.309353, 
+        "longitude": 9.489875, 
+        "name": "113 GRIMMWELT", 
+        "timestamp": "2017-02-22T13:15:01.662000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 5, 
+        "id": "ab946c46569b4c69ad5048f372f93e72", 
+        "latitude": 51.32111111111111, 
+        "longitude": 9.5025, 
+        "name": "307 Uni-Kassel / HoPla-Henschelstra\u00dfe", 
+        "timestamp": "2017-02-22T13:15:01.699000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {}, 
+        "free_bikes": 7, 
+        "id": "6a7e42725be8f56575610ef92eb8ad3f", 
+        "latitude": 51.31527777777778, 
+        "longitude": 9.4775, 
+        "name": "202 Annastra\u00dfe / Friedrich-Ebert-Str.", 
+        "timestamp": "2017-02-22T13:15:01.623000Z"
+      }
+    ]
+  }
+}

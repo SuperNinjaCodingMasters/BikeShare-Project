@@ -1,0 +1,60 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-quickborn", 
+    "id": "nextbike-quickborn", 
+    "location": {
+      "city": "Quickborn", 
+      "country": "DE", 
+      "latitude": 53.7333, 
+      "longitude": 9.90272
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "11045", 
+            "11044", 
+            "11042", 
+            "11041", 
+            "11038"
+          ], 
+          "number": "2798", 
+          "slots": 18, 
+          "uid": "322426"
+        }, 
+        "free_bikes": 5, 
+        "id": "4c203db8d55bd1885afeb2c351c6671b", 
+        "latitude": 53.755171927758, 
+        "longitude": 9.943715929985, 
+        "name": "P+R Parkplatz (Tanneneck)", 
+        "timestamp": "2017-08-15T04:48:46.077000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "02417", 
+            "11043", 
+            "11040", 
+            "11035", 
+            "11027"
+          ], 
+          "number": "2799", 
+          "slots": 20, 
+          "uid": "322422"
+        }, 
+        "free_bikes": 6, 
+        "id": "c30f03d9a6464a66455c31d6a6e8c009", 
+        "latitude": 53.745475100237, 
+        "longitude": 9.9433350563049, 
+        "name": "Pascalkehre", 
+        "timestamp": "2017-08-15T04:48:46.065000Z"
+      }
+    ]
+  }
+}

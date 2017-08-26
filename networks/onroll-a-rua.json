@@ -1,0 +1,50 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-a-rua", 
+    "id": "onroll-a-rua", 
+    "location": {
+      "city": "A R\u00faa", 
+      "country": "ES", 
+      "latitude": 42.392049, 
+      "longitude": -7.114634
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "acc9630d8aac1018c3fd2ccac1dab0f1", 
+        "latitude": 42.389167, 
+        "longitude": -7.115135, 
+        "name": "O Aguill\u00f3n", 
+        "timestamp": "2017-08-15T04:46:33.049000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "f268d12b83d14992d271d9713ecf2185", 
+        "latitude": 42.394931, 
+        "longitude": -7.114133, 
+        "name": "Praza Jos\u00e9 A. M\u00fdguez", 
+        "timestamp": "2017-08-15T04:46:33.056000Z"
+      }
+    ]
+  }
+}

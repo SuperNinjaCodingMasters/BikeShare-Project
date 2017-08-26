@@ -1,0 +1,66 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/civitavecchia", 
+    "id": "civitavecchia", 
+    "location": {
+      "city": "Civitavecchia", 
+      "country": "IT", 
+      "latitude": 42.0937524, 
+      "longitude": 11.7922462
+    }, 
+    "name": "Civitavecchia", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "838cfdd0df1c4682d854aaebe0b600fa", 
+        "latitude": 42.09293624603747, 
+        "longitude": 11.798415184020996, 
+        "name": "01. Baccelli", 
+        "timestamp": "2017-08-15T04:46:45.866000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "8df8d6b9d5dca01a4f3f3b286a08a24e", 
+        "latitude": 42.09156686634802, 
+        "longitude": 11.802127361297607, 
+        "name": "02. Parco Antonelli", 
+        "timestamp": "2017-08-15T04:46:45.868000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "0f0336d88ebca6402a582557b644d1e8", 
+        "latitude": 42.080706320108014, 
+        "longitude": 11.814122200012207, 
+        "name": "04. Stadio del nuoto", 
+        "timestamp": "2017-08-15T04:46:45.869000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "eafa3a3f32640d611ac43350d5e23cd5", 
+        "latitude": 42.08631199548947, 
+        "longitude": 11.806011199951172, 
+        "name": "03. Parco Uliveto", 
+        "timestamp": "2017-08-15T04:46:45.870000Z"
+      }
+    ]
+  }
+}

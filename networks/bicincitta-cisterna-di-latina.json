@@ -1,0 +1,78 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-cisterna-di-latina", 
+    "id": "bicincitta-cisterna-di-latina", 
+    "location": {
+      "city": "Cisterna di Latina", 
+      "country": "IT", 
+      "latitude": 41.5754029, 
+      "longitude": 12.8284772
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "48d35ad735a2a93d2dd2dc272c53dcdc", 
+        "latitude": 41.58688461107677, 
+        "longitude": 12.827691266131524, 
+        "name": "01. Stazione", 
+        "timestamp": "2017-08-15T04:49:38.495000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "e52eb0a302e7754ca25ed9efe2ffb48f", 
+        "latitude": 41.5889091024808, 
+        "longitude": 12.830556978677805, 
+        "name": "02. Monti Lepini", 
+        "timestamp": "2017-08-15T04:49:38.504000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 6, 
+        "id": "c2fe4dc9867e04cfa289c0d2c514e9ab", 
+        "latitude": 41.591485672189165, 
+        "longitude": 12.829483104368592, 
+        "name": "03. 19 Marzo", 
+        "timestamp": "2017-08-15T04:49:38.505000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "174379f46ddf0171803eb8aba1bcccc8", 
+        "latitude": 41.59864912995717, 
+        "longitude": 12.820502914094504, 
+        "name": "04. Cimitero", 
+        "timestamp": "2017-08-15T04:49:38.506000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "d5fed019a43279b34798d785ac2d0721", 
+        "latitude": 41.603053978526674, 
+        "longitude": 12.8407508769684, 
+        "name": "05. Centro Sociale", 
+        "timestamp": "2017-08-15T04:49:38.514000Z"
+      }
+    ]
+  }
+}

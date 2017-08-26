@@ -1,0 +1,56 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-unteres-traisental", 
+    "id": "nextbike-unteres-traisental", 
+    "location": {
+      "city": "Unteres Traisental", 
+      "country": "AT", 
+      "latitude": 48.1111, 
+      "longitude": 15.8176
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09547", 
+            "08913", 
+            "08759"
+          ], 
+          "number": "3067", 
+          "uid": "70106"
+        }, 
+        "free_bikes": 3, 
+        "id": "96191f0a56a9b2675833427fe62c7748", 
+        "latitude": 48.285363256436, 
+        "longitude": 15.694699287415, 
+        "name": "Herzogenburg / Rathausplatz", 
+        "timestamp": "2017-08-15T04:49:11.910000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09529", 
+            "09672", 
+            "09675", 
+            "09687", 
+            "08648"
+          ], 
+          "number": "3227", 
+          "uid": "65807"
+        }, 
+        "free_bikes": 6, 
+        "id": "b85f18d3dd87b531b99ac4499294339d", 
+        "latitude": 48.276724101706, 
+        "longitude": 15.696265697479, 
+        "name": "Herzogenburg / Bahnhof", 
+        "timestamp": "2017-08-15T04:49:11.907000Z"
+      }
+    ]
+  }
+}

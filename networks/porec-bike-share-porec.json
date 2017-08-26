@@ -1,0 +1,123 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/porec-bike-share-porec", 
+    "id": "porec-bike-share-porec", 
+    "location": {
+      "city": "Pore\u010d", 
+      "country": "HR", 
+      "latitude": 45.2292, 
+      "longitude": 13.6035
+    }, 
+    "name": "Porec bike share", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "80247", 
+            "80242", 
+            "80235", 
+            "80269", 
+            "80261"
+          ], 
+          "number": "2454", 
+          "slots": 20, 
+          "uid": "3561904"
+        }, 
+        "free_bikes": 5, 
+        "id": "e8c80f47664b196616fb973dd3a099f0", 
+        "latitude": 45.2144025, 
+        "longitude": 13.5950219, 
+        "name": "Brulo", 
+        "timestamp": "2017-08-15T04:50:39.687000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "80256", 
+            "80252", 
+            "80248", 
+            "80245", 
+            "80239"
+          ], 
+          "number": "2452", 
+          "slots": 24, 
+          "uid": "3561974"
+        }, 
+        "free_bikes": 5, 
+        "id": "bfb55313daaec3e98402ee696ad477f6", 
+        "latitude": 45.227803, 
+        "longitude": 13.596346, 
+        "name": "Centar Lungomare", 
+        "timestamp": "2017-08-15T04:50:39.689000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "80255", 
+            "80253", 
+            "80267", 
+            "80229", 
+            "80219"
+          ], 
+          "number": "2453", 
+          "slots": 6, 
+          "uid": "3562004"
+        }, 
+        "free_bikes": 5, 
+        "id": "babc9d90e177761bddd09ccec474c60d", 
+        "latitude": 45.227204, 
+        "longitude": 13.592336, 
+        "name": "Centar Riva", 
+        "timestamp": "2017-08-15T04:50:39.690000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "80156", 
+            "80246", 
+            "80244", 
+            "80260", 
+            "80230"
+          ], 
+          "number": "2451", 
+          "slots": 20, 
+          "uid": "3562015"
+        }, 
+        "free_bikes": 6, 
+        "id": "caf8e5a8cf01e7b3f6a6ce483ed6d1a5", 
+        "latitude": 45.235816, 
+        "longitude": 13.597363, 
+        "name": "Borik", 
+        "timestamp": "2017-08-15T04:50:39.691000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "80163", 
+            "80254", 
+            "80251", 
+            "80250", 
+            "80249"
+          ], 
+          "number": "2450", 
+          "slots": 10, 
+          "uid": "3562085"
+        }, 
+        "free_bikes": 6, 
+        "id": "77d675d906027e33fc4a2fed38cd0ae4", 
+        "latitude": 45.240635, 
+        "longitude": 13.599583, 
+        "name": "\u0160padi\u0107i", 
+        "timestamp": "2017-08-15T04:50:39.692000Z"
+      }
+    ]
+  }
+}

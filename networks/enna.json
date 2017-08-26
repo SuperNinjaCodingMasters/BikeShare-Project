@@ -1,0 +1,83 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/enna", 
+    "id": "enna", 
+    "location": {
+      "city": "Enna", 
+      "country": "IT", 
+      "latitude": 37.56342572664775, 
+      "longitude": 14.27973747253418
+    }, 
+    "name": "Enna", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Viale Diaz, 73 - Enna Alta", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "b577049b8311c1c71166f4e551dc8c69", 
+        "latitude": 37.56791172726603, 
+        "longitude": 14.26875114440918, 
+        "name": "Diaz", 
+        "timestamp": "2017-08-15T04:47:01.249000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Via Lombardia / v.le Caterina Savoca - Enna Alta", 
+          "status": "online"
+        }, 
+        "free_bikes": 0, 
+        "id": "3c3724c2a30396134cee71ab8778c8c2", 
+        "latitude": 37.567023052867015, 
+        "longitude": 14.286839962005615, 
+        "name": "Lombardia", 
+        "timestamp": "2017-08-15T04:47:01.251000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazza Sant'Anna - Enna Bassa", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "5329f3fbaedaf7771a61ea39c2a52fe4", 
+        "latitude": 37.56052562798199, 
+        "longitude": 14.294666647911072, 
+        "name": "Sant'Anna", 
+        "timestamp": "2017-08-15T04:47:01.252000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Toscana, 15 - Enna Bassa", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "21ef2e00677af729e7999baa4125d507", 
+        "latitude": 37.550833716924444, 
+        "longitude": 14.291013479232788, 
+        "name": "Toscana", 
+        "timestamp": "2017-08-15T04:47:01.253000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "description": "Viale dei Miti - Pergusa", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "bb3aecb9648128e80546cd237550d9a2", 
+        "latitude": 37.523082111526584, 
+        "longitude": 14.305492043495178, 
+        "name": "Pergusa", 
+        "timestamp": "2017-08-15T04:47:01.253000Z"
+      }
+    ]
+  }
+}

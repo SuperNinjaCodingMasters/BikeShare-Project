@@ -1,0 +1,688 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/vilnius-cyclocity", 
+    "id": "vilnius-cyclocity", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Vilnius", 
+      "country": "LT", 
+      "latitude": 54.6871555, 
+      "longitude": 25.2796514
+    }, 
+    "name": "Cyclocity", 
+    "stations": [
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Vilniaus g. \u2013 Islandijos g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772271000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 4, 
+        "id": "af74bec2a4ebca70b8aacbc157e6d36f", 
+        "latitude": 54.68300406, 
+        "longitude": 25.28001237, 
+        "name": "18-RADVIL\u0172 R\u016aMAI", 
+        "timestamp": "2017-08-15T04:48:33.065000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Kalvarij\u0173 g. \u2013 \u017dvej\u0173 g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772072000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 27
+        }, 
+        "free_bikes": 14, 
+        "id": "4a5ba84603c675a60c641af47411c28c", 
+        "latitude": 54.69221264, 
+        "longitude": 25.27933285, 
+        "name": "27-\u017dALIASIS TILTAS", 
+        "timestamp": "2017-08-15T04:48:33.070000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "\u0160ventaragio g.", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772226000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 15, 
+        "id": "c8a35b80b95e3a3f9c0ea99d1c0e00db", 
+        "latitude": 54.68590826, 
+        "longitude": 25.28560002, 
+        "name": "1-ARKIKATEDRA", 
+        "timestamp": "2017-08-15T04:48:33.071000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Konstitucijos pr. (\u0161alia Lietuvos vaik\u0173 ir jaunimo centro)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771942000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 33
+        }, 
+        "free_bikes": 3, 
+        "id": "b6931d449726200672377d3eebca29a6", 
+        "latitude": 54.698543, 
+        "longitude": 25.26644, 
+        "name": "33-LIETUVOS VAIK\u0172 IR JAUNIMO CENTRAS", 
+        "timestamp": "2017-08-15T04:48:33.072000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "T. Kosciu\u0161kos g.", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502730695000, 
+          "slots": 9, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 2, 
+        "id": "4d6790cb7715abe6f98eab107223cb6d", 
+        "latitude": 54.68866096, 
+        "longitude": 25.29316907, 
+        "name": "10-KALN\u0172 PARKAS", 
+        "timestamp": "2017-08-15T04:48:33.073000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "\u017dirm\u016bn\u0173 g. - Minties g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772326000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 38
+        }, 
+        "free_bikes": 16, 
+        "id": "baa755cb11710eeddd2994e3c05f00da", 
+        "latitude": 54.705339, 
+        "longitude": 25.304181, 
+        "name": "38-\u0160ILO TILTAS", 
+        "timestamp": "2017-08-15T04:48:33.074000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "Konstitucijos pr. (Europos aik\u0161t\u0117)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771960000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 1, 
+        "id": "7fc491ad1a3923cab8d8bd0553307d50", 
+        "latitude": 54.69546047, 
+        "longitude": 25.2786606, 
+        "name": "23-EUROPOS AIK\u0160T\u0116", 
+        "timestamp": "2017-08-15T04:48:33.075000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Saltoni\u0161ki\u0173 g. (PC \u201ePanorama\u201c)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772172000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 16, 
+        "id": "728d00cdb8260d9c5250db54802eb926", 
+        "latitude": 54.69850622, 
+        "longitude": 25.25819165, 
+        "name": "25-PANORAMA", 
+        "timestamp": "2017-08-15T04:48:33.076000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Did\u017eioji g. \u2013 Suba\u010diaus g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771905000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 8, 
+        "id": "6ab93ad4834d2ed9fc00368996e58ae3", 
+        "latitude": 54.6762269, 
+        "longitude": 25.28861228, 
+        "name": "5-FILHARMONIJA", 
+        "timestamp": "2017-08-15T04:48:33.077000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "A. Vienuolio g. \u2013 A. Go\u0161tauto g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772045000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 28
+        }, 
+        "free_bikes": 0, 
+        "id": "9bf90bf90205acdbcebe4c53d592fce0", 
+        "latitude": 54.69049166, 
+        "longitude": 25.27821042, 
+        "name": "28-OPEROS IR BALETO TEATRAS", 
+        "timestamp": "2017-08-15T04:48:33.078000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Luk\u0161io g. (Ogmios miestas)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772348000, 
+          "slots": 27, 
+          "status": "OPEN", 
+          "uid": 40
+        }, 
+        "free_bikes": 2, 
+        "id": "68ee86e1baca6b8e2d4af551da44cff1", 
+        "latitude": 54.712375, 
+        "longitude": 25.29664, 
+        "name": "40-OGMIOS MIESTAS", 
+        "timestamp": "2017-08-15T04:48:33.080000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Gele\u017einkelio g. \u2013 Stoties g. sankry\u017ea (\u0161alia Autobus\u0173 stoties)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772077000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 36
+        }, 
+        "free_bikes": 8, 
+        "id": "7ae59848d64f10c419fad32946403387", 
+        "latitude": 54.67059724, 
+        "longitude": 25.28283084, 
+        "name": "36-AUTOBUS\u0172 STOTIS", 
+        "timestamp": "2017-08-15T04:48:33.081000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rinktin\u0117s g. \u2013 A. Juozapavi\u010diaus g. sankry\u017e\u0105", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772309000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 6, 
+        "id": "9a3ab53aaa29fb7eae92c19297a2b93b", 
+        "latitude": 54.69180897, 
+        "longitude": 25.28903636, 
+        "name": "29-\u017dALGIRIO STADIONAS", 
+        "timestamp": "2017-08-15T04:48:33.082000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Did\u017eioji g.", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772379000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 11, 
+        "id": "485c01e679265816adec3124cab01274", 
+        "latitude": 54.67788858, 
+        "longitude": 25.28745212, 
+        "name": "4-ROTU\u0160\u0116", 
+        "timestamp": "2017-08-15T04:48:33.084000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "\u017dygimant\u0173 g.", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772188000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 6, 
+        "id": "a0f7f5f809c9757567d0b89e7f435c99", 
+        "latitude": 54.68870707, 
+        "longitude": 25.28717553, 
+        "name": "11-KARALIAUS MINDAUGO TILTAS", 
+        "timestamp": "2017-08-15T04:48:33.085000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "J. Tumo-Vai\u017eganto g. \u2013 Luki\u0161ki\u0173 g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772456000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 10, 
+        "id": "0000d5d05dd57cb69ae711d41e300a83", 
+        "latitude": 54.69207484, 
+        "longitude": 25.2711658, 
+        "name": "21-VA\u0160INGTONO AIK\u0160T\u0116", 
+        "timestamp": "2017-08-15T04:48:33.087000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Vis\u0173 \u0160vent\u0173j\u0173 g. \u2013 Bazilijon\u0173 g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772374000, 
+          "slots": 9, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 4, 
+        "id": "a5e118ccef4eaff9411ae77bf86a3118", 
+        "latitude": 54.67422353, 
+        "longitude": 25.2855307, 
+        "name": "6-HAL\u0116S TURGAVIET\u0116", 
+        "timestamp": "2017-08-15T04:48:33.088000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Vokie\u010di\u0173 g. \u2013 Dominikon\u0173 g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772335000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 0, 
+        "id": "9488150a8f39d1469cbae7e402a3108e", 
+        "latitude": 54.68094054, 
+        "longitude": 25.28207902, 
+        "name": "19-S. N\u0116RIES GIMNAZIJA", 
+        "timestamp": "2017-08-15T04:48:33.090000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Gedimino pr. \u2013 Gyn\u0117j\u0173 g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772309000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 14, 
+        "id": "b10b3d6aa3aabc438138d4c2dfc0196d", 
+        "latitude": 54.69008355, 
+        "longitude": 25.26344367, 
+        "name": "15-M. MA\u017dVYDO BIBLIOTEKA", 
+        "timestamp": "2017-08-15T04:48:33.091000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Up\u0117s g. (\u0161alia VCUP)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771922000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 14, 
+        "id": "8af148baa8b621009f579d8bc5643ee3", 
+        "latitude": 54.6941691, 
+        "longitude": 25.27496123, 
+        "name": "22-VCUP", 
+        "timestamp": "2017-08-15T04:48:33.091000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Pam\u0117nkalnio g. \u2013 Jogailos g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771960000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 10, 
+        "id": "1d43f2c2016a966454a7334486ba9fa5", 
+        "latitude": 54.68476062, 
+        "longitude": 25.27703073, 
+        "name": "17-JOGAILOS", 
+        "timestamp": "2017-08-15T04:48:33.092000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Gedimino pr. (V. Kudirkos aik\u0161t\u0117)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772331000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 1, 
+        "id": "b4f7bb7c389b5173dfe31a22968ef2f7", 
+        "latitude": 54.68727317, 
+        "longitude": 25.28012935, 
+        "name": "12-V. KUDIRKOS AIK\u0160T\u0116", 
+        "timestamp": "2017-08-15T04:48:33.093000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Gedimino pr.", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772333000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 0, 
+        "id": "b49a98a8f7f4b129240b62d14344d3ee", 
+        "latitude": 54.68785091, 
+        "longitude": 25.27663297, 
+        "name": "13-A. VIENUOLIO", 
+        "timestamp": "2017-08-15T04:48:33.094000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Up\u0117s g. \u2013 G. Baravyko g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772314000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 3, 
+        "id": "fc6f71db55e96b65697c3f0bd5a04141", 
+        "latitude": 54.69631647, 
+        "longitude": 25.26611228, 
+        "name": "24-FORUM PALACE", 
+        "timestamp": "2017-08-15T04:48:33.095000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Pilies g. \u2013 Bok\u0161to g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772390000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 1, 
+        "id": "33b1531be07ae60d9eb71e6913b3e828", 
+        "latitude": 54.68093041, 
+        "longitude": 25.2884646, 
+        "name": "3-K. SIRVYDO SKVERAS", 
+        "timestamp": "2017-08-15T04:48:33.096000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Pam\u0117nkalnio g. \u2013 Tauro g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771915000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 2, 
+        "id": "980956853a13dc02566776641dbfcafd", 
+        "latitude": 54.68681715, 
+        "longitude": 25.27143064, 
+        "name": "16-TAURO KALNAS", 
+        "timestamp": "2017-08-15T04:48:33.097000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Sein\u0173 g. \u2013 Gele\u017einkelio g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772028000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 11, 
+        "id": "23a13c0348b53ba0aae14389c7fca212", 
+        "latitude": 54.67115499, 
+        "longitude": 25.28417915, 
+        "name": "7-STOTIS", 
+        "timestamp": "2017-08-15T04:48:33.098000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Pilies g. \u2013 Radvilait\u0117s g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771885000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 21, 
+        "id": "bbe6e544f076deb22be09e9161bf70d1", 
+        "latitude": 54.68447055, 
+        "longitude": 25.28936958, 
+        "name": "2-BARBOROS RADVILAIT\u0116S", 
+        "timestamp": "2017-08-15T04:48:33.099000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Antakalnio g. \u2013 Oland\u0173 g. \u017eiedin\u0117 sankry\u017ea (\u0161alia \u0160v. Petro ir Povilo ba\u017eny\u010dios)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772421000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 31
+        }, 
+        "free_bikes": 9, 
+        "id": "5deef26809edd19586fc716dbe3b9f34", 
+        "latitude": 54.69332591, 
+        "longitude": 25.30506775, 
+        "name": "31-OLAND\u0172 \u017dIEDAS", 
+        "timestamp": "2017-08-15T04:48:33.102000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "U\u017eupio g. \u2013 Krivi\u0173 g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772139000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 10, 
+        "id": "2b4b4384da971c6b704ab710b3f32b83", 
+        "latitude": 54.68114579, 
+        "longitude": 25.29904378, 
+        "name": "9-U\u017dUPIS", 
+        "timestamp": "2017-08-15T04:48:33.103000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "K\u016bdr\u0173 g. \u2013 Maironio g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772084000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 6, 
+        "id": "e59214f43f29490fdf143d0c2cf88038", 
+        "latitude": 54.67852, 
+        "longitude": 25.29385654, 
+        "name": "8-MAIRONIO", 
+        "timestamp": "2017-08-15T04:48:33.106000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "\u017dirm\u016bn\u0173 g. \u2013 Tuskul\u0117n\u0173 g. \u017eiedin\u0117 sankry\u017ea (\u0161alia PC IKI Minskas)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772151000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 30
+        }, 
+        "free_bikes": 24, 
+        "id": "44fbc54d720cc4f2d935f809ad836fbf", 
+        "latitude": 54.69678393, 
+        "longitude": 25.29886217, 
+        "name": "30-IKI MINSKAS", 
+        "timestamp": "2017-08-15T04:48:33.107000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "A. Tum\u0117no g.", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772315000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 35
+        }, 
+        "free_bikes": 5, 
+        "id": "1befb36af04db6be19c72b67971d4db0", 
+        "latitude": 54.69181762, 
+        "longitude": 25.26346218, 
+        "name": "35-VILNIAUS VARTAI", 
+        "timestamp": "2017-08-15T04:48:33.109000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "\u017dirm\u016bn\u0173 g. - Luk\u0161io g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772261000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 39
+        }, 
+        "free_bikes": 2, 
+        "id": "f96f7e71167d9a13dfdb83e605ae7200", 
+        "latitude": 54.711357, 
+        "longitude": 25.304238, 
+        "name": "39-\u0160IAUR\u0116S MIESTELIS", 
+        "timestamp": "2017-08-15T04:48:33.101000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Up\u0117s g. \u2013 Student\u0173 g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772380000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 8, 
+        "id": "1e12cc90938c5c7719ca76f5ec3ce380", 
+        "latitude": 54.69558, 
+        "longitude": 25.257209, 
+        "name": "26-EDUKOLOGIJOS UNIVERSITETAS", 
+        "timestamp": "2017-08-15T04:48:33.083000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Gedimino pr. \u2013 J. Tumo-Vai\u017eganto g. sankry\u017ea", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772367000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 9, 
+        "id": "d0a6f7685335d2e61ef56631db0a9aa2", 
+        "latitude": 54.68907997, 
+        "longitude": 25.26938954, 
+        "name": "14-LUKI\u0160KI\u0172 AIK\u0160T\u0116", 
+        "timestamp": "2017-08-15T04:48:33.104000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Pylimo g.", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772368000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 8, 
+        "id": "3e785f99d2b202063a8b23606075ae23", 
+        "latitude": 54.6791769, 
+        "longitude": 25.27784234, 
+        "name": "20-TRAK\u0172", 
+        "timestamp": "2017-08-15T04:48:33.077000Z"
+      }
+    ]
+  }
+}

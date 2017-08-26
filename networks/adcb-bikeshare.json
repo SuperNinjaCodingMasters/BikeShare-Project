@@ -1,0 +1,662 @@
+{
+  "network": {
+    "company": [
+      "Cyacle Bicycle Rental LLC"
+    ], 
+    "href": "/v2/networks/adcb-bikeshare", 
+    "id": "adcb-bikeshare", 
+    "location": {
+      "city": "Abu Dhabi", 
+      "country": "AE", 
+      "latitude": 24.450278, 
+      "longitude": 54.39
+    }, 
+    "name": "ADCB Bikeshare", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "51"
+        }, 
+        "free_bikes": 6, 
+        "id": "6435602c7151bc587e0d15a2c5dc99ab", 
+        "latitude": 24.537567, 
+        "longitude": 54.42835099999999, 
+        "name": "St. Regis", 
+        "timestamp": "2017-08-15T04:50:52.656000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "50"
+        }, 
+        "free_bikes": 5, 
+        "id": "568a7b6896ef408372be4685a0c9569a", 
+        "latitude": 24.549218, 
+        "longitude": 54.45022800000001, 
+        "name": "SBV 14", 
+        "timestamp": "2017-08-15T04:50:52.647000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "21"
+        }, 
+        "free_bikes": 5, 
+        "id": "06c383f8efbfcea959a529bc7a47f018", 
+        "latitude": 24.43432, 
+        "longitude": 54.579065000000014, 
+        "name": "ARG Gate 18", 
+        "timestamp": "2017-08-15T04:50:52.578000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "3"
+        }, 
+        "free_bikes": 5, 
+        "id": "25ee392d14022015bccf57a696cea999", 
+        "latitude": 24.465793, 
+        "longitude": 54.60961, 
+        "name": "Yas Marina", 
+        "timestamp": "2017-08-15T04:50:52.542000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": false, 
+          "status": "online", 
+          "uid": "5"
+        }, 
+        "free_bikes": 5, 
+        "id": "7136fa3630288ba2bda6049463cab58a", 
+        "latitude": 24.489678, 
+        "longitude": 54.60011209999999, 
+        "name": "Yas Waterworld", 
+        "timestamp": "2017-08-15T04:50:52.550000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "11"
+        }, 
+        "free_bikes": 5, 
+        "id": "d151007ec81bb62371bd75783e370b57", 
+        "latitude": 24.450142, 
+        "longitude": 54.6052761, 
+        "name": "Al Muneera South", 
+        "timestamp": "2017-08-15T04:50:52.555000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "16"
+        }, 
+        "free_bikes": 5, 
+        "id": "5cb07fbd10f4098abf569042070251e4", 
+        "latitude": 24.441122, 
+        "longitude": 54.619692999999984, 
+        "name": "Masdar City", 
+        "timestamp": "2017-08-15T04:50:52.560000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "20"
+        }, 
+        "free_bikes": 4, 
+        "id": "a51ab3baf5b4eed361b48045219dfc00", 
+        "latitude": 24.440487, 
+        "longitude": 54.598675000000014, 
+        "name": "ARG Gate 13", 
+        "timestamp": "2017-08-15T04:50:52.575000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "18"
+        }, 
+        "free_bikes": 4, 
+        "id": "ff28957242550b586d17796854088b4e", 
+        "latitude": 24.432552, 
+        "longitude": 54.566438000000005, 
+        "name": "Gardens Plaza", 
+        "timestamp": "2017-08-15T04:50:52.564000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "17"
+        }, 
+        "free_bikes": 4, 
+        "id": "27b67dc4c061ea5e1d5477306346eede", 
+        "latitude": 24.42067, 
+        "longitude": 54.53155799999999, 
+        "name": "Golf Gardens", 
+        "timestamp": "2017-08-15T04:50:52.562000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "19"
+        }, 
+        "free_bikes": 4, 
+        "id": "568bef0438b37384d47dcdfd358ac58f", 
+        "latitude": 24.449111, 
+        "longitude": 54.612097000000006, 
+        "name": "Al Amwaj", 
+        "timestamp": "2017-08-15T04:50:52.573000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "has_bike_keys": false, 
+          "status": "online", 
+          "uid": "30"
+        }, 
+        "free_bikes": 8, 
+        "id": "9caa251bd9d23bd6a73973bf038389dc", 
+        "latitude": 24.486273, 
+        "longitude": 54.352012, 
+        "name": "Adia HQ", 
+        "timestamp": "2017-08-15T04:50:52.592000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "33"
+        }, 
+        "free_bikes": 6, 
+        "id": "201aecd08fa0b25d909c399e5683e0f3", 
+        "latitude": 24.48652, 
+        "longitude": 54.35793799999999, 
+        "name": "WTC", 
+        "timestamp": "2017-08-15T04:50:52.609000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "27"
+        }, 
+        "free_bikes": 4, 
+        "id": "dc4b947712f1cd6f93c255120ac5d428", 
+        "latitude": 24.495467, 
+        "longitude": 54.409504, 
+        "name": "Arc Tower", 
+        "timestamp": "2017-08-15T04:50:52.590000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "24"
+        }, 
+        "free_bikes": 4, 
+        "id": "dd2f32e2a42740919aa022ce43dfe1ea", 
+        "latitude": 24.487944, 
+        "longitude": 54.39555999999999, 
+        "name": "Tamouh Tower", 
+        "timestamp": "2017-08-15T04:50:52.580000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "25"
+        }, 
+        "free_bikes": 4, 
+        "id": "6f046274d8e194c41ba6cf38336f66f0", 
+        "latitude": 24.493276, 
+        "longitude": 54.40830700000001, 
+        "name": "Gate Tower", 
+        "timestamp": "2017-08-15T04:50:52.585000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "23"
+        }, 
+        "free_bikes": 6, 
+        "id": "221d2539df6c521b4613c3da20ae52fd", 
+        "latitude": 24.49232, 
+        "longitude": 54.39324500000001, 
+        "name": "Tower 1-3", 
+        "timestamp": "2017-08-15T04:50:52.579000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "38"
+        }, 
+        "free_bikes": 7, 
+        "id": "3539b1bc5270576892cb9461b9bc1f80", 
+        "latitude": 24.46568, 
+        "longitude": 54.32818900000001, 
+        "name": "Nation Riviera", 
+        "timestamp": "2017-08-15T04:50:52.633000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "31"
+        }, 
+        "free_bikes": 5, 
+        "id": "c6cb680f1ae5131d108642bf820d9324", 
+        "latitude": 24.45588, 
+        "longitude": 54.33931899999999, 
+        "name": "Marina Al Bateen", 
+        "timestamp": "2017-08-15T04:50:52.593000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "32"
+        }, 
+        "free_bikes": 4, 
+        "id": "929f0168236eb488c5609fc94e790331", 
+        "latitude": 24.456118, 
+        "longitude": 54.318692, 
+        "name": "Rayhaan Rotana", 
+        "timestamp": "2017-08-15T04:50:52.600000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "29"
+        }, 
+        "free_bikes": 5, 
+        "id": "15ca8ab31219e880c2e293dad1f59f2d", 
+        "latitude": 24.454382, 
+        "longitude": 54.352363, 
+        "name": "Al Bateen Park", 
+        "timestamp": "2017-08-15T04:50:52.591000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "47"
+        }, 
+        "free_bikes": 4, 
+        "id": "fa90dc189a2dee9a8f87a34243f745d3", 
+        "latitude": 24.499484, 
+        "longitude": 54.387652, 
+        "name": "Rosewood Hotel", 
+        "timestamp": "2017-08-15T04:50:52.645000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "46"
+        }, 
+        "free_bikes": 4, 
+        "id": "a262264e7dbb4ee17d8c1a163194068a", 
+        "latitude": 24.434351, 
+        "longitude": 54.61689899999999, 
+        "name": "Siemens Building", 
+        "timestamp": "2017-08-15T04:50:52.643000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "36"
+        }, 
+        "free_bikes": 3, 
+        "id": "9ee7bd6f6c32155e6f7c44fdc8908517", 
+        "latitude": 24.451202, 
+        "longitude": 54.334509999999995, 
+        "name": "Marasy", 
+        "timestamp": "2017-08-15T04:50:52.630000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "42"
+        }, 
+        "free_bikes": 5, 
+        "id": "ea7fccbf17aaaf20aea850d000307762", 
+        "latitude": 24.552982, 
+        "longitude": 54.450552000000016, 
+        "name": "Saadiyat Beach Residences", 
+        "timestamp": "2017-08-15T04:50:52.638000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "41"
+        }, 
+        "free_bikes": 3, 
+        "id": "9bd68f933908c3cf52b662fc715b0383", 
+        "latitude": 24.543122, 
+        "longitude": 54.43949700000002, 
+        "name": "Saadiyat Beach Golf Club", 
+        "timestamp": "2017-08-15T04:50:52.638000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "43"
+        }, 
+        "free_bikes": 5, 
+        "id": "91f647df6985a8b6d52635d5efd136ec", 
+        "latitude": 24.457339, 
+        "longitude": 54.32734099999999, 
+        "name": "InterContinental Hotel", 
+        "timestamp": "2017-08-15T04:50:52.639000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": false, 
+          "status": "online", 
+          "uid": "4"
+        }, 
+        "free_bikes": 5, 
+        "id": "382b26e8d06a57bf60439d03e30e6326", 
+        "latitude": 24.461865, 
+        "longitude": 54.59336909999999, 
+        "name": "Yas Beach Station", 
+        "timestamp": "2017-08-15T04:50:52.549000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": false, 
+          "status": "online", 
+          "uid": "6"
+        }, 
+        "free_bikes": 5, 
+        "id": "3b3ec05e0a132cbe3db7bdaf364f3e40", 
+        "latitude": 24.478217, 
+        "longitude": 54.6002551, 
+        "name": "Yas Links", 
+        "timestamp": "2017-08-15T04:50:52.550000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "7"
+        }, 
+        "free_bikes": 5, 
+        "id": "02757a31c3a5fd002b1e5cc8e8dc756d", 
+        "latitude": 24.456953, 
+        "longitude": 54.615754100000004, 
+        "name": "Al Zeina", 
+        "timestamp": "2017-08-15T04:50:52.551000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "8"
+        }, 
+        "free_bikes": 9, 
+        "id": "8b028ce112e3f742356fd3d404b81f23", 
+        "latitude": 24.485254, 
+        "longitude": 54.60806099999999, 
+        "name": "Ferrari World", 
+        "timestamp": "2017-08-15T04:50:52.552000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "9"
+        }, 
+        "free_bikes": 14, 
+        "id": "08ad3c8c91a7dd78ba3532346a592fa6", 
+        "latitude": 24.465954, 
+        "longitude": 54.598305100000005, 
+        "name": "Yas Plaza", 
+        "timestamp": "2017-08-15T04:50:52.553000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "has_bike_keys": false, 
+          "status": "online", 
+          "uid": "10"
+        }, 
+        "free_bikes": 5, 
+        "id": "d1e28d2cf2da14bf2d077481d8a34b6b", 
+        "latitude": 24.449757, 
+        "longitude": 54.60056610000001, 
+        "name": "Al Bandar", 
+        "timestamp": "2017-08-15T04:50:52.554000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": false, 
+          "status": "online", 
+          "uid": "12"
+        }, 
+        "free_bikes": 5, 
+        "id": "ded56dd6e3c8b38d4cdcb8f7ee4b8949", 
+        "latitude": 24.452079, 
+        "longitude": 54.60465099999999, 
+        "name": "Al Muneera North", 
+        "timestamp": "2017-08-15T04:50:52.556000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": false, 
+          "status": "online", 
+          "uid": "13"
+        }, 
+        "free_bikes": 5, 
+        "id": "60d58ce5f1c9e758f2dc2e5349f21c51", 
+        "latitude": 24.467541523262938, 
+        "longitude": 54.60465708378251, 
+        "name": "Yas Viceroy", 
+        "timestamp": "2017-08-15T04:50:52.558000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "22"
+        }, 
+        "free_bikes": 4, 
+        "id": "b400afbaa6dc001e9abc2d90426f58b8", 
+        "latitude": 24.426488, 
+        "longitude": 54.61844400000001, 
+        "name": "Irena HQ", 
+        "timestamp": "2017-08-15T04:50:52.579000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "26"
+        }, 
+        "free_bikes": 7, 
+        "id": "7bb7b6c76b3afee16e1d7edbd3bcd443", 
+        "latitude": 24.490807, 
+        "longitude": 54.394041000000016, 
+        "name": "Paragon Bay Mall", 
+        "timestamp": "2017-08-15T04:50:52.589000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "28"
+        }, 
+        "free_bikes": 8, 
+        "id": "4bc1256044326d91680d3f9203c2d59b", 
+        "latitude": 24.496565, 
+        "longitude": 54.408766000000014, 
+        "name": "Sky Tower", 
+        "timestamp": "2017-08-15T04:50:52.590000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "37"
+        }, 
+        "free_bikes": 5, 
+        "id": "3e23fd0a36650d61c03b6a488213eb07", 
+        "latitude": 24.465272, 
+        "longitude": 54.328835, 
+        "name": "Nation Towers", 
+        "timestamp": "2017-08-15T04:50:52.632000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "40"
+        }, 
+        "free_bikes": 2, 
+        "id": "2f327abff9a22540d269bcb6dac425ef", 
+        "latitude": 24.441367, 
+        "longitude": 54.57609200000002, 
+        "name": "ALDAR HQ", 
+        "timestamp": "2017-08-15T04:50:52.637000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "34"
+        }, 
+        "free_bikes": 5, 
+        "id": "dc7e828604d8e444d4acddcc39a9462f", 
+        "latitude": 24.507333, 
+        "longitude": 54.376300000000015, 
+        "name": "Al Aryam Tower", 
+        "timestamp": "2017-08-15T04:50:52.615000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "39"
+        }, 
+        "free_bikes": 6, 
+        "id": "f7b76d2f4eec411bbb9c264b78923740", 
+        "latitude": 24.498709, 
+        "longitude": 54.368071999999984, 
+        "name": "Capital Plaza", 
+        "timestamp": "2017-08-15T04:50:52.635000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "44"
+        }, 
+        "free_bikes": 4, 
+        "id": "d3d715712e018e716a6f3d9d67dfa08f", 
+        "latitude": 24.557154, 
+        "longitude": 54.450361999999984, 
+        "name": "Saadiyat Beach Club", 
+        "timestamp": "2017-08-15T04:50:52.640000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "45"
+        }, 
+        "free_bikes": 4, 
+        "id": "6e9f480c3baf36141fc78bfdb2d96917", 
+        "latitude": 24.525562, 
+        "longitude": 54.432075999999995, 
+        "name": "NYU West", 
+        "timestamp": "2017-08-15T04:50:52.641000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "35"
+        }, 
+        "free_bikes": 3, 
+        "id": "3383e9e54abc593198f5ad95aabe4352", 
+        "latitude": 24.54696, 
+        "longitude": 54.435824, 
+        "name": "Saadiyat Beach", 
+        "timestamp": "2017-08-15T04:50:52.621000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "has_bike_keys": true, 
+          "status": "online", 
+          "uid": "48"
+        }, 
+        "free_bikes": 4, 
+        "id": "6fcc8031843afe415d85b9b81e1f584e", 
+        "latitude": 24.52174, 
+        "longitude": 54.43561600000001, 
+        "name": "NYU East", 
+        "timestamp": "2017-08-15T04:50:52.646000Z"
+      }
+    ]
+  }
+}

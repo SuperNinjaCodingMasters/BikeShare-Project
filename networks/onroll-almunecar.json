@@ -1,0 +1,34 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-almunecar", 
+    "id": "onroll-almunecar", 
+    "location": {
+      "city": "Almu\u00f1\u00e9car", 
+      "country": "ES", 
+      "latitude": 36.735789, 
+      "longitude": -3.688828
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "a6b6db299ee0bc3acc3e4cc6842ff47f", 
+        "latitude": 36.735789, 
+        "longitude": -3.688828, 
+        "name": "Estaci\u00f3n de Autobuses / Polic\u00eda Local", 
+        "timestamp": "2017-08-15T04:47:05.874000Z"
+      }
+    ]
+  }
+}

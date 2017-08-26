@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-mula", 
+    "id": "onroll-mula", 
+    "location": {
+      "city": "Mula", 
+      "country": "ES", 
+      "latitude": 38.040805, 
+      "longitude": -1.497451
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "b560ee447a272f12d72a7d0006bac1e2", 
+        "latitude": 38.046403, 
+        "longitude": -1.528442, 
+        "name": "El Ni\u00f1o de Mula", 
+        "timestamp": "2017-08-15T04:47:51.560000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "409a0adfea295b604b376cf06160c007", 
+        "latitude": 38.038892, 
+        "longitude": -1.496061, 
+        "name": "Espacio M (centro Joven)", 
+        "timestamp": "2017-08-15T04:47:51.563000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "b9387acb6ec1c103262d32e94cc7b4bd", 
+        "latitude": 38.039792, 
+        "longitude": -1.481089, 
+        "name": "Pabell\u00f3n Polideportivo", 
+        "timestamp": "2017-08-15T04:47:51.564000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "e8029fe12e797aee2de066e35631a3cc", 
+        "latitude": 38.037208, 
+        "longitude": -1.490544, 
+        "name": "Parque Feria", 
+        "timestamp": "2017-08-15T04:47:51.565000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "8bbee86cbafb6b82ed5a76e9750c508c", 
+        "latitude": 38.041731, 
+        "longitude": -1.491117, 
+        "name": "Plaza del Ayuntamiento", 
+        "timestamp": "2017-08-15T04:47:51.566000Z"
+      }
+    ]
+  }
+}

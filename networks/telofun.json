@@ -1,0 +1,2502 @@
+{
+  "network": {
+    "company": [
+      "FSM Ground Services Ltd."
+    ], 
+    "href": "/v2/networks/telofun", 
+    "id": "telofun", 
+    "location": {
+      "city": "Tel Aviv-Yaffo, Giv'atayim, Ramat-Gan", 
+      "country": "IL", 
+      "latitude": 32.087053, 
+      "longitude": 34.789776
+    }, 
+    "name": "Tel-O-Fun", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 347
+        }, 
+        "free_bikes": 8, 
+        "id": "02c9bcc37abe80e3a85ad97629f21a2d", 
+        "latitude": 32.076, 
+        "longitude": 34.7714, 
+        "name": "Bograshov 45/ Pinsker st.", 
+        "timestamp": "2017-08-15T04:46:20.564000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 601
+        }, 
+        "free_bikes": 7, 
+        "id": "4157e40d32a1d00f54159a60ef032936", 
+        "latitude": 32.075, 
+        "longitude": 34.809, 
+        "name": "Noga Square", 
+        "timestamp": "2017-08-15T04:46:20.568000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 363
+        }, 
+        "free_bikes": 8, 
+        "id": "e066bb6ad27f9eb48171ece5926b6132", 
+        "latitude": 32.0657, 
+        "longitude": 34.7832, 
+        "name": "Begin/ Lincoln -Biet Rubinshtein", 
+        "timestamp": "2017-08-15T04:46:20.578000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 530
+        }, 
+        "free_bikes": 1, 
+        "id": "d97905088415824535eeb9cec0199c68", 
+        "latitude": 32.0646, 
+        "longitude": 34.7918, 
+        "name": "45 Yitzchak Sade St - Hacinerma", 
+        "timestamp": "2017-08-15T04:46:20.581000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": 652
+        }, 
+        "free_bikes": 5, 
+        "id": "1871ddd511b2d4c8db9d8f2f2f11db4d", 
+        "latitude": 32.0961, 
+        "longitude": 34.8214, 
+        "name": "2 Ben Gurion St. - Ramat-Gan", 
+        "timestamp": "2017-08-15T04:46:20.618000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 511
+        }, 
+        "free_bikes": 3, 
+        "id": "1ca811f3e474f86e8bf5e6360fe04deb", 
+        "latitude": 32.0543, 
+        "longitude": 34.7864, 
+        "name": "2 Derech HaHaganah St. \u2013 HaHaganah Railway station", 
+        "timestamp": "2017-08-15T04:46:20.638000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 322
+        }, 
+        "free_bikes": 7, 
+        "id": "10fd8d20ee4e5d9e8097f65b53cae3c6", 
+        "latitude": 32.0864, 
+        "longitude": 34.7927, 
+        "name": " 1 Tsiyonut Av", 
+        "timestamp": "2017-08-15T04:46:20.497000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 323
+        }, 
+        "free_bikes": 5, 
+        "id": "6c19319cfc1cc86124831c32e77c57b5", 
+        "latitude": 32.0847, 
+        "longitude": 34.7867, 
+        "name": "2 Tashah St.", 
+        "timestamp": "2017-08-15T04:46:20.498000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 306
+        }, 
+        "free_bikes": 6, 
+        "id": "b7447e43cc74b8b29b73301ca1fb3890", 
+        "latitude": 32.0885, 
+        "longitude": 34.797, 
+        "name": "8 Nisim Aloni St.", 
+        "timestamp": "2017-08-15T04:46:20.503000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 319
+        }, 
+        "free_bikes": 3, 
+        "id": "9acd35a4689d36d541316e8bb441efff", 
+        "latitude": 32.0869, 
+        "longitude": 34.7822, 
+        "name": "124 Ibn Gvirol St.", 
+        "timestamp": "2017-08-15T04:46:20.504000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "uid": 326
+        }, 
+        "free_bikes": 8, 
+        "id": "4f392f154da8818a5e176465182d683c", 
+        "latitude": 32.0836, 
+        "longitude": 34.7966, 
+        "name": "Savidor Train Station Center", 
+        "timestamp": "2017-08-15T04:46:20.505000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 310
+        }, 
+        "free_bikes": 7, 
+        "id": "0089dff611907fa02f86611a0bbb6b71", 
+        "latitude": 32.0936, 
+        "longitude": 34.7872, 
+        "name": "20 Brandeis St.", 
+        "timestamp": "2017-08-15T04:46:20.507000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 381
+        }, 
+        "free_bikes": 5, 
+        "id": "da13fab7b726d9ec0bdf59f4170fdbc5", 
+        "latitude": 32.0796, 
+        "longitude": 34.7796, 
+        "name": "77 Frishman St.", 
+        "timestamp": "2017-08-15T04:46:20.520000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": 658
+        }, 
+        "free_bikes": 5, 
+        "id": "8add5113a4d470e98de1099e1e24d57d", 
+        "latitude": 32.0828, 
+        "longitude": 34.804, 
+        "name": "8 Jabotinsky St. - Ramat-Gan", 
+        "timestamp": "2017-08-15T04:46:20.524000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": 336
+        }, 
+        "free_bikes": 12, 
+        "id": "13a464420d88e25d09e1b91b508c9d31", 
+        "latitude": 32.0842, 
+        "longitude": 34.775, 
+        "name": "55 Ben Gurion Av.", 
+        "timestamp": "2017-08-15T04:46:20.524000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 308
+        }, 
+        "free_bikes": 6, 
+        "id": "7e0653bafd39b17be66cae88dee6377c", 
+        "latitude": 32.0982, 
+        "longitude": 34.7977, 
+        "name": "34 Kosowski St.", 
+        "timestamp": "2017-08-15T04:46:20.528000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": 655
+        }, 
+        "free_bikes": 4, 
+        "id": "25d5e68e4e36203bb1a1ba5b5cc96784", 
+        "latitude": 32.0877, 
+        "longitude": 34.8056, 
+        "name": "107 Bialik St. - Ramat-Gan", 
+        "timestamp": "2017-08-15T04:46:20.529000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 350
+        }, 
+        "free_bikes": 0, 
+        "id": "0114a3fe508c139d938aae6ea8fea5ea", 
+        "latitude": 32.0728, 
+        "longitude": 34.7898, 
+        "name": "Menachem Begin Road 125 ", 
+        "timestamp": "2017-08-15T04:46:20.531000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "uid": 359
+        }, 
+        "free_bikes": 2, 
+        "id": "c65cfcbed54f30a9e15ae8fc5675a9a8", 
+        "latitude": 32.0732, 
+        "longitude": 34.7859, 
+        "name": "Kaplan St./ Aaranha St.", 
+        "timestamp": "2017-08-15T04:46:20.532000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 304
+        }, 
+        "free_bikes": 5, 
+        "id": "4fc4d62daba6f6a414c247c0a1b9bd5a", 
+        "latitude": 32.0989, 
+        "longitude": 34.7812, 
+        "name": "Rokach Yisrael - Reeding Parking Lot", 
+        "timestamp": "2017-08-15T04:46:20.534000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 384
+        }, 
+        "free_bikes": 5, 
+        "id": "5e2ad3ec54954aaff0d68e51761ae700", 
+        "latitude": 32.0927, 
+        "longitude": 34.7737, 
+        "name": "2 Nordau St.", 
+        "timestamp": "2017-08-15T04:46:20.536000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 519
+        }, 
+        "free_bikes": 1, 
+        "id": "a67367ceb3037e42ab12d50b9b5492d1", 
+        "latitude": 32.0743, 
+        "longitude": 34.7999, 
+        "name": "2 Yalkut HaRoim St. / Nachlat Yitzhak", 
+        "timestamp": "2017-08-15T04:46:20.537000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 390
+        }, 
+        "free_bikes": 10, 
+        "id": "8623bd727e60640ca2435d383b886219", 
+        "latitude": 32.0762, 
+        "longitude": 34.7748, 
+        "name": "Dizengoff Center North", 
+        "timestamp": "2017-08-15T04:46:20.542000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 536
+        }, 
+        "free_bikes": 10, 
+        "id": "5876c5c07a7e8736927f696c32c2778f", 
+        "latitude": 32.0713, 
+        "longitude": 34.7975, 
+        "name": "16 HaShalom Road", 
+        "timestamp": "2017-08-15T04:46:20.546000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 358
+        }, 
+        "free_bikes": 1, 
+        "id": "fc6772a4c03167248c8615269fc738f2", 
+        "latitude": 32.0707, 
+        "longitude": 34.7828, 
+        "name": "1 Shprintsak St. - Cinematek", 
+        "timestamp": "2017-08-15T04:46:20.548000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 329
+        }, 
+        "free_bikes": 6, 
+        "id": "e864d9da1da8b86d2158fea617c76e62", 
+        "latitude": 32.0867, 
+        "longitude": 34.7694, 
+        "name": "Carlton Hotel - Tayelet", 
+        "timestamp": "2017-08-15T04:46:20.552000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": 348
+        }, 
+        "free_bikes": 8, 
+        "id": "6aa728092b2017762fc3a4647002124f", 
+        "latitude": 32.074, 
+        "longitude": 34.7757, 
+        "name": "1 Shderot Ben Tsiyon St.", 
+        "timestamp": "2017-08-15T04:46:20.553000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "uid": 357
+        }, 
+        "free_bikes": 6, 
+        "id": "c658943a87eb4e62282eee97792bc0f1", 
+        "latitude": 32.0716, 
+        "longitude": 34.7792, 
+        "name": "140 Rothshild Av. - Habima", 
+        "timestamp": "2017-08-15T04:46:20.555000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 394
+        }, 
+        "free_bikes": 5, 
+        "id": "423991c37d44dd48e10294923485f1b0", 
+        "latitude": 32.0694, 
+        "longitude": 34.7838, 
+        "name": "Hashmonaim St/ Karlibach St ", 
+        "timestamp": "2017-08-15T04:46:20.558000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 301
+        }, 
+        "free_bikes": 7, 
+        "id": "1f9bdc2114925e53e08056b6783dba48", 
+        "latitude": 32.1006, 
+        "longitude": 34.7758, 
+        "name": "Namel Tel Aviv - Shalvata", 
+        "timestamp": "2017-08-15T04:46:20.562000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 380
+        }, 
+        "free_bikes": 3, 
+        "id": "276ee79a57e290115bccccb3e771f819", 
+        "latitude": 32.0723, 
+        "longitude": 34.7739, 
+        "name": "King George St.- Meir Garden", 
+        "timestamp": "2017-08-15T04:46:20.565000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 386
+        }, 
+        "free_bikes": 4, 
+        "id": "0b5b600a11730903d5838d70698eb21e", 
+        "latitude": 32.0808, 
+        "longitude": 34.7675, 
+        "name": "Frishman Beach", 
+        "timestamp": "2017-08-15T04:46:20.567000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 376
+        }, 
+        "free_bikes": 8, 
+        "id": "47e25bda41cd998ec9673603440843ea", 
+        "latitude": 32.0676, 
+        "longitude": 34.7799, 
+        "name": "74 Yehuda HaLevi", 
+        "timestamp": "2017-08-15T04:46:20.572000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 660
+        }, 
+        "free_bikes": 3, 
+        "id": "9a2bfe52aa50b85a9de0f257ffbe900e", 
+        "latitude": 32.0836, 
+        "longitude": 34.815, 
+        "name": "Rambam Square - Ramat-Gan", 
+        "timestamp": "2017-08-15T04:46:20.576000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 531
+        }, 
+        "free_bikes": 3, 
+        "id": "55a8ba8330ee2e47130518af3be3b29a", 
+        "latitude": 32.0659, 
+        "longitude": 34.7989, 
+        "name": "116 Moshe Dayan St. ", 
+        "timestamp": "2017-08-15T04:46:20.584000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 604
+        }, 
+        "free_bikes": 3, 
+        "id": "17b7a5e2996a819d5c76019c0f7b1c3b", 
+        "latitude": 32.074, 
+        "longitude": 34.812, 
+        "name": "Gordon School", 
+        "timestamp": "2017-08-15T04:46:20.588000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": 653
+        }, 
+        "free_bikes": 1, 
+        "id": "dff1ab0c6836e5cf38c1868a22ddfb97", 
+        "latitude": 32.0958, 
+        "longitude": 34.8146, 
+        "name": "116 Rokah St. - Ramat-Gan", 
+        "timestamp": "2017-08-15T04:46:20.593000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 110
+        }, 
+        "free_bikes": 3, 
+        "id": "8de87111667f9d4b41fe29ff027d9f7a", 
+        "latitude": 32.1102, 
+        "longitude": 34.7904, 
+        "name": "Shikun Lamed \u2013 5 Hausner St.", 
+        "timestamp": "2017-08-15T04:46:20.594000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 391
+        }, 
+        "free_bikes": 7, 
+        "id": "b0820ace2df7186e7dc507524ef2fca8", 
+        "latitude": 32.074, 
+        "longitude": 34.7652, 
+        "name": "1 Allenby St.", 
+        "timestamp": "2017-08-15T04:46:20.599000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 368
+        }, 
+        "free_bikes": 4, 
+        "id": "6915518c6339816153fb8bd63908989f", 
+        "latitude": 32.0668, 
+        "longitude": 34.7715, 
+        "name": "90 Allenby St./ Maze St.", 
+        "timestamp": "2017-08-15T04:46:20.604000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 372
+        }, 
+        "free_bikes": 4, 
+        "id": "66af5201f214099cab9a7211884e9448", 
+        "latitude": 32.0618, 
+        "longitude": 34.7844, 
+        "name": "17 Yad Kharutsim St./Ha-Masger", 
+        "timestamp": "2017-08-15T04:46:20.605000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "uid": 112
+        }, 
+        "free_bikes": 2, 
+        "id": "e0ca12bc7b0b762e56622c365309b3cc", 
+        "latitude": 32.1132, 
+        "longitude": 34.801, 
+        "name": "78 Einstein St.", 
+        "timestamp": "2017-08-15T04:46:20.616000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 533
+        }, 
+        "free_bikes": 6, 
+        "id": "bcb52dd9ee27817a3ee59c6f04ff2038", 
+        "latitude": 32.0589, 
+        "longitude": 34.7973, 
+        "name": "60 La Guardia St.", 
+        "timestamp": "2017-08-15T04:46:20.620000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 375
+        }, 
+        "free_bikes": 6, 
+        "id": "6e658d378605a1ecf386522e5b67f3aa", 
+        "latitude": 32.0619, 
+        "longitude": 34.7729, 
+        "name": "43 Yehuda HaLevi St./ Allenby St.", 
+        "timestamp": "2017-08-15T04:46:20.621000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 120
+        }, 
+        "free_bikes": 3, 
+        "id": "0f23e0f9d7aa8c42e7bb77d4514f2c22", 
+        "latitude": 32.1155, 
+        "longitude": 34.7886, 
+        "name": "17 Amir Gilboa st.", 
+        "timestamp": "2017-08-15T04:46:20.622000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 393
+        }, 
+        "free_bikes": 7, 
+        "id": "7393c7c0c0191ac5f81b1dd07ce45210", 
+        "latitude": 32.0652, 
+        "longitude": 34.7647, 
+        "name": "David Intercontinental Hotel", 
+        "timestamp": "2017-08-15T04:46:20.630000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": 651
+        }, 
+        "free_bikes": 6, 
+        "id": "453457a354c7f739005a4bed4ab8beb6", 
+        "latitude": 32.0992, 
+        "longitude": 34.8255, 
+        "name": "Ramat-Gan Stadium", 
+        "timestamp": "2017-08-15T04:46:20.641000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 396
+        }, 
+        "free_bikes": 7, 
+        "id": "d3a2b701ce170d9786510b401c39a142", 
+        "latitude": 32.0595, 
+        "longitude": 34.7671, 
+        "name": "61 Eilat St - Tzedek Tower ", 
+        "timestamp": "2017-08-15T04:46:20.644000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 106
+        }, 
+        "free_bikes": 1, 
+        "id": "0b580380156b249c17317bc0d1384fbc", 
+        "latitude": 32.1205, 
+        "longitude": 34.7922, 
+        "name": "Rudensky-Ramat Aviv 3", 
+        "timestamp": "2017-08-15T04:46:20.648000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": 510
+        }, 
+        "free_bikes": 2, 
+        "id": "502aac6def01c384c976b8f4d25d1a27", 
+        "latitude": 32.0503, 
+        "longitude": 34.7979, 
+        "name": "Opp. 28 Kiryati St.", 
+        "timestamp": "2017-08-15T04:46:20.659000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": 118
+        }, 
+        "free_bikes": 1, 
+        "id": "97d07a9414cdc30f5f5d004989b03e26", 
+        "latitude": 32.1259, 
+        "longitude": 34.7984, 
+        "name": "24  Shlomo Ben-Yosef St.", 
+        "timestamp": "2017-08-15T04:46:20.667000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 513
+        }, 
+        "free_bikes": 6, 
+        "id": "c1cd3f4d097de8652c963e908b4cd196", 
+        "latitude": 34.799855, 
+        "longitude": 32.052719, 
+        "name": "45 Moshe Dayan St.", 
+        "timestamp": "2017-08-15T04:46:20.720000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": 705
+        }, 
+        "free_bikes": 0, 
+        "id": "54071662fa422d99794e04712d670cb1", 
+        "latitude": 34.742455, 
+        "longitude": 32.018801, 
+        "name": "Yoseftal 36", 
+        "timestamp": "2017-08-15T04:46:20.723000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": 321
+        }, 
+        "free_bikes": 9, 
+        "id": "4ab48d7f0609c96fd87c6fc46e41ffad", 
+        "latitude": 32.0868, 
+        "longitude": 34.7884, 
+        "name": "2 Heh be-iyar St. - Ha-Medina Square", 
+        "timestamp": "2017-08-15T04:46:20.495000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 325
+        }, 
+        "free_bikes": 8, 
+        "id": "ef12f59c32a72abd51e32c578673db80", 
+        "latitude": 32.0836, 
+        "longitude": 34.7918, 
+        "name": "3 Helsinki St.", 
+        "timestamp": "2017-08-15T04:46:20.499000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 316
+        }, 
+        "free_bikes": 6, 
+        "id": "4107b6e4965f0e6c44ef970c1e44fc4b", 
+        "latitude": 32.0907, 
+        "longitude": 34.7907, 
+        "name": "60 Weizman St. - Beit Ha-Khyal", 
+        "timestamp": "2017-08-15T04:46:20.500000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 315
+        }, 
+        "free_bikes": 7, 
+        "id": "f7f2b0c7d73cd4f8aa0a0cc6e8990ab6", 
+        "latitude": 32.0912, 
+        "longitude": 34.7865, 
+        "name": "30 De Haas St.", 
+        "timestamp": "2017-08-15T04:46:20.500000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 333
+        }, 
+        "free_bikes": 2, 
+        "id": "61910dede31c7178da0eacbe26adc8f3", 
+        "latitude": 32.081, 
+        "longitude": 34.7887, 
+        "name": "15 weizman st. Ichilov Hospital", 
+        "timestamp": "2017-08-15T04:46:20.501000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 317
+        }, 
+        "free_bikes": 4, 
+        "id": "62da31b920fe198c8a22098c3e855bfb", 
+        "latitude": 32.0913, 
+        "longitude": 34.7945, 
+        "name": "69 Pinkas St.", 
+        "timestamp": "2017-08-15T04:46:20.502000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 385
+        }, 
+        "free_bikes": 10, 
+        "id": "a6a2c992ec253b8e0713ab9c065029f8", 
+        "latitude": 32.0822, 
+        "longitude": 34.7953, 
+        "name": "Arlozorov St. / Namir Rd.", 
+        "timestamp": "2017-08-15T04:46:20.505000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 387
+        }, 
+        "free_bikes": 3, 
+        "id": "aa161a0043583c6c56e8e6d8fe820b8f", 
+        "latitude": 32.0796, 
+        "longitude": 34.7883, 
+        "name": "40 David Hamellech St.", 
+        "timestamp": "2017-08-15T04:46:20.506000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 324
+        }, 
+        "free_bikes": 5, 
+        "id": "01f95157bff51e008c484dc976e980f2", 
+        "latitude": 32.0841, 
+        "longitude": 34.7817, 
+        "name": "106 Ibn Gvirol St. - Post Office", 
+        "timestamp": "2017-08-15T04:46:20.508000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 309
+        }, 
+        "free_bikes": 4, 
+        "id": "d2d5e063ff09ed0ba5d543c6507ffdbd", 
+        "latitude": 32.0941, 
+        "longitude": 34.7927, 
+        "name": "81 Yehuda Hamakabi St.", 
+        "timestamp": "2017-08-15T04:46:20.509000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 332
+        }, 
+        "free_bikes": 2, 
+        "id": "978f2bef83dba222f4b3ebea8862a255", 
+        "latitude": 32.0799, 
+        "longitude": 34.7851, 
+        "name": "30 David Hamellech St.", 
+        "timestamp": "2017-08-15T04:46:20.510000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 314
+        }, 
+        "free_bikes": 6, 
+        "id": "fc8dffa0832e243fd054f074d9494437", 
+        "latitude": 32.0917, 
+        "longitude": 34.7826, 
+        "name": "101 Nordau St.", 
+        "timestamp": "2017-08-15T04:46:20.510000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 383
+        }, 
+        "free_bikes": 4, 
+        "id": "2b5620b20246cc37627a8be56a98ac79", 
+        "latitude": 32.0886, 
+        "longitude": 34.78, 
+        "name": "Jabutinsky St. / Yeushua Ben Nun St.", 
+        "timestamp": "2017-08-15T04:46:20.511000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": 311
+        }, 
+        "free_bikes": 5, 
+        "id": "473fd9bcf90cc85d6aa421d804c08efa", 
+        "latitude": 32.0936, 
+        "longitude": 34.7836, 
+        "name": "182 Ibn Gvirol St.", 
+        "timestamp": "2017-08-15T04:46:20.512000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "uid": 331
+        }, 
+        "free_bikes": 4, 
+        "id": "f2e11d8716a0aabd60e882cbfab0c90a", 
+        "latitude": 32.0809, 
+        "longitude": 34.7811, 
+        "name": "Rabin Square", 
+        "timestamp": "2017-08-15T04:46:20.513000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 320
+        }, 
+        "free_bikes": 6, 
+        "id": "dc620c5b53d4a2aa9708514cad504bc8", 
+        "latitude": 32.0901, 
+        "longitude": 34.7792, 
+        "name": "1 HaShlah St. - Basel Area", 
+        "timestamp": "2017-08-15T04:46:20.514000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 307
+        }, 
+        "free_bikes": 6, 
+        "id": "a4292a61d5535166b938403ece3db2a3", 
+        "latitude": 32.0963, 
+        "longitude": 34.7908, 
+        "name": "56 Bnei Dan St.", 
+        "timestamp": "2017-08-15T04:46:20.515000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "uid": 345
+        }, 
+        "free_bikes": 6, 
+        "id": "4c08e54639a59c0c78e8a82b5009c320", 
+        "latitude": 32.0771, 
+        "longitude": 34.7884, 
+        "name": "1 Weizman St. - Court Justice Hall", 
+        "timestamp": "2017-08-15T04:46:20.516000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": 657
+        }, 
+        "free_bikes": 1, 
+        "id": "77d98486bc3ea7513a7d5565c8bb2745", 
+        "latitude": 32.0833, 
+        "longitude": 34.8009, 
+        "name": "3 Zisman St. - Ramat-Gan", 
+        "timestamp": "2017-08-15T04:46:20.516000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 328
+        }, 
+        "free_bikes": 6, 
+        "id": "0d284124dd7567f40eb082f5f1cdbb77", 
+        "latitude": 32.095, 
+        "longitude": 34.7972, 
+        "name": "2 Paamony St. - Bavli", 
+        "timestamp": "2017-08-15T04:46:20.517000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 532
+        }, 
+        "free_bikes": 7, 
+        "id": "f174b31bbcf9262d1cfd25a3f55bd5e7", 
+        "latitude": 32.0785, 
+        "longitude": 34.7976, 
+        "name": "157 Yigal Alon St.", 
+        "timestamp": "2017-08-15T04:46:20.518000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 337
+        }, 
+        "free_bikes": 0, 
+        "id": "15f2b42442a8c00f076813612ea0d47f", 
+        "latitude": 32.0863, 
+        "longitude": 34.7773, 
+        "name": "62 Arlozorov St.", 
+        "timestamp": "2017-08-15T04:46:20.519000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": 656
+        }, 
+        "free_bikes": 4, 
+        "id": "fa968f37bfa21104716d8d98d5703b97", 
+        "latitude": 32.0889, 
+        "longitude": 34.8023, 
+        "name": "145 Bialik St. - Ramat-Gan", 
+        "timestamp": "2017-08-15T04:46:20.520000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "uid": 330
+        }, 
+        "free_bikes": 5, 
+        "id": "1a8e841904699760bb58254caa00e4f5", 
+        "latitude": 32.0829, 
+        "longitude": 34.7773, 
+        "name": "68 Ben Gurion Av.", 
+        "timestamp": "2017-08-15T04:46:20.521000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 342
+        }, 
+        "free_bikes": 5, 
+        "id": "659849791872be721e706d6d4f7fa3eb", 
+        "latitude": 32.076, 
+        "longitude": 34.7854, 
+        "name": "21 Sauol Hamelekh- Hakameri", 
+        "timestamp": "2017-08-15T04:46:20.522000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 305
+        }, 
+        "free_bikes": 2, 
+        "id": "88f1fcc1459be3c0ab2d0010b64e5ee2", 
+        "latitude": 32.0988, 
+        "longitude": 34.7891, 
+        "name": "Rokach Yisrael - Sportek", 
+        "timestamp": "2017-08-15T04:46:20.523000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 313
+        }, 
+        "free_bikes": 9, 
+        "id": "e3e84bd26fdc58ebb911cd153d7b9b18", 
+        "latitude": 32.0927, 
+        "longitude": 34.7764, 
+        "name": "280 Meir Dizengoff St.", 
+        "timestamp": "2017-08-15T04:46:20.525000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 303
+        }, 
+        "free_bikes": 4, 
+        "id": "d2c30f39a5021d6348cb443510b6e0a7", 
+        "latitude": 32.0954, 
+        "longitude": 34.7782, 
+        "name": "48 Ussishkin St.", 
+        "timestamp": "2017-08-15T04:46:20.526000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 344
+        }, 
+        "free_bikes": 4, 
+        "id": "2c386d6f11e3e10dc8ba96b11cf5db15", 
+        "latitude": 32.0778, 
+        "longitude": 34.7784, 
+        "name": "4 Netsakh Yisrael St./ Masaryk", 
+        "timestamp": "2017-08-15T04:46:20.527000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 346
+        }, 
+        "free_bikes": 4, 
+        "id": "cb470a42b1b412de2a4d28bed9fd4983", 
+        "latitude": 32.0749, 
+        "longitude": 34.7819, 
+        "name": "28 Ibn Gabirol St.", 
+        "timestamp": "2017-08-15T04:46:20.530000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 318
+        }, 
+        "free_bikes": 5, 
+        "id": "7bf4b83c4bc1bb0e5c13a900820de8f1", 
+        "latitude": 32.0891, 
+        "longitude": 34.7738, 
+        "name": "192 Ben Yehuda St.", 
+        "timestamp": "2017-08-15T04:46:20.530000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 525
+        }, 
+        "free_bikes": 7, 
+        "id": "6f826b56d6eaffc60a63a501091d20cb", 
+        "latitude": 32.0729, 
+        "longitude": 34.7924, 
+        "name": "Opp. Azrieli Center - Ayalon South", 
+        "timestamp": "2017-08-15T04:46:20.533000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": 335
+        }, 
+        "free_bikes": 9, 
+        "id": "d7bee857a3fb1d10971c04e50fbc97b7", 
+        "latitude": 32.0814, 
+        "longitude": 34.7739, 
+        "name": "126 Meir Dizengoff St.", 
+        "timestamp": "2017-08-15T04:46:20.535000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 388
+        }, 
+        "free_bikes": 7, 
+        "id": "87d7b09fed80358aaadcf80655e0c938", 
+        "latitude": 32.0741, 
+        "longitude": 34.7799, 
+        "name": "2 Hen Av.", 
+        "timestamp": "2017-08-15T04:46:20.538000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 537
+        }, 
+        "free_bikes": 8, 
+        "id": "0c649d0f77ebd1717510fe4474972e83", 
+        "latitude": 32.072, 
+        "longitude": 34.795, 
+        "name": "Yigal Alon St. / HaShalom Road", 
+        "timestamp": "2017-08-15T04:46:20.539000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 117
+        }, 
+        "free_bikes": 5, 
+        "id": "f9a8be9b8037727de540018ff63c5025", 
+        "latitude": 32.1019, 
+        "longitude": 34.7927, 
+        "name": "Derekh Namir - Seminar Ha-Kibutsim", 
+        "timestamp": "2017-08-15T04:46:20.540000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 302
+        }, 
+        "free_bikes": 3, 
+        "id": "aded71f6bd94acf012a5eda8b074454e", 
+        "latitude": 32.0971, 
+        "longitude": 34.776, 
+        "name": "342 Meir Dizengoff St.", 
+        "timestamp": "2017-08-15T04:46:20.540000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 116
+        }, 
+        "free_bikes": 5, 
+        "id": "0f24c460ddef60eaaea683c30474b504", 
+        "latitude": 32.1022, 
+        "longitude": 34.7854, 
+        "name": "59 Agnon St./ Israel Galili St.", 
+        "timestamp": "2017-08-15T04:46:20.541000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 360
+        }, 
+        "free_bikes": 6, 
+        "id": "e1dbf739203aa61ef02e7b237dfa9817", 
+        "latitude": 32.0701, 
+        "longitude": 34.79, 
+        "name": "11 Yehudit Av./Ha-Nanatsiv St.", 
+        "timestamp": "2017-08-15T04:46:20.543000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 312
+        }, 
+        "free_bikes": 13, 
+        "id": "0ded2d33dfa6915b80bfcddc1a7672db", 
+        "latitude": 32.0947, 
+        "longitude": 34.7727, 
+        "name": "12 Namel Tel Aviv - Metzitzim Beach", 
+        "timestamp": "2017-08-15T04:46:20.544000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": 382
+        }, 
+        "free_bikes": 4, 
+        "id": "0087705a6647f103efcd08e73f7db273", 
+        "latitude": 32.0994, 
+        "longitude": 34.7771, 
+        "name": "Hanamal - East Fair", 
+        "timestamp": "2017-08-15T04:46:20.545000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 334
+        }, 
+        "free_bikes": 4, 
+        "id": "b803fade5dbe0b7ace9de91678bea96a", 
+        "latitude": 32.0813, 
+        "longitude": 34.7707, 
+        "name": "86 Ben Yehuda St.", 
+        "timestamp": "2017-08-15T04:46:20.550000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 353
+        }, 
+        "free_bikes": 7, 
+        "id": "eef916b97e473d39839eb8e9725eb035", 
+        "latitude": 32.07, 
+        "longitude": 34.785, 
+        "name": "Givon Compound", 
+        "timestamp": "2017-08-15T04:46:20.551000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": 114
+        }, 
+        "free_bikes": 4, 
+        "id": "ade85296a5e2fe58dfbad5b3dfb8303c", 
+        "latitude": 32.1045, 
+        "longitude": 34.789, 
+        "name": "26 Levi Eshkol St. - Sde Dov Airport", 
+        "timestamp": "2017-08-15T04:46:20.556000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 352
+        }, 
+        "free_bikes": 10, 
+        "id": "6fbd279f4383e0a41998fceb3107678f", 
+        "latitude": 32.069, 
+        "longitude": 34.787, 
+        "name": "Gindi Tel-Aviv", 
+        "timestamp": "2017-08-15T04:46:20.557000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 602
+        }, 
+        "free_bikes": 6, 
+        "id": "1c6057e85566505bd2c20a357da9769e", 
+        "latitude": 32.079, 
+        "longitude": 34.809, 
+        "name": "Yafa Garden", 
+        "timestamp": "2017-08-15T04:46:20.560000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 659
+        }, 
+        "free_bikes": 2, 
+        "id": "088186f3e21395ea886f4b0574f9230d", 
+        "latitude": 32.0857, 
+        "longitude": 34.8111, 
+        "name": "62 Jabotinsky St. - Ramat-Gan", 
+        "timestamp": "2017-08-15T04:46:20.561000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 362
+        }, 
+        "free_bikes": 8, 
+        "id": "ea1f178129e744e0786659adca1acc6c", 
+        "latitude": 32.0685, 
+        "longitude": 34.7782, 
+        "name": "108 Rothshild Av. ", 
+        "timestamp": "2017-08-15T04:46:20.569000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 501
+        }, 
+        "free_bikes": 5, 
+        "id": "27b173dd320448157ab0d01e30a457c3", 
+        "latitude": 32.0667, 
+        "longitude": 34.7961, 
+        "name": "Hahaskalla Av. / Krminitzki St.", 
+        "timestamp": "2017-08-15T04:46:20.570000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 216
+        }, 
+        "free_bikes": 1, 
+        "id": "dc8e62f128f3d4a7508cbd03a21459d5", 
+        "latitude": 32.1032, 
+        "longitude": 34.8051, 
+        "name": "University Railway Station", 
+        "timestamp": "2017-08-15T04:46:20.573000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 365
+        }, 
+        "free_bikes": 6, 
+        "id": "7543d5973492dd36dcd1979060d32c39", 
+        "latitude": 32.0654, 
+        "longitude": 34.7857, 
+        "name": "17 Yitskhak Sadeh St. ", 
+        "timestamp": "2017-08-15T04:46:20.574000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 113
+        }, 
+        "free_bikes": 3, 
+        "id": "13be5590603c740d98511ee9c547205b", 
+        "latitude": 32.1077, 
+        "longitude": 34.798, 
+        "name": "Brodetzky St./ Mayer Ebner", 
+        "timestamp": "2017-08-15T04:46:20.579000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "uid": 341
+        }, 
+        "free_bikes": 4, 
+        "id": "057bb500e4a825c68adc8689de6746ed", 
+        "latitude": 32.0774, 
+        "longitude": 34.7662, 
+        "name": "90 Herbert Samuel St.", 
+        "timestamp": "2017-08-15T04:46:20.580000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": 654
+        }, 
+        "free_bikes": 6, 
+        "id": "763454480d436a57114c660afff8364a", 
+        "latitude": 32.0923, 
+        "longitude": 34.815, 
+        "name": "117 Aba Hilel St. - Ramat-Gan", 
+        "timestamp": "2017-08-15T04:46:20.583000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 364
+        }, 
+        "free_bikes": 7, 
+        "id": "b4f0865d4713585ab0806f087649c5a1", 
+        "latitude": 32.0696, 
+        "longitude": 34.7725, 
+        "name": "Sheinkin  garden", 
+        "timestamp": "2017-08-15T04:46:20.585000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 603
+        }, 
+        "free_bikes": 1, 
+        "id": "3b358537325cec6926859bd5d6792680", 
+        "latitude": 32.077, 
+        "longitude": 34.814, 
+        "name": "Noach Square", 
+        "timestamp": "2017-08-15T04:46:20.586000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 534
+        }, 
+        "free_bikes": 3, 
+        "id": "311860ee6d4fe42781df6ad4f39ec7c9", 
+        "latitude": 32.066, 
+        "longitude": 34.801, 
+        "name": "HaGvura St. / HaShalom Road", 
+        "timestamp": "2017-08-15T04:46:20.591000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 354
+        }, 
+        "free_bikes": 8, 
+        "id": "4a25fc30f8a3244108e8685e1fee5798", 
+        "latitude": 32.0731, 
+        "longitude": 34.7683, 
+        "name": "1 Ben Yehuda St.", 
+        "timestamp": "2017-08-15T04:46:20.592000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 611
+        }, 
+        "free_bikes": 5, 
+        "id": "2ffd5a2a726313068d12e14a20dd1f0c", 
+        "latitude": 32.07, 
+        "longitude": 34.809, 
+        "name": "57 Weizman St.", 
+        "timestamp": "2017-08-15T04:46:20.594000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": 508
+        }, 
+        "free_bikes": 0, 
+        "id": "b15d244774c7bc62318445eb47dddeed", 
+        "latitude": 32.0645, 
+        "longitude": 34.7989, 
+        "name": "Moshe Dayan St./ Yitzhak Sadeh St.", 
+        "timestamp": "2017-08-15T04:46:20.595000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 361
+        }, 
+        "free_bikes": 4, 
+        "id": "f56486d37b58b7bddb6bf556677aa34a", 
+        "latitude": 32.0695, 
+        "longitude": 34.7707, 
+        "name": "53 Allenby St. - Carmel Market", 
+        "timestamp": "2017-08-15T04:46:20.596000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": 124
+        }, 
+        "free_bikes": 5, 
+        "id": "a8738c2bcdebb05003204870a44511ee", 
+        "latitude": 32.107, 
+        "longitude": 34.805, 
+        "name": "Dr. Georg Wise Square", 
+        "timestamp": "2017-08-15T04:46:20.597000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 370
+        }, 
+        "free_bikes": 5, 
+        "id": "98e4487b2d19127c50e1a2b0566c48b1", 
+        "latitude": 32.0652, 
+        "longitude": 34.7765, 
+        "name": "65 Rothschild Av./ Nachmami St.", 
+        "timestamp": "2017-08-15T04:46:20.598000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 507
+        }, 
+        "free_bikes": 3, 
+        "id": "a3587be3ccf680c8152d647f1bef9a06", 
+        "latitude": 32.0621, 
+        "longitude": 34.7903, 
+        "name": "9 ha-shlosha St.- Nokia Arena", 
+        "timestamp": "2017-08-15T04:46:20.601000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 215
+        }, 
+        "free_bikes": 5, 
+        "id": "14db079a30666451c0ad347a96617771", 
+        "latitude": 32.1045, 
+        "longitude": 34.8099, 
+        "name": "Trade Fairs Center", 
+        "timestamp": "2017-08-15T04:46:20.602000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": 371
+        }, 
+        "free_bikes": 7, 
+        "id": "e792b3a9ac10198cfd2a0362c98fcbd7", 
+        "latitude": 32.063, 
+        "longitude": 34.7798, 
+        "name": "48 Menachem Begin Rd./ HaRakevet St.", 
+        "timestamp": "2017-08-15T04:46:20.603000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 373
+        }, 
+        "free_bikes": 2, 
+        "id": "3a5aded1a037e477e9003659e9310dcf", 
+        "latitude": 32.0638, 
+        "longitude": 34.7768, 
+        "name": "HaRakevet corner Levontin", 
+        "timestamp": "2017-08-15T04:46:20.606000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 607
+        }, 
+        "free_bikes": 6, 
+        "id": "4d9f22595d5bd91dd8945ccb2e8513ca", 
+        "latitude": 32.067, 
+        "longitude": 34.809, 
+        "name": "Givataim Mall", 
+        "timestamp": "2017-08-15T04:46:20.607000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": 125
+        }, 
+        "free_bikes": 0, 
+        "id": "e12dcbf2cce1a10dba07dfd9ed4bea09", 
+        "latitude": 32.109, 
+        "longitude": 34.805, 
+        "name": "Tel Aviv Enginnering Faculty", 
+        "timestamp": "2017-08-15T04:46:20.608000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 609
+        }, 
+        "free_bikes": 6, 
+        "id": "7f430a16f9d3cfb243ba386f3cd0c261", 
+        "latitude": 32.075, 
+        "longitude": 34.818, 
+        "name": "Kazenelson St./ HaMaalot St.", 
+        "timestamp": "2017-08-15T04:46:20.609000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 111
+        }, 
+        "free_bikes": 5, 
+        "id": "68d0e65b1815df24e09e7c3c05e3e9f1", 
+        "latitude": 32.1128, 
+        "longitude": 34.7968, 
+        "name": "41 Einstein St.", 
+        "timestamp": "2017-08-15T04:46:20.610000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 122
+        }, 
+        "free_bikes": 4, 
+        "id": "89db9a1ec27881f6f1408038c2e9e99d", 
+        "latitude": 32.1108, 
+        "longitude": 34.804, 
+        "name": "University - Gate 4", 
+        "timestamp": "2017-08-15T04:46:20.611000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "uid": 355
+        }, 
+        "free_bikes": 1, 
+        "id": "1727badc8e6abd77508147177da90426", 
+        "latitude": 32.071, 
+        "longitude": 34.7639, 
+        "name": "32 Herbert Samuel St.", 
+        "timestamp": "2017-08-15T04:46:20.613000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 395
+        }, 
+        "free_bikes": 1, 
+        "id": "27d0c2d078510e0e64683dfaa58b4024", 
+        "latitude": 32.0635, 
+        "longitude": 34.7732, 
+        "name": "Rothshild St. / Allenby St", 
+        "timestamp": "2017-08-15T04:46:20.613000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": 108
+        }, 
+        "free_bikes": 5, 
+        "id": "83bdea46b291be8f6c9dfd605efe6397", 
+        "latitude": 32.1139, 
+        "longitude": 34.7913, 
+        "name": "4 Perluk St.", 
+        "timestamp": "2017-08-15T04:46:20.614000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 526
+        }, 
+        "free_bikes": 3, 
+        "id": "e396e3e142236e2c5ab23a558fd23667", 
+        "latitude": 32.0592, 
+        "longitude": 34.7898, 
+        "name": "24 La Guardia", 
+        "timestamp": "2017-08-15T04:46:20.615000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 366
+        }, 
+        "free_bikes": 6, 
+        "id": "a7db6c5dcf484dd79555d36b0392b9dc", 
+        "latitude": 32.0666, 
+        "longitude": 34.7662, 
+        "name": "Carmelit/ Ha-Carmel Market", 
+        "timestamp": "2017-08-15T04:46:20.617000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 606
+        }, 
+        "free_bikes": 3, 
+        "id": "c3e07a5bece2eab712f81fa5d9af7516", 
+        "latitude": 32.067, 
+        "longitude": 34.814, 
+        "name": "Kushnir Garden", 
+        "timestamp": "2017-08-15T04:46:20.619000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "uid": 369
+        }, 
+        "free_bikes": 6, 
+        "id": "96cd10a6277a32ab7c48bc64cb9f7dcb", 
+        "latitude": 32.063, 
+        "longitude": 34.7703, 
+        "name": "11 Rothshild Av./ Herzl St.", 
+        "timestamp": "2017-08-15T04:46:20.623000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 436
+        }, 
+        "free_bikes": 3, 
+        "id": "82b1c3a3b903c1ee1cac237e3d8af820", 
+        "latitude": 32.0578, 
+        "longitude": 34.7831, 
+        "name": "43 Levanda St.", 
+        "timestamp": "2017-08-15T04:46:20.624000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 123
+        }, 
+        "free_bikes": 3, 
+        "id": "a009ab722a820249f5117373d4546471", 
+        "latitude": 32.1135, 
+        "longitude": 34.8043, 
+        "name": "University - Library", 
+        "timestamp": "2017-08-15T04:46:20.626000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 512
+        }, 
+        "free_bikes": 5, 
+        "id": "9f18cc04bab007c7feb8241fdc35355b", 
+        "latitude": 32.0568, 
+        "longitude": 34.7918, 
+        "name": "33 Yigal Allon St./ Hahayil", 
+        "timestamp": "2017-08-15T04:46:20.627000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 612
+        }, 
+        "free_bikes": 5, 
+        "id": "b4441b0c97b69423bf11cacf5adf46a6", 
+        "latitude": 32.064, 
+        "longitude": 34.813, 
+        "name": "Rivka Garden", 
+        "timestamp": "2017-08-15T04:46:20.628000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 504
+        }, 
+        "free_bikes": 6, 
+        "id": "e01a27145300cc10d9cbe5c767b800f2", 
+        "latitude": 32.058, 
+        "longitude": 34.8006, 
+        "name": "Moshe Dayan St./ La Guardia St.", 
+        "timestamp": "2017-08-15T04:46:20.629000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 392
+        }, 
+        "free_bikes": 2, 
+        "id": "78dc68f58500309fb036450b59d873ca", 
+        "latitude": 32.0671, 
+        "longitude": 34.7626, 
+        "name": "Hadolfinarium", 
+        "timestamp": "2017-08-15T04:46:20.631000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 402
+        }, 
+        "free_bikes": 6, 
+        "id": "89dcb04c651378f25a016c1ebbff9289", 
+        "latitude": 32.0585, 
+        "longitude": 34.7758, 
+        "name": "83 Elhanan Eib Levinski St.", 
+        "timestamp": "2017-08-15T04:46:20.632000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 401
+        }, 
+        "free_bikes": 5, 
+        "id": "79e79edd593cd3afbf820bcb4a1373f3", 
+        "latitude": 32.0564, 
+        "longitude": 34.7812, 
+        "name": "64 Yesud ha-Maala  St. - Central Bus Station", 
+        "timestamp": "2017-08-15T04:46:20.635000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 109
+        }, 
+        "free_bikes": 3, 
+        "id": "ea942e7045adbdd25511f1688a5d4722", 
+        "latitude": 32.1175, 
+        "longitude": 34.798, 
+        "name": "Tagore St. \u2013 commercial center", 
+        "timestamp": "2017-08-15T04:46:20.636000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 232
+        }, 
+        "free_bikes": 6, 
+        "id": "1d79e23ff85dba7027c7c18903282e5a", 
+        "latitude": 32.1058, 
+        "longitude": 34.8195, 
+        "name": "Hadar-Yosef Sport Center", 
+        "timestamp": "2017-08-15T04:46:20.637000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 379
+        }, 
+        "free_bikes": 8, 
+        "id": "be3ff10ed852bfd9d7ad1d1bd9001f1d", 
+        "latitude": 32.0621, 
+        "longitude": 34.7646, 
+        "name": "Shabazi 19 Neve Tsedek", 
+        "timestamp": "2017-08-15T04:46:20.638000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": 522
+        }, 
+        "free_bikes": 19, 
+        "id": "e8c43d5a6aba7c071f88392d067970c4", 
+        "latitude": 32.0543, 
+        "longitude": 34.7849, 
+        "name": "Hahgana Railway Station", 
+        "timestamp": "2017-08-15T04:46:20.640000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 220
+        }, 
+        "free_bikes": 5, 
+        "id": "53ac1595fd08280f745e2c7e93c08adf", 
+        "latitude": 32.1117, 
+        "longitude": 34.8146, 
+        "name": "Opp. 9 Kadesh Barnea St.", 
+        "timestamp": "2017-08-15T04:46:20.640000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 367
+        }, 
+        "free_bikes": 2, 
+        "id": "090638bd119a6a18a56ff4413f40956c", 
+        "latitude": 32.0639, 
+        "longitude": 34.7619, 
+        "name": "Opp. 2 Koifman St. - Gas Station", 
+        "timestamp": "2017-08-15T04:46:20.642000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 509
+        }, 
+        "free_bikes": 5, 
+        "id": "2312890e4370c30eddda16f9f69e8c08", 
+        "latitude": 32.0564, 
+        "longitude": 34.8066, 
+        "name": "40 HaTayassim Rd.", 
+        "timestamp": "2017-08-15T04:46:20.644000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": 213
+        }, 
+        "free_bikes": 5, 
+        "id": "129b325a51a0ca5727815644e9aae53f", 
+        "latitude": 32.1069, 
+        "longitude": 34.8213, 
+        "name": "Shalom Ash", 
+        "timestamp": "2017-08-15T04:46:20.646000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "uid": 210
+        }, 
+        "free_bikes": 5, 
+        "id": "4c1c7f3605ac1ea890fb8b0365be2008", 
+        "latitude": 32.1094, 
+        "longitude": 34.8189, 
+        "name": "Hadar Yosef \u2013 commercial center", 
+        "timestamp": "2017-08-15T04:46:20.647000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 430
+        }, 
+        "free_bikes": 11, 
+        "id": "3d2b823fe4bcbc7161a12142d0ec209c", 
+        "latitude": 32.0558, 
+        "longitude": 34.7727, 
+        "name": "49 Haliya St.", 
+        "timestamp": "2017-08-15T04:46:20.649000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 121
+        }, 
+        "free_bikes": 4, 
+        "id": "57bcad4f364fb7cd8024de620316d78d", 
+        "latitude": 32.1207, 
+        "longitude": 34.7991, 
+        "name": "11 Rav Ashi st.", 
+        "timestamp": "2017-08-15T04:46:20.650000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 107
+        }, 
+        "free_bikes": 4, 
+        "id": "279d6b3f0f06ea4fcbc7e3b619147a09", 
+        "latitude": 32.1212, 
+        "longitude": 34.7832, 
+        "name": "Tel Baruch beach", 
+        "timestamp": "2017-08-15T04:46:20.651000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 416
+        }, 
+        "free_bikes": 9, 
+        "id": "f6188e373cfd1092cc1c64d0def354b0", 
+        "latitude": 32.0561, 
+        "longitude": 34.7696, 
+        "name": "Washington Av./ Florentin St.", 
+        "timestamp": "2017-08-15T04:46:20.653000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "uid": 608
+        }, 
+        "free_bikes": 11, 
+        "id": "a1c375cfe5ed0e7e4f410a7f5f1968a1", 
+        "latitude": 32.06, 
+        "longitude": 34.817, 
+        "name": "Corzin Garden", 
+        "timestamp": "2017-08-15T04:46:20.654000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 377
+        }, 
+        "free_bikes": 1, 
+        "id": "65a8a0ad71a95a8be8f942f25ba04c34", 
+        "latitude": 32.0597, 
+        "longitude": 34.7617, 
+        "name": "Hatachana", 
+        "timestamp": "2017-08-15T04:46:20.655000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": 214
+        }, 
+        "free_bikes": 4, 
+        "id": "0270fbf09e9caece67d0c9db88eeac38", 
+        "latitude": 32.1177, 
+        "longitude": 34.8129, 
+        "name": "Tel Baruch \u2013 Alharizi School", 
+        "timestamp": "2017-08-15T04:46:20.656000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": 207
+        }, 
+        "free_bikes": 2, 
+        "id": "50cd64a854bfb06ddd9133c0162a0af5", 
+        "latitude": 32.1141, 
+        "longitude": 34.8188, 
+        "name": "3 Kehillat Kiov St. \u2013 College of Practical Engineering", 
+        "timestamp": "2017-08-15T04:46:20.657000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": 515
+        }, 
+        "free_bikes": 4, 
+        "id": "d34fde11cae4e7f06a3075f1cf352d1b", 
+        "latitude": 32.0498, 
+        "longitude": 34.7889, 
+        "name": "18 Kabir Lane", 
+        "timestamp": "2017-08-15T04:46:20.659000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 432
+        }, 
+        "free_bikes": 6, 
+        "id": "e282da5f694639aeec5da408ba53d2e3", 
+        "latitude": 32.0517, 
+        "longitude": 34.7745, 
+        "name": "1 Hachme Israel St.", 
+        "timestamp": "2017-08-15T04:46:20.661000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 514
+        }, 
+        "free_bikes": 4, 
+        "id": "4a5bf7a241f14071778a0bec7f92be71", 
+        "latitude": 32.0529, 
+        "longitude": 34.8104, 
+        "name": "59 Maapilei Egoz St.", 
+        "timestamp": "2017-08-15T04:46:20.662000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 418
+        }, 
+        "free_bikes": 6, 
+        "id": "b65434f256e11e73268b71b60aebc5e5", 
+        "latitude": 32.0488, 
+        "longitude": 34.7813, 
+        "name": "opp.13 Israel Misalant St.", 
+        "timestamp": "2017-08-15T04:46:20.663000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 523
+        }, 
+        "free_bikes": 3, 
+        "id": "97f36db1f613db2a7bdd40a967317290", 
+        "latitude": 32.048, 
+        "longitude": 34.7935, 
+        "name": "93 Etsel St.", 
+        "timestamp": "2017-08-15T04:46:20.664000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 105
+        }, 
+        "free_bikes": 3, 
+        "id": "dbf32aaa7e6f70d829ec3fa79bf244c8", 
+        "latitude": 32.1246, 
+        "longitude": 34.8022, 
+        "name": "18 Aba Ahimeir St.- Shuster Center ", 
+        "timestamp": "2017-08-15T04:46:20.666000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 434
+        }, 
+        "free_bikes": 5, 
+        "id": "74f616f8cd76653e2c486c42e17e852e", 
+        "latitude": 32.0553, 
+        "longitude": 34.7601, 
+        "name": "2 Poriya St.", 
+        "timestamp": "2017-08-15T04:46:20.669000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 208
+        }, 
+        "free_bikes": 4, 
+        "id": "378e236ac78c30d93aa12a5d704795ac", 
+        "latitude": 32.1135, 
+        "longitude": 34.8252, 
+        "name": "Opp. 62 Pinchas Rosen St.", 
+        "timestamp": "2017-08-15T04:46:20.670000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 518
+        }, 
+        "free_bikes": 2, 
+        "id": "a4aa1631183532a3ca803d10d8414cb4", 
+        "latitude": 32.047, 
+        "longitude": 34.8, 
+        "name": "111 Bar-Lev Rd.", 
+        "timestamp": "2017-08-15T04:46:20.671000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 404
+        }, 
+        "free_bikes": 2, 
+        "id": "c4a784b8f93cb81e7c74812e9f0c2314", 
+        "latitude": 32.0518, 
+        "longitude": 34.7642, 
+        "name": "Opp. 37 Sheerit Yisrael St. Bloomfield\u00a0Stadium", 
+        "timestamp": "2017-08-15T04:46:20.672000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 218
+        }, 
+        "free_bikes": 7, 
+        "id": "3f0bf2bc41bb6ae2ee62d42e8f75d422", 
+        "latitude": 32.1066, 
+        "longitude": 34.8326, 
+        "name": "Raoul Wallenberg St./ HaBarzel St.", 
+        "timestamp": "2017-08-15T04:46:20.674000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 516
+        }, 
+        "free_bikes": 4, 
+        "id": "43560d32ad9b110394a91bb73fce1a65", 
+        "latitude": 32.0495, 
+        "longitude": 34.8121, 
+        "name": "79 Mahal St.", 
+        "timestamp": "2017-08-15T04:46:20.675000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 406
+        }, 
+        "free_bikes": 5, 
+        "id": "8f1eb29f7cfa4c840320c45098fda8c9", 
+        "latitude": 32.0483, 
+        "longitude": 34.7692, 
+        "name": "155 Herzl St. - Botanical Garden", 
+        "timestamp": "2017-08-15T04:46:20.676000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "uid": 403
+        }, 
+        "free_bikes": 5, 
+        "id": "6a8df4b8c00cf8086e2a47029a41c02d", 
+        "latitude": 32.056, 
+        "longitude": 34.7556, 
+        "name": " The Clock Tower", 
+        "timestamp": "2017-08-15T04:46:20.676000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "uid": 203
+        }, 
+        "free_bikes": 6, 
+        "id": "dd80a803fb5140e9ed94f44289d29476", 
+        "latitude": 32.12, 
+        "longitude": 34.8211, 
+        "name": "16 Lea St./ Alterman St.", 
+        "timestamp": "2017-08-15T04:46:20.677000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 202
+        }, 
+        "free_bikes": 3, 
+        "id": "ec9065ac3cbdd4195c67db39d0190edc", 
+        "latitude": 32.1221, 
+        "longitude": 34.8178, 
+        "name": "15 Beker Aharon St.", 
+        "timestamp": "2017-08-15T04:46:20.678000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "uid": 217
+        }, 
+        "free_bikes": 3, 
+        "id": "a01638b83df5f954cd917044bf84183c", 
+        "latitude": 32.1176, 
+        "longitude": 34.8246, 
+        "name": "7 Marcel Yanko St.", 
+        "timestamp": "2017-08-15T04:46:20.679000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 212
+        }, 
+        "free_bikes": 1, 
+        "id": "7964097b7dcf680097b37c33b0f8746f", 
+        "latitude": 32.11, 
+        "longitude": 34.8324, 
+        "name": "6 Harugey Malkhot St.", 
+        "timestamp": "2017-08-15T04:46:20.680000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 104
+        }, 
+        "free_bikes": 3, 
+        "id": "f5d02bd9df4f84db6119da054ec0e18a", 
+        "latitude": 32.1298, 
+        "longitude": 34.7923, 
+        "name": "Azorei Chen \u2013 26 Greenberg St.", 
+        "timestamp": "2017-08-15T04:46:20.681000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 420
+        }, 
+        "free_bikes": 8, 
+        "id": "e0fc4b8023e99e989305f629b72bad5a", 
+        "latitude": 32.0507, 
+        "longitude": 34.7594, 
+        "name": "Jerusalem Av./ 1 Ben Zvi Av.", 
+        "timestamp": "2017-08-15T04:46:20.682000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 411
+        }, 
+        "free_bikes": 4, 
+        "id": "47ac909071e35dea6de1c20b8903669e", 
+        "latitude": 32.0533, 
+        "longitude": 34.7554, 
+        "name": "Flea market \u2013 Rabbi Aha St.", 
+        "timestamp": "2017-08-15T04:46:20.683000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 412
+        }, 
+        "free_bikes": 5, 
+        "id": "d276871629049308e624265df944364b", 
+        "latitude": 32.0426, 
+        "longitude": 34.7804, 
+        "name": "34 Guri Yisrael St.", 
+        "timestamp": "2017-08-15T04:46:20.684000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 517
+        }, 
+        "free_bikes": 1, 
+        "id": "595d2b2b5194b0c682dd93d8fbd0af15", 
+        "latitude": 32.045, 
+        "longitude": 34.8097, 
+        "name": "186 Bar-Lev Rd.", 
+        "timestamp": "2017-08-15T04:46:20.685000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 219
+        }, 
+        "free_bikes": 4, 
+        "id": "639f6f2f009601985f08be6f7cdb9d85", 
+        "latitude": 32.1132, 
+        "longitude": 34.8326, 
+        "name": "Shikun Dan \u2013 79 Mishmar HaYarden St.", 
+        "timestamp": "2017-08-15T04:46:20.686000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 520
+        }, 
+        "free_bikes": 6, 
+        "id": "a4eceafe0e7e5757fa1834598e75c698", 
+        "latitude": 32.0434, 
+        "longitude": 34.8046, 
+        "name": "Park Darom \u2013 Entrance (Biranit St.)", 
+        "timestamp": "2017-08-15T04:46:20.687000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 405
+        }, 
+        "free_bikes": 1, 
+        "id": "811536a558931980266c068694f17d6f", 
+        "latitude": 32.0547, 
+        "longitude": 34.752, 
+        "name": "Kedumim Square \u2013 Old jaffa", 
+        "timestamp": "2017-08-15T04:46:20.688000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "uid": 433
+        }, 
+        "free_bikes": 6, 
+        "id": "cb2814aa29a995ed28ed2fd1eaad8fb9", 
+        "latitude": 32.05, 
+        "longitude": 34.756, 
+        "name": "23 Dror St. - GALAZ", 
+        "timestamp": "2017-08-15T04:46:20.689000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 204
+        }, 
+        "free_bikes": 3, 
+        "id": "26191d0ca000bdd198e1ad3fc317431b", 
+        "latitude": 32.1222, 
+        "longitude": 34.8255, 
+        "name": "Tsahal St./ Ir Shemesh St.", 
+        "timestamp": "2017-08-15T04:46:20.690000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "uid": 407
+        }, 
+        "free_bikes": 5, 
+        "id": "d810aed8d1f5deaa3f6b28d0c064b898", 
+        "latitude": 32.0474, 
+        "longitude": 34.7596, 
+        "name": "Opp. 34 Azza St. \u2013 Tlv College", 
+        "timestamp": "2017-08-15T04:46:20.691000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "uid": 409
+        }, 
+        "free_bikes": 0, 
+        "id": "41b43058cdcc3ea42e38e7909a32353d", 
+        "latitude": 32.0537, 
+        "longitude": 34.7503, 
+        "name": "Nemal Yaffo - Ha-migdalor (jaffa Port)", 
+        "timestamp": "2017-08-15T04:46:20.692000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 415
+        }, 
+        "free_bikes": 4, 
+        "id": "03d65503232c6384428c4a0afc0b7421", 
+        "latitude": 32.0417, 
+        "longitude": 34.7733, 
+        "name": "91 Ben-Zvi Av.", 
+        "timestamp": "2017-08-15T04:46:20.693000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 231
+        }, 
+        "free_bikes": 4, 
+        "id": "08fb8e27432810ba34d812d297982a9a", 
+        "latitude": 32.1106, 
+        "longitude": 34.8377, 
+        "name": "Raoul Wallenberg St/ Hanechoshet St. ", 
+        "timestamp": "2017-08-15T04:46:20.695000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 211
+        }, 
+        "free_bikes": 3, 
+        "id": "d67b1cca8ba3b00791baff129deb70d9", 
+        "latitude": 32.109, 
+        "longitude": 34.8394, 
+        "name": "Assuta \u2013 23 HaBarzel St.", 
+        "timestamp": "2017-08-15T04:46:20.697000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 408
+        }, 
+        "free_bikes": 2, 
+        "id": "0b23da55e59868039ff3246697e1253b", 
+        "latitude": 32.0409, 
+        "longitude": 34.7656, 
+        "name": "37  Greenbaum St.", 
+        "timestamp": "2017-08-15T04:46:20.698000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": 230
+        }, 
+        "free_bikes": 4, 
+        "id": "3d695ba0f2848c454b7cd46a98e876d2", 
+        "latitude": 32.1107, 
+        "longitude": 34.8418, 
+        "name": "Habarzel Square", 
+        "timestamp": "2017-08-15T04:46:20.700000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "uid": 410
+        }, 
+        "free_bikes": 3, 
+        "id": "021216a0a2a5a70f8cbd669ac3bd25b7", 
+        "latitude": 32.0475, 
+        "longitude": 34.7526, 
+        "name": "66 Yefet St.", 
+        "timestamp": "2017-08-15T04:46:20.701000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "uid": 201
+        }, 
+        "free_bikes": 4, 
+        "id": "56d7fb40b9145669420e36e241b43866", 
+        "latitude": 32.1264, 
+        "longitude": 34.8281, 
+        "name": "The Plant Nursery \u2013 12 Max Brod St.", 
+        "timestamp": "2017-08-15T04:46:20.702000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 205
+        }, 
+        "free_bikes": 2, 
+        "id": "b4ec8afc4f5aea6c316f3b4c28575a28", 
+        "latitude": 32.1214, 
+        "longitude": 34.8349, 
+        "name": "Opp. 76 Tsahal St.", 
+        "timestamp": "2017-08-15T04:46:20.704000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 209
+        }, 
+        "free_bikes": 1, 
+        "id": "602c62297e4cdd2aadd0ccd2a56dad83", 
+        "latitude": 32.1143, 
+        "longitude": 34.8413, 
+        "name": "Raoul Valenberg St./ Dvorah HaNeva St.- Atidim", 
+        "timestamp": "2017-08-15T04:46:20.705000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 206
+        }, 
+        "free_bikes": 3, 
+        "id": "96c5075fdb828f465915ae49c312bc39", 
+        "latitude": 32.1178, 
+        "longitude": 34.8395, 
+        "name": "Neve Sharett \u2013 2 HaTzanchanim St.", 
+        "timestamp": "2017-08-15T04:46:20.706000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 423
+        }, 
+        "free_bikes": 2, 
+        "id": "8946788d84957616ae4a0a3fe43a7e7a", 
+        "latitude": 32.0463, 
+        "longitude": 34.7489, 
+        "name": "49 Kedem St.", 
+        "timestamp": "2017-08-15T04:46:20.708000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "uid": 102
+        }, 
+        "free_bikes": 5, 
+        "id": "724e1ba0b15c76d7d47f056416adb815", 
+        "latitude": 32.1401, 
+        "longitude": 34.791, 
+        "name": "South Cliff Beach", 
+        "timestamp": "2017-08-15T04:46:20.709000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 417
+        }, 
+        "free_bikes": 1, 
+        "id": "575b3e88cc8b4ee180a12e4d3ed01f69", 
+        "latitude": 32.039, 
+        "longitude": 34.756, 
+        "name": "Yerushalayim Av. Nahal Habsor", 
+        "timestamp": "2017-08-15T04:46:20.710000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "uid": 101
+        }, 
+        "free_bikes": 7, 
+        "id": "ceaae6485751161ae361620af4143aa7", 
+        "latitude": 32.1435, 
+        "longitude": 34.7925, 
+        "name": "North Cliff Beach", 
+        "timestamp": "2017-08-15T04:46:20.712000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "uid": 431
+        }, 
+        "free_bikes": 2, 
+        "id": "563fe5d3abf0e9ae8250cdb01ef7c389", 
+        "latitude": 32.0358, 
+        "longitude": 34.7591, 
+        "name": "Wolfson Train Station", 
+        "timestamp": "2017-08-15T04:46:20.713000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "uid": 422
+        }, 
+        "free_bikes": 2, 
+        "id": "81bf4be77e90cfebf837b4b789071b0d", 
+        "latitude": 32.0419, 
+        "longitude": 34.7472, 
+        "name": "Mendes Parnas St. \u2013 Toulouse Gardens", 
+        "timestamp": "2017-08-15T04:46:20.715000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "uid": 414
+        }, 
+        "free_bikes": 2, 
+        "id": "6546273c0171207c9dddfeb9704248c3", 
+        "latitude": 32.0374, 
+        "longitude": 34.7511, 
+        "name": "HaBesht Ave. \u2013 Neve Golan", 
+        "timestamp": "2017-08-15T04:46:20.716000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "uid": 425
+        }, 
+        "free_bikes": 4, 
+        "id": "273652f11c21256d88464be886d3c4f4", 
+        "latitude": 32.0338, 
+        "longitude": 34.7533, 
+        "name": "9 Machrozet St.", 
+        "timestamp": "2017-08-15T04:46:20.718000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "uid": 424
+        }, 
+        "free_bikes": 0, 
+        "id": "838e2e84a542a4446855100d756f1630", 
+        "latitude": 32.0318, 
+        "longitude": 34.7474, 
+        "name": "Opp. 36 Isaac Harif St.", 
+        "timestamp": "2017-08-15T04:46:20.719000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "uid": 503
+        }, 
+        "free_bikes": 1, 
+        "id": "0163aa0d7fbd891a2a794f8c130277b8", 
+        "latitude": 32.0695, 
+        "longitude": 34.7938, 
+        "name": "96 Yigal Allon St.", 
+        "timestamp": "2017-08-15T04:46:20.722000Z"
+      }
+    ]
+  }
+}

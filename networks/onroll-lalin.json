@@ -1,0 +1,82 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-lalin", 
+    "id": "onroll-lalin", 
+    "location": {
+      "city": "Lal\u00edn", 
+      "country": "ES", 
+      "latitude": 42.658626, 
+      "longitude": -8.114976
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "32622f0917448e9e42a5608d18118bfd", 
+        "latitude": 42.651481, 
+        "longitude": -8.125319, 
+        "name": "Campo de F\u00fatbol", 
+        "timestamp": "2017-08-15T04:48:53.493000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "188e2cb5c90284860d19bb4987186185", 
+        "latitude": 42.656756, 
+        "longitude": -8.113497, 
+        "name": "Estaci\u00f3n de Autobuses", 
+        "timestamp": "2017-08-15T04:48:53.495000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "e604c8227ec3b4e7b8474f1090f69cda", 
+        "latitude": 42.66195, 
+        "longitude": -8.112567, 
+        "name": "Plaza de las Pipas", 
+        "timestamp": "2017-08-15T04:48:53.496000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "ca189a46de9e6d186f8eccd318c89e34", 
+        "latitude": 42.664317, 
+        "longitude": -8.108522, 
+        "name": "Zona Deportiva Escolar", 
+        "timestamp": "2017-08-15T04:48:53.497000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "network": {
+    "company": [
+      "Brainbox Technology", 
+      "Smoove SAS"
+    ], 
+    "href": "/v2/networks/easybike-kavala", 
+    "id": "easybike-kavala", 
+    "location": {
+      "city": "Kavala", 
+      "country": "GR", 
+      "latitude": 40.9369068, 
+      "longitude": 24.4122164
+    }, 
+    "name": "EasyBike", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 2, 
+        "id": "207aa8c89501c2b9015ee3dd75199d48", 
+        "latitude": 40.9340877296, 
+        "longitude": 24.4129087734, 
+        "name": "Parking Limenos", 
+        "timestamp": "2017-08-15T04:49:31.835000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 4, 
+        "id": "14a2310bbddde0831933697752e07977", 
+        "latitude": 40.9378930336, 
+        "longitude": 24.4092153716, 
+        "name": "Plateia Kapnergati", 
+        "timestamp": "2017-08-15T04:49:31.832000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 3, 
+        "id": "adf9eee0b0a547dde0f0beab025c3206", 
+        "latitude": 40.9360978003, 
+        "longitude": 24.4050659943, 
+        "name": "Nomarxia", 
+        "timestamp": "2017-08-15T04:49:31.836000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "slots": 20
+        }, 
+        "free_bikes": 2, 
+        "id": "ca2803a149889b3d53eb53b009fb8ab2", 
+        "latitude": 40.9363733698, 
+        "longitude": 24.4121148396, 
+        "name": "Plateia Eleutherias", 
+        "timestamp": "2017-08-15T04:49:31.838000Z"
+      }
+    ]
+  }
+}

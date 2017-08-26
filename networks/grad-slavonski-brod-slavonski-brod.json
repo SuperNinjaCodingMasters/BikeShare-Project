@@ -1,0 +1,77 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/grad-slavonski-brod-slavonski-brod", 
+    "id": "grad-slavonski-brod-slavonski-brod", 
+    "location": {
+      "city": "Slavonski Brod", 
+      "country": "HR", 
+      "latitude": 45.1656, 
+      "longitude": 18.0183
+    }, 
+    "name": "Grad Slavonski Brod", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "80127", 
+            "80131", 
+            "80135", 
+            "80139", 
+            "80146"
+          ], 
+          "number": "2335", 
+          "slots": 8, 
+          "uid": "469545"
+        }, 
+        "free_bikes": 6, 
+        "id": "1a21c93c0ed8ca4c01111a933ef9b443", 
+        "latitude": 45.155698849315, 
+        "longitude": 18.012197613716, 
+        "name": "Korzo", 
+        "timestamp": "2017-08-15T04:49:47.031000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "80141", 
+            "80132", 
+            "80149"
+          ], 
+          "number": "2336", 
+          "slots": 4, 
+          "uid": "469546"
+        }, 
+        "free_bikes": 3, 
+        "id": "96f4e5898b6573964634c4756a2ed06b", 
+        "latitude": 45.154401301741, 
+        "longitude": 18.023838400841, 
+        "name": "Tr\u017enica", 
+        "timestamp": "2017-08-15T04:49:47.043000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "80137", 
+            "80136", 
+            "80130"
+          ], 
+          "number": "2337", 
+          "slots": 4, 
+          "uid": "469547"
+        }, 
+        "free_bikes": 3, 
+        "id": "5033ef16b268bbcd249d8a556e2317ce", 
+        "latitude": 45.148590347297, 
+        "longitude": 18.023055195808, 
+        "name": "Bazeni", 
+        "timestamp": "2017-08-15T04:49:47.044000Z"
+      }
+    ]
+  }
+}

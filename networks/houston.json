@@ -1,0 +1,755 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_houston/gbfs.json", 
+    "href": "/v2/networks/houston", 
+    "id": "houston", 
+    "location": {
+      "city": "Houston, TX", 
+      "country": "US", 
+      "latitude": 29.75983, 
+      "longitude": -95.36949
+    }, 
+    "name": "Houston B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "3812 Baden Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3681"
+        }, 
+        "free_bikes": 4, 
+        "id": "590eb5c26f68c4b5e91e75bc01c76c31", 
+        "latitude": 29.79461, 
+        "longitude": -95.36553, 
+        "name": "Moody Park", 
+        "timestamp": "2017-08-15T04:46:15.968000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2760 Houston Ave", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3663"
+        }, 
+        "free_bikes": 6, 
+        "id": "aaa58a57edbd0e20f51e690cc67b8f1f", 
+        "latitude": 29.78269, 
+        "longitude": -95.37175, 
+        "name": "Woodland Park", 
+        "timestamp": "2017-08-15T04:46:15.981000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1202 Franklin Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3682"
+        }, 
+        "free_bikes": 12, 
+        "id": "1f6f746e3b5205c77cbdc6a83a47c573", 
+        "latitude": 29.76161, 
+        "longitude": -95.35802, 
+        "name": "Jury Assembly", 
+        "timestamp": "2017-08-15T04:46:15.959000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2501 Navigation Blvd", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3699"
+        }, 
+        "free_bikes": 5, 
+        "id": "3e672086e19306d44c50cae8b1806062", 
+        "latitude": 29.75793, 
+        "longitude": -95.34371, 
+        "name": "Navigation Esplanade ", 
+        "timestamp": "2017-08-15T04:46:15.996000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "2109 South St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2438"
+        }, 
+        "free_bikes": 2, 
+        "id": "3893c107e5e1f158b4f15f8f7d7225ce", 
+        "latitude": 29.77818, 
+        "longitude": -95.36673, 
+        "name": "Leonel Castillo Comm Ctr / South St. & Henry", 
+        "timestamp": "2017-08-15T04:46:15.994000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "3512 Main Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2202"
+        }, 
+        "free_bikes": 1, 
+        "id": "48514cbc39d7d937d6a210f771a5c8ac", 
+        "latitude": 29.73959, 
+        "longitude": -95.37849, 
+        "name": "Ensemble/HCC Station", 
+        "timestamp": "2017-08-15T04:46:15.992000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "190 Sabine Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2291"
+        }, 
+        "free_bikes": 7, 
+        "id": "690141ea0e4084ccdec67b60eb8aff5b", 
+        "latitude": 29.76184, 
+        "longitude": -95.37548, 
+        "name": "Sabine Bridge ", 
+        "timestamp": "2017-08-15T04:46:16.013000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1815 Cullen Blvd", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3723"
+        }, 
+        "free_bikes": 5, 
+        "id": "265e527ac5241f0201f2bbc61392290c", 
+        "latitude": 29.7341, 
+        "longitude": -95.34114, 
+        "name": "Gateway on Cullen", 
+        "timestamp": "2017-08-15T04:46:15.970000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "473 McKinney St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2061"
+        }, 
+        "free_bikes": 6, 
+        "id": "ce5edbc1b7fdf40801ab5da9f3ae62ef", 
+        "latitude": 29.75983, 
+        "longitude": -95.36949, 
+        "name": "City Hall", 
+        "timestamp": "2017-08-15T04:46:16.001000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "782 Lamar", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2271"
+        }, 
+        "free_bikes": 0, 
+        "id": "0b4e7f5285f05b86f0576b487b9c8956", 
+        "latitude": 29.75737, 
+        "longitude": -95.36762, 
+        "name": "Lamar & Milam", 
+        "timestamp": "2017-08-15T04:46:16.027000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "614 Elgin", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2282"
+        }, 
+        "free_bikes": 7, 
+        "id": "e1d57b20e058d129ec9cd10c0a0d39eb", 
+        "latitude": 29.74366, 
+        "longitude": -95.38025, 
+        "name": "Elgin & Smith", 
+        "timestamp": "2017-08-15T04:46:15.974000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "2401 Taft St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2434"
+        }, 
+        "free_bikes": 1, 
+        "id": "7e8d8de15e7bf13f88d5c69daba6ce7e", 
+        "latitude": 29.74837, 
+        "longitude": -95.38563, 
+        "name": "Taft & Fairview", 
+        "timestamp": "2017-08-15T04:46:15.985000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "554 Clay", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2369"
+        }, 
+        "free_bikes": 8, 
+        "id": "9042b696511ec294e155ea7ba62ed564", 
+        "latitude": 29.75616, 
+        "longitude": -95.37112, 
+        "name": "Clay & Smith", 
+        "timestamp": "2017-08-15T04:46:16.040000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "864 Congress St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2062"
+        }, 
+        "free_bikes": 8, 
+        "id": "9235fde0d9da78c1277ca7cf6fa4232d", 
+        "latitude": 29.76276, 
+        "longitude": -95.36198, 
+        "name": "Market Square", 
+        "timestamp": "2017-08-15T04:46:16.010000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1919 Runnels", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2529"
+        }, 
+        "free_bikes": 9, 
+        "id": "dd533d3775d775508b01bc3ba34f4e33", 
+        "latitude": 29.76073, 
+        "longitude": -95.348, 
+        "name": "1919 Runnels", 
+        "timestamp": "2017-08-15T04:46:16.012000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "1177 Crawford", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2063"
+        }, 
+        "free_bikes": 5, 
+        "id": "114020eb857b95aa900186d1ddc6204a", 
+        "latitude": 29.75245, 
+        "longitude": -95.36076, 
+        "name": "Lamar & Crawford", 
+        "timestamp": "2017-08-15T04:46:15.991000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1248 McKinney", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2274"
+        }, 
+        "free_bikes": 3, 
+        "id": "109f4e0aa482745773fce68b6bcbe3f7", 
+        "latitude": 29.75558, 
+        "longitude": -95.36249, 
+        "name": "McKinney & Caroline", 
+        "timestamp": "2017-08-15T04:46:16.034000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2600 Brazos St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3365"
+        }, 
+        "free_bikes": 6, 
+        "id": "95c49c6e150f840ef3deb0c9e31c9bd3", 
+        "latitude": 29.74783, 
+        "longitude": -95.37837, 
+        "name": "Brazos & McGowen", 
+        "timestamp": "2017-08-15T04:46:16.038000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "4912 Main St", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3662"
+        }, 
+        "free_bikes": 5, 
+        "id": "77c9110c11ffa6cd5f5563d0794eb6b3", 
+        "latitude": 29.72985, 
+        "longitude": -95.38656, 
+        "name": "Main & Wichita St", 
+        "timestamp": "2017-08-15T04:46:15.999000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "4100 Montrose ", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2284"
+        }, 
+        "free_bikes": 6, 
+        "id": "74f3cb5a9d4c21081c215c00281a215d", 
+        "latitude": 29.73554, 
+        "longitude": -95.39124, 
+        "name": "Freed Library ", 
+        "timestamp": "2017-08-15T04:46:15.977000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "2215 Milam St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2435"
+        }, 
+        "free_bikes": 7, 
+        "id": "d2721f7d12097c582823689ed4ae7edb", 
+        "latitude": 29.74876, 
+        "longitude": -95.37412, 
+        "name": "Milam & Webster", 
+        "timestamp": "2017-08-15T04:46:15.987000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "914 Main St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3393"
+        }, 
+        "free_bikes": 8, 
+        "id": "ad8c05fe64df2271ab8fa09d44581174", 
+        "latitude": 29.75764, 
+        "longitude": -95.36436, 
+        "name": "Main & Walker", 
+        "timestamp": "2017-08-15T04:46:16.002000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "808 Pease St", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2201"
+        }, 
+        "free_bikes": 6, 
+        "id": "951c359333b89179f83fe0d4a9c88610", 
+        "latitude": 29.75256, 
+        "longitude": -95.37067, 
+        "name": "Tellepsen YMCA", 
+        "timestamp": "2017-08-15T04:46:15.989000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1250 Main", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2272"
+        }, 
+        "free_bikes": 6, 
+        "id": "0bf1bf3d1ab26122393db90537f27388", 
+        "latitude": 29.75514, 
+        "longitude": -95.36625, 
+        "name": "Main & Dallas", 
+        "timestamp": "2017-08-15T04:46:16.029000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "300 Jackson St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3374"
+        }, 
+        "free_bikes": 4, 
+        "id": "aba1e53a2bdbbde6e473f7ffaf2e9df5", 
+        "latitude": 29.76337, 
+        "longitude": -95.4017, 
+        "name": "Jackson Hill & Memorial Dr.", 
+        "timestamp": "2017-08-15T04:46:15.969000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1075 La Branch", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2273"
+        }, 
+        "free_bikes": 7, 
+        "id": "26b792f4c7f1a0abc37417db7f1e43a4", 
+        "latitude": 29.75378, 
+        "longitude": -95.3612, 
+        "name": "La Branch & Lamar", 
+        "timestamp": "2017-08-15T04:46:16.031000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "2300 Forester", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2441"
+        }, 
+        "free_bikes": 10, 
+        "id": "948cdf596812130d1b4bd4715ae354b7", 
+        "latitude": 29.77909, 
+        "longitude": -95.38566, 
+        "name": "Stude Park", 
+        "timestamp": "2017-08-15T04:46:16.009000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "925 Crawford Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3627"
+        }, 
+        "free_bikes": 7, 
+        "id": "7d6915dd2557994e336bd1b7d0029d6e", 
+        "latitude": 29.75444, 
+        "longitude": -95.3592, 
+        "name": "Crawford Island", 
+        "timestamp": "2017-08-15T04:46:15.980000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "218 Gray Street ", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2280"
+        }, 
+        "free_bikes": 7, 
+        "id": "5d549d2b42acb79863a2426f89cf16de", 
+        "latitude": 29.7524, 
+        "longitude": -95.37765, 
+        "name": "West Gray & Baldwin", 
+        "timestamp": "2017-08-15T04:46:15.972000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1529 W. Alabama St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2436"
+        }, 
+        "free_bikes": 5, 
+        "id": "f568d190306d13b7c6ac3e2fce357ecc", 
+        "latitude": 29.73864, 
+        "longitude": -95.39767, 
+        "name": "Menil Collection / Alabama & Mandell", 
+        "timestamp": "2017-08-15T04:46:15.983000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1701 Elgin Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3683"
+        }, 
+        "free_bikes": 4, 
+        "id": "7d893b32dc76e3ba686635bf561eb3c7", 
+        "latitude": 29.73837, 
+        "longitude": -95.371, 
+        "name": "Baldwin Park", 
+        "timestamp": "2017-08-15T04:46:15.965000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "3100 Dowling Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3680"
+        }, 
+        "free_bikes": 5, 
+        "id": "6de291e74516975845eb7a40bf0ef6cc", 
+        "latitude": 29.73529, 
+        "longitude": -95.36453, 
+        "name": "Emancipation Park", 
+        "timestamp": "2017-08-15T04:46:15.966000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "10401 Town and Country Way", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3478"
+        }, 
+        "free_bikes": 7, 
+        "id": "89bd1411f8226d394f2fdaa66890f79e", 
+        "latitude": 29.7815, 
+        "longitude": -95.5547, 
+        "name": "Pearl City Centre", 
+        "timestamp": "2017-08-15T04:46:16.037000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1515 Hermann Drive", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3721"
+        }, 
+        "free_bikes": 7, 
+        "id": "22b3bbc57da0da2eace542910c7c85ab", 
+        "latitude": 29.72151, 
+        "longitude": -95.38606, 
+        "name": "Health Museum", 
+        "timestamp": "2017-08-15T04:46:16.004000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "5418 Washington Ave", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3722"
+        }, 
+        "free_bikes": 3, 
+        "id": "dd2b3ab3e3e8c9d958e67afc7e3c8c80", 
+        "latitude": 29.77078, 
+        "longitude": -95.41696, 
+        "name": "TC Jester & Washington", 
+        "timestamp": "2017-08-15T04:46:15.984000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "612 Smith Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2270"
+        }, 
+        "free_bikes": 8, 
+        "id": "d4e81b76076c215055c4dd0782dc6a30", 
+        "latitude": 29.7617, 
+        "longitude": -95.36647, 
+        "name": "Smith & Capitol", 
+        "timestamp": "2017-08-15T04:46:16.014000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "100 Main Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2277"
+        }, 
+        "free_bikes": 6, 
+        "id": "9b56ae986d96d9a1ba1dbb87d6a94798", 
+        "latitude": 29.76318, 
+        "longitude": -95.35996, 
+        "name": "UHD/Main & Franklin", 
+        "timestamp": "2017-08-15T04:46:16.035000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1111 Westheimer ", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2283"
+        }, 
+        "free_bikes": 10, 
+        "id": "8c8fe7978dcd1cb1cd84ce78560bef96", 
+        "latitude": 29.74483, 
+        "longitude": -95.39273, 
+        "name": "Westheimer & Waugh", 
+        "timestamp": "2017-08-15T04:46:15.973000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "5623 Fannin St. ", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2285"
+        }, 
+        "free_bikes": 6, 
+        "id": "95cbce3efcb0b2c5d849242543d8e290", 
+        "latitude": 29.72497, 
+        "longitude": -95.38913, 
+        "name": "MFAH/ Fannin & Binz", 
+        "timestamp": "2017-08-15T04:46:15.976000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "2521 Holman St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2439"
+        }, 
+        "free_bikes": 5, 
+        "id": "90cf4034c6eafb2eee607fb24c7f7973", 
+        "latitude": 29.73169, 
+        "longitude": -95.3649, 
+        "name": "Project Row House / Holman & Live Oak", 
+        "timestamp": "2017-08-15T04:46:15.995000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "6100 Herman Park Drive", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2203"
+        }, 
+        "free_bikes": 10, 
+        "id": "ce8a5e9f53ee1bef0613eab876f5f028", 
+        "latitude": 29.71732, 
+        "longitude": -95.38919, 
+        "name": "Hermann Park Lake Plaza", 
+        "timestamp": "2017-08-15T04:46:16.006000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "3683 Willia St.", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2433"
+        }, 
+        "free_bikes": 5, 
+        "id": "ebc60c1a6c999c52f19c179cb9c44a37", 
+        "latitude": 29.76612, 
+        "longitude": -95.39681, 
+        "name": "Spotts Park", 
+        "timestamp": "2017-08-15T04:46:15.988000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "736 St. Emanuel", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2279"
+        }, 
+        "free_bikes": 3, 
+        "id": "8f3a090c25b47f278b4766151633c026", 
+        "latitude": 29.75273, 
+        "longitude": -95.35419, 
+        "name": "Rusk & St. Emanuel ", 
+        "timestamp": "2017-08-15T04:46:16.008000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1900 Main Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_2288"
+        }, 
+        "free_bikes": 4, 
+        "id": "b17d9b616aa54fcfaf934f89085b0266", 
+        "latitude": 29.74983, 
+        "longitude": -95.37076, 
+        "name": "METRO Transit Center ", 
+        "timestamp": "2017-08-15T04:46:15.978000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "3450 D'Amico Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3661"
+        }, 
+        "free_bikes": 7, 
+        "id": "9b45e7674af482d7b8984a2e8edfeb0e", 
+        "latitude": 29.75921, 
+        "longitude": -95.40201, 
+        "name": "Lost Lake", 
+        "timestamp": "2017-08-15T04:46:15.998000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "238 Flynn Street", 
+          "last_updated": 1502772331, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_houston_3664"
+        }, 
+        "free_bikes": 5, 
+        "id": "aa2daa67fe6bf2008d9119a4cb79b3c7", 
+        "latitude": 29.75967, 
+        "longitude": -95.34531, 
+        "name": "Guadalupe Park Plaza", 
+        "timestamp": "2017-08-15T04:46:16.005000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-gaeta", 
+    "id": "bicincitta-gaeta", 
+    "location": {
+      "city": "Gaeta", 
+      "country": "IT", 
+      "latitude": 41.209620965538036, 
+      "longitude": 13.584335125656139
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazzale Caboto", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "92d065600c407d8741bcaaccd062cfca", 
+        "latitude": 41.209620965538036, 
+        "longitude": 13.584335125656139, 
+        "name": "Caboto", 
+        "timestamp": "2017-08-15T04:49:13.920000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Piazza 19 Maggio", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "05475ebb8a396dc9f0dbcac3e5571878", 
+        "latitude": 41.21350441568136, 
+        "longitude": 13.571754111570044, 
+        "name": "Municipio", 
+        "timestamp": "2017-08-15T04:49:13.931000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Via Genova", 
+          "status": "offline"
+        }, 
+        "free_bikes": 6, 
+        "id": "3603c36433d731dc3eb00badf9202125", 
+        "latitude": 41.20976183072208, 
+        "longitude": 13.570607225795015, 
+        "name": "Villetta di Serapo", 
+        "timestamp": "2017-08-15T04:49:13.933000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via Giuseppe Garibaldi", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "e7d1c380db4063e237fdacd280052f05", 
+        "latitude": 41.21353316752516, 
+        "longitude": 13.566676780456532, 
+        "name": "Antica Stazione", 
+        "timestamp": "2017-08-15T04:49:13.932000Z"
+      }
+    ]
+  }
+}

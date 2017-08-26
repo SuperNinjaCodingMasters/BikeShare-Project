@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-san-pedro", 
+    "id": "onroll-san-pedro", 
+    "location": {
+      "city": "San Pedro del Pinatar", 
+      "country": "ES", 
+      "latitude": 37.827578, 
+      "longitude": -0.783944
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "4baa6d1b12b2a189a6b9bb4abe483d19", 
+        "latitude": 37.835728, 
+        "longitude": -0.791514, 
+        "name": "Ayuntamiento", 
+        "timestamp": "2017-08-15T04:46:45.866000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "49fc979f961f4825e9e0ea43bd4a835f", 
+        "latitude": 37.830619, 
+        "longitude": -0.786961, 
+        "name": "Casa de la Cultura", 
+        "timestamp": "2017-08-15T04:46:45.868000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "c5aaffa7d0d4cd38ee18a1ba29be1d87", 
+        "latitude": 37.834808, 
+        "longitude": -0.778811, 
+        "name": "Centro las Salinas", 
+        "timestamp": "2017-08-15T04:46:45.869000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "0461a0b4a9d7d5c1aa2f17a53c5ad2c0", 
+        "latitude": 37.816625, 
+        "longitude": -0.786011, 
+        "name": "Explanada de lo Pagan", 
+        "timestamp": "2017-08-15T04:46:45.870000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "b186e57359dd0252f063f99c14fde9b7", 
+        "latitude": 37.820111, 
+        "longitude": -0.776425, 
+        "name": "La Mota", 
+        "timestamp": "2017-08-15T04:46:45.871000Z"
+      }
+    ]
+  }
+}

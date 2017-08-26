@@ -1,0 +1,114 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-via-verde", 
+    "id": "onroll-via-verde", 
+    "location": {
+      "city": "Noia - Portosin - Porto do Son", 
+      "country": "ES", 
+      "latitude": 42.768127, 
+      "longitude": -8.908513
+    }, 
+    "name": "Onroll Via Verde", 
+    "stations": [
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "7b97cfc4da61758910df76d57c056db4", 
+        "latitude": 42.72492, 
+        "longitude": -9.007453, 
+        "name": "Biblioteca Municipal Xerardo D\u00fdaz - Porto Do Son", 
+        "timestamp": "2017-08-15T04:46:03.190000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "8e6b22ccc1fed7c3353f88e350bc7b4d", 
+        "latitude": 42.75864, 
+        "longitude": -8.94698, 
+        "name": "Casa Da Cultura - Portosin", 
+        "timestamp": "2017-08-15T04:46:03.192000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "6f9213f630f87a9d87621949740e2e16", 
+        "latitude": 42.785368, 
+        "longitude": -8.865377, 
+        "name": "Casa Do Concello - Lousame", 
+        "timestamp": "2017-08-15T04:46:03.193000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "aa205b10886ea82400de2a13a13bd8a2", 
+        "latitude": 42.773536, 
+        "longitude": -8.856769, 
+        "name": "Polideportivo Municipal - Lousame", 
+        "timestamp": "2017-08-15T04:46:03.194000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "7b39bdcf6c0cd8fe6cc7a1eb97ef6e72", 
+        "latitude": 42.781825, 
+        "longitude": -8.8857, 
+        "name": "Praza Das Am\u00e9ricas - Noia", 
+        "timestamp": "2017-08-15T04:46:03.194000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "f3da1e431e191bfcf87a817b7118e22e", 
+        "latitude": 42.784472, 
+        "longitude": -8.8888, 
+        "name": "R\u00faa Besteiros - Noia", 
+        "timestamp": "2017-08-15T04:46:03.195000Z"
+      }
+    ]
+  }
+}

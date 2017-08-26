@@ -1,0 +1,325 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/skybike-west-palm-beach-west-palm-beach-florida", 
+    "id": "skybike-west-palm-beach-west-palm-beach-florida", 
+    "location": {
+      "city": "West Palm Beach Florida", 
+      "country": "US", 
+      "latitude": 26.7125, 
+      "longitude": -80.0821
+    }, 
+    "name": "Skybike", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "71139", 
+            "71136", 
+            "71126", 
+            "71117", 
+            "71100"
+          ], 
+          "number": "1103", 
+          "slots": 15, 
+          "uid": "355395"
+        }, 
+        "free_bikes": 5, 
+        "id": "7528b3d7fcdac8ddf40c6a7f8b317f08", 
+        "latitude": 26.712237, 
+        "longitude": -80.049266, 
+        "name": "S Flagler & Datura ", 
+        "timestamp": "2017-08-15T04:50:39.919000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "71056", 
+            "71046", 
+            "71013"
+          ], 
+          "number": "1100", 
+          "slots": 14, 
+          "uid": "355390"
+        }, 
+        "free_bikes": 3, 
+        "id": "6239ab83d8dba3d30d2ec9bc364c3658", 
+        "latitude": 26.707387, 
+        "longitude": -80.053791, 
+        "name": "Iris and Dixie", 
+        "timestamp": "2017-08-15T04:50:39.914000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "71150", 
+            "71108", 
+            "71105", 
+            "71061", 
+            "71057"
+          ], 
+          "number": "1101", 
+          "slots": 16, 
+          "uid": "355391"
+        }, 
+        "free_bikes": 5, 
+        "id": "89ccd1b813af1fcff71788d7c541cb9b", 
+        "latitude": 26.713458, 
+        "longitude": -80.061654, 
+        "name": "Clematis & Tamarind ", 
+        "timestamp": "2017-08-15T04:50:39.916000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "71131", 
+            "71079", 
+            "71047", 
+            "71040", 
+            "71008"
+          ], 
+          "number": "1102", 
+          "slots": 12, 
+          "uid": "355392"
+        }, 
+        "free_bikes": 5, 
+        "id": "c101bfec6df79250ccd4f82b66a57efa", 
+        "latitude": 26.713095, 
+        "longitude": -80.050389, 
+        "name": "Waterfront Park ", 
+        "timestamp": "2017-08-15T04:50:39.918000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "71145", 
+            "71130", 
+            "71128", 
+            "71077", 
+            "71026"
+          ], 
+          "number": "1104", 
+          "slots": 13, 
+          "uid": "355397"
+        }, 
+        "free_bikes": 5, 
+        "id": "9852d22c0801bc147e272bb015ac8afe", 
+        "latitude": 26.716834, 
+        "longitude": -80.050772, 
+        "name": "4th St & Flagler ", 
+        "timestamp": "2017-08-15T04:50:39.922000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "71107", 
+            "71070", 
+            "71052", 
+            "71031", 
+            "71023"
+          ], 
+          "number": "1105", 
+          "slots": 14, 
+          "uid": "355398"
+        }, 
+        "free_bikes": 5, 
+        "id": "9a86165cef28990402e868163dbae8ad", 
+        "latitude": 26.713597, 
+        "longitude": -80.053651, 
+        "name": "City Hall", 
+        "timestamp": "2017-08-15T04:50:39.923000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "71149", 
+            "71133", 
+            "71090", 
+            "71083", 
+            "71053"
+          ], 
+          "number": "1106", 
+          "slots": 11, 
+          "uid": "355399"
+        }, 
+        "free_bikes": 5, 
+        "id": "467e820a0caa2372bfd95eab2887e40a", 
+        "latitude": 26.713374, 
+        "longitude": -80.052099, 
+        "name": "301 Clematis St", 
+        "timestamp": "2017-08-15T04:50:39.924000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "71137", 
+            "71094", 
+            "71073", 
+            "71063"
+          ], 
+          "number": "1107", 
+          "slots": 12, 
+          "uid": "355402"
+        }, 
+        "free_bikes": 4, 
+        "id": "104c37827b5aadc14f9b834f90a1492d", 
+        "latitude": 26.710791, 
+        "longitude": -80.057057, 
+        "name": "375 S. Rosemary Ave", 
+        "timestamp": "2017-08-15T04:50:39.925000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "71142", 
+            "71129", 
+            "71114", 
+            "71110", 
+            "71098"
+          ], 
+          "number": "1108", 
+          "slots": 14, 
+          "uid": "355403"
+        }, 
+        "free_bikes": 5, 
+        "id": "61994716e43f3374c72f39ee214f614a", 
+        "latitude": 26.707739, 
+        "longitude": -80.057246, 
+        "name": "700 S Rosemary Ave", 
+        "timestamp": "2017-08-15T04:50:39.926000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "71127", 
+            "71038", 
+            "71037", 
+            "71020"
+          ], 
+          "number": "1109", 
+          "slots": 12, 
+          "uid": "355405"
+        }, 
+        "free_bikes": 4, 
+        "id": "96f56decddb68970d0cd9958863afc99", 
+        "latitude": 26.71339, 
+        "longitude": -80.055892, 
+        "name": "510 Clematis St (Subculture)", 
+        "timestamp": "2017-08-15T04:50:39.927000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "71140", 
+            "71112", 
+            "71041", 
+            "71021"
+          ], 
+          "number": "1110", 
+          "slots": 11, 
+          "uid": "355406"
+        }, 
+        "free_bikes": 4, 
+        "id": "77d40f60e7792301956d5e36ef170573", 
+        "latitude": 26.710101, 
+        "longitude": -80.053503, 
+        "name": "Dixie & Fern", 
+        "timestamp": "2017-08-15T04:50:39.928000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "71123", 
+            "71066", 
+            "71039", 
+            "71029", 
+            "71004"
+          ], 
+          "number": "1112", 
+          "slots": 16, 
+          "uid": "534543"
+        }, 
+        "free_bikes": 5, 
+        "id": "bc8a669fd824b6c20a812bbbc8d43005", 
+        "latitude": 26.723955272817, 
+        "longitude": -80.049787759781, 
+        "name": "Good Sam P.B. Lakes and Flagler", 
+        "timestamp": "2017-08-15T04:50:39.930000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "71135", 
+            "71134", 
+            "71111", 
+            "71099", 
+            "71096"
+          ], 
+          "number": "1111", 
+          "slots": 12, 
+          "uid": "550592"
+        }, 
+        "free_bikes": 5, 
+        "id": "b22cd93bf76dab621414ae3c14c11906", 
+        "latitude": 26.702871118998, 
+        "longitude": -80.053060054779, 
+        "name": "PBAU, Gruber Pl", 
+        "timestamp": "2017-08-15T04:50:39.931000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "71109", 
+            "71102", 
+            "71101", 
+            "71030"
+          ], 
+          "number": "1113", 
+          "slots": 12, 
+          "uid": "355409"
+        }, 
+        "free_bikes": 4, 
+        "id": "0fc4b2c0377cc11f12fd189800e2bba9", 
+        "latitude": 26.719046, 
+        "longitude": -80.053231, 
+        "name": "Loftin Place ", 
+        "timestamp": "2017-08-15T04:50:39.929000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "71144", 
+            "71143", 
+            "71043"
+          ], 
+          "number": "1115", 
+          "slots": 12, 
+          "uid": "3940446"
+        }, 
+        "free_bikes": 3, 
+        "id": "4358da12022bd7650061e9c48d4b29c0", 
+        "latitude": 26.711624, 
+        "longitude": -80.055529, 
+        "name": "Brightline Train Station", 
+        "timestamp": "2017-08-15T04:50:39.932000Z"
+      }
+    ]
+  }
+}

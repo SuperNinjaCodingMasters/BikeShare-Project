@@ -1,0 +1,482 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-salamanca", 
+    "id": "onroll-salamanca", 
+    "location": {
+      "city": "Salamanca", 
+      "country": "ES", 
+      "latitude": 40.966771, 
+      "longitude": -5.665432
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "a47a2e46d3382fa95b57dc001f30e2cb", 
+        "latitude": 40.948803, 
+        "longitude": -5.662189, 
+        "name": "Hilario Goyenechea (barrio San Jos\u00e9)", 
+        "timestamp": "2017-08-15T04:46:57.433000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "b3b5833733c5c15e2870de4cf3b13022", 
+        "latitude": 40.9602694, 
+        "longitude": -5.6700083, 
+        "name": "Campus Ciencias", 
+        "timestamp": "2017-08-15T04:46:57.438000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "d4fb3fd368e3be3d366f9bbcb2735e3a", 
+        "latitude": 40.9824639, 
+        "longitude": -5.6607028, 
+        "name": "Campus Claretianos", 
+        "timestamp": "2017-08-15T04:46:57.439000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "cabf8e67b2a455e71b00958276d820c3", 
+        "latitude": 40.965725, 
+        "longitude": -5.6768972, 
+        "name": "Campus Unamuno", 
+        "timestamp": "2017-08-15T04:46:57.441000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "718d15a4873e38b2f61ab7a0f4260e45", 
+        "latitude": 40.970589, 
+        "longitude": -5.674858, 
+        "name": "Estaci\u00f3n de Autobuses", 
+        "timestamp": "2017-08-15T04:46:57.443000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 8, 
+        "id": "c3f69bf1f6f89fa5d49f69832cec1705", 
+        "latitude": 40.972319, 
+        "longitude": -5.648894, 
+        "name": "Estaci\u00f3n de Trenes (vialia)", 
+        "timestamp": "2017-08-15T04:46:57.444000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "1876ab55dc837df8ed823f1765623dbc", 
+        "latitude": 40.976105, 
+        "longitude": -5.654636, 
+        "name": "Federico Anaya - los Tilos", 
+        "timestamp": "2017-08-15T04:46:57.445000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "4acb0b03fa35684d59166ffd8787a146", 
+        "latitude": 40.968847, 
+        "longitude": -5.647447, 
+        "name": "Glorieta Alto del Rollo", 
+        "timestamp": "2017-08-15T04:46:57.446000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "3705bff1c3eb3d5d975fe4e3489b0660", 
+        "latitude": 40.979158, 
+        "longitude": -5.651922, 
+        "name": "Glorieta Castilla Y Le\u00f3n", 
+        "timestamp": "2017-08-15T04:46:57.450000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "0c5e4aa0635b494026247e66d28fbdb0", 
+        "latitude": 40.967697, 
+        "longitude": -5.683619, 
+        "name": "Huerta Otea", 
+        "timestamp": "2017-08-15T04:46:57.451000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "1ee3b5685cbdb957d072bb0efb1f9f24", 
+        "latitude": 40.964597, 
+        "longitude": -5.657039, 
+        "name": "La Marina (parque Jesuitas)", 
+        "timestamp": "2017-08-15T04:46:57.452000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "78557010ad9c321e28697ca0762dcba9", 
+        "latitude": 40.973353, 
+        "longitude": -5.657225, 
+        "name": "Mar\u00fda Auxiliadora (corte Ingl\u00e9s)", 
+        "timestamp": "2017-08-15T04:46:57.453000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "1dd055d573a1ca610d5ef46089a26dd6", 
+        "latitude": 40.964381, 
+        "longitude": -5.672914, 
+        "name": "Parking Hospital", 
+        "timestamp": "2017-08-15T04:46:57.454000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 9, 
+        "id": "8e86fd7699437de28f281579ed7efde8", 
+        "latitude": 40.967545, 
+        "longitude": -5.656985, 
+        "name": "Parque la Alamedilla", 
+        "timestamp": "2017-08-15T04:46:57.458000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "4ad6aa69eaad409b9dc70aa858e0335e", 
+        "latitude": 40.978731, 
+        "longitude": -5.665758, 
+        "name": "Parque Zona Carrefour (c/ la Ba?eza)", 
+        "timestamp": "2017-08-15T04:46:57.458000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "b9a8907a2da717bc5dfbb3c8412927e9", 
+        "latitude": 40.960057, 
+        "longitude": -5.659544, 
+        "name": "Paseo Canalejas", 
+        "timestamp": "2017-08-15T04:46:57.459000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "b8d09bd711da3f837b5fcb4e6783d7f5", 
+        "latitude": 40.966849, 
+        "longitude": -5.664246, 
+        "name": "Plaza de los Bandos", 
+        "timestamp": "2017-08-15T04:46:57.460000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "66f0ace5993342d9808cb5975da14956", 
+        "latitude": 40.976176, 
+        "longitude": -5.661635, 
+        "name": "Plaza de Toros", 
+        "timestamp": "2017-08-15T04:46:57.461000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "948d1ee25954c89d0d390f09d5bea997", 
+        "latitude": 40.970673, 
+        "longitude": -5.667189, 
+        "name": "Plaza del Oeste", 
+        "timestamp": "2017-08-15T04:46:57.465000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "d0f10dbf2a4e12228ac2b386238a15e3", 
+        "latitude": 40.970097, 
+        "longitude": -5.661956, 
+        "name": "Plaza Gabriel Y Gal\u00fdn", 
+        "timestamp": "2017-08-15T04:46:57.466000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "5f39eafd2e32039fb19ab5c3a988a0ed", 
+        "latitude": 40.975881, 
+        "longitude": -5.674978, 
+        "name": "Plaza Iglesia Pizarrales", 
+        "timestamp": "2017-08-15T04:46:57.467000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "6aea7f36472a958590ba1c6c5c1767df", 
+        "latitude": 40.964439, 
+        "longitude": -5.663977, 
+        "name": "Plaza Poeta Iglesias", 
+        "timestamp": "2017-08-15T04:46:57.467000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "4be51e34f512291430b93d35bd83430b", 
+        "latitude": 40.96458, 
+        "longitude": -5.661055, 
+        "name": "Plaza San Juli\u00fdn", 
+        "timestamp": "2017-08-15T04:46:57.468000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "246c5e102896d081e68972ca4340e4fa", 
+        "latitude": 40.960967, 
+        "longitude": -5.651963, 
+        "name": "Prosperidad", 
+        "timestamp": "2017-08-15T04:46:57.470000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "b349a17e726d600d83f5cd471c51989d", 
+        "latitude": 40.959213, 
+        "longitude": -5.669351, 
+        "name": "Puente Romano", 
+        "timestamp": "2017-08-15T04:46:57.472000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 5, 
+        "id": "6dcbf1a717150c738104436885a86080", 
+        "latitude": 40.958266, 
+        "longitude": -5.675685, 
+        "name": "Salas Bajas", 
+        "timestamp": "2017-08-15T04:46:57.473000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "cb2b6b82f624513ce3b930f408498eb8", 
+        "latitude": 40.955072, 
+        "longitude": -5.694428, 
+        "name": "Tejares (caja Duero)", 
+        "timestamp": "2017-08-15T04:46:57.475000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "18e0f265da37c7c67ca4d71a8501bd6c", 
+        "latitude": 40.946722, 
+        "longitude": -5.671022, 
+        "name": "Zurgu\u00e9n", 
+        "timestamp": "2017-08-15T04:46:57.478000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "027c99e62c61debc7d4e62e930b9023a", 
+        "latitude": 40.968777, 
+        "longitude": -5.652177, 
+        "name": "Glorieta Antonio Machado", 
+        "timestamp": "2017-08-15T04:46:57.450000Z"
+      }
+    ]
+  }
+}

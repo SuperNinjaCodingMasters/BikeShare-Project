@@ -1,0 +1,81 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/nbici", 
+    "id": "nbici", 
+    "location": {
+      "city": "Pamplona", 
+      "country": "ES", 
+      "latitude": 42.8116631, 
+      "longitude": -1.6482653
+    }, 
+    "name": "nbici", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 17, 
+        "id": "119ccb50fae766227afe06c125586b1d", 
+        "latitude": 42.81515268065246, 
+        "longitude": -1.6392604379940394, 
+        "name": "Plaza De Toros", 
+        "timestamp": "2017-08-15T04:48:36.795000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "esquina P\u00c3\u00ado XII con Avenida del Eje`rcito", 
+          "status": "online"
+        }, 
+        "free_bikes": 16, 
+        "id": "3e5407e66530a00ce8191d72bc7bc6a1", 
+        "latitude": 42.814221373131716, 
+        "longitude": -1.6525525027591357, 
+        "name": "Vuelta del Castillo", 
+        "timestamp": "2017-08-15T04:48:36.805000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": "online"
+        }, 
+        "free_bikes": 14, 
+        "id": "4130c7bd29413feccef11eaf11a9b998", 
+        "latitude": 42.824045202774684, 
+        "longitude": -1.6497475289054364, 
+        "name": "Paseo Anelier", 
+        "timestamp": "2017-08-15T04:48:36.806000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "Aulario", 
+          "status": "online"
+        }, 
+        "free_bikes": 13, 
+        "id": "c1e5c36549f601a988671bd894ce94c5", 
+        "latitude": 42.80052083137501, 
+        "longitude": -1.6385276983821768, 
+        "name": "Universidad P\u00c3\u00bablica de Navarra", 
+        "timestamp": "2017-08-15T04:48:36.807000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Junto a CIMA - P\u00c3\u00ado XII", 
+          "status": "online"
+        }, 
+        "free_bikes": 11, 
+        "id": "81a9aec00d4038889d5dc6c918c4ac1d", 
+        "latitude": 42.80432666920203, 
+        "longitude": -1.6636290871383608, 
+        "name": "Universidad de Navarra", 
+        "timestamp": "2017-08-15T04:48:36.808000Z"
+      }
+    ]
+  }
+}

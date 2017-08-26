@@ -1,0 +1,452 @@
+{
+  "network": {
+    "company": [
+      "Trek Bicycle Corporation", 
+      "Humana", 
+      "Crispin Porter + Bogusky"
+    ], 
+    "href": "/v2/networks/nashville", 
+    "id": "nashville", 
+    "location": {
+      "city": "Nashville, TN", 
+      "country": "US", 
+      "latitude": 36.1666667, 
+      "longitude": -86.7833333
+    }, 
+    "name": "Nashville B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "891 7th Ave. N, Nashville, TN 38208"
+        }, 
+        "free_bikes": 9, 
+        "id": "ec59d62f67b59a3b859e15e0ab632bfd", 
+        "latitude": 36.17089, 
+        "longitude": -86.78847, 
+        "name": "Nashville Farmers' Market: 7th Ave N / Outdoor Food Court", 
+        "timestamp": "2017-04-27T02:32:05.693000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "204 Commerce Ave., Nashville, TN 37201"
+        }, 
+        "free_bikes": 11, 
+        "id": "aba9d65234dcac519fa97ec583c53116", 
+        "latitude": 36.16309, 
+        "longitude": -86.77612, 
+        "name": "The District: Commerce & 2nd Ave N", 
+        "timestamp": "2017-04-27T02:32:05.680000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "106 1st Ave. S, Nashville, TN 37201"
+        }, 
+        "free_bikes": 9, 
+        "id": "849800b452346dcae5a9c82d1f37e0cf", 
+        "latitude": 36.16252, 
+        "longitude": -86.77426, 
+        "name": "Riverfront Station: Broadway & 1st Ave N", 
+        "timestamp": "2017-04-27T02:32:05.684000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "408 S. 1st St. , Nashville, TN 37213"
+        }, 
+        "free_bikes": 10, 
+        "id": "940e8d9914c8bbf46bf93db17cb9bd93", 
+        "latitude": 36.16395, 
+        "longitude": -86.76938, 
+        "name": "Cumberland Park: Victory Way at Base of Pedestrian St Bridge", 
+        "timestamp": "2017-04-27T02:32:05.685000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "118 16th Ave S, Nashville, TN 37203"
+        }, 
+        "free_bikes": 7, 
+        "id": "fa0ba6e2b916b6206b8778dce1d1d6b0", 
+        "latitude": 36.15236, 
+        "longitude": -86.79151, 
+        "name": "Music Row Roundabout: 16th Ave S", 
+        "timestamp": "2017-04-27T02:32:05.688000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "109 S. 11th St., Nashville, TN 37206"
+        }, 
+        "free_bikes": 5, 
+        "id": "9887db1083e5b8e14b798bb67e516b78", 
+        "latitude": 36.17681, 
+        "longitude": -86.75013, 
+        "name": "5 Points East Nashville: S 11th St", 
+        "timestamp": "2017-04-27T02:32:05.692000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "502 Monroe St., Nashville, TN 37208"
+        }, 
+        "free_bikes": 8, 
+        "id": "0133369c6f639a87a0496b671ec6d90c", 
+        "latitude": 36.1768, 
+        "longitude": -86.78924, 
+        "name": "Germantown: NW 5th Ave & Monroe St", 
+        "timestamp": "2017-04-27T02:32:05.694000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "101 46th Avenue North, Nashville, TN 37209"
+        }, 
+        "free_bikes": 7, 
+        "id": "1e774b8f2b815a55641e113b0f64ef78", 
+        "latitude": 36.14157, 
+        "longitude": -86.84171, 
+        "name": "McCabe Community Center: 103 46th Ave N", 
+        "timestamp": "2017-04-27T02:32:05.699000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2 Richland Creek Greenway, Nashville, TN 37205"
+        }, 
+        "free_bikes": 4, 
+        "id": "e17eeb86470615a28c0a2aeddfa90393", 
+        "latitude": 36.12639, 
+        "longitude": -86.84804, 
+        "name": "Hill Center Trailhead: Richland Creek Greenway & N Kenner Ave", 
+        "timestamp": "2017-04-27T02:32:05.700000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Magdeburg Greenway, Nashville, TN 37208"
+        }, 
+        "free_bikes": 4, 
+        "id": "fd938243c23f9804285dfdddb7b4cd06", 
+        "latitude": 36.18017, 
+        "longitude": -86.79006, 
+        "name": "Morgan Park: Magdeburg Greenway & 4th Ave N", 
+        "timestamp": "2017-04-27T02:32:05.701000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "1900 Davidson Street, Nashville, TN 37206"
+        }, 
+        "free_bikes": 8, 
+        "id": "8cd02fa5ca0152e7a4dfc2193ad96285", 
+        "latitude": 36.16742, 
+        "longitude": -86.72529, 
+        "name": "Shelby Bottoms Nature Center: 1900 Davidson St", 
+        "timestamp": "2017-04-27T02:32:05.703000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "410 Jackson Street, Nashville, TN 37219"
+        }, 
+        "free_bikes": 6, 
+        "id": "39497929cd98685ffa685be9d6658d93", 
+        "latitude": 36.17301, 
+        "longitude": -86.78625, 
+        "name": "First Tennessee Park: Junior Gilliam Way & 5th Ave N", 
+        "timestamp": "2017-04-27T02:32:05.704000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "170 5th Ave. S, Nashville, TN 37203"
+        }, 
+        "free_bikes": 6, 
+        "id": "0fd32a2ffa4179a48f7fd0740ffcc697", 
+        "latitude": 36.15883, 
+        "longitude": -86.77723, 
+        "name": "Walk of Fame Park: 5th Ave S  & Demonbreun St.", 
+        "timestamp": "2017-04-27T02:32:05.704000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "200 21st Avenue South , Nashville, TN 37212"
+        }, 
+        "free_bikes": 4, 
+        "id": "1b8c657596e5b791914968ada195daa3", 
+        "latitude": 36.14817, 
+        "longitude": -86.79938, 
+        "name": "200 21st Ave South", 
+        "timestamp": "2017-04-27T02:32:05.710000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "27th North Avenue , Nashville, TN 37203"
+        }, 
+        "free_bikes": 5, 
+        "id": "46e3ddceea957fd282567427935cde83", 
+        "latitude": 36.14958, 
+        "longitude": -86.81435, 
+        "name": "Parthenon ", 
+        "timestamp": "2017-04-27T02:32:05.710000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "424 3rd Ave. N, Nashville, TN 37201"
+        }, 
+        "free_bikes": 4, 
+        "id": "40ea0f158cb80789d891a4b1925cfe27", 
+        "latitude": 36.16596, 
+        "longitude": -86.77869, 
+        "name": "Public Square: 3rd Ave N & Union St", 
+        "timestamp": "2017-04-27T02:32:05.683000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "425 Church St., Nashville, TN 37219"
+        }, 
+        "free_bikes": 2, 
+        "id": "51c4ec653b01da6bfc60386401cec049", 
+        "latitude": 36.16335, 
+        "longitude": -86.77986, 
+        "name": "Fifth Third Plaza: Church St between 4th & 5th Ave N", 
+        "timestamp": "2017-04-27T02:32:05.682000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "314 6th Ave. N, Nashville, TN 37219"
+        }, 
+        "free_bikes": 7, 
+        "id": "bf9690c264e4eb4328daabdb0768bfd5", 
+        "latitude": 36.16422, 
+        "longitude": -86.78256, 
+        "name": "TPAC: 6th Ave N & Union St", 
+        "timestamp": "2017-04-27T02:32:05.686000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "494 11th Ave. S, Nashville, TN 37203"
+        }, 
+        "free_bikes": 9, 
+        "id": "9d06d962c1733a4293aadd1185af9cf9", 
+        "latitude": 36.15303, 
+        "longitude": -86.78381, 
+        "name": "The Gulch: 11th Ave S & Pine St", 
+        "timestamp": "2017-04-27T02:32:05.687000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "101 27th Ave N, Nashville, TN 37203"
+        }, 
+        "free_bikes": 9, 
+        "id": "69533739b61ce8e294a2b3dbee463cb9", 
+        "latitude": 36.14727, 
+        "longitude": -86.81246, 
+        "name": "Centennial Park: 27th Ave N", 
+        "timestamp": "2017-04-27T02:32:05.689000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "187 9th Ave. S, Nashville, TN 37203"
+        }, 
+        "free_bikes": 7, 
+        "id": "75700ebf92e2b8f19710434755d3f62b", 
+        "latitude": 36.1565, 
+        "longitude": -86.78228, 
+        "name": "Frist Center: 9th Ave S & Demonbreun St", 
+        "timestamp": "2017-04-27T02:32:05.690000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "57 Peabody St., Nashville, TN 37210"
+        }, 
+        "free_bikes": 6, 
+        "id": "d42224c9de95d49e60356e26cc7eb1a1", 
+        "latitude": 36.15839, 
+        "longitude": -86.76836, 
+        "name": "Trolley Barns: Peabody St", 
+        "timestamp": "2017-04-27T02:32:05.691000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "135 3rd Ave., Nashville, TN 37201"
+        }, 
+        "free_bikes": 7, 
+        "id": "8a79f942eb88ae5dd7704ae1d9d4b017", 
+        "latitude": 36.16046, 
+        "longitude": -86.77513, 
+        "name": "SoBro: 3rd Ave S & Symphony Pl", 
+        "timestamp": "2017-04-27T02:32:05.695000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "900 Church St., Nashville, TN 37203"
+        }, 
+        "free_bikes": 4, 
+        "id": "c2a2f320028078d6cc47710249c8e496", 
+        "latitude": 36.16133, 
+        "longitude": -86.78473, 
+        "name": "Downtown YMCA: Church St & 9th Ave N", 
+        "timestamp": "2017-04-27T02:32:05.695000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2315 12th Ave South, Nashville , TN 37204"
+        }, 
+        "free_bikes": 4, 
+        "id": "7e664740575710e8beed348f050524d2", 
+        "latitude": 36.12658, 
+        "longitude": -86.78918, 
+        "name": "12 South Flats: 12th Ave S & Elmwood", 
+        "timestamp": "2017-04-27T02:32:05.696000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1181 Kirkwood Ave., Nashville, TN 37212"
+        }, 
+        "free_bikes": 5, 
+        "id": "86b5dbfb3617df8fe0fb706ea2f65220", 
+        "latitude": 36.12072, 
+        "longitude": -86.79042, 
+        "name": "Sevier Park: Kirkwood Ave & 12th Ave S", 
+        "timestamp": "2017-04-27T02:32:05.697000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2000 Church St., Nashville, TN 37203"
+        }, 
+        "free_bikes": 4, 
+        "id": "44c9626216dabdf744a771046b73cab7", 
+        "latitude": 36.15302, 
+        "longitude": -86.80129, 
+        "name": "Saint Thomas Midtown: Church St. and 20th Ave N", 
+        "timestamp": "2017-04-27T02:32:05.698000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2101 Belmont Blvd., Nashville, TN 37212"
+        }, 
+        "free_bikes": 5, 
+        "id": "a9ecbfc9cb1f0bc016f6737cc0edeb63", 
+        "latitude": 36.1313, 
+        "longitude": -86.79562, 
+        "name": "Belmont Boulevard: 2101 Belmont Blvd", 
+        "timestamp": "2017-04-27T02:32:05.702000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2079 Wedgewood Ave., Nashville, TN 37212"
+        }, 
+        "free_bikes": 10, 
+        "id": "c0b18afc12f44df07791adbbef184b8e", 
+        "latitude": 36.13763, 
+        "longitude": -86.80048, 
+        "name": "Hillsboro Village: Wedgewood Ave & 21st Ave S", 
+        "timestamp": "2017-04-27T02:32:05.690000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Bell Rd near Stewarts Ferry Pk, Nashville , TN "
+        }, 
+        "free_bikes": 9, 
+        "id": "319a7459fd698a7f0381591be3c6cd15", 
+        "latitude": 36.15886, 
+        "longitude": -86.62088, 
+        "name": "J. Percy Priest Dam Trailhead: Stones River Greenway off Bell Rd", 
+        "timestamp": "2017-04-27T02:32:05.705000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2320 2 Rivers Parkway, Nashville, TN 37214"
+        }, 
+        "free_bikes": 5, 
+        "id": "75fefc1fdadf2b1a9dc87efbd6f8eda7", 
+        "latitude": 36.18777, 
+        "longitude": -86.68654, 
+        "name": "Two Rivers Skatepark: Two Rivers Greenway", 
+        "timestamp": "2017-04-27T02:32:05.706000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1037 28th Ave North, Nashville, TN 37208"
+        }, 
+        "free_bikes": 5, 
+        "id": "ed46c011623641da8c707bb1e81654e7", 
+        "latitude": 36.16559, 
+        "longitude": -86.82341, 
+        "name": "Hadley Park Community Center: 1037 28th Ave North", 
+        "timestamp": "2017-04-27T02:32:05.707000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "3906 Charlotte Ave, Nashville , TN 37209"
+        }, 
+        "free_bikes": 6, 
+        "id": "6446c89ccd275591cac2956e9026ed27", 
+        "latitude": 36.15229, 
+        "longitude": -86.83501, 
+        "name": "40th Ave. N and Charlotte Ave. ", 
+        "timestamp": "2017-04-27T02:32:05.708000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "4510 Charlotte Ave, Nashville, TN 37209"
+        }, 
+        "free_bikes": 4, 
+        "id": "eb29cdc83408832193cd9f2be5662958", 
+        "latitude": 36.15232, 
+        "longitude": -86.84192, 
+        "name": "Charlotte Ave and 46th Ave N ", 
+        "timestamp": "2017-04-27T02:32:05.709000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1901 Ed Temple Blvd, Nashville, TN 37208"
+        }, 
+        "free_bikes": 5, 
+        "id": "c7a0273c0fd8036c9ff628e235c311ee", 
+        "latitude": 36.185, 
+        "longitude": -86.82398, 
+        "name": "Ted Rhodes Golf Course: 1901 Ed Temple Blvd", 
+        "timestamp": "2017-04-27T02:32:05.711000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "715 Porter Road, Nashville , TN 37206"
+        }, 
+        "free_bikes": 4, 
+        "id": "e47c3be7d9751237d478399268603884", 
+        "latitude": 36.183, 
+        "longitude": -86.73278, 
+        "name": "715 Porter Road", 
+        "timestamp": "2017-04-27T02:32:05.712000Z"
+      }
+    ]
+  }
+}

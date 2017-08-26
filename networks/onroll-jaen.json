@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-jaen", 
+    "id": "onroll-jaen", 
+    "location": {
+      "city": "Ja\u00e9n", 
+      "country": "ES", 
+      "latitude": 37.777738, 
+      "longitude": -3.790758
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 2, 
+        "id": "9e0c762dfc9a42872c425c13366a1321", 
+        "latitude": 37.772561, 
+        "longitude": -3.788289, 
+        "name": "Parque de la Victoria", 
+        "timestamp": "2017-08-15T04:47:37.518000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "3dbfffbe009d4c240ff9133cac5e562f", 
+        "latitude": 37.767536, 
+        "longitude": -3.787603, 
+        "name": "Plaza Constituci\u00f3n", 
+        "timestamp": "2017-08-15T04:47:37.520000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "989096db15fca61ea1575749c9cad9af", 
+        "latitude": 37.779291, 
+        "longitude": -3.790066, 
+        "name": "Plaza de la Concordia", 
+        "timestamp": "2017-08-15T04:47:37.521000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "ef29ef4088567d958ed6cf0f959adffa", 
+        "latitude": 37.782703, 
+        "longitude": -3.810356, 
+        "name": "Polideportivo", 
+        "timestamp": "2017-08-15T04:47:37.523000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "91a1fcd932263766d855227274320955", 
+        "latitude": 37.7866, 
+        "longitude": -3.777475, 
+        "name": "Universidad de Jaen", 
+        "timestamp": "2017-08-15T04:47:37.524000Z"
+      }
+    ]
+  }
+}

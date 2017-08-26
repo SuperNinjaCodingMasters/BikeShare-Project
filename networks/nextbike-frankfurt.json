@@ -1,0 +1,688 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-frankfurt", 
+    "id": "nextbike-frankfurt", 
+    "location": {
+      "city": "Frankfurt", 
+      "country": "DE", 
+      "latitude": 50.1072, 
+      "longitude": 8.66375
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "03057", 
+            "06178", 
+            "06165"
+          ], 
+          "number": "4245", 
+          "uid": "896"
+        }, 
+        "free_bikes": 3, 
+        "id": "0125a917f280daaa276f7240187909b9", 
+        "latitude": 50.113158466165, 
+        "longitude": 8.6787593364716, 
+        "name": "4245 - Hauptwache / Sport Arena", 
+        "timestamp": "2017-08-15T04:49:50.692000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06134", 
+            "06177", 
+            "06238", 
+            "06282"
+          ], 
+          "number": "4276", 
+          "uid": "706063"
+        }, 
+        "free_bikes": 4, 
+        "id": "4abee85f779a0cf469e409c9dfb413c6", 
+        "latitude": 50.140695094739, 
+        "longitude": 8.6933344602585, 
+        "name": "US Konsulat Gie\u00dfener stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:50.736000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06128"
+          ], 
+          "number": "4295", 
+          "uid": "1991242"
+        }, 
+        "free_bikes": 1, 
+        "id": "c411baebfe278d6a8ee8fae60958d4f8", 
+        "latitude": 50.108744667392, 
+        "longitude": 8.6549735069275, 
+        "name": "4295 - Hotel Adina Apartment Frankfurt / Osloer Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:50.736000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06020", 
+            "06232", 
+            "20581"
+          ], 
+          "number": "4251", 
+          "uid": "3364"
+        }, 
+        "free_bikes": 3, 
+        "id": "60e600621e323a9603059a4b535220bb", 
+        "latitude": 50.122769025681, 
+        "longitude": 8.7014132738113, 
+        "name": "4251 - H\u00f6henstra\u00dfe / Berger Str.", 
+        "timestamp": "2017-08-15T04:49:50.697000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "00036", 
+            "06228", 
+            "06283"
+          ], 
+          "number": "4275", 
+          "uid": "706061"
+        }, 
+        "free_bikes": 3, 
+        "id": "589702700c3b3326550f94e68bbbe6da", 
+        "latitude": 50.133539915042, 
+        "longitude": 8.6681270599365, 
+        "name": "USCC Plieninger Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:50.735000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "03013", 
+            "03146"
+          ], 
+          "number": "4260", 
+          "uid": "46"
+        }, 
+        "free_bikes": 2, 
+        "id": "4ee547f37455e194d0de5b7630603e1d", 
+        "latitude": 50.099624222884, 
+        "longitude": 8.6850491166115, 
+        "name": "4260 - S\u00fcdbahnhof / Hedderichstr.", 
+        "timestamp": "2017-08-15T04:49:50.683000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06231", 
+            "06058", 
+            "03015", 
+            "03341"
+          ], 
+          "number": "4243", 
+          "uid": "2612"
+        }, 
+        "free_bikes": 4, 
+        "id": "4f5e4235f0ccd07dc66975ece81f6b02", 
+        "latitude": 50.115349733444, 
+        "longitude": 8.6711740493774, 
+        "name": "4243 - Opernplatz / Bockenheimer Landstr.", 
+        "timestamp": "2017-08-15T04:49:50.696000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06005", 
+            "03051", 
+            "06172", 
+            "03157"
+          ], 
+          "number": "4258", 
+          "uid": "7378"
+        }, 
+        "free_bikes": 4, 
+        "id": "f0a4596f9ff47091dcdc76f9b60b3ccb", 
+        "latitude": 50.120120638859, 
+        "longitude": 8.650381565094, 
+        "name": "4258 - Bockenheimer Warte / Caf\u00e9 Extrablatt", 
+        "timestamp": "2017-08-15T04:49:50.703000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06221"
+          ], 
+          "number": "4262", 
+          "uid": "7634"
+        }, 
+        "free_bikes": 1, 
+        "id": "b101a5a409dfee95c080723c337786b9", 
+        "latitude": 50.105376421023, 
+        "longitude": 8.6780592799187, 
+        "name": "4262 - Schaumainkai / Schweizer Str.", 
+        "timestamp": "2017-08-15T04:49:50.704000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "03123", 
+            "06234"
+          ], 
+          "number": "4248", 
+          "uid": "7648"
+        }, 
+        "free_bikes": 2, 
+        "id": "e93552338769abd5cd80f3239fe11b42", 
+        "latitude": 50.115556127078, 
+        "longitude": 8.6985218524933, 
+        "name": "4248 - Zoo / Alfred-Brehm-Platz", 
+        "timestamp": "2017-08-15T04:49:50.708000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06016", 
+            "06225", 
+            "06257", 
+            "06162"
+          ], 
+          "number": "4290", 
+          "uid": "17232"
+        }, 
+        "free_bikes": 4, 
+        "id": "025b20009488c1be326aa132062348c5", 
+        "latitude": 50.110266149431, 
+        "longitude": 8.5952192544937, 
+        "name": "4290 - Hotel Ramada Hotel Messe", 
+        "timestamp": "2017-08-15T04:49:50.709000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4242", 
+          "uid": "29169"
+        }, 
+        "free_bikes": 0, 
+        "id": "c48f3eb8d5260fc3364b730c51c134da", 
+        "latitude": 50.109150630018, 
+        "longitude": 8.674698472023, 
+        "name": "4242 - Willy-Brandt-Platz / Neue Mainzer Str. ", 
+        "timestamp": "2017-08-15T04:49:50.709000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06053", 
+            "06060", 
+            "03333"
+          ], 
+          "number": "4247", 
+          "uid": "52745"
+        }, 
+        "free_bikes": 3, 
+        "id": "f0d5648269d833c0f63d1a4f6b317cfc", 
+        "latitude": 50.114840625342, 
+        "longitude": 8.6875087022781, 
+        "name": "4247 - Konstabler Wache / Conrad-Elektronik", 
+        "timestamp": "2017-08-15T04:49:50.714000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06184", 
+            "06176", 
+            "06149", 
+            "06266"
+          ], 
+          "number": "4288", 
+          "uid": "67722"
+        }, 
+        "free_bikes": 4, 
+        "id": "e925f6bcfe7c52eaaa6b0a563d3f9fd5", 
+        "latitude": 50.091312551956, 
+        "longitude": 8.6857706308365, 
+        "name": "4288 - Hotel Derag", 
+        "timestamp": "2017-08-15T04:49:50.715000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06011", 
+            "03030", 
+            "03025", 
+            "03019", 
+            "06243"
+          ], 
+          "number": "4240", 
+          "uid": "121962"
+        }, 
+        "free_bikes": 6, 
+        "id": "28491cd3cf279d40a5413be797a801fc", 
+        "latitude": 50.10739602108, 
+        "longitude": 8.6643612384796, 
+        "name": "4240 - Hauptbahnhof / Vorplatz", 
+        "timestamp": "2017-08-15T04:49:50.715000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06229", 
+            "06236"
+          ], 
+          "number": "4252", 
+          "uid": "121963"
+        }, 
+        "free_bikes": 2, 
+        "id": "e274833f93ef151cdd7d810b877a287f", 
+        "latitude": 50.128873515056, 
+        "longitude": 8.6925029754639, 
+        "name": "4252 - Nibelungenplatz / Friedberger Landstr.", 
+        "timestamp": "2017-08-15T04:49:50.717000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "4239", 
+          "uid": "122155"
+        }, 
+        "free_bikes": 0, 
+        "id": "383d353928d03218bb106b7d97049c31", 
+        "latitude": 50.104099934817, 
+        "longitude": 8.6648279428482, 
+        "name": "4239 - Baseler Platz / Baseler Stra\u00dfe / Gutleutstr.", 
+        "timestamp": "2017-08-15T04:49:50.720000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "03017", 
+            "02323"
+          ], 
+          "number": "4237", 
+          "uid": "122156"
+        }, 
+        "free_bikes": 2, 
+        "id": "0693aeb6e5b1f4dc70c59f5733f2f3a9", 
+        "latitude": 50.116852946722, 
+        "longitude": 8.6791777610779, 
+        "name": "4237 - Eschenheimer Turm / Schillerstr. / Taubenstr.", 
+        "timestamp": "2017-08-15T04:49:50.720000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06161", 
+            "03031"
+          ], 
+          "number": "4292", 
+          "uid": "122689"
+        }, 
+        "free_bikes": 2, 
+        "id": "ff135052482255984db249d4aa435bbd", 
+        "latitude": 50.1141999, 
+        "longitude": 8.6180641, 
+        "name": "4292 - Hotel Accor / Ibis F-City Messe / Leonardo-da-Vinci-Allee 40", 
+        "timestamp": "2017-08-15T04:49:50.721000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06063", 
+            "03156"
+          ], 
+          "number": "4291", 
+          "uid": "122692"
+        }, 
+        "free_bikes": 2, 
+        "id": "d230d15c80f21bd3aeb1eba3ddbf6370", 
+        "latitude": 50.1017481, 
+        "longitude": 8.553437, 
+        "name": "4291 - Hotel Lindner Congress / Bolongarostr 100", 
+        "timestamp": "2017-08-15T04:49:50.722000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "03167", 
+            "06148"
+          ], 
+          "number": "4294", 
+          "uid": "151886"
+        }, 
+        "free_bikes": 2, 
+        "id": "03f2ade096c826371cace84dc1d2551f", 
+        "latitude": 50.107175830321, 
+        "longitude": 8.6726224422455, 
+        "name": "4294 - Hotel Adina Apartment Frankfurt / Neue Oper / Wilhelm-Leuschner-Str 6", 
+        "timestamp": "2017-08-15T04:49:50.724000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06284"
+          ], 
+          "number": "4261", 
+          "uid": "7647"
+        }, 
+        "free_bikes": 1, 
+        "id": "2555b12a58ef586d50dcdfbf07c3b4e5", 
+        "latitude": 50.101915034473, 
+        "longitude": 8.6811143159866, 
+        "name": "4261 - Schweizer Platz / Diesterwegstr.", 
+        "timestamp": "2017-08-15T04:49:50.707000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06079", 
+            "06188", 
+            "06182", 
+            "06160", 
+            "06240"
+          ], 
+          "number": "4285", 
+          "uid": "352024"
+        }, 
+        "free_bikes": 5, 
+        "id": "56c919239ff4c612f19b193f9c91d708", 
+        "latitude": 50.110660918387, 
+        "longitude": 8.701177239418, 
+        "name": "4285 - Sonnemannstra\u00dfe / Windeckstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:50.728000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06062", 
+            "06192", 
+            "06191", 
+            "03011", 
+            "02328"
+          ], 
+          "number": "4246", 
+          "uid": "2304"
+        }, 
+        "free_bikes": 9, 
+        "id": "ccce727cad7fa286d05332b057630c10", 
+        "latitude": 50.110791647259, 
+        "longitude": 8.6818331480026, 
+        "name": "4246 - R\u00f6mer / Touristeninformation", 
+        "timestamp": "2017-08-15T04:49:50.695000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06007", 
+            "06117", 
+            "06144", 
+            "02319", 
+            "12003"
+          ], 
+          "number": "4297", 
+          "uid": "125751"
+        }, 
+        "free_bikes": 5, 
+        "id": "1fb137a7666c54d114779e23cb9dd982", 
+        "latitude": 50.111452166629, 
+        "longitude": 8.7095618247986, 
+        "name": "4297 - Hotel B&B Frankfurt City-Ost / Hanauer Landstr. 117", 
+        "timestamp": "2017-08-15T04:49:50.723000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06090", 
+            "06237"
+          ], 
+          "number": "4259", 
+          "uid": "7644"
+        }, 
+        "free_bikes": 2, 
+        "id": "1172af4ab3d267ec2a035c074ea6e1b3", 
+        "latitude": 50.122731192615, 
+        "longitude": 8.6454087495804, 
+        "name": "4259 - Leipziger Str. / Markgrafenstr.", 
+        "timestamp": "2017-08-15T04:49:50.705000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06029", 
+            "06110", 
+            "06135", 
+            "03009"
+          ], 
+          "number": "4241", 
+          "uid": "42801"
+        }, 
+        "free_bikes": 4, 
+        "id": "4d0ec6aa5ca5ac53c928983a8a5e84e8", 
+        "latitude": 50.111947550177, 
+        "longitude": 8.6541259288788, 
+        "name": "4241 - Messe / Festhalle / Eingang U-Bahn", 
+        "timestamp": "2017-08-15T04:49:50.711000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06057", 
+            "06218", 
+            "03144", 
+            "03140"
+          ], 
+          "number": "4244", 
+          "uid": "1572"
+        }, 
+        "free_bikes": 4, 
+        "id": "93d295d2c1da4aa73398c30e60917df6", 
+        "latitude": 50.114837185404, 
+        "longitude": 8.6725741624832, 
+        "name": "4244 - Fressgasse / Neue Mainzer Str.", 
+        "timestamp": "2017-08-15T04:49:50.693000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06093", 
+            "06155", 
+            "06166", 
+            "06271"
+          ], 
+          "number": "4286", 
+          "uid": "212843"
+        }, 
+        "free_bikes": 4, 
+        "id": "2085a880dff4363b74ed3fab20fc6b15", 
+        "latitude": 50.108579529067, 
+        "longitude": 8.6695110797882, 
+        "name": "4286 - Hotel Ramada City / Weserstr. / Kaiserstr.", 
+        "timestamp": "2017-08-15T04:49:50.726000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06170", 
+            "06142", 
+            "03069"
+          ], 
+          "number": "4250", 
+          "uid": "1640"
+        }, 
+        "free_bikes": 3, 
+        "id": "f86bb23abdd28c114a81db3449703f0f", 
+        "latitude": 50.123099203895, 
+        "longitude": 8.6926692724228, 
+        "name": "4250 - Friedberger Platz / Caf\u00e9 Harveys", 
+        "timestamp": "2017-08-15T04:49:50.694000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06027"
+          ], 
+          "number": "4257", 
+          "uid": "353585"
+        }, 
+        "free_bikes": 1, 
+        "id": "1dab1ca168f95ffd57e88dd10ea12893", 
+        "latitude": 50.117076532766, 
+        "longitude": 8.6659866571426, 
+        "name": "4257 - Bockenheimer Landstr. / Liebigstr.", 
+        "timestamp": "2017-08-15T04:49:50.732000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "77835", 
+            "06140"
+          ], 
+          "number": "4249", 
+          "uid": "7374"
+        }, 
+        "free_bikes": 2, 
+        "id": "0ff03790f2bab9e8c15e7040276bec50", 
+        "latitude": 50.120323572383, 
+        "longitude": 8.6956572532654, 
+        "name": "4249 - Merianplatz / Berger Str.", 
+        "timestamp": "2017-08-15T04:49:50.702000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "number": "4235", 
+          "slots": 13, 
+          "uid": "278856"
+        }, 
+        "free_bikes": 0, 
+        "id": "b93a26e97baefe1f3031baffff8897b7", 
+        "latitude": 50.112611493701, 
+        "longitude": 8.6671507358551, 
+        "name": "4235 - Trianon", 
+        "timestamp": "2017-08-15T04:49:50.728000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06230", 
+            "03164", 
+            "06264", 
+            "06276"
+          ], 
+          "number": "4274", 
+          "uid": "706056"
+        }, 
+        "free_bikes": 4, 
+        "id": "01c7937b4ab7cc7723ce4707913321e0", 
+        "latitude": 50.135929678403, 
+        "longitude": 8.6668235063553, 
+        "name": "USCC Jakob-Leisler Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:50.734000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "06072", 
+            "77836"
+          ], 
+          "number": "4236", 
+          "slots": 18, 
+          "uid": "222069"
+        }, 
+        "free_bikes": 2, 
+        "id": "d966bf7d8e055cb664aae445a1a1cdea", 
+        "latitude": 50.112597733307, 
+        "longitude": 8.6528170108795, 
+        "name": "4236 - Messe Turm", 
+        "timestamp": "2017-08-15T04:49:50.727000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06256", 
+            "06095", 
+            "03039", 
+            "03151"
+          ], 
+          "number": "4238", 
+          "uid": "122146"
+        }, 
+        "free_bikes": 4, 
+        "id": "2dba9847b4277aa5177e20a54bbbcabb", 
+        "latitude": 50.112945182048, 
+        "longitude": 8.6763989925385, 
+        "name": "4238 - Ro\u00dfmarkt / Junghofstr. (Goetheplatz)", 
+        "timestamp": "2017-08-15T04:49:50.719000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "06031", 
+            "06212", 
+            "06268"
+          ], 
+          "number": "4273", 
+          "uid": "706050"
+        }, 
+        "free_bikes": 3, 
+        "id": "b037ef023057760e930f733df5aba0d9", 
+        "latitude": 50.13609128399, 
+        "longitude": 8.6640501022339, 
+        "name": "USCC Haltestelle Platenstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:50.733000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "03135", 
+            "06269"
+          ], 
+          "number": "4278", 
+          "uid": "2913514"
+        }, 
+        "free_bikes": 2, 
+        "id": "92b203ce03784433f4e58061fcbe7773", 
+        "latitude": 50.096206296966, 
+        "longitude": 8.6607885360718, 
+        "name": "Uniklinikum", 
+        "timestamp": "2017-08-15T04:49:50.737000Z"
+      }
+    ]
+  }
+}

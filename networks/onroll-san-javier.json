@@ -1,0 +1,98 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-san-javier", 
+    "id": "onroll-san-javier", 
+    "location": {
+      "city": "San Javier", 
+      "country": "ES", 
+      "latitude": 37.783704, 
+      "longitude": -0.808097
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "828d91947076caea549d018453354f78", 
+        "latitude": 37.737036, 
+        "longitude": -0.7386, 
+        "name": "La Manga", 
+        "timestamp": "2017-08-15T04:48:44.274000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "336ba0ebbfc881c4183ae21d1f8bdf73", 
+        "latitude": 37.770612, 
+        "longitude": -0.858953, 
+        "name": "La Roda", 
+        "timestamp": "2017-08-15T04:48:44.282000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "5612a8a738f11b7ae49fe4fb8e04c4b5", 
+        "latitude": 37.804088, 
+        "longitude": -0.831528, 
+        "name": "Auditorio Parque Almansa", 
+        "timestamp": "2017-08-15T04:48:44.283000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "f56d5b2322b5ce54237bdc9b7dec6eaa", 
+        "latitude": 37.796663, 
+        "longitude": -0.804753, 
+        "name": "Santiago de la Ribera", 
+        "timestamp": "2017-08-15T04:48:44.284000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "c00638685c08d5d8551999161c05524a", 
+        "latitude": 37.810121, 
+        "longitude": -0.806652, 
+        "name": "Universidad del Deporte", 
+        "timestamp": "2017-08-15T04:48:44.285000Z"
+      }
+    ]
+  }
+}

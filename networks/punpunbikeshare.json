@@ -1,0 +1,944 @@
+{
+  "network": {
+    "company": [
+      "BTS Group Holdings"
+    ], 
+    "href": "/v2/networks/punpunbikeshare", 
+    "id": "punpunbikeshare", 
+    "location": {
+      "city": "Bangkok", 
+      "country": "TH", 
+      "latitude": 13.75, 
+      "longitude": 100.516667
+    }, 
+    "name": "Pun Pun Bike Share", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Chamchuri Square", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "01"
+        }, 
+        "free_bikes": 0, 
+        "id": "35778be6f0328ba9af77320cf0fe9356", 
+        "latitude": 13.73345498316396, 
+        "longitude": 100.52908658981323, 
+        "name": "\u0e08\u0e32\u0e21\u0e08\u0e38\u0e23\u0e35\u0e2a\u0e41\u0e04\u0e27\u0e23\u0e4c", 
+        "timestamp": "2016-02-29T07:15:57.965000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Chula 1", 
+          "bike_uids": [
+            "0000620220C4", 
+            "0000E25C20C4", 
+            "0000125620C4", 
+            "0000F23E1FC4"
+          ], 
+          "slots": 8, 
+          "uid": "02"
+        }, 
+        "free_bikes": 4, 
+        "id": "7f2130315c04eccc5110febeda3447fd", 
+        "latitude": 13.736672, 
+        "longitude": 100.529464, 
+        "name": "\u0e08\u0e38\u0e2c\u0e32 1", 
+        "timestamp": "2016-02-29T07:15:57.974000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Siam Center", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "03"
+        }, 
+        "free_bikes": 0, 
+        "id": "d6d5b7c4827d529155054921cc23402d", 
+        "latitude": 13.745972, 
+        "longitude": 100.53235, 
+        "name": "\u0e2a\u0e22\u0e32\u0e21\u0e40\u0e0b\u0e47\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c", 
+        "timestamp": "2016-02-29T07:15:57.978000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Convent", 
+          "bike_uids": [
+            "0000C27320C4", 
+            "0000C2801FC4", 
+            "0000C2CF1FC4"
+          ], 
+          "slots": 8, 
+          "uid": "06"
+        }, 
+        "free_bikes": 3, 
+        "id": "5111d7a03e4be3c6cabb033165915fa2", 
+        "latitude": 13.723686661080968, 
+        "longitude": 100.53581088781357, 
+        "name": "\u0e04\u0e2d\u0e19\u0e41\u0e27\u0e19\u0e15\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.021000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Bank of Ayudhya", 
+          "bike_uids": [
+            "0000722F1FC4", 
+            "0000623C20C4", 
+            "000072FF1EC4", 
+            "000052B71FC4"
+          ], 
+          "slots": 8, 
+          "uid": "07"
+        }, 
+        "free_bikes": 4, 
+        "id": "7aa5bfbbb9abc89eeb2236dc28b10941", 
+        "latitude": 13.743168184472813, 
+        "longitude": 100.54725050926208, 
+        "name": "\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23\u0e01\u0e23\u0e38\u0e07\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32", 
+        "timestamp": "2016-02-29T07:15:58.028000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "The Met", 
+          "bike_uids": [
+            "0000B21F1FC4", 
+            "0000225620C4", 
+            "0000828B20C4", 
+            "0000B20E1FC4"
+          ], 
+          "slots": 8, 
+          "uid": "09"
+        }, 
+        "free_bikes": 4, 
+        "id": "87908b564754dcf6c1741379eee5f4c5", 
+        "latitude": 13.722653, 
+        "longitude": 100.533522, 
+        "name": "\u0e04\u0e2d\u0e19\u0e42\u0e14 The Met", 
+        "timestamp": "2016-02-29T07:15:58.034000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Siant Louis", 
+          "bike_uids": [
+            "000022D81FC4", 
+            "0000A2161FC4", 
+            "0000E28A20C4", 
+            "0000125420C4"
+          ], 
+          "slots": 8, 
+          "uid": "10"
+        }, 
+        "free_bikes": 4, 
+        "id": "c22122a7816c0ed385a4fab2e0dd7898", 
+        "latitude": 13.720058, 
+        "longitude": 100.524742, 
+        "name": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e40\u0e0b\u0e47\u0e19\u0e15\u0e4c\u0e2b\u0e25\u0e38\u0e22\u0e2a\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.039000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Chula 2", 
+          "bike_uids": [
+            "0000B2161FC4"
+          ], 
+          "slots": 8, 
+          "uid": "04"
+        }, 
+        "free_bikes": 1, 
+        "id": "5912b5f9ffa6f48f9b5004320119bd20", 
+        "latitude": 13.740169, 
+        "longitude": 100.529689, 
+        "name": "\u0e08\u0e38\u0e2c\u0e32 2", 
+        "timestamp": "2016-02-29T07:15:57.981000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Wave Place", 
+          "bike_uids": [
+            "0000F2061FC4", 
+            "0000423D1FC4", 
+            "0000421220C4", 
+            "0000824E20C4", 
+            "000082CA1FC4", 
+            "0000B2BA1FC4", 
+            "000092461FC4", 
+            "000072901FC4"
+          ], 
+          "slots": 8, 
+          "uid": "05"
+        }, 
+        "free_bikes": 8, 
+        "id": "bf011c8104809b3b2a417163906d808b", 
+        "latitude": 13.743344, 
+        "longitude": 100.547981, 
+        "name": "\u0e40\u0e27\u0e1f\u0e40\u0e1e\u0e25\u0e2a", 
+        "timestamp": "2016-02-29T07:15:58.005000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Eastin", 
+          "bike_uids": [
+            "0000025E1FC4", 
+            "0000826C20C4"
+          ], 
+          "slots": 8, 
+          "uid": "11"
+        }, 
+        "free_bikes": 2, 
+        "id": "40fc66a4cd208ba48fca3465ec8c70b6", 
+        "latitude": 13.719238800036127, 
+        "longitude": 100.5223274230957, 
+        "name": "\u0e42\u0e23\u0e07\u0e41\u0e23\u0e21\u0e2d\u0e34\u0e2a\u0e15\u0e34\u0e19", 
+        "timestamp": "2016-02-29T07:15:58.044000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Siam Paragon", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "12"
+        }, 
+        "free_bikes": 0, 
+        "id": "0cb2b68d21dc9d580c398055f4da3518", 
+        "latitude": 13.745856, 
+        "longitude": 100.534114, 
+        "name": "\u0e2a\u0e22\u0e32\u0e21\u0e1e\u0e32\u0e23\u0e32\u0e01\u0e2d\u0e19", 
+        "timestamp": "2016-02-29T07:15:58.053000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "MBK Center", 
+          "bike_uids": [
+            "000002101FC4", 
+            "0000828320C4", 
+            "000032931FC4", 
+            "000002E81EC4"
+          ], 
+          "slots": 8, 
+          "uid": "13"
+        }, 
+        "free_bikes": 4, 
+        "id": "136555f82b987b875330b630f9e32aa1", 
+        "latitude": 13.744072, 
+        "longitude": 100.530297, 
+        "name": "\u0e40\u0e2d\u0e47\u0e21\u0e1a\u0e35\u0e40\u0e04 \u0e40\u0e0b\u0e47\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.058000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Siam Square", 
+          "bike_uids": [
+            "0000120020C4", 
+            "000082CA1FC4", 
+            "0000E23E20C4", 
+            "0000E2651FC4", 
+            "0000421620C4"
+          ], 
+          "slots": 8, 
+          "uid": "14"
+        }, 
+        "free_bikes": 5, 
+        "id": "1ab25051870df4454ffc135aab21d790", 
+        "latitude": 13.745428, 
+        "longitude": 100.534853, 
+        "name": "\u0e2a\u0e22\u0e32\u0e21\u0e2a\u0e41\u0e04\u0e27\u0e23\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.067000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Sathorn City Tower", 
+          "bike_uids": [
+            "000002D11FC4", 
+            "0000823520C4", 
+            "0000B2E71FC4", 
+            "000012D81FC4", 
+            "0000B23E1FC4", 
+            "0000F20E1FC4"
+          ], 
+          "slots": 8, 
+          "uid": "15"
+        }, 
+        "free_bikes": 6, 
+        "id": "ecc2221f0500a5da78f8d5e51f74d0a8", 
+        "latitude": 13.721928, 
+        "longitude": 100.530867, 
+        "name": "\u0e2a\u0e32\u0e17\u0e23\u0e0b\u0e34\u0e15\u0e35\u0e49 \u0e17\u0e32\u0e27\u0e40\u0e27\u0e2d\u0e23\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.069000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Sathorn Thani", 
+          "bike_uids": [
+            "0000B21720C4", 
+            "0000E22620C4", 
+            "0000227B1FC4", 
+            "000022371FC4"
+          ], 
+          "slots": 8, 
+          "uid": "16"
+        }, 
+        "free_bikes": 4, 
+        "id": "5fa258905a439979fe457c90ade7d18e", 
+        "latitude": 13.722197, 
+        "longitude": 100.530631, 
+        "name": "\u0e2a\u0e32\u0e17\u0e23\u0e18\u0e32\u0e19\u0e35", 
+        "timestamp": "2016-02-29T07:15:58.070000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Central World 2", 
+          "bike_uids": [
+            "0000B2781FC4", 
+            "0000E2CF1FC4", 
+            "0000823520C4", 
+            "0000027A1FC4", 
+            "000042881FC4"
+          ], 
+          "slots": 8, 
+          "uid": "17"
+        }, 
+        "free_bikes": 5, 
+        "id": "68aea696db69a583db6e64c71e8e629f", 
+        "latitude": 13.745314, 
+        "longitude": 100.540203, 
+        "name": "\u0e40\u0e0b\u0e47\u0e19\u0e17\u0e23\u0e31\u0e25\u0e40\u0e27\u0e34\u0e25\u0e4c\u0e14 2", 
+        "timestamp": "2016-02-29T07:15:58.071000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Central World 1", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "18"
+        }, 
+        "free_bikes": 0, 
+        "id": "4a8a653d77d81f17fd9ae08a003dce39", 
+        "latitude": 13.744808, 
+        "longitude": 100.539528, 
+        "name": "\u0e40\u0e0b\u0e47\u0e19\u0e17\u0e23\u0e31\u0e25\u0e40\u0e27\u0e34\u0e25\u0e4c\u0e14 1", 
+        "timestamp": "2016-02-29T07:15:58.072000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Suanplu", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "19"
+        }, 
+        "free_bikes": 0, 
+        "id": "bca13d5807f697ec6e695fdfb5e27220", 
+        "latitude": 13.723411, 
+        "longitude": 100.536039, 
+        "name": "\u0e2a\u0e27\u0e19\u0e1e\u0e25\u0e39", 
+        "timestamp": "2016-02-29T07:15:58.073000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Sathorn Square 1", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "20"
+        }, 
+        "free_bikes": 0, 
+        "id": "d1658b4ba4ad585a3dc033fec9903dae", 
+        "latitude": 13.722128, 
+        "longitude": 100.529778, 
+        "name": "\u0e2a\u0e32\u0e17\u0e23\u0e2a\u0e41\u0e04\u0e27\u0e23\u0e4c 1", 
+        "timestamp": "2016-02-29T07:15:58.074000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Sam Yarn", 
+          "bike_uids": [
+            "0000D21F20C4", 
+            "0000622D20C4"
+          ], 
+          "slots": 8, 
+          "uid": "21"
+        }, 
+        "free_bikes": 2, 
+        "id": "b4565355e8a6eb855e3f1f830b0168f4", 
+        "latitude": 13.73375, 
+        "longitude": 100.528769, 
+        "name": "\u0e2a\u0e32\u0e21\u0e22\u0e48\u0e32\u0e19", 
+        "timestamp": "2016-02-29T07:15:58.075000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Nanmee", 
+          "bike_uids": [
+            "0000527420C4", 
+            "0000424520C4", 
+            "0000E2F71FC4"
+          ], 
+          "slots": 8, 
+          "uid": "22"
+        }, 
+        "free_bikes": 3, 
+        "id": "fc82f135bbff96c9ae18133690e2279c", 
+        "latitude": 13.719039, 
+        "longitude": 100.520072, 
+        "name": "\u0e19\u0e32\u0e19\u0e21\u0e35", 
+        "timestamp": "2016-02-29T07:15:58.080000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Sathorn 12", 
+          "bike_uids": [
+            "0000F2361FC4"
+          ], 
+          "slots": 8, 
+          "uid": "23"
+        }, 
+        "free_bikes": 1, 
+        "id": "bba14b590796fa3a0f2a194434944685", 
+        "latitude": 13.720802205442741, 
+        "longitude": 100.52622467279434, 
+        "name": "\u0e2a\u0e32\u0e17\u0e23 12", 
+        "timestamp": "2016-02-29T07:15:58.086000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Chula Hospital", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "24"
+        }, 
+        "free_bikes": 0, 
+        "id": "c57c74da13955f28792796b1dd11231a", 
+        "latitude": 13.729964, 
+        "longitude": 100.535997, 
+        "name": "\u0e23\u0e1e. \u0e08\u0e38\u0e2c\u0e32", 
+        "timestamp": "2016-02-29T07:15:58.091000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Silom Complex", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "25"
+        }, 
+        "free_bikes": 0, 
+        "id": "b194929d2cfee025e61599fadc6d291c", 
+        "latitude": 13.72826471704626, 
+        "longitude": 100.53410768508911, 
+        "name": "\u0e2a\u0e35\u0e25\u0e21\u0e04\u0e2d\u0e21\u0e40\u0e1e\u0e25\u0e47\u0e01\u0e0b\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.105000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Police Hospital", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "26"
+        }, 
+        "free_bikes": 0, 
+        "id": "2e8bc551572ad51e085971a78f959233", 
+        "latitude": 13.744022760167171, 
+        "longitude": 100.54000854492188, 
+        "name": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e15\u0e33\u0e23\u0e27\u0e08", 
+        "timestamp": "2016-02-29T07:15:58.112000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Sathorn Square 2", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "27"
+        }, 
+        "free_bikes": 0, 
+        "id": "e3afa1e0b846cdf6489b3cc82362b0a0", 
+        "latitude": 13.721808, 
+        "longitude": 100.529447, 
+        "name": "\u0e2a\u0e32\u0e17\u0e23\u0e2a\u0e41\u0e04\u0e27\u0e23\u0e4c 2", 
+        "timestamp": "2016-02-29T07:15:58.116000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Sangthong Thani", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "28"
+        }, 
+        "free_bikes": 0, 
+        "id": "f2290ca7571f8177b3ccc73bd892d555", 
+        "latitude": 13.722733, 
+        "longitude": 100.532703, 
+        "name": "\u0e41\u0e2a\u0e07\u0e17\u0e2d\u0e07\u0e18\u0e32\u0e19\u0e35", 
+        "timestamp": "2016-02-29T07:15:58.126000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Sathorn Mart", 
+          "bike_uids": [
+            "0000A24C20C4", 
+            "0000C2F71FC4", 
+            "255052AD1FC4", 
+            "0000524420C4", 
+            "000012CD1FC4", 
+            "0000A21E1FC4", 
+            "0000524D20C4"
+          ], 
+          "slots": 8, 
+          "uid": "30"
+        }, 
+        "free_bikes": 7, 
+        "id": "b1ac9d28173145ad04f141fe00a841c0", 
+        "latitude": 13.724764, 
+        "longitude": 100.539408, 
+        "name": "\u0e2a\u0e32\u0e17\u0e23\u0e21\u0e32\u0e23\u0e4c\u0e17 (\u0e40\u0e14\u0e34\u0e21)", 
+        "timestamp": "2016-02-29T07:15:58.131000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Thai-Belgium", 
+          "bike_uids": [
+            "0000F28A20C4", 
+            "000062AA20C4", 
+            "0000A2901FC4", 
+            "0000824420C4", 
+            "000012E91EC4", 
+            "0000F20E1FC4", 
+            "0000F23C20C4"
+          ], 
+          "slots": 8, 
+          "uid": "31"
+        }, 
+        "free_bikes": 7, 
+        "id": "abef9b984575907888f7b23d3e7cc235", 
+        "latitude": 13.726388688980983, 
+        "longitude": 100.54503500461578, 
+        "name": "\u0e44\u0e17\u0e22-\u0e40\u0e1a\u0e25\u0e40\u0e22\u0e35\u0e48\u0e22\u0e21 ( MRT )", 
+        "timestamp": "2016-02-29T07:15:58.132000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Lumpini 1", 
+          "bike_uids": [
+            "000092651FC4", 
+            "0000B2781FC4", 
+            "0000D2F81EC4", 
+            "000062161FC4", 
+            "0000A2781FC4"
+          ], 
+          "slots": 8, 
+          "uid": "32"
+        }, 
+        "free_bikes": 5, 
+        "id": "3503773892b3522d4f3f6012e263d465", 
+        "latitude": 13.734039, 
+        "longitude": 100.538561, 
+        "name": "\u0e2a\u0e27\u0e19\u0e25\u0e38\u0e21\u0e1e\u0e34\u0e19\u0e35 1", 
+        "timestamp": "2016-02-29T07:15:58.133000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Lumpini 3", 
+          "bike_uids": [
+            "0000E2A220C4", 
+            "000062EA1FC4", 
+            "0000A2F71FC4"
+          ], 
+          "slots": 8, 
+          "uid": "33"
+        }, 
+        "free_bikes": 3, 
+        "id": "bcacd563b69d80c7caaba192eadfc80f", 
+        "latitude": 13.726578, 
+        "longitude": 100.544319, 
+        "name": "\u0e2a\u0e27\u0e19\u0e25\u0e38\u0e21\u0e1e\u0e34\u0e19\u0e35 3", 
+        "timestamp": "2016-02-29T07:15:58.134000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Bonkai", 
+          "bike_uids": [
+            "000002F81FC4", 
+            "0000026E20C4", 
+            "0000821720C4", 
+            "000012D81FC4", 
+            "0000824420C4", 
+            "0000B23E1FC4"
+          ], 
+          "slots": 8, 
+          "uid": "34"
+        }, 
+        "free_bikes": 6, 
+        "id": "edbe2436d7316c6507b5b6856e74a2d6", 
+        "latitude": 13.72594573572037, 
+        "longitude": 100.54563850164413, 
+        "name": "\u0e1a\u0e48\u0e2d\u0e19\u0e44\u0e01\u0e48", 
+        "timestamp": "2016-02-29T07:15:58.135000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Holiday Inn", 
+          "bike_uids": [
+            "000052451FC4", 
+            "0000A23D20C4", 
+            "0000125620C4", 
+            "0000F24620C4", 
+            "0000922E20C4", 
+            "0000B25320C4"
+          ], 
+          "slots": 8, 
+          "uid": "35"
+        }, 
+        "free_bikes": 6, 
+        "id": "b0e95fcb172b5cfae5e64d88c0d16430", 
+        "latitude": 13.723053490929667, 
+        "longitude": 100.51950573921204, 
+        "name": "\u0e42\u0e23\u0e07\u0e41\u0e23\u0e21\u0e2e\u0e2d\u0e25\u0e34\u0e40\u0e14\u0e22\u0e4c\u0e2d\u0e34\u0e19\u0e19\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.136000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Vorawat", 
+          "bike_uids": [
+            "000012811FC4", 
+            "0000F2F71FC4", 
+            "000092811FC4", 
+            "0000C2CF1FC4"
+          ], 
+          "slots": 8, 
+          "uid": "36"
+        }, 
+        "free_bikes": 4, 
+        "id": "40bc7e6baac80cdf68e9aee7ce505478", 
+        "latitude": 13.723730956871227, 
+        "longitude": 100.52160859107971, 
+        "name": "\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e27\u0e23\u0e27\u0e31\u0e12\u0e19\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.137000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Lumpini Tower", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "37"
+        }, 
+        "free_bikes": 0, 
+        "id": "84ab057c8dcf559720d58ca2a834443f", 
+        "latitude": 13.723986308910785, 
+        "longitude": 100.54957330226898, 
+        "name": "\u0e25\u0e38\u0e21\u0e1e\u0e34\u0e19\u0e35 \u0e17\u0e32\u0e27\u0e40\u0e27\u0e2d\u0e23\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.138000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Park Ventures", 
+          "bike_uids": [
+            "000052561FC4", 
+            "0000C2EC1FC4"
+          ], 
+          "slots": 8, 
+          "uid": "38"
+        }, 
+        "free_bikes": 2, 
+        "id": "72f47211667925b7dd7642a46fec6099", 
+        "latitude": 13.743136, 
+        "longitude": 100.547639, 
+        "name": "\u0e1b\u0e32\u0e23\u0e4c\u0e04\u0e40\u0e27\u0e19\u0e40\u0e08\u0e2d\u0e23\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.139000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "All Season Place", 
+          "bike_uids": [
+            "000082901FC4"
+          ], 
+          "slots": 8, 
+          "uid": "39"
+        }, 
+        "free_bikes": 1, 
+        "id": "daf9fc81fda2824db86667eea2fa9458", 
+        "latitude": 13.73915580569622, 
+        "longitude": 100.54700374603271, 
+        "name": "\u0e2d\u0e2d\u0e25\u0e0b\u0e35\u0e0b\u0e31\u0e48\u0e19\u0e40\u0e1e\u0e25\u0e2a", 
+        "timestamp": "2016-02-29T07:15:58.140000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Zuelling House", 
+          "bike_uids": [
+            "0000327A1FC4", 
+            "0000E22620C4"
+          ], 
+          "slots": 8, 
+          "uid": "41"
+        }, 
+        "free_bikes": 2, 
+        "id": "bf6eb2d400e13c1d401d6b6e17d48582", 
+        "latitude": 13.728921323324, 
+        "longitude": 100.53579211235046, 
+        "name": "\u0e0b\u0e34\u0e25\u0e25\u0e34\u0e04 \u0e40\u0e2e\u0e49\u0e32\u0e2a\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.142000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Kiangwan", 
+          "bike_uids": [
+            "0000B2BA1FC4", 
+            "0000021620C4", 
+            "000052E11EC4", 
+            "0000125420C4"
+          ], 
+          "slots": 8, 
+          "uid": "42"
+        }, 
+        "free_bikes": 4, 
+        "id": "af5406981a248b874a0442b3eac47d17", 
+        "latitude": 13.745106607782953, 
+        "longitude": 100.48522174358368, 
+        "name": "\u0e40\u0e04\u0e35\u0e48\u0e22\u0e19\u0e2b\u0e07\u0e27\u0e19", 
+        "timestamp": "2016-02-29T07:15:58.143000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Lumpini 2", 
+          "bike_uids": [
+            "000092901FC4", 
+            "0000925E20C4", 
+            "0000D2AA1FC4", 
+            "0000C2EC1FC4", 
+            "0000D22D20C4"
+          ], 
+          "slots": 8, 
+          "uid": "43"
+        }, 
+        "free_bikes": 5, 
+        "id": "49ab6fe3b0445b1384b8e2a88f436380", 
+        "latitude": 13.74505449983925, 
+        "longitude": 100.48519223928452, 
+        "name": "\u0e2a\u0e27\u0e19\u0e25\u0e38\u0e21\u0e1e\u0e34\u0e19\u0e35 2", 
+        "timestamp": "2016-02-29T07:15:58.144000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Rathchathewi 1", 
+          "bike_uids": [
+            "0000B21F1FC4", 
+            "0000B2FC1FC4"
+          ], 
+          "slots": 8, 
+          "uid": "44"
+        }, 
+        "free_bikes": 2, 
+        "id": "ceb2a537071350f51a34261f2d5254b2", 
+        "latitude": 13.752414, 
+        "longitude": 100.531708, 
+        "name": "\u0e23\u0e32\u0e0a\u0e40\u0e17\u0e27\u0e35 1", 
+        "timestamp": "2016-02-29T07:15:58.145000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Rathchathewi 2", 
+          "bike_uids": [
+            "0000821E1FC4", 
+            "0000D26D20C4", 
+            "8801623D20C4", 
+            "0000F2E01EC4", 
+            "000042D61FC4", 
+            "0000B2CE1FC4", 
+            "000072161FC4"
+          ], 
+          "slots": 8, 
+          "uid": "45"
+        }, 
+        "free_bikes": 7, 
+        "id": "c66667ecf25b9f76920ec7a495317b51", 
+        "latitude": 13.751072, 
+        "longitude": 100.531378, 
+        "name": "\u0e23\u0e32\u0e0a\u0e40\u0e17\u0e27\u0e35 2", 
+        "timestamp": "2016-02-29T07:15:58.146000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Isetan", 
+          "bike_uids": [
+            "000032081FC4", 
+            "000072F71EC4", 
+            "000022271FC4", 
+            "0000322E20C4"
+          ], 
+          "slots": 8, 
+          "uid": "46"
+        }, 
+        "free_bikes": 4, 
+        "id": "11ae345d71d7724c807cee2236f397a0", 
+        "latitude": 13.748754135033241, 
+        "longitude": 100.54079174995422, 
+        "name": "\u0e2d\u0e34\u0e40\u0e0b\u0e15\u0e31\u0e19", 
+        "timestamp": "2016-02-29T07:15:58.147000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Chula 3", 
+          "bike_uids": [
+            "0000B2981FC4", 
+            "000042001FC4"
+          ], 
+          "slots": 8, 
+          "uid": "48"
+        }, 
+        "free_bikes": 2, 
+        "id": "f0a65647fdbcdd2856f7578298c6e2e9", 
+        "latitude": 13.743162973635846, 
+        "longitude": 100.53046524524689, 
+        "name": "\u0e08\u0e38\u0e2c\u0e32 3", 
+        "timestamp": "2016-02-29T07:15:58.149000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Yak Pathum Wan", 
+          "bike_uids": [
+            "000072811FC4", 
+            "0000D23E1FC4", 
+            "000092271FC4", 
+            "000072981FC4"
+          ], 
+          "slots": 8, 
+          "uid": "49"
+        }, 
+        "free_bikes": 4, 
+        "id": "ef44c4efabfac779a57eded7cd7c370b", 
+        "latitude": 13.74598462489089, 
+        "longitude": 100.53134769201279, 
+        "name": "\u0e41\u0e22\u0e01\u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19", 
+        "timestamp": "2016-02-29T07:15:58.152000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Materdei", 
+          "bike_uids": [
+            "0000A20820C4", 
+            "0000326C1FC4"
+          ], 
+          "slots": 8, 
+          "uid": "50"
+        }, 
+        "free_bikes": 2, 
+        "id": "4380d56d18c4c6747c31e298477c1833", 
+        "latitude": 13.744082684565344, 
+        "longitude": 100.54250031709671, 
+        "name": "\u0e21\u0e32\u0e41\u0e15\u0e40\u0e14\u0e2d\u0e35\u0e22\u0e4c", 
+        "timestamp": "2016-02-29T07:15:58.153000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Ratchadamri", 
+          "bike_uids": [
+            "0000A22D1FC4", 
+            "000072161FC4"
+          ], 
+          "slots": 8, 
+          "uid": "08"
+        }, 
+        "free_bikes": 2, 
+        "id": "e22544fdc5529b0d9c659cabcabc2769", 
+        "latitude": 13.739062009006876, 
+        "longitude": 100.5395632982254, 
+        "name": "\u0e23\u0e32\u0e0a\u0e14\u0e33\u0e23\u0e34", 
+        "timestamp": "2016-02-29T07:15:58.032000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Rajanakarn", 
+          "bike_uids": [], 
+          "slots": 8, 
+          "uid": "29"
+        }, 
+        "free_bikes": 0, 
+        "id": "c74d499769d2bf69201a60ea10eaee12", 
+        "latitude": 13.721442, 
+        "longitude": 100.529506, 
+        "name": "\u0e23\u0e31\u0e08\u0e19\u0e32\u0e01\u0e32\u0e23", 
+        "timestamp": "2016-02-29T07:15:58.130000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Royal Sport Club", 
+          "bike_uids": [
+            "0000621F20C4"
+          ], 
+          "slots": 8, 
+          "uid": "40"
+        }, 
+        "free_bikes": 1, 
+        "id": "93bb4fdc1b2e8371e55440aca71f40e7", 
+        "latitude": 13.738520071844441, 
+        "longitude": 100.53494453430176, 
+        "name": "\u0e23\u0e32\u0e0a\u0e01\u0e23\u0e35\u0e11\u0e32\u0e2a\u0e42\u0e21\u0e2a\u0e23", 
+        "timestamp": "2016-02-29T07:15:58.141000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Hualumpong", 
+          "bike_uids": [
+            "000002C01FC4", 
+            "0000F2D71FC4", 
+            "0000D2651FC4"
+          ], 
+          "slots": 8, 
+          "uid": "47"
+        }, 
+        "free_bikes": 3, 
+        "id": "6ce5625a4c629ab39586d56d9ed022e6", 
+        "latitude": 13.73782180480675, 
+        "longitude": 100.51680743694305, 
+        "name": "\u0e2b\u0e31\u0e27\u0e25\u0e33\u0e42\u0e1e\u0e07", 
+        "timestamp": "2016-02-29T07:15:58.148000Z"
+      }
+    ]
+  }
+}

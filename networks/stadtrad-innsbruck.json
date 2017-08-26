@@ -1,0 +1,788 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/stadtrad-innsbruck", 
+    "id": "stadtrad-innsbruck", 
+    "location": {
+      "city": "Innsbruck", 
+      "country": "AT", 
+      "latitude": 47.2632, 
+      "longitude": 11.3961
+    }, 
+    "name": "Stadtrad", 
+    "stations": [
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "34105", 
+            "34189", 
+            "34181", 
+            "34201", 
+            "34192"
+          ], 
+          "number": "3828", 
+          "slots": 12, 
+          "uid": "732701"
+        }, 
+        "free_bikes": 6, 
+        "id": "87ef436c3cbe8e9afc02ace2ed089997", 
+        "latitude": 47.2587535, 
+        "longitude": 11.42576928, 
+        "name": "Philippine-Welser-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:10.381000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "34126", 
+            "34114", 
+            "34169", 
+            "34144", 
+            "34152"
+          ], 
+          "number": "3837", 
+          "slots": 12, 
+          "uid": "3385868"
+        }, 
+        "free_bikes": 7, 
+        "id": "a8d30262667c441cc57de04f236dfa75", 
+        "latitude": 47.27579663, 
+        "longitude": 11.40557555, 
+        "name": "Claudiaplatz", 
+        "timestamp": "2017-08-15T04:49:10.411000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "34073", 
+            "34058", 
+            "34102", 
+            "34106", 
+            "34113"
+          ], 
+          "number": "3801", 
+          "slots": 10, 
+          "uid": "203967"
+        }, 
+        "free_bikes": 7, 
+        "id": "7560bc9cb9a41a4fc109bb173d2e6e99", 
+        "latitude": 47.265059073517, 
+        "longitude": 11.393138766289, 
+        "name": "Rathausgalerien", 
+        "timestamp": "2017-08-15T04:49:10.302000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "34101", 
+            "34024", 
+            "34014", 
+            "34178", 
+            "34161"
+          ], 
+          "number": "3805", 
+          "slots": 23, 
+          "uid": "203971"
+        }, 
+        "free_bikes": 7, 
+        "id": "d60317351aa034c1e946583ca021964b", 
+        "latitude": 47.26363555, 
+        "longitude": 11.40000398, 
+        "name": "Hauptbahnhof", 
+        "timestamp": "2017-08-15T04:49:10.333000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "34124", 
+            "34115", 
+            "34180", 
+            "34121", 
+            "34135"
+          ], 
+          "number": "3833", 
+          "slots": 12, 
+          "uid": "1001087"
+        }, 
+        "free_bikes": 6, 
+        "id": "e628b664dab18989d6113c8a9418f7c8", 
+        "latitude": 47.26520091, 
+        "longitude": 11.41350891, 
+        "name": "Gumppstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:10.399000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "34131", 
+            "34033", 
+            "34173", 
+            "34158", 
+            "34278"
+          ], 
+          "number": "3836", 
+          "slots": 12, 
+          "uid": "3495985"
+        }, 
+        "free_bikes": 5, 
+        "id": "53b997f4bc6e7061ba0dd9a564a8cb6f", 
+        "latitude": 47.25806663, 
+        "longitude": 11.37059813, 
+        "name": "Mitterweg", 
+        "timestamp": "2017-08-15T04:49:10.412000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "34061", 
+            "34045", 
+            "34039", 
+            "34022", 
+            "34017"
+          ], 
+          "number": "3802", 
+          "slots": 14, 
+          "uid": "203968"
+        }, 
+        "free_bikes": 7, 
+        "id": "32067d17f8def274ed1c73504f1b3657", 
+        "latitude": 47.264779, 
+        "longitude": 11.397192, 
+        "name": "Bozner Platz", 
+        "timestamp": "2017-08-15T04:49:10.318000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "34146", 
+            "34137", 
+            "34123", 
+            "34092", 
+            "34071"
+          ], 
+          "number": "3803", 
+          "slots": 20, 
+          "uid": "203969"
+        }, 
+        "free_bikes": 6, 
+        "id": "257f8bc24ec61239cf18157979ff41df", 
+        "latitude": 47.26861543, 
+        "longitude": 11.39535303, 
+        "name": "Rennweg / Hofburg", 
+        "timestamp": "2017-08-15T04:49:10.326000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "34052", 
+            "34177", 
+            "34163", 
+            "34200", 
+            "34128"
+          ], 
+          "number": "3806", 
+          "slots": 11, 
+          "uid": "203973"
+        }, 
+        "free_bikes": 6, 
+        "id": "961bc3ee666c370d5186f4a14aa2629c", 
+        "latitude": 47.264589, 
+        "longitude": 11.374937, 
+        "name": "H\u00f6ttinger Au /West", 
+        "timestamp": "2017-08-15T04:49:10.334000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "34183", 
+            "34156", 
+            "34199", 
+            "34193", 
+            "34063"
+          ], 
+          "number": "3807", 
+          "slots": 12, 
+          "uid": "203974"
+        }, 
+        "free_bikes": 6, 
+        "id": "904214d8753e14845f0d314122cda101", 
+        "latitude": 47.263548, 
+        "longitude": 11.387514, 
+        "name": "Anichstra\u00dfe / Klinik", 
+        "timestamp": "2017-08-15T04:49:10.337000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "34000", 
+            "34145", 
+            "34104", 
+            "34090", 
+            "34084"
+          ], 
+          "number": "3809", 
+          "slots": 20, 
+          "uid": "203976"
+        }, 
+        "free_bikes": 6, 
+        "id": "953906aa5c5d1c713ce200460b2141e6", 
+        "latitude": 47.265325, 
+        "longitude": 11.395912, 
+        "name": "Erlerstra\u00dfe / Kaufhaus Tyrol", 
+        "timestamp": "2017-08-15T04:49:10.337000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "bike_uids": [
+            "34116", 
+            "34056", 
+            "34122", 
+            "34186", 
+            "34165"
+          ], 
+          "number": "3812", 
+          "slots": 20, 
+          "uid": "203977"
+        }, 
+        "free_bikes": 5, 
+        "id": "944219327be55b8679cf635b040602b3", 
+        "latitude": 47.260749, 
+        "longitude": 11.409412, 
+        "name": "Anton-Eder-Stra\u00dfe / Freibad Tivoli ", 
+        "timestamp": "2017-08-15T04:49:10.338000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "34174", 
+            "34062", 
+            "34324", 
+            "34304", 
+            "34303"
+          ], 
+          "number": "3811", 
+          "slots": 10, 
+          "uid": "203978"
+        }, 
+        "free_bikes": 6, 
+        "id": "b8548e5753a84327dcd2883437275b70", 
+        "latitude": 47.278834, 
+        "longitude": 11.403916, 
+        "name": "M\u00fchlauer Br\u00fccke / Falkstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:10.341000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "34132", 
+            "34038", 
+            "34013", 
+            "34154", 
+            "34287"
+          ], 
+          "number": "3810", 
+          "slots": 14, 
+          "uid": "203979"
+        }, 
+        "free_bikes": 5, 
+        "id": "c8605c5e6e2955e22bde0254cd595a0d", 
+        "latitude": 47.264542, 
+        "longitude": 11.407274, 
+        "name": "Leipziger Platz", 
+        "timestamp": "2017-08-15T04:49:10.343000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "34139", 
+            "34010", 
+            "34175", 
+            "34265", 
+            "34282"
+          ], 
+          "number": "3814", 
+          "slots": 14, 
+          "uid": "203981"
+        }, 
+        "free_bikes": 5, 
+        "id": "1b6932f613e3bac31c32c20ef9e53137", 
+        "latitude": 47.26611463, 
+        "longitude": 11.4028364, 
+        "name": "Sillpark", 
+        "timestamp": "2017-08-15T04:49:10.344000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "34142", 
+            "34138", 
+            "34111", 
+            "34089", 
+            "34091"
+          ], 
+          "number": "3815", 
+          "slots": 18, 
+          "uid": "203982"
+        }, 
+        "free_bikes": 8, 
+        "id": "c1f29298214847229494af5131bfcceb", 
+        "latitude": 47.255925, 
+        "longitude": 11.391626, 
+        "name": "Westbahnhof", 
+        "timestamp": "2017-08-15T04:49:10.347000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "34082", 
+            "34103", 
+            "34008", 
+            "34034"
+          ], 
+          "number": "3818", 
+          "slots": 10, 
+          "uid": "203985"
+        }, 
+        "free_bikes": 4, 
+        "id": "9d62a51510b33956c72f2d93bed12a57", 
+        "latitude": 47.26172078, 
+        "longitude": 11.3836062, 
+        "name": "Studentenheim Rechengasse", 
+        "timestamp": "2017-08-15T04:49:10.351000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "34055", 
+            "34009", 
+            "34184", 
+            "34157", 
+            "34085"
+          ], 
+          "number": "3819", 
+          "slots": 18, 
+          "uid": "203986"
+        }, 
+        "free_bikes": 5, 
+        "id": "51bac3eda6552c36d664731cacf371db", 
+        "latitude": 47.266378, 
+        "longitude": 11.401298, 
+        "name": "Tiroler Tageszeitung", 
+        "timestamp": "2017-08-15T04:49:10.354000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "34143", 
+            "34108", 
+            "34051", 
+            "34030", 
+            "34185"
+          ], 
+          "number": "3822", 
+          "slots": 13, 
+          "uid": "286191"
+        }, 
+        "free_bikes": 6, 
+        "id": "396d0aeb871ffa39237b6ed079a0ec6e", 
+        "latitude": 47.26378845, 
+        "longitude": 11.3862067, 
+        "name": "UNI", 
+        "timestamp": "2017-08-15T04:49:10.363000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "34140", 
+            "34127", 
+            "34288", 
+            "34285", 
+            "34355"
+          ], 
+          "number": "3823", 
+          "slots": 10, 
+          "uid": "286192"
+        }, 
+        "free_bikes": 6, 
+        "id": "b2ebd0f2e52d1c1ced0c193c9f823292", 
+        "latitude": 47.2692488, 
+        "longitude": 11.39913495, 
+        "name": "SOWI", 
+        "timestamp": "2017-08-15T04:49:10.371000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "34029", 
+            "34168", 
+            "34166", 
+            "34059", 
+            "34279"
+          ], 
+          "number": "3825", 
+          "slots": 20, 
+          "uid": "351546"
+        }, 
+        "free_bikes": 6, 
+        "id": "6227a3a3894e85eddc127b14c08f5040", 
+        "latitude": 47.26515736, 
+        "longitude": 11.34458542, 
+        "name": "Technik", 
+        "timestamp": "2017-08-15T04:49:10.375000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "34099", 
+            "34096", 
+            "34076", 
+            "34054", 
+            "34032"
+          ], 
+          "number": "3826", 
+          "slots": 10, 
+          "uid": "355752"
+        }, 
+        "free_bikes": 5, 
+        "id": "adb1779868b2fc4345bbf0b22000f2a6", 
+        "latitude": 47.25778882, 
+        "longitude": 11.35754585, 
+        "name": "Universit\u00e4ts-Sportinstitut", 
+        "timestamp": "2017-08-15T04:49:10.378000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "34170", 
+            "34205", 
+            "34130", 
+            "34151", 
+            "34286"
+          ], 
+          "number": "3817", 
+          "slots": 10, 
+          "uid": "203984"
+        }, 
+        "free_bikes": 6, 
+        "id": "39e1dd3991076806aaa47bbe3b3e61f9", 
+        "latitude": 47.25945, 
+        "longitude": 11.393339, 
+        "name": "AMS-Gesch\u00e4ftsstelle", 
+        "timestamp": "2017-08-15T04:49:10.350000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "bike_uids": [
+            "34118", 
+            "34077", 
+            "34072", 
+            "34037", 
+            "34027"
+          ], 
+          "number": "3816", 
+          "slots": 14, 
+          "uid": "203983"
+        }, 
+        "free_bikes": 5, 
+        "id": "2e07fcc0a64c9d38daf626ba499c9181", 
+        "latitude": 47.255521, 
+        "longitude": 11.381165, 
+        "name": "Egger-Lienz-Stra\u00dfe / WIFI", 
+        "timestamp": "2017-08-15T04:49:10.348000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "34031", 
+            "34313", 
+            "34350", 
+            "34340"
+          ], 
+          "number": "3827", 
+          "slots": 8, 
+          "uid": "355754"
+        }, 
+        "free_bikes": 4, 
+        "id": "01bdeb3ee4eecabc2f785feefe9f8987", 
+        "latitude": 47.26622761, 
+        "longitude": 11.39208198, 
+        "name": "Adolf-Pichler-Platz", 
+        "timestamp": "2017-08-15T04:49:10.379000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "bike_uids": [
+            "34002", 
+            "34023", 
+            "34095", 
+            "34301", 
+            "34294"
+          ], 
+          "number": "3808", 
+          "slots": 10, 
+          "uid": "883225"
+        }, 
+        "free_bikes": 6, 
+        "id": "81a0f67f588e5b9c4f18ff724d2f4e02", 
+        "latitude": 47.274563, 
+        "longitude": 11.3970616, 
+        "name": "Austria Trend Hotel", 
+        "timestamp": "2017-08-15T04:49:10.382000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "34147", 
+            "34129", 
+            "34086", 
+            "34069", 
+            "34020"
+          ], 
+          "number": "3824", 
+          "slots": 10, 
+          "uid": "286193"
+        }, 
+        "free_bikes": 5, 
+        "id": "fdc0a4557669adcc87405940cf22cd90", 
+        "latitude": 47.2773946, 
+        "longitude": 11.41701992, 
+        "name": "General-Eccher-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:10.374000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "34134", 
+            "34112", 
+            "34060", 
+            "34041", 
+            "34160"
+          ], 
+          "number": "3830", 
+          "slots": 12, 
+          "uid": "1001071"
+        }, 
+        "free_bikes": 7, 
+        "id": "826115fcff4f9576dbf046a91195451a", 
+        "latitude": 47.2660127, 
+        "longitude": 11.38311411, 
+        "name": "F\u00fcrstenweg", 
+        "timestamp": "2017-08-15T04:49:10.387000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "bike_uids": [
+            "34141", 
+            "34171", 
+            "34295", 
+            "34293", 
+            "34326"
+          ], 
+          "number": "3829", 
+          "slots": 16, 
+          "uid": "1001065"
+        }, 
+        "free_bikes": 5, 
+        "id": "29e1bb07ae06ef1b95ea982f583e612c", 
+        "latitude": 47.26128014, 
+        "longitude": 11.3796192, 
+        "name": "Fischnalerstra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:10.384000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "34070", 
+            "34271", 
+            "34314"
+          ], 
+          "number": "3831", 
+          "slots": 12, 
+          "uid": "1001074"
+        }, 
+        "free_bikes": 3, 
+        "id": "6d868a1b6579ae58a27be580c3d2a60b", 
+        "latitude": 47.26789833, 
+        "longitude": 11.38757731, 
+        "name": "Mariahilfpark", 
+        "timestamp": "2017-08-15T04:49:10.391000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "bike_uids": [
+            "34074", 
+            "34066", 
+            "34065", 
+            "34018", 
+            "34299"
+          ], 
+          "number": "3821", 
+          "slots": 11, 
+          "uid": "203988"
+        }, 
+        "free_bikes": 5, 
+        "id": "bae69c6ccc4aaa9ba352ced2d0ff37ca", 
+        "latitude": 47.263104177265, 
+        "longitude": 11.374969482422, 
+        "name": "Bachlechnerstr. / MED-EL", 
+        "timestamp": "2017-08-15T04:49:10.359000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "bike_uids": [
+            "34097", 
+            "34088", 
+            "34198", 
+            "34196", 
+            "34098"
+          ], 
+          "number": "3813", 
+          "slots": 17, 
+          "uid": "229278"
+        }, 
+        "free_bikes": 5, 
+        "id": "8d566fe56cf66ee85c1e569a34fa50c3", 
+        "latitude": 47.253831088354, 
+        "longitude": 11.397746801376, 
+        "name": "Pastorstra\u00dfe / IVB / P\u00e4dagogische Hochschule Tirol", 
+        "timestamp": "2017-08-15T04:49:10.360000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "34109", 
+            "34081", 
+            "34036", 
+            "34263", 
+            "34266"
+          ], 
+          "number": "3804", 
+          "slots": 10, 
+          "uid": "203970"
+        }, 
+        "free_bikes": 7, 
+        "id": "1977084642460ca319adf45315b7f3be", 
+        "latitude": 47.261910089664, 
+        "longitude": 11.429396867752, 
+        "name": "DEZ/Ikea", 
+        "timestamp": "2017-08-15T04:49:10.331000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "bike_uids": [
+            "34044", 
+            "34040", 
+            "34197", 
+            "34016"
+          ], 
+          "number": "3832", 
+          "slots": 12, 
+          "uid": "1001080"
+        }, 
+        "free_bikes": 4, 
+        "id": "3f551be2a400f5a8720f61ca60f4460d", 
+        "latitude": 47.27066476, 
+        "longitude": 11.39164354, 
+        "name": "Waltherpark", 
+        "timestamp": "2017-08-15T04:49:10.396000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "34087", 
+            "34187", 
+            "34182", 
+            "34315", 
+            "34349"
+          ], 
+          "number": "3834", 
+          "slots": 14, 
+          "uid": "1839703"
+        }, 
+        "free_bikes": 5, 
+        "id": "4ef6ac54acb91fba988303a0ec93c49a", 
+        "latitude": 47.2655249, 
+        "longitude": 11.43528576, 
+        "name": "TWI Technologiezentrum", 
+        "timestamp": "2017-08-15T04:49:10.401000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "34003", 
+            "34079", 
+            "34202", 
+            "34125", 
+            "34290"
+          ], 
+          "number": "3835", 
+          "slots": 12, 
+          "uid": "3385845"
+        }, 
+        "free_bikes": 6, 
+        "id": "05106db18eb45bdb05f26c5d3f11c1ef", 
+        "latitude": 47.25669587, 
+        "longitude": 11.37385843, 
+        "name": "Dr. Stumpf-Stra\u00dfe", 
+        "timestamp": "2017-08-15T04:49:10.409000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "34136", 
+            "34190", 
+            "34320"
+          ], 
+          "number": "3820", 
+          "slots": 10, 
+          "uid": "203987"
+        }, 
+        "free_bikes": 3, 
+        "id": "abaa15d239cf0973934dbcdd845edb76", 
+        "latitude": 47.26030658, 
+        "longitude": 11.38727095, 
+        "name": "Sch\u00f6pfstra\u00dfe / Klinik", 
+        "timestamp": "2017-08-15T04:49:10.356000Z"
+      }
+    ]
+  }
+}

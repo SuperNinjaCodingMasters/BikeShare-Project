@@ -1,0 +1,3716 @@
+{
+  "network": {
+    "company": [
+      "Motivate International, Inc.", 
+      "PBSC Urban Solutions"
+    ], 
+    "gbfs_href": "https://tor.publicbikesystem.net/ube/gbfs/v1/", 
+    "href": "/v2/networks/bixi-toronto", 
+    "id": "bixi-toronto", 
+    "location": {
+      "city": "Toronto, ON", 
+      "country": "CA", 
+      "latitude": 43.653226, 
+      "longitude": -79.3831843
+    }, 
+    "name": "Bike Share Toronto", 
+    "stations": [
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "College/Crawford", 
+          "last_updated": 1502772544000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7204
+        }, 
+        "free_bikes": 7, 
+        "id": "e53f168eadc3a7e3b9704193c739cb12", 
+        "latitude": 43.655, 
+        "longitude": -79.418889, 
+        "name": "College/Crawford", 
+        "timestamp": "2017-08-15T04:49:25.300000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Bathurst/Fort York", 
+          "last_updated": 1502772455000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7176
+        }, 
+        "free_bikes": 19, 
+        "id": "8a4d335d5540e0c2132ffdb1def165f6", 
+        "latitude": 43.639179, 
+        "longitude": -79.399595, 
+        "name": "Bathurst/Fort York", 
+        "timestamp": "2017-08-15T04:49:25.279000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Spadina Ave / Adelaide St W", 
+          "last_updated": 1502772327000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7260
+        }, 
+        "free_bikes": 5, 
+        "id": "0378602b3243672e3dbd77d3fc63f0db", 
+        "latitude": 43.646688, 
+        "longitude": -79.395267, 
+        "name": "Spadina Ave / Adelaide St W", 
+        "timestamp": "2017-08-15T04:49:25.331000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Seaton/Dundas St E", 
+          "last_updated": 1502772542000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7109
+        }, 
+        "free_bikes": 11, 
+        "id": "033dd75f330fec10400341177c68036e", 
+        "latitude": 43.658777, 
+        "longitude": -79.369596, 
+        "name": "Seaton/Dundas St E", 
+        "timestamp": "2017-08-15T04:49:25.436000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Madison Ave / Bloor St W", 
+          "last_updated": 1502772503000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7003
+        }, 
+        "free_bikes": 8, 
+        "id": "83af92756a52874ce9bade85f065f4d1", 
+        "latitude": 43.667158, 
+        "longitude": -79.402761, 
+        "name": "Madison Ave / Bloor St W", 
+        "timestamp": "2017-08-15T04:49:25.340000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "University Ave / Elm St", 
+          "last_updated": 1502772525000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7004
+        }, 
+        "free_bikes": 0, 
+        "id": "32cb4912f6d3269c070a43e658dea18d", 
+        "latitude": 43.656518, 
+        "longitude": -79.389099, 
+        "name": "University Ave / Elm St", 
+        "timestamp": "2017-08-15T04:49:25.341000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Sherbourne / Carlton (Allan Gardens)", 
+          "last_updated": 1502772382000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7014
+        }, 
+        "free_bikes": 15, 
+        "id": "7fac6bfdffa0a7b4ff8a3f1ebd78da81", 
+        "latitude": 43.663102, 
+        "longitude": -79.373181, 
+        "name": "Sherbourne / Carlton (Allan Gardens)", 
+        "timestamp": "2017-08-15T04:49:25.351000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Ferry Ramp / Queens Quay W", 
+          "last_updated": 1502772390000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7016
+        }, 
+        "free_bikes": 4, 
+        "id": "7e56f8ede327e48ba458804bc92c4310", 
+        "latitude": 43.640823, 
+        "longitude": -79.376265, 
+        "name": "Ferry Ramp / Queens Quay W", 
+        "timestamp": "2017-08-15T04:49:25.353000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Widmer St / Adelaide St ", 
+          "last_updated": 1502772323000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7017
+        }, 
+        "free_bikes": 6, 
+        "id": "4acbaa02eeea522606b16dfcaacd7a8b", 
+        "latitude": 43.647145, 
+        "longitude": -79.391479, 
+        "name": "Widmer St / Adelaide St ", 
+        "timestamp": "2017-08-15T04:49:25.354000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "Phoebe St / Spadina Ave", 
+          "last_updated": 1502772543000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7020
+        }, 
+        "free_bikes": 6, 
+        "id": "2ccced1dbd563c3842d265b565098de1", 
+        "latitude": 43.650033, 
+        "longitude": -79.396555, 
+        "name": "Phoebe St / Spadina Ave", 
+        "timestamp": "2017-08-15T04:49:25.357000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "Simcoe St / Queen St W", 
+          "last_updated": 1502772403000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7022
+        }, 
+        "free_bikes": 5, 
+        "id": "ce0d3b9cbb9c3584147347f4a41c6847", 
+        "latitude": 43.650858, 
+        "longitude": -79.387582, 
+        "name": "Simcoe St / Queen St W", 
+        "timestamp": "2017-08-15T04:49:25.359000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "College St / Borden St", 
+          "last_updated": 1502772394000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7023
+        }, 
+        "free_bikes": 3, 
+        "id": "2037c7d47c8b7babcd2c4a058a66a6c8", 
+        "latitude": 43.6571, 
+        "longitude": -79.4056, 
+        "name": "College St / Borden St", 
+        "timestamp": "2017-08-15T04:49:25.360000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Bay St / St. Joseph St", 
+          "last_updated": 1502772468000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7026
+        }, 
+        "free_bikes": 2, 
+        "id": "d4c9a3af6604468422edfb03f56462db", 
+        "latitude": 43.665527, 
+        "longitude": -79.387499, 
+        "name": "Bay St / St. Joseph St", 
+        "timestamp": "2017-08-15T04:49:25.363000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Beverly  St / Dundas St W", 
+          "last_updated": 1502772336000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7027
+        }, 
+        "free_bikes": 16, 
+        "id": "73555343619c6b9d1253029204bbd5cd", 
+        "latitude": 43.652823, 
+        "longitude": -79.393388, 
+        "name": "Beverly  St / Dundas St W", 
+        "timestamp": "2017-08-15T04:49:25.364000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "Gould St / Mutual St", 
+          "last_updated": 1502772350000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7028
+        }, 
+        "free_bikes": 5, 
+        "id": "6e0b53806a9d068b042fa21bd67c5418", 
+        "latitude": 43.6582, 
+        "longitude": -79.3768, 
+        "name": "Gould St / Mutual St", 
+        "timestamp": "2017-08-15T04:49:25.364000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "Bay St / Wellesley St W", 
+          "last_updated": 1502772358000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7030
+        }, 
+        "free_bikes": 6, 
+        "id": "6f5d2f1ea5a0702ceb169480117ac9fd", 
+        "latitude": 43.664088, 
+        "longitude": -79.387095, 
+        "name": "Bay St / Wellesley St W", 
+        "timestamp": "2017-08-15T04:49:25.367000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Trinity St/ Front St E", 
+          "last_updated": 1502772482000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7036
+        }, 
+        "free_bikes": 5, 
+        "id": "1053161189e46ea1c3122c94b644bc9d", 
+        "latitude": 43.651318, 
+        "longitude": -79.36023, 
+        "name": "Trinity St/ Front St E", 
+        "timestamp": "2017-08-15T04:49:25.372000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Bathurst St / Dundas St", 
+          "last_updated": 1502772427000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7037
+        }, 
+        "free_bikes": 12, 
+        "id": "9daffb9931b163e591e98da716968bb2", 
+        "latitude": 43.6523, 
+        "longitude": -79.4058, 
+        "name": "Bathurst St / Dundas St", 
+        "timestamp": "2017-08-15T04:49:25.373000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Dundas St / Yonge St", 
+          "last_updated": 1502772494000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7038
+        }, 
+        "free_bikes": 3, 
+        "id": "02feaaef65cff4671fb1935179895659", 
+        "latitude": 43.656094, 
+        "longitude": -79.381484, 
+        "name": "Dundas St / Yonge St", 
+        "timestamp": "2017-08-15T04:49:25.374000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Simcoe St / Dundas St W", 
+          "last_updated": 1502772401000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7039
+        }, 
+        "free_bikes": 1, 
+        "id": "16f83e701750399a40a34632de44fc5f", 
+        "latitude": 43.653743, 
+        "longitude": -79.38882, 
+        "name": "Simcoe St / Dundas St W", 
+        "timestamp": "2017-08-15T04:49:25.375000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Edward St / Yonge St", 
+          "last_updated": 1502772430000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7041
+        }, 
+        "free_bikes": 14, 
+        "id": "18ea490ab3ca4d10e2927308416edbef", 
+        "latitude": 43.656729, 
+        "longitude": -79.382736, 
+        "name": "Edward St / Yonge St", 
+        "timestamp": "2017-08-15T04:49:25.377000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Sherbourne St / Wellesley St", 
+          "last_updated": 1502772466000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7042
+        }, 
+        "free_bikes": 23, 
+        "id": "2904c293698dc248004b5f43e1a28f80", 
+        "latitude": 43.6673, 
+        "longitude": -79.374, 
+        "name": "Sherbourne St / Wellesley St", 
+        "timestamp": "2017-08-15T04:49:25.378000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "University Ave / Gerrard St W", 
+          "last_updated": 1502772275000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7047
+        }, 
+        "free_bikes": 2, 
+        "id": "5a441560e262305d1934fb3ada5a9517", 
+        "latitude": 43.657763, 
+        "longitude": -79.389165, 
+        "name": "University Ave / Gerrard St W", 
+        "timestamp": "2017-08-15T04:49:25.382000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Front/Yonge (Hockey Hall of Fame)", 
+          "last_updated": 1502772337000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7048
+        }, 
+        "free_bikes": 47, 
+        "id": "41c3e6d3bf3bd993e7d56e22084ab5ee", 
+        "latitude": 43.646144, 
+        "longitude": -79.377962, 
+        "name": "Front/Yonge (Hockey Hall of Fame)", 
+        "timestamp": "2017-08-15T04:49:25.383000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Queen St / Portland St", 
+          "last_updated": 1502772266000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7049
+        }, 
+        "free_bikes": 8, 
+        "id": "6eaaf36cd079d08d973fdf24e217aa3d", 
+        "latitude": 43.6476, 
+        "longitude": -79.4015, 
+        "name": "Queen St / Portland St", 
+        "timestamp": "2017-08-15T04:49:25.384000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Metro Hall Plaza", 
+          "last_updated": 1502772536000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7053
+        }, 
+        "free_bikes": 0, 
+        "id": "6d07f3c1d79ff6816c5c04a7def6e6eb", 
+        "latitude": 43.645859, 
+        "longitude": -79.38783, 
+        "name": "Metro Hall Plaza", 
+        "timestamp": "2017-08-15T04:49:25.388000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Jarvis St / Isabella St", 
+          "last_updated": 1502772300000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7031
+        }, 
+        "free_bikes": 9, 
+        "id": "ce5a306517174b5e70a1fa5b8e2bf617", 
+        "latitude": 43.669192, 
+        "longitude": -79.379128, 
+        "name": "Jarvis St / Isabella St", 
+        "timestamp": "2017-08-15T04:49:25.367000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Richmond St E / Jarvis St", 
+          "last_updated": 1502772433000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7050
+        }, 
+        "free_bikes": 8, 
+        "id": "b59204ea6e3eaa8ade44469b0cd3703e", 
+        "latitude": 43.652634, 
+        "longitude": -79.374222, 
+        "name": "Richmond St E / Jarvis St", 
+        "timestamp": "2017-08-15T04:49:25.385000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Navy Wharf Ct. / Bremner Blvd.", 
+          "last_updated": 1502772282000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7054
+        }, 
+        "free_bikes": 1, 
+        "id": "019e5937c3fc120cee906770bca8fa69", 
+        "latitude": 43.640722, 
+        "longitude": -79.391051, 
+        "name": "Navy Wharf Ct. / Bremner Blvd.", 
+        "timestamp": "2017-08-15T04:49:25.389000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Scott St / The Esplanade", 
+          "last_updated": 1502772469000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7013
+        }, 
+        "free_bikes": 18, 
+        "id": "af0db7fbff09cea874d898ebbd80db0c", 
+        "latitude": 43.64656, 
+        "longitude": -79.375274, 
+        "name": "Scott St / The Esplanade", 
+        "timestamp": "2017-08-15T04:49:25.350000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Bremner / Spadina", 
+          "last_updated": 1502772412000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7073
+        }, 
+        "free_bikes": 15, 
+        "id": "d9424a6747bad93929eecd9ae2987eae", 
+        "latitude": 43.640903, 
+        "longitude": -79.392895, 
+        "name": "Bremner / Spadina", 
+        "timestamp": "2017-08-15T04:49:25.406000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "King St E / Jarvis St", 
+          "last_updated": 1502772443000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7009
+        }, 
+        "free_bikes": 10, 
+        "id": "c9624aaf955b7fb236dcf2c8443c8fe9", 
+        "latitude": 43.650325, 
+        "longitude": -79.372287, 
+        "name": "King St E / Jarvis St", 
+        "timestamp": "2017-08-15T04:49:25.346000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Salem/Bloor", 
+          "last_updated": 1502772441000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7156
+        }, 
+        "free_bikes": 5, 
+        "id": "57f2fc67a917b973ca7f31a994e0c63a", 
+        "latitude": 43.6608333, 
+        "longitude": -79.43166666666667, 
+        "name": "Salem/Bloor", 
+        "timestamp": "2017-08-15T04:49:25.481000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Danforth/Donlands", 
+          "last_updated": 1502772473000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7091
+        }, 
+        "free_bikes": 9, 
+        "id": "c5819ea9e964097a04f238491d0f7040", 
+        "latitude": 43.681329, 
+        "longitude": -79.337506, 
+        "name": "Danforth/Donlands", 
+        "timestamp": "2017-08-15T04:49:25.418000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Cherry/Distillery Ln", 
+          "last_updated": 1502772438000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7107
+        }, 
+        "free_bikes": 6, 
+        "id": "b3fca97a4a4308fefb648b6815e3907d", 
+        "latitude": 43.650279, 
+        "longitude": -79.356832, 
+        "name": "Cherry/Distillery Ln", 
+        "timestamp": "2017-08-15T04:49:25.433000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Cariboo St/ Rail Path", 
+          "last_updated": 1502772445000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7173
+        }, 
+        "free_bikes": 6, 
+        "id": "4077bf05c083f50d09a52487fd234193", 
+        "latitude": 43.66666667, 
+        "longitude": -79.45833333333334, 
+        "name": "Cariboo St/ Rail Path", 
+        "timestamp": "2017-08-15T04:49:25.276000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Dundas St W/Edna Ave", 
+          "last_updated": 1502772468000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7178
+        }, 
+        "free_bikes": 6, 
+        "id": "d1e503ad08402fee41c696fa45977876", 
+        "latitude": 43.6575, 
+        "longitude": -79.4525, 
+        "name": "Dundas St W/Edna Ave", 
+        "timestamp": "2017-08-15T04:49:25.281000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Liberty/Pirandello", 
+          "last_updated": 1502772436000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7177
+        }, 
+        "free_bikes": 19, 
+        "id": "f50bfb2678ad48759befac722195f271", 
+        "latitude": 43.6386111111111, 
+        "longitude": -79.4147222222222, 
+        "name": "Liberty/Pirandello", 
+        "timestamp": "2017-08-15T04:49:25.280000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "College/Markham", 
+          "last_updated": 1502772492000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7199
+        }, 
+        "free_bikes": 6, 
+        "id": "8362e07e9e4d9c67eb283cae15684c8e", 
+        "latitude": 43.6563888888889, 
+        "longitude": -79.4091666666667, 
+        "name": "College/Markham", 
+        "timestamp": "2017-08-15T04:49:25.297000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Dundas/Crawford", 
+          "last_updated": 1502772320000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7207
+        }, 
+        "free_bikes": 11, 
+        "id": "9d62413fcaba8ee2d11737b28e8651be", 
+        "latitude": 43.649722, 
+        "longitude": -79.416944, 
+        "name": "Dundas/Crawford", 
+        "timestamp": "2017-08-15T04:49:25.303000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Victoria/Dundas", 
+          "last_updated": 1502772391000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7164
+        }, 
+        "free_bikes": 7, 
+        "id": "9d522e51732f4eff6a2f6edd927fb259", 
+        "latitude": 43.657189, 
+        "longitude": -79.379953, 
+        "name": "Victoria/Dundas", 
+        "timestamp": "2017-08-15T04:49:25.487000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Davenport/Bedford", 
+          "last_updated": 1502772372000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7130
+        }, 
+        "free_bikes": 4, 
+        "id": "8777f2c7b9ba50710c7cd4eaaf042539", 
+        "latitude": 43.674613, 
+        "longitude": -79.399807, 
+        "name": "Davenport/Bedford", 
+        "timestamp": "2017-08-15T04:49:25.459000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Queens Quay / Lower Simcoe", 
+          "last_updated": 1502772334000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7043
+        }, 
+        "free_bikes": 14, 
+        "id": "624be8411d63932754479f0b710eaa97", 
+        "latitude": 43.63951, 
+        "longitude": -79.383717, 
+        "name": "Queens Quay / Lower Simcoe", 
+        "timestamp": "2017-08-15T04:49:25.379000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Ontario Place Blvd/Remembrance", 
+          "last_updated": 1502772350000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7171
+        }, 
+        "free_bikes": 15, 
+        "id": "b2898e4ebfeab3d3138efba34fc7da44", 
+        "latitude": 43.632999, 
+        "longitude": -79.408671, 
+        "name": "Ontario Place Blvd/Remembrance", 
+        "timestamp": "2017-08-15T04:49:25.274000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Lakeshore Blvd W / Windermere", 
+          "last_updated": 1502772340000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7225
+        }, 
+        "free_bikes": 11, 
+        "id": "e4481e45d22462b01aca9513d8f5674e", 
+        "latitude": 43.634896, 
+        "longitude": -79.467763, 
+        "name": "Lakeshore Blvd W / Windermere", 
+        "timestamp": "2017-08-15T04:49:25.313000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Spadina Ave / Sussex Ave", 
+          "last_updated": 1502772384000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7074
+        }, 
+        "free_bikes": 21, 
+        "id": "e64e377331dda98e16dd62d0b40eec53", 
+        "latitude": 43.664137, 
+        "longitude": -79.402496, 
+        "name": "Spadina Ave / Sussex Ave", 
+        "timestamp": "2017-08-15T04:49:25.407000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Bremner Blvd / Rees St", 
+          "last_updated": 1502772389000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7018
+        }, 
+        "free_bikes": 1, 
+        "id": "082fdb9cce172f916dde26cc3a543b69", 
+        "latitude": 43.641529, 
+        "longitude": -79.386741, 
+        "name": "Bremner Blvd / Rees St", 
+        "timestamp": "2017-08-15T04:49:25.355000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Yonge/Wood", 
+          "last_updated": 1502772289000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7163
+        }, 
+        "free_bikes": 11, 
+        "id": "ef0363fb67db85c62cfe83b7032ade5b", 
+        "latitude": 43.6622222, 
+        "longitude": -79.3825, 
+        "name": "Yonge/Wood", 
+        "timestamp": "2017-08-15T04:49:25.486000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Danforth/Aldridge", 
+          "last_updated": 1502772469000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7087
+        }, 
+        "free_bikes": 4, 
+        "id": "325ab4812e587a99d62b080554b77a13", 
+        "latitude": 43.684371, 
+        "longitude": -79.316756, 
+        "name": "Danforth/Aldridge", 
+        "timestamp": "2017-08-15T04:49:25.415000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Queen/Gladstone", 
+          "last_updated": 1502772514000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7193
+        }, 
+        "free_bikes": 15, 
+        "id": "990ad68fbc0ee51080e8e34b4f6aa917", 
+        "latitude": 43.6430555555556, 
+        "longitude": -79.4275, 
+        "name": "Queen/Gladstone", 
+        "timestamp": "2017-08-15T04:49:25.292000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "St. George/Hoskin", 
+          "last_updated": 1502772439000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7190
+        }, 
+        "free_bikes": 1, 
+        "id": "4739020dbe2b0e46abdf36beb1ca7701", 
+        "latitude": 43.664059, 
+        "longitude": -79.398334, 
+        "name": "St. George/Hoskin", 
+        "timestamp": "2017-08-15T04:49:25.289000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Carlton/Parliament", 
+          "last_updated": 1502772369000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7114
+        }, 
+        "free_bikes": 14, 
+        "id": "13e6abf323682b291aadb3371ce32cc7", 
+        "latitude": 43.664524, 
+        "longitude": -79.36793, 
+        "name": "Carlton/Parliament", 
+        "timestamp": "2017-08-15T04:49:25.446000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Lipton/Pape", 
+          "last_updated": 1502772273000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7092
+        }, 
+        "free_bikes": 7, 
+        "id": "18f8c64419b95e0c4692621928ce7dd6", 
+        "latitude": 43.680223, 
+        "longitude": -79.344062, 
+        "name": "Lipton/Pape", 
+        "timestamp": "2017-08-15T04:49:25.420000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Parliament/Aberdeen", 
+          "last_updated": 1502772337000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7113
+        }, 
+        "free_bikes": 8, 
+        "id": "d16798795a3beff0c7f297cee88deb70", 
+        "latitude": 43.665278, 
+        "longitude": -79.368333, 
+        "name": "Parliament/Aberdeen", 
+        "timestamp": "2017-08-15T04:49:25.445000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Front/Cherry Street", 
+          "last_updated": 1502772417000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7108
+        }, 
+        "free_bikes": 8, 
+        "id": "15e76731635f7e3ac4484228bc8f60ad", 
+        "latitude": 43.652686, 
+        "longitude": -79.358395, 
+        "name": "Front/Cherry", 
+        "timestamp": "2017-08-15T04:49:25.434000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Danforth/Barrington", 
+          "last_updated": 1502772311000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7083
+        }, 
+        "free_bikes": 13, 
+        "id": "7f29cbdced0d217c129cc9648f1becbe", 
+        "latitude": 43.688325, 
+        "longitude": -79.300463, 
+        "name": "Danforth/Barrington", 
+        "timestamp": "2017-08-15T04:49:25.412000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Church St/Wood", 
+          "last_updated": 1502772515000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7089
+        }, 
+        "free_bikes": 6, 
+        "id": "524590c5d3e31674dbdbda29cf6a13c6", 
+        "latitude": 43.662712, 
+        "longitude": -79.379903, 
+        "name": "Church St / Wood", 
+        "timestamp": "2017-08-15T04:49:25.417000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Niagara/Tecumseth", 
+          "last_updated": 1502772280000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7122
+        }, 
+        "free_bikes": 13, 
+        "id": "0ff8f31be644b9e2af6d38b89bf42c07", 
+        "latitude": 43.641389, 
+        "longitude": -79.404444, 
+        "name": "Niagara/Tecumseth", 
+        "timestamp": "2017-08-15T04:49:25.453000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Bay/Davenport", 
+          "last_updated": 1502772430000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7127
+        }, 
+        "free_bikes": 0, 
+        "id": "894071084d034b67f72103ba97b236fa", 
+        "latitude": 43.672829, 
+        "longitude": -79.390592, 
+        "name": "Bay/Davenport", 
+        "timestamp": "2017-08-15T04:49:25.456000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Queen St / Ossington Ave", 
+          "last_updated": 1502772404000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7035
+        }, 
+        "free_bikes": 23, 
+        "id": "d0a8478c786cb2480de4fcecda844781", 
+        "latitude": 43.643975, 
+        "longitude": -79.419576, 
+        "name": "Queen St / Ossington Ave", 
+        "timestamp": "2017-08-15T04:49:25.371000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Hanna/Liberty", 
+          "last_updated": 1502772435000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7135
+        }, 
+        "free_bikes": 15, 
+        "id": "8fe335c82cf0e5fca57bdfdaa47da8ca", 
+        "latitude": 43.638333, 
+        "longitude": -79.419722, 
+        "name": "Hanna/Liberty", 
+        "timestamp": "2017-08-15T04:49:25.464000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Sterling/Dundas", 
+          "last_updated": 1502772288000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7182
+        }, 
+        "free_bikes": 4, 
+        "id": "fc5b892aa82601e2374e8c1772dde569", 
+        "latitude": 43.6508333333333, 
+        "longitude": -79.4430555555556, 
+        "name": "Sterling/Dundas", 
+        "timestamp": "2017-08-15T04:49:25.284000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Bathurst / Queens Quay", 
+          "last_updated": 1502772364000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7203
+        }, 
+        "free_bikes": 22, 
+        "id": "439717c6d9ae25318ad58201c8d197df", 
+        "latitude": 43.634982, 
+        "longitude": -79.397574, 
+        "name": "Bathurst / Queens Quay", 
+        "timestamp": "2017-08-15T04:49:25.299000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Queens Quay/Yonge", 
+          "last_updated": 1502772468000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7168
+        }, 
+        "free_bikes": 9, 
+        "id": "3bfbe7d9edced07da6dd283495fb8170", 
+        "latitude": 43.641646, 
+        "longitude": -79.375308, 
+        "name": "Queens Quay/Yonge", 
+        "timestamp": "2017-08-15T04:49:25.269000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Wellesley St E. / Yonge St", 
+          "last_updated": 1502772308000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7051
+        }, 
+        "free_bikes": 8, 
+        "id": "44ccbd64d4a3215b3b39a4156916e80a", 
+        "latitude": 43.66506, 
+        "longitude": -79.38357, 
+        "name": "Wellesley St E. / Yonge St", 
+        "timestamp": "2017-08-15T04:49:25.386000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Queen St W / Spadina Ave", 
+          "last_updated": 1502772468000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7069
+        }, 
+        "free_bikes": 2, 
+        "id": "17b0d8ca1c69eca14d3173c15fa144e4", 
+        "latitude": 43.649147, 
+        "longitude": -79.395504, 
+        "name": "Queen St W / Spadina Ave", 
+        "timestamp": "2017-08-15T04:49:25.402000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Bloor St W / Balmuto St", 
+          "last_updated": 1502772312000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7276
+        }, 
+        "free_bikes": 0, 
+        "id": "9aa46dbe18122201a50183e5602a7c9e", 
+        "latitude": 43.669903, 
+        "longitude": -79.387802, 
+        "name": "Bloor St W / Balmuto St", 
+        "timestamp": "2017-08-15T04:49:25.334000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Lower Spadina / Lake Shore Blvd W", 
+          "last_updated": 1502772542000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7259
+        }, 
+        "free_bikes": 18, 
+        "id": "d1de2ddc0ea8a90d00ff717ad60a2f23", 
+        "latitude": 43.638497, 
+        "longitude": -79.39192, 
+        "name": "Lower Spadina / Lake Shore Blvd", 
+        "timestamp": "2017-08-15T04:49:25.330000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Humber Bay Shores Park 2", 
+          "last_updated": 1502772497000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7288
+        }, 
+        "free_bikes": 18, 
+        "id": "902dfa8c9fbc1fd91773d19d7874a8dc", 
+        "latitude": 43.626705, 
+        "longitude": -79.476571, 
+        "name": "Humber Bay Shores Park 2", 
+        "timestamp": "2017-08-15T04:49:25.336000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Humber Bay Shores Park", 
+          "last_updated": 1502772539000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7289
+        }, 
+        "free_bikes": 6, 
+        "id": "457eec0e720633b8643bc14bf516099f", 
+        "latitude": 43.629742, 
+        "longitude": -79.474627, 
+        "name": "Humber Bay Shores Park", 
+        "timestamp": "2017-08-15T04:49:25.337000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Eaton's Centre", 
+          "last_updated": 1502772357000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7269
+        }, 
+        "free_bikes": 5, 
+        "id": "32f618847043b8011f80333b5e7ea8b3", 
+        "latitude": 43.655431, 
+        "longitude": -79.380653, 
+        "name": "Eaton's Centre", 
+        "timestamp": "2017-08-15T04:49:25.332000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Dufferin St / Rail", 
+          "last_updated": 1502772460000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7244
+        }, 
+        "free_bikes": 0, 
+        "id": "7c2e84da807d1f0ac00de27888a78f39", 
+        "latitude": 43.6323878, 
+        "longitude": -79.4254098, 
+        "name": "Dufferin St / Rail", 
+        "timestamp": "2017-08-15T04:49:25.325000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Queen St W/Fuller Ave", 
+          "last_updated": 1502772540000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7232
+        }, 
+        "free_bikes": 4, 
+        "id": "4bcb0936d26508e2edb8f31f03ed4070", 
+        "latitude": 43.6404398, 
+        "longitude": -79.4392729, 
+        "name": "Queen St W / Fuller Ave", 
+        "timestamp": "2017-08-15T04:49:25.320000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Parkside / Bloor", 
+          "last_updated": 1502772364000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7223
+        }, 
+        "free_bikes": 8, 
+        "id": "ff5dc526c83b21a63e5853475b61d4a1", 
+        "latitude": 43.6546, 
+        "longitude": -79.4599, 
+        "name": "Parkside / Bloor", 
+        "timestamp": "2017-08-15T04:49:25.311000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Queens Quay W / Dan Leckie Way", 
+          "last_updated": 1502772469000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7075
+        }, 
+        "free_bikes": 26, 
+        "id": "0fa15700b0d780b8f810ced06a01760d", 
+        "latitude": 43.636533, 
+        "longitude": -79.395854, 
+        "name": "Queens Quay W / Dan Leckie Way", 
+        "timestamp": "2017-08-15T04:49:25.408000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "College St / Major St", 
+          "last_updated": 1502772283000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7078
+        }, 
+        "free_bikes": 0, 
+        "id": "6aa469025f8c5ff029052fab35bca1f4", 
+        "latitude": 43.6576, 
+        "longitude": -79.4032, 
+        "name": "College St / Major St", 
+        "timestamp": "2017-08-15T04:49:25.410000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Ft. York / Capreol Crt.", 
+          "last_updated": 1502772347000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7000
+        }, 
+        "free_bikes": 30, 
+        "id": "e2911ec2b832c350dad0a8831a30d273", 
+        "latitude": 43.639832, 
+        "longitude": -79.395954, 
+        "name": "Ft. York / Capreol Crt.", 
+        "timestamp": "2017-08-15T04:49:25.337000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "University Ave / King St W", 
+          "last_updated": 1502772422000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7005
+        }, 
+        "free_bikes": 1, 
+        "id": "a0f445d2151803b359513b6242f6ca34", 
+        "latitude": 43.648093, 
+        "longitude": -79.384749, 
+        "name": "University Ave / King St W", 
+        "timestamp": "2017-08-15T04:49:25.342000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Parliament St / Gerrard St", 
+          "last_updated": 1502772499000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7056
+        }, 
+        "free_bikes": 18, 
+        "id": "f50e6d304d964ced78bff8ccb97a84f7", 
+        "latitude": 43.661149, 
+        "longitude": -79.366648, 
+        "name": "Parliament St / Gerrard St", 
+        "timestamp": "2017-08-15T04:49:25.391000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Huron/ Harbord St", 
+          "last_updated": 1502772405000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7058
+        }, 
+        "free_bikes": 2, 
+        "id": "8facbe8d87dc7f1fd7ea00321ba78b50", 
+        "latitude": 43.6637, 
+        "longitude": -79.400053, 
+        "name": "Huron/ Harbord St", 
+        "timestamp": "2017-08-15T04:49:25.392000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "University Ave / College St", 
+          "last_updated": 1502772471000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7062
+        }, 
+        "free_bikes": 0, 
+        "id": "76ff77a0c8d2de7ff02ab1ce2b719e22", 
+        "latitude": 43.659226, 
+        "longitude": -79.390213, 
+        "name": "University Ave / College St", 
+        "timestamp": "2017-08-15T04:49:25.396000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Dundas St / Parliament St", 
+          "last_updated": 1502772452000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7065
+        }, 
+        "free_bikes": 14, 
+        "id": "b894ec8d0d8ab0f3a9bf708ee4c90d14", 
+        "latitude": 43.659575, 
+        "longitude": -79.365769, 
+        "name": "Dundas St / Parliament St", 
+        "timestamp": "2017-08-15T04:49:25.398000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Willcocks St / St. George St", 
+          "last_updated": 1502772496000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7066
+        }, 
+        "free_bikes": 0, 
+        "id": "6f7f8d48624fb0f04a09a85fdf8c8fba", 
+        "latitude": 43.662237, 
+        "longitude": -79.397716, 
+        "name": "Willcocks St / St. George St", 
+        "timestamp": "2017-08-15T04:49:25.399000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Yonge St. / Harbour St.", 
+          "last_updated": 1502772496000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7067
+        }, 
+        "free_bikes": 25, 
+        "id": "6e85452c2c8acbdaa8f298911d9996ec", 
+        "latitude": 43.643795, 
+        "longitude": -79.375413, 
+        "name": "Yonge St. / Harbour St.", 
+        "timestamp": "2017-08-15T04:49:25.400000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "Dockside Dr / Queens Quay E.", 
+          "last_updated": 1502772500000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7068
+        }, 
+        "free_bikes": 1, 
+        "id": "26a36a21c1569a9425f2135f364adf8f", 
+        "latitude": 43.644272, 
+        "longitude": -79.367766, 
+        "name": "Dockside Dr / Queens Quay E.", 
+        "timestamp": "2017-08-15T04:49:25.401000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "25 York St (ACC/Union Station South)", 
+          "last_updated": 1502772372000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7070
+        }, 
+        "free_bikes": 11, 
+        "id": "ce6e330ba7f61e0453dc1567eaa02745", 
+        "latitude": 43.643667, 
+        "longitude": -79.380414, 
+        "name": "25 York St (ACC/Union Station South)", 
+        "timestamp": "2017-08-15T04:49:25.403000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Ted Rogers Way", 
+          "last_updated": 1502772492000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7025
+        }, 
+        "free_bikes": 8, 
+        "id": "501cea9e754b07ac8713b850ea9b13f2", 
+        "latitude": 43.671293, 
+        "longitude": -79.380471, 
+        "name": "Ted Rogers Way", 
+        "timestamp": "2017-08-15T04:49:25.362000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Queens Park / Bloor St W", 
+          "last_updated": 1502772504000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7063
+        }, 
+        "free_bikes": 0, 
+        "id": "c138ce13a8fab6a27dec1cb5116b31cb", 
+        "latitude": 43.668327, 
+        "longitude": -79.39355, 
+        "name": "Queens Park / Bloor St W", 
+        "timestamp": "2017-08-15T04:49:25.397000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "51 Parliament St", 
+          "last_updated": 1502772321000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7064
+        }, 
+        "free_bikes": 1, 
+        "id": "771cba7a53aa4e47d29c790c9190ef40", 
+        "latitude": 43.65205, 
+        "longitude": -79.362198, 
+        "name": "51 Parliament St", 
+        "timestamp": "2017-08-15T04:49:25.398000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Union Station", 
+          "last_updated": 1502772457000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7033
+        }, 
+        "free_bikes": 23, 
+        "id": "23601c4c2d683c334119607f52249139", 
+        "latitude": 43.645566, 
+        "longitude": -79.379438, 
+        "name": "Union Station", 
+        "timestamp": "2017-08-15T04:49:25.369000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Wellington St / Portland St", 
+          "last_updated": 1502772331000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7011
+        }, 
+        "free_bikes": 8, 
+        "id": "2dca055c68993440d6388bd6e2ba5a66", 
+        "latitude": 43.642982, 
+        "longitude": -79.399256, 
+        "name": "Wellington St / Portland St", 
+        "timestamp": "2017-08-15T04:49:25.348000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "York St / Queens Quay W", 
+          "last_updated": 1502772277000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7076
+        }, 
+        "free_bikes": 23, 
+        "id": "38d3408bfdf5a321a15ae61358af4aac", 
+        "latitude": 43.640132, 
+        "longitude": -79.380464, 
+        "name": "York St / Queens Quay W", 
+        "timestamp": "2017-08-15T04:49:25.408000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Lower Jarvis St / The Esplanade", 
+          "last_updated": 1502772512000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7001
+        }, 
+        "free_bikes": 11, 
+        "id": "df4b6b3f0dda3c8a8bb1d17c0474d72c", 
+        "latitude": 43.647992, 
+        "longitude": -79.370907, 
+        "name": "Lower Jarvis St / The Esplanade", 
+        "timestamp": "2017-08-15T04:49:25.338000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "address": "Bay St / Albert St", 
+          "last_updated": 1502772498000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7021
+        }, 
+        "free_bikes": 1, 
+        "id": "0f4f8c9f5e6417a981fe793e43984158", 
+        "latitude": 43.653264, 
+        "longitude": -79.382458, 
+        "name": "Bay St / Albert St", 
+        "timestamp": "2017-08-15T04:49:25.358000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Temperance St / Yonge St", 
+          "last_updated": 1502772279000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7019
+        }, 
+        "free_bikes": 0, 
+        "id": "fdffd463fa8f3f64e97f6f35b82e42f8", 
+        "latitude": 43.650855, 
+        "longitude": -79.379492, 
+        "name": "Temperance St / Yonge St", 
+        "timestamp": "2017-08-15T04:49:25.356000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Queen St W / Shaw St", 
+          "last_updated": 1502772509000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7072
+        }, 
+        "free_bikes": 17, 
+        "id": "3c5ac1f8270b935b7af63f0a8d3b4ba4", 
+        "latitude": 43.644524, 
+        "longitude": -79.416519, 
+        "name": "Queen St W / Shaw St", 
+        "timestamp": "2017-08-15T04:49:25.405000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "College Park South", 
+          "last_updated": 1502772394000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7077
+        }, 
+        "free_bikes": 3, 
+        "id": "c3033415413ac24bf33672aa79838018", 
+        "latitude": 43.659777, 
+        "longitude": -79.382767, 
+        "name": "College Park South", 
+        "timestamp": "2017-08-15T04:49:25.409000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "address": "Simcoe St / Wellington St W", 
+          "last_updated": 1502772424000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7057
+        }, 
+        "free_bikes": 0, 
+        "id": "a93d6ff9c8a9cc499e57bb50582deb85", 
+        "latitude": 43.645533, 
+        "longitude": -79.3854, 
+        "name": "Simcoe St / Wellington St W", 
+        "timestamp": "2017-08-15T04:49:25.392000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Jarvis St / Carlton St", 
+          "last_updated": 1502772543000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7055
+        }, 
+        "free_bikes": 6, 
+        "id": "3754aff9599513c7ba4e4649ea3818dd", 
+        "latitude": 43.66207, 
+        "longitude": -79.37617, 
+        "name": "Jarvis St / Carlton St", 
+        "timestamp": "2017-08-15T04:49:25.390000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Front St W / Blue Jays Way", 
+          "last_updated": 1502772397000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7059
+        }, 
+        "free_bikes": 6, 
+        "id": "c955acbcda8513471837f2aa55a98fb1", 
+        "latitude": 43.643473, 
+        "longitude": -79.390477, 
+        "name": "Front St W / Blue Jays Way", 
+        "timestamp": "2017-08-15T04:49:25.393000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Princess Ave / Adelaide St", 
+          "last_updated": 1502772399000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7060
+        }, 
+        "free_bikes": 15, 
+        "id": "86e6bac42ea867c8b1a47781afc5a10f", 
+        "latitude": 43.652123, 
+        "longitude": -79.367139, 
+        "name": "Princess Ave / Adelaide St", 
+        "timestamp": "2017-08-15T04:49:25.394000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "King St W / Spadina Ave", 
+          "last_updated": 1502772540000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7010
+        }, 
+        "free_bikes": 3, 
+        "id": "90d36d6e81fff926a434e196e0a43d53", 
+        "latitude": 43.645323, 
+        "longitude": -79.395003, 
+        "name": "King St W / Spadina Ave", 
+        "timestamp": "2017-08-15T04:49:25.347000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Wellesley/Queen's Park", 
+          "last_updated": 1502772400000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7008
+        }, 
+        "free_bikes": 1, 
+        "id": "03cb067499bb9bc86cf0c884edb403bc", 
+        "latitude": 43.663376, 
+        "longitude": -79.392125, 
+        "name": "Wellesley/Queen's Park", 
+        "timestamp": "2017-08-15T04:49:25.345000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Euclid Ave / Bloor St.", 
+          "last_updated": 1502772302000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7040
+        }, 
+        "free_bikes": 0, 
+        "id": "1139a13dd0b2cdd0a9b088caf27ee994", 
+        "latitude": 43.6643, 
+        "longitude": -79.415, 
+        "name": "Euclid Ave / Bloor St.", 
+        "timestamp": "2017-08-15T04:49:25.376000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Yarmouth/Christie", 
+          "last_updated": 1502772323000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7149
+        }, 
+        "free_bikes": 4, 
+        "id": "0abdfc3177000757dcd71bd4c8b479ee", 
+        "latitude": 43.67, 
+        "longitude": -79.42083333333333, 
+        "name": "Yarmouth/Christie", 
+        "timestamp": "2017-08-15T04:49:25.475000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Dufferin Grove Park", 
+          "last_updated": 1502772276000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7150
+        }, 
+        "free_bikes": 16, 
+        "id": "dad51db43939490092b81d8cea72e018", 
+        "latitude": 43.6555556, 
+        "longitude": -79.43361111111112, 
+        "name": "Dufferin Grove Park", 
+        "timestamp": "2017-08-15T04:49:25.475000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Bloor/Ossington", 
+          "last_updated": 1502772480000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7152
+        }, 
+        "free_bikes": 8, 
+        "id": "86162721e79d58286d419bef84c1f5cd", 
+        "latitude": 43.6619444, 
+        "longitude": -79.42555555555556, 
+        "name": "Bloor/Ossington", 
+        "timestamp": "2017-08-15T04:49:25.478000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Bathurst Subway Station", 
+          "last_updated": 1502772284000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7154
+        }, 
+        "free_bikes": 6, 
+        "id": "8db545a0135f7b92022fbdbbc75af6c4", 
+        "latitude": 43.6666667, 
+        "longitude": -79.41166666666668, 
+        "name": "Bathurst Subway Station", 
+        "timestamp": "2017-08-15T04:49:25.480000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Benson/Christie \"Wychwood Barns\"", 
+          "last_updated": 1502772518000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7146
+        }, 
+        "free_bikes": 14, 
+        "id": "8536b57314846d3b42645c0023e6e60d", 
+        "latitude": 43.68, 
+        "longitude": -79.42500000000001, 
+        "name": "Benson/Christie \"Wychwood Barns\"", 
+        "timestamp": "2017-08-15T04:49:25.472000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Bloor/Christie", 
+          "last_updated": 1502772334000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7153
+        }, 
+        "free_bikes": 7, 
+        "id": "78ac4436b3398ac55b47569863af6c41", 
+        "latitude": 43.6638889, 
+        "longitude": -79.41888888888889, 
+        "name": "Bloor/Christie", 
+        "timestamp": "2017-08-15T04:49:25.479000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Essex/Christie", 
+          "last_updated": 1502772543000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7151
+        }, 
+        "free_bikes": 3, 
+        "id": "cf1adac21d23e26855ea06278b5cd149", 
+        "latitude": 43.6686111, 
+        "longitude": -79.42027777777778, 
+        "name": "Essex/Christie", 
+        "timestamp": "2017-08-15T04:49:25.477000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "King St / Mowat", 
+          "last_updated": 1502772415000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7147
+        }, 
+        "free_bikes": 12, 
+        "id": "8db5b143b08ea1fed85f0702fcfe01ec", 
+        "latitude": 43.6394444, 
+        "longitude": -79.42527777777778, 
+        "name": "King St / Mowat", 
+        "timestamp": "2017-08-15T04:49:25.473000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Glen Edyth/Davenport", 
+          "last_updated": 1502772301000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7139
+        }, 
+        "free_bikes": 5, 
+        "id": "14d5d7e0f5a8e23c9b50f62ea39f725c", 
+        "latitude": 43.677778, 
+        "longitude": -79.405556, 
+        "name": "Glen Edyth/Davenport", 
+        "timestamp": "2017-08-15T04:49:25.467000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Bathurst/Lennox", 
+          "last_updated": 1502772441000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7155
+        }, 
+        "free_bikes": 3, 
+        "id": "f66ba7f3381e7c0a12d05bc2ffa2f532", 
+        "latitude": 43.6638889, 
+        "longitude": -79.41055555555556, 
+        "name": "Bathurst/Lennox", 
+        "timestamp": "2017-08-15T04:49:25.480000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "King/Strachan", 
+          "last_updated": 1502772471000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7158
+        }, 
+        "free_bikes": 9, 
+        "id": "667cd54aa27ec06620753f3d19a78b3d", 
+        "latitude": 43.6422222, 
+        "longitude": -79.41111111111111, 
+        "name": "King/Strachan", 
+        "timestamp": "2017-08-15T04:49:25.483000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "King/Tecumseth", 
+          "last_updated": 1502772358000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7160
+        }, 
+        "free_bikes": 15, 
+        "id": "9fcbcd2e313ddf16bc7200bede80e9a6", 
+        "latitude": 43.64333333333333, 
+        "longitude": -79.40555555555557, 
+        "name": "King/Tecumseth", 
+        "timestamp": "2017-08-15T04:49:25.484000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Bloor/Dufferin", 
+          "last_updated": 1502772484000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7157
+        }, 
+        "free_bikes": 0, 
+        "id": "8ef3bc5ab6805d2c5411023f4318d778", 
+        "latitude": 43.66083333333333, 
+        "longitude": -79.43583333333333, 
+        "name": "Bloor/Dufferin", 
+        "timestamp": "2017-08-15T04:49:25.482000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Queen/Sackville", 
+          "last_updated": 1502772395000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7105
+        }, 
+        "free_bikes": 15, 
+        "id": "ed77bb45e5a6964a4b94c780d5c21584", 
+        "latitude": 43.6561111, 
+        "longitude": -79.36138888888888, 
+        "name": "Queen/Sackville", 
+        "timestamp": "2017-08-15T04:49:25.431000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Moss Park", 
+          "last_updated": 1502772515000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7167
+        }, 
+        "free_bikes": 9, 
+        "id": "07bbc8b9823872f091b8fd9d74be42ba", 
+        "latitude": 43.6544444, 
+        "longitude": -79.3711111111111, 
+        "name": "Moss Park", 
+        "timestamp": "2017-08-15T04:49:25.488000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Spadina/Willcocks", 
+          "last_updated": 1502772541000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7170
+        }, 
+        "free_bikes": 10, 
+        "id": "359ce82fbe9d1e9e9962321e62f6066f", 
+        "latitude": 43.6616667, 
+        "longitude": -79.40138888888889, 
+        "name": "Spadina / Willcocks", 
+        "timestamp": "2017-08-15T04:49:25.273000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Strachan and Princes'Blvd", 
+          "last_updated": 1502772396000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7172
+        }, 
+        "free_bikes": 11, 
+        "id": "9eb5acc897b27515ad12ee8fade63062", 
+        "latitude": 43.635, 
+        "longitude": -79.4088888888889, 
+        "name": "Strachan and Princes' Blvd", 
+        "timestamp": "2017-08-15T04:49:25.275000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Bridgeman/Kendal", 
+          "last_updated": 1502772531000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7141
+        }, 
+        "free_bikes": 2, 
+        "id": "c497911a9c04bebbbc32e5211c081f85", 
+        "latitude": 43.675556, 
+        "longitude": -79.410278, 
+        "name": "Bridgeman/Kendal", 
+        "timestamp": "2017-08-15T04:49:25.469000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Bridgeman/Bathurst", 
+          "last_updated": 1502772279000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7142
+        }, 
+        "free_bikes": 4, 
+        "id": "2e19220f1e64559e88f3c48b3ebf2916", 
+        "latitude": 43.674444, 
+        "longitude": -79.414722, 
+        "name": "Bridgeman/Bathurst", 
+        "timestamp": "2017-08-15T04:49:25.469000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Palmerston/Vermont", 
+          "last_updated": 1502772525000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7144
+        }, 
+        "free_bikes": 4, 
+        "id": "37c32c09c594b83701b3b8f6e32db605", 
+        "latitude": 43.671389, 
+        "longitude": -79.416389, 
+        "name": "Palmerston/Vermont", 
+        "timestamp": "2017-08-15T04:49:25.471000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Chester/Danforth", 
+          "last_updated": 1502772372000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7094
+        }, 
+        "free_bikes": 4, 
+        "id": "5de16574fcbfcae1e12476a887c194f1", 
+        "latitude": 43.678056, 
+        "longitude": -79.352222, 
+        "name": "Chester/Danforth", 
+        "timestamp": "2017-08-15T04:49:25.421000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Marlborough/Yonge", 
+          "last_updated": 1502772432000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7134
+        }, 
+        "free_bikes": 3, 
+        "id": "0937b83aa7afe9081ce3f35615a2a153", 
+        "latitude": 43.68, 
+        "longitude": -79.391111, 
+        "name": "Marlborough/Yonge", 
+        "timestamp": "2017-08-15T04:49:25.463000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Davenport/Bathurst", 
+          "last_updated": 1502772453000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7137
+        }, 
+        "free_bikes": 0, 
+        "id": "45be3a2b4a327ff6abac542ddc406738", 
+        "latitude": 43.676667, 
+        "longitude": -79.416111, 
+        "name": "Davenport/Bathurst", 
+        "timestamp": "2017-08-15T04:49:25.465000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Davenport/Christie", 
+          "last_updated": 1502772382000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7138
+        }, 
+        "free_bikes": 9, 
+        "id": "a249bee44425dc2b5c2f384a00a59f33", 
+        "latitude": 43.675278, 
+        "longitude": -79.423889, 
+        "name": "Davenport/Christie", 
+        "timestamp": "2017-08-15T04:49:25.466000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "King / Jefferson", 
+          "last_updated": 1502772291000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7148
+        }, 
+        "free_bikes": 15, 
+        "id": "dc268bf6d12c7311db0b5b61b3304b03", 
+        "latitude": 43.639444, 
+        "longitude": -79.423611, 
+        "name": "King / Jefferson", 
+        "timestamp": "2017-08-15T04:49:25.474000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Yonge/Aylmer", 
+          "last_updated": 1502772301000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7128
+        }, 
+        "free_bikes": 3, 
+        "id": "7ffd06e0207f80fe1ff6b5ae0bb0544c", 
+        "latitude": 43.675492, 
+        "longitude": -79.388858, 
+        "name": "Yonge/Aylmer", 
+        "timestamp": "2017-08-15T04:49:25.457000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Jimmie Simpson Park", 
+          "last_updated": 1502772490000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7103
+        }, 
+        "free_bikes": 11, 
+        "id": "40d3ff20861f9df75888344eb99fa939", 
+        "latitude": 43.660176, 
+        "longitude": -79.344946, 
+        "name": "Jimmie Simpson Park", 
+        "timestamp": "2017-08-15T04:49:25.429000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Gerrard/River", 
+          "last_updated": 1502772364000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7120
+        }, 
+        "free_bikes": 9, 
+        "id": "c95712a6fe0babf73cb9da2c05889749", 
+        "latitude": 43.663993, 
+        "longitude": -79.358534, 
+        "name": "Gerrard/River", 
+        "timestamp": "2017-08-15T04:49:25.451000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Dundas/Broadview", 
+          "last_updated": 1502772535000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7124
+        }, 
+        "free_bikes": 19, 
+        "id": "438406694750984faa317bc6b1f3f909", 
+        "latitude": 43.662365, 
+        "longitude": -79.351104, 
+        "name": "Dundas/Broadview", 
+        "timestamp": "2017-08-15T04:49:25.454000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Danforth/Coxwell", 
+          "last_updated": 1502772526000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7088
+        }, 
+        "free_bikes": 5, 
+        "id": "fe97ae335b31b6c455f340f397904d38", 
+        "latitude": 43.683378, 
+        "longitude": -79.322961, 
+        "name": "Danforth/Coxwell", 
+        "timestamp": "2017-08-15T04:49:25.416000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Danforth/Westlake", 
+          "last_updated": 1502772394000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7085
+        }, 
+        "free_bikes": 14, 
+        "id": "4f15e1129e5fc751c0d4e5a1737d6b4f", 
+        "latitude": 43.687393, 
+        "longitude": -79.303888, 
+        "name": "Danforth/Westlake", 
+        "timestamp": "2017-08-15T04:49:25.413000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Danforth/Ellerbeck", 
+          "last_updated": 1502772541000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7095
+        }, 
+        "free_bikes": 4, 
+        "id": "3b2853992a1700739c8fa569801e1c48", 
+        "latitude": 43.677076, 
+        "longitude": -79.35667, 
+        "name": "Danforth/Ellerbeck", 
+        "timestamp": "2017-08-15T04:49:25.422000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Montcrest/Broadview", 
+          "last_updated": 1502772313000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7097
+        }, 
+        "free_bikes": 0, 
+        "id": "c6f56ec0831b791abbce0992adba6318", 
+        "latitude": 43.671172, 
+        "longitude": -79.354704, 
+        "name": "Montcrest/Broadview", 
+        "timestamp": "2017-08-15T04:49:25.424000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Cherry/Mill", 
+          "last_updated": 1502772359000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7099
+        }, 
+        "free_bikes": 13, 
+        "id": "cb3d2218ebf5e5a82a32eae218b2aff6", 
+        "latitude": 43.651248, 
+        "longitude": -79.357848, 
+        "name": "Cherry/Mill", 
+        "timestamp": "2017-08-15T04:49:25.426000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Langley/Broadview", 
+          "last_updated": 1502772533000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7098
+        }, 
+        "free_bikes": 13, 
+        "id": "8fa4c8b1ddf121e11c9745205bc18c01", 
+        "latitude": 43.667819, 
+        "longitude": -79.35347, 
+        "name": "Langley/Broadview", 
+        "timestamp": "2017-08-15T04:49:25.425000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "King/River", 
+          "last_updated": 1502772495000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7104
+        }, 
+        "free_bikes": 11, 
+        "id": "a91faae5bd4ff1116c22e4610f87ebd4", 
+        "latitude": 43.657071, 
+        "longitude": -79.356598, 
+        "name": "King/River", 
+        "timestamp": "2017-08-15T04:49:25.430000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Cedarvale/Danforth", 
+          "last_updated": 1502772314000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7086
+        }, 
+        "free_bikes": 9, 
+        "id": "529844d4374640d1a589f7bdcf2617fb", 
+        "latitude": 43.686829, 
+        "longitude": -79.311073, 
+        "name": "Cedarvale/Danforth", 
+        "timestamp": "2017-08-15T04:49:25.414000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Danforth/Lamb", 
+          "last_updated": 1502772382000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7090
+        }, 
+        "free_bikes": 4, 
+        "id": "79b67fbfd130d41c9162e805a9e755be", 
+        "latitude": 43.681991, 
+        "longitude": -79.329455, 
+        "name": "Danforth/Lamb", 
+        "timestamp": "2017-08-15T04:49:25.418000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Bloor/Dundas St W", 
+          "last_updated": 1502772320000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7174
+        }, 
+        "free_bikes": 12, 
+        "id": "d3e1a4057d9bf7c31c216017a0f1989b", 
+        "latitude": 43.6563889, 
+        "longitude": -79.45166666666667, 
+        "name": "Bloor/Dundas St W", 
+        "timestamp": "2017-08-15T04:49:25.277000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Bloor GO/UP Station", 
+          "last_updated": 1502772546000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7179
+        }, 
+        "free_bikes": 15, 
+        "id": "c8ae56050512227f6eadc8ee55545fc1", 
+        "latitude": 43.6575, 
+        "longitude": -79.4502777777778, 
+        "name": "Bloor GO/UP Station", 
+        "timestamp": "2017-08-15T04:49:25.282000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Lansdowne/Wade", 
+          "last_updated": 1502772451000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7180
+        }, 
+        "free_bikes": 21, 
+        "id": "3dd4db318bd91a3f78c5df5c97cdde69", 
+        "latitude": 43.6591666666667, 
+        "longitude": -79.4427777777778, 
+        "name": "Lansdowne/Wade", 
+        "timestamp": "2017-08-15T04:49:25.283000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Queen/Close", 
+          "last_updated": 1502772534000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7136
+        }, 
+        "free_bikes": 16, 
+        "id": "ad436e2a229c14d4611cbcacd7cf026f", 
+        "latitude": 43.640634, 
+        "longitude": -79.435841, 
+        "name": "Queen/Close", 
+        "timestamp": "2017-08-15T04:49:25.464000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Lansdowne/Whytock", 
+          "last_updated": 1502772373000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7181
+        }, 
+        "free_bikes": 9, 
+        "id": "e38ee1ccd4c3964a5c0d308d29403b88", 
+        "latitude": 43.6538888888889, 
+        "longitude": -79.4413888888889, 
+        "name": "Lansdowne/Whytock", 
+        "timestamp": "2017-08-15T04:49:25.284000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Kendal/Spadina", 
+          "last_updated": 1502772332000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7132
+        }, 
+        "free_bikes": 8, 
+        "id": "6081213d53ed7c89ff21da6fd600fe04", 
+        "latitude": 43.670303, 
+        "longitude": -79.405416, 
+        "name": "Kendal/Spadina", 
+        "timestamp": "2017-08-15T04:49:25.461000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Margueretta/College", 
+          "last_updated": 1502772496000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7183
+        }, 
+        "free_bikes": 7, 
+        "id": "784690f482252de77e322263cf96a5a9", 
+        "latitude": 43.6513888888889, 
+        "longitude": -79.4377777777778, 
+        "name": "Margueretta/College", 
+        "timestamp": "2017-08-15T04:49:25.285000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Kendal/Bernard", 
+          "last_updated": 1502772446000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7143
+        }, 
+        "free_bikes": 3, 
+        "id": "afa3ff2218a5d1817934c7c7c7bb5d19", 
+        "latitude": 43.671513, 
+        "longitude": -79.408317, 
+        "name": "Kendal/Bernard", 
+        "timestamp": "2017-08-15T04:49:25.470000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Augusta Ave / Dundas St W", 
+          "last_updated": 1502772331000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7032
+        }, 
+        "free_bikes": 6, 
+        "id": "d81d4d6231b9da01ba7f3d6e50728ca8", 
+        "latitude": 43.652473, 
+        "longitude": -79.401456, 
+        "name": "Augusta Ave / Dundas St W", 
+        "timestamp": "2017-08-15T04:49:25.368000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Atlantic/Liberty", 
+          "last_updated": 1502772442000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7188
+        }, 
+        "free_bikes": 13, 
+        "id": "c6ac837bff4150c1a472d65dea88544f", 
+        "latitude": 43.6366666666667, 
+        "longitude": -79.4197222222222, 
+        "name": "Atlantic/Liberty", 
+        "timestamp": "2017-08-15T04:49:25.287000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Ulster/Bathurst", 
+          "last_updated": 1502772372000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7195
+        }, 
+        "free_bikes": 7, 
+        "id": "b4e20439535ceebae999cba2f02789eb", 
+        "latitude": 43.66, 
+        "longitude": -79.4088888888889, 
+        "name": "Ulster/Bathurst", 
+        "timestamp": "2017-08-15T04:49:25.294000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Roxton/Harbord", 
+          "last_updated": 1502772457000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7196
+        }, 
+        "free_bikes": 7, 
+        "id": "578deaa6bad3c7a68b2048351c6c1a6e", 
+        "latitude": 43.6588888888889, 
+        "longitude": -79.4233333333333, 
+        "name": "Roxton/Harbord", 
+        "timestamp": "2017-08-15T04:49:25.295000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "City Hall", 
+          "last_updated": 1502772328000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7202
+        }, 
+        "free_bikes": 4, 
+        "id": "64a35ea52141752803c1d45d8e465076", 
+        "latitude": 43.651667, 
+        "longitude": -79.384167, 
+        "name": "City Hall", 
+        "timestamp": "2017-08-15T04:49:25.298000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Jarvis/Dundas", 
+          "last_updated": 1502772371000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7121
+        }, 
+        "free_bikes": 6, 
+        "id": "2aedc79960408d746f43fb1d91bf7030", 
+        "latitude": 43.657266, 
+        "longitude": -79.374756, 
+        "name": "Jarvis/Dundas", 
+        "timestamp": "2017-08-15T04:49:25.452000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Claremont/Dundas", 
+          "last_updated": 1502772532000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7206
+        }, 
+        "free_bikes": 6, 
+        "id": "d7e95ff69bb667ac4e8a43effbd507c2", 
+        "latitude": 43.651667, 
+        "longitude": -79.411667, 
+        "name": "Claremont/Dundas", 
+        "timestamp": "2017-08-15T04:49:25.302000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Ossington/Harrison", 
+          "last_updated": 1502772514000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7209
+        }, 
+        "free_bikes": 13, 
+        "id": "bc19a4e6924e29937e76c9e82b55584c", 
+        "latitude": 43.651111111111106, 
+        "longitude": -79.4213888888889, 
+        "name": "Ossington/Harrison", 
+        "timestamp": "2017-08-15T04:49:25.304000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Lower Sherbourne/The Esplanade", 
+          "last_updated": 1502772540000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7101
+        }, 
+        "free_bikes": 25, 
+        "id": "add33549287f280ba7dd73a19dba0d9e", 
+        "latitude": 43.647756, 
+        "longitude": -79.366415, 
+        "name": "Lower Sherbourne/The Esplanade", 
+        "timestamp": "2017-08-15T04:49:25.428000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Mary McCormick Rec Centre", 
+          "last_updated": 1502772332000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7210
+        }, 
+        "free_bikes": 4, 
+        "id": "4c18c44e6f93e57321d327124945cb19", 
+        "latitude": 43.6475, 
+        "longitude": -79.43305555555555, 
+        "name": "Mary McCormick Rec Centre", 
+        "timestamp": "2017-08-15T04:49:25.305000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Fort York/Garrison", 
+          "last_updated": 1502772353000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7211
+        }, 
+        "free_bikes": 15, 
+        "id": "2f360a47e25b490a58da16b12793c80c", 
+        "latitude": 43.6375, 
+        "longitude": -79.40611111111112, 
+        "name": "Fort York/Garrison", 
+        "timestamp": "2017-08-15T04:49:25.306000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Hayter/Laplante", 
+          "last_updated": 1502772509000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7162
+        }, 
+        "free_bikes": 3, 
+        "id": "b5012608da25a66be2fe79465186ff62", 
+        "latitude": 43.6591666666667, 
+        "longitude": -79.3855555555556, 
+        "name": "Hayter/Laplante", 
+        "timestamp": "2017-08-15T04:49:25.486000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "Rusholme Park/College", 
+          "last_updated": 1502772422000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7205
+        }, 
+        "free_bikes": 13, 
+        "id": "d7bb48a755f69109f6584df0a207c9b2", 
+        "latitude": 43.65277778, 
+        "longitude": -79.42972222, 
+        "name": "Rusholme Park/College", 
+        "timestamp": "2017-08-15T04:49:25.301000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "College/Clinton", 
+          "last_updated": 1502772344000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7208
+        }, 
+        "free_bikes": 6, 
+        "id": "71debce521f35fd4e280e8ee1e2dd8cc", 
+        "latitude": 43.656296, 
+        "longitude": -79.414663, 
+        "name": "College/Clinton", 
+        "timestamp": "2017-08-15T04:49:25.303000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Queen/Cowan", 
+          "last_updated": 1502772423000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7198
+        }, 
+        "free_bikes": 19, 
+        "id": "b457bbc38d074d5a3ea939b4d6e0d873", 
+        "latitude": 43.6409, 
+        "longitude": -79.432837, 
+        "name": "Queen/Cowan", 
+        "timestamp": "2017-08-15T04:49:25.296000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Parliament/Bloor", 
+          "last_updated": 1502772385000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7116
+        }, 
+        "free_bikes": 5, 
+        "id": "70b21a44b0cb05fb9f50cb27b294f351", 
+        "latitude": 43.671827, 
+        "longitude": -79.371849, 
+        "name": "Parliament/Bloor", 
+        "timestamp": "2017-08-15T04:49:25.448000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Taddle Creek Park", 
+          "last_updated": 1502772499000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7131
+        }, 
+        "free_bikes": 6, 
+        "id": "21982c325ac8d5dcc146b350aa0e8298", 
+        "latitude": 43.66986, 
+        "longitude": -79.398443, 
+        "name": "Taddle Creek Park", 
+        "timestamp": "2017-08-15T04:49:25.460000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Liberty/Fraser", 
+          "last_updated": 1502772499000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7112
+        }, 
+        "free_bikes": 11, 
+        "id": "f42363acf4af847ca6fcdbe9b48c8290", 
+        "latitude": 43.637981, 
+        "longitude": -79.424146, 
+        "name": "Liberty/Fraser", 
+        "timestamp": "2017-08-15T04:49:25.439000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "King/Douro", 
+          "last_updated": 1502772427000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7111
+        }, 
+        "free_bikes": 10, 
+        "id": "3c85f738ad60e03252f1d62fec2f34d6", 
+        "latitude": 43.640885, 
+        "longitude": -79.416379, 
+        "name": "King/Douro", 
+        "timestamp": "2017-08-15T04:49:25.438000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Mill/Tannery", 
+          "last_updated": 1502772499000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7106
+        }, 
+        "free_bikes": 10, 
+        "id": "419d42f093b90ba03bd31b21039ff5f0", 
+        "latitude": 43.652219, 
+        "longitude": -79.354455, 
+        "name": "Mill/Tannery", 
+        "timestamp": "2017-08-15T04:49:25.432000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Danforth/Gough", 
+          "last_updated": 1502772404000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7093
+        }, 
+        "free_bikes": 7, 
+        "id": "a9f7723da0cc432f4d057e3ceede292e", 
+        "latitude": 43.678401, 
+        "longitude": -79.346289, 
+        "name": "Danforth/Gough", 
+        "timestamp": "2017-08-15T04:49:25.420000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "King/Bay (East)", 
+          "last_updated": 1502772310000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7118
+        }, 
+        "free_bikes": 0, 
+        "id": "5db77b72334a7b8823a28662a03f8e38", 
+        "latitude": 43.648575, 
+        "longitude": -79.380042, 
+        "name": "King/Bay", 
+        "timestamp": "2017-08-15T04:49:25.450000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Sumach/Winchester", 
+          "last_updated": 1502772458000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7119
+        }, 
+        "free_bikes": 6, 
+        "id": "3bbf2e96586ccee1377cb249fc048eb7", 
+        "latitude": 43.66721, 
+        "longitude": -79.362379, 
+        "name": "Sumach/Winchester", 
+        "timestamp": "2017-08-15T04:49:25.450000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Castle Frank/Bloor", 
+          "last_updated": 1502772523000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7117
+        }, 
+        "free_bikes": 0, 
+        "id": "236ec770ef7983c23b90dc201a907b51", 
+        "latitude": 43.674083, 
+        "longitude": -79.368579, 
+        "name": "Castle Frank/Bloor", 
+        "timestamp": "2017-08-15T04:49:25.449000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "HTO Park", 
+          "last_updated": 1502772296000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7175
+        }, 
+        "free_bikes": 22, 
+        "id": "fbdc919dc4d13ab213011eef7b10ce6a", 
+        "latitude": 43.6386, 
+        "longitude": -79.3875, 
+        "name": "HTO Park", 
+        "timestamp": "2017-08-15T04:49:25.278000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Stephenson/Main", 
+          "last_updated": 1502772355000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7084
+        }, 
+        "free_bikes": 9, 
+        "id": "0647bfcc8fa3fbd2b131895917aae1c1", 
+        "latitude": 43.68704, 
+        "longitude": -79.301915, 
+        "name": "Stephenson/Main", 
+        "timestamp": "2017-08-15T04:49:25.413000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Church St / Alexander St", 
+          "last_updated": 1502772409000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7044
+        }, 
+        "free_bikes": 10, 
+        "id": "70aeaf13d91aa5598c0c0325970dad2b", 
+        "latitude": 43.6636, 
+        "longitude": -79.3806, 
+        "name": "Church St / Alexander St", 
+        "timestamp": "2017-08-15T04:49:25.379000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Central Tech", 
+          "last_updated": 1502772409000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7191
+        }, 
+        "free_bikes": 4, 
+        "id": "82051b9dc79b4b401acc0872abc734a9", 
+        "latitude": 43.661975, 
+        "longitude": -79.407896, 
+        "name": "Central Tech", 
+        "timestamp": "2017-08-15T04:49:25.290000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Front/Bay", 
+          "last_updated": 1502772432000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7169
+        }, 
+        "free_bikes": 3, 
+        "id": "58c0d439a59414e5e23bf5021e264d79", 
+        "latitude": 43.646162, 
+        "longitude": -79.378912, 
+        "name": "Front/Bay", 
+        "timestamp": "2017-08-15T04:49:25.272000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "address": "Wellington St W / Bay St", 
+          "last_updated": 1502772523000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7052
+        }, 
+        "free_bikes": 0, 
+        "id": "045a7a6b973238dc76bc058e4f33f143", 
+        "latitude": 43.647259, 
+        "longitude": -79.379878, 
+        "name": "Wellington St W / Bay St", 
+        "timestamp": "2017-08-15T04:49:25.387000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Mortimer/Coxwell", 
+          "last_updated": 1502772508000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7194
+        }, 
+        "free_bikes": 6, 
+        "id": "09007b5f868cd54be0f040f9a9a75c42", 
+        "latitude": 43.690564, 
+        "longitude": -79.326319, 
+        "name": "Mortimer/Coxwell", 
+        "timestamp": "2017-08-15T04:49:25.293000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Macpherson/Spadina", 
+          "last_updated": 1502772509000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7140
+        }, 
+        "free_bikes": 8, 
+        "id": "879f0d4ef4403ab902e541528bf329f6", 
+        "latitude": 43.675791, 
+        "longitude": -79.40698, 
+        "name": "Macpherson/ Spadina", 
+        "timestamp": "2017-08-15T04:49:25.468000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "Nelson/John", 
+          "last_updated": 1502772410000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7102
+        }, 
+        "free_bikes": 16, 
+        "id": "ceb52586adc7097b47183068a3d24862", 
+        "latitude": 43.648711, 
+        "longitude": -79.389728, 
+        "name": "Nelson/John", 
+        "timestamp": "2017-08-15T04:49:25.429000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "McGill St / Church St", 
+          "last_updated": 1502772541000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7079
+        }, 
+        "free_bikes": 3, 
+        "id": "b086f4ccca33b1b976b40abe69b78d42", 
+        "latitude": 43.660694, 
+        "longitude": -79.379052, 
+        "name": "McGill St / Church St", 
+        "timestamp": "2017-08-15T04:49:25.411000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Davenport/Avenue", 
+          "last_updated": 1502772501000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7129
+        }, 
+        "free_bikes": 2, 
+        "id": "17fadbdc5848036c8485099bbf517294", 
+        "latitude": 43.674991, 
+        "longitude": -79.396273, 
+        "name": "Davenport/Avenue", 
+        "timestamp": "2017-08-15T04:49:25.458000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Ossington Ave/College St.", 
+          "last_updated": 1502772363000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7184
+        }, 
+        "free_bikes": 7, 
+        "id": "452241fc4e912119f006a20b4b0099cf", 
+        "latitude": 43.6544915, 
+        "longitude": -79.422634, 
+        "name": "Ossington Ave/College St.", 
+        "timestamp": "2017-08-15T04:49:25.286000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Boston/Queen", 
+          "last_updated": 1502772300000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7096
+        }, 
+        "free_bikes": 15, 
+        "id": "5bc7b9f3b6c0af3664b0d56b2b4e94d3", 
+        "latitude": 43.661508, 
+        "longitude": -79.338931, 
+        "name": "Boston/Queen", 
+        "timestamp": "2017-08-15T04:49:25.423000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Dundonald St/ Church St", 
+          "last_updated": 1502772530000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7024
+        }, 
+        "free_bikes": 11, 
+        "id": "8602a22d9433e63d9fb9488f23583435", 
+        "latitude": 43.666725, 
+        "longitude": -79.381351, 
+        "name": "Dundonald St/ Church St", 
+        "timestamp": "2017-08-15T04:49:25.361000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Howard St./ Sherbourne St.", 
+          "last_updated": 1502772344000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7115
+        }, 
+        "free_bikes": 4, 
+        "id": "908d3c912d6d67c7a5e2bb94d1ae7df3", 
+        "latitude": 43.6712581, 
+        "longitude": -79.376367, 
+        "name": "Howard St./ Sherbourne St.", 
+        "timestamp": "2017-08-15T04:49:25.446000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Niagara St. / Richmond St. W.", 
+          "last_updated": 1502772427000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7046
+        }, 
+        "free_bikes": 14, 
+        "id": "aec7195bb028b992ab8536f51c7d37f8", 
+        "latitude": 43.64534, 
+        "longitude": -79.409597, 
+        "name": "Niagara St. / Richmond St. W.", 
+        "timestamp": "2017-08-15T04:49:25.382000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Summerhill Station", 
+          "last_updated": 1502772304000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7133
+        }, 
+        "free_bikes": 2, 
+        "id": "10722d0c5054c529a0d71f9eb2c89f92", 
+        "latitude": 43.681944, 
+        "longitude": -79.390556, 
+        "name": "Summerhill Station", 
+        "timestamp": "2017-08-15T04:49:25.462000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Yonge/Yorkville", 
+          "last_updated": 1502772546000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7126
+        }, 
+        "free_bikes": 2, 
+        "id": "843dcb87ce2ddb002d2b2900a5418355", 
+        "latitude": 43.671944, 
+        "longitude": -79.387778, 
+        "name": "Yonge/Yorkville", 
+        "timestamp": "2017-08-15T04:49:25.455000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "St George St / Bloor St W", 
+          "last_updated": 1502772412000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7002
+        }, 
+        "free_bikes": 2, 
+        "id": "57ef343f4e12ae497e29c3693d922197", 
+        "latitude": 43.667333, 
+        "longitude": -79.399429, 
+        "name": "St George St / Bloor St W", 
+        "timestamp": "2017-08-15T04:49:25.339000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "Bloor St / Brunswick Ave", 
+          "last_updated": 1502772334000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7061
+        }, 
+        "free_bikes": 6, 
+        "id": "d9b5d94abdbfc07bd837f5766169b8a2", 
+        "latitude": 43.665876, 
+        "longitude": -79.407224, 
+        "name": "Bloor St / Brunswick Ave", 
+        "timestamp": "2017-08-15T04:49:25.395000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Beverly/College", 
+          "last_updated": 1502772369000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7161
+        }, 
+        "free_bikes": 8, 
+        "id": "f5506a406fb49a19088bedd1d8e9cd2f", 
+        "latitude": 43.6575, 
+        "longitude": -79.39527777777778, 
+        "name": "Beverly/College", 
+        "timestamp": "2017-08-15T04:49:25.485000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "College St / Huron St", 
+          "last_updated": 1502772283000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7007
+        }, 
+        "free_bikes": 4, 
+        "id": "f8bbce635f366ade23994d02cb6fcc75", 
+        "latitude": 43.658148, 
+        "longitude": -79.398167, 
+        "name": "College St / Huron St", 
+        "timestamp": "2017-08-15T04:49:25.344000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Wellington Dog Park", 
+          "last_updated": 1502772493000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7216
+        }, 
+        "free_bikes": 6, 
+        "id": "06bed3840f6a1bd271f59da4d2269124", 
+        "latitude": 43.641281, 
+        "longitude": -79.409339, 
+        "name": "Wellington Dog Park", 
+        "timestamp": "2017-08-15T04:49:25.307000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Queen/Dovercourt", 
+          "last_updated": 1502772328000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7197
+        }, 
+        "free_bikes": 11, 
+        "id": "357c60231affe6d00c07f19dfc751b64", 
+        "latitude": 43.6436111111111, 
+        "longitude": -79.4225, 
+        "name": "Queen/Dovercourt", 
+        "timestamp": "2017-08-15T04:49:25.295000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Dundas/Regent Park Blvd", 
+          "last_updated": 1502772307000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7100
+        }, 
+        "free_bikes": 18, 
+        "id": "789f216e52af17d73307365401bb9109", 
+        "latitude": 43.660207, 
+        "longitude": -79.361275, 
+        "name": "Dundas/Regent Park Blvd", 
+        "timestamp": "2017-08-15T04:49:25.427000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Augusta/Denison Sq", 
+          "last_updated": 1502772296000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7189
+        }, 
+        "free_bikes": 2, 
+        "id": "a896f0e50c836557a65a0a110847c543", 
+        "latitude": 43.6541666666667, 
+        "longitude": -79.4019444444445, 
+        "name": "Augusta/Denison Sq", 
+        "timestamp": "2017-08-15T04:49:25.288000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "Harrison/Dovercourt", 
+          "last_updated": 1502772276000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7071
+        }, 
+        "free_bikes": 8, 
+        "id": "50104f0e6428b0ed135fb2aa1880debf", 
+        "latitude": 43.650981, 
+        "longitude": -79.424534, 
+        "name": "Harrison/Dovercourt", 
+        "timestamp": "2017-08-15T04:49:25.404000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "424 Wellington St. W", 
+          "last_updated": 1502772303000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7123
+        }, 
+        "free_bikes": 14, 
+        "id": "01caf8b12874b091f2fccc3818e3c72e", 
+        "latitude": 43.643834, 
+        "longitude": -79.396649, 
+        "name": "424 Wellington St. W", 
+        "timestamp": "2017-08-15T04:49:25.454000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Queen/Berkely", 
+          "last_updated": 1502772349000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7110
+        }, 
+        "free_bikes": 5, 
+        "id": "c7948cf5155f3ddaefa9a8279f203b5a", 
+        "latitude": 43.6552778, 
+        "longitude": -79.36583333333333, 
+        "name": "Queen/Berkely", 
+        "timestamp": "2017-08-15T04:49:25.437000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Bay St / College St", 
+          "last_updated": 1502772525000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7006
+        }, 
+        "free_bikes": 3, 
+        "id": "3632c36ef9d496b7654c698ecc2253f0", 
+        "latitude": 43.660198, 
+        "longitude": -79.385419, 
+        "name": "Bay St / College St", 
+        "timestamp": "2017-08-15T04:49:25.343000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "King St W / Bay St", 
+          "last_updated": 1502772335000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7015
+        }, 
+        "free_bikes": 0, 
+        "id": "52d497af695140c759b28d7bf63e94f4", 
+        "latitude": 43.64852, 
+        "longitude": -79.380576, 
+        "name": "King St W / Bay St", 
+        "timestamp": "2017-08-15T04:49:25.352000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Elizabeth St / Edward St", 
+          "last_updated": 1502772491000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7012
+        }, 
+        "free_bikes": 3, 
+        "id": "ee2e9277d3e8a86acbfdda0e395d1378", 
+        "latitude": 43.656026, 
+        "longitude": -79.385327, 
+        "name": "Elizabeth St / Edward St", 
+        "timestamp": "2017-08-15T04:49:25.349000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Harbord/ Clinton", 
+          "last_updated": 1502772460000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7192
+        }, 
+        "free_bikes": 6, 
+        "id": "22a6864dc0b3bab4a660395bc827ba25", 
+        "latitude": 43.660167, 
+        "longitude": -79.416277, 
+        "name": "Harbord/ Clinton", 
+        "timestamp": "2017-08-15T04:49:25.291000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Bond St / Queen St E", 
+          "last_updated": 1502772394000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7045
+        }, 
+        "free_bikes": 2, 
+        "id": "d6a9daee68070a8b106cfb598d81308c", 
+        "latitude": 43.653236, 
+        "longitude": -79.376716, 
+        "name": "Bond St / Queen St E", 
+        "timestamp": "2017-08-15T04:49:25.381000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Bay St / Bloor St W", 
+          "last_updated": 1502772503000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7029
+        }, 
+        "free_bikes": 1, 
+        "id": "30b11370608c89c3ff2d2000f11bdcda", 
+        "latitude": 43.669494, 
+        "longitude": -79.389661, 
+        "name": "Bay St / Bloor St W", 
+        "timestamp": "2017-08-15T04:49:25.366000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Trinity Bellwoods Park", 
+          "last_updated": 1502772393000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7246
+        }, 
+        "free_bikes": 15, 
+        "id": "fc2711dbe95fe443c1dba48bf659216b", 
+        "latitude": 43.6461, 
+        "longitude": -79.4125, 
+        "name": "Trinity Bellwoods Park", 
+        "timestamp": "2017-08-15T04:49:25.326000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Front St / Bay St 2", 
+          "last_updated": 1502772441000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7283
+        }, 
+        "free_bikes": 18, 
+        "id": "4b13a471170e0768fe5e1ca0b30fde8d", 
+        "latitude": 43.64595, 
+        "longitude": -79.378761, 
+        "name": "Front St / Bay St 2", 
+        "timestamp": "2017-08-15T04:49:25.335000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "Queen St E/Larchmount Ave", 
+          "last_updated": 1502772380000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7258
+        }, 
+        "free_bikes": 24, 
+        "id": "cea71ee7f50368afeae07ebfaa6ab130", 
+        "latitude": 43.662279, 
+        "longitude": -79.334166, 
+        "name": "Queen St E/Larchmount Ave", 
+        "timestamp": "2017-08-15T04:49:25.329000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "High Park", 
+          "last_updated": 1502772381000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7224
+        }, 
+        "free_bikes": 6, 
+        "id": "ba4fc8dd224feedb2762d341bf58916f", 
+        "latitude": 43.6535269, 
+        "longitude": -79.4650569, 
+        "name": "High Park", 
+        "timestamp": "2017-08-15T04:49:25.312000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "Ward/Wallace", 
+          "last_updated": 1502772531000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7237
+        }, 
+        "free_bikes": 4, 
+        "id": "9a96900ef24522ba4bcf38935b20f813", 
+        "latitude": 43.662251, 
+        "longitude": -79.446036, 
+        "name": "Ward/Wallace", 
+        "timestamp": "2017-08-15T04:49:25.322000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Marilyn Bell Park", 
+          "last_updated": 1502772401000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7227
+        }, 
+        "free_bikes": 5, 
+        "id": "0cf5a51077c51159b5d6c8ed5b4c9db5", 
+        "latitude": 43.6314, 
+        "longitude": -79.4304, 
+        "name": "Marilyn Bell Park", 
+        "timestamp": "2017-08-15T04:49:25.315000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "High Park Subway Station", 
+          "last_updated": 1502772367000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7221
+        }, 
+        "free_bikes": 5, 
+        "id": "eb20e0b8c7c8bf1fc4157a3b715e2837", 
+        "latitude": 43.6543604, 
+        "longitude": -79.4655296, 
+        "name": "High Park Subway Station", 
+        "timestamp": "2017-08-15T04:49:25.309000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Ontario Place", 
+          "last_updated": 1502772470000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7242
+        }, 
+        "free_bikes": 8, 
+        "id": "0e89e5d6c910f6df787cd9c903ade959", 
+        "latitude": 43.630254, 
+        "longitude": -79.420317, 
+        "name": "Ontario Place", 
+        "timestamp": "2017-08-15T04:49:25.325000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Queen St W / James St", 
+          "last_updated": 1502772312000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7275
+        }, 
+        "free_bikes": 0, 
+        "id": "6e89f1a3d62be9382436766e8177c448", 
+        "latitude": 43.652276, 
+        "longitude": -79.380701, 
+        "name": "Queen St W / James St", 
+        "timestamp": "2017-08-15T04:49:25.333000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Cowan / King St W", 
+          "last_updated": 1502772316000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7233
+        }, 
+        "free_bikes": 1, 
+        "id": "f75369bf041a79b54e75a81e8e208257", 
+        "latitude": 43.6379, 
+        "longitude": -79.4319, 
+        "name": "Cowan / King St W", 
+        "timestamp": "2017-08-15T04:49:25.321000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Dundas St W / Roncesvalles", 
+          "last_updated": 1502772461000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7229
+        }, 
+        "free_bikes": 5, 
+        "id": "fe00988a883c9469b82d17221ef1824b", 
+        "latitude": 43.6534268, 
+        "longitude": -79.4512787, 
+        "name": "Dundas St W / Roncesvalles", 
+        "timestamp": "2017-08-15T04:49:25.317000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Howard Park Ave / Dundas ST W", 
+          "last_updated": 1502772350000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7247
+        }, 
+        "free_bikes": 7, 
+        "id": "391a459d2ca6e2c8eefa90736b2e9142", 
+        "latitude": 43.6521, 
+        "longitude": -79.4486, 
+        "name": "Howard Park Ave / Dundas ST W", 
+        "timestamp": "2017-08-15T04:49:25.327000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Sorauren Park 1", 
+          "last_updated": 1502772345000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7238
+        }, 
+        "free_bikes": 5, 
+        "id": "c08362564d4889e345bfaaa42da5fb4f", 
+        "latitude": 43.649172, 
+        "longitude": -79.4445087, 
+        "name": "Sorauren Park 1", 
+        "timestamp": "2017-08-15T04:49:25.323000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "Sorauren Park 2", 
+          "last_updated": 1502772481000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7231
+        }, 
+        "free_bikes": 0, 
+        "id": "bc46bcbd5b3a03916a835f3188d8001f", 
+        "latitude": 43.6466, 
+        "longitude": -79.4428, 
+        "name": "Sorauren Park 2", 
+        "timestamp": "2017-08-15T04:49:25.319000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "Church St / Bloor St E", 
+          "last_updated": 1502772437000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7034
+        }, 
+        "free_bikes": 1, 
+        "id": "f3aa2a6bb24e5012b030c6810cf39964", 
+        "latitude": 43.671389, 
+        "longitude": -79.382919, 
+        "name": "Church St / Bloor St E", 
+        "timestamp": "2017-08-15T04:49:25.370000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Dundas St W / St Patrick St", 
+          "last_updated": 1502772525000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7257
+        }, 
+        "free_bikes": 3, 
+        "id": "bb30daddc7221e19cffecf3ac108f28c", 
+        "latitude": 43.6545174, 
+        "longitude": -79.3895315, 
+        "name": "Dundas St W / St Patrick St", 
+        "timestamp": "2017-08-15T04:49:25.328000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Queen St W /Roncesvalles Ave", 
+          "last_updated": 1502772541000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7228
+        }, 
+        "free_bikes": 4, 
+        "id": "1ca9da93e777f3412befa1dea294d795", 
+        "latitude": 43.638399, 
+        "longitude": -79.4464436, 
+        "name": "Queen St W /Roncesvalles Ave", 
+        "timestamp": "2017-08-15T04:49:25.316000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Lakeshore Blvd W / Ellis Ave", 
+          "last_updated": 1502772339000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7220
+        }, 
+        "free_bikes": 12, 
+        "id": "baedec3042f7094d0564ef8a1295e5d8", 
+        "latitude": 43.635932, 
+        "longitude": -79.465083, 
+        "name": "Lakeshore Blvd W / Ellis Ave", 
+        "timestamp": "2017-08-15T04:49:25.308000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Sunnyside - Gus Ryder Pool", 
+          "last_updated": 1502772364000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7222
+        }, 
+        "free_bikes": 5, 
+        "id": "71ecba080a7e19ebfb8dcde4964a5277", 
+        "latitude": 43.637894, 
+        "longitude": -79.454823, 
+        "name": "Sunnyside - Gus Ryder Pool", 
+        "timestamp": "2017-08-15T04:49:25.310000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "Garden Ave / Roncesvalles Ave", 
+          "last_updated": 1502772285000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7230
+        }, 
+        "free_bikes": 4, 
+        "id": "760056e88951946d2f3e9bea859333eb", 
+        "latitude": 43.643769, 
+        "longitude": -79.447915, 
+        "name": "Garden Ave / Roncesvalles Ave", 
+        "timestamp": "2017-08-15T04:49:25.318000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "Roncesvalles Ave / Marmaduke St", 
+          "last_updated": 1502772495000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7234
+        }, 
+        "free_bikes": 9, 
+        "id": "16658c808dda522274b99346e8f815fb", 
+        "latitude": 43.650492, 
+        "longitude": -79.450842, 
+        "name": "Roncesvalles Ave / Marmaduke St", 
+        "timestamp": "2017-08-15T04:49:25.322000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Lakeshore Blvd W / The Boulevard Club", 
+          "last_updated": 1502772468000, 
+          "renting": true, 
+          "returning": true, 
+          "uid": 7226
+        }, 
+        "free_bikes": 2, 
+        "id": "59ef2a57efd0caf7727dbb6451bb8808", 
+        "latitude": 43.636731, 
+        "longitude": -79.444966, 
+        "name": "Lakeshore Blvd W / The Boulevard Club", 
+        "timestamp": "2017-08-15T04:49:25.314000Z"
+      }
+    ]
+  }
+}

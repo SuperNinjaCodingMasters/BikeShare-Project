@@ -1,0 +1,122 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/metropolradruhr-herne", 
+    "id": "metropolradruhr-herne", 
+    "location": {
+      "city": "Herne", 
+      "country": "DE", 
+      "latitude": 51.5363, 
+      "longitude": 7.21493
+    }, 
+    "name": "metropolradruhr", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "7806", 
+          "slots": 10, 
+          "uid": "50472"
+        }, 
+        "free_bikes": 0, 
+        "id": "d6c224abf573257bc9945e59e47a7f6c", 
+        "latitude": 51.551882531823, 
+        "longitude": 7.2140425443649, 
+        "name": "Schloss Str\u00fcnkede", 
+        "timestamp": "2017-08-15T04:46:06.989000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "bike_uids": [
+            "53501"
+          ], 
+          "number": "7805", 
+          "slots": 10, 
+          "uid": "50469"
+        }, 
+        "free_bikes": 1, 
+        "id": "8ad8184a1ba045694c075675f4659a61", 
+        "latitude": 51.544179919877, 
+        "longitude": 7.2181141376495, 
+        "name": "Herne Bahnhof", 
+        "timestamp": "2017-08-15T04:46:06.980000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "50799", 
+            "52550", 
+            "53390", 
+            "53330", 
+            "53371"
+          ], 
+          "number": "7809", 
+          "slots": 8, 
+          "uid": "191897"
+        }, 
+        "free_bikes": 6, 
+        "id": "bec670796f02cc0ef51a9bbc527ccff2", 
+        "latitude": 51.513189507523, 
+        "longitude": 7.1546369791031, 
+        "name": "Marktplatz R\u00f6hlinghausen", 
+        "timestamp": "2017-08-15T04:46:06.991000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "51280", 
+            "52210", 
+            "53086"
+          ], 
+          "number": "7807", 
+          "slots": 10, 
+          "uid": "50473"
+        }, 
+        "free_bikes": 3, 
+        "id": "5e404cb52f74441f8c1f000a1fef21cc", 
+        "latitude": 51.513065984253, 
+        "longitude": 7.179120182991, 
+        "name": "Auf der Wenge / Sankt-J\u00f6rgen-Platz", 
+        "timestamp": "2017-08-15T04:46:06.990000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "04951", 
+            "53469", 
+            "52256", 
+            "53911"
+          ], 
+          "number": "7812", 
+          "uid": "914501"
+        }, 
+        "free_bikes": 4, 
+        "id": "0aadea0fe0bc8ff2bb4d54f849f306b2", 
+        "latitude": 51.536132316736, 
+        "longitude": 7.2263216972351, 
+        "name": "Arch\u00e4ologie-Museum / Kreuzkirche", 
+        "timestamp": "2017-08-15T04:46:06.992000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "number": "7811", 
+          "slots": 10, 
+          "uid": "1035663"
+        }, 
+        "free_bikes": 0, 
+        "id": "7ce9dbb9889f98de56520ec695e747ec", 
+        "latitude": 51.53162410297, 
+        "longitude": 7.1646255254745, 
+        "name": "Wanne-Eickel Hbf", 
+        "timestamp": "2017-08-15T04:46:06.995000Z"
+      }
+    ]
+  }
+}

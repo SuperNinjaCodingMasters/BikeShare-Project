@@ -1,0 +1,57 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-mezzocorona", 
+    "id": "bicincitta-mezzocorona", 
+    "location": {
+      "city": "Mezzocorona", 
+      "country": "IT", 
+      "latitude": 46.2339047, 
+      "longitude": 11.1277461
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "description": "Via Cavalleggeri, 19", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "d8685f956b010a11fed6217a1f1092b3", 
+        "latitude": 46.215938768425005, 
+        "longitude": 11.119989353442406, 
+        "name": "Cavalleggeri", 
+        "timestamp": "2017-08-15T04:50:19.120000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Piazza San Gottardo", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "35ab4b0b84dc2eb5964a97185e34e979", 
+        "latitude": 46.21475054941156, 
+        "longitude": 11.118409916007977, 
+        "name": "Borgata", 
+        "timestamp": "2017-08-15T04:50:19.129000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "description": "Piazza Trento", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "569b65bd8cd2b8f1c64e4840625b9e8f", 
+        "latitude": 46.20734740002011, 
+        "longitude": 11.128130419326794, 
+        "name": "Stazione TN-MALE'", 
+        "timestamp": "2017-08-15T04:50:19.135000Z"
+      }
+    ]
+  }
+}

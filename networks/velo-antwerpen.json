@@ -1,0 +1,5701 @@
+{
+  "network": {
+    "company": [
+      "ClearChannel"
+    ], 
+    "href": "/v2/networks/velo-antwerpen", 
+    "id": "velo-antwerpen", 
+    "location": {
+      "city": "Antwerpen", 
+      "country": "BE", 
+      "latitude": 51.216667, 
+      "longitude": 4.4
+    }, 
+    "name": "Velo Antwerpen", 
+    "stations": [
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "Frans de Vriendstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 249, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 13, 
+        "id": "39a36e57ca057d279d000f48763910c6", 
+        "latitude": 51.20381, 
+        "longitude": 4.444224, 
+        "name": "249- Frans De Vriend", 
+        "timestamp": "2017-08-15T04:47:53.558000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "NearbyStationList": [
+            21, 
+            55, 
+            100, 
+            131
+          ], 
+          "address": "Uitbreidingsstraat 184", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 103, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 5, 
+        "id": "685f5619eaab0c8111a3b8eecd1e0bd5", 
+        "latitude": 51.192563, 
+        "longitude": 4.421462, 
+        "name": "103- Oude Kerk Berchem", 
+        "timestamp": "2017-08-15T04:47:53.446000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "NearbyStationList": [
+            273, 
+            274, 
+            277, 
+            280
+          ], 
+          "address": "Groenenborgerlaan 17", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 275, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 7, 
+        "id": "bce7dde023454094784c1b29d48ee771", 
+        "latitude": 51.174365, 
+        "longitude": 4.40334, 
+        "name": "275- Sneeuwbes", 
+        "timestamp": "2017-08-15T04:47:53.582000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "NearbyStationList": [
+            10, 
+            12, 
+            40, 
+            86
+          ], 
+          "address": "Lange Elzenstraat n\u00b0 56", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 87, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 16, 
+        "id": "72a65eb4cf6394bef750bbd5be487521", 
+        "latitude": 51.20073119866322, 
+        "longitude": 4.394213916060354, 
+        "name": "087- Lange Elzen", 
+        "timestamp": "2017-08-15T04:47:53.432000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            63, 
+            101, 
+            121, 
+            122
+          ], 
+          "address": "Schijnpoortweg ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 120, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 5, 
+        "id": "399bda0e5907d0082724d829f52321e5", 
+        "latitude": 51.227532, 
+        "longitude": 4.439042, 
+        "name": "120- Eendracht", 
+        "timestamp": "2017-08-15T04:47:53.465000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            72, 
+            77, 
+            79, 
+            84
+          ], 
+          "address": "Maarschalk Gerardstraat/schermersstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 73, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 23, 
+        "id": "dc99a9acf7307fddd68f9fee9aa2f84c", 
+        "latitude": 51.212309, 
+        "longitude": 4.403718, 
+        "name": "073- Maarschalk G\u00e9rard", 
+        "timestamp": "2017-08-15T04:47:53.418000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            1, 
+            2, 
+            4, 
+            24
+          ], 
+          "address": "De Keyserlei", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 48, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 22, 
+        "id": "cef8a5a5ca44ce298e5397819651b44d", 
+        "latitude": 51.217297, 
+        "longitude": 4.420149, 
+        "name": "048- De Keyserlei 2", 
+        "timestamp": "2017-08-15T04:47:53.394000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            138, 
+            223, 
+            224, 
+            303
+          ], 
+          "address": "Mexicostraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 221, 
+          "zip": "2030"
+        }, 
+        "free_bikes": 11, 
+        "id": "422f3b772e2e50818696287a9c0af696", 
+        "latitude": 51.240482, 
+        "longitude": 4.407994, 
+        "name": "221-Havenhuis", 
+        "timestamp": "2017-08-15T04:47:53.532000Z"
+      }, 
+      {
+        "empty_slots": 35, 
+        "extra": {
+          "NearbyStationList": [
+            133, 
+            137, 
+            138, 
+            225
+          ], 
+          "address": "Montevideostraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 223, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 0, 
+        "id": "72fedb422ee8e796767edf79ef9a25e4", 
+        "latitude": 51.233346, 
+        "longitude": 4.403114, 
+        "name": "223- Red Star Line", 
+        "timestamp": "2017-08-15T04:47:53.534000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            133, 
+            139, 
+            303
+          ], 
+          "address": "Indiestraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 224, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 15, 
+        "id": "5e78a1ef014bbb088132a310a3b8af62", 
+        "latitude": 51.234392, 
+        "longitude": 4.409584, 
+        "name": "224- Indiestraat", 
+        "timestamp": "2017-08-15T04:47:53.535000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            241, 
+            243, 
+            247, 
+            248
+          ], 
+          "address": "Te Boelaerlei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 242, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 19, 
+        "id": "35133805d180de4c0b854c3ab6df47bc", 
+        "latitude": 51.210431, 
+        "longitude": 4.452514, 
+        "name": "242- Te Boelaerlei", 
+        "timestamp": "2017-08-15T04:47:53.551000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            242, 
+            244, 
+            246, 
+            255
+          ], 
+          "address": "Herentalsebaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 243, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 12, 
+        "id": "147589f51ed0d178283cb2ee3f070ad8", 
+        "latitude": 51.209535, 
+        "longitude": 4.458156, 
+        "name": "243- Mestputteke", 
+        "timestamp": "2017-08-15T04:47:53.552000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "NearbyStationList": [
+            242, 
+            243, 
+            246, 
+            255
+          ], 
+          "address": "Herentalsebaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 244, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 9, 
+        "id": "2cda484902bb13430ad3693ac265c289", 
+        "latitude": 51.207636, 
+        "longitude": 4.465315, 
+        "name": "244- Waterbaan", 
+        "timestamp": "2017-08-15T04:47:53.553000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "NearbyStationList": [
+            9, 
+            241, 
+            242, 
+            248
+          ], 
+          "address": "Luitenant Lippenslaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 247, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 11, 
+        "id": "e53d2e926d5a44327c69388a9aff03b0", 
+        "latitude": 51.208319, 
+        "longitude": 4.44595, 
+        "name": "247- ZNA Sint Erasmus", 
+        "timestamp": "2017-08-15T04:47:53.556000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            242, 
+            246, 
+            247, 
+            251
+          ], 
+          "address": "De Schans", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 248, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 28, 
+        "id": "bc5245ca1f7e84bbdd140e76f13aa130", 
+        "latitude": 51.205979, 
+        "longitude": 4.449254, 
+        "name": "248- De Schans", 
+        "timestamp": "2017-08-15T04:47:53.557000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            7, 
+            112, 
+            249, 
+            252
+          ], 
+          "address": "Diksmuidelaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 250, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 21, 
+        "id": "9088f4001ce1a16288b9023afc5244d8", 
+        "latitude": 51.201106, 
+        "longitude": 4.438997, 
+        "name": "250- Borsbeekbrug", 
+        "timestamp": "2017-08-15T04:47:53.559000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            246, 
+            248, 
+            249, 
+            252
+          ], 
+          "address": "Arthur Matthyslaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 251, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 12, 
+        "id": "eb0339a909176020ed32f876d76ac219", 
+        "latitude": 51.203966, 
+        "longitude": 4.452089, 
+        "name": "251- Te Boelaerpark Noord", 
+        "timestamp": "2017-08-15T04:47:53.559000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            243, 
+            244, 
+            246, 
+            254
+          ], 
+          "address": "Van den Hautelei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 255, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 13, 
+        "id": "9948bca44e41fda160fd5b77d10ac9f2", 
+        "latitude": 51.204139, 
+        "longitude": 4.467644, 
+        "name": "255- Van den Haute", 
+        "timestamp": "2017-08-15T04:47:53.563000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            262, 
+            264, 
+            265, 
+            269
+          ], 
+          "address": "Henri Prostlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 261, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 23, 
+        "id": "33bffc36e4f54634abb026e3c0bb2f98", 
+        "latitude": 51.188627, 
+        "longitude": 4.429588, 
+        "name": "261- Brilschans", 
+        "timestamp": "2017-08-15T04:47:53.568000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            270, 
+            274, 
+            277, 
+            282
+          ], 
+          "address": "Bosheidelaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 280, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 26, 
+        "id": "559176f40bc8d60706bc11285c01e0e5", 
+        "latitude": 51.176724, 
+        "longitude": 4.382415, 
+        "name": "280- Marmotteke", 
+        "timestamp": "2017-08-15T04:47:53.587000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            139, 
+            221, 
+            224, 
+            225
+          ], 
+          "address": "Kambalastraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 303, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 16, 
+        "id": "536ecc840bc69206547bdc7eb6d7188f", 
+        "latitude": 51.237933, 
+        "longitude": 4.409588, 
+        "name": "303-Kambala", 
+        "timestamp": "2017-08-15T04:47:53.611000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "NearbyStationList": [
+            214, 
+            215, 
+            219, 
+            220
+          ], 
+          "address": "Gagelveldenstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 218, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 10, 
+        "id": "2164c5be1a9bc7036aaf56579f800308", 
+        "latitude": 51.24302, 
+        "longitude": 4.435687, 
+        "name": "218- Groenendaalcollege", 
+        "timestamp": "2017-08-15T04:47:53.529000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            120, 
+            227, 
+            229, 
+            230
+          ], 
+          "address": "Van Heetveldelei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 228, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 17, 
+        "id": "7bec43c1e351a52484b2d7509581a7e7", 
+        "latitude": 51.229842, 
+        "longitude": 4.451413, 
+        "name": "228- Van Heetvelde", 
+        "timestamp": "2017-08-15T04:47:53.539000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            231, 
+            233, 
+            238, 
+            239
+          ], 
+          "address": "Wim Saerensplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 232, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 11, 
+        "id": "2e100b2add5e38f8a1fe3a644e3f6d72", 
+        "latitude": 51.228491, 
+        "longitude": 4.478671, 
+        "name": "232- Wim Saerens", 
+        "timestamp": "2017-08-15T04:47:53.543000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            233, 
+            235, 
+            236, 
+            237
+          ], 
+          "address": "Jan Brochovenstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 234, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 16, 
+        "id": "86f7d9e1fa073d2d79546bc665b79151", 
+        "latitude": 51.222201, 
+        "longitude": 4.461183, 
+        "name": "234- Deurne Atheneum", 
+        "timestamp": "2017-08-15T04:47:53.544000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "NearbyStationList": [
+            240, 
+            244, 
+            246, 
+            255
+          ], 
+          "address": "Florent Pauwelslei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 245, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 10, 
+        "id": "73d91e4b9e877126ab596a46d5cff60d", 
+        "latitude": 51.206811, 
+        "longitude": 4.471315, 
+        "name": "245- AZ Monica", 
+        "timestamp": "2017-08-15T04:47:53.554000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            249, 
+            250, 
+            252, 
+            256
+          ], 
+          "address": "Lodewijk van Berckenlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 258, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 14, 
+        "id": "bf1f9210973563ca31bf3f210ab5f95c", 
+        "latitude": 51.197498, 
+        "longitude": 4.443731, 
+        "name": "258- Hof van Nauwelaerts", 
+        "timestamp": "2017-08-15T04:47:53.566000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            260, 
+            265, 
+            268, 
+            269
+          ], 
+          "address": "Prins Leopoldstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 267, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 20, 
+        "id": "df62e067f23db769f1aff6e4c8afd4e7", 
+        "latitude": 51.185888, 
+        "longitude": 4.42338, 
+        "name": "267- Leopold", 
+        "timestamp": "2017-08-15T04:47:53.574000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "NearbyStationList": [
+            268, 
+            270, 
+            273, 
+            277
+          ], 
+          "address": "Beukenlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 271, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 9, 
+        "id": "b4081649a4d5890a6a6a7081ea739161", 
+        "latitude": 51.180694, 
+        "longitude": 4.408988, 
+        "name": "271- Middelheimmuseum", 
+        "timestamp": "2017-08-15T04:47:53.578000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            266, 
+            268, 
+            269, 
+            273
+          ], 
+          "address": "Groenenborgerlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 272, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 21, 
+        "id": "da7633e94d152edf601486db21fe91b0", 
+        "latitude": 51.177858, 
+        "longitude": 4.42308, 
+        "name": "272- Groenenborger", 
+        "timestamp": "2017-08-15T04:47:53.579000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "NearbyStationList": [
+            270, 
+            277, 
+            280, 
+            282
+          ], 
+          "address": "Kruishofstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 276, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 10, 
+        "id": "8ea65018c285ec7e247671b4b6b50787", 
+        "latitude": 51.183506, 
+        "longitude": 4.393877, 
+        "name": "276- Corbusier", 
+        "timestamp": "2017-08-15T04:47:53.583000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            283, 
+            285, 
+            288, 
+            290
+          ], 
+          "address": "Steynsstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 284, 
+          "zip": "2660"
+        }, 
+        "free_bikes": 17, 
+        "id": "4731b317f048b44ff8750d4e27afee3b", 
+        "latitude": 51.18323, 
+        "longitude": 4.364133, 
+        "name": "284- Steynsstraat", 
+        "timestamp": "2017-08-15T04:47:53.591000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            284, 
+            286, 
+            287, 
+            288
+          ], 
+          "address": "Commandant Weynsstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 285, 
+          "zip": "2660"
+        }, 
+        "free_bikes": 8, 
+        "id": "74443ce069addb3630dd407c286ccf1f", 
+        "latitude": 51.183787, 
+        "longitude": 4.352957, 
+        "name": "285- Hoge Beuken", 
+        "timestamp": "2017-08-15T04:47:53.592000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            285, 
+            287, 
+            288, 
+            289
+          ], 
+          "address": "Berkenrodelei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 286, 
+          "zip": "2660"
+        }, 
+        "free_bikes": 18, 
+        "id": "a2bbc7aaf63155faf8a410cfd7d9dd0a", 
+        "latitude": 51.182534, 
+        "longitude": 4.348112, 
+        "name": "286- Station Hoboken/Polderstad", 
+        "timestamp": "2017-08-15T04:47:53.593000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            296, 
+            297, 
+            299, 
+            300
+          ], 
+          "address": "Edgard Casteleinstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 293, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 19, 
+        "id": "ef8d1b93abe6f16bb8991bf411f2f0da", 
+        "latitude": 51.188516, 
+        "longitude": 4.390949, 
+        "name": "293- Edgard Castelein", 
+        "timestamp": "2017-08-15T04:47:53.600000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "NearbyStationList": [
+            291, 
+            292, 
+            295, 
+            297
+          ], 
+          "address": "Eugeen Laermansstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 294, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 14, 
+        "id": "19435f6efe098ce7c6072c1367d54968", 
+        "latitude": 51.191017, 
+        "longitude": 4.376694, 
+        "name": "294- Den Tir", 
+        "timestamp": "2017-08-15T04:47:53.601000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            293, 
+            297, 
+            299, 
+            300
+          ], 
+          "address": "Eric Sassenlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 296, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 10, 
+        "id": "dd582a5190df888e3004aa9f7360178a", 
+        "latitude": 51.194083, 
+        "longitude": 4.393042, 
+        "name": "296- Mastvest", 
+        "timestamp": "2017-08-15T04:47:53.603000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "NearbyStationList": [
+            293, 
+            296, 
+            299, 
+            300
+          ], 
+          "address": "Tentoonstellingslaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 297, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 14, 
+        "id": "5dfb8fcc040f756488b68ffe9d3e4f56", 
+        "latitude": 51.19062, 
+        "longitude": 4.388933, 
+        "name": "297- Tentoonstellingswijk", 
+        "timestamp": "2017-08-15T04:47:53.604000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            281, 
+            283, 
+            290, 
+            302
+          ], 
+          "address": "Valkstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 298, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 11, 
+        "id": "52017f3278db62779714be68bff274d7", 
+        "latitude": 51.1719, 
+        "longitude": 4.382368, 
+        "name": "298- Koornbloem", 
+        "timestamp": "2017-08-15T04:47:53.605000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "NearbyStationList": [
+            203, 
+            205, 
+            206, 
+            221
+          ], 
+          "address": "Noorderlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 204, 
+          "zip": "2030"
+        }, 
+        "free_bikes": 13, 
+        "id": "3e4340d2c70d5e0e5cad731e49b24e52", 
+        "latitude": 51.249964, 
+        "longitude": 4.420901, 
+        "name": "204- Luchtbal winkelcentrum", 
+        "timestamp": "2017-08-15T04:47:53.515000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            283, 
+            287, 
+            289, 
+            290
+          ], 
+          "address": "Draaiboomstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 288, 
+          "zip": "2660"
+        }, 
+        "free_bikes": 11, 
+        "id": "35c27668d38d29dc36f6102a32bb34b7", 
+        "latitude": 51.177318, 
+        "longitude": 4.359723, 
+        "name": "288- Draaiboom", 
+        "timestamp": "2017-08-15T04:47:53.595000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "NearbyStationList": [
+            283, 
+            284, 
+            288, 
+            289
+          ], 
+          "address": "Schoonselhoflei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 290, 
+          "zip": "2660"
+        }, 
+        "free_bikes": 9, 
+        "id": "8c5e6b5bd3a6542580a47f945f8fa818", 
+        "latitude": 51.176212, 
+        "longitude": 4.367697, 
+        "name": "290- Co\u00f6peratielaan", 
+        "timestamp": "2017-08-15T04:47:53.597000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "NearbyStationList": [
+            291, 
+            294, 
+            295, 
+            297
+          ], 
+          "address": "Jacob le Mairestraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 292, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 9, 
+        "id": "b2368a68a25630f89ffbd22538e77b21", 
+        "latitude": 51.190807, 
+        "longitude": 4.381008, 
+        "name": "292- Kielpark", 
+        "timestamp": "2017-08-15T04:47:53.600000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "NearbyStationList": [
+            136, 
+            139, 
+            224
+          ], 
+          "address": "Binnenvaartstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 222, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 9, 
+        "id": "513804be244470abd5f62d724857acec", 
+        "latitude": 51.233335, 
+        "longitude": 4.413912, 
+        "name": "222- Cadix Oost", 
+        "timestamp": "2017-08-15T04:47:53.533000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "NearbyStationList": [
+            11, 
+            24, 
+            26, 
+            27
+          ], 
+          "address": "Leysstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 25, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 32, 
+        "id": "7b9329b4a454b5406a3088090f9d4256", 
+        "latitude": 51.21818883, 
+        "longitude": 4.41431335, 
+        "name": "025- Teniersplaats", 
+        "timestamp": "2017-08-15T04:47:53.372000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            62, 
+            123, 
+            124, 
+            126
+          ], 
+          "address": "Hardenvoort", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 136, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 20, 
+        "id": "f467c63fa8c296bbe796531322b55eca", 
+        "latitude": 51.231345, 
+        "longitude": 4.420999, 
+        "name": "136- Spoor Noord Skatebowl", 
+        "timestamp": "2017-08-15T04:47:53.484000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            275, 
+            278, 
+            279, 
+            280
+          ], 
+          "address": "Bist", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 274, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 15, 
+        "id": "5b4f995e3f543cadce40872f22515aeb", 
+        "latitude": 51.170393, 
+        "longitude": 4.394845, 
+        "name": "274- De Bist", 
+        "timestamp": "2017-08-15T04:47:53.581000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "NearbyStationList": [
+            127, 
+            133, 
+            137, 
+            138
+          ], 
+          "address": "Londenstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 139, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 17, 
+        "id": "2bf8cb170eb48e37513dfa69bf4cd79f", 
+        "latitude": 51.23105348045673, 
+        "longitude": 4.412669394282471, 
+        "name": "139- Londenstraat", 
+        "timestamp": "2017-08-15T04:47:53.488000Z"
+      }, 
+      {
+        "empty_slots": 34, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            20, 
+            56, 
+            57
+          ], 
+          "address": "Wisselstraat 9", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 60, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 2, 
+        "id": "a5a26b9637a62ad890e91837fd02270f", 
+        "latitude": 51.22158761940871, 
+        "longitude": 4.400512730484778, 
+        "name": "060- Grote Markt", 
+        "timestamp": "2017-08-15T04:47:53.405000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            3, 
+            4, 
+            5, 
+            24
+          ], 
+          "address": "Koningin Astridplein", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 1, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 19, 
+        "id": "670e2836abf87ddc702ad790abaf8f10", 
+        "latitude": 51.21782, 
+        "longitude": 4.42065, 
+        "name": "001- Centraal Station - Astrid", 
+        "timestamp": "2017-08-15T04:47:53.347000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            3, 
+            4, 
+            5, 
+            24
+          ], 
+          "address": "Koningin Astridplein", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 2, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 20, 
+        "id": "1ef48f89a872346d7f4325daf09314cd", 
+        "latitude": 51.21758, 
+        "longitude": 4.42075, 
+        "name": "002- Centraal Station - Astrid 2", 
+        "timestamp": "2017-08-15T04:47:53.350000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            1, 
+            2, 
+            4, 
+            6
+          ], 
+          "address": "Kievitplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 3, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 19, 
+        "id": "06d693a20ca7920cd4bb682a2cc4f087", 
+        "latitude": 51.21308585312569, 
+        "longitude": 4.421771338842944, 
+        "name": "003- Centraal station Kievit 2", 
+        "timestamp": "2017-08-15T04:47:53.351000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            1, 
+            2, 
+            3, 
+            5
+          ], 
+          "address": "De Keyserlei", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 4, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 5, 
+        "id": "a19d8b600fd45ca97549c42cbadc3ce8", 
+        "latitude": 51.21736388888889, 
+        "longitude": 4.420094444444445, 
+        "name": "004- De Keyserlei", 
+        "timestamp": "2017-08-15T04:47:53.352000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            1, 
+            2, 
+            4, 
+            6
+          ], 
+          "address": "Lange Kievitstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 5, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 27, 
+        "id": "b6d3449228a2952656fc540af6408c6a", 
+        "latitude": 51.21301072974409, 
+        "longitude": 4.42173291660705, 
+        "name": "005- Centraal Station / Kievit", 
+        "timestamp": "2017-08-15T04:47:53.353000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            5, 
+            104, 
+            111, 
+            116
+          ], 
+          "address": "Mercatorstraat ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 6, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 10, 
+        "id": "4782aa7bb9361bc2741e5b3eafc0b4ed", 
+        "latitude": 51.21031666135904, 
+        "longitude": 4.422179962645858, 
+        "name": "006- Premetro Plantin", 
+        "timestamp": "2017-08-15T04:47:53.354000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            22, 
+            97, 
+            106, 
+            112
+          ], 
+          "address": "Binnensingel ingang station Berchem", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 7, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 15, 
+        "id": "b7181e04258840385f68a3c4c4d96f7d", 
+        "latitude": 51.20107584716423, 
+        "longitude": 4.433947713271024, 
+        "name": "007- NMBS Berchem ", 
+        "timestamp": "2017-08-15T04:47:53.355000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "NearbyStationList": [
+            22, 
+            97, 
+            106, 
+            112
+          ], 
+          "address": "Ryckaertplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 8, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 2, 
+        "id": "0d6603ab6d27b7c7f9cab3676d72c0f3", 
+        "latitude": 51.20108907303041, 
+        "longitude": 4.43395840762151, 
+        "name": "008- NMBS Berchem 2", 
+        "timestamp": "2017-08-15T04:47:53.356000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            69, 
+            105, 
+            110, 
+            132
+          ], 
+          "address": "Wilrijkstraat - Plantin Moretuslei", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 9, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 4, 
+        "id": "dd1a8d64245859d53eb4c389377de6aa", 
+        "latitude": 51.20896521707293, 
+        "longitude": 4.43770089264917, 
+        "name": "009- NMBS Oost", 
+        "timestamp": "2017-08-15T04:47:53.357000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "NearbyStationList": [
+            12, 
+            40, 
+            86, 
+            87
+          ], 
+          "address": "Desguinlei - Montignystraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 10, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 11, 
+        "id": "809603bcba6a94e1f98b550bc5221675", 
+        "latitude": 51.19846968971121, 
+        "longitude": 4.390718261329017, 
+        "name": "010- NMBS Zuid", 
+        "timestamp": "2017-08-15T04:47:53.357000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "NearbyStationList": [
+            14, 
+            31, 
+            40, 
+            131
+          ], 
+          "address": "Jan van rijswijcklaan aan bedrijf DE SINGEL", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 13
+        }, 
+        "free_bikes": 13, 
+        "id": "0eb6f264e1b8cb7c918dfbacd4800734", 
+        "latitude": 51.193882, 
+        "longitude": 4.402245, 
+        "name": "013- De Singel", 
+        "timestamp": "2017-08-15T04:47:53.360000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "NearbyStationList": [
+            13, 
+            31, 
+            89, 
+            99
+          ], 
+          "address": "Jan Van Rijswijcklaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 14, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 9, 
+        "id": "3f8d6423a7967825a64e7fca143f68f2", 
+        "latitude": 51.196813, 
+        "longitude": 4.405689, 
+        "name": "014- Markgrave", 
+        "timestamp": "2017-08-15T04:47:53.361000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            16, 
+            75, 
+            80, 
+            83
+          ], 
+          "address": "Beeldhouwersstraat - Admiraal De Boisotstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 15, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 10, 
+        "id": "78c99cbe735fb3e571a72d9bc35af21b", 
+        "latitude": 51.20782211517101, 
+        "longitude": 4.394392340970182, 
+        "name": "015- Schone Kunsten", 
+        "timestamp": "2017-08-15T04:47:53.362000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            15, 
+            72, 
+            74, 
+            83
+          ], 
+          "address": "Karel Rogierstraat ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 16, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 3, 
+        "id": "628eb9eee9bf5e369221debc0065961f", 
+        "latitude": 51.21016, 
+        "longitude": 4.396613, 
+        "name": "016- Marnixplaats", 
+        "timestamp": "2017-08-15T04:47:53.363000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            19, 
+            60, 
+            64, 
+            66
+          ], 
+          "address": "Groenplaats n\u00b0 7", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 17, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 1, 
+        "id": "5e53d784577f5aaf9e7cd52ba4e13f6f", 
+        "latitude": 51.2188842426134, 
+        "longitude": 4.401197046278909, 
+        "name": "017- Groenplaats", 
+        "timestamp": "2017-08-15T04:47:53.364000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            19, 
+            20, 
+            23
+          ], 
+          "address": "Meir n\u00b0 18", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 18, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 22, 
+        "id": "0d5f81edf239313dc871a4b164325c20", 
+        "latitude": 51.21818701003684, 
+        "longitude": 4.406168081225285, 
+        "name": "018- Meirbrug", 
+        "timestamp": "2017-08-15T04:47:53.365000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            18, 
+            20, 
+            57
+          ], 
+          "address": "Eiermarkt ", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 19, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 15, 
+        "id": "2c3d43a2b41ce31a4f2a9a300b83982a", 
+        "latitude": 51.21924, 
+        "longitude": 4.40361, 
+        "name": "019- Eiermarkt", 
+        "timestamp": "2017-08-15T04:47:53.366000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            18, 
+            19, 
+            60, 
+            66
+          ], 
+          "address": "Groenkerkhofstraat/Nationalestraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 20, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 2, 
+        "id": "ebdaa116e2ddfb4a3010a2847e69f60f", 
+        "latitude": 51.2188, 
+        "longitude": 4.401, 
+        "name": "020- Groenplaats 2", 
+        "timestamp": "2017-08-15T04:47:53.367000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            46, 
+            61, 
+            100, 
+            103
+          ], 
+          "address": "Grotesteenweg 150/Driekoningenstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 21
+        }, 
+        "free_bikes": 18, 
+        "id": "5862c6a204f21560fe27ec534caed85f", 
+        "latitude": 51.195482, 
+        "longitude": 4.419189, 
+        "name": "021- Driekoningen", 
+        "timestamp": "2017-08-15T04:47:53.368000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "NearbyStationList": [
+            8, 
+            47, 
+            55, 
+            97
+          ], 
+          "address": "Statiestraat 162", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 22, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 3, 
+        "id": "98611ffab5dab77522a0879b6cf7d885", 
+        "latitude": 51.19992476161931, 
+        "longitude": 4.430990359067499, 
+        "name": "022- Statie", 
+        "timestamp": "2017-08-15T04:47:53.369000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "NearbyStationList": [
+            18, 
+            26, 
+            36, 
+            37
+          ], 
+          "address": "Wapper - Jodenstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 23, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 13, 
+        "id": "8536d16dcc26f5648c774cf147f219bd", 
+        "latitude": 51.21708416292551, 
+        "longitude": 4.408880661964794, 
+        "name": "023- Rubenshuis", 
+        "timestamp": "2017-08-15T04:47:53.370000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            23, 
+            24, 
+            25, 
+            27
+          ], 
+          "address": "Meir 84", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 26, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 27, 
+        "id": "a251ffcdcf1a39a4b6047a2ce78eb907", 
+        "latitude": 51.21822789177805, 
+        "longitude": 4.412475243159753, 
+        "name": "026- Meir-Antoon Van Dijck", 
+        "timestamp": "2017-08-15T04:47:53.373000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            11, 
+            24, 
+            25, 
+            26
+          ], 
+          "address": "Lange Nieuwstraat 101", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 27, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 17, 
+        "id": "49090b60874450d09d8f751bbfabf43b", 
+        "latitude": 51.21950291247646, 
+        "longitude": 4.411949186215027, 
+        "name": "027- Lange Nieuwstraat", 
+        "timestamp": "2017-08-15T04:47:53.374000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "NearbyStationList": [
+            51, 
+            54, 
+            56, 
+            57
+          ], 
+          "address": "Keizerstraat ro n\u00b0 56", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 28, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 22, 
+        "id": "1f22e6f39b30791fb64fc42d9ea8b03e", 
+        "latitude": 51.22148804502052, 
+        "longitude": 4.408659692889357, 
+        "name": "028- Keizerstraat", 
+        "timestamp": "2017-08-15T04:47:53.375000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "NearbyStationList": [
+            42, 
+            88, 
+            90, 
+            92
+          ], 
+          "address": "Lange Lozanastraat n\u00b0 149", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 29, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 15, 
+        "id": "5742844a98847a96451398e13e115fa4", 
+        "latitude": 51.20177790228143, 
+        "longitude": 4.406064590410548, 
+        "name": "029- Lozana", 
+        "timestamp": "2017-08-15T04:47:53.376000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            107, 
+            108, 
+            109, 
+            113
+          ], 
+          "address": "Laar", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 30, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 12, 
+        "id": "9a40475bfdb0c71d12da804a4f159853", 
+        "latitude": 51.21631845101857, 
+        "longitude": 4.433518298737513, 
+        "name": "030- Het Laar", 
+        "timestamp": "2017-08-15T04:47:53.377000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            13, 
+            14, 
+            99, 
+            131
+          ], 
+          "address": "Karel Oomsstraat - Binnensingel", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 31, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 14, 
+        "id": "a1431a69e54f17f5d3dece354a84e75f", 
+        "latitude": 51.19311916942493, 
+        "longitude": 4.408029450760751, 
+        "name": "031- Wezenberg", 
+        "timestamp": "2017-08-15T04:47:53.378000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            1, 
+            4, 
+            11, 
+            115
+          ], 
+          "address": "De Conickplein ro n\u00b0 26", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 32, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 19, 
+        "id": "b60c5db1db117a165f4f8aab34e943a0", 
+        "latitude": 51.22173485685548, 
+        "longitude": 4.420708379829534, 
+        "name": "032- Permeke", 
+        "timestamp": "2017-08-15T04:47:53.379000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            45, 
+            52, 
+            53, 
+            129
+          ], 
+          "address": "Hessenplein n\u00b0 2", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 33, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 9, 
+        "id": "aceb1b91af957968540b92347c39347b", 
+        "latitude": 51.22621837372287, 
+        "longitude": 4.409645771552839, 
+        "name": "033- Hessenhuis", 
+        "timestamp": "2017-08-15T04:47:53.380000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            35, 
+            74, 
+            75, 
+            82
+          ], 
+          "address": "Leuvenstraat - Waalsekaai", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 34, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 11, 
+        "id": "57ffdc9b25bef8945e531316a14f275f", 
+        "latitude": 51.21101506600984, 
+        "longitude": 4.390343681438131, 
+        "name": "034- M HKA", 
+        "timestamp": "2017-08-15T04:47:53.381000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            34, 
+            71, 
+            74, 
+            75
+          ], 
+          "address": "cockerillkaai", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 35, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 15, 
+        "id": "de15a7d07e5eca0834a41d3f0396ca3b", 
+        "latitude": 51.21214, 
+        "longitude": 4.3898, 
+        "name": "035- Cockerillkaai", 
+        "timestamp": "2017-08-15T04:47:53.382000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            18, 
+            19, 
+            23, 
+            67
+          ], 
+          "address": "Schuttershofstraat n\u00b0 2", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 36, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 12, 
+        "id": "adb74f91b7c6a941c762f47bcd84b749", 
+        "latitude": 51.21645368917724, 
+        "longitude": 4.405926457819422, 
+        "name": "036- Bourla", 
+        "timestamp": "2017-08-15T04:47:53.383000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            23, 
+            77, 
+            95, 
+            96
+          ], 
+          "address": "Tabakvest - Ibis Hotel", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 37, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 23, 
+        "id": "d9ddee9706152518ad07e78b3c1f41e6", 
+        "latitude": 51.21559347643882, 
+        "longitude": 4.41237196726086, 
+        "name": "037- Theater", 
+        "timestamp": "2017-08-15T04:47:53.383000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "NearbyStationList": [
+            102, 
+            109, 
+            113, 
+            114
+          ], 
+          "address": "Pastorijstraat tov huisnr28", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 38
+        }, 
+        "free_bikes": 20, 
+        "id": "fac326af3033fd620489bdb32a047e73", 
+        "latitude": 51.220157, 
+        "longitude": 4.432635, 
+        "name": "038- Pastorijstraat", 
+        "timestamp": "2017-08-15T04:47:53.384000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            9, 
+            105, 
+            107, 
+            132
+          ], 
+          "address": "Betogingstraat tov3", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 39, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 18, 
+        "id": "acba99b5794dfaff1a738ac80cd91c77", 
+        "latitude": 51.21105908944124, 
+        "longitude": 4.434095891498593, 
+        "name": "039- Koxplein", 
+        "timestamp": "2017-08-15T04:47:53.385000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "NearbyStationList": [
+            10, 
+            12, 
+            13, 
+            89
+          ], 
+          "address": "Desguinlei to 246", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 40, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 13, 
+        "id": "6b7bb3016dc6e4f8072ad09aef02137e", 
+        "latitude": 51.19676193952913, 
+        "longitude": 4.396619143599072, 
+        "name": "040- Desguinlei", 
+        "timestamp": "2017-08-15T04:47:53.386000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            77, 
+            79, 
+            91, 
+            116
+          ], 
+          "address": "Van Eycklei/Edelinckstraat 24 ", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 41, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 10, 
+        "id": "14fc7eb2700c116ccf234edeffaa440f", 
+        "latitude": 51.210802, 
+        "longitude": 4.411606, 
+        "name": "041- Van Eyck", 
+        "timestamp": "2017-08-15T04:47:53.387000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "NearbyStationList": [
+            29, 
+            43, 
+            92, 
+            93
+          ], 
+          "address": "Mechelsesteenweg - Ingang Harmoniepark", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 42, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 17, 
+        "id": "dc53023cc551c5301041da41a9787af1", 
+        "latitude": 51.20228489249466, 
+        "longitude": 4.412070122941341, 
+        "name": "042- Harmonie", 
+        "timestamp": "2017-08-15T04:47:53.388000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "NearbyStationList": [
+            42, 
+            44, 
+            92, 
+            93
+          ], 
+          "address": "Belgi\u00eblei/Gretrystraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 43, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 27, 
+        "id": "9e70d4338106dc057f057ca99a379573", 
+        "latitude": 51.203684, 
+        "longitude": 4.415281, 
+        "name": "043- Gr\u00e9trystraat", 
+        "timestamp": "2017-08-15T04:47:53.389000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            42, 
+            43, 
+            93, 
+            130
+          ], 
+          "address": "Belgi\u00eblei 99", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 44, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 22, 
+        "id": "5063cf49793c9aac7c5be835aa60e07e", 
+        "latitude": 51.205721, 
+        "longitude": 4.418194, 
+        "name": "044- Belgielei", 
+        "timestamp": "2017-08-15T04:47:53.390000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            33, 
+            129, 
+            134, 
+            135
+          ], 
+          "address": "Oude Leeuwenrui n\u00b0 2", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 45, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 0, 
+        "id": "5cb19ca1f7adc501f5101e241cfaf71d", 
+        "latitude": 51.22688177486824, 
+        "longitude": 4.405497597996209, 
+        "name": "045- Falconplein", 
+        "timestamp": "2017-08-15T04:47:53.391000Z"
+      }, 
+      {
+        "empty_slots": 33, 
+        "extra": {
+          "NearbyStationList": [
+            42, 
+            98, 
+            99, 
+            100
+          ], 
+          "address": "Grotesteenweg/Boomgaardstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 46, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 3, 
+        "id": "729f4a072d984b6478d761bf43e3a12f", 
+        "latitude": 51.19910372113264, 
+        "longitude": 4.415516549585612, 
+        "name": "046- De Merode", 
+        "timestamp": "2017-08-15T04:47:53.392000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            22, 
+            97, 
+            98, 
+            130
+          ], 
+          "address": "Boomgaardstraat/Marialei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 47, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 18, 
+        "id": "d4347b8651c1eb4ec676cc701ccd9f2c", 
+        "latitude": 51.20140582840499, 
+        "longitude": 4.423709521960564, 
+        "name": "047- Militair Hospitaal", 
+        "timestamp": "2017-08-15T04:47:53.393000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            49, 
+            51, 
+            56, 
+            57
+          ], 
+          "address": "Sint-Paulusstraat/ Lange Koepoortstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 50, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 7, 
+        "id": "4fb3701ca2c416d5e19500684e7f80df", 
+        "latitude": 51.22373281553696, 
+        "longitude": 4.403024090372765, 
+        "name": "050- Klapdorp", 
+        "timestamp": "2017-08-15T04:47:53.396000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            28, 
+            50, 
+            56, 
+            57
+          ], 
+          "address": "Mutsaardplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 51, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 10, 
+        "id": "c33fc782ebf7b5c9a316e632eaedea46", 
+        "latitude": 51.22289620751177, 
+        "longitude": 4.406112888467821, 
+        "name": "051- Mutsaardplein", 
+        "timestamp": "2017-08-15T04:47:53.397000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            11, 
+            27, 
+            28, 
+            53
+          ], 
+          "address": "Pieter Van Hobokenstraat n\u00b0 19", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 54, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 7, 
+        "id": "35c7b9321395e03ee01e85ad31db2546", 
+        "latitude": 51.2218554387671, 
+        "longitude": 4.412985000366758, 
+        "name": "054- Ossenmarkt", 
+        "timestamp": "2017-08-15T04:47:53.400000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            7, 
+            22, 
+            48, 
+            61
+          ], 
+          "address": "Vredestraat/Zonnebloemstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 55, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 16, 
+        "id": "1d02276dd6a7f7c895ec46de3106946a", 
+        "latitude": 51.19697723414253, 
+        "longitude": 4.428231210627736, 
+        "name": "055- Zonnebloemstraat", 
+        "timestamp": "2017-08-15T04:47:53.401000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            50, 
+            51, 
+            57, 
+            60
+          ], 
+          "address": "Minderbroederrui n\u00b0 46", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 56, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 11, 
+        "id": "56ff4830a0fe754f6d0beb6315504ba0", 
+        "latitude": 51.22218731074238, 
+        "longitude": 4.404587621644557, 
+        "name": "056- Minderbroedersrui", 
+        "timestamp": "2017-08-15T04:47:53.401000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            50, 
+            51, 
+            56, 
+            60
+          ], 
+          "address": "Wolstraat - Korte Koepoortstraat 2", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 57, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 1, 
+        "id": "c90e25c230d63c45c404d3e7ac1cab95", 
+        "latitude": 51.22154166666667, 
+        "longitude": 4.402666666666667, 
+        "name": "057- Wolstraat", 
+        "timestamp": "2017-08-15T04:47:53.402000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "NearbyStationList": [
+            49, 
+            50, 
+            59, 
+            135
+          ], 
+          "address": "Jordaenskaai ro Saucierstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 58, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 4, 
+        "id": "eea8f6b5c0eae69f72bf84352a151fb5", 
+        "latitude": 51.22438942950193, 
+        "longitude": 4.399097050370182, 
+        "name": "058- Noorderterras", 
+        "timestamp": "2017-08-15T04:47:53.403000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            20, 
+            60, 
+            64
+          ], 
+          "address": "Ernest Van Dijckkaai ro n\u00b0 13 - Zuiderterras", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 59, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 0, 
+        "id": "9d7a8d9dfc684ccd11653aaea9bf3d3a", 
+        "latitude": 51.22109922330606, 
+        "longitude": 4.396804494276738, 
+        "name": "059- Het Steen", 
+        "timestamp": "2017-08-15T04:47:53.404000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "NearbyStationList": [
+            7, 
+            21, 
+            22, 
+            55
+          ], 
+          "address": "Statiestraat - Victor Jacobslei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 61, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 12, 
+        "id": "b83804063fc870eafce27a9e094dd206", 
+        "latitude": 51.19780966860766, 
+        "longitude": 4.425406466971353, 
+        "name": "061- Victor Jacobslei", 
+        "timestamp": "2017-08-15T04:47:53.407000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "NearbyStationList": [
+            63, 
+            118, 
+            123, 
+            124
+          ], 
+          "address": "Damplein/Lange lobroekstraat ro n\u00b0 222", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 62
+        }, 
+        "free_bikes": 0, 
+        "id": "c93ee4218ac2567f63547840e64c29b1", 
+        "latitude": 51.231828, 
+        "longitude": 4.426978, 
+        "name": "062- Station Dam", 
+        "timestamp": "2017-08-15T04:47:53.408000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            62, 
+            120, 
+            121, 
+            123
+          ], 
+          "address": "Lange Lobroekstraat tov huisnr 93", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 63
+        }, 
+        "free_bikes": 21, 
+        "id": "be2ec8dbabc949b82cf8e6e4ce47da6a", 
+        "latitude": 51.230014, 
+        "longitude": 4.431567, 
+        "name": "063- Slachthuis", 
+        "timestamp": "2017-08-15T04:47:53.409000Z"
+      }, 
+      {
+        "empty_slots": 34, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            20, 
+            59, 
+            65
+          ], 
+          "address": "Plantinkaai ro Jansvliet (Zuiderterras)", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 64, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 0, 
+        "id": "d478f5cceb2f3c7959b70d18a5e9d9f8", 
+        "latitude": 51.21909214669883, 
+        "longitude": 4.394899321136949, 
+        "name": "064- Zuiderterras", 
+        "timestamp": "2017-08-15T04:47:53.410000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            64, 
+            66, 
+            70, 
+            71
+          ], 
+          "address": "Plantinkaai ro n\u00b027", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 65, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 13, 
+        "id": "f71eee732d0f299284ce203b9a6f476c", 
+        "latitude": 51.2164345523202, 
+        "longitude": 4.393691048333439, 
+        "name": "065- Plantinkaai", 
+        "timestamp": "2017-08-15T04:47:53.411000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            17, 
+            20, 
+            64, 
+            67
+          ], 
+          "address": "Drukkerijstraat n\u00b0 26", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 66, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 11, 
+        "id": "c25b4f955a19b07adef0f5ed2033ced5", 
+        "latitude": 51.21708870223401, 
+        "longitude": 4.399251391055215, 
+        "name": "066- Modemuseum", 
+        "timestamp": "2017-08-15T04:47:53.412000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            18, 
+            23, 
+            36, 
+            66
+          ], 
+          "address": "Oudaan n\u00b0 14", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 67, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 12, 
+        "id": "fd17c07dce0344c5897a662112262585", 
+        "latitude": 51.21577842083218, 
+        "longitude": 4.403141962080859, 
+        "name": "067- Oudaan", 
+        "timestamp": "2017-08-15T04:47:53.413000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            69, 
+            107, 
+            108, 
+            132
+          ], 
+          "address": "Turnhoutsebaan/Stenenbrug ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 68, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 12, 
+        "id": "e2672beeaa9034e683c15ad49b53adbe", 
+        "latitude": 51.214571, 
+        "longitude": 4.443683, 
+        "name": "068-  Turnhoutsepoort", 
+        "timestamp": "2017-08-15T04:47:53.414000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            9, 
+            39, 
+            68, 
+            132
+          ], 
+          "address": "Fonteinstraat tov 72", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 69, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 16, 
+        "id": "2343abf347db21b59ef8217033904164", 
+        "latitude": 51.21115942144159, 
+        "longitude": 4.441964470690549, 
+        "name": "069- Fonteinstraat", 
+        "timestamp": "2017-08-15T04:47:53.415000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            65, 
+            66, 
+            71, 
+            76
+          ], 
+          "address": "Sint Andriesplaats n\u00b0 24", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 70, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 21, 
+        "id": "6bb976a0a1a7789ef7161ce303f578d0", 
+        "latitude": 51.21484782149413, 
+        "longitude": 4.396344222405702, 
+        "name": "070- Sint Andries", 
+        "timestamp": "2017-08-15T04:47:53.415000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            35, 
+            65, 
+            70, 
+            74
+          ], 
+          "address": "Sint-Michielskaai ro n\u00b0 21", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 71, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 21, 
+        "id": "308337c2b0fbd8c2df51cda81c7514ed", 
+        "latitude": 51.21522882763002, 
+        "longitude": 4.392818765521578, 
+        "name": "071- Sint-Michielskaai", 
+        "timestamp": "2017-08-15T04:47:53.416000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            16, 
+            73, 
+            74, 
+            76
+          ], 
+          "address": "Kronenburgstraat ro n\u00b0 82", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 72, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 0, 
+        "id": "d6c7a023fc0adb9d7d11d1e50829d273", 
+        "latitude": 51.21187275413007, 
+        "longitude": 4.398986182742563, 
+        "name": "072- Tropisch Instituut", 
+        "timestamp": "2017-08-15T04:47:53.417000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            16, 
+            34, 
+            35, 
+            72
+          ], 
+          "address": "Scheldestraat - Kronenburgstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 74, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 9, 
+        "id": "ea663ed17d82410502a1ece1542a073f", 
+        "latitude": 51.21233419740909, 
+        "longitude": 4.394022819445082, 
+        "name": "074- Vismijn", 
+        "timestamp": "2017-08-15T04:47:53.419000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "NearbyStationList": [
+            15, 
+            34, 
+            35, 
+            82
+          ], 
+          "address": "Vlaamsekaai 35", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 75, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 22, 
+        "id": "a4efe36242a6affbfd662fbe227d3db4", 
+        "latitude": 51.20976696683801, 
+        "longitude": 4.390930567194764, 
+        "name": "075- Vlaamsekaai", 
+        "timestamp": "2017-08-15T04:47:53.420000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            70, 
+            71, 
+            72, 
+            74
+          ], 
+          "address": "Nationalestraat/Lange Vlierstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 76, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 13, 
+        "id": "549158c34fca62147d321e6bf8a59e6b", 
+        "latitude": 51.214035, 
+        "longitude": 4.398093, 
+        "name": "076- Prekersplein", 
+        "timestamp": "2017-08-15T04:47:53.421000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            37, 
+            41, 
+            79, 
+            96
+          ], 
+          "address": "Frankrijklei - Blauwtorenplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 77, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 16, 
+        "id": "47300493794b367997da912159b47586", 
+        "latitude": 51.212753, 
+        "longitude": 4.409466, 
+        "name": "077- Blauwtorenplein", 
+        "timestamp": "2017-08-15T04:47:53.422000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "NearbyStationList": [
+            16, 
+            72, 
+            83, 
+            91
+          ], 
+          "address": "Britselei n\u00b0 82", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 78, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 23, 
+        "id": "e372bc363dff06f05b2d722c2669eea3", 
+        "latitude": 51.20920317182867, 
+        "longitude": 4.40301152163967, 
+        "name": "078- Oud Gerechtshof", 
+        "timestamp": "2017-08-15T04:47:53.423000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            41, 
+            73, 
+            77, 
+            91
+          ], 
+          "address": "Britselei - Mechelsesteenweg", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 79, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 1, 
+        "id": "05a190e6011cb35a350257f9b2b314cf", 
+        "latitude": 51.21103450617727, 
+        "longitude": 4.407260707520346, 
+        "name": "079- Nationale Bank", 
+        "timestamp": "2017-08-15T04:47:53.424000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            15, 
+            83, 
+            85, 
+            94
+          ], 
+          "address": "Amerikalei/Graaf Van Hoornestraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 80
+        }, 
+        "free_bikes": 18, 
+        "id": "3ce163878f598a20d24d55ef6779d3fc", 
+        "latitude": 51.20607381800583, 
+        "longitude": 4.393389834019567, 
+        "name": "080- Montigny", 
+        "timestamp": "2017-08-15T04:47:53.425000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            80, 
+            82, 
+            86, 
+            94
+          ], 
+          "address": "Bolivarplaats rechts van het gerechtsgebouw", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 81, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 19, 
+        "id": "9d66f865282bf0603a919efacdf0ad4c", 
+        "latitude": 51.20468073203386, 
+        "longitude": 4.387671971509639, 
+        "name": "081- Justitiepaleis", 
+        "timestamp": "2017-08-15T04:47:53.426000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "NearbyStationList": [
+            34, 
+            35, 
+            74, 
+            75
+          ], 
+          "address": "Verviersstraat - Waalsekaai", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 82, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 18, 
+        "id": "c912bea0bbe61a8a585464b8b5329165", 
+        "latitude": 51.20877460178484, 
+        "longitude": 4.387372992419973, 
+        "name": "082- Fotografiemuseum", 
+        "timestamp": "2017-08-15T04:47:53.427000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "NearbyStationList": [
+            15, 
+            16, 
+            80, 
+            85
+          ], 
+          "address": "Amerikalei n\u00b0 82", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 83, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 21, 
+        "id": "35753d3dea5c0e37f5f4e6359178757d", 
+        "latitude": 51.20775287832413, 
+        "longitude": 4.39850963935757, 
+        "name": "083- Brederode", 
+        "timestamp": "2017-08-15T04:47:53.428000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            67, 
+            73, 
+            77, 
+            79
+          ], 
+          "address": "Lange Gasthuisstraat ro n\u00b0 3", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 84, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 1, 
+        "id": "7fb639c4a702288d029d3a04f0464574", 
+        "latitude": 51.21344144039645, 
+        "longitude": 4.404966647429536, 
+        "name": "084- Elzenveld", 
+        "timestamp": "2017-08-15T04:47:53.429000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            15, 
+            80, 
+            83, 
+            94
+          ], 
+          "address": "Boudewijnsstraat tegenover n\u00b0 19-21", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 85, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 29, 
+        "id": "5fe893a1f66d70d08aaa1797e0dd36c6", 
+        "latitude": 51.2058323663019, 
+        "longitude": 4.398812741627194, 
+        "name": "085- Den Bell", 
+        "timestamp": "2017-08-15T04:47:53.430000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            12, 
+            81, 
+            87, 
+            94
+          ], 
+          "address": "Broederminstraat 59", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 86, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 8, 
+        "id": "20fbcf2e7de0bb30a60776df378117d1", 
+        "latitude": 51.203349, 
+        "longitude": 4.392348, 
+        "name": "086- Troonplaats", 
+        "timestamp": "2017-08-15T04:47:53.431000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "NearbyStationList": [
+            14, 
+            29, 
+            89, 
+            90
+          ], 
+          "address": "Van Trierstraat - Haantjeslei", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 88, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 20, 
+        "id": "5d78c4dbdeee8a76501ce5410f9f5713", 
+        "latitude": 51.20114051545752, 
+        "longitude": 4.402212232689625, 
+        "name": "088- Haantjeslei", 
+        "timestamp": "2017-08-15T04:47:53.432000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "NearbyStationList": [
+            13, 
+            14, 
+            40, 
+            88
+          ], 
+          "address": "Van Schoonbekestraat - Markgravelei", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 89, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 18, 
+        "id": "c35c9a260c60cca0b71cbe0c6ece4d5f", 
+        "latitude": 51.198425910748, 
+        "longitude": 4.402230221840753, 
+        "name": "089- Hof van Leysen", 
+        "timestamp": "2017-08-15T04:47:53.433000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "NearbyStationList": [
+            29, 
+            88, 
+            91, 
+            92
+          ], 
+          "address": "Vinkenstraat ro n\u00b0 7", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 90, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 18, 
+        "id": "831d5be2fd1f798ce5f08b0e157c657c", 
+        "latitude": 51.20454667572269, 
+        "longitude": 4.40477427576202, 
+        "name": "090- Ballaarstraat", 
+        "timestamp": "2017-08-15T04:47:53.434000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "NearbyStationList": [
+            41, 
+            73, 
+            78, 
+            79
+          ], 
+          "address": "Mechelsesteenweg n\u00b0 66", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 91, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 18, 
+        "id": "3773d1a51091443bb6ed7cfefd9747dc", 
+        "latitude": 51.20882346376338, 
+        "longitude": 4.408297423288219, 
+        "name": "091- Hemelstraat", 
+        "timestamp": "2017-08-15T04:47:53.435000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "NearbyStationList": [
+            29, 
+            42, 
+            43, 
+            93
+          ], 
+          "address": "Mechelsesteenweg n\u00b0 180", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 92, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 20, 
+        "id": "f07b4bb9828280054d3f27aada57844b", 
+        "latitude": 51.20450961188838, 
+        "longitude": 4.410634013269819, 
+        "name": "092- Sint-Thomas", 
+        "timestamp": "2017-08-15T04:47:53.436000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            42, 
+            43, 
+            44, 
+            92
+          ], 
+          "address": "sint vincentius", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 93, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 13, 
+        "id": "7cc97751ec977d34fc265b65aa88732c", 
+        "latitude": 51.20541, 
+        "longitude": 4.41356, 
+        "name": "093- Sint Vincentius", 
+        "timestamp": "2017-08-15T04:47:53.437000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            15, 
+            80, 
+            83, 
+            85
+          ], 
+          "address": "Paleisstraat ", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 94, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 23, 
+        "id": "36e25cb0bf37c14e396e0d37e44b34ae", 
+        "latitude": 51.2048, 
+        "longitude": 4.3961, 
+        "name": "094- Paleisstraat", 
+        "timestamp": "2017-08-15T04:47:53.438000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            24, 
+            37, 
+            96, 
+            116
+          ], 
+          "address": "Quinten Mathijslei n\u00b0 12", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 95, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 14, 
+        "id": "6272054a37db41c716a1c1de993403e4", 
+        "latitude": 51.21415140431763, 
+        "longitude": 4.416319522723214, 
+        "name": "095- Quinten Matsijslei", 
+        "timestamp": "2017-08-15T04:47:53.439000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            37, 
+            41, 
+            77, 
+            95
+          ], 
+          "address": "Rubenslei \u2013 Louiza \u2013 Marialei ", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 96, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 0, 
+        "id": "b48a44f9057ea4c6daad39ddec8c2d8c", 
+        "latitude": 51.2132821418377, 
+        "longitude": 4.413109498483254, 
+        "name": "096- Stadspark", 
+        "timestamp": "2017-08-15T04:47:53.440000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            8, 
+            22, 
+            47, 
+            106
+          ], 
+          "address": "Cuperusstraat ro Lange Leemstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 97, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 11, 
+        "id": "463932f25bd4ec23e4a39953c6ffb3d1", 
+        "latitude": 51.20277981255939, 
+        "longitude": 4.428828981041583, 
+        "name": "097- Cuperus", 
+        "timestamp": "2017-08-15T04:47:53.441000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "NearbyStationList": [
+            42, 
+            43, 
+            46, 
+            47
+          ], 
+          "address": "Boomgaardstraat 31", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 98, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 5, 
+        "id": "23b8b25fad664f8e769ef6c5623702fa", 
+        "latitude": 51.19983991136949, 
+        "longitude": 4.418930242293162, 
+        "name": "098- Haringrode", 
+        "timestamp": "2017-08-15T04:47:53.442000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            14, 
+            31, 
+            46, 
+            131
+          ], 
+          "address": "Generaal Lemanstraat - Karel Oomsstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 99, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 15, 
+        "id": "716fb405294d6fe17a47122c9a6832b2", 
+        "latitude": 51.19706006771547, 
+        "longitude": 4.41026471525441, 
+        "name": "099- Generaal Leman", 
+        "timestamp": "2017-08-15T04:47:53.443000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            21, 
+            46, 
+            103, 
+            131
+          ], 
+          "address": "Frans Van Hombeeckplein 25", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 100, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 14, 
+        "id": "38085cbb4e98a3c1d1e488aa0b152c74", 
+        "latitude": 51.19485112984604, 
+        "longitude": 4.416600409370835, 
+        "name": "100- Van Hombeeckplein", 
+        "timestamp": "2017-08-15T04:47:53.443000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "NearbyStationList": [
+            102, 
+            114, 
+            121, 
+            122
+          ], 
+          "address": "Lange Stuivenbergstraat ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 101, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 33, 
+        "id": "3595794104e6fdac2c20c0ff5279d7a9", 
+        "latitude": 51.2241, 
+        "longitude": 4.432, 
+        "name": "101- Premetro Handel", 
+        "timestamp": "2017-08-15T04:47:53.445000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "NearbyStationList": [
+            101, 
+            109, 
+            114, 
+            115
+          ], 
+          "address": "Duinstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 102, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 12, 
+        "id": "8adc79a6c5deb52ba0dbba890c7374bc", 
+        "latitude": 51.22246101471936, 
+        "longitude": 4.430256657794283, 
+        "name": "102- Duinstraat", 
+        "timestamp": "2017-08-15T04:47:53.446000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            6, 
+            110, 
+            111, 
+            116
+          ], 
+          "address": "Provinciestraat - Mercatorstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 104, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 1, 
+        "id": "79b48b231196e5ad3f9c90110822b85f", 
+        "latitude": 51.20820781231681, 
+        "longitude": 4.424294009067518, 
+        "name": "104- Mercator", 
+        "timestamp": "2017-08-15T04:47:53.447000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            9, 
+            106, 
+            110, 
+            111
+          ], 
+          "address": "Plantin Moretuslei n\u00b0 158", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 105, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 6, 
+        "id": "592be7c4e80dc53cab9b89900f66bdb8", 
+        "latitude": 51.20902773858518, 
+        "longitude": 4.432625218239298, 
+        "name": "105- Plantin en Moretus", 
+        "timestamp": "2017-08-15T04:47:53.448000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            8, 
+            97, 
+            110, 
+            112
+          ], 
+          "address": "Draakplaats", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 106, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 3, 
+        "id": "f587221d01def4cd28c23e4a678644ac", 
+        "latitude": 51.20560903628581, 
+        "longitude": 4.432210218293591, 
+        "name": "106- Draakplaats", 
+        "timestamp": "2017-08-15T04:47:53.449000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "NearbyStationList": [
+            30, 
+            68, 
+            107, 
+            113
+          ], 
+          "address": "Delaraystraat ro n\u00b0 13", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 108, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 19, 
+        "id": "f11a42f5b6526762b4a9ff9ef603d5f8", 
+        "latitude": 51.21602303185675, 
+        "longitude": 4.439968641906528, 
+        "name": "108- Krugerpark", 
+        "timestamp": "2017-08-15T04:47:53.451000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "NearbyStationList": [
+            30, 
+            38, 
+            108, 
+            113
+          ], 
+          "address": "Kerkstraat n\u00b0 58", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 109, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 21, 
+        "id": "e5e71b7793a0b2b21f1c3a474f948a6a", 
+        "latitude": 51.21857958532913, 
+        "longitude": 4.430513466501682, 
+        "name": "109- Kerkstraat", 
+        "timestamp": "2017-08-15T04:47:53.452000Z"
+      }, 
+      {
+        "empty_slots": 34, 
+        "extra": {
+          "NearbyStationList": [
+            104, 
+            105, 
+            106, 
+            111
+          ], 
+          "address": "Dageraadplaats", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 110, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 0, 
+        "id": "7fd050fb5689a40e94640c883a95a5b3", 
+        "latitude": 51.2069431709448, 
+        "longitude": 4.430101723012998, 
+        "name": "110- Dageraadplaats", 
+        "timestamp": "2017-08-15T04:47:53.453000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            6, 
+            104, 
+            105, 
+            110
+          ], 
+          "address": "Plantin en Moretuslei", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 111, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 24, 
+        "id": "ab8c544b1253bad2c274f789d6285d14", 
+        "latitude": 51.2102, 
+        "longitude": 4.4274, 
+        "name": "111- Van Der Meyden", 
+        "timestamp": "2017-08-15T04:47:53.457000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            8, 
+            22, 
+            97, 
+            106
+          ], 
+          "address": "Uitbreidingstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 112, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 23, 
+        "id": "8b5e23d701d1e4f97e4861354f446f5c", 
+        "latitude": 51.20344626609609, 
+        "longitude": 4.436840753419609, 
+        "name": "112- Pretoriastraat", 
+        "timestamp": "2017-08-15T04:47:53.458000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "NearbyStationList": [
+            30, 
+            38, 
+            108, 
+            109
+          ], 
+          "address": "Vercammenstraat - Helmstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 113, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 17, 
+        "id": "e6224304419c541ea0e3270d55246c70", 
+        "latitude": 51.21860899599756, 
+        "longitude": 4.438622043829003, 
+        "name": "113- Helmstraat", 
+        "timestamp": "2017-08-15T04:47:53.459000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "NearbyStationList": [
+            38, 
+            101, 
+            102, 
+            122
+          ], 
+          "address": "Pesthofstraat ro n\u00b0 5", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 114, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 17, 
+        "id": "33b7a37ad8e56502afdf6484abd884b8", 
+        "latitude": 51.22205311877087, 
+        "longitude": 4.433777992711939, 
+        "name": "114- ZNA Stuivenberg", 
+        "timestamp": "2017-08-15T04:47:53.460000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            32, 
+            101, 
+            102, 
+            125
+          ], 
+          "address": "Sint Elisabethstraat - Greinstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 115, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 7, 
+        "id": "386fc352fe8960f01ee610f376b6c0d4", 
+        "latitude": 51.22275442340224, 
+        "longitude": 4.424183815656882, 
+        "name": "115- Metro Elisabeth", 
+        "timestamp": "2017-08-15T04:47:53.461000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "NearbyStationList": [
+            5, 
+            6, 
+            41, 
+            95
+          ], 
+          "address": "Van Eycklei ro n\u00b0 48", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 116, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 13, 
+        "id": "1dbd5d7c3fd01024f306896093f2197e", 
+        "latitude": 51.21009600631509, 
+        "longitude": 4.417215972702701, 
+        "name": "116- Loosplaats", 
+        "timestamp": "2017-08-15T04:47:53.462000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            52, 
+            53, 
+            118, 
+            125
+          ], 
+          "address": "Sint Jansplein ro n\u00b0 17", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 117, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 17, 
+        "id": "b14da541240887dfec725fd08e44bba8", 
+        "latitude": 51.22541936981867, 
+        "longitude": 4.418404418360266, 
+        "name": "117- Sint Jansplein", 
+        "timestamp": "2017-08-15T04:47:53.462000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "NearbyStationList": [
+            123, 
+            124, 
+            125, 
+            126
+          ], 
+          "address": "Trapstraat n\u00b0 10", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 118, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 21, 
+        "id": "dde1b0f4e476431ad65254e635740e60", 
+        "latitude": 51.2271420870328, 
+        "longitude": 4.422247361006011, 
+        "name": "118- Dambrugge", 
+        "timestamp": "2017-08-15T04:47:53.463000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "NearbyStationList": [
+            1, 
+            2, 
+            3, 
+            5
+          ], 
+          "address": "Provinciestraat (plein)", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 119, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 19, 
+        "id": "a4701be946dc91fed9dba5127df09baa", 
+        "latitude": 51.21537176619199, 
+        "longitude": 4.425367882174795, 
+        "name": "119- Ploeg", 
+        "timestamp": "2017-08-15T04:47:53.464000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            63, 
+            101, 
+            122, 
+            123
+          ], 
+          "address": "Stuivenbergplein ro n\u00b0 36-1", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 121, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 15, 
+        "id": "b9f3eacb70e8fb879703bc86de05829e", 
+        "latitude": 51.2274604194794, 
+        "longitude": 4.430533809533261, 
+        "name": "121- Stuivenbergplein", 
+        "timestamp": "2017-08-15T04:47:53.466000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            101, 
+            114, 
+            120, 
+            121
+          ], 
+          "address": "Pothoekstraat ro n\u00b0 124", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 122, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 4, 
+        "id": "ae3f0aac68c6aff977d7c32fea5ac49b", 
+        "latitude": 51.22470882205263, 
+        "longitude": 4.436567207739302, 
+        "name": "122- Schijnpoort", 
+        "timestamp": "2017-08-15T04:47:53.467000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            62, 
+            63, 
+            118, 
+            124
+          ], 
+          "address": "Vis\u00e9straat 16", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 123, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 6, 
+        "id": "624e32416ed9c50f24bea3d7cc7134af", 
+        "latitude": 51.22903876862169, 
+        "longitude": 4.424935536896917, 
+        "name": "123- Park Spoor Noord 2", 
+        "timestamp": "2017-08-15T04:47:53.468000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "NearbyStationList": [
+            118, 
+            123, 
+            126, 
+            127
+          ], 
+          "address": "Ellermansstraat \u2013 Fuggerstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 124, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 0, 
+        "id": "e4e56f375503ecaede10ba3b8d933e18", 
+        "latitude": 51.229962, 
+        "longitude": 4.419613, 
+        "name": "124- Park Spoor Noord 1", 
+        "timestamp": "2017-08-15T04:47:53.469000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            115, 
+            117, 
+            118, 
+            123
+          ], 
+          "address": "Sint-Norbertusstraat/Van Kerckhovenstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 125, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 12, 
+        "id": "3a3d32dfa39bafc626f8cc8e70c7d02e", 
+        "latitude": 51.22595564552162, 
+        "longitude": 4.4234741982066, 
+        "name": "125- Sint-Norbertus", 
+        "timestamp": "2017-08-15T04:47:53.470000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            118, 
+            123, 
+            124, 
+            125
+          ], 
+          "address": "Lange Dijkstraat 46/ Van Aerdtstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 126, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 21, 
+        "id": "aab9663e22436b5d7c2afc7917fd26b9", 
+        "latitude": 51.22805003403131, 
+        "longitude": 4.419015786408293, 
+        "name": "126- Lange Dijk", 
+        "timestamp": "2017-08-15T04:47:53.472000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            52, 
+            129, 
+            133, 
+            139
+          ], 
+          "address": "Itali\u00eblei n\u00b0 4", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 127, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 15, 
+        "id": "ff2dc85bb6538619b3381e998d9dda6c", 
+        "latitude": 51.22857844475766, 
+        "longitude": 4.413307095780299, 
+        "name": "127- FOD Financi\u00ebn", 
+        "timestamp": "2017-08-15T04:47:53.473000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            43, 
+            44, 
+            47, 
+            97
+          ], 
+          "address": "Lamorini\u00e8restraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 130, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 8, 
+        "id": "e4ccd83c664e3161947376dcd60e768a", 
+        "latitude": 51.2038, 
+        "longitude": 4.4208, 
+        "name": "130- Lamoriniere", 
+        "timestamp": "2017-08-15T04:47:53.476000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "NearbyStationList": [
+            21, 
+            31, 
+            99, 
+            100
+          ], 
+          "address": "De wittestraat - Generaal Lemanstraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 131, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 16, 
+        "id": "3f8eca5f509d28b61d1e6473534c9aab", 
+        "latitude": 51.19375625338252, 
+        "longitude": 4.41215292934981, 
+        "name": "131- De Wittestraat", 
+        "timestamp": "2017-08-15T04:47:53.477000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "NearbyStationList": [
+            9, 
+            39, 
+            69, 
+            107
+          ], 
+          "address": "Maarschalk Montgomeryplein ro n\u00b0 4", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 132, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 14, 
+        "id": "1c3afd014484685feb1def1e33d9eea1", 
+        "latitude": 51.21177359796551, 
+        "longitude": 4.437785965534147, 
+        "name": "132- Montgomery", 
+        "timestamp": "2017-08-15T04:47:53.478000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            127, 
+            129, 
+            134, 
+            137
+          ], 
+          "address": "Entrepotkaai n\u00b0 1", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 133, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 1, 
+        "id": "f6cf8e88f31b618364db2012cdd6b938", 
+        "latitude": 51.22958146712338, 
+        "longitude": 4.411349321449047, 
+        "name": "133- Willemdok", 
+        "timestamp": "2017-08-15T04:47:53.480000Z"
+      }, 
+      {
+        "empty_slots": 35, 
+        "extra": {
+          "NearbyStationList": [
+            129, 
+            133, 
+            134, 
+            138
+          ], 
+          "address": "napeleonkaai/Nassaustraat ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 137, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 0, 
+        "id": "837bcb1e874bacd6b07c4ca07ce05653", 
+        "latitude": 51.229779, 
+        "longitude": 4.405748, 
+        "name": "137- Sint-Laureiskaai", 
+        "timestamp": "2017-08-15T04:47:53.485000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "NearbyStationList": [
+            133, 
+            134, 
+            137, 
+            139
+          ], 
+          "address": "Amsterdamstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 138, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 1, 
+        "id": "862bbeca95cb223a92d41068523739a9", 
+        "latitude": 51.2311985275547, 
+        "longitude": 4.403552339080501, 
+        "name": "138- Amsterdamstraat", 
+        "timestamp": "2017-08-15T04:47:53.486000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            141, 
+            142, 
+            144, 
+            146
+          ], 
+          "address": "Goethestraat/Thoneth", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 140, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 25, 
+        "id": "4e427249fa9037f88572ff50ff044081", 
+        "latitude": 51.23142266636172, 
+        "longitude": 4.391627018623872, 
+        "name": "140- Jachthaven LO", 
+        "timestamp": "2017-08-15T04:47:53.489000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            140, 
+            142, 
+            144, 
+            146
+          ], 
+          "address": "Gloriantlaan/Kastanjedreef", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 141, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 12, 
+        "id": "5c5146e82bb4d0938e3002ede5447871", 
+        "latitude": 51.2352525700327, 
+        "longitude": 4.386875385241651, 
+        "name": "141- Sint-Anna", 
+        "timestamp": "2017-08-15T04:47:53.490000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            141, 
+            144, 
+            145, 
+            146
+          ], 
+          "address": "Esmoreitlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 142, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 24, 
+        "id": "9f557e5e33369b06c2a7e5f3136f5d15", 
+        "latitude": 51.2334399800564, 
+        "longitude": 4.382542133810354, 
+        "name": "142- Esmoreitlaan", 
+        "timestamp": "2017-08-15T04:47:53.492000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            140, 
+            141, 
+            142, 
+            146
+          ], 
+          "address": "Gloriantlaan/Melis Stokelaan 24  ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 143, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 17, 
+        "id": "cbf8bd1c91522dcf8f5b060839a74a47", 
+        "latitude": 51.231146, 
+        "longitude": 4.386179, 
+        "name": "143- Melis Stokelaan", 
+        "timestamp": "2017-08-15T04:47:53.493000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            141, 
+            142, 
+            145, 
+            146
+          ], 
+          "address": "August Vermeylenlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 144, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 17, 
+        "id": "b6f06788ef5b09ef7db35b93a9fb09c4", 
+        "latitude": 51.23126710565874, 
+        "longitude": 4.37866980097149, 
+        "name": "144- August Vermeylenlaan", 
+        "timestamp": "2017-08-15T04:47:53.495000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "NearbyStationList": [
+            142, 
+            144, 
+            146, 
+            147
+          ], 
+          "address": "August Vermeylenlaan/ Charles de Costerlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 145, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 3, 
+        "id": "879c3b625d70f187d5a57232332e4cac", 
+        "latitude": 51.22784221343208, 
+        "longitude": 4.378550835716943, 
+        "name": "145- De Coster", 
+        "timestamp": "2017-08-15T04:47:53.496000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            148, 
+            150, 
+            151, 
+            152
+          ], 
+          "address": "Halewijnlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 147, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 16, 
+        "id": "d6fd726e2fd8a6b86931ebf9365e000f", 
+        "latitude": 51.22391870297562, 
+        "longitude": 4.377876746950817, 
+        "name": "147- Halewijnlaan", 
+        "timestamp": "2017-08-15T04:47:53.499000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            146, 
+            147, 
+            149, 
+            150
+          ], 
+          "address": "Frederik Van Eedenstraa", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 148, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 23, 
+        "id": "cd120d8db3aeeb7c3f756ea1c866f952", 
+        "latitude": 51.22319820902703, 
+        "longitude": 4.386220088490688, 
+        "name": "148- Verhaerenlaan", 
+        "timestamp": "2017-08-15T04:47:53.500000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "NearbyStationList": [
+            148, 
+            150, 
+            151, 
+            153
+          ], 
+          "address": "Blancefloerlaan tov Frederik van Eedenplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 149, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 0, 
+        "id": "a08698011c87be4cf122f10d209ca25e", 
+        "latitude": 51.22061309991433, 
+        "longitude": 4.386331953024964, 
+        "name": "149- Van Eedenplein", 
+        "timestamp": "2017-08-15T04:47:53.501000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "NearbyStationList": [
+            149, 
+            151, 
+            152, 
+            153
+          ], 
+          "address": "Waterhoenlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 150, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 16, 
+        "id": "d56789d1530788660be93a234cc3ca28", 
+        "latitude": 51.22007348867427, 
+        "longitude": 4.381723278952854, 
+        "name": "150- Waterhoenlaan", 
+        "timestamp": "2017-08-15T04:47:53.503000Z"
+      }, 
+      {
+        "empty_slots": 33, 
+        "extra": {
+          "NearbyStationList": [
+            149, 
+            150, 
+            152, 
+            153
+          ], 
+          "address": "Blancefloerlaan/Halewijnlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 151, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 3, 
+        "id": "3d5865c5425bac7de8029ae39eea52e2", 
+        "latitude": 51.22031300886957, 
+        "longitude": 4.378407092993419, 
+        "name": "151- Van Cauwelaert", 
+        "timestamp": "2017-08-15T04:47:53.503000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "NearbyStationList": [
+            147, 
+            149, 
+            150, 
+            151
+          ], 
+          "address": "Blancefloerlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 152, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 3, 
+        "id": "d6bfd216706f3bb79b3a9eb0d6f1f3bf", 
+        "latitude": 51.22007304015533, 
+        "longitude": 4.375590099454385, 
+        "name": "152- Blancefloerlaan", 
+        "timestamp": "2017-08-15T04:47:53.504000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            148, 
+            149, 
+            150, 
+            151
+          ], 
+          "address": "Beatrijslaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 153, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 16, 
+        "id": "44fffb6a87ec31205ee93495dcf4fc9c", 
+        "latitude": 51.21852860322108, 
+        "longitude": 4.385706443546232, 
+        "name": "153- Beatrijslaan", 
+        "timestamp": "2017-08-15T04:47:53.505000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "NearbyStationList": [
+            208, 
+            213, 
+            216, 
+            218
+          ], 
+          "address": "Van Praetlei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 207, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 5, 
+        "id": "75f6470de4f446355466fd7c0a830d82", 
+        "latitude": 51.253646, 
+        "longitude": 4.463693, 
+        "name": "207- Winkelstap", 
+        "timestamp": "2017-08-15T04:47:53.518000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            229, 
+            231, 
+            233, 
+            237
+          ], 
+          "address": "Bosuil", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 230, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 20, 
+        "id": "6fda25a94b758371b15904fa85e237d5", 
+        "latitude": 51.229092, 
+        "longitude": 4.46191, 
+        "name": "230- Bosuil", 
+        "timestamp": "2017-08-15T04:47:53.541000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            230, 
+            233, 
+            236, 
+            238
+          ], 
+          "address": "Ter Heydenlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 231, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 22, 
+        "id": "c5ab65b96316698aad2f55fe6ddec6c1", 
+        "latitude": 51.22922, 
+        "longitude": 4.467826, 
+        "name": "231- den Antwerp", 
+        "timestamp": "2017-08-15T04:47:53.542000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            252, 
+            253, 
+            257, 
+            259
+          ], 
+          "address": "Helderstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 256, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 12, 
+        "id": "cfb36560518c93333eb7742b14b6bbb6", 
+        "latitude": 51.195455, 
+        "longitude": 4.442231, 
+        "name": "256- Zillebeek", 
+        "timestamp": "2017-08-15T04:47:53.564000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "NearbyStationList": [
+            33, 
+            52, 
+            54, 
+            117
+          ], 
+          "address": "Paardenmarkt - Kleine Kauwenberg", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 53, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 12, 
+        "id": "3bae3c1897e250d4d6b19b9a2b4e910a", 
+        "latitude": 51.22465145423593, 
+        "longitude": 4.413298397408935, 
+        "name": "053- Paardenmarkt", 
+        "timestamp": "2017-08-15T04:47:53.399000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            276, 
+            277, 
+            280, 
+            282
+          ], 
+          "address": "Hof van Tichelen", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 281, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 12, 
+        "id": "9c2c852d18b69ef9249784fdc3030b56", 
+        "latitude": 51.182476, 
+        "longitude": 4.385404, 
+        "name": "281- Hof van Tichelen", 
+        "timestamp": "2017-08-15T04:47:53.588000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "NearbyStationList": [
+            293, 
+            296, 
+            297, 
+            300
+          ], 
+          "address": "C.Huysmanslaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 299, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 13, 
+        "id": "1e6b6bc6d0225966f6ab8cc57133aba2", 
+        "latitude": 51.191955, 
+        "longitude": 4.398349, 
+        "name": "299- Antwerp expo", 
+        "timestamp": "2017-08-15T04:47:53.606000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "NearbyStationList": [
+            30, 
+            39, 
+            105, 
+            132
+          ], 
+          "address": "Moorkensplein ro n\u00b0 33A", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 107, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 18, 
+        "id": "89638b44feba8b2c2b7a34719279d23a", 
+        "latitude": 51.21366084739251, 
+        "longitude": 4.433276632960023, 
+        "name": "107- Moorkensplein", 
+        "timestamp": "2017-08-15T04:47:53.450000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            45, 
+            50, 
+            58, 
+            135
+          ], 
+          "address": "Sint-Pietersvliet - Tolhuis", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 49, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 13, 
+        "id": "a83fe9add27d9e73db9e272eaac96887", 
+        "latitude": 51.22585357094437, 
+        "longitude": 4.40085616916769, 
+        "name": "049- Tolhuis", 
+        "timestamp": "2017-08-15T04:47:53.395000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "NearbyStationList": [
+            10, 
+            40, 
+            86, 
+            87
+          ], 
+          "address": "De Singel/ Brederodestraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 12, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 20, 
+        "id": "a659f13b1a9cad9e7da171c20b9de3c6", 
+        "latitude": 51.199306, 
+        "longitude": 4.390135, 
+        "name": "012- Brussel", 
+        "timestamp": "2017-08-15T04:47:53.359000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            140, 
+            144, 
+            145, 
+            147
+          ], 
+          "address": "Gloriantlaan/Reinaartlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 146, 
+          "zip": "2050"
+        }, 
+        "free_bikes": 10, 
+        "id": "344a90976b674f7f0de3a07389363bea", 
+        "latitude": 51.22777877150836, 
+        "longitude": 4.385890517853628, 
+        "name": "146- Reinaartlaan", 
+        "timestamp": "2017-08-15T04:47:53.497000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            68, 
+            108, 
+            113, 
+            122
+          ], 
+          "address": "Terloplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 154, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 14, 
+        "id": "406ce7f5996dc5fa45f72367eab1accd", 
+        "latitude": 51.219068, 
+        "longitude": 4.444364, 
+        "name": "154- Terloplein", 
+        "timestamp": "2017-08-15T04:47:53.506000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "NearbyStationList": [
+            21, 
+            61, 
+            100, 
+            103
+          ], 
+          "address": "Binnensingel ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 157, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 8, 
+        "id": "36cb448797e036a2ce9bbefae1c70f6f", 
+        "latitude": 51.192502, 
+        "longitude": 4.42158, 
+        "name": "157- Berchem Kerk", 
+        "timestamp": "2017-08-15T04:47:53.509000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            87, 
+            88, 
+            94, 
+            159
+          ], 
+          "address": "Zuidervelodroom", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 158, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 16, 
+        "id": "6fae1e5b0278616bfd57a4134ea1e46c", 
+        "latitude": 51.201926, 
+        "longitude": 4.398386, 
+        "name": "158- Zuidervelodroom", 
+        "timestamp": "2017-08-15T04:47:53.511000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "NearbyStationList": [
+            83, 
+            85, 
+            90, 
+            94
+          ], 
+          "address": "Boudewijnsstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 159, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 24, 
+        "id": "cbcf9862b3dfafc2330307d20127f778", 
+        "latitude": 51.205596, 
+        "longitude": 4.399275, 
+        "name": "159- Den Bell 2", 
+        "timestamp": "2017-08-15T04:47:53.512000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            209, 
+            211, 
+            214, 
+            221
+          ], 
+          "address": "Dublinstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 202, 
+          "zip": "2030"
+        }, 
+        "free_bikes": 12, 
+        "id": "1b7c4d4cd6ecafcaf89593f211a32fd3", 
+        "latitude": 51.257272, 
+        "longitude": 4.421638, 
+        "name": "202- Squarepark", 
+        "timestamp": "2017-08-15T04:47:53.513000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "NearbyStationList": [
+            202, 
+            206, 
+            210, 
+            214
+          ], 
+          "address": "Venezuelastraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 203, 
+          "zip": "2030"
+        }, 
+        "free_bikes": 15, 
+        "id": "32fbfd650b0ac2918b0ca812551bf40c", 
+        "latitude": 51.253611, 
+        "longitude": 4.423168, 
+        "name": "203- Venezuelastraat", 
+        "timestamp": "2017-08-15T04:47:53.514000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            203, 
+            214, 
+            221, 
+            303
+          ], 
+          "address": "Bermstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 206, 
+          "zip": "2030"
+        }, 
+        "free_bikes": 16, 
+        "id": "4c850c9e76c8eb86f010854df312c6a1", 
+        "latitude": 51.244502, 
+        "longitude": 4.423089, 
+        "name": "206- Station Luchtbal", 
+        "timestamp": "2017-08-15T04:47:53.518000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            207, 
+            209, 
+            213, 
+            217
+          ], 
+          "address": "Ringlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 208, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 13, 
+        "id": "0f0458db3b6fdead4268f6dc39a48408", 
+        "latitude": 51.25451, 
+        "longitude": 4.45469, 
+        "name": "208- Ringlaan Atheneum", 
+        "timestamp": "2017-08-15T04:47:53.519000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "NearbyStationList": [
+            208, 
+            210, 
+            212, 
+            213
+          ], 
+          "address": "Korte Bremstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 209, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 7, 
+        "id": "3ca5fd2ec1642807790cf8bcc7192cf4", 
+        "latitude": 51.25644, 
+        "longitude": 4.447149, 
+        "name": "209- Melgeshof", 
+        "timestamp": "2017-08-15T04:47:53.520000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "NearbyStationList": [
+            210, 
+            211, 
+            213, 
+            215
+          ], 
+          "address": "Rodeloopstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 212, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 8, 
+        "id": "631b0e869c35c5d20f103e715680cec1", 
+        "latitude": 51.250909, 
+        "longitude": 4.442306, 
+        "name": "212- Rode Loop", 
+        "timestamp": "2017-08-15T04:47:53.523000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            208, 
+            209, 
+            212, 
+            217
+          ], 
+          "address": "Kroonplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 213, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 15, 
+        "id": "1e8d07ae567b023428dfb5883cde703e", 
+        "latitude": 51.251476, 
+        "longitude": 4.448053, 
+        "name": "213- Kroonplein", 
+        "timestamp": "2017-08-15T04:47:53.524000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            210, 
+            211, 
+            212, 
+            215
+          ], 
+          "address": "Kerkhofblommenstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 214, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 19, 
+        "id": "cf81044c060f91305275adeacd372e12", 
+        "latitude": 51.2481, 
+        "longitude": 4.432336, 
+        "name": "214- Kerkhofblommen", 
+        "timestamp": "2017-08-15T04:47:53.525000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "NearbyStationList": [
+            211, 
+            212, 
+            214, 
+            219
+          ], 
+          "address": "Nieuwdreef", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 215, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 7, 
+        "id": "e71b4c30ca21a80ec9fc115fb1e92c88", 
+        "latitude": 51.246713, 
+        "longitude": 4.44015, 
+        "name": "215- Nieuwdreef", 
+        "timestamp": "2017-08-15T04:47:53.526000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            213, 
+            217, 
+            219, 
+            220
+          ], 
+          "address": "Van Heybeeckstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 216, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 19, 
+        "id": "a038e5e419f098f5dd869d5b8a22634b", 
+        "latitude": 51.247269, 
+        "longitude": 4.44902, 
+        "name": "216- Zwembad Merksem", 
+        "timestamp": "2017-08-15T04:47:53.527000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            207, 
+            208, 
+            213, 
+            216
+          ], 
+          "address": "Bredabaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 217, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 20, 
+        "id": "509e4b014c051882a06e165974660f13", 
+        "latitude": 51.249165, 
+        "longitude": 4.454677, 
+        "name": "217- Joske Vermeulen", 
+        "timestamp": "2017-08-15T04:47:53.528000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            215, 
+            216, 
+            217, 
+            219
+          ], 
+          "address": "Sint-Bartholomeusstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 220, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 6, 
+        "id": "d839ed63f64feac631ebb15e5bb58099", 
+        "latitude": 51.243145, 
+        "longitude": 4.447397, 
+        "name": "220- 't Dokske", 
+        "timestamp": "2017-08-15T04:47:53.531000Z"
+      }, 
+      {
+        "empty_slots": 29, 
+        "extra": {
+          "NearbyStationList": [
+            129, 
+            133, 
+            139
+          ], 
+          "address": "Verbindingsdok/Oostkaai", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 225, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 6, 
+        "id": "25b6f1244db85dba2d89dbbc114464ae", 
+        "latitude": 51.230484, 
+        "longitude": 4.407688, 
+        "name": "225- Verbindingsdok Eilandje", 
+        "timestamp": "2017-08-15T04:47:53.536000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "NearbyStationList": [
+            120, 
+            122, 
+            219, 
+            229
+          ], 
+          "address": "Van Amstelstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 227, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 14, 
+        "id": "84b3998a02141daca1ea3da76d1e37c6", 
+        "latitude": 51.232764, 
+        "longitude": 4.44433, 
+        "name": "227- Amstel", 
+        "timestamp": "2017-08-15T04:47:53.538000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "NearbyStationList": [
+            227, 
+            230, 
+            235, 
+            236
+          ], 
+          "address": "Jozef Nellenslei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 229, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 11, 
+        "id": "2ebd60612013afa6c8c276d10798c344", 
+        "latitude": 51.226159, 
+        "longitude": 4.451985, 
+        "name": "229- Jozef Nellens", 
+        "timestamp": "2017-08-15T04:47:53.540000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            242, 
+            243, 
+            244, 
+            251
+          ], 
+          "address": "Arenaplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 246, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 13, 
+        "id": "d52b19ed3b8d3fc4e0565c4852590307", 
+        "latitude": 51.206946, 
+        "longitude": 4.458333, 
+        "name": "246- Arena", 
+        "timestamp": "2017-08-15T04:47:53.555000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            251, 
+            252, 
+            254, 
+            257
+          ], 
+          "address": "Vosstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 253, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 16, 
+        "id": "890fa50a7c419a4d90766169eadb669e", 
+        "latitude": 51.198064, 
+        "longitude": 4.453219, 
+        "name": "253- Vosplein", 
+        "timestamp": "2017-08-15T04:47:53.561000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            251, 
+            252, 
+            253, 
+            255
+          ], 
+          "address": "Boekenberglei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 254, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 10, 
+        "id": "61517c499e10505041646b41596a1dfc", 
+        "latitude": 51.197541, 
+        "longitude": 4.459599, 
+        "name": "254- Sint-Jozef", 
+        "timestamp": "2017-08-15T04:47:53.562000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            252, 
+            253, 
+            254, 
+            256
+          ], 
+          "address": "Hofstadestraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 257, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 12, 
+        "id": "e4dff8f6498af4f9c1377cc53d6fee77", 
+        "latitude": 51.192327, 
+        "longitude": 4.44875, 
+        "name": "257- Hofstade", 
+        "timestamp": "2017-08-15T04:47:53.565000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            259, 
+            261, 
+            262, 
+            265
+          ], 
+          "address": "Filip Williotstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 264, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 17, 
+        "id": "a937a21918c559b8fd60d5e6b330b963", 
+        "latitude": 51.187649, 
+        "longitude": 4.435101, 
+        "name": "264- Filip Williotstraat", 
+        "timestamp": "2017-08-15T04:47:53.571000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            261, 
+            262, 
+            264, 
+            269
+          ], 
+          "address": "Pulhoflaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 265, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 19, 
+        "id": "23dd7aba8088ff82bd3213d2bc1b1e46", 
+        "latitude": 51.185138, 
+        "longitude": 4.432041, 
+        "name": "265- Pulhof", 
+        "timestamp": "2017-08-15T04:47:53.572000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "NearbyStationList": [
+            260, 
+            265, 
+            269, 
+            270
+          ], 
+          "address": "Lindendreef", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 268, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 11, 
+        "id": "e48285ca5adfc52a58f272a77a25641a", 
+        "latitude": 51.182961, 
+        "longitude": 4.418486, 
+        "name": "268- ZNA Middelheim", 
+        "timestamp": "2017-08-15T04:47:53.575000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            260, 
+            261, 
+            265, 
+            268
+          ], 
+          "address": "Elisabethlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 269, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 18, 
+        "id": "7a136abd5757c2d8a6cfc1b6a934e983", 
+        "latitude": 51.183092, 
+        "longitude": 4.42431, 
+        "name": "269- Middelheim", 
+        "timestamp": "2017-08-15T04:47:53.576000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "NearbyStationList": [
+            31, 
+            131, 
+            273, 
+            277
+          ], 
+          "address": "Eglantierlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 270, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 11, 
+        "id": "c7e125b3e74e9b005e01d03552d9af05", 
+        "latitude": 51.186453, 
+        "longitude": 4.404271, 
+        "name": "270- Dikke Mee", 
+        "timestamp": "2017-08-15T04:47:53.577000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "NearbyStationList": [
+            268, 
+            269, 
+            275, 
+            277
+          ], 
+          "address": "Oosterveldlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 273, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 11, 
+        "id": "d627b21d49327e7f3a0d2eb1ea19078e", 
+        "latitude": 51.17582, 
+        "longitude": 4.412831, 
+        "name": "273- Campus Groenenborger", 
+        "timestamp": "2017-08-15T04:47:53.580000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            270, 
+            273, 
+            275, 
+            280
+          ], 
+          "address": "Ahornenlaan ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 277, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 18, 
+        "id": "188ea14c545ac253b06fa0ca85caa5c8", 
+        "latitude": 51.177078, 
+        "longitude": 4.399725, 
+        "name": "277- Ahornen", 
+        "timestamp": "2017-08-15T04:47:53.584000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "NearbyStationList": [
+            274, 
+            275, 
+            277, 
+            279
+          ], 
+          "address": "Oversneslaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 278, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 11, 
+        "id": "761c62ac3c873599a9a07dd494087b54", 
+        "latitude": 51.16533, 
+        "longitude": 4.393937, 
+        "name": "278- Oversnes", 
+        "timestamp": "2017-08-15T04:47:53.585000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            270, 
+            274, 
+            277, 
+            280
+          ], 
+          "address": "Letterkundestraat 61", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 282, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 11, 
+        "id": "1c05867bee09ceb6f7e670a971e042f8", 
+        "latitude": 51.180232, 
+        "longitude": 4.380868, 
+        "name": "282- De Letter", 
+        "timestamp": "2017-08-15T04:47:53.589000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            281, 
+            284, 
+            288, 
+            290
+          ], 
+          "address": "Hollebeekstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 283, 
+          "zip": "2660"
+        }, 
+        "free_bikes": 11, 
+        "id": "e9cd6e5d2a656fac2d807d7e0662bbd1", 
+        "latitude": 51.181666, 
+        "longitude": 4.37203, 
+        "name": "283- Hollebeek", 
+        "timestamp": "2017-08-15T04:47:53.590000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            285, 
+            286, 
+            288, 
+            289
+          ], 
+          "address": "Antwerpsesteenweg", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 287, 
+          "zip": "2660"
+        }, 
+        "free_bikes": 16, 
+        "id": "e4538228faac22ad048012449ed0aefa", 
+        "latitude": 51.177484, 
+        "longitude": 4.35076, 
+        "name": "287- Kioskplaats/Centrum", 
+        "timestamp": "2017-08-15T04:47:53.594000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            284, 
+            292, 
+            294, 
+            295
+          ], 
+          "address": "Maurits Sabbelaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 291, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 18, 
+        "id": "267e1cab6728ffc96438442849d4ca6b", 
+        "latitude": 51.188503, 
+        "longitude": 4.372703, 
+        "name": "291- Braem blokken", 
+        "timestamp": "2017-08-15T04:47:53.599000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            62, 
+            63, 
+            123, 
+            136
+          ], 
+          "address": "Noordschippersdok 41", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 226, 
+          "zip": "2060"
+        }, 
+        "free_bikes": 25, 
+        "id": "18178733c33177aa5e39e88c2b996c6d", 
+        "latitude": 51.233902, 
+        "longitude": 4.429735, 
+        "name": "226- Noordschippersdok", 
+        "timestamp": "2017-08-15T04:47:53.537000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            281, 
+            283, 
+            293, 
+            298
+          ], 
+          "address": "Rozenkrans", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 302, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 13, 
+        "id": "5d30d1688ef2b7ca2d0654b6da604ab6", 
+        "latitude": 51.179041, 
+        "longitude": 4.390479, 
+        "name": "302- Rozenkrans", 
+        "timestamp": "2017-08-15T04:47:53.608000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "NearbyStationList": [
+            256, 
+            257, 
+            259, 
+            263
+          ], 
+          "address": "Luchthaven ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 301, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 20, 
+        "id": "ffe33a9336b5f8d323488305ca1ff7c4", 
+        "latitude": 51.18884, 
+        "longitude": 4.450391, 
+        "name": "301- Luchthaven ", 
+        "timestamp": "2017-08-15T04:47:53.608000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "NearbyStationList": [
+            204, 
+            206, 
+            221, 
+            303
+          ], 
+          "address": "Groenendaallaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 205, 
+          "zip": "2030"
+        }, 
+        "free_bikes": 14, 
+        "id": "57a38ff11afc20cf057cf2c757eb0811", 
+        "latitude": 51.244781, 
+        "longitude": 4.414339, 
+        "name": "205- Kinepolis", 
+        "timestamp": "2017-08-15T04:47:53.517000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            293, 
+            296, 
+            297, 
+            299
+          ], 
+          "address": "Vogelzanglaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 300, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 17, 
+        "id": "74246fcf86bfe305d706a24b950f0f3e", 
+        "latitude": 51.188747, 
+        "longitude": 4.397701, 
+        "name": "300- Wilrijksepleinen", 
+        "timestamp": "2017-08-15T04:47:53.607000Z"
+      }, 
+      {
+        "empty_slots": 36, 
+        "extra": {
+          "NearbyStationList": [
+            45, 
+            49, 
+            50, 
+            58
+          ], 
+          "address": "Sint-Aldegondiskaai", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 135, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 0, 
+        "id": "5fa4219d975d72c04bf5422666cd0d24", 
+        "latitude": 51.22797085, 
+        "longitude": 4.40202775, 
+        "name": "135- Loodswezen", 
+        "timestamp": "2017-08-15T04:47:53.482000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            263, 
+            265, 
+            269, 
+            272
+          ], 
+          "address": "Fruithoflaan - Sint-Theresiastraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 266, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 11, 
+        "id": "5694eaa4010163e7d0e8bf3466ffdf54", 
+        "latitude": 51.180764, 
+        "longitude": 4.434712, 
+        "name": "266- Fruithoflaan 1", 
+        "timestamp": "2017-08-15T04:47:53.573000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "NearbyStationList": [
+            55, 
+            256, 
+            262, 
+            264
+          ], 
+          "address": "Posthofbrug", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 259, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 5, 
+        "id": "a4c4b6d4912212f96d65866baf2a4356", 
+        "latitude": 51.193321, 
+        "longitude": 4.437033, 
+        "name": "259- Posthofbrug", 
+        "timestamp": "2017-08-15T04:47:53.567000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            68, 
+            108, 
+            113, 
+            154
+          ], 
+          "address": "Statielei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 155, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 18, 
+        "id": "c7fecc41df052aa19e0ac25f998f81c4", 
+        "latitude": 51.215834, 
+        "longitude": 4.445555, 
+        "name": "155- Statielei", 
+        "timestamp": "2017-08-15T04:47:53.507000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            209, 
+            211, 
+            212, 
+            213
+          ], 
+          "address": "Maantjessteenweg", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 210, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 24, 
+        "id": "ba33b2da0e1182aac5da5438448f22e5", 
+        "latitude": 51.255228, 
+        "longitude": 4.435762, 
+        "name": "210- Maantjessteenweg", 
+        "timestamp": "2017-08-15T04:47:53.521000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "NearbyStationList": [
+            210, 
+            212, 
+            214, 
+            215
+          ], 
+          "address": "Rodeloopstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 211, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 13, 
+        "id": "a4c0f72e37f764c82dea3fdf79815dc8", 
+        "latitude": 51.251312, 
+        "longitude": 4.437315, 
+        "name": "211- Cultuurcentrum", 
+        "timestamp": "2017-08-15T04:47:53.522000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            211, 
+            215, 
+            216, 
+            220
+          ], 
+          "address": "Borrewaterstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 219, 
+          "zip": "2170"
+        }, 
+        "free_bikes": 10, 
+        "id": "0264ae8ae488f8c8432d0c55cb890974", 
+        "latitude": 51.242161, 
+        "longitude": 4.442517, 
+        "name": "219- Districtshuis Merksem", 
+        "timestamp": "2017-08-15T04:47:53.530000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            231, 
+            236, 
+            237, 
+            238
+          ], 
+          "address": "Gallifortlei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 233, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 18, 
+        "id": "1f7afa0c654f8e43fdf51160f4042743", 
+        "latitude": 51.225095, 
+        "longitude": 4.466165, 
+        "name": "233- Gallifort", 
+        "timestamp": "2017-08-15T04:47:53.543000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "NearbyStationList": [
+            155, 
+            233, 
+            236, 
+            237
+          ], 
+          "address": "Cogelsplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 235, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 13, 
+        "id": "45a066bb3476d23d8ef68344cf0765de", 
+        "latitude": 51.219942, 
+        "longitude": 4.455008, 
+        "name": "235- Cogelsplein", 
+        "timestamp": "2017-08-15T04:47:53.545000Z"
+      }, 
+      {
+        "empty_slots": 35, 
+        "extra": {
+          "NearbyStationList": [
+            155, 
+            233, 
+            235, 
+            237
+          ], 
+          "address": "Maurice Dequeeckerplein", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 236, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 1, 
+        "id": "d16a8f9bbeaa8dc5017660c14b913218", 
+        "latitude": 51.219161, 
+        "longitude": 4.460066, 
+        "name": "236- Districtshuis Deurne", 
+        "timestamp": "2017-08-15T04:47:53.546000Z"
+      }, 
+      {
+        "empty_slots": 27, 
+        "extra": {
+          "NearbyStationList": [
+            233, 
+            235, 
+            236, 
+            239
+          ], 
+          "address": "Ter Rivierenlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 237, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 9, 
+        "id": "116e9bc5f411d5604eb41fe555bb630c", 
+        "latitude": 51.22033, 
+        "longitude": 4.469246, 
+        "name": "237- Ter Rivieren", 
+        "timestamp": "2017-08-15T04:47:53.547000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            231, 
+            233, 
+            237, 
+            239
+          ], 
+          "address": "Ertbruggelaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 238, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 17, 
+        "id": "8c1d370a78e9d148440d043a593f0dfd", 
+        "latitude": 51.223732, 
+        "longitude": 4.47563, 
+        "name": "238- Ertbrugge", 
+        "timestamp": "2017-08-15T04:47:53.548000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "NearbyStationList": [
+            233, 
+            237, 
+            238, 
+            240
+          ], 
+          "address": "Alfons schneiderlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 239, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 8, 
+        "id": "cace0480d34af52b60d9ad6b3cf3655f", 
+        "latitude": 51.221261, 
+        "longitude": 4.479477, 
+        "name": "239- Zwarte Arend", 
+        "timestamp": "2017-08-15T04:47:53.549000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "NearbyStationList": [
+            233, 
+            237, 
+            238, 
+            239
+          ], 
+          "address": "Ruggeveldlaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 240, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 10, 
+        "id": "243b75159565d5565c3b44541de930c0", 
+        "latitude": 51.217572, 
+        "longitude": 4.482117, 
+        "name": "240- Park Groot Schijn", 
+        "timestamp": "2017-08-15T04:47:53.549000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            68, 
+            155, 
+            242, 
+            243
+          ], 
+          "address": "Collegelaan ", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 241, 
+          "zip": "2100"
+        }, 
+        "free_bikes": 23, 
+        "id": "3c3a931d1760d021eb38867342697338", 
+        "latitude": 51.213333, 
+        "longitude": 4.453333, 
+        "name": "241- Kerkendijk", 
+        "timestamp": "2017-08-15T04:47:53.550000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "NearbyStationList": [
+            249, 
+            250, 
+            251, 
+            253
+          ], 
+          "address": "Karel de Preterlei", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 252, 
+          "zip": "2140"
+        }, 
+        "free_bikes": 13, 
+        "id": "40ac3126a6d23c44fec9f8224fa347de", 
+        "latitude": 51.200011, 
+        "longitude": 4.450281, 
+        "name": "252- Te Boelaerpark/Gitschotellei", 
+        "timestamp": "2017-08-15T04:47:53.560000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "NearbyStationList": [
+            103, 
+            157, 
+            261, 
+            269
+          ], 
+          "address": "Hof ter Schriecklaan", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 260, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 20, 
+        "id": "0ba421828e4be5febb947766a8437019", 
+        "latitude": 51.189637, 
+        "longitude": 4.421661, 
+        "name": "260- Ter Schrieck", 
+        "timestamp": "2017-08-15T04:47:53.568000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "NearbyStationList": [
+            259, 
+            261, 
+            264, 
+            265
+          ], 
+          "address": "Hoogveld", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 262, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 10, 
+        "id": "574a1ec88faa567ba3e058fe8c419bcc", 
+        "latitude": 51.189323, 
+        "longitude": 4.435614, 
+        "name": "262- Hoogveld", 
+        "timestamp": "2017-08-15T04:47:53.569000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "NearbyStationList": [
+            274, 
+            275, 
+            277, 
+            278
+          ], 
+          "address": "Doornstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 279, 
+          "zip": "2610"
+        }, 
+        "free_bikes": 24, 
+        "id": "b893bbc7dc29e9f4ce939dca935fb56f", 
+        "latitude": 51.168681, 
+        "longitude": 4.394375, 
+        "name": "279- Ieperman", 
+        "timestamp": "2017-08-15T04:47:53.586000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            286, 
+            287, 
+            288, 
+            290
+          ], 
+          "address": "Walstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 289, 
+          "zip": "2660"
+        }, 
+        "free_bikes": 12, 
+        "id": "cc1a298a943594a37c66d0544b33eac7", 
+        "latitude": 51.173553, 
+        "longitude": 4.352282, 
+        "name": "289- Broydenborgpark", 
+        "timestamp": "2017-08-15T04:47:53.596000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "NearbyStationList": [
+            291, 
+            292, 
+            294, 
+            297
+          ], 
+          "address": "Emiel Vloorstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 295, 
+          "zip": "2020"
+        }, 
+        "free_bikes": 18, 
+        "id": "3f7c730aaac5a1a12518cf712ffcc78a", 
+        "latitude": 51.194275, 
+        "longitude": 4.379091, 
+        "name": "295- Sporthal Kiel", 
+        "timestamp": "2017-08-15T04:47:53.602000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "NearbyStationList": [
+            262, 
+            264, 
+            265, 
+            266
+          ], 
+          "address": "Fruithoflaan - Jos Ratinckxstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 263, 
+          "zip": "2600"
+        }, 
+        "free_bikes": 22, 
+        "id": "c2f7b5083df1271af65444458db9cfa9", 
+        "latitude": 51.184528, 
+        "longitude": 4.441041, 
+        "name": "263- Fruithoflaan 2", 
+        "timestamp": "2017-08-15T04:47:53.570000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "NearbyStationList": [
+            24, 
+            25, 
+            26, 
+            54
+          ], 
+          "address": "Osystraat", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 11, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 25, 
+        "id": "3a8c866121cc5b026db66468d1828675", 
+        "latitude": 51.222033, 
+        "longitude": 4.418402, 
+        "name": "011- Roosevelt", 
+        "timestamp": "2017-08-15T04:47:53.358000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "NearbyStationList": [
+            1, 
+            2, 
+            4, 
+            25
+          ], 
+          "address": "Anneessensstraat", 
+          "districtCode": null, 
+          "status": "OPN", 
+          "uid": 24, 
+          "zip": "2018"
+        }, 
+        "free_bikes": 11, 
+        "id": "53856b0e8ddc40e1d090bd38cf61bf65", 
+        "latitude": 51.217959, 
+        "longitude": 4.417946, 
+        "name": "024- Anneessen", 
+        "timestamp": "2017-08-15T04:47:53.371000Z"
+      }, 
+      {
+        "empty_slots": 28, 
+        "extra": {
+          "NearbyStationList": [
+            33, 
+            53, 
+            117, 
+            127
+          ], 
+          "address": "Entrepotkaai", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 52, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 8, 
+        "id": "f7c0aa827ed93ad76b13cd78478c6295", 
+        "latitude": 51.228015, 
+        "longitude": 4.411687, 
+        "name": "052- Waaslandtunnel", 
+        "timestamp": "2017-08-15T04:47:53.398000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "NearbyStationList": [
+            45, 
+            133, 
+            134, 
+            137
+          ], 
+          "address": "Godefriduskaai Qpark", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 129, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 18, 
+        "id": "d64d9fcedee5f789a2ff51b921f4cc87", 
+        "latitude": 51.2284, 
+        "longitude": 4.4088, 
+        "name": "129- Godefriduskaai", 
+        "timestamp": "2017-08-15T04:47:53.474000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "NearbyStationList": [
+            45, 
+            129, 
+            133, 
+            137
+          ], 
+          "address": "Godefriduskaai - Oostendekaai", 
+          "districtCode": "1", 
+          "status": "OPN", 
+          "uid": 134, 
+          "zip": "2000"
+        }, 
+        "free_bikes": 0, 
+        "id": "3231e42c3bf47de8bbdc9f55c32ad344", 
+        "latitude": 51.22811203740126, 
+        "longitude": 4.405728642058911, 
+        "name": "134- MAS", 
+        "timestamp": "2017-08-15T04:47:53.481000Z"
+      }
+    ]
+  }
+}

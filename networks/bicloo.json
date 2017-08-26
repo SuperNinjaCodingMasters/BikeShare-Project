@@ -1,0 +1,1858 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/bicloo", 
+    "id": "bicloo", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Nantes", 
+      "country": "FR", 
+      "latitude": 47.218371, 
+      "longitude": -1.553621
+    }, 
+    "name": "Bicloo", 
+    "stations": [
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "MARCHE TALENSAC NORD - 18 RUE TALENSAC", 
+          "banking": false, 
+          "bonus": true, 
+          "last_update": 1502772171000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 71
+        }, 
+        "free_bikes": 6, 
+        "id": "7e62c4c51b29e32101d2d9461b9ed720", 
+        "latitude": 47.22185363818837, 
+        "longitude": -1.558940746690739, 
+        "name": "00071-MARCHE TALENSAC NORD", 
+        "timestamp": "2017-08-15T04:47:47.775000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "BROSSARD - 12 All\u00e9e Duquesne", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771948000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 9, 
+        "id": "f9ce4d9bd5efe923a8919f019b486226", 
+        "latitude": 47.2188372304694, 
+        "longitude": -1.55674926307655, 
+        "name": "00005-BROSSARD", 
+        "timestamp": "2017-08-15T04:47:47.794000Z"
+      }, 
+      {
+        "empty_slots": 37, 
+        "extra": {
+          "address": "PLACE RICORDEAU", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771819000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 38
+        }, 
+        "free_bikes": 3, 
+        "id": "0ce7802583bfbf38aa4e39aa971f8bfb", 
+        "latitude": 47.212108463141774, 
+        "longitude": -1.553049129320471, 
+        "name": "00038-PLACE RICORDEAU", 
+        "timestamp": "2017-08-15T04:47:47.711000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "CHANZY - FACE AU 23 AVENUE DE CHANZY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771834000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 66
+        }, 
+        "free_bikes": 3, 
+        "id": "d60813569d7d23a35c2b28961d979b45", 
+        "latitude": 47.22542988533347, 
+        "longitude": -1.547999925907375, 
+        "name": "00066-CHANZY", 
+        "timestamp": "2017-08-15T04:47:47.713000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "STRASBOURG - PLACE TIRANT LO BLANC", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772363000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 9, 
+        "id": "9fc196a47e6040bce230529527d16716", 
+        "latitude": 47.216479771820744, 
+        "longitude": -1.55154060534636, 
+        "name": "00003-STRASBOURG", 
+        "timestamp": "2017-08-15T04:47:47.714000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "MACHINE DE L'\u00ceLE - 3 BD LEON BUREAU", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772083000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 43
+        }, 
+        "free_bikes": 10, 
+        "id": "a79052fbfc5db7dacbfac9a679b39258", 
+        "latitude": 47.20691895869599, 
+        "longitude": -1.564806790782994, 
+        "name": "00043 - MACHINE DE L'\u00ceLE", 
+        "timestamp": "2017-08-15T04:47:47.716000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "REGION - RUE DE LA LOIRE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772377000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 84
+        }, 
+        "free_bikes": 4, 
+        "id": "2c056dd88a109bd2a8cb2b8d14052a0b", 
+        "latitude": 47.21074214218137, 
+        "longitude": -1.525933451925082, 
+        "name": "00084-R\u00c9GION", 
+        "timestamp": "2017-08-15T04:47:47.717000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "MADELEINE - 2 QUAI MONCOUSU", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772233000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 40
+        }, 
+        "free_bikes": 2, 
+        "id": "d433ec7316c245c037c86bccf76c4237", 
+        "latitude": 47.208804642437784, 
+        "longitude": -1.550411914119152, 
+        "name": "00040-MADELEINE", 
+        "timestamp": "2017-08-15T04:47:47.718000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "MOQUECHIEN - 8 RUE MOQUECHIEN", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772370000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 22
+        }, 
+        "free_bikes": 16, 
+        "id": "9c2d2ea706def94a478d207ea85b4ed3", 
+        "latitude": 47.220392126691955, 
+        "longitude": -1.555531041936261, 
+        "name": "00022-MOQUECHIEN", 
+        "timestamp": "2017-08-15T04:47:47.718000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "GARE MARITIME - PLACE JACKSONVILLE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772194000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 42
+        }, 
+        "free_bikes": 23, 
+        "id": "62d8cf270442ceeec8780232801624ba", 
+        "latitude": 47.20659772898787, 
+        "longitude": -1.572610286970505, 
+        "name": "00042-GARE MARITIME", 
+        "timestamp": "2017-08-15T04:47:47.719000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "GARE PONT ROUSSEAU - RUE DE LA GARE - REZE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772173000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 102
+        }, 
+        "free_bikes": 20, 
+        "id": "4d0ab03c72ee591258e294b896e6b179", 
+        "latitude": 47.19280351379784, 
+        "longitude": -1.549291898557657, 
+        "name": "00102-GARE PT ROUSSEAU", 
+        "timestamp": "2017-08-15T04:47:47.720000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "VINCENT GACHE - 9 RUE FRANCOIS ALBERT", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771887000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 56
+        }, 
+        "free_bikes": 4, 
+        "id": "7ddabd90d87b57efe0ca183d9167b546", 
+        "latitude": 47.206798618575256, 
+        "longitude": -1.541777739850638, 
+        "name": "00056-VINCENT GACHE", 
+        "timestamp": "2017-08-15T04:47:47.721000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "BARILLERIE - 2 ALLEE PENTHIEVRE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772361000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 3, 
+        "id": "66f54e013d055a6f6e2d1dbb44f8d7b0", 
+        "latitude": 47.215331358010445, 
+        "longitude": -1.556126125975167, 
+        "name": "00007- BARILLERIE", 
+        "timestamp": "2017-08-15T04:47:47.722000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "PRAIRIE AU DUC - 25 BOULEVARD DE LA PRAIRIE AU DUC", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772077000, 
+          "slots": 13, 
+          "status": "OPEN", 
+          "uid": 45
+        }, 
+        "free_bikes": 13, 
+        "id": "52f1fbbdcba6e1ff2e2003225f6e67f8", 
+        "latitude": 47.2047839355992, 
+        "longitude": -1.55892310936669, 
+        "name": "00045-PRAIRIE AU DUC", 
+        "timestamp": "2017-08-15T04:47:47.723000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "PICASSO - RUE PABLO PICASSO", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771886000, 
+          "slots": 28, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 23, 
+        "id": "ca16c14afab926f32e056e85b190cefa", 
+        "latitude": 47.216369613307506, 
+        "longitude": -1.534184544523239, 
+        "name": "00010- PICASSO", 
+        "timestamp": "2017-08-15T04:47:47.723000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "PALAIS DES SPORTS - 21 RUE RENE VIVIANI", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772201000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 58
+        }, 
+        "free_bikes": 3, 
+        "id": "a5442abf77c26dc65fc42d24a7ad648c", 
+        "latitude": 47.208466072191925, 
+        "longitude": -1.535981000861306, 
+        "name": "00058-PALAIS DES SPORTS", 
+        "timestamp": "2017-08-15T04:47:47.725000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "PETIT PORT - BD DU PETIT PORT", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772302000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 94
+        }, 
+        "free_bikes": 20, 
+        "id": "f47e45c02ef843ca0623852c81878de4", 
+        "latitude": 47.243263914975486, 
+        "longitude": -1.556344610167984, 
+        "name": "00094-PETIT PORT", 
+        "timestamp": "2017-08-15T04:47:47.726000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "BOURSE - SQUARE DE LA BOURSE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772356000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 31
+        }, 
+        "free_bikes": 1, 
+        "id": "e4d59581353acd171baab1ec621f436d", 
+        "latitude": 47.212083030753185, 
+        "longitude": -1.559086551239872, 
+        "name": "00031-BOURSE", 
+        "timestamp": "2017-08-15T04:47:47.727000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "CANCLAUX - 8 PLACE CANCLAUX", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772328000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 74
+        }, 
+        "free_bikes": 2, 
+        "id": "607b20383310ba78ea01856f2796f235", 
+        "latitude": 47.21433366088933, 
+        "longitude": -1.574924617192968, 
+        "name": "00074-CANCLAUX", 
+        "timestamp": "2017-08-15T04:47:47.728000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Bellamy-Gu\u00e9 Moreau-138 rue Paul Bellamy", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772219000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 72
+        }, 
+        "free_bikes": 10, 
+        "id": "53ba8768aa68460717cb2e4dfe49b6b8", 
+        "latitude": 47.22862569057461, 
+        "longitude": -1.561806393011127, 
+        "name": "00072-BELLAMY-GU\u00c9 MOREAU", 
+        "timestamp": "2017-08-15T04:47:47.729000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "SAINT SIMILIEN - 1 PLACE SAINT SIMILIEN", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772228000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 0, 
+        "id": "cb713bd7b03276d9c63cfb8ea2a30be7", 
+        "latitude": 47.219854467329974, 
+        "longitude": -1.558920890474776, 
+        "name": "00019-SAINT SIMILIEN", 
+        "timestamp": "2017-08-15T04:47:47.730000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "3 BOULEVARD DE BERLIN DEVANT MAISON DE QUARTIER", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772269000, 
+          "slots": 20, 
+          "status": "CLOSED", 
+          "uid": 51
+        }, 
+        "free_bikes": 0, 
+        "id": "34dd99d5581fc45b0c6cf3e6b3d55e90", 
+        "latitude": 47.2141946314965, 
+        "longitude": -1.52973588598036, 
+        "name": "00051-TABARLY", 
+        "timestamp": "2017-08-15T04:47:47.731000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "ECOLE D'ARCHITECTURE - QUAI F MITTERRAND", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771959000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 77
+        }, 
+        "free_bikes": 10, 
+        "id": "d896fac2b55dfdc75e261a86a03a226e", 
+        "latitude": 47.207605640212115, 
+        "longitude": -1.557532467914316, 
+        "name": "00077-ECOLE D'ARCHITECTURE", 
+        "timestamp": "2017-08-15T04:47:47.732000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "ANATOLE FRANCE - 41 RUE ALEXANDRE DUMAS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772273000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 87
+        }, 
+        "free_bikes": 2, 
+        "id": "4da78e7d56738630af74954901876dd4", 
+        "latitude": 47.223604815399085, 
+        "longitude": -1.571373578112414, 
+        "name": "00087-ANATOLE FRANCE", 
+        "timestamp": "2017-08-15T04:47:47.733000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "MARTYRS NANTAIS - 1 BD DES MARTYRS NANTAIS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772286000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 47
+        }, 
+        "free_bikes": 12, 
+        "id": "979f22c0808b1164eacbb6bd0348c66c", 
+        "latitude": 47.20702417983412, 
+        "longitude": -1.548161311046709, 
+        "name": "00047- MARTYRS NANTAIS", 
+        "timestamp": "2017-08-15T04:47:47.734000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "SAINT DONATIEN - PLACE DU 51\u00e9me RIMA", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771876000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 97
+        }, 
+        "free_bikes": 20, 
+        "id": "7792905ba67edcf1bc59007cca385bd5", 
+        "latitude": 47.22908808709286, 
+        "longitude": -1.540292594289221, 
+        "name": "00097-SAINT DONATIEN", 
+        "timestamp": "2017-08-15T04:47:47.735000Z"
+      }, 
+      {
+        "empty_slots": 24, 
+        "extra": {
+          "address": "COMMERCE - FACE PLACE DU COMMERCE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771998000, 
+          "slots": 39, 
+          "status": "OPEN", 
+          "uid": 30
+        }, 
+        "free_bikes": 14, 
+        "id": "fd9c452c82e8c944de098014a7c7361b", 
+        "latitude": 47.21312055103121, 
+        "longitude": -1.557393235628245, 
+        "name": "00030-COMMERCE", 
+        "timestamp": "2017-08-15T04:47:47.736000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "GUIST'HAU NORD - 42 BD GUIST'HAU", 
+          "banking": false, 
+          "bonus": true, 
+          "last_update": 1502771957000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 27
+        }, 
+        "free_bikes": 4, 
+        "id": "308fe3384ee0c385e981874b7c4b276d", 
+        "latitude": 47.21792981632508, 
+        "longitude": -1.569171883302444, 
+        "name": "00027-GUIST'HAU NORD", 
+        "timestamp": "2017-08-15T04:47:47.737000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "PLACE ARISTIDE BRIAND", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771943000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 0, 
+        "id": "ca8afada1c4936b994a2515abb271ca7", 
+        "latitude": 47.21718482329023, 
+        "longitude": -1.562986793288367, 
+        "name": "00015-PLACE ARISTIDE BRIAND", 
+        "timestamp": "2017-08-15T04:47:47.738000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "MILLERAND - 9 BD ALEXANDRE MILLERAND", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772157000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 83
+        }, 
+        "free_bikes": 5, 
+        "id": "e9a956eb61727464ccfcb5e440605004", 
+        "latitude": 47.208199645038825, 
+        "longitude": -1.530180435959972, 
+        "name": "00083-MILLERAND", 
+        "timestamp": "2017-08-15T04:47:47.739000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "MEDIATHEQUE - 24 QUAI DE LA FOSSE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772284000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 34
+        }, 
+        "free_bikes": 9, 
+        "id": "db4138ff678a7619dd89ac8c239d7826", 
+        "latitude": 47.210886925815934, 
+        "longitude": -1.561744905652581, 
+        "name": "00034-MEDIATHEQUE", 
+        "timestamp": "2017-08-15T04:47:47.739000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "RD PT VANNES - 65 BD LE LASSEUR", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771822000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 91
+        }, 
+        "free_bikes": 4, 
+        "id": "c941700f2fe6a6b379f61c3cdb8ddcb1", 
+        "latitude": 47.229580605369215, 
+        "longitude": -1.572114577993728, 
+        "name": "00091-RD PT VANNES", 
+        "timestamp": "2017-08-15T04:47:47.740000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "PLACE DE LA REPUBLIQUE - 3 PLACE DE LA REPUBLIQUE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771846000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 46
+        }, 
+        "free_bikes": 20, 
+        "id": "4ab359d909058f078a3d9bd39c20105a", 
+        "latitude": 47.20532409029517, 
+        "longitude": -1.555183107916184, 
+        "name": "00046-PLACE REPUBLIQUE", 
+        "timestamp": "2017-08-15T04:47:47.741000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "MANGIN - DEV 8 PLACE MANGIN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772189000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 81
+        }, 
+        "free_bikes": 7, 
+        "id": "fe66d078fd08b2f18c4c6a7e16507fb1", 
+        "latitude": 47.20095551723967, 
+        "longitude": -1.545507251231619, 
+        "name": "00081 - MANGIN", 
+        "timestamp": "2017-08-15T04:47:47.743000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "MAGELLAN - 11 RUE DE BELFORT", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771903000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 55
+        }, 
+        "free_bikes": 11, 
+        "id": "8f130bb2f929bec6442c0a427191844d", 
+        "latitude": 47.21078140655944, 
+        "longitude": -1.544298470945214, 
+        "name": "00055-MAGELLAN", 
+        "timestamp": "2017-08-15T04:47:47.743000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "DE GAULLE - PONT A. BRIAND / BD DE GAULLE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771968000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 78
+        }, 
+        "free_bikes": 9, 
+        "id": "740c687a6fb0752f5c960ca4e83b112e", 
+        "latitude": 47.20844367718286, 
+        "longitude": -1.540514488290191, 
+        "name": "00078-DE GAULLE", 
+        "timestamp": "2017-08-15T04:47:47.744000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "PLACE WALDECK ROUSSEAU", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772352000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 67
+        }, 
+        "free_bikes": 9, 
+        "id": "9870a6a6009462e9604132869eb18ce6", 
+        "latitude": 47.22777476106513, 
+        "longitude": -1.552147986072217, 
+        "name": "00067-PLACE WALDECK ROUSSEAU", 
+        "timestamp": "2017-08-15T04:47:47.745000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "GAETAN RONDEAU - 20 RUE GAETAN RONDEAU", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772306000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 57
+        }, 
+        "free_bikes": 7, 
+        "id": "d0de9cec2e2bab16fd16a37a1cec6098", 
+        "latitude": 47.205396132179104, 
+        "longitude": -1.537581863003988, 
+        "name": "00057-GAETAN RONDEAU", 
+        "timestamp": "2017-08-15T04:47:47.746000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "MALAKOFF - 15 QUAI MALAKOFF", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772117000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 79
+        }, 
+        "free_bikes": 11, 
+        "id": "1427ffcab8ab9265ab1c5e0de6846c91", 
+        "latitude": 47.213237140630014, 
+        "longitude": -1.536511118183477, 
+        "name": "00079-MALAKOFF", 
+        "timestamp": "2017-08-15T04:47:47.747000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "LAMORICIERE - PLACE BEAUMANOIR", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771970000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 75
+        }, 
+        "free_bikes": 17, 
+        "id": "8b8394c11b81c0639e82371b82d66cb1", 
+        "latitude": 47.21230895884701, 
+        "longitude": -1.571369360221906, 
+        "name": "00075-LAMORICIERE", 
+        "timestamp": "2017-08-15T04:47:47.748000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "PLACE VIARME - 23 PLACE VIARME", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772171000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 0, 
+        "id": "965be7fb6e1bd759bfb3bfcfdfed6a26", 
+        "latitude": 47.22142933898549, 
+        "longitude": -1.563308366869757, 
+        "name": "00018-PLACE VIARME", 
+        "timestamp": "2017-08-15T04:47:47.749000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "MICHELET - BD MICHELET", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771940000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 95
+        }, 
+        "free_bikes": 5, 
+        "id": "6cf14aa99960d2819388a46b60054a0d", 
+        "latitude": 47.234687038295554, 
+        "longitude": -1.556421138973112, 
+        "name": "00095-MICHELET", 
+        "timestamp": "2017-08-15T04:47:47.750000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "BEL AIR - 102 RUE PAUL BELLAMY", 
+          "banking": false, 
+          "bonus": true, 
+          "last_update": 1502772184000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 85
+        }, 
+        "free_bikes": 6, 
+        "id": "4bbbd5e63942244a2d8f2dfb197c8815", 
+        "latitude": 47.226394430986105, 
+        "longitude": -1.560022819676629, 
+        "name": "00085-BEL AIR", 
+        "timestamp": "2017-08-15T04:47:47.751000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "RD PT RENNES - ANGLE BD LE LASSEUR & RUE PAUL BELLAMY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772335000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 92
+        }, 
+        "free_bikes": 6, 
+        "id": "c20a4ce842fde80a45d2e114d0ebd37b", 
+        "latitude": 47.23302818477594, 
+        "longitude": -1.56605906933562, 
+        "name": "00092-DT PT RENNES", 
+        "timestamp": "2017-08-15T04:47:47.751000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "STADE SAUPIN - 35 QUAI MALAKOFF", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772100000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 59
+        }, 
+        "free_bikes": 10, 
+        "id": "24eb21b7266e820735aa69a65175e2de", 
+        "latitude": 47.21391161818379, 
+        "longitude": -1.539712888264826, 
+        "name": "00059-STADE SAUPIN", 
+        "timestamp": "2017-08-15T04:47:47.752000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "OLIVETTES - 10 RUE DES OLIVETTES", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772282000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 53
+        }, 
+        "free_bikes": 1, 
+        "id": "e717f6963b3694dddab2f53e3c310706", 
+        "latitude": 47.211736393222054, 
+        "longitude": -1.549886024937758, 
+        "name": "00053-OLIVETTES", 
+        "timestamp": "2017-08-15T04:47:47.753000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "PLACE RENE BOUHIER - 8 PLACE RENE BOUHIER", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772277000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 76
+        }, 
+        "free_bikes": 9, 
+        "id": "4689e61599b6bff3025b4b30323e51f1", 
+        "latitude": 47.209429092524424, 
+        "longitude": -1.570515336280715, 
+        "name": "00076-PLACE REN\u00c9 BOUHIER", 
+        "timestamp": "2017-08-15T04:47:47.754000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "BOUCHERIE - FACE AU 4 RUE DE LA BOUCHERIE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772173000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 4, 
+        "id": "af194c2198822531b4ff4a36715f80ef", 
+        "latitude": 47.21620089258823, 
+        "longitude": -1.557111680197571, 
+        "name": "00008-BOUCHERIE", 
+        "timestamp": "2017-08-15T04:47:47.755000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "SARRADIN - FACE AU 4 PLACE SARRADIN", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772307000, 
+          "slots": 13, 
+          "status": "OPEN", 
+          "uid": 73
+        }, 
+        "free_bikes": 4, 
+        "id": "93d94baed1b13cc659b1f66dd88d99f7", 
+        "latitude": 47.220882433018865, 
+        "longitude": -1.570438598073934, 
+        "name": "00073-SARRADIN", 
+        "timestamp": "2017-08-15T04:47:47.757000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "DUCHESSE ANNE - 2 PLACE DE LA DUCHESSE ANNE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772111000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 49
+        }, 
+        "free_bikes": 9, 
+        "id": "31dca96e6445d6c29bad6c16ddaab585", 
+        "latitude": 47.21651740326776, 
+        "longitude": -1.547058938534335, 
+        "name": "00049-DUCHESSE ANNE", 
+        "timestamp": "2017-08-15T04:47:47.758000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "VERDUN - 15 RUE DE VERDUN", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772030000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 48
+        }, 
+        "free_bikes": 3, 
+        "id": "bf4f7ba3a99638503d381b2b88b393a6", 
+        "latitude": 47.217505374678645, 
+        "longitude": -1.551849784370311, 
+        "name": "00048-VERDUN", 
+        "timestamp": "2017-08-15T04:47:47.760000Z"
+      }, 
+      {
+        "empty_slots": 25, 
+        "extra": {
+          "address": "PREFECTURE - 5 QUAI CEINERAY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772340000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 0, 
+        "id": "149346e3c1c538ec21a1cc3184ae8bdb", 
+        "latitude": 47.220255183724454, 
+        "longitude": -1.55408380740881, 
+        "name": "00001-PREFECTURE", 
+        "timestamp": "2017-08-15T04:47:47.761000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "BUAT - 118 RUE DE COULMIERS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772307000, 
+          "slots": 11, 
+          "status": "OPEN", 
+          "uid": 23
+        }, 
+        "free_bikes": 2, 
+        "id": "4ceb639256186a58bd64ca7af5642505", 
+        "latitude": 47.227145468224634, 
+        "longitude": -1.542404741250403, 
+        "name": "00023-BUAT", 
+        "timestamp": "2017-08-15T04:47:47.761000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "PROCE - ANGLE BD G. SERPETTE & BD A. PAGEOT", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772142000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 90
+        }, 
+        "free_bikes": 7, 
+        "id": "9be5122bc301d33dec21cc0df8f33f6b", 
+        "latitude": 47.22419506173264, 
+        "longitude": -1.576612843727262, 
+        "name": "00090-PROCE", 
+        "timestamp": "2017-08-15T04:47:47.762000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "SAINTE ELISABTEH - 3 PLACE STE ELISABETH", 
+          "banking": false, 
+          "bonus": true, 
+          "last_update": 1502772082000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 1, 
+        "id": "e31746763701e0cbec32e9731f099781", 
+        "latitude": 47.21921395261352, 
+        "longitude": -1.561570147641708, 
+        "name": "00017-SAINTE ELISABETH", 
+        "timestamp": "2017-08-15T04:47:47.764000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "DUGUAY TROUIN - 7 ALLEE DUGUAY TROUIN", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772011000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 29
+        }, 
+        "free_bikes": 10, 
+        "id": "d26cf77b0b0c95fa06d4c826c2aa2913", 
+        "latitude": 47.213450231365094, 
+        "longitude": -1.555269922656021, 
+        "name": "00029-DUGUAY TROUIN", 
+        "timestamp": "2017-08-15T04:47:47.765000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "CHATEAU - 7 RUE DES ETATS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772245000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 50
+        }, 
+        "free_bikes": 2, 
+        "id": "49c16ee14f0a64937cca10c68879ff39", 
+        "latitude": 47.2151496951626, 
+        "longitude": -1.55022624256337, 
+        "name": "00050-CHATEAU", 
+        "timestamp": "2017-08-15T04:47:47.766000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "FEYDEAU - 1 ALLEE ILE GLORIETTE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772047000, 
+          "slots": 21, 
+          "status": "OPEN", 
+          "uid": 37
+        }, 
+        "free_bikes": 21, 
+        "id": "d9b1bda02814618eb1bf09eb734dfc22", 
+        "latitude": 47.211465063355035, 
+        "longitude": -1.5568245371939, 
+        "name": "00037-FEYDEAU", 
+        "timestamp": "2017-08-15T04:47:47.767000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "HAUT PAVES - ANGLE RUE DE BERRY/RUE DES HAUTS PAVES", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772050000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 86
+        }, 
+        "free_bikes": 4, 
+        "id": "d5d7f405983a5d16c8728a20399cecb3", 
+        "latitude": 47.22547062698044, 
+        "longitude": -1.567501842502272, 
+        "name": "00086-HAUTS PAV\u00c9S", 
+        "timestamp": "2017-08-15T04:47:47.768000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "QUAI MONCOUSU - 11 QUAI MONCOUSU", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772039000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 39
+        }, 
+        "free_bikes": 6, 
+        "id": "75c33e6908a079d4b3e1454368158b1d", 
+        "latitude": 47.209406573873714, 
+        "longitude": -1.555233144631466, 
+        "name": "00039-QUAI MONCOUSU", 
+        "timestamp": "2017-08-15T04:47:47.769000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "JEAN V - 2 PLACE JEAN V", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772338000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 35
+        }, 
+        "free_bikes": 0, 
+        "id": "6a33aaa57d92fe1d7161c55ee542412f", 
+        "latitude": 47.212168974412094, 
+        "longitude": -1.565543986075099, 
+        "name": "00035-JEAN V", 
+        "timestamp": "2017-08-15T04:47:47.770000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "DALBY- 61 BD ERNEST DALBY FACE STATION SERVICE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772309000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 25
+        }, 
+        "free_bikes": 14, 
+        "id": "c16512995fa9289bac84bbcb07c56520", 
+        "latitude": 47.223508869811994, 
+        "longitude": -1.529959592703474, 
+        "name": "00025-DALBY", 
+        "timestamp": "2017-08-15T04:47:47.770000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "PALAIS DE JUSTICE - 19 QUAI FRANCOIS MITTERAND", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771795000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 44
+        }, 
+        "free_bikes": 18, 
+        "id": "0e32d612c349e8a6fceb797d400ca42f", 
+        "latitude": 47.20831728844152, 
+        "longitude": -1.561173077989395, 
+        "name": "00044-PALAIS DE JUSTICE", 
+        "timestamp": "2017-08-15T04:47:47.771000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "ST JACQUES - RUE ST JACQUES", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771990000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 99
+        }, 
+        "free_bikes": 15, 
+        "id": "19ecd866b9fc440bcf1860097d1a403b", 
+        "latitude": 47.1958989090141, 
+        "longitude": -1.536540663464699, 
+        "name": "00099-ST JACQUES", 
+        "timestamp": "2017-08-15T04:47:47.772000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "VICTOR HUGO - BD VICTOR HUGO", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771956000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 80
+        }, 
+        "free_bikes": 14, 
+        "id": "a9381a11d27f3f2d014642340867dc0f", 
+        "latitude": 47.204003208491145, 
+        "longitude": -1.551548484803203, 
+        "name": "00080 - VICTOR HUGO", 
+        "timestamp": "2017-08-15T04:47:47.773000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "LIEU UNIQUE - FACE 23 QUAI FERDINAND FAVRE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772224000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 61
+        }, 
+        "free_bikes": 4, 
+        "id": "afa1d7a0e259478fd600abcecf7e01ea", 
+        "latitude": 47.215591463959825, 
+        "longitude": -1.545905939112105, 
+        "name": "00061-LU - LIEU UNIQUE", 
+        "timestamp": "2017-08-15T04:47:47.774000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "MARCHE TALENSAC SUD - 6 RUE TALENSAC", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772375000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 21
+        }, 
+        "free_bikes": 4, 
+        "id": "27ab1281cd862c7aab21c247dc942abf", 
+        "latitude": 47.22114332912908, 
+        "longitude": -1.556476339327795, 
+        "name": "00021-MARCHE TALENSAC SUD", 
+        "timestamp": "2017-08-15T04:47:47.774000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "CHANTIER NAVAL - 89 QUAI DE LA FOSSE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772238000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 41
+        }, 
+        "free_bikes": 14, 
+        "id": "de94d17fb3b8a1a5917fcea30ef16367", 
+        "latitude": 47.2083574798195, 
+        "longitude": -1.56952404874215, 
+        "name": "00041-CHANTIER NAVAL", 
+        "timestamp": "2017-08-15T04:47:47.776000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "HUIT MAI - AVENUE DE LA LIBERATION - REZE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771989000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 98
+        }, 
+        "free_bikes": 15, 
+        "id": "69ad0c2968dbdc35cd70a8e25bd74914", 
+        "latitude": 47.18921204751304, 
+        "longitude": -1.550828036456355, 
+        "name": "00098-HUIT MAI", 
+        "timestamp": "2017-08-15T04:47:47.778000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "GUIST'HAU SUD - 26 BOULEVARD GUIST'HAU", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502771973000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 26
+        }, 
+        "free_bikes": 0, 
+        "id": "6f19dd1b5cbcbd397d760d589ec41376", 
+        "latitude": 47.21682795997449, 
+        "longitude": -1.567004526265165, 
+        "name": "00026-GUIST'HAU SUD", 
+        "timestamp": "2017-08-15T04:47:47.778000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "BACO - FACE AU 8 ALLEE BACO", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772284000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 52
+        }, 
+        "free_bikes": 15, 
+        "id": "5e5b321ebbc35c1bde8b6b09be749850", 
+        "latitude": 47.214327524589145, 
+        "longitude": -1.548750555741977, 
+        "name": "00052-BACO", 
+        "timestamp": "2017-08-15T04:47:47.779000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "CALVAIRE - PL.DES VOLONTAIRES DE LA DEFENSE PASSIVE", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772294000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 0, 
+        "id": "8734e34588183672ef89e4f12e5c434b", 
+        "latitude": 47.215578942427136, 
+        "longitude": -1.560675283700123, 
+        "name": "00011-CALVAIRE", 
+        "timestamp": "2017-08-15T04:47:47.780000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "JARDIN DES PLANTES - 6 RUE STANILAS BAUDRY", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772347000, 
+          "slots": 35, 
+          "status": "OPEN", 
+          "uid": 63
+        }, 
+        "free_bikes": 5, 
+        "id": "9d9e0306c5a79b9c502b0681e5ca2cb7", 
+        "latitude": 47.219834197318974, 
+        "longitude": -1.544718964531585, 
+        "name": "00063-JARDIN DES PLANTES", 
+        "timestamp": "2017-08-15T04:47:47.781000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "PLACE EDOUARD NORMAND - FACE AU 7 PLACE EDOUARD NORMAND", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771966000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 7, 
+        "id": "98a06466d52150daf83b2785fb881194", 
+        "latitude": 47.21902754473837, 
+        "longitude": -1.563419484053747, 
+        "name": "00016-PLACE EDOUARD NORMAND", 
+        "timestamp": "2017-08-15T04:47:47.782000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "MELLINET - 1 BD ALLARD", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772269000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 88
+        }, 
+        "free_bikes": 13, 
+        "id": "179176998ccdcad278fae5c822477560", 
+        "latitude": 47.211501070117826, 
+        "longitude": -1.577175414321782, 
+        "name": "00088-MELLINET", 
+        "timestamp": "2017-08-15T04:47:47.783000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "Quai Malakoff - c\u00f4t\u00e9 canal st F\u00e9lix", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772128000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 70
+        }, 
+        "free_bikes": 10, 
+        "id": "11237f5db310c9046a7f13ed599934ca", 
+        "latitude": 47.215505, 
+        "longitude": -1.542844, 
+        "name": "00070-GARE SUD 2", 
+        "timestamp": "2017-08-15T04:47:47.784000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "MOULIN - FACE AU 18 RUE DU MOULIN", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772098000, 
+          "slots": 13, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 12, 
+        "id": "b70f8e943d3120faf3a0e0884a3e22e7", 
+        "latitude": 47.216667582015184, 
+        "longitude": -1.5543847138777, 
+        "name": "00004-MOULIN", 
+        "timestamp": "2017-08-15T04:47:47.785000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "TORTIERE - BD EUGENE ORIEUX", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771932000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 96
+        }, 
+        "free_bikes": 10, 
+        "id": "09b3605bcdfbae3fd4ae0dc31ed28487", 
+        "latitude": 47.235335222208626, 
+        "longitude": -1.549221766809888, 
+        "name": "00096-TORTIERE", 
+        "timestamp": "2017-08-15T04:47:47.786000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "SAINT CLEMENT - FACE AU 37 RUE DU MARECHAL JOFFRE", 
+          "banking": false, 
+          "bonus": true, 
+          "last_update": 1502772365000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 64
+        }, 
+        "free_bikes": 10, 
+        "id": "d5f42466541c1bcd2ce8fc909a038a24", 
+        "latitude": 47.221785183522634, 
+        "longitude": -1.547099233718495, 
+        "name": "00064-SAINT CLEMENT", 
+        "timestamp": "2017-08-15T04:47:47.786000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "GUEPIN - 8 RUE DE L'ARCHE SECHE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772191000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 1, 
+        "id": "e5fe1acd947704258726e82c4f8dc208", 
+        "latitude": 47.215814587139455, 
+        "longitude": -1.559017485167438, 
+        "name": "00009-GUEPIN", 
+        "timestamp": "2017-08-15T04:47:47.787000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "RACINE - 4 RUE RACINE", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772202000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 33
+        }, 
+        "free_bikes": 2, 
+        "id": "750d5738d7e1b855a6a47f6fbc80aaf3", 
+        "latitude": 47.213522613719896, 
+        "longitude": -1.563140874431397, 
+        "name": "00033-RACINE", 
+        "timestamp": "2017-08-15T04:47:47.788000Z"
+      }, 
+      {
+        "empty_slots": 23, 
+        "extra": {
+          "address": "GARE SUD - FACE 12 RUE LOURMEL", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772155000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 60
+        }, 
+        "free_bikes": 17, 
+        "id": "d8ae412289c0ef5a6b9329603a89b8b0", 
+        "latitude": 47.215919436013635, 
+        "longitude": -1.542847782057658, 
+        "name": "00060-GARE SUD", 
+        "timestamp": "2017-08-15T04:47:47.789000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "SEBILLEAU - 9 RUE GAETAN RONDEAU", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771821000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 82
+        }, 
+        "free_bikes": 10, 
+        "id": "4e9330568b1ad5f67e12b1fb7744ce6e", 
+        "latitude": 47.206757512308414, 
+        "longitude": -1.533118244923623, 
+        "name": "00082-SEBILLEAU", 
+        "timestamp": "2017-08-15T04:47:47.793000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "PIRMIL - RUE ESNOUL DES CHATELETS", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772157000, 
+          "slots": 28, 
+          "status": "OPEN", 
+          "uid": 101
+        }, 
+        "free_bikes": 25, 
+        "id": "4b812fe2a4084680944260b4d7fd97aa", 
+        "latitude": 47.1965313642396, 
+        "longitude": -1.54156809120326, 
+        "name": "00101 - PIRMIL", 
+        "timestamp": "2017-08-15T04:47:47.795000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "GRENERAIE - PARC DE LA GRENERAIE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772052000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 100
+        }, 
+        "free_bikes": 19, 
+        "id": "062b7be0d077f1f6a107f704db357f5f", 
+        "latitude": 47.199923092905216, 
+        "longitude": -1.534717540470481, 
+        "name": "00100 - GRENERAIE", 
+        "timestamp": "2017-08-15T04:47:47.797000Z"
+      }, 
+      {
+        "empty_slots": 26, 
+        "extra": {
+          "address": "CITE INTERNATIONAL DES CONGRES - 2 RUE DE JEMMAPES", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771873000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 54
+        }, 
+        "free_bikes": 3, 
+        "id": "85c95754f7471c986e7dde1ae8a3e5ea", 
+        "latitude": 47.213180085527846, 
+        "longitude": -1.544952541668585, 
+        "name": "00054- CITE INTERNATIONALE DES CONGRES", 
+        "timestamp": "2017-08-15T04:47:47.797000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "PLACE DE L'EDIT DE NANTES", 
+          "banking": false, 
+          "bonus": true, 
+          "last_update": 1502772117000, 
+          "slots": 13, 
+          "status": "OPEN", 
+          "uid": 28
+        }, 
+        "free_bikes": 0, 
+        "id": "b8fadefb3e1169837483798f2708612a", 
+        "latitude": 47.21446342738575, 
+        "longitude": -1.567568016663838, 
+        "name": "00028- PLACE DE L'EDIT NANTES", 
+        "timestamp": "2017-08-15T04:47:47.799000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "LIVET - FACE AU 65 RUE DUFOUR", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771932000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 68
+        }, 
+        "free_bikes": 2, 
+        "id": "e9a93febd5b3e995a00c49812223222a", 
+        "latitude": 47.2240678794875, 
+        "longitude": -1.54521243421509, 
+        "name": "00068-LIVET", 
+        "timestamp": "2017-08-15T04:47:47.800000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "COURS SULLY - FACE AU 9 COURS SULLY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772403000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 65
+        }, 
+        "free_bikes": 11, 
+        "id": "8fcba27bd68f19f1c49c8a1d23b6a432", 
+        "latitude": 47.222587339906696, 
+        "longitude": -1.551666442545979, 
+        "name": "00065-COURS SULLY", 
+        "timestamp": "2017-08-15T04:47:47.801000Z"
+      }, 
+      {
+        "empty_slots": 20, 
+        "extra": {
+          "address": "BRETAGNE SUD - 1 RUE PIERRE CHEREAU", 
+          "banking": false, 
+          "bonus": true, 
+          "last_update": 1502772402000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 0, 
+        "id": "bd177ee9d916695576e89104eacac553", 
+        "latitude": 47.216787949913034, 
+        "longitude": -1.559161066618992, 
+        "name": "00013-BRETAGNE SUD", 
+        "timestamp": "2017-08-15T04:47:47.802000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "PLACE DU CIRQUE - 7 ALLEE DUQUESNE", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771961000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 12, 
+        "id": "fca0e8b2759653da8e97431350982884", 
+        "latitude": 47.21759668240601, 
+        "longitude": -1.556937645378872, 
+        "name": "00006-PLACE DU CIRQUE", 
+        "timestamp": "2017-08-15T04:47:47.803000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "FOCH - PLACE FOCH", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771844000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 32
+        }, 
+        "free_bikes": 5, 
+        "id": "af225b9b3cb9a0181013895ca2319e31", 
+        "latitude": 47.2191122, 
+        "longitude": -1.5502297, 
+        "name": "00032-FOCH", 
+        "timestamp": "2017-08-15T04:47:47.763000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "H\u00d4TEL DE VILLE - FACE AU 29 RUE DE STRASBOURG", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772392000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 10, 
+        "id": "138fed6cff98b91d3b1e192a3d554e99", 
+        "latitude": 47.21857181309145, 
+        "longitude": -1.553484290392954, 
+        "name": "00002-H\u00d4TEL DE VILLE", 
+        "timestamp": "2017-08-15T04:47:47.715000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "MANUFACTURE - 11 BIS BD STALINGRAD", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772289000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 69
+        }, 
+        "free_bikes": 15, 
+        "id": "2c5c0ca9cd5c212268ee8007f8e57e70", 
+        "latitude": 47.219216380711345, 
+        "longitude": -1.535847443276377, 
+        "name": "00069 - MANUFACTURE", 
+        "timestamp": "2017-08-15T04:47:47.791000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Saint F\u00e9lix - 35 Boulevard Amiral Courbet", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772322000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 4, 
+        "id": "55d5ddfef132f1e3ec7bce11afb28819", 
+        "latitude": 47.230334, 
+        "longitude": -1.556133, 
+        "name": "00014-SAINT F\u00c9LIX", 
+        "timestamp": "2017-08-15T04:47:47.798000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "VERSAILLES - FACE AU 25 QUAI DE VERSAILLES", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771858000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 24
+        }, 
+        "free_bikes": 15, 
+        "id": "e52052d2750121acd470a7bc41328572", 
+        "latitude": 47.22451490719107, 
+        "longitude": -1.553711961402328, 
+        "name": "00024-VERSAILLES", 
+        "timestamp": "2017-08-15T04:47:47.790000Z"
+      }, 
+      {
+        "empty_slots": 19, 
+        "extra": {
+          "address": "PLACE DELORME", 
+          "banking": true, 
+          "bonus": true, 
+          "last_update": 1502772095000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 0, 
+        "id": "ef93bab7600a0acd546babf21022902a", 
+        "latitude": 47.21515818868574, 
+        "longitude": -1.563900673465861, 
+        "name": "00012-PLACE DELORME", 
+        "timestamp": "2017-08-15T04:47:47.777000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "FACULTES - ANGLE ROUTE DE LA JONELIERE & BD G. MOLLET", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772295000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 93
+        }, 
+        "free_bikes": 35, 
+        "id": "123bd0239ea68c7cf89d9419d27e5925", 
+        "latitude": 47.246298068423485, 
+        "longitude": -1.555309011107301, 
+        "name": "00093-FACULTES", 
+        "timestamp": "2017-08-15T04:47:47.759000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "BELLAMY - 50 RUE PAUL BELLAMY", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772249000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 0, 
+        "id": "47d3ff337d0ee22f26f8a18348c1ea45", 
+        "latitude": 47.222902006053054, 
+        "longitude": -1.557229797031573, 
+        "name": "00020-BELLAMY", 
+        "timestamp": "2017-08-15T04:47:47.742000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "ALGER - 10 RUE D'ALGER", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771898000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 36
+        }, 
+        "free_bikes": 2, 
+        "id": "1b5a79e31d01b94d8463dbb716ab75a0", 
+        "latitude": 47.210549, 
+        "longitude": -1.567368, 
+        "name": "00036-ALGER", 
+        "timestamp": "2017-08-15T04:47:47.792000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "SAINT AIGNAN - 65 BD ST AIGNAN", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772007000, 
+          "slots": 14, 
+          "status": "OPEN", 
+          "uid": 89
+        }, 
+        "free_bikes": 5, 
+        "id": "69287521483278bc1171b2a5dc92e8e3", 
+        "latitude": 47.20743863754715, 
+        "longitude": -1.578689264310988, 
+        "name": "00089-SAINT-AIGNAN", 
+        "timestamp": "2017-08-15T04:47:47.732000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "GARE NORD - 1 PLACE CHARLES LE ROUX", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772102000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 62
+        }, 
+        "free_bikes": 33, 
+        "id": "a0e8088fe2fe6b3e4cf14571ae880757", 
+        "latitude": 47.218132613316826, 
+        "longitude": -1.542208634875899, 
+        "name": "00062-GARE NORD", 
+        "timestamp": "2017-08-15T04:47:47.724000Z"
+      }
+    ]
+  }
+}

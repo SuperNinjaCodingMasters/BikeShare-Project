@@ -1,0 +1,135 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/cuneo", 
+    "id": "cuneo", 
+    "location": {
+      "city": "Cuneo", 
+      "country": "IT", 
+      "latitude": 44.384238, 
+      "longitude": 7.541428
+    }, 
+    "name": "Cuneo", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Via Bonelli", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "289a2cc530ede8fb1f4c1aecc42311db", 
+        "latitude": 44.389931764405546, 
+        "longitude": 7.549364268779755, 
+        "name": "7. Via Bonelli", 
+        "timestamp": "2017-08-15T04:47:07.547000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "description": "Piazza Torino", 
+          "status": "online"
+        }, 
+        "free_bikes": 4, 
+        "id": "8bb637e2986ea103a2065876750dad26", 
+        "latitude": 44.39492092810896, 
+        "longitude": 7.554263271163904, 
+        "name": "1. Piazza Torino", 
+        "timestamp": "2017-08-15T04:47:07.518000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "description": "Corso Solaro", 
+          "status": "online"
+        }, 
+        "free_bikes": 1, 
+        "id": "defbc5298d6062e14de4c9a972014659", 
+        "latitude": 44.38727521505715, 
+        "longitude": 7.55008705522539, 
+        "name": "6. Ascensore Panoramico", 
+        "timestamp": "2017-08-15T04:47:07.545000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "description": "Largo Caraglio", 
+          "status": "online"
+        }, 
+        "free_bikes": 2, 
+        "id": "c5a47a8ea05e9f169bd2417de9434dee", 
+        "latitude": 44.39219223302393, 
+        "longitude": 7.548266988187152, 
+        "name": "3. Largo Caraglio", 
+        "timestamp": "2017-08-15T04:47:07.541000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "description": "Piazza Europa", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "294153913b1f6dfa5dc980b2efaef187", 
+        "latitude": 44.383520709166994, 
+        "longitude": 7.5418988748340325, 
+        "name": "5. Piazza Europa", 
+        "timestamp": "2017-08-15T04:47:07.544000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Piazza della Costituzione", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "8f9ade8ce9afafe5694f6500f218ceff", 
+        "latitude": 44.37805294356584, 
+        "longitude": 7.5346781545963495, 
+        "name": "8. Park Palazzi Finanziari", 
+        "timestamp": "2017-08-15T04:47:07.548000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "description": "Piazza Audiffredi", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "8c354f9f8f84d43d46f6529ed9a683fe", 
+        "latitude": 44.39309812331585, 
+        "longitude": 7.551161536210884, 
+        "name": "2. Municipio - Piazza Audiffredi", 
+        "timestamp": "2017-08-15T04:47:07.540000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "description": "Corso Nizza - Palazzo della Provincia", 
+          "status": "online"
+        }, 
+        "free_bikes": 3, 
+        "id": "370419c8dbc66777447c40a1018f6453", 
+        "latitude": 44.386502233200325, 
+        "longitude": 7.544959008598312, 
+        "name": "9. Corso Nizza", 
+        "timestamp": "2017-08-15T04:47:07.552000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Stazione Ferroviaria", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "f63ce286560bf11857f7818b35a11c13", 
+        "latitude": 44.38744288328695, 
+        "longitude": 7.536273747682571, 
+        "name": "4. Stazione Ferroviaria", 
+        "timestamp": "2017-08-15T04:47:07.542000Z"
+      }
+    ]
+  }
+}

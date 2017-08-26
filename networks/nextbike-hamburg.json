@@ -1,0 +1,876 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-hamburg", 
+    "id": "nextbike-hamburg", 
+    "location": {
+      "city": "Hamburg", 
+      "country": "DE", 
+      "latitude": 53.5506, 
+      "longitude": 9.99052
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02242", 
+            "10082", 
+            "10290", 
+            "10083", 
+            "02451"
+          ], 
+          "number": "2802", 
+          "uid": "122671"
+        }, 
+        "free_bikes": 5, 
+        "id": "37dfde8abf9c119e1091a85f16379f15", 
+        "latitude": 53.553279927074, 
+        "longitude": 10.02388715744, 
+        "name": "U Bahn Berliner Tor", 
+        "timestamp": "2017-08-15T04:50:18.241000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02187"
+          ], 
+          "number": "2803", 
+          "uid": "14294"
+        }, 
+        "free_bikes": 1, 
+        "id": "48342ab03a7951b63e31cd79ef97d279", 
+        "latitude": 53.547106515957, 
+        "longitude": 9.9720293283463, 
+        "name": "Jugendherberge Stintfang", 
+        "timestamp": "2017-08-15T04:50:18.186000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "2823", 
+          "uid": "55215"
+        }, 
+        "free_bikes": 0, 
+        "id": "41595847002dd560038a20a0738fbb62", 
+        "latitude": 53.573677329575, 
+        "longitude": 10.002257823944, 
+        "name": "Alsterufer / Cliff Restaurant", 
+        "timestamp": "2017-08-15T04:50:18.200000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02197", 
+            "02094", 
+            "02175", 
+            "02455"
+          ], 
+          "number": "2854", 
+          "uid": "522448"
+        }, 
+        "free_bikes": 4, 
+        "id": "8ee8da2d25bc0b20103a7cbb14844c85", 
+        "latitude": 53.640398695656, 
+        "longitude": 9.9501317739487, 
+        "name": "Niendorf Nord", 
+        "timestamp": "2017-08-15T04:50:18.266000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02109", 
+            "02213", 
+            "02217", 
+            "02238", 
+            "02260"
+          ], 
+          "number": "2848", 
+          "uid": "26609"
+        }, 
+        "free_bikes": 8, 
+        "id": "1b850680ac6c844904e49e3525678374", 
+        "latitude": 53.572798169271, 
+        "longitude": 9.9888736009598, 
+        "name": "U-Bahn-Station Hallerstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:18.191000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02178"
+          ], 
+          "number": "2852", 
+          "uid": "153993"
+        }, 
+        "free_bikes": 1, 
+        "id": "1d8c902a9b7a285d16adf7ba337ba648", 
+        "latitude": 53.55218681767, 
+        "longitude": 9.9339473247528, 
+        "name": "Bahnhof Altona / Ausgang Hauptstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:18.252000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02247", 
+            "02215", 
+            "02200", 
+            "02322", 
+            "02076"
+          ], 
+          "number": "2824", 
+          "uid": "174066"
+        }, 
+        "free_bikes": 7, 
+        "id": "99829e7e84825aa088cd3e7ea243e615", 
+        "latitude": 53.557031818232, 
+        "longitude": 10.020193648234, 
+        "name": "U-Bahn Lohm\u00fchlenstra\u00dfe / Motel One", 
+        "timestamp": "2017-08-15T04:50:18.254000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02114", 
+            "10626"
+          ], 
+          "number": "2843", 
+          "uid": "48334"
+        }, 
+        "free_bikes": 2, 
+        "id": "6d275f871af2a7384e85365b05f0cebe", 
+        "latitude": 53.581856466584, 
+        "longitude": 10.011420249939, 
+        "name": "M\u00fchlenkamp / Preystra\u00dfe ", 
+        "timestamp": "2017-08-15T04:50:18.194000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02224", 
+            "02198", 
+            "02410", 
+            "02466"
+          ], 
+          "number": "2801", 
+          "uid": "19315"
+        }, 
+        "free_bikes": 4, 
+        "id": "9aa80fd6c48d04ec7da21d651aea8494", 
+        "latitude": 53.591734295363, 
+        "longitude": 10.055783987045, 
+        "name": "B&B Hotel Hamburg Nord", 
+        "timestamp": "2017-08-15T04:50:18.188000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02202", 
+            "02248"
+          ], 
+          "number": "2831", 
+          "uid": "44524"
+        }, 
+        "free_bikes": 2, 
+        "id": "6f2090825433200e1966740920910557", 
+        "latitude": 53.555670009612, 
+        "longitude": 10.001458525658, 
+        "name": "Ballindamm / Kunsthalle", 
+        "timestamp": "2017-08-15T04:50:18.192000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02196", 
+            "02070", 
+            "02347", 
+            "02278"
+          ], 
+          "number": "2821", 
+          "uid": "1422"
+        }, 
+        "free_bikes": 4, 
+        "id": "30fac5d77a6301be54c7181e4fa5c351", 
+        "latitude": 53.560691929808, 
+        "longitude": 9.9892973899841, 
+        "name": "Bahnhof Dammtor / Ausgang Dag-Hammarskjoeld-Platz", 
+        "timestamp": "2017-08-15T04:50:18.182000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02293", 
+            "02310", 
+            "02429"
+          ], 
+          "number": "2825", 
+          "uid": "24434"
+        }, 
+        "free_bikes": 3, 
+        "id": "2fb54f6056abd34398ef4a8148c10741", 
+        "latitude": 53.554325206448, 
+        "longitude": 10.007772445679, 
+        "name": "Hauptbahnhof Nord / Ecke Kirchenallee", 
+        "timestamp": "2017-08-15T04:50:18.189000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02137", 
+            "02291"
+          ], 
+          "number": "2847", 
+          "uid": "95334"
+        }, 
+        "free_bikes": 2, 
+        "id": "24e027ecb9546b193dfe4a87719c0206", 
+        "latitude": 53.551565358042, 
+        "longitude": 10.005326271057, 
+        "name": "Hauptbahnhof S\u00fcd / SATURN", 
+        "timestamp": "2017-08-15T04:50:18.214000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02442"
+          ], 
+          "number": "2815", 
+          "uid": "97459"
+        }, 
+        "free_bikes": 1, 
+        "id": "83bc46968ab84878d8095c0602a6d05b", 
+        "latitude": 53.543775623322, 
+        "longitude": 9.9897909164429, 
+        "name": "Miniaturwunderland / Hamburg Dungeon", 
+        "timestamp": "2017-08-15T04:50:18.220000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02244", 
+            "10302"
+          ], 
+          "number": "2829", 
+          "uid": "97629"
+        }, 
+        "free_bikes": 2, 
+        "id": "1d7e32f6a9cc143f4eedc0059cf69ada", 
+        "latitude": 53.5460277, 
+        "longitude": 9.9727882, 
+        "name": "Landungsbr\u00fccken / Eingang Hafentor", 
+        "timestamp": "2017-08-15T04:50:18.224000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02280", 
+            "02296", 
+            "02331"
+          ], 
+          "number": "2844", 
+          "uid": "153990"
+        }, 
+        "free_bikes": 3, 
+        "id": "10c0637dd5311556f26e3aec9459fc3f", 
+        "latitude": 53.550354282289, 
+        "longitude": 9.9699211120605, 
+        "name": "U-Bahn-Station St.Pauli", 
+        "timestamp": "2017-08-15T04:50:18.251000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02112"
+          ], 
+          "number": "2830", 
+          "uid": "69275"
+        }, 
+        "free_bikes": 1, 
+        "id": "d63cbe64513292ff368dc8a9eaefe105", 
+        "latitude": 53.546025996736, 
+        "longitude": 9.9701249599457, 
+        "name": "Landungsbr\u00fccken", 
+        "timestamp": "2017-08-15T04:50:18.209000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02121", 
+            "02477"
+          ], 
+          "number": "2812", 
+          "uid": "154507"
+        }, 
+        "free_bikes": 2, 
+        "id": "428acdf29271b1115b5613aef7f434cb", 
+        "latitude": 53.5454809456, 
+        "longitude": 9.9529749155045, 
+        "name": "Fischmarkt", 
+        "timestamp": "2017-08-15T04:50:18.253000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02316"
+          ], 
+          "number": "2813", 
+          "uid": "1420"
+        }, 
+        "free_bikes": 1, 
+        "id": "ab6221d12ae16dd8f237e664a22de77b", 
+        "latitude": 53.554535533933, 
+        "longitude": 9.9911212921143, 
+        "name": "Neuer Jungfernstieg", 
+        "timestamp": "2017-08-15T04:50:18.144000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02129", 
+            "02192", 
+            "02306", 
+            "10651"
+          ], 
+          "number": "2826", 
+          "uid": "125746"
+        }, 
+        "free_bikes": 4, 
+        "id": "ec8125782b4c25f36cabbd345879d68c", 
+        "latitude": 53.563330110949, 
+        "longitude": 9.9296236038208, 
+        "name": "B&B Hotel Hamburg Altona", 
+        "timestamp": "2017-08-15T04:50:18.244000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02231", 
+            "02350"
+          ], 
+          "number": "2846", 
+          "uid": "122664"
+        }, 
+        "free_bikes": 2, 
+        "id": "9dba81b927263a3e78fd3dd33e6ed52e", 
+        "latitude": 53.54978060273, 
+        "longitude": 9.9858427047729, 
+        "name": "S-Bahn-Station Stadthausbr\u00fccke", 
+        "timestamp": "2017-08-15T04:50:18.240000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02194"
+          ], 
+          "number": "2828", 
+          "uid": "13715"
+        }, 
+        "free_bikes": 1, 
+        "id": "1d0900373ece0d7a752fc2cfcc45a8f6", 
+        "latitude": 53.540919453058, 
+        "longitude": 9.9935245513916, 
+        "name": "HafenCity / Marco-Polo-Terrassen", 
+        "timestamp": "2017-08-15T04:50:18.185000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "2807", 
+          "uid": "453487"
+        }, 
+        "free_bikes": 0, 
+        "id": "1faa273d9fbfe907ac318d15dac2d164", 
+        "latitude": 53.549672240162, 
+        "longitude": 9.9745881557465, 
+        "name": "Motel One / St. Pauli", 
+        "timestamp": "2017-08-15T04:50:18.263000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "2837", 
+          "uid": "55217"
+        }, 
+        "free_bikes": 0, 
+        "id": "65cfaa302caf0e82a2420bd7d55eac30", 
+        "latitude": 53.580506126235, 
+        "longitude": 10.00039100647, 
+        "name": "Fernsicht / Ecke Agnesstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:18.202000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02284", 
+            "10095", 
+            "02208", 
+            "02052"
+          ], 
+          "number": "2834", 
+          "uid": "122663"
+        }, 
+        "free_bikes": 4, 
+        "id": "05d4e24d371d71b628194a46713a2041", 
+        "latitude": 53.555383206836, 
+        "longitude": 9.988015294075, 
+        "name": "G\u00e4nsemarkt", 
+        "timestamp": "2017-08-15T04:50:18.238000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02185"
+          ], 
+          "number": "2840", 
+          "uid": "13717"
+        }, 
+        "free_bikes": 1, 
+        "id": "aa226050fe72dee78f2fd531da2e8cc5", 
+        "latitude": 53.551794821121, 
+        "longitude": 9.9942755699158, 
+        "name": "Jungfernstieg / Ecke Reesendamm", 
+        "timestamp": "2017-08-15T04:50:18.185000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02325", 
+            "02086", 
+            "02327"
+          ], 
+          "number": "2842", 
+          "uid": "69615"
+        }, 
+        "free_bikes": 3, 
+        "id": "0550ea1eb4025d0b9160d102e6b61e7a", 
+        "latitude": 53.553276740208, 
+        "longitude": 10.005310177803, 
+        "name": "Hauptbahnhof / Ausgang Glockengie\u00dferwall", 
+        "timestamp": "2017-08-15T04:50:18.212000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10123", 
+            "02229", 
+            "02149", 
+            "10193", 
+            "10093"
+          ], 
+          "number": "2806", 
+          "uid": "376053"
+        }, 
+        "free_bikes": 5, 
+        "id": "1113c7d85dc03044fc3c37848c09806c", 
+        "latitude": 53.557331, 
+        "longitude": 10.011153, 
+        "name": "Gurlittstr. / Lange Reihe", 
+        "timestamp": "2017-08-15T04:50:18.258000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02246"
+          ], 
+          "number": "2800", 
+          "uid": "204633"
+        }, 
+        "free_bikes": 1, 
+        "id": "608041e2eef86aaa17d0a04a0e61d0b3", 
+        "latitude": 53.544183631914, 
+        "longitude": 9.9146890640259, 
+        "name": "Museumshafen", 
+        "timestamp": "2017-08-15T04:50:18.255000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02324", 
+            "02056"
+          ], 
+          "number": "2853", 
+          "uid": "512173"
+        }, 
+        "free_bikes": 2, 
+        "id": "29956e115032a0f9780a877eb9512362", 
+        "latitude": 53.661323069276, 
+        "longitude": 10.017954111099, 
+        "name": "U-Bahnhof Langenhorn-Nord", 
+        "timestamp": "2017-08-15T04:50:18.265000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02059", 
+            "02472"
+          ], 
+          "number": "2817", 
+          "uid": "67700"
+        }, 
+        "free_bikes": 2, 
+        "id": "5d0eca5d75a274efd8b59342ed7e3184", 
+        "latitude": 53.545190886286, 
+        "longitude": 10.018029212952, 
+        "name": "Mercure Hotel ", 
+        "timestamp": "2017-08-15T04:50:18.205000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02163", 
+            "10111"
+          ], 
+          "number": "2836", 
+          "uid": "94631"
+        }, 
+        "free_bikes": 2, 
+        "id": "73de1d6f949c723ee9daba563ba46296", 
+        "latitude": 53.5509741, 
+        "longitude": 10.0001451, 
+        "name": "M\u00f6nckebergstra\u00dfe / Gerhard Hauptmann Platz", 
+        "timestamp": "2017-08-15T04:50:18.213000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "2809", 
+          "uid": "122661"
+        }, 
+        "free_bikes": 0, 
+        "id": "b5ac7bc6f5239fcbe6da1c79c8d14279", 
+        "latitude": 53.544237820259, 
+        "longitude": 9.9812293052673, 
+        "name": "U-Bahn-Station Baumwall", 
+        "timestamp": "2017-08-15T04:50:18.236000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02239", 
+            "02104", 
+            "02179", 
+            "10122", 
+            "10502"
+          ], 
+          "number": "2804", 
+          "uid": "96028"
+        }, 
+        "free_bikes": 6, 
+        "id": "66bd8340eeb2d7c0bed365194ce25791", 
+        "latitude": 53.550934328159, 
+        "longitude": 9.9922585487366, 
+        "name": "Rathaus", 
+        "timestamp": "2017-08-15T04:50:18.217000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02267", 
+            "02419"
+          ], 
+          "number": "2819", 
+          "uid": "153986"
+        }, 
+        "free_bikes": 2, 
+        "id": "fab09365cfb38b9a7d5b20a614018450", 
+        "latitude": 53.552291986858, 
+        "longitude": 9.9360018968582, 
+        "name": "Bahnhof Altona / Reisezentrum", 
+        "timestamp": "2017-08-15T04:50:18.247000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02216"
+          ], 
+          "number": "2832", 
+          "uid": "153987"
+        }, 
+        "free_bikes": 1, 
+        "id": "3c44f33aa6901866d976d47771424716", 
+        "latitude": 53.581416973752, 
+        "longitude": 9.9474227428436, 
+        "name": "U-Bahn Lutterothstra\u00dfe / Else Rauch Platz", 
+        "timestamp": "2017-08-15T04:50:18.249000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02241", 
+            "02073", 
+            "02058"
+          ], 
+          "number": "2857", 
+          "uid": "789663"
+        }, 
+        "free_bikes": 3, 
+        "id": "a46835e2d0f3f6b13e29fdf4679a01e8", 
+        "latitude": 53.54711289062, 
+        "longitude": 9.9629634618759, 
+        "name": "Riverside Hotel", 
+        "timestamp": "2017-08-15T04:50:18.271000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02243", 
+            "02096", 
+            "02199", 
+            "02454"
+          ], 
+          "number": "2851", 
+          "uid": "55206"
+        }, 
+        "free_bikes": 4, 
+        "id": "651a2ff80b7c0b39109719cb4d486477", 
+        "latitude": 53.567446364446, 
+        "longitude": 10.001066923142, 
+        "name": "Alsterufer / Ecke Alte Rabenstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:18.196000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10217", 
+            "02067"
+          ], 
+          "number": "2850", 
+          "uid": "305388"
+        }, 
+        "free_bikes": 2, 
+        "id": "b9c8f2845f71ff2ca3ad37020404cb7b", 
+        "latitude": 53.550112062979, 
+        "longitude": 9.9765086174011, 
+        "name": "Adina Apartment Hotel Hamburg Michel", 
+        "timestamp": "2017-08-15T04:50:18.257000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02130", 
+            "02054"
+          ], 
+          "number": "2814", 
+          "uid": "13713"
+        }, 
+        "free_bikes": 2, 
+        "id": "f981fce3621a51df4f31cb047edcb68f", 
+        "latitude": 53.570517363842, 
+        "longitude": 9.9952056258917, 
+        "name": "Mittelweg / Ecke Milchstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:18.184000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "10414", 
+            "02201"
+          ], 
+          "number": "2808", 
+          "uid": "150742"
+        }, 
+        "free_bikes": 2, 
+        "id": "32652a0bd74da36f38cb6fcd73db219a", 
+        "latitude": 53.552132639502, 
+        "longitude": 10.01043856144, 
+        "name": "Hauptbahnhof ZOB", 
+        "timestamp": "2017-08-15T04:50:18.246000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02254", 
+            "02214", 
+            "02285", 
+            "02092"
+          ], 
+          "number": "2849", 
+          "uid": "18404"
+        }, 
+        "free_bikes": 4, 
+        "id": "95831b1775a1a304bf78b9d38650a0cb", 
+        "latitude": 53.590537105743, 
+        "longitude": 9.9870228767395, 
+        "name": "Marie-Jonas-Platz", 
+        "timestamp": "2017-08-15T04:50:18.187000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02233", 
+            "02298", 
+            "02353", 
+            "02315"
+          ], 
+          "number": "2856", 
+          "uid": "734964"
+        }, 
+        "free_bikes": 4, 
+        "id": "ea08586b01c74a8a7e69c92b379839cc", 
+        "latitude": 53.567844587532, 
+        "longitude": 9.9698674678802, 
+        "name": "U-Bahn Schlump", 
+        "timestamp": "2017-08-15T04:50:18.268000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "2841", 
+          "uid": "99040"
+        }, 
+        "free_bikes": 0, 
+        "id": "93d820c58f1330501347c97b4c35d6e9", 
+        "latitude": 53.547179824522, 
+        "longitude": 9.9422836303711, 
+        "name": "S-Bahn-Station K\u00f6nigsstra\u00dfe", 
+        "timestamp": "2017-08-15T04:50:18.233000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02126", 
+            "10014", 
+            "02160", 
+            "02190", 
+            "02288"
+          ], 
+          "number": "2860", 
+          "uid": "2815617"
+        }, 
+        "free_bikes": 9, 
+        "id": "e0f73b4d5daafdfdf771a475fe144ec2", 
+        "latitude": 53.557094434594, 
+        "longitude": 9.9670457839966, 
+        "name": "Rindermarkthalle / Neuer Kamp", 
+        "timestamp": "2017-08-15T04:50:18.274000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02188", 
+            "02473"
+          ], 
+          "number": "2805", 
+          "uid": "66311"
+        }, 
+        "free_bikes": 2, 
+        "id": "b29ac7215bfe5758a1a6889a52e35d87", 
+        "latitude": 53.557205964727, 
+        "longitude": 10.003931522369, 
+        "name": "Atlantic / Holzdamm", 
+        "timestamp": "2017-08-15T04:50:18.203000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02209", 
+            "10269", 
+            "02135", 
+            "02191", 
+            "02089"
+          ], 
+          "number": "2858", 
+          "uid": "652594"
+        }, 
+        "free_bikes": 6, 
+        "id": "3f6cbe79cffd995f2d081ca7fc1b88b0", 
+        "latitude": 53.564196723924, 
+        "longitude": 9.9848127365112, 
+        "name": "Uni Hamburg / Grindel", 
+        "timestamp": "2017-08-15T04:50:18.267000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "03241"
+          ], 
+          "number": "2861", 
+          "uid": "3833586"
+        }, 
+        "free_bikes": 1, 
+        "id": "bf0a7bb0027d3a4000c0993975133a45", 
+        "latitude": 53.552123078641, 
+        "longitude": 9.9311631917953, 
+        "name": "Mercado / Clas Ohlsen", 
+        "timestamp": "2017-08-15T04:50:18.276000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "2816", 
+          "uid": "2414750"
+        }, 
+        "free_bikes": 0, 
+        "id": "85e1d0c11d228e7df19eea13b9fd9de5", 
+        "latitude": 53.547796, 
+        "longitude": 10.014026, 
+        "name": "Ramada Hotel Hamburg ", 
+        "timestamp": "2017-08-15T04:50:18.272000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "02102", 
+            "02207", 
+            "02554"
+          ], 
+          "number": "2845", 
+          "uid": "447262"
+        }, 
+        "free_bikes": 3, 
+        "id": "e2c99e4fdcacb0cbe6bc5161190dd223", 
+        "latitude": 53.571702378665, 
+        "longitude": 9.9526906013489, 
+        "name": "U-Bahn Emilienstrasse", 
+        "timestamp": "2017-08-15T04:50:18.259000Z"
+      }
+    ]
+  }
+}

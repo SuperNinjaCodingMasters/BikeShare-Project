@@ -1,0 +1,80 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-tuzla", 
+    "id": "nextbike-tuzla", 
+    "location": {
+      "city": "Tuzla", 
+      "country": "BA", 
+      "latitude": 44.5392, 
+      "longitude": 18.675
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "bike_uids": [
+            "80624", 
+            "80621", 
+            "80618", 
+            "80616", 
+            "80615"
+          ], 
+          "number": "2460", 
+          "slots": 10, 
+          "uid": "3549346"
+        }, 
+        "free_bikes": 5, 
+        "id": "ef8c3c02e8c9d3b10976ea64faf8ef85", 
+        "latitude": 44.532206213756, 
+        "longitude": 18.65331530571, 
+        "name": "Bingo City Center", 
+        "timestamp": "2017-08-15T04:50:52.788000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "bike_uids": [
+            "80625", 
+            "80619", 
+            "80604", 
+            "80603"
+          ], 
+          "number": "2461", 
+          "slots": 10, 
+          "uid": "3549391"
+        }, 
+        "free_bikes": 4, 
+        "id": "c886fc7b737d10675445742221c108e6", 
+        "latitude": 44.538267032612, 
+        "longitude": 18.6799710989, 
+        "name": "Centar", 
+        "timestamp": "2017-08-15T04:50:52.796000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "bike_uids": [
+            "80622", 
+            "80620", 
+            "80617", 
+            "80614", 
+            "80609"
+          ], 
+          "number": "2462", 
+          "slots": 10, 
+          "uid": "3549401"
+        }, 
+        "free_bikes": 5, 
+        "id": "21df8530218371cce38c8236f5174b20", 
+        "latitude": 44.531590536927, 
+        "longitude": 18.705548644066, 
+        "name": "Sjenjak", 
+        "timestamp": "2017-08-15T04:50:52.797000Z"
+      }
+    ]
+  }
+}

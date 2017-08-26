@@ -1,0 +1,96 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/tradate", 
+    "id": "tradate", 
+    "location": {
+      "city": "Tradate", 
+      "country": "IT", 
+      "latitude": 45.70938576720161, 
+      "longitude": 8.915993391601548
+    }, 
+    "name": "Tradate", 
+    "stations": [
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Gian Luigi Zucchi", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "ddcbd11728b9e112ced908db42001201", 
+        "latitude": 45.710689486254985, 
+        "longitude": 8.906827828836072, 
+        "name": "Stazione", 
+        "timestamp": "2017-08-15T04:48:44.930000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Piazza Mazzini", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "d9f5fd68a8fb4d6c9fbbd826a1fce1fe", 
+        "latitude": 45.71378564611957, 
+        "longitude": 8.905846874499503, 
+        "name": "Comune", 
+        "timestamp": "2017-08-15T04:48:44.936000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Zara / Via F. Rismondo", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "73fe86e6e1bbc022bcc249dca6acae5f", 
+        "latitude": 45.7113921132098, 
+        "longitude": 8.911012809062186, 
+        "name": "Museo Frera", 
+        "timestamp": "2017-08-15T04:48:44.936000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via XI Febbraio", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "08a5a290bab5f8f2db55a17a8fa934b5", 
+        "latitude": 45.72308911015297, 
+        "longitude": 8.900739948535147, 
+        "name": "Ospedale", 
+        "timestamp": "2017-08-15T04:48:44.937000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Europa / Via dei Pradacci", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "eed794629afb580d9bab9c072b65c29b", 
+        "latitude": 45.70342791528529, 
+        "longitude": 8.906115095400992, 
+        "name": "Europa", 
+        "timestamp": "2017-08-15T04:48:44.938000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "description": "Via Vittorio Veneto", 
+          "status": "offline"
+        }, 
+        "free_bikes": 0, 
+        "id": "970b373db38ed1f018f7e2b48a17e3ca", 
+        "latitude": 45.70199491351439, 
+        "longitude": 8.918890456938925, 
+        "name": "Vittorio Veneto", 
+        "timestamp": "2017-08-15T04:48:44.939000Z"
+      }
+    ]
+  }
+}

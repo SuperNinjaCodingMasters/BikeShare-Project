@@ -1,0 +1,114 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-romerland", 
+    "id": "nextbike-romerland", 
+    "location": {
+      "city": "R\u00f6merland", 
+      "country": "AT", 
+      "latitude": 48.0909, 
+      "longitude": 16.853
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09546", 
+            "09679", 
+            "08734", 
+            "08613", 
+            "08352"
+          ], 
+          "number": "3517", 
+          "uid": "46617"
+        }, 
+        "free_bikes": 5, 
+        "id": "346949c702072acb504693708aaccd04", 
+        "latitude": 48.13983, 
+        "longitude": 16.90313, 
+        "name": "Bad Deutschaltenburg / Museum Carnuntinum", 
+        "timestamp": "2017-08-15T04:49:10.028000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09853", 
+            "09252", 
+            "09994", 
+            "08611"
+          ], 
+          "number": "3518", 
+          "uid": "46618"
+        }, 
+        "free_bikes": 4, 
+        "id": "9f5f9403ce12c36fe905e17ac22b4f80", 
+        "latitude": 48.10604, 
+        "longitude": 16.86747, 
+        "name": "Petronell - Carnuntum / Bahnhof", 
+        "timestamp": "2017-08-15T04:49:10.030000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09665", 
+            "09747", 
+            "08788", 
+            "08286"
+          ], 
+          "number": "3516", 
+          "uid": "46616"
+        }, 
+        "free_bikes": 4, 
+        "id": "fc67130c20913a13e013645a8ba30f85", 
+        "latitude": 48.13279, 
+        "longitude": 16.91042, 
+        "name": "Bad Deutschaltenburg / Bahnhof", 
+        "timestamp": "2017-08-15T04:49:10.023000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09773", 
+            "09281", 
+            "08859", 
+            "08835"
+          ], 
+          "number": "3519", 
+          "uid": "46619"
+        }, 
+        "free_bikes": 4, 
+        "id": "e2ec64445a3e46e7b6912252881ff8b1", 
+        "latitude": 48.11236, 
+        "longitude": 16.85753, 
+        "name": "Petronell - Carnuntum / Arch\u00e4ologischer Park Carnuntum", 
+        "timestamp": "2017-08-15T04:49:10.032000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09715", 
+            "09289", 
+            "08981", 
+            "08412"
+          ], 
+          "number": "3514", 
+          "uid": "46614"
+        }, 
+        "free_bikes": 4, 
+        "id": "dc658c199ebfd3092dfea7a2fb9c9abc", 
+        "latitude": 48.14738, 
+        "longitude": 16.94136, 
+        "name": "Hainburg / Hauptplatz", 
+        "timestamp": "2017-08-15T04:49:10.012000Z"
+      }
+    ]
+  }
+}

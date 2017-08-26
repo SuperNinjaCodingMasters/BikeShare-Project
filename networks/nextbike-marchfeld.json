@@ -1,0 +1,76 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/nextbike-marchfeld", 
+    "id": "nextbike-marchfeld", 
+    "location": {
+      "city": "Marchfeld", 
+      "country": "AT", 
+      "latitude": 48.2407, 
+      "longitude": 16.9093
+    }, 
+    "name": "Nextbike", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09057", 
+            "09827", 
+            "09988", 
+            "08947"
+          ], 
+          "number": "3535", 
+          "uid": "65803"
+        }, 
+        "free_bikes": 4, 
+        "id": "8c31dd96492115ff9feb211d1613cef5", 
+        "latitude": 48.28, 
+        "longitude": 16.907222, 
+        "name": "Marchegg / Hauptplatz", 
+        "timestamp": "2017-08-15T04:48:36.440000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09829", 
+            "08954", 
+            "08805", 
+            "08794"
+          ], 
+          "number": "3538", 
+          "uid": "65806"
+        }, 
+        "free_bikes": 4, 
+        "id": "557e1349c6e70e7483a3ccc845b517ed", 
+        "latitude": 48.215833, 
+        "longitude": 16.935, 
+        "name": "Engelhartstetten / Schloss Hof", 
+        "timestamp": "2017-08-15T04:48:36.450000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09674", 
+            "09267", 
+            "08535", 
+            "08309", 
+            "08419"
+          ], 
+          "number": "3537", 
+          "uid": "65805"
+        }, 
+        "free_bikes": 5, 
+        "id": "90bf0d6096168fd832e1a5f4700f9262", 
+        "latitude": 48.249819130166, 
+        "longitude": 16.917888522148, 
+        "name": "Marchegg / Bahnhof", 
+        "timestamp": "2017-08-15T04:48:36.449000Z"
+      }
+    ]
+  }
+}

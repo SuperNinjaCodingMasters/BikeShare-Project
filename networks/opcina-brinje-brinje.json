@@ -1,0 +1,58 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/opcina-brinje-brinje", 
+    "id": "opcina-brinje-brinje", 
+    "location": {
+      "city": "Brinje", 
+      "country": "HR", 
+      "latitude": 44.9977, 
+      "longitude": 15.1258
+    }, 
+    "name": "Op\u0107ina Brinje", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "bike_uids": [
+            "80413", 
+            "80412", 
+            "80410"
+          ], 
+          "number": "2381", 
+          "slots": 8, 
+          "uid": "1264955"
+        }, 
+        "free_bikes": 3, 
+        "id": "aab5e4fe7cc5311555be66f57080e033", 
+        "latitude": 45.005456584349, 
+        "longitude": 15.127379894257, 
+        "name": "Hotel Lika", 
+        "timestamp": "2017-08-15T04:49:11.345000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "bike_uids": [
+            "80409", 
+            "80408", 
+            "80415", 
+            "80414", 
+            "80411"
+          ], 
+          "number": "2380", 
+          "slots": 6, 
+          "uid": "1264941"
+        }, 
+        "free_bikes": 5, 
+        "id": "2897c7128c08e99258a187500734493b", 
+        "latitude": 44.998765597237, 
+        "longitude": 15.131006240845, 
+        "name": "Brinje", 
+        "timestamp": "2017-08-15T04:49:11.335000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/toyama-cyclocity", 
+    "id": "toyama-cyclocity", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "\u5bcc\u5c71\u5e02", 
+      "country": "JP", 
+      "latitude": 36.6959518, 
+      "longitude": 137.2136768
+    }, 
+    "name": "cyclocity", 
+    "stations": [
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "\u4e94\u798f777 777Gofuku", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771813000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 20
+        }, 
+        "free_bikes": 8, 
+        "id": "e8740fe30f38ce28e60bfc17e7b4fddd", 
+        "latitude": 36.699082, 
+        "longitude": 137.195685, 
+        "name": "\u6c34\u58a8\u7f8e\u8853\u9928\u3000SUIBOKU MUSEUM", 
+        "timestamp": "2017-08-15T04:46:34.488000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "\u5317\u65b0\u753a\uff11\u4e01\u76ee\uff13\u756a 1-3 Kitashin-machi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772150000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 5, 
+        "id": "b5a16c946140c223a13780c533f46119", 
+        "latitude": 36.693935, 
+        "longitude": 137.220853, 
+        "name": "\u5317\u65b0\u753a\uff11\u4e01\u76ee KITASHIN-MACHI 1", 
+        "timestamp": "2017-08-15T04:46:34.470000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "\u725b\u5cf6\u753a\uff11\uff17\u756a 17 Ushijima-cho", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772178000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 10, 
+        "id": "f1fac3e4156ee904db61c03bda4f18c5", 
+        "latitude": 36.703055, 
+        "longitude": 137.214531, 
+        "name": "\u5bcc\u5c71\u99c5\u5317 TOYAMA STATION NORTH", 
+        "timestamp": "2017-08-15T04:46:34.472000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "\u5965\u7530\u65b0\u753a\uff18\u756a 8 Okudashin-machi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771997000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 3, 
+        "id": "b282f3e7f0bc8e23d19fe61a9ab9a15d", 
+        "latitude": 36.705842, 
+        "longitude": 137.215829, 
+        "name": "\u74b0\u6c34\u516c\u5712\u6771 CANAL PARK\u3000EAST", 
+        "timestamp": "2017-08-15T04:46:34.480000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "\u725b\u5cf6\u672c\u753a2\u4e01\u76ee1-38\u30002-1-38 Ushijimahonncho", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772290000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 15, 
+        "id": "f61474c8dbd035b66ec262ad4f07fad6", 
+        "latitude": 36.709021, 
+        "longitude": 137.21056, 
+        "name": "\u74b0\u6c34\u516c\u5712\u897f\u3000CANAL PARK WEST", 
+        "timestamp": "2017-08-15T04:46:34.481000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "\u672c\u753a\uff13\u756a 3 Hon-machi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772110000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 8, 
+        "id": "fabb346edbb907b7d61ff2e64ebcf4f4", 
+        "latitude": 36.694109, 
+        "longitude": 137.216014, 
+        "name": "\u672c\u753a HON-MACHI", 
+        "timestamp": "2017-08-15T04:46:34.482000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "\u897f\u753a\uff13\u756a 3 Nishi-cho", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771834000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 14
+        }, 
+        "free_bikes": 17, 
+        "id": "28d7b97a28dfe206c01d005c64e82ab2", 
+        "latitude": 36.688971, 
+        "longitude": 137.214437, 
+        "name": "\u897f\u753a NISHI-CHO", 
+        "timestamp": "2017-08-15T04:46:34.483000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "\u5824\u753a\u901a\u308a\uff11\u4e01\u76ee\uff12\u756a\uff12\uff16\u53f7 1-2-26 Tsutsumicho-dori", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772165000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 14, 
+        "id": "0fa79eff199d5968372d9b928173ba1a", 
+        "latitude": 36.688891, 
+        "longitude": 137.217613, 
+        "name": "\u5824\u753a\u901a\u308a TSUTSUMICHO STREET", 
+        "timestamp": "2017-08-15T04:46:34.484000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "\u4e38\u306e\u5185\uff13\u4e01\u76ee\uff11\u756a 3-1 Marunouchi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772050000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 9, 
+        "id": "0557f0f74ad11047dcbf3034b23c2416", 
+        "latitude": 36.692294, 
+        "longitude": 137.209547, 
+        "name": "\u4e38\u306e\u5185 MARUNOUCHI", 
+        "timestamp": "2017-08-15T04:46:34.485000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "\u672c\u4e38\uff11\u756a 1 Honmaru", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772368000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 5, 
+        "id": "ae685cb3821400e8b50b5a4a78e6a507", 
+        "latitude": 36.693453, 
+        "longitude": 137.212635, 
+        "name": "\u57ce\u5740\u516c\u5712\u6771 CASTLE PARK EAST", 
+        "timestamp": "2017-08-15T04:46:34.486000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "\u65b0\u7dcf\u66f2\u8f2a1\u4e01\u76ee7\u756a\u30001-7 Shinsogawa 3\u670813\u65e5\u307e\u3067\u4f11\u6b62\u4e2d", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771791000, 
+          "slots": 17, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 8, 
+        "id": "e140e93f3889e07983078e2bfc44e3f0", 
+        "latitude": 36.69597, 
+        "longitude": 137.210053, 
+        "name": "\u770c\u5e81\u524d\u516c\u5712\u3000KENCHOMAE PARK", 
+        "timestamp": "2017-08-15T04:46:34.489000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "\u65c5\u7c60\u753a\uff12\u756a\uff11\uff10\u53f7 2-10 Hatago-machi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772051000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 7, 
+        "id": "761e606b1ddd84a7912273b883edf282", 
+        "latitude": 36.6893, 
+        "longitude": 137.208727, 
+        "name": "\u65c5\u7c60\u753a HATAGO-MACHI", 
+        "timestamp": "2017-08-15T04:46:34.489000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "\u5927\u624b\u753a\uff12\u756a 2 Ote-machi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772258000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 8, 
+        "id": "7266d827c2d213c54d61939b830c3972", 
+        "latitude": 36.691732, 
+        "longitude": 137.211425, 
+        "name": "\u5927\u624b\u753a OTE-MACHI", 
+        "timestamp": "2017-08-15T04:46:34.490000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "\u65b0\u685c\u753a\uff17\u756a 7 Shinsakura-machi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772125000, 
+          "slots": 18, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 7, 
+        "id": "9c133429988c40d97e62901d2a4c10a9", 
+        "latitude": 36.696277, 
+        "longitude": 137.213238, 
+        "name": "\u5e02\u5f79\u6240 CITY HALL", 
+        "timestamp": "2017-08-15T04:46:34.491000Z"
+      }, 
+      {
+        "empty_slots": 32, 
+        "extra": {
+          "address": "\u4e94\u798f\u5b57\u624d\u52dd1929\u756a\u57308", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771904000, 
+          "slots": 45, 
+          "status": "OPEN", 
+          "uid": 18
+        }, 
+        "free_bikes": 13, 
+        "id": "239f1bd0463ebb803269edb67185ae02", 
+        "latitude": 36.698655, 
+        "longitude": 137.191297, 
+        "name": "\u5bcc\u5c71\u5927\u5b66\u524d TOYAMA UNIVERSITY MAE", 
+        "timestamp": "2017-08-15T04:46:34.492000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "\u685c\u6a4b\u901a\u308a\uff16\u756a 6 Sakurabashi-dori", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772316000, 
+          "slots": 16, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 9, 
+        "id": "228cefa36663fa8d903b647a23bd4dcd", 
+        "latitude": 36.697144, 
+        "longitude": 137.21636, 
+        "name": "\u685c\u6a4b\u901a\u308a SAKURABASHI STREET", 
+        "timestamp": "2017-08-15T04:46:34.493000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "\u8352\u753a\uff16\u756a 6 Ara-machi", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772078000, 
+          "slots": 12, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 5, 
+        "id": "56d0dd5669cf4e229f5f66c4179839b9", 
+        "latitude": 36.691711, 
+        "longitude": 137.215395, 
+        "name": "\u8352\u753a ARA-MACHI", 
+        "timestamp": "2017-08-15T04:46:34.495000Z"
+      }, 
+      {
+        "empty_slots": 22, 
+        "extra": {
+          "address": "\u5bcc\u5c71\u5e02\u660e\u8f2a\u753a1\u5185 Station Plaza South", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772220000, 
+          "slots": 26, 
+          "status": "OPEN", 
+          "uid": 19
+        }, 
+        "free_bikes": 4, 
+        "id": "86d007183485469e4c9ebca1b6489f11", 
+        "latitude": 36.700638, 
+        "longitude": 137.21281, 
+        "name": "\u5357\u53e3\u99c5\u524d\u5e83\u5834STATION PLAZA SOUTH ENTRANCE", 
+        "timestamp": "2017-08-15T04:46:34.494000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "\u65b0\u5bcc\u753a\uff11\u4e01\u76ee\uff12\u756a\uff14\u53f7 1-2-4 Shintomi-cho", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502772020000, 
+          "slots": 19, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 8, 
+        "id": "fb6f9fca404bba94d557e15d6a367d27", 
+        "latitude": 36.699785, 
+        "longitude": 137.212951, 
+        "name": "\u5bcc\u5c71\u99c5\u5357\u2461 TOYAMA STATION SOUTH 2", 
+        "timestamp": "2017-08-15T04:46:34.473000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "\u660e\u8f2a\u753a\uff11\u756a 1 Meirin-cho", 
+          "banking": false, 
+          "bonus": false, 
+          "last_update": 1502771927000, 
+          "slots": 24, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 13, 
+        "id": "1609db6b533f6c77b7f530190be9e264", 
+        "latitude": 36.700641, 
+        "longitude": 137.211718, 
+        "name": "\u5bcc\u5c71\u99c5\u5357\u2460 TOYAMA STATION SOUTH 1", 
+        "timestamp": "2017-08-15T04:46:34.487000Z"
+      }
+    ]
+  }
+}

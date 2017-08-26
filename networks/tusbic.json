@@ -1,0 +1,310 @@
+{
+  "network": {
+    "company": [
+      "JCDecaux"
+    ], 
+    "href": "/v2/networks/tusbic", 
+    "id": "tusbic", 
+    "license": {
+      "name": "Open Licence", 
+      "url": "https://developer.jcdecaux.com/#/opendata/licence"
+    }, 
+    "location": {
+      "city": "Santander", 
+      "country": "ES", 
+      "latitude": 43.46230569999999, 
+      "longitude": -3.8099803
+    }, 
+    "name": "Tusbic", 
+    "stations": [
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Parque las Llamas (Aprox. Palacio de Deportes)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772396000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 3
+        }, 
+        "free_bikes": 15, 
+        "id": "0019e349992bff4ea1cde29cbc610826", 
+        "latitude": 43.47573226037, 
+        "longitude": -3.79806387098462, 
+        "name": "003_PARQUE LAS LLAMAS", 
+        "timestamp": "2017-08-15T04:49:57.848000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Plaza de Italia (Aprox. C/ de Joaqu\u00edn Costa)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772098000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 8
+        }, 
+        "free_bikes": 6, 
+        "id": "59fdd38f436f88f898fb5ecfa9a4c2f9", 
+        "latitude": 43.4718048257527, 
+        "longitude": -3.78134613485541, 
+        "name": "008_PLAZA DE ITALIA", 
+        "timestamp": "2017-08-15T04:49:57.855000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "Glorieta de los Delfines (Aprox. Avda de los Castros)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772573000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 5
+        }, 
+        "free_bikes": 16, 
+        "id": "a6d7f945c47f98c83df7bdbfeb2dadae", 
+        "latitude": 43.4719661074837, 
+        "longitude": -3.79285449619735, 
+        "name": "005_GLORIETA DE LOS DELFINES", 
+        "timestamp": "2017-08-15T04:49:57.856000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "Calle Alta (Aprox. Mercado de M\u00e9xico)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772306000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 12
+        }, 
+        "free_bikes": 10, 
+        "id": "0a28d72473f006831b79802ecc618add", 
+        "latitude": 43.4579662522228, 
+        "longitude": -3.82480124234961, 
+        "name": "012_CALLE ALTA", 
+        "timestamp": "2017-08-15T04:49:57.857000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Avenida de la Magdalena (Aprox. Avda de la Reina Victoria)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772110000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 9
+        }, 
+        "free_bikes": 1, 
+        "id": "8a2944a836f6fd278142a1d08bb7a9d6", 
+        "latitude": 43.4691494140035, 
+        "longitude": -3.77327597557961, 
+        "name": "009_AVENIDA DE LA MAGDALENA", 
+        "timestamp": "2017-08-15T04:49:57.859000Z"
+      }, 
+      {
+        "empty_slots": 30, 
+        "extra": {
+          "address": "Facultad de Derecho (Aprox. Facultad de Ciencias)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772028000, 
+          "slots": 30, 
+          "status": "OPEN", 
+          "uid": 7
+        }, 
+        "free_bikes": 0, 
+        "id": "22661bb666116aa833f51fd396f164e1", 
+        "latitude": 43.4701661089386, 
+        "longitude": -3.80649947753026, 
+        "name": "007_FACULTAD DE DERECHO", 
+        "timestamp": "2017-08-15T04:49:57.861000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "Plaza de las Brisas (Aprox. Jardines de Piquio)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772335000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 2
+        }, 
+        "free_bikes": 6, 
+        "id": "da39fe3f6ec1105bb4d1d2fc7cf9a325", 
+        "latitude": 43.4744126704703, 
+        "longitude": -3.78578134528458, 
+        "name": "002_PLAZA DE LAS BRISAS", 
+        "timestamp": "2017-08-15T04:49:57.862000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "Plaza de San Martin (Aprox. Avda de la Reina Victoria y Castelar)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772212000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 10
+        }, 
+        "free_bikes": 13, 
+        "id": "5d8cec83bd5414b70b7f7730509f7c51", 
+        "latitude": 43.4635521249485, 
+        "longitude": -3.78800547922826, 
+        "name": "010_PLAZA DE SAN MARTIN", 
+        "timestamp": "2017-08-15T04:49:57.867000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Calle de San Fernando (Aprox. Paseo del Alameda)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502750403000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 13
+        }, 
+        "free_bikes": 19, 
+        "id": "2ee05d6b63c99f3316f994ebc8acc9d2", 
+        "latitude": 43.4607255432349, 
+        "longitude": -3.81797824491875, 
+        "name": "013_CALLE DE SAN FERNANDO", 
+        "timestamp": "2017-08-15T04:49:57.868000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "Cormoran (Aprox. C/ de Manuel Garc\u00eda Lago)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772440000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 4
+        }, 
+        "free_bikes": 13, 
+        "id": "3a9cc65e8fb68f29330d58584dc278c4", 
+        "latitude": 43.4784718110308, 
+        "longitude": -3.78865314567001, 
+        "name": "004_CORMOR\u00c1N", 
+        "timestamp": "2017-08-15T04:49:57.868000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "Facultad de las Ciencias (Aprox. Glorieta de los Delfines)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772050000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 6
+        }, 
+        "free_bikes": 14, 
+        "id": "58795fe477dfd056cb65cf7a6525cc17", 
+        "latitude": 43.4711061117108, 
+        "longitude": -3.80058645890079, 
+        "name": "006_FACULDAD DE CIENCIAS", 
+        "timestamp": "2017-08-15T04:49:57.872000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Rucandial", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502771995000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 17
+        }, 
+        "free_bikes": 11, 
+        "id": "f85aceda61c37b21be4fe1beb7bf7c18", 
+        "latitude": 43.4548260614091, 
+        "longitude": -3.86690066866145, 
+        "name": "017_RUCANDIAL", 
+        "timestamp": "2017-08-15T04:49:57.875000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "Puerto Chico (Aprox.Paseo Pereda y San Mart\u00edn)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772215000, 
+          "slots": 25, 
+          "status": "OPEN", 
+          "uid": 11
+        }, 
+        "free_bikes": 4, 
+        "id": "5f487a15bd40a94e466805cb427b09b3", 
+        "latitude": 43.4621430815773, 
+        "longitude": -3.79724144946775, 
+        "name": "011_PUERTO CHICO", 
+        "timestamp": "2017-08-15T04:49:57.876000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "Severo Ochoa", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772516000, 
+          "slots": 20, 
+          "status": "OPEN", 
+          "uid": 16
+        }, 
+        "free_bikes": 12, 
+        "id": "d21ba40bbf8879532107681e9563d8e8", 
+        "latitude": 43.4528130549523, 
+        "longitude": -3.87139068298249, 
+        "name": "016_SEVERO OCHOA", 
+        "timestamp": "2017-08-15T04:49:57.873000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "Jardines de Pereda (Aprox. Correos y Castelar)", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772263000, 
+          "slots": 40, 
+          "status": "OPEN", 
+          "uid": 1
+        }, 
+        "free_bikes": 34, 
+        "id": "faddcd2ef23000db7de5469f643f0fb2", 
+        "latitude": 43.461719, 
+        "longitude": -3.8021, 
+        "name": "001_JARDINES DE PEREDA", 
+        "timestamp": "2017-08-15T04:49:57.870000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "Cerca de borna 7", 
+          "banking": true, 
+          "bonus": false, 
+          "last_update": 1502772332000, 
+          "slots": 15, 
+          "status": "OPEN", 
+          "uid": 15
+        }, 
+        "free_bikes": 6, 
+        "id": "98409cfa49aadba0d95c7da884c00c5f", 
+        "latitude": 43.463985, 
+        "longitude": -3.830683, 
+        "name": "015_AV.DE LOS CASTROS 141", 
+        "timestamp": "2017-08-15T04:49:57.864000Z"
+      }
+    ]
+  }
+}

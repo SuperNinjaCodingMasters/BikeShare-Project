@@ -1,0 +1,67 @@
+{
+  "network": {
+    "company": [
+      "Cyclopolis Systems"
+    ], 
+    "href": "/v2/networks/cyclopolis-limnos", 
+    "id": "cyclopolis-limnos", 
+    "location": {
+      "city": "Limnos", 
+      "country": "GR", 
+      "latitude": 39.8747861, 
+      "longitude": 25.0586722
+    }, 
+    "name": "Cyclopolis", 
+    "stations": [
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "slots": 12
+        }, 
+        "free_bikes": 4, 
+        "id": "6fba686242400f49a786f761b6343bfb", 
+        "latitude": 39.8775611, 
+        "longitude": 25.0603972, 
+        "name": "OTE SQUARE", 
+        "timestamp": "2017-08-15T04:50:38.437000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 4, 
+        "id": "5ef0ceb51406641d60c2d3e2006c05ab", 
+        "latitude": 39.8843833, 
+        "longitude": 25.0636833, 
+        "name": "ANDRONIOU PARK - SHALLOW WATERS", 
+        "timestamp": "2017-08-15T04:50:38.439000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "slots": 16
+        }, 
+        "free_bikes": 5, 
+        "id": "854adcccef8e027e5fd264c675820d9d", 
+        "latitude": 39.8747861, 
+        "longitude": 25.0586722, 
+        "name": "OLD HARBOUR", 
+        "timestamp": "2017-08-15T04:50:38.429000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "closed": true, 
+          "slots": 16
+        }, 
+        "free_bikes": 0, 
+        "id": "ba57bf7f28de5acc0980d33c6bd0973a", 
+        "latitude": 39.879839, 
+        "longitude": 25.061872, 
+        "name": "EL. VENIZELOS SQ.", 
+        "timestamp": "2017-08-15T04:50:38.438000Z"
+      }
+    ]
+  }
+}

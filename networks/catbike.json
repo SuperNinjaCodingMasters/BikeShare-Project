@@ -1,0 +1,44 @@
+{
+  "network": {
+    "company": [
+      "Trek Bicycle Corporation", 
+      "Humana", 
+      "Crispin Porter + Bogusky"
+    ], 
+    "href": "/v2/networks/catbike", 
+    "id": "catbike", 
+    "location": {
+      "city": "Savannah, GA", 
+      "country": "US", 
+      "latitude": 32.016667, 
+      "longitude": -81.116667
+    }, 
+    "name": "CAT Bike", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "31 Barnard Street, Savannah, GA 31401"
+        }, 
+        "free_bikes": 0, 
+        "id": "4bea46546dbfe1db878dee8e8fd71032", 
+        "latitude": 32.08039, 
+        "longitude": -81.0942, 
+        "name": "Ellis Square", 
+        "timestamp": "2017-04-27T02:32:05.836000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "610 W. Oglethorpe Ave., Savannah, GA 31401"
+        }, 
+        "free_bikes": 1, 
+        "id": "be5d4b27d09d280e730a68c8bb9ced69", 
+        "latitude": 32.07956, 
+        "longitude": -81.10063, 
+        "name": "Rivers Exchange @ 610 W. Oglethorpe", 
+        "timestamp": "2017-04-27T02:32:05.840000Z"
+      }
+    ]
+  }
+}

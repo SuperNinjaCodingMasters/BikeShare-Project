@@ -1,0 +1,114 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-aranda-de-duero", 
+    "id": "onroll-aranda-de-duero", 
+    "location": {
+      "city": "Aranda de Duero", 
+      "country": "ES", 
+      "latitude": 41.667601, 
+      "longitude": -3.689526
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "f8b53207857abb6767103c6707f3185f", 
+        "latitude": 41.672017, 
+        "longitude": -3.679508, 
+        "name": "Avenida de Burgos", 
+        "timestamp": "2017-08-15T04:48:34.378000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "a2d48d61cee069e9a55179b7fb64efc5", 
+        "latitude": 41.658614, 
+        "longitude": -3.692539, 
+        "name": "Avenida Castilla", 
+        "timestamp": "2017-08-15T04:48:34.387000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "0a7613d14e7a1de1f4f38d315c3dd137", 
+        "latitude": 41.676594, 
+        "longitude": -3.685692, 
+        "name": "Calle San Francisco", 
+        "timestamp": "2017-08-15T04:48:34.389000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "a0cbb686edd8021f70b62ebcc4c8827f", 
+        "latitude": 41.664492, 
+        "longitude": -3.702283, 
+        "name": "Parque de Bomberos", 
+        "timestamp": "2017-08-15T04:48:34.390000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 1, 
+        "id": "aed0ba538120bb3ca3ef53c8c1f51c94", 
+        "latitude": 41.664025, 
+        "longitude": -3.688978, 
+        "name": "Piscinas Cubiertas", 
+        "timestamp": "2017-08-15T04:48:34.391000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "status": {
+            "code": 17, 
+            "message": "No Service", 
+            "online": false
+          }
+        }, 
+        "free_bikes": 0, 
+        "id": "5de2803f9219ecbe990d55b35d430e73", 
+        "latitude": 41.669864, 
+        "longitude": -3.688153, 
+        "name": "Plaza Mayor", 
+        "timestamp": "2017-08-15T04:48:34.394000Z"
+      }
+    ]
+  }
+}

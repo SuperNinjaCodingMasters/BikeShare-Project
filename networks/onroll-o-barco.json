@@ -1,0 +1,82 @@
+{
+  "network": {
+    "company": [
+      "Domoblue"
+    ], 
+    "href": "/v2/networks/onroll-o-barco", 
+    "id": "onroll-o-barco", 
+    "location": {
+      "city": "O Barco", 
+      "country": "ES", 
+      "latitude": 42.413993, 
+      "longitude": -6.982913
+    }, 
+    "name": "Onroll", 
+    "stations": [
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 6, 
+        "id": "79b7c1f005d8a9491d17538d6eac5fd7", 
+        "latitude": 42.416957, 
+        "longitude": -6.994955, 
+        "name": "Polideportivo de Calabagueiros", 
+        "timestamp": "2017-08-15T04:47:06.102000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "9234bb2358be997cff4b0ffd44f5f482", 
+        "latitude": 42.415789, 
+        "longitude": -6.984611, 
+        "name": "Praza Andr\u00e9s de Prada", 
+        "timestamp": "2017-08-15T04:47:06.109000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 3, 
+        "id": "1d33c14990eef1b21dfb7ced782dfa47", 
+        "latitude": 42.412483, 
+        "longitude": -6.973664, 
+        "name": "San Roque", 
+        "timestamp": "2017-08-15T04:47:06.110000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "status": {
+            "code": 14, 
+            "message": "Online", 
+            "online": true
+          }
+        }, 
+        "free_bikes": 4, 
+        "id": "696154b94089218fcb9cb642521a1f02", 
+        "latitude": 42.410743, 
+        "longitude": -6.97842, 
+        "name": "Viloira", 
+        "timestamp": "2017-08-15T04:47:06.111000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,737 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ], 
+    "href": "/v2/networks/burgenland-neusiedler-see", 
+    "id": "burgenland-neusiedler-see", 
+    "location": {
+      "city": "Neusiedler See", 
+      "country": "AT", 
+      "latitude": 47.839, 
+      "longitude": 16.761
+    }, 
+    "name": "Burgenland", 
+    "stations": [
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09382", 
+            "09184", 
+            "09189", 
+            "09130"
+          ], 
+          "number": "3337", 
+          "uid": "65573"
+        }, 
+        "free_bikes": 4, 
+        "id": "29de642cd9d483b01102e50471094e0b", 
+        "latitude": 47.800674035828, 
+        "longitude": 16.6668176651, 
+        "name": "Rust / Weingut ELFENHOF", 
+        "timestamp": "2017-08-15T04:49:39.924000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09367", 
+            "09341", 
+            "09138", 
+            "09212"
+          ], 
+          "number": "3308", 
+          "uid": "94"
+        }, 
+        "free_bikes": 4, 
+        "id": "1c0a49d52fd446af321fd3e90ab0e9fc", 
+        "latitude": 47.906200408935, 
+        "longitude": 16.698299407959, 
+        "name": "Purbach / Bhf", 
+        "timestamp": "2017-08-15T04:49:39.896000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09058", 
+            "09312", 
+            "09304", 
+            "09139", 
+            "09188"
+          ], 
+          "number": "3321", 
+          "uid": "202"
+        }, 
+        "free_bikes": 6, 
+        "id": "5ac5a008d8583a488dd10bc629c93a96", 
+        "latitude": 47.782657799816, 
+        "longitude": 16.928177475929, 
+        "name": "St Andr\u00e4 / Bhf", 
+        "timestamp": "2017-08-15T04:49:39.897000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09196", 
+            "09159", 
+            "09112", 
+            "09127", 
+            "09217"
+          ], 
+          "number": "3314", 
+          "uid": "556"
+        }, 
+        "free_bikes": 5, 
+        "id": "a2207a83e5345bc14d306d1727324e77", 
+        "latitude": 47.928737195159, 
+        "longitude": 16.834938526154, 
+        "name": "Neusiedl / Mole West", 
+        "timestamp": "2017-08-15T04:49:39.899000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09115", 
+            "09179", 
+            "09154"
+          ], 
+          "number": "3306", 
+          "uid": "572"
+        }, 
+        "free_bikes": 3, 
+        "id": "0b66317a02cd12484ba8f18f8f26292d", 
+        "latitude": 47.754617323544, 
+        "longitude": 16.697244644165, 
+        "name": "M\u00f6rbisch / Bootsverleih Drescher", 
+        "timestamp": "2017-08-15T04:49:39.901000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09035", 
+            "09379", 
+            "09172"
+          ], 
+          "number": "3305", 
+          "uid": "592"
+        }, 
+        "free_bikes": 3, 
+        "id": "b2771b25c63c1a315fdbff1f2f1e4e60", 
+        "latitude": 47.797820109557, 
+        "longitude": 16.673555374146, 
+        "name": "Rust / Hotel am Greiner", 
+        "timestamp": "2017-08-15T04:49:39.902000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "3307", 
+          "uid": "1431"
+        }, 
+        "free_bikes": 0, 
+        "id": "a6489f3e1fe11851719ccd4d79081c74", 
+        "latitude": 47.716229624073, 
+        "longitude": 16.685485839844, 
+        "name": "Fert\u00f6rakos / Drescher Line", 
+        "timestamp": "2017-08-15T04:49:39.904000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09068", 
+            "09149", 
+            "09136", 
+            "09197", 
+            "09152"
+          ], 
+          "number": "3317", 
+          "uid": "1450"
+        }, 
+        "free_bikes": 5, 
+        "id": "7dde829d1fa37c9b6fc35db396d463a0", 
+        "latitude": 47.858691466286, 
+        "longitude": 16.830668449402, 
+        "name": "Podersdorf am See / Platz der Radchampions", 
+        "timestamp": "2017-08-15T04:49:39.904000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09380", 
+            "09361", 
+            "09199", 
+            "09163", 
+            "09216"
+          ], 
+          "number": "3318", 
+          "uid": "1452"
+        }, 
+        "free_bikes": 5, 
+        "id": "7078e6639fa788877790fe7855fc8787", 
+        "latitude": 47.767116078021, 
+        "longitude": 16.803867816925, 
+        "name": "Illmitz / Heuriger Gruber", 
+        "timestamp": "2017-08-15T04:49:39.905000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09047", 
+            "09191", 
+            "09208", 
+            "09204"
+          ], 
+          "number": "3302", 
+          "uid": "3403"
+        }, 
+        "free_bikes": 4, 
+        "id": "4ea6452a13b5ae56e909399eafab9679", 
+        "latitude": 47.845645899278, 
+        "longitude": 16.525170207024, 
+        "name": "Eisenstadt / Domplatz", 
+        "timestamp": "2017-08-15T04:49:39.907000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09077", 
+            "09313", 
+            "09301", 
+            "09364", 
+            "09103"
+          ], 
+          "number": "3316", 
+          "uid": "6245"
+        }, 
+        "free_bikes": 5, 
+        "id": "95b0fc2681fd1eb6bde4dcc5cd9a07c3", 
+        "latitude": 47.951542556502, 
+        "longitude": 16.836183071136, 
+        "name": "Neusiedl / Bezirkshauptmannschaft", 
+        "timestamp": "2017-08-15T04:49:39.908000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09052", 
+            "09178", 
+            "09180", 
+            "09185"
+          ], 
+          "number": "3311", 
+          "uid": "11323"
+        }, 
+        "free_bikes": 4, 
+        "id": "3f72bfa54a7ed6ceaebfde4c82f92d3f", 
+        "latitude": 47.916859762677, 
+        "longitude": 16.764514446258, 
+        "name": "Breitenbrunn / Seebad", 
+        "timestamp": "2017-08-15T04:49:39.910000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09071", 
+            "09327", 
+            "09182", 
+            "09183", 
+            "09170"
+          ], 
+          "number": "3320", 
+          "uid": "19304"
+        }, 
+        "free_bikes": 5, 
+        "id": "25ac707990d6e6296d97e541ab9be3d8", 
+        "latitude": 47.754328799815, 
+        "longitude": 16.741962432861, 
+        "name": "Illmitz / Seebad", 
+        "timestamp": "2017-08-15T04:49:39.911000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09083", 
+            "09371", 
+            "09114", 
+            "09120", 
+            "09150"
+          ], 
+          "number": "3322", 
+          "uid": "40201"
+        }, 
+        "free_bikes": 6, 
+        "id": "2a9048a947f10d65b67fd92d4cab6dae", 
+        "latitude": 47.8214539625, 
+        "longitude": 16.912078857422, 
+        "name": "Frauenkirchen/Therme St. Martin", 
+        "timestamp": "2017-08-15T04:49:39.912000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09302", 
+            "09477", 
+            "09129", 
+            "09128", 
+            "09207"
+          ], 
+          "number": "3324", 
+          "uid": "42371"
+        }, 
+        "free_bikes": 5, 
+        "id": "220403ccd4a01872dc9ba934d16f7bcb", 
+        "latitude": 47.84038210628, 
+        "longitude": 16.916520595551, 
+        "name": "Frauenkirchen / Bahnhof", 
+        "timestamp": "2017-08-15T04:49:39.915000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09060", 
+            "09365", 
+            "09200", 
+            "09123", 
+            "09140"
+          ], 
+          "number": "3330", 
+          "uid": "65311"
+        }, 
+        "free_bikes": 6, 
+        "id": "ac8bce4ccd3d600e639bf8a7b20cc569", 
+        "latitude": 47.925753714073, 
+        "longitude": 16.863949298859, 
+        "name": "Weiden / Bhf", 
+        "timestamp": "2017-08-15T04:49:39.918000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09091", 
+            "09357", 
+            "09153", 
+            "09175", 
+            "09174"
+          ], 
+          "number": "3334", 
+          "uid": "65314"
+        }, 
+        "free_bikes": 7, 
+        "id": "58f267d6e9866428e06b02cc67fd06c5", 
+        "latitude": 47.771010056114, 
+        "longitude": 16.801604032517, 
+        "name": "Illmitz / Nationalparkzentrum", 
+        "timestamp": "2017-08-15T04:49:39.921000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09305", 
+            "09148", 
+            "09166", 
+            "09147", 
+            "09143"
+          ], 
+          "number": "3338", 
+          "uid": "65574"
+        }, 
+        "free_bikes": 5, 
+        "id": "5b681b94c194c0ddcd352946b52a90f4", 
+        "latitude": 47.801164088204, 
+        "longitude": 16.676001548767, 
+        "name": "Rust / ELFENHOF-SCHENKE", 
+        "timestamp": "2017-08-15T04:49:39.925000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09055", 
+            "09065", 
+            "09089", 
+            "09320", 
+            "09384"
+          ], 
+          "number": "3339", 
+          "uid": "65720"
+        }, 
+        "free_bikes": 7, 
+        "id": "259da0a87aeec2f2f85f0673a7f2b65f", 
+        "latitude": 47.788904183669, 
+        "longitude": 16.912035942078, 
+        "name": "St. Andr\u00e4 / Zicksee", 
+        "timestamp": "2017-08-15T04:49:39.926000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09116", 
+            "09168", 
+            "09156", 
+            "09169", 
+            "09192"
+          ], 
+          "number": "3340", 
+          "uid": "130128"
+        }, 
+        "free_bikes": 6, 
+        "id": "be4de6e379e726f9ccab9e5f8bd941f5", 
+        "latitude": 47.920009129701, 
+        "longitude": 16.854271888733, 
+        "name": "Weiden am See / Hoteldorf Seepark Weiden", 
+        "timestamp": "2017-08-15T04:49:39.926000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "3342", 
+          "uid": "274127"
+        }, 
+        "free_bikes": 0, 
+        "id": "50dbc3af1fd3ce34626b6c8fe7f2d5da", 
+        "latitude": 47.829860120515, 
+        "longitude": 16.532170772552, 
+        "name": "Technologiezentrum Eisenstadt", 
+        "timestamp": "2017-08-15T04:49:39.928000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "number": "3333", 
+          "uid": "65315"
+        }, 
+        "free_bikes": 0, 
+        "id": "66a2d24a463497da079ab2bc61db17bb", 
+        "latitude": 47.991781356193, 
+        "longitude": 16.8512570858, 
+        "name": "Parndorf / Bhf", 
+        "timestamp": "2017-08-15T04:49:39.922000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09075", 
+            "09151", 
+            "09181", 
+            "09122"
+          ], 
+          "number": "3341", 
+          "uid": "201892"
+        }, 
+        "free_bikes": 4, 
+        "id": "c0be0363bfed8ae300a4975bbd2fc22b", 
+        "latitude": 47.975817444937, 
+        "longitude": 16.852072477341, 
+        "name": "Parndorf / Designer Outlet ", 
+        "timestamp": "2017-08-15T04:49:39.927000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09135", 
+            "09117", 
+            "09113", 
+            "09124", 
+            "09202"
+          ], 
+          "number": "3313", 
+          "uid": "522"
+        }, 
+        "free_bikes": 5, 
+        "id": "edd432ee71ce8e512eb1943c2f790d0d", 
+        "latitude": 47.942250568256, 
+        "longitude": 16.846504211426, 
+        "name": "Neusiedl / Bahnhof Bad", 
+        "timestamp": "2017-08-15T04:49:39.898000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09396", 
+            "09167", 
+            "09109", 
+            "09134", 
+            "09104"
+          ], 
+          "number": "3315", 
+          "uid": "744"
+        }, 
+        "free_bikes": 5, 
+        "id": "6eabb8a4603d25e44099921071e8298d", 
+        "latitude": 47.945707411758, 
+        "longitude": 16.847931146622, 
+        "name": "Neusiedl / Post", 
+        "timestamp": "2017-08-15T04:49:39.903000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09173", 
+            "09160", 
+            "09106", 
+            "09210", 
+            "09218"
+          ], 
+          "number": "3310", 
+          "uid": "568"
+        }, 
+        "free_bikes": 5, 
+        "id": "3fe2dee7c24c91cbc2aa1b7bb185da51", 
+        "latitude": 47.941337808005, 
+        "longitude": 16.746264696121, 
+        "name": "Breitenbrunn / Bhf", 
+        "timestamp": "2017-08-15T04:49:39.900000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09331", 
+            "09195", 
+            "09146", 
+            "09778", 
+            "09215"
+          ], 
+          "number": "3325", 
+          "uid": "40236"
+        }, 
+        "free_bikes": 5, 
+        "id": "9cbd7144d84905db9e3f20e75b8407f2", 
+        "latitude": 47.897010025967, 
+        "longitude": 16.906757354736, 
+        "name": "Gols / Weinkulturhaus", 
+        "timestamp": "2017-08-15T04:49:39.913000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09062", 
+            "09161", 
+            "09133", 
+            "09126"
+          ], 
+          "number": "3329", 
+          "uid": "51098"
+        }, 
+        "free_bikes": 4, 
+        "id": "42ce8e6f276a2f8d91d552afbf4ad28f", 
+        "latitude": 47.941531860746, 
+        "longitude": 16.797752380371, 
+        "name": "Jois / Hafen / Seejungfrau", 
+        "timestamp": "2017-08-15T04:49:39.917000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09049", 
+            "09094", 
+            "09333", 
+            "09186"
+          ], 
+          "number": "3309", 
+          "uid": "11321"
+        }, 
+        "free_bikes": 4, 
+        "id": "b43de98ac849fc981d061fee40ee7b77", 
+        "latitude": 47.908661881171, 
+        "longitude": 16.70539855957, 
+        "name": "Purbach / Bad im Erholungsgebiet", 
+        "timestamp": "2017-08-15T04:49:39.908000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09373", 
+            "09369", 
+            "09158", 
+            "09110"
+          ], 
+          "number": "3301", 
+          "uid": "3401"
+        }, 
+        "free_bikes": 4, 
+        "id": "d1fc9710fd4cf9c685d9d5189c932d49", 
+        "latitude": 47.839417139648, 
+        "longitude": 16.529295444489, 
+        "name": "Eisenstadt / Bahnhof", 
+        "timestamp": "2017-08-15T04:49:39.906000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09073", 
+            "09137", 
+            "09131", 
+            "09132", 
+            "09214"
+          ], 
+          "number": "3312", 
+          "uid": "11322"
+        }, 
+        "free_bikes": 5, 
+        "id": "8051c5d0d7fcd9226461b75deccaaa2c", 
+        "latitude": 47.945635546263, 
+        "longitude": 16.732928752899, 
+        "name": "Breitenbrunn / Hauptplatz ", 
+        "timestamp": "2017-08-15T04:49:39.909000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09046", 
+            "09372", 
+            "09107", 
+            "09111", 
+            "09121"
+          ], 
+          "number": "3332", 
+          "uid": "65313"
+        }, 
+        "free_bikes": 6, 
+        "id": "e6942048534e18047eddbaa3433fa2ad", 
+        "latitude": 47.704065212489, 
+        "longitude": 16.90345287323, 
+        "name": "Pamhagen / Bhf", 
+        "timestamp": "2017-08-15T04:49:39.920000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09061", 
+            "09314", 
+            "09303", 
+            "09145"
+          ], 
+          "number": "3323", 
+          "uid": "42370"
+        }, 
+        "free_bikes": 4, 
+        "id": "6e14f14b2bc8cf3bf9a85a68a5a54ee5", 
+        "latitude": 47.835629112046, 
+        "longitude": 16.9282579422, 
+        "name": "Frauenkirchen / Basilika", 
+        "timestamp": "2017-08-15T04:49:39.914000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09053", 
+            "09155", 
+            "09205"
+          ], 
+          "number": "3327", 
+          "uid": "44608"
+        }, 
+        "free_bikes": 3, 
+        "id": "eddf2b267c65ffed41c45e38b7c2adf1", 
+        "latitude": 47.845523491553, 
+        "longitude": 16.532514095306, 
+        "name": "Eisenstadt / Krautgartenweg", 
+        "timestamp": "2017-08-15T04:49:39.916000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09063", 
+            "09362", 
+            "09355", 
+            "09198"
+          ], 
+          "number": "3331", 
+          "uid": "65312"
+        }, 
+        "free_bikes": 4, 
+        "id": "ad8e494f82ff5c8811b6e42dec885a9d", 
+        "latitude": 47.733406566937, 
+        "longitude": 16.930425167084, 
+        "name": "Wallern / Bhf", 
+        "timestamp": "2017-08-15T04:49:39.919000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09386", 
+            "09385", 
+            "09144", 
+            "09209"
+          ], 
+          "number": "3336", 
+          "uid": "65391"
+        }, 
+        "free_bikes": 4, 
+        "id": "b06cefe3f0e181ffc8cd0823a7bd3291", 
+        "latitude": 47.774305287581, 
+        "longitude": 17.013123035431, 
+        "name": "Andau / Badesee", 
+        "timestamp": "2017-08-15T04:49:39.923000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09519", 
+            "09338", 
+            "09118", 
+            "09157"
+          ], 
+          "number": "3328", 
+          "uid": "51097"
+        }, 
+        "free_bikes": 4, 
+        "id": "176a290dbc223a17cc8088514a429e02", 
+        "latitude": 47.956708840389, 
+        "longitude": 16.790950298309, 
+        "name": "Jois / Bahnhof", 
+        "timestamp": "2017-08-15T04:49:39.917000Z"
+      }, 
+      {
+        "empty_slots": null, 
+        "extra": {
+          "bike_uids": [
+            "09344", 
+            "09119", 
+            "09219"
+          ], 
+          "number": "3335", 
+          "uid": "65390"
+        }, 
+        "free_bikes": 3, 
+        "id": "31a9927a43db9b175429d4335e55ff06", 
+        "latitude": 47.765060805375, 
+        "longitude": 16.984519958496, 
+        "name": "Tadten / Gemeindeamt", 
+        "timestamp": "2017-08-15T04:49:39.922000Z"
+      }
+    ]
+  }
+}

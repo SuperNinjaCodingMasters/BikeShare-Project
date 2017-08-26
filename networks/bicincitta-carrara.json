@@ -1,0 +1,57 @@
+{
+  "network": {
+    "company": [
+      "Comunicare S.r.l."
+    ], 
+    "href": "/v2/networks/bicincitta-carrara", 
+    "id": "bicincitta-carrara", 
+    "location": {
+      "city": "Carrara", 
+      "country": "IT", 
+      "latitude": 44.07731805550891, 
+      "longitude": 10.097172450401331
+    }, 
+    "name": "Bicincitt\u00e0", 
+    "stations": [
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "description": "Via Colombo", 
+          "status": "online"
+        }, 
+        "free_bikes": 7, 
+        "id": "7a1bfcaeb678fb2217bc83020e8568b6", 
+        "latitude": 44.03824708656846, 
+        "longitude": 10.037427255966577, 
+        "name": "Marina", 
+        "timestamp": "2017-08-15T04:50:36.846000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "description": "Piazza 2 Giugno", 
+          "status": "online"
+        }, 
+        "free_bikes": 8, 
+        "id": "25f762089c1f79db96de7ce20005e33f", 
+        "latitude": 44.077325763122865, 
+        "longitude": 10.096992742397333, 
+        "name": "2 Giugno", 
+        "timestamp": "2017-08-15T04:50:36.825000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "description": "Via Giovan Pietro", 
+          "status": "online"
+        }, 
+        "free_bikes": 5, 
+        "id": "70fa85f610a7223990da8c54e6544ff5", 
+        "latitude": 44.048592397095724, 
+        "longitude": 10.05985294358311, 
+        "name": "Avenza", 
+        "timestamp": "2017-08-15T04:50:36.844000Z"
+      }
+    ]
+  }
+}

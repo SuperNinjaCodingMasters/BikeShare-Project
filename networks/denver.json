@@ -1,0 +1,1427 @@
+{
+  "network": {
+    "company": [
+      "BCycle, LLC"
+    ], 
+    "gbfs_href": "https://gbfs.bcycle.com/bcycle_denver/gbfs.json", 
+    "href": "/v2/networks/denver", 
+    "id": "denver", 
+    "location": {
+      "city": "Denver, CO", 
+      "country": "US", 
+      "latitude": 39.72055, 
+      "longitude": -104.95253
+    }, 
+    "name": "Denver B-cycle", 
+    "stations": [
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "1651 Wynkoop St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3432"
+        }, 
+        "free_bikes": 5, 
+        "id": "11f8516e7762526487e47c093190ec94", 
+        "latitude": 39.75274, 
+        "longitude": -104.9995, 
+        "name": "16th & Wynkoop", 
+        "timestamp": "2017-08-15T04:48:38.474000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "923 W. 9th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2068"
+        }, 
+        "free_bikes": 9, 
+        "id": "441ef3267af6045c3657ca15284b9bee", 
+        "latitude": 39.73058, 
+        "longitude": -104.9991, 
+        "name": "9th & Santa Fe", 
+        "timestamp": "2017-08-15T04:48:38.543000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "2300 Steele Street", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2218"
+        }, 
+        "free_bikes": 6, 
+        "id": "1a589172524ee0839b47843f3e083294", 
+        "latitude": 39.75054, 
+        "longitude": -104.94933, 
+        "name": "Denver Zoo", 
+        "timestamp": "2017-08-15T04:48:38.526000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2301 Clay St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2350"
+        }, 
+        "free_bikes": 7, 
+        "id": "795f84c17895958a05b4f830dd311a5e", 
+        "latitude": 39.75137, 
+        "longitude": -105.0206, 
+        "name": "23rd & Clay", 
+        "timestamp": "2017-08-15T04:48:38.468000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "299 Milwaukee St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1646"
+        }, 
+        "free_bikes": 4, 
+        "id": "ca733d6fd910462facbaa188753a9587", 
+        "latitude": 39.72055, 
+        "longitude": -104.95253, 
+        "name": "3rd & Milwaukee", 
+        "timestamp": "2017-08-15T04:48:38.539000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "920 Downing St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1647"
+        }, 
+        "free_bikes": 7, 
+        "id": "b079548ab7a79da508ae3c6caad97c2c", 
+        "latitude": 39.73078, 
+        "longitude": -104.97279, 
+        "name": "9th & Downing", 
+        "timestamp": "2017-08-15T04:48:38.533000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1291 Pearl Street", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1651"
+        }, 
+        "free_bikes": 8, 
+        "id": "f0d778fc8cde57b86c7c438c99d9dd27", 
+        "latitude": 39.73683, 
+        "longitude": -104.98, 
+        "name": "13th & Pearl", 
+        "timestamp": "2017-08-15T04:48:38.511000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "1085 Broadway St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1648"
+        }, 
+        "free_bikes": 9, 
+        "id": "ffdb84a5488db4f753f43e31d5ed618a", 
+        "latitude": 39.73395, 
+        "longitude": -104.98772, 
+        "name": "11th & Broadway", 
+        "timestamp": "2017-08-15T04:48:38.541000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "1601 Platte St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1661"
+        }, 
+        "free_bikes": 2, 
+        "id": "13e3d4979fbca2668610cd4646cbba58", 
+        "latitude": 39.75723, 
+        "longitude": -105.00781, 
+        "name": "16th & Platte", 
+        "timestamp": "2017-08-15T04:48:38.582000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "950 17th St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1662"
+        }, 
+        "free_bikes": 6, 
+        "id": "2a481c8327e3ca4ec0db3711cfae68ce", 
+        "latitude": 39.74767, 
+        "longitude": -104.99339, 
+        "name": "17th & Curtis", 
+        "timestamp": "2017-08-15T04:48:38.518000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "1260 17th St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1663"
+        }, 
+        "free_bikes": 1, 
+        "id": "cf0dc3fe722287ab7a6fb7bdcb621da9", 
+        "latitude": 39.74984, 
+        "longitude": -104.99604, 
+        "name": "17th & Larimer", 
+        "timestamp": "2017-08-15T04:48:38.464000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1899 Market St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1666"
+        }, 
+        "free_bikes": 3, 
+        "id": "28993aa8acdfabd53748c05b0f2a89fc", 
+        "latitude": 39.75262, 
+        "longitude": -104.99485, 
+        "name": "19th & Market", 
+        "timestamp": "2017-08-15T04:48:38.585000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1416 Platte St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1689"
+        }, 
+        "free_bikes": 15, 
+        "id": "da6259b3eb1e4fc4623b5b6cac0717cb", 
+        "latitude": 39.75518, 
+        "longitude": -105.00865, 
+        "name": "REI", 
+        "timestamp": "2017-08-15T04:48:38.461000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "201 W. Colfax", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1691"
+        }, 
+        "free_bikes": 1, 
+        "id": "70e9282e57005b3216647de0988d3aef", 
+        "latitude": 39.74044, 
+        "longitude": -104.99019, 
+        "name": "Webb Building", 
+        "timestamp": "2017-08-15T04:48:38.464000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "700 14th St. ", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1747"
+        }, 
+        "free_bikes": 9, 
+        "id": "cd2f5b0789a0db04c89d5144721a9f51", 
+        "latitude": 39.74267, 
+        "longitude": -104.99391, 
+        "name": "14th & Welton", 
+        "timestamp": "2017-08-15T04:48:38.457000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "721 Grant St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1766"
+        }, 
+        "free_bikes": 10, 
+        "id": "c59b0fefd612d02a49231d4735be5d59", 
+        "latitude": 39.72778, 
+        "longitude": -104.98373, 
+        "name": "7th & Grant", 
+        "timestamp": "2017-08-15T04:48:38.540000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "318 Walnut St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1798"
+        }, 
+        "free_bikes": 6, 
+        "id": "470a60df29a41955e266b15fb0c93bf2", 
+        "latitude": 39.74283, 
+        "longitude": -105.01235, 
+        "name": "4th & Walnut", 
+        "timestamp": "2017-08-15T04:48:38.553000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2045 Franklin St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1800"
+        }, 
+        "free_bikes": 6, 
+        "id": "a3757c4e428080e9eee99910aab5dad4", 
+        "latitude": 39.74729, 
+        "longitude": -104.96851, 
+        "name": "2045 Franklin", 
+        "timestamp": "2017-08-15T04:48:38.563000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "1509 17th St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2066"
+        }, 
+        "free_bikes": 3, 
+        "id": "c8844bb948ecbff82fe2ee53bb428b54", 
+        "latitude": 39.75176, 
+        "longitude": -104.99814, 
+        "name": "17th & Blake", 
+        "timestamp": "2017-08-15T04:48:38.551000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "850 14th St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2298"
+        }, 
+        "free_bikes": 9, 
+        "id": "f4adb9ca9eb79d3c90bf5a1ef5b7d884", 
+        "latitude": 39.74408, 
+        "longitude": -104.99567, 
+        "name": "14th & Stout", 
+        "timestamp": "2017-08-15T04:48:38.488000Z"
+      }, 
+      {
+        "empty_slots": 16, 
+        "extra": {
+          "address": "99 Broadway St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2299"
+        }, 
+        "free_bikes": 6, 
+        "id": "4f0afca1a8e7e71b378abc107a5c8040", 
+        "latitude": 39.71825, 
+        "longitude": -104.98774, 
+        "name": "1st & Broadway", 
+        "timestamp": "2017-08-15T04:48:38.530000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "745 E. 6th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2301"
+        }, 
+        "free_bikes": 10, 
+        "id": "87ee155cdd9b93a9904ddd19848335d9", 
+        "latitude": 39.72569, 
+        "longitude": -104.97789, 
+        "name": "6th & Clarkson", 
+        "timestamp": "2017-08-15T04:48:38.565000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1505 Curtis St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2303"
+        }, 
+        "free_bikes": 8, 
+        "id": "4414beacc972dc4a7892b347538c2e69", 
+        "latitude": 39.74641, 
+        "longitude": -104.99592, 
+        "name": "15th & Curtis", 
+        "timestamp": "2017-08-15T04:48:38.569000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "3199 Clay St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2305"
+        }, 
+        "free_bikes": 10, 
+        "id": "e994241845eaadf58a575b19947e2aaf", 
+        "latitude": 39.76192, 
+        "longitude": -105.02062, 
+        "name": "32nd & Clay", 
+        "timestamp": "2017-08-15T04:48:38.571000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1490 Gaylord St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2307"
+        }, 
+        "free_bikes": 2, 
+        "id": "3fa69b625373933030db048094ceced9", 
+        "latitude": 39.73983, 
+        "longitude": -104.96096, 
+        "name": "Colfax & Gaylord", 
+        "timestamp": "2017-08-15T04:48:38.574000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1509 Steele St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2308"
+        }, 
+        "free_bikes": 13, 
+        "id": "5188ea422c77803e240a47fd55cd45b3", 
+        "latitude": 39.74055, 
+        "longitude": -104.95019, 
+        "name": "Colfax & Steele", 
+        "timestamp": "2017-08-15T04:48:38.582000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1551 Lafayette St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2309"
+        }, 
+        "free_bikes": 10, 
+        "id": "3fa452195deff85ea12caa3bb790feab", 
+        "latitude": 39.74078, 
+        "longitude": -104.97101, 
+        "name": "1551 Lafayette", 
+        "timestamp": "2017-08-15T04:48:38.578000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1100 East 17th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2310"
+        }, 
+        "free_bikes": 7, 
+        "id": "f88cfa2a10492db6e0beede8f61b7c80", 
+        "latitude": 39.74307, 
+        "longitude": -104.97333, 
+        "name": "17th & Downing", 
+        "timestamp": "2017-08-15T04:48:38.550000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1279 Marion St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2344"
+        }, 
+        "free_bikes": 8, 
+        "id": "15e4086aa80185c06f5402dc58511117", 
+        "latitude": 39.73662, 
+        "longitude": -104.97191, 
+        "name": "13th & Marion", 
+        "timestamp": "2017-08-15T04:48:38.482000Z"
+      }, 
+      {
+        "empty_slots": 1, 
+        "extra": {
+          "address": "1301 Speer Blvd", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2345"
+        }, 
+        "free_bikes": 16, 
+        "id": "afa7ddf842846473a5cb5b643f205552", 
+        "latitude": 39.73708, 
+        "longitude": -104.99674, 
+        "name": "13th & Speer", 
+        "timestamp": "2017-08-15T04:48:38.478000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "523 East 17th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2346"
+        }, 
+        "free_bikes": 9, 
+        "id": "dc9137fd920214008a553a172878d65f", 
+        "latitude": 39.74336, 
+        "longitude": -104.98007, 
+        "name": "17th & Pearl", 
+        "timestamp": "2017-08-15T04:48:38.483000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2701 17th St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2348"
+        }, 
+        "free_bikes": 9, 
+        "id": "57b2bf310c609ad472b2684557eee61f", 
+        "latitude": 39.76158, 
+        "longitude": -105.01098, 
+        "name": "17th & Tejon", 
+        "timestamp": "2017-08-15T04:48:38.477000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1550 E 17th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2581"
+        }, 
+        "free_bikes": 9, 
+        "id": "d2ae3b2bb7d992cf08d3f089bbb658db", 
+        "latitude": 39.74304, 
+        "longitude": -104.96855, 
+        "name": "17th & Franklin", 
+        "timestamp": "2017-08-15T04:48:38.531000Z"
+      }, 
+      {
+        "empty_slots": 18, 
+        "extra": {
+          "address": "3965 Fox St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3263"
+        }, 
+        "free_bikes": 1, 
+        "id": "35072d245fa2394f538e3343698d862c", 
+        "latitude": 39.7712, 
+        "longitude": -104.99497, 
+        "name": "39th & Fox", 
+        "timestamp": "2017-08-15T04:48:38.456000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "3200 Pecos St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3048"
+        }, 
+        "free_bikes": 9, 
+        "id": "aec1c4021882cff76b7111643a2842c3", 
+        "latitude": 39.76204, 
+        "longitude": -105.0061, 
+        "name": "32nd & Pecos", 
+        "timestamp": "2017-08-15T04:48:38.512000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1350 21st Street", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3434"
+        }, 
+        "free_bikes": 5, 
+        "id": "214c864b847c36f78edca6c2772012e2", 
+        "latitude": 39.75425, 
+        "longitude": -104.99206, 
+        "name": "21st & Market", 
+        "timestamp": "2017-08-15T04:48:38.474000Z"
+      }, 
+      {
+        "empty_slots": 21, 
+        "extra": {
+          "address": "1711 19th St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1668"
+        }, 
+        "free_bikes": 1, 
+        "id": "2a862839de1da67268099c4868d292ea", 
+        "latitude": 39.75489, 
+        "longitude": -104.99694, 
+        "name": "19th & Wynkoop", 
+        "timestamp": "2017-08-15T04:48:38.570000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "652 18th Street", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3666"
+        }, 
+        "free_bikes": 5, 
+        "id": "8e09aa53f5b43265b66a26c3397a4917", 
+        "latitude": 39.74673, 
+        "longitude": -104.98952, 
+        "name": "18th & California Light Rail", 
+        "timestamp": "2017-08-15T04:48:38.558000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1615 Boulder St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1658"
+        }, 
+        "free_bikes": 6, 
+        "id": "32238f43595213266886f0ea65d6e130", 
+        "latitude": 39.75934, 
+        "longitude": -105.01042, 
+        "name": "16th & Boulder", 
+        "timestamp": "2017-08-15T04:48:38.522000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1600 Broadway", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1659"
+        }, 
+        "free_bikes": 2, 
+        "id": "a8d0804bc3ea2bb2ae9a7be6b6bb0140", 
+        "latitude": 39.74184, 
+        "longitude": -104.98686, 
+        "name": "16th & Broadway", 
+        "timestamp": "2017-08-15T04:48:38.523000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "600 E. 19th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1667"
+        }, 
+        "free_bikes": 11, 
+        "id": "1db7cc40a672dc8d4399e610f5a4f820", 
+        "latitude": 39.7461, 
+        "longitude": -104.97954, 
+        "name": "19th & Pearl", 
+        "timestamp": "2017-08-15T04:48:38.584000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2200 Market St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1669"
+        }, 
+        "free_bikes": 8, 
+        "id": "a8399eb20fca4977b0c3e678d0f2b268", 
+        "latitude": 39.75559, 
+        "longitude": -104.99078, 
+        "name": "22nd & Market", 
+        "timestamp": "2017-08-15T04:48:38.490000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1000 Chopper Circle", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1688"
+        }, 
+        "free_bikes": 10, 
+        "id": "d7df3796d4622996f4db0cc97276172f", 
+        "latitude": 39.74769, 
+        "longitude": -105.00843, 
+        "name": "Pepsi Center", 
+        "timestamp": "2017-08-15T04:48:38.475000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "1550 Glenarm", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1692"
+        }, 
+        "free_bikes": 2, 
+        "id": "d4936dcca7fbb90f8a956506b5a05188", 
+        "latitude": 39.74329, 
+        "longitude": -104.99107, 
+        "name": "1550 Glenarm", 
+        "timestamp": "2017-08-15T04:48:38.463000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "615 27th St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1749"
+        }, 
+        "free_bikes": 7, 
+        "id": "6228681f56bd6fec73e7e65b664cc03b", 
+        "latitude": 39.75514, 
+        "longitude": -104.97829, 
+        "name": "Five Points", 
+        "timestamp": "2017-08-15T04:48:38.458000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "1051 York St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1754"
+        }, 
+        "free_bikes": 4, 
+        "id": "87757fe06234b49221ddc7af1459a383", 
+        "latitude": 39.73258, 
+        "longitude": -104.95989, 
+        "name": "Denver Botanic Gardens", 
+        "timestamp": "2017-08-15T04:48:38.458000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "1200 Sherman St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1789"
+        }, 
+        "free_bikes": 9, 
+        "id": "e573b196c248b3d64fb6cc74b2622066", 
+        "latitude": 39.7358, 
+        "longitude": -104.98469, 
+        "name": "12th & Sherman", 
+        "timestamp": "2017-08-15T04:48:38.525000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "1450 Wazee St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1799"
+        }, 
+        "free_bikes": 0, 
+        "id": "418787f51a09d7bfcb4a69ec0f9b1f84", 
+        "latitude": 39.74997, 
+        "longitude": -105.00165, 
+        "name": "1450 Wazee", 
+        "timestamp": "2017-08-15T04:48:38.552000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "1612 Sherman St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1811"
+        }, 
+        "free_bikes": 2, 
+        "id": "6287a8f59d1064543116afc2038da8cb", 
+        "latitude": 39.74191, 
+        "longitude": -104.98495, 
+        "name": "16th & Sherman", 
+        "timestamp": "2017-08-15T04:48:38.466000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1404 Elati St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1829"
+        }, 
+        "free_bikes": 3, 
+        "id": "ea8e5ce952c6a975f9a267e395274c2d", 
+        "latitude": 39.73862, 
+        "longitude": -104.99395, 
+        "name": "14th & Elati", 
+        "timestamp": "2017-08-15T04:48:38.524000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "900 E. 11th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1927"
+        }, 
+        "free_bikes": 5, 
+        "id": "55e31e1eaf2ea24d230f12c550a22610", 
+        "latitude": 39.73361, 
+        "longitude": -104.97629, 
+        "name": "11th & Emerson", 
+        "timestamp": "2017-08-15T04:48:38.472000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "1005 Osage St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1937"
+        }, 
+        "free_bikes": 8, 
+        "id": "2ab368271c075fbe22461a17454ed177", 
+        "latitude": 39.73231, 
+        "longitude": -105.00535, 
+        "name": "10th & Osage", 
+        "timestamp": "2017-08-15T04:48:38.492000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "525 E. 20th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2011"
+        }, 
+        "free_bikes": 11, 
+        "id": "4429aa85f294db3c2133b55d8e026fcf", 
+        "latitude": 39.74763, 
+        "longitude": -104.98107, 
+        "name": "22nd & Pennsylvania", 
+        "timestamp": "2017-08-15T04:48:38.504000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "899 Curtis St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2216"
+        }, 
+        "free_bikes": 7, 
+        "id": "61b81d604dec8111612f851e8627bf73", 
+        "latitude": 39.74233, 
+        "longitude": -105.00453, 
+        "name": "9th & Curtis", 
+        "timestamp": "2017-08-15T04:48:38.529000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1425 Ogden St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2302"
+        }, 
+        "free_bikes": 8, 
+        "id": "9674cd3ce60c5dc07717e7dfaf2ac9a1", 
+        "latitude": 39.73849, 
+        "longitude": -104.97514, 
+        "name": "14th & Ogden", 
+        "timestamp": "2017-08-15T04:48:38.491000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "3199 Julian St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2306"
+        }, 
+        "free_bikes": 6, 
+        "id": "87d73ddadd6d5ead45a870b091f8301c", 
+        "latitude": 39.76201, 
+        "longitude": -105.03236, 
+        "name": "32nd & Julian", 
+        "timestamp": "2017-08-15T04:48:38.577000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "2001 East 17th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2347"
+        }, 
+        "free_bikes": 11, 
+        "id": "f0f7d022ebff341217a650991a792323", 
+        "latitude": 39.74339, 
+        "longitude": -104.9634, 
+        "name": "17th & Race", 
+        "timestamp": "2017-08-15T04:48:38.483000Z"
+      }, 
+      {
+        "empty_slots": 13, 
+        "extra": {
+          "address": "1099 18th St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2349"
+        }, 
+        "free_bikes": 5, 
+        "id": "70f35d8a3db08cebc4fbfb9bcf0a594d", 
+        "latitude": 39.74977, 
+        "longitude": -104.9931, 
+        "name": "18th & Arapahoe", 
+        "timestamp": "2017-08-15T04:48:38.476000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "899 Logan St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2351"
+        }, 
+        "free_bikes": 8, 
+        "id": "3c1ef15b5dd4663f59321d9729c13f5d", 
+        "latitude": 39.73027, 
+        "longitude": -104.98248, 
+        "name": "9th & Logan", 
+        "timestamp": "2017-08-15T04:48:38.470000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2417 W 29th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2753"
+        }, 
+        "free_bikes": 11, 
+        "id": "8a3a8ced5facd78b111d988027b7f7b3", 
+        "latitude": 39.7585, 
+        "longitude": -105.01662, 
+        "name": "29th & Zuni", 
+        "timestamp": "2017-08-15T04:48:38.489000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "990 E. 11th Ave. ", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3384"
+        }, 
+        "free_bikes": 7, 
+        "id": "8218e5e1b21c8ae642e99c32ce2ce708", 
+        "latitude": 39.73361, 
+        "longitude": -104.97554, 
+        "name": "11th & Ogden", 
+        "timestamp": "2017-08-15T04:48:38.564000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "1700 Wewatta St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3395"
+        }, 
+        "free_bikes": 27, 
+        "id": "61095b6d414001418d873aab20372c78", 
+        "latitude": 39.75387, 
+        "longitude": -105.00105, 
+        "name": "17th & Wewatta", 
+        "timestamp": "2017-08-15T04:48:38.450000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "3000 Lawrence St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3396"
+        }, 
+        "free_bikes": 5, 
+        "id": "6d5ceddd2172c68fc79d8a45f7034361", 
+        "latitude": 39.76185, 
+        "longitude": -104.97928, 
+        "name": "30th & Lawrence", 
+        "timestamp": "2017-08-15T04:48:38.454000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "2091 Lawrence St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3399"
+        }, 
+        "free_bikes": 11, 
+        "id": "1cbe849405d07a2f5d35c4ffde6597c7", 
+        "latitude": 39.75324, 
+        "longitude": -104.99073, 
+        "name": "21st & Lawrence", 
+        "timestamp": "2017-08-15T04:48:38.455000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1515 Delgany St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1753"
+        }, 
+        "free_bikes": 6, 
+        "id": "fb6c7fd78308e16f5512a12a80668632", 
+        "latitude": 39.75268, 
+        "longitude": -105.00349, 
+        "name": "15th & Delgany", 
+        "timestamp": "2017-08-15T04:48:38.459000Z"
+      }, 
+      {
+        "empty_slots": 11, 
+        "extra": {
+          "address": "2051 16th St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3397"
+        }, 
+        "free_bikes": 7, 
+        "id": "9f6f6a4510efe5d4ea0c8fd550271c03", 
+        "latitude": 39.75436, 
+        "longitude": -105.00373, 
+        "name": "16th & Chestnut", 
+        "timestamp": "2017-08-15T04:48:38.453000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "2751 Larimer St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1671"
+        }, 
+        "free_bikes": 4, 
+        "id": "21cfe3ac2a33e1e6420bce6481803d88", 
+        "latitude": 39.76042, 
+        "longitude": -104.98308, 
+        "name": "28th & Larimer", 
+        "timestamp": "2017-08-15T04:48:38.557000Z"
+      }, 
+      {
+        "empty_slots": 14, 
+        "extra": {
+          "address": "1350 Larimer St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1760"
+        }, 
+        "free_bikes": 1, 
+        "id": "377ad072ed86cdbeedb2c650e65176ee", 
+        "latitude": 39.74684, 
+        "longitude": -105.00029, 
+        "name": "1350 Larimer", 
+        "timestamp": "2017-08-15T04:48:38.542000Z"
+      }, 
+      {
+        "empty_slots": 0, 
+        "extra": {
+          "address": "1095 Delaware St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2690"
+        }, 
+        "free_bikes": 13, 
+        "id": "ae1df53095dcc01195bfb658827570a5", 
+        "latitude": 39.73372, 
+        "longitude": -104.99302, 
+        "name": "11th & Delaware", 
+        "timestamp": "2017-08-15T04:48:38.467000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "1450 Pearl St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3732"
+        }, 
+        "free_bikes": 7, 
+        "id": "a25fcda25819eea3c1e038dfcbc2f3ae", 
+        "latitude": 39.73928, 
+        "longitude": -104.97985, 
+        "name": "Colfax & Pearl", 
+        "timestamp": "2017-08-15T04:48:38.471000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "101 West Colfax Avenue", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1654"
+        }, 
+        "free_bikes": 4, 
+        "id": "a15eabfcba1accb571ee31f3f89feca8", 
+        "latitude": 39.74064, 
+        "longitude": -104.98863, 
+        "name": "15th & Cleveland", 
+        "timestamp": "2017-08-15T04:48:38.513000Z"
+      }, 
+      {
+        "empty_slots": 5, 
+        "extra": {
+          "address": "1600 Little Raven St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1660"
+        }, 
+        "free_bikes": 8, 
+        "id": "ca3dd28dfcceb4abd100c1d366c019ce", 
+        "latitude": 39.75524, 
+        "longitude": -105.00488, 
+        "name": "16th & Little Raven", 
+        "timestamp": "2017-08-15T04:48:38.583000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2490 N. Broadway St", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1674"
+        }, 
+        "free_bikes": 10, 
+        "id": "24616ae42e044ea1a272caa01575e8d5", 
+        "latitude": 39.75822, 
+        "longitude": -104.98736, 
+        "name": "Broadway & Walnut", 
+        "timestamp": "2017-08-15T04:48:38.553000Z"
+      }, 
+      {
+        "empty_slots": 7, 
+        "extra": {
+          "address": "2900 Cherry Creek N Drive", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1676"
+        }, 
+        "free_bikes": 8, 
+        "id": "0d296cd69a712aa50f31126ec7eed832", 
+        "latitude": 39.71504, 
+        "longitude": -104.95218, 
+        "name": "Cherry Creek Mall", 
+        "timestamp": "2017-08-15T04:48:38.557000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "790 Delaware Street", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1678"
+        }, 
+        "free_bikes": 5, 
+        "id": "827020e167895da6f85732338fc560bb", 
+        "latitude": 39.72766, 
+        "longitude": -104.99212, 
+        "name": "Denver Health", 
+        "timestamp": "2017-08-15T04:48:38.562000Z"
+      }, 
+      {
+        "empty_slots": 4, 
+        "extra": {
+          "address": "30 S. Madison St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1682"
+        }, 
+        "free_bikes": 7, 
+        "id": "6e4a4f7905e67f16b4a4da706aa26679", 
+        "latitude": 39.71591, 
+        "longitude": -104.94633, 
+        "name": "Ellsworth & Madison", 
+        "timestamp": "2017-08-15T04:48:38.473000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "370 Park Avenue West", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1750"
+        }, 
+        "free_bikes": 6, 
+        "id": "4cf4fb75a8b7a3aed16a3b22dd68db45", 
+        "latitude": 39.74956, 
+        "longitude": -104.98073, 
+        "name": "Park Ave West & Tremont ", 
+        "timestamp": "2017-08-15T04:48:38.460000Z"
+      }, 
+      {
+        "empty_slots": 15, 
+        "extra": {
+          "address": "10 W 14th Avenue Pkwy", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1758"
+        }, 
+        "free_bikes": 4, 
+        "id": "048d083cc87751393d4f05cef5b06ae0", 
+        "latitude": 39.73713, 
+        "longitude": -104.9887, 
+        "name": "Denver Public Library ", 
+        "timestamp": "2017-08-15T04:48:38.462000Z"
+      }, 
+      {
+        "empty_slots": 10, 
+        "extra": {
+          "address": "1701 California St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_1810"
+        }, 
+        "free_bikes": 1, 
+        "id": "16afa4e8cff691adaebe2480cc6dd4b1", 
+        "latitude": 39.747, 
+        "longitude": -104.99003, 
+        "name": "18th & California Marriott", 
+        "timestamp": "2017-08-15T04:48:38.465000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "1700 E. Louisiana Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2064"
+        }, 
+        "free_bikes": 9, 
+        "id": "7740561ea5866e7380fc92b8c95945dd", 
+        "latitude": 39.69284, 
+        "longitude": -104.96857, 
+        "name": "Louisiana & Franklin", 
+        "timestamp": "2017-08-15T04:48:38.546000Z"
+      }, 
+      {
+        "empty_slots": 17, 
+        "extra": {
+          "address": "2001 Colorado Boulevard", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2217"
+        }, 
+        "free_bikes": 4, 
+        "id": "beeddc3b0a9bc1d95915d7d23d9a2e76", 
+        "latitude": 39.74812, 
+        "longitude": -104.94379, 
+        "name": "Denver Museum of Nature & Science", 
+        "timestamp": "2017-08-15T04:48:38.527000Z"
+      }, 
+      {
+        "empty_slots": 3, 
+        "extra": {
+          "address": "525 E. Bayaud Ave.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2300"
+        }, 
+        "free_bikes": 8, 
+        "id": "2641ea50da9b7f66896bad50cc10eccb", 
+        "latitude": 39.71481, 
+        "longitude": -104.9812, 
+        "name": "Bayaud & Pennsylvania", 
+        "timestamp": "2017-08-15T04:48:38.568000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2095 Chestnut Place", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2304"
+        }, 
+        "free_bikes": 14, 
+        "id": "03c07a4c6e4120e59617cd2d3cb08fb0", 
+        "latitude": 39.75829, 
+        "longitude": -104.99819, 
+        "name": "20th & Chestnut", 
+        "timestamp": "2017-08-15T04:48:38.573000Z"
+      }, 
+      {
+        "empty_slots": 2, 
+        "extra": {
+          "address": "2504 East 12th Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2343"
+        }, 
+        "free_bikes": 11, 
+        "id": "a3f5867e83dc4eb1b506096be9f95ee0", 
+        "latitude": 39.73508, 
+        "longitude": -104.95728, 
+        "name": "12th & Columbine", 
+        "timestamp": "2017-08-15T04:48:38.484000Z"
+      }, 
+      {
+        "empty_slots": 9, 
+        "extra": {
+          "address": "910 East Bayaud Ave", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2352"
+        }, 
+        "free_bikes": 10, 
+        "id": "2e8e139c237892a39ea56d4fe600f061", 
+        "latitude": 39.71467, 
+        "longitude": -104.97678, 
+        "name": "Bayaud & Emerson", 
+        "timestamp": "2017-08-15T04:48:38.468000Z"
+      }, 
+      {
+        "empty_slots": 6, 
+        "extra": {
+          "address": "3310 Arapahoe Street", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2378"
+        }, 
+        "free_bikes": 7, 
+        "id": "2658acc04aef9641433087f3a1647dbe", 
+        "latitude": 39.76354, 
+        "longitude": -104.97473, 
+        "name": "33rd & Arapahoe", 
+        "timestamp": "2017-08-15T04:48:38.544000Z"
+      }, 
+      {
+        "empty_slots": 12, 
+        "extra": {
+          "address": "1535 Garfield St.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_2379"
+        }, 
+        "free_bikes": 5, 
+        "id": "739aedc051e18783057bfb49c13c1c27", 
+        "latitude": 39.74052, 
+        "longitude": -104.94429, 
+        "name": "Colfax & Garfield", 
+        "timestamp": "2017-08-15T04:48:38.545000Z"
+      }, 
+      {
+        "empty_slots": 8, 
+        "extra": {
+          "address": "2810 W Howard Pl.", 
+          "last_updated": 1502772518, 
+          "renting": 1, 
+          "returning": 1, 
+          "uid": "bcycle_denver_3127"
+        }, 
+        "free_bikes": 11, 
+        "id": "018a2a0b80af43bda3affe48fd0911b4", 
+        "latitude": 39.73811, 
+        "longitude": -105.02232, 
+        "name": "Decatur Federal Light Rail", 
+        "timestamp": "2017-08-15T04:48:38.470000Z"
+      }
+    ]
+  }
+}
