@@ -1,40 +1,36 @@
-const Sequelize = require('sequelize');
-
-module.exports = (sequelize, Sequelize) => {
+module.exports = (sequelize, DataTypes) => {
     const Network = sequelize.define('networks', {
+        id: {
+            type: DataTypes.STRING,
+            primaryKey: true
+        },
+        name: {
+            type: DataTypes.STRING,
+            allowNull: false
+        },
         company: {
-            type: Sequelize.STRING,
-            allowNull: false,
-            get: () => {
-                return this.getDataValue('favColors').split(';')
-            },
-            set: (val) => {
-                this.setDataValue('favColors', val.join(';'));
-            }
+            type: DataTypes.STRING,
+            allowNull: false
         },
         href: {
-            type: Sequelize.STRING
-        },
-        id: {
-            type: Sequelize.STRING
+            type: DataTypes.STRING
         },
         city: {
-            type: Sequelize.STRING
+            type: DataTypes.STRING
         },
         country: {
-            type: Sequelize.STRING
+            type: DataTypes.STRING
         },
         latitude: {
-            type: Sequelize.INTEGER,
+            type: DataTypes.FLOAT,
             allowNull: false
         },
         longitude: {
-            type: Sequelize.INTEGER,
-            allowNull: false
-        },
-        name: {
-            type: Sequelize.STRING,
+            type: DataTypes.FLOAT,
             allowNull: false
         }
-    })
-}
+    }, {
+            freezeTableName: true
+    });
+    return Network;
+};
