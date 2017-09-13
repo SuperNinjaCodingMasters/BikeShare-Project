@@ -1,18 +1,13 @@
-const Sequelize = require('sequelize');
-const env = require('./config/env');
+import mongoose from "mongoose";
 
-const sequelize = new Sequelize(env.DATABASE_NAME, env.DATABASE_USERNAME, env.DATABASE_PASSWORD, {
-    host: env.DATABASE_HOST,
-    port: env.DATABASE_PORT,
-    dialect: env.DATABASE_DIALECT,
-    //logging: false
+const env = process.env.NODE_ENV;
+
+const mongoURI = process.env.MONGODB_URI || "mongodb://localhost:27017/bike-networks"
+
+mongoose.Promise = global.Promise;
+
+mongoose.connect(mongoURI, {
+    useMongoClient: true
 });
-const db = {};
 
-db.sequelize = sequelize;
-db.Sequelize = Sequelize;
-
-db.networks = require('./models/network.js')(sequelize, Sequelize);
-db.stations = require('./models/station.js')(sequelize, Sequelize);
-
-module.exports = db;
+export default mongoose;

@@ -1,36 +1,27 @@
-module.exports = (sequelize, DataTypes) => {
-    const Network = sequelize.define('networks', {
-        id: {
-            type: DataTypes.STRING,
-            primaryKey: true
+import mongoose, { Schema } from "mongoose";
+
+const NetworkSchema = new Schema({
+    "company": [String],
+    "href": String,
+    "id": String,
+    "location": {
+        "city": String,
+        "country": String,
+        "latitude": {
+            type: Number,
+            required: [true, "Latitude field is required"]
         },
-        name: {
-            type: DataTypes.STRING,
-            allowNull: false
+        "longitude": {
+            type: Number,
+            required: [true, "Longitude field is required"]
         },
-        company: {
-            type: DataTypes.STRING,
-            allowNull: false
-        },
-        href: {
-            type: DataTypes.STRING
-        },
-        city: {
-            type: DataTypes.STRING
-        },
-        country: {
-            type: DataTypes.STRING
-        },
-        latitude: {
-            type: DataTypes.FLOAT,
-            allowNull: false
-        },
-        longitude: {
-            type: DataTypes.FLOAT,
-            allowNull: false
-        }
-    }, {
-            freezeTableName: true
-    });
-    return Network;
-};
+    },
+    "name": {
+        type: String,
+        required: [true, "Name field is required"]
+    }
+})
+
+const Network = mongoose.model("Network", NetworkSchema);
+
+export default Network;
