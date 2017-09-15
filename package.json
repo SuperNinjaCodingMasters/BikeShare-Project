@@ -23,19 +23,17 @@
     "axios": "^0.16.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
-    "mysql2": "^1.4.2",
+    "mongoose": "^4.11.11",
     "react": "^15.6.1",
     "react-axios": "^1.0.3",
     "react-dom": "^15.6.1",
     "react-google-maps": "^7.2.0",
-    "react-scripts": "1.0.11",
-    "sequelize": "^4.7.5"
+    "react-scripts": "1.0.11"
   },
   "devDependencies": {
     "chai": "^4.1.1",
     "mocha": "^3.5.0",
     "nodemon": "^1.11.0",
-    "sequelize-cli": "^2.8.0",
     "supertest": "^3.0.0"
   }
 }

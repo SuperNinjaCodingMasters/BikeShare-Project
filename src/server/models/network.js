@@ -1,4 +1,5 @@
-import mongoose, { Schema } from "mongoose";
+const mongoose = require("mongoose");
+const { Schema } = require("mongoose");
 
 const NetworkSchema = new Schema({
     "company": [String],
@@ -8,20 +9,20 @@ const NetworkSchema = new Schema({
         "city": String,
         "country": String,
         "latitude": {
-            type: Number,
-            required: [true, "Latitude field is required"]
+            type: Number
+            //required: [true, "Latitude field is required"]
         },
         "longitude": {
-            type: Number,
-            required: [true, "Longitude field is required"]
+            type: Number
+            //required: [true, "Longitude field is required"]
         },
     },
     "name": {
-        type: String,
-        required: [true, "Name field is required"]
+        type: String
+        //required: [true, "Name field is required"]
     }
 })
 
 const Network = mongoose.model("Network", NetworkSchema);
 
-export default Network;
+module.exports = Network;

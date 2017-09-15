@@ -1,4 +1,5 @@
-import mongoose, { Schema } from "mongoose";
+const mongoose = require("mongoose");
+const {Schema} = require("mongoose");
 
 const StationSchema = new Schema({
     name: String,
@@ -13,9 +14,10 @@ const StationSchema = new Schema({
     },
     free_bikes: Number,
     empty_slots: Number,
-    id: String
+    id: String,
+    parent_id: String
 })
 
 const Station = mongoose.model("Station", StationSchema);
 
-export default Station;
+module.exports = Station;
