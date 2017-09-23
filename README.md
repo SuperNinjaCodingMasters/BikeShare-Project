@@ -5,6 +5,8 @@ https://trello.com/b/Nrc2r1DU/bikeshare-project
 Super Ninja Coding Masters
 
 # Members
-* YourMCGeek
 * JaxomofRuatha
 * Freebattie
+
+## Former Members
+* YourMCGeek
